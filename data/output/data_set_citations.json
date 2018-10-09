@@ -1,0 +1,313 @@
+ [
+    {
+        "score": 1.0,
+        "publication_id": 1,
+        "data_set_id": 1,
+        "mention_list": [
+            "SRC data",
+            "Surveys conducted by the Survey Research Center and the Center for Political Studies of the University",
+            "eight SRC-CPS presidential election surveys",
+            "eight SRC-CPS presidential election surveys con- ducted between 1952 and 1980",
+            "eight presidential election surveys conducted by the Survey Research Center and the Center for Political Studies (SRC-CPS)"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 1,
+        "data_set_id": 2,
+        "mention_list": [
+            "American national election studies",
+            "SRC-CPS congressional election surveys conducted be- tween 1958 and 1978",
+            "SRC-CPS presidential election studies",
+            "SRC-CPS presidential election surveys",
+            "SRC-CPS presidential election surveys con- ducted between 1952 and 1980",
+            "SRC-CPS surveys",
+            "Survey Research Center and the Center for Political Studies (SRC-CPS)",
+            "Surveys conducted by the Survey Research Center and the Center for Political Studies of the University",
+            "surveys conducted by the Survey Research Center and the Center for Political Studies"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 1,
+        "data_set_id": 5,
+        "mention_list": []
+    },
+    {
+        "score": 1.0,
+        "publication_id": 1,
+        "data_set_id": 8,
+        "mention_list": []
+    },
+    {
+        "score": 1.0,
+        "publication_id": 2,
+        "data_set_id": 10,
+        "mention_list": [
+            "10.3886",
+            "ANES 1972",
+            "ICPSR",
+            "series",
+            "time"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 3,
+        "data_set_id": 1,
+        "mention_list": [
+            "ANES study",
+            "ICPSR",
+            "time series"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 4,
+        "data_set_id": 40,
+        "mention_list": [
+            "annual",
+            "cps",
+            "population"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 54,
+        "mention_list": [
+            "\\\"Monitoring the Future\\\" project",
+            "\\\"Monitoring the Future\\\" series",
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "Monitoring the Future: Questionnaire Responses",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 55,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 56,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 57,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 58,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 59,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 60,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 61,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 62,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 63,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 64,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 65,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 5,
+        "data_set_id": 66,
+        "mention_list": [
+            "Monitoring the Future",
+            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
+            "The Monitoring the Future Project",
+            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 6,
+        "data_set_id": 41,
+        "mention_list": [
+            "CPS",
+            "Current Population Survey"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 102,
+        "data_set_id": 304,
+        "mention_list": [
+            "Deutsche Bundesbank (Interest Rates Statistics) for data on bank lending",
+            "Interest Rates Statistics",
+            "MIR"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 103,
+        "data_set_id": 305,
+        "mention_list": [
+            "bank supervisory data of the Deutsche Bundesbank",
+            "credit register"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 103,
+        "data_set_id": 306,
+        "mention_list": [
+            "Monthly Balance Sheet Statistic of the Deutsche Bundesbank",
+            "Monthly Balance Sheet Statistics",
+            "https://www.bundesbank.de/Redaktion/EN/Standardartikel/Service/Reporting_systems/monthly_balance_ sheet_statistics.html?https=1"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 103,
+        "data_set_id": 307,
+        "mention_list": [
+            "Monthly Balance Sheet Statistics",
+            "Securities Holdings Statistics",
+            "bank supervisory data of the Deutsche Bundesbank",
+            "bank-level dataset on German banks' state bond holdings"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 103,
+        "data_set_id": 308,
+        "mention_list": [
+            "Securities Holdings Statistics"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 104,
+        "data_set_id": 309,
+        "mention_list": [
+            "information on banks' direct cross-border lending and funding positions by country and by currency"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 104,
+        "data_set_id": 310,
+        "mention_list": [
+            "balance sheet data"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 105,
+        "data_set_id": 311,
+        "mention_list": [
+            "Deutsche Bundesbank's balance of payments statistics"
+        ]
+    },
+    {
+        "score": 1.0,
+        "publication_id": 105,
+        "data_set_id": 312,
+        "mention_list": [
+            "Ustan",
+            "corporate balance sheet data",
+            "corporate balance sheet statistics",
+            "corporate balance sheets"
+        ]
+    }
+]

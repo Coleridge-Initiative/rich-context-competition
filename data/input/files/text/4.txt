@@ -1,0 +1,1746 @@
+ 
+ 
+Minimum Wages and Poverty
+Author(s): John T. Addison and  McKinley L. Blackburn
+Source: ILR Review, Vol. 52, No. 3 (Apr., 1999), pp. 393-409
+Published by: Sage Publications, Inc.
+Stable URL: https://www.jstor.org/stable/2525141
+Accessed: 06-08-2018 16:12 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Sage Publications, Inc. is collaborating with JSTOR to digitize, preserve and extend access to
+ILR Review
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MINIMUM WAGES AND POVERTY
+
+ JOHN T. ADDISON and McKINLEYL. BLACKBURN*
+
+ The principal justification for minimum wage legislation has been
+ the claim that it would improve the economic condition of low-wage
+ workers. Most previous analyses of the distributional effects of mini-
+ mum wages have been based on simulation exercises employing restric-
+ tive assumptions that guarantee the conclusion that an increase in the
+ minimum wage reduces poverty. In contrast, the authors of this paper
+ adopt a more flexible "reduced-form" approach that links increases in
+ both federal and state minima to contemporaneous changes in poverty
+ rates. For the period 1983-96, they find indications of a poverty-
+ reducing effect of minimum wages among teenagers and older junior
+ high school dropouts.
+
+ upporters of minimum wage laws gener-
+ ally argue that minimum wages improve
+ the economic lot of low-wage workers. How-
+ ever, if increases in the minimum wage lead
+ to reduced employment among this group,
+ the effects on poverty and other aspects of
+ the distribution are ambiguous. Econo-
+ mists who have examined these effects have
+ primarily relied on simulation exercises that
+ hinge importantly on a number of simpli-
+ fied and even contentious assumptions,
+ such as those having to do with
+ disemployment effects and family labor
+ supply responses. We follow an alternative,
+ reduced-form approach that, in correlat-
+ ing changes in federal and state minima
+ with corresponding movements in (several
+
+ *The authors are Professors in the Department of
+ Economics, University of South Carolina. Addison is
+ also Senior Research Fellow at the University of Bir-
+ mingham (U.K.). The authors thank Ken Couch and
+ two anonymous referees for helpful comments. Cop-
+ ies of the data extracts used in this paper are available
+ from McKinley L. Blackburn at the Department of
+ Economics, University of South Carolina, Columbia,
+ SC 29208.
+
+ measures of) the family income distribu-
+ tion, avoids these problems.
+
+ Our analysis uses state-level data for the
+ years 1983-96, for three groups most likely
+ to be affected by minimum wage mandates:
+ teenagers, young adults, and junior high
+ school dropouts. We focus primarily on the
+ poverty rates of these groups, but also offer
+ a parallel analysis of the association be-
+ tween minimum wages and average earn-
+ ings, and between minimum wages and
+ weeks worked.
+
+ Theoretical Considerations
+ and Related Empirical Work
+
+ In the standard competitive textbook
+ model, a ceteris pan bus increase in an effec-
+ tive minimum wage shrinks the employ-
+ ment of unskilled labor.' This disem-
+
+ 'There may also be wage and employment conse-
+ quences for other factors of production according to
+ whether they are gross complements or substitutes
+ for low-wage labor.
+
+ Industrial and Labor Relations Review, Vol. 52, No. 3 (April 1999). C by Cornell University.
+
+ 0019-7939/99/5203 $01.00
+
+ 393
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 394 INDUSTRIAL AND LABOR RELATIONS REVIEW
+
+ ployment effect implies that the impact of
+ minimum wage increases on the distribu-
+ tion of earnings for low-wage workers is
+ uncertain. Some workers may gain and
+ others lose, implying that the benefits of
+ the minimum wage increase are not distrib-
+ uted evenly across low-wage workers. More-
+ over, it is not clear that low-wage workers
+ would gain in an expected earnings sense,
+ because the impact on average earnings
+ depends on the scale of the displacement
+ effect, as well as labor supply elasticities in
+ the uncovered sector (see Gramlich 1976).
+ Only in the absence of disemploy-ment ef-
+ fects are the implications more transpar-
+ ent, since every low-wage worker should
+ gain in this case.
+
+ It is the joint presence of losers and
+ gainers from minimum wage increases that
+ contributes to a similar theoretical ambigu-
+ ity regarding the consequences of mini-
+ mum wages for the family income distribu-
+ tion. Moreover, discussions of family ef-
+ fects are complicated by a number of other
+ considerations that do not arise when the
+ focus is simply on earnings.
+
+ First, changes in the minimum wage may
+ affect the labor supply of other members of
+ the families of workers directly affected by
+ the minimum wage. Since such effects
+ involve both income and cross-substitution
+ effects, these responses become difficult to
+ predict. Second, the effects of minimum
+ wage increases will also depend heavily on
+ the initial family income position of work-
+ ers whose earnings are increased by the
+ change, since such workers are not neces-
+ sarily concentrated at the low end of the
+ family income distribution. Third, there is
+ little guidance from theory to help us iden-
+ tify the position in the family income distri-
+ bution of those workers who might lose
+ jobs when the minimum wage is increased.
+ In particular, an important question in
+ determining the distributional effects is
+ whetherjob losses are concentrated among
+ families at either the low or high end of the
+ distribution. And, finally, both losers and
+ winners from the minimum wage increase
+ may change their living arrangements as a
+ result of their changed earnings. Even if
+ there were no disemployment effects, these
+
+ complications lead to ambiguous theoreti-
+ cal predictions for the effects of minimum
+ wage increases when attention shifts from
+ earnings to the family income distribution.
+ Given the lack of clear theoretical pre-
+ dictions as to how a rise in the minimum
+ wage affects the distribution of family in-
+ comes, the extant empirical work has at-
+ tempted to provide answers by simulating
+ the effect of actual or hypothetical man-
+ dates on an existing distribution. The out-
+ come measures used in these exercises have
+ included poverty rates (or gaps), the in-
+ come-to-needs ratio, and quintile or decile
+ shares.
+
+ The simulation exercises generally allow
+ for both disemployment effects and incom-
+ plete coverage. Disemployment effects are
+ calculated using a range of elasticities sug-
+ gested by estimates from time-series stud-
+ ies. One problem with this procedure is
+ that these time-series studies typically re-
+ port elasticities that indicate how minimum
+ wages affect the employment of all teenag-
+ ers, or young adults, and not just those
+ workers with wages directly affected by the
+ minimum wage increase. Applying these
+ same elasticities directly to a group of mini-
+ mum wage workers thus inevitably under-
+ states the implied disemployment effect
+ from the time-series estimate. Furthermore,
+ the simulation studies by Horrigan and
+ Mincy (1993), Johnson and Browning
+ (1983), and Mincy (1990) appear to as-
+ sume that the disemployment effect is a
+ proportion of initial hours worked for each
+ affected worker, so that all workers share in
+ the disemployment effect.2 Because the
+ elasticities used in these studies never ex-
+ ceed unity, this assumption ensures that
+ every low-wage worker will gain from the
+ simulated minimum increase.
+
+ 2The proportion is a function of the size of each
+ worker's wage change resulting from the minimum
+ wage increase.
+
+ 3Johnson and Browning (1983) provided one set
+ of results in which the elasticity of demand was set
+ equal to one. Also, the poverty simulations in Mincy
+ do allow some families who are nonpoor before the
+ minimum wage increase to fall below the poverty line
+ because of a loss of employment; at the same time,
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MINIMUM WAGES AND POVERTY 395
+
+ Simulation studies must also make some
+ assumption about minimum wage effects
+ on workers initially working below the cur-
+ rent minimum. Most studies first assume
+ that these workers would be raised to the
+ new minimum and then, for the partial
+ coverage case, repeat the exercise assum-
+ ing that they are unaffected by the change
+ (see Burkhauser and Finegan 1989; Mincy
+ 1990; Horrigan and Mincy 1993). The
+ exception isJohnson and Browning (1983),
+ who increased the wages of workers cur-
+ rently below the minimum by the same
+ proportion as the increase in the minimum
+ wage. As for workers earning between the
+ old and new minima, the simulations as-
+ sume that their wages are increased to the
+ new minimum.
+
+ Previous studies of the effects of mini-
+ mum wages on poverty have found that
+ minimum wages reduce poverty, with simu-
+ lated effects that appear to be somewhat
+ strong. Thus, Burkhauser and Finegan
+ (1989), who did not allow for disemploy-
+ ment effects, found that a 24% increase in
+ the minimum wage in 1984 would reduce
+ the share of covered low-wage workers in
+ poverty by 21% (reducing poverty from
+ 14% to 11 % for these workers). That said,
+ they also reported that less than 12% of the
+ increase in incomes stemming from the
+ hike in the minimum wage would accrue to
+ poor families, while 39% would go to fami-
+ lies with incomes at least three times the
+ poverty line. Mincy (1990), who simulated
+ the impact of a 27% increase in the mini-
+ mum wage applied to the 1987 income
+ distribution, obtained what appears to be a
+ bigger poverty-reducing effect. Specifically,
+ he found that the number of poor fami-
+ lies-among all families, notjust those with
+ a low-wage worker-would fall by 6% in the
+ partial coverage case and 9% in the full
+ coverage case.4 These magnitudes are,
+
+ however, quite sensitive to the choice of the
+ elasticity of demand for adult minimum-
+ wage workers.
+
+ Simulations that consider the impact of
+ minimum wages on the inequality of family
+ incomes point to very modest effects. In a
+ study that is notable for its attempt to ac-
+ commodate accompanying changes in tax
+ and transfer paymentsJohnson and Brown-
+ ing (1983) found that a hypothetical 22%
+ increase in the minimum wage in 1976
+ would have had essentially no effect on the
+ Gini coefficient for family incomes. Simi-
+ larly, while Horrigan and Mincy's (1992)
+ simulations based on a $4.71 minimum wage
+ in 1987 pointed to a modest decline in
+ earnings inequality, the percentage of fam-
+ ily income held by each quintile of families
+ was virtually unaffected.
+
+ The consensus view of prior simulation
+ studies would appear to be that minimum
+ wages reduce poverty, but primarily by in-
+ creasing, however slightly, incomes
+ throughout the distribution. The explana-
+ tion for this result is that low-wage workers
+ are distributed rather evenly across the fam-
+ ily income distribution. Nevertheless, there
+ are several simplifying assumptions implicit
+ in these simulations that may be very im-
+ portant to their outcomes. The findings
+ may be the product of the particular as-
+ sumptions regarding the magnitude and
+ incidence of displacement effects. There
+ are also complications arising from assump-
+ tions about the coverage of the minimum
+ increase for workers initially below the cur-
+ rent minimum. These studies also ignore
+ issues raised by possible changes in labor
+ supply of other family members, and by
+ possible changes in the family unit.
+
+ The only direct empirical study of mini-
+ mum wage effects on the poverty rate is that
+ contained in Card and Krueger's Myth and
+ Measurement: The New Economics of the Mini-
+
+ however, he also assumed that every ex ante poor
+ family would experience an income increase if one of
+ its members was affected by the minimum wage in-
+ crease.
+
+ 4These are average effects from five simulations
+ using published estimates of teenager and adult
+
+ disemployment effects. On Burkhauser and Finegan's
+ definition, low-wage workers represent approximately
+ 15% of the labor force. If a similar percentage of
+ families have low-wage workers, then more families
+ will be removed from poverty according to Mincy's
+ findings than according to Burkhauser and Finegan 's.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 396 INDUSTRIAL AND LABOR RELATIONS REVIEW
+
+ mum Wage (1995). They regressed the
+ change in a state's poverty rate from 1989
+ to 1991 on the fraction of the state's labor
+ force (in 1989) that should have been af-
+ fected by the federal minimum wage in-
+ creases in 1990 and 1991, that is, the frac-
+ tion in 1989 below the level of the 1991
+ minimum wage. Their results vary across
+ specifications but always provide a negative
+ coefficient estimate, suggesting that when
+ more workers are affected, poverty rates
+ are more likely to fall. However, their
+ results for the overall poverty rate are small
+ and statistically insignificant. They also
+ estimated separate regressions in which the
+ poverty rate for workers only was the de-
+ pendent variable, and found somewhat
+ stronger effects, but this approach fails to
+ capture the impact of any disemployment
+ effects of minimum wages. Despite the
+ weak nature of their statistical evidence,
+ Card and Krueger concluded that their
+ analysis "points to a modest poverty-re-
+ ducing effect of the minimum wage" (p.
+ 307).
+
+ Unlike simulation treatments, our ap-
+ proach relaxes the need to build a restric-
+ tive and perhaps unrealistic model in as-
+ sessing minimum wage effects on poverty.
+ We instead correlate actual changes in pov-
+ erty (and other distributional measures)
+ with actual changes in the minimum wage.
+ Taking a cue from the literature on em-
+ ployment effects of minimum wages, we
+ estimate our models by focusing on par-
+ ticular groups of workers considered most
+ likely to be affected by minimum wage laws.
+ Our approach differs from the regression
+ analysis of Card and Krueger (1995) in two
+ main ways: first, we focus on the effects
+ among families with low-wage workers,
+ rather than for all families (where the ef-
+ fect, if any, is likely to be very small); and,
+ second, we consider a much longer time
+ frame than their two-year interval.
+
+ (1 E t = Pl toV) P2- + Ftl
+
+ where E is the employment (or unemploy-
+ ment) rate of the affected group, f(Mt) is
+ some function of the prevailing minimum
+ wage, and Xis a vector of variables intended
+ to capture other influences on the demand
+ for low-wage workers (see the survey in
+ Brown, Gilroy, and Kohen 1982). Most of
+ these studies have employed monthly time-
+ series data on the labor force activity of
+ teenagers and young adults, though a re-
+ cent study by Neumark and Wascher (1992)
+ used cross-section, time-series data com-
+ prising state-level observations for the 1973-
+ 89 period.
+
+ As we are interested in the effects of
+ minimum wages on the income distribu-
+ tion, we could also estimate time-series
+ models in which the dependent variable is
+ some characteristic of the income distribu-
+ tion for low-wage workers. Data on the
+ family income distribution are available only
+ on an annual basis, however, leaving a fairly
+ small sample to use for such estimations.
+ Therefore we chose instead to create a
+ panel of state-level observations for the
+ 1983-96 period.5 These panel data include
+ measures of poverty and upper-income sta-
+ tus for particular groups of individuals in
+ each state (plus the District of Columbia).
+ The base sources for our measures are the
+ March Current Population Surveys (CPS)
+ for 1984-97, which contain information on
+ individual and family income from the pre-
+ vious calendar year.6 The CPS data also
+ contain the poverty line for each family,
+ which we use in constructing our key mea-
+ sure: the percentage of individuals whose
+ families have income below the family's
+ poverty line. Inevitably, there is some arbi-
+ trariness in the definition of the official
+ poverty lines, and so we also estimate mod-
+ els in which the poverty rates are calculated
+
+ Empirical Models and Data
+
+ Studies that focus on the effects of mini-
+ mum wages on the employment of teenagers
+ and young adults typically estimate equa-
+ tions of the form
+
+ 5See Neumark and Wascher (1992), who discussed
+ other advantages of using state-level data in analyzing
+ the effects of minimum wages.
+
+ 6The CPS measure of income includes earnings,
+ government transfers, pensions, and interest and divi-
+ dend income.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MINIMUM WAGES AND POVERTY 397
+
+ using new poverty lines that are 1.25 times
+ the official poverty cutoffs.
+
+ We calculated poverty rates for three
+ groups whose income position we consider
+ most likely to be affected by changes in the
+ minimum wage. The first two groups are
+ defined on the basis of age: all individuals
+ between the ages of 16 and 19 ("teenag-
+ ers"), and all individuals aged 20 to 24
+ ("young adults"). Haugen and Mellor
+ (1990) found that roughly 60% of mini-
+ mum wage workers fell into these two cat-
+ egories. We also identify a group of indi-
+ viduals we call "junior high dropouts"-
+ those above the age of 24 but with nine or
+ fewer years of completed schooling-be-
+ cause these workers are also likely to be
+ involved in low-wage labor markets.7 Pov-
+ erty rates were also calculated for the group
+ of prime-age individuals (those aged 25-
+ 54).
+
+ For each of our three groups, we esti-
+ mate several models in which the group's
+ poverty rate is the dependent variable.
+ Denoting this poverty rate by Ps for state s
+ in year t, our models are of the form
+
+ where o and y represent state-specific and
+ year-specific intercepts. These equations
+ are estimated as fixed-effects models. The
+ year effects should pick up any nationwide
+ recessionary effects on the distributional
+ measure (their inclusion also frees us from
+ having to choose a price index to express
+ the minimum wage variable in constant
+ dollars), while the state effects should con-
+ trol for any tendency for some states to
+ provide better labor market opportunities
+ for low-wage workers than other states do,
+ as well as differences between states in the
+ generosity of AFDC benefits, UI replace-
+ ment rates, and so on.8 The vector Xcon-
+
+ 7Addison and Blackburn (1993) found that, in
+ 1992, 44% of teenagers, 19% of young adults, and
+ 24% ofjunior high dropouts were paid at or below the
+ minimum wage (among those with jobs). Only 12%
+ of all individuals were paid at or below the minimum.
+ 8The state effects also control for any tendency for
+ state price levels to differ on average from the na-
+ tional price level.
+
+ (2) P t = ac + yt + jlog(M t) + XXst + ?st,
+
+ sists of characteristics of the dependent-
+ variable group (specifically, average age,
+ percent white non-hispanic, and percent
+ hispanic).
+
+ Given that there may be differential busi-
+ ness cycle effects across states, we also esti-
+ mate specifications that include state- and
+ year-specific independent variables that
+ measure state-specific cycle effects. In these
+ specifications, one cyclical control that we
+ use is the poverty rate of prime-age indi-
+ viduals. Our reasoning for this approach
+ rests on the argument that the prime-age
+ part of the population is unlikely to be
+ directly affected to any great degree by
+ changes in the minimum wage, so that the
+ prime-age measure should largely reflect
+ how the cycle in that state and that year
+ affects the outcome indicator. We will also
+ use the prime-age unemployment rate as
+ an alternative cyclical control.
+
+ If the only minimum wage law were fed-
+ eral legislation, our suggested model could
+ not be estimated, because the minimum
+ wage variable would be a linear function of
+ the year dummies. Minimum wages are not
+ the same across states, however, as some
+ states set wage floors that are higher than
+ the federal standard. It is this variation in
+ the minimum wage variable that allows us
+ to identify a minimum wage effect. Specifi-
+ cally, the identification of the minimum
+ wage effect is achieved through a combina-
+ tion of increases in the minimum wage for
+ higher-income states as their state minima
+ are raised, and increases for lower-income
+ states as the federal minimum was subse-
+ quently increased. Following Card, Katz,
+ and Krueger (1994), we enter the "prevail-
+ ing" minimum wage-the state or federal
+ minimum, whichever is higher-in loga-
+ rithmic form, rather than the coverage-
+ adjusted relative minimum wage variable
+ (the "Kaitz index") that is used in studies of
+ minimum wage effects on employment.9
+
+ 9Card, Katz, and Krueger (1994) criticized the
+ relative minimum wage variable because it tends to be
+ negatively correlated with the average wage of teenag-
+ ers. They found virtually no evidence of disemploy-
+ ment effects when the logarithm of the minimum
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 398 INDUSTRIAL AND LABOR RELATIONS REVIEW
+
+ Table 1. State Minimum Wages for States above the Federal Minimum Wage.a
+
+ Year
+
+ State 1983 1984 1985 1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996
+
+ Alaska 3.85 3.85 3.85 3.85 3.85 3.85 3.85 4.19 4.64 4.75 4.75 4.75 4.75 4.88
+ California 3.80 4.25 4.25 4.25
+ Connecticut 3.37 3.37 3.37 3.37 3.47 3.88 4.25 4.25 4.27 4.27 4.27 4.27 4.27 4.40
+ Delaware 4.59
+ Dist. of Col.h 3.82 3.83 3.85 3.99 4.16 4.33 4.33 4.37 4.50 4.50 4.69 5.25 5.25 5.25
+
+ Hawaii 3.85 3.85 3.85 4.15 4.65 5.25 5.25 5.25 5.25
+ Iowa 3.85 4.25 4.65 4.65 4.65 4.65 4.68
+ Massachusetts 3.45 3.60 3.70 3.75 3.79 4.75
+ Maine 3.45 3.55 3.65 3.65 3.75 3.85 4.15
+ Minnesota 3.55 3.85 3.95 4.25
+
+ New Hampshire 3.45 3.55 3.65 3.76
+ NewJersey 4.85 5.05 5.05 5.05 5.05
+ Oregon 3.53 4.25 4.75 4.75 4.75 4.75 4.75 4.75
+ Pennsylvania 3.67 3.78
+ Rhode Island 3.45 3.60 3.83 4.10 4.25 4.40 4.45 4.45 4.45 4.45 4.55
+
+ Vermont 3.40 3.50 3.60 3.70 3.80 4.15 4.50 4.75
+ Washington 3.85 4.25 4.25 4.90 4.90 4.90
+ Wisconsin 3.50
+
+ Federal Minimum 3.35 3.35 3.35 3.35 3.35 3.35 3.35 3.69 4.14 4.25 4.25 4.25 4.25 4.38
+
+ aIf the minimum wage changed in the middle of the year, the minimum wage was calculated as a weighted
+ average of the old and new minima, with weights equal to the percentage of the year in which the relevant
+ minimum was in effect. Blank entries imply that the prevailing minimum in that state and year was the same as
+ the federal minimum. Data on state minima were obtained from January issues of the Monthly Labor Review.
+
+ bUntil 1993, the District of Columbia (D.C.) maintained different minimum wages for different occupations.
+
+ For this period, our minimum wage measures for D.C. were averages of these various minimum wages.
+
+ Because there were only three states with
+ prevailing minimum wages above the fed-
+ eral minimum wage in 1978-84, we began
+ our analysis of poverty rates with 1983.10
+
+ A final measurement issue has also to be
+
+ wage was used in place of the relative minimum in the
+ employment equations estimated by Neumark and
+ Wascher (1992). The absolute minimum wage may
+ also be more relevant than the relative minimum
+ wage in analyses of absolute measures of poverty.
+
+ Note that some states have minimum wage laws in
+ which the state minimum is set below the federal
+ level, so that a proportion of workers in these states
+ will be covered by a state minimum but not by the
+ federal minimum. For our sample period, the per-
+ centage of workers covered by state but not federal
+ laws is likely to be quite small (less than 10%). In
+ addition, there are no reliable estimates for these
+ state coverage proportions for the 1980s.
+
+ '0There were some changes in prevailing mini-
+ mum wages in the 1973-77 period. Unfortunately, it
+ is not possible to identify all of the states separately in
+ the March CPS public use samples before 1977.
+
+ addressed. Minimum wages often change
+ within a calendar year, implying that our
+ family income data (from a given calendar
+ year) may correspond to two different peri-
+ ods with different minima. For example,
+ the federal minimum wage increases that
+ occurred in 1990 and 1991 went into effect
+ on April 1 in each of those years, so that the
+ effective minimum wage in most states was
+ different in the first three months and the
+ last nine months. Our solution to this
+ problem is to use a weighted average of the
+ minimum wages when the minimum
+ changed within the calendar year, with the
+ weights set equal to the proportion of the
+ year in which the particular minimum was
+ in effect." A list of the minimum wages in
+
+ 1"We obtained the values of state minima and the
+ dates at which they changed from the review of state
+ labor law changes for the previous year provided in
+ each year'sJanuary issue of the Monthly Labor Review.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MINIMUM WAGES AND POVERTY 399
+
+ Table 2. Means and Standard Deviations for the State-Level Sample, 1983-96.a
+
+ (Standard Deviations in Parentheses)
+
+ Group
+
+ Prime-Age Junior High
+ Distribution Measure Individuals Teenagers Young Adults Dropouts
+
+ Poverty Rate .09 .18 .18 .26
+ (.03) (.07) (.06) (.08)
+
+ Percent below 1.25 Times the Poverty Line .12 .23 .23 .36
+ (.04) (.08) (.07) (.09)
+ Percent above 3 Times the Poverty Line .57 .45 .41 .21
+ (.08) (.10) (.11) (.08)
+ Percent above 5 Times the Poverty Line .26 .18 .16 .06
+ (.08) (.07) (.08) (.04)
+ Weekly Earningsb 511 95 254 138
+ (69) (27) (46) (52)
+ Number of Individuals in State/Year Cell 1,142 171 213 271
+ (953) (153) (199) (290)
+
+ aThese are unweighted means (and standard deviations) across the 714 state-year combinations.
+ bThe weekly earnings variable was calculated including a zero for workers with no earnings; it is expressed
+
+ in 1996 dollars.
+
+ states with an above-federal minimum is
+ provided in Table 1.
+
+ The dependent variables are estimates
+ of the true population quantities, and the
+ variability of these estimates is likely to be
+ higher when the underlying sample size is
+ smaller. 12 This naturally leads to
+ heteroskedasticity in the error terms in our
+ regression, and so we use weighted least
+ squares. The traditional solution is to as-
+ sume that the error variance is inversely
+ proportional to the sample size, but this
+ approach implicitly assumes that the model
+ would have a perfect fit if the population
+ quantities were known. Accordingly, we
+ use weights equal to the inverse of the
+ predicted values from regressions of
+ squared OLS residuals on a constant and
+ the inverse of the weighted sample size for
+
+ the particular state/year observation (see
+ Blackburn 1997).13
+
+ Findings
+
+ Effects on Poverty
+
+ Averages of the state-level poverty rates
+ over the 1983-96 period are provided in
+ the first row of Table 2. Poverty rates
+ among the groups most likely to be affected
+ by increases in the minimum wage are at
+ least double those of prime-age individu-
+ als. A similar result holds when poverty
+ rates are calculated with poverty lines in-
+ flated by 25%.
+
+ We also calculated the percentage of
+ individuals in families with incomes above
+ three times the poverty line and above five
+ times the poverty line (Table 2). The dif-
+ ference between prime-age individuals and
+
+ 121n particular, our dependent variable is a
+
+ weighted sample mean of the form p = Xw x., where xi
+ is the individual poverty indicator and wi is the corre-
+ sponding CPS weight for that individual (normalized
+ to sum to one). This leads to a dependent variable
+ with unconditional variance (due to sampling vari-
+ ability) of IC(1-XC) XW2, where X is the true poverty rate.
+
+ 13The skedastic functions we estimate are of the
+ form cy.2 = a+ bYw2. In instances in which the constant
+ is not statistically significant (at the 5% level), we
+ assume the variance of the error term is proportional
+ to the sum of squared weights.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 400 INDUSTRIAL AND LABOR RELATIONS REVIEW
+
+ Table 3. GLS Fixed-Effects Estimates of Poverty Rate Equations.a
+
+ (Standard Errors in Parentheses)
+
+ Specification
+
+ Independent Variable (1) (2) (3) (4) (5)
+
+ Teenagers
+
+ Log of Minimum Wage -.09 -.07 -.09 -.07
+ (.04) (.04) (.04) (.04)
+
+ Level of Minimum Wageb -.15
+ (.08)
+
+ Prime-Age Poverty Ratec .88 .88 .82
+ (.10) (.10) (.11)
+ Prime-Age Male Unemployment Rate .63 .20
+ (.12) (.13)
+ Average Aged -.12 -.10 -.10 -.15 -.11
+ (.15) (.14) (.14) (.15) (.14)
+ Percent White, Non-Hispanic -.23 -.19 -.19 -.22 -.19
+ (.04) (.04) (.04) (.04) (.04)
+ Percent Hispanic .16 .08 .08 .11 .07
+ (.06) (.06) (.06) (.06) (.06)
+ Elasticitye -.50 -.39 -.40 -.50 -.39
+
+ Young Adults
+
+ Log of Minimum Wage -.05 -.04 -.06 -.04
+ (.04) (.04) (.04) (.04)
+
+ Level of Minimum Wage -.08
+
+ Prime-Age Poverty Rate .59 .59 .48
+ (.1 0) (.10) (.I11)
+ Prime-Age Male Unemployment Rate .57 .32
+ (.13) (.14)
+ Average Age -.08 -.12 -.12 -.10 -.13
+ (.11) (.11) (.11) (.11) (.11)
+
+ (.09)
+
+ Continued
+
+ teenagers or young adults (but not junior
+ high dropouts) in the upper-income per-
+ centages is somewhat smaller, reflecting a
+ relatively high degree of income inequality
+ among our low-wage groups. Not surpris-
+ ingly, average weekly earnings appear to be
+ considerably smaller for teenagers andjun-
+ ior high dropouts (but less so for young
+ adults) than for prime-age individuals.
+ Table 2 also reports the average cell size for
+ calculating the state/year statistics; these
+ are all reasonably large, although there is
+ naturally a great deal of variation in these
+ cell sizes. Fortunately, the smallest cell size
+ for any of our state/year observations is 34,
+ so that none of our dependent variables is
+ calculated using an extremely limited
+ sample of individuals.
+
+ Fixed-effects estimates of the impact of
+ the minimum wage on the probability of
+ being in poverty are reported in Table 3.14
+
+ 14We also estimated models in which the sample
+ was restricted to state/year observations in which at
+ least 60 individuals were used in constructing the
+ poverty rate used as the dependent variable. Results
+ under this sample restriction were qualitatively simi-
+ lar to those obtained using the complete sample of
+ state/year observations.
+
+ We also calculated F-statistics for the presence of
+ state and year effects. We uniformly rejected the null
+ hypothesis that state effects are absent in Table 3.
+ The analogous test for year effects often did not reject
+ the null; however, we decided to include the year
+ effects in all regressions to obviate the need to choose
+ a specific price deflator.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MINIMUM WAGES AND POVERTY 401
+
+ Table 3. Continued.
+
+ Specification
+
+ Independent Variable (1) (2) (3) (4) (5)
+
+ Percent White, Non-Hispanic -.19 -.19 -.19 -.19 -.19
+ (.04) (.04) (.04) (.04) (.04)
+ Percent Hispanic .10 .04 .04 .05 .02
+ (.07) (.06) (.06) (.07) (.06)
+ Elasticity -.28 -.22 -.21 -.33 -.22
+
+ Log of Minimum Wage -.13 -.12 -.13 -.12
+ (.04) (.04) (.04) (.04)
+
+ Level of Minimum Wage -.26
+
+ Junior High Dropouts
+
+ (.09)
+
+ Prime-Age Poverty Rate .33 .33 .22
+
+ Prime-Age Male Unemployment Rate .44 .34
+ (.13) (.14)
+ Average Aged -.05 -.05 -.05 -.05 -.05
+ (.01) (.01) (.01) (.01) (.01)
+ Percent White, Non-Hispanic -.18 -.17 -.17 -.17 -.17
+ (.05) (.05) (.05) (.05) (.05)
+ Percent Hispanic -.05 -.07 -.07 -.09 -.09
+ (.06) (.06) (.06) (.06) (.06)
+ Elasticity -.50 -.46 -.48 -.50 -.46
+
+ aWeights were constructed from a regression of squared OLS residuals on a constant and a factor propor-
+ tional to the sampling error in the dependent variable. In situations where the constant in this regression was
+ insignificant at the 5% level, it was dropped in obtaining the GLS estimates. The sample size for each regression
+ is 714 (51 states observed in 14 years).
+
+ bThe minimum wage variable is expressed in tens of 1996 dollars (using the CPI-U price index)
+ cThe prime-age poverty rate is for all individuals aged between 25 and 54 years.
+ dThis is average age in the targeted group, divided by 10.
+
+ In specification (1), we include the loga-
+ rithm of the minimum wage without a state-
+ specific control for the business cycle. For
+ each group, we find a negative estimated
+ coefficient for the minimum wage variable,
+ implying that higher minimum wages re-
+ duce poverty. This estimate is statistically
+ significant (at conventional levels) for both
+ teenagers and junior high dropouts. The
+ implied elasticity for both of these groups
+ suggests that a 10% increase in the mini-
+ mum wage would lower the dropout pov-
+ erty rate by 5% (representing around a full
+ percentage point drop for both of these
+ groups). Among the group-specific con-
+ trols, the percentage of the group that is
+ white and non-hispanic always shows a
+ strong and statistically significant decreas-
+
+ ing effect on poverty that is quite consistent
+ across groups. The coefficient estimate for
+ the average age for the group is always
+ negative, as expected, but is statistically
+ significant only for junior high droputs
+ (for whom there is much greater variation
+ in this variable than for teenagers and young
+ adults). 15
+
+ 15We also estimated specifications that included
+ the percentage of the group that was female as an
+ independent variable. This variable was statistically
+ significant in many specifications (with the expected
+ positive sign), but had essentially no effect on the
+ estimated minimum wage effect coefficients. Addi-
+ tionally, estimates using only the female part of the
+ junior high dropout sample provided results that
+ were similar to the estimates using the complete
+ junior high dropout sample.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 402 INDUSTRIAL AND LABOR RELATIONS REVIEW
+
+ In specification (2) of Table 3, we in-
+ clude the prime-age poverty rate as an addi-
+ tional independent variable. The coeffi-
+ cient estimate for the prime-age poverty
+ rate is always positive and statistically sig-
+ nificant. Its inclusion reduces slightly the
+ elasticity of the poverty rate with respect to
+ the minimum, but the coefficient estimate
+ remains statistically significant for junior
+ high dropouts, and at least marginally sig-
+ nificant for teenagers. Specification (3)
+ substitutes the level of the minimum wage
+ for its logarithm, with little effect on the
+ statistical inference or implied elasticities.'6
+ One problem with using the prime-age
+ poverty rate as a control, however, is that it
+ is not exogenously determined with respect
+ to the poverty rate of other groups. In-
+ deed, to the extent that many members of
+ our affected groups reside with prime-age
+ individuals, the poverty rates of the two
+ groups are clearly simultaneously deter-
+ mined. This problem is compounded by
+ the fact that we use estimates of poverty
+ rates, with many of the same families being
+ used to form the poverty rates of the af-
+ fected groups and the prime-age individu-
+ als.'7 As an alternative control, therefore,
+ we use the unemployment rate for prime-
+ age individuals in specification (4) of Table
+ 3. With this control, estimated minimum
+
+ 16Because we are here using the level of the mini-
+ mum wage rather than its logarithm, we now index
+ for inflation using the CPI-U price index.
+
+ '7We also estimated equations in which the prime-
+ age poverty rate is the dependent variable, using the
+ primerage unemployment rate as a cyclical control.
+ The estimated coefficient (standard error) for the
+ log of the minimum wage was -.034 (.014), suggesting
+ that minimum wages do lower prime-age poverty.
+ Although statistically significant, this coefficient esti-
+ mate is smaller in absolute value than those reported
+ in Table 3 for either teenagers or dropouts. The
+ poverty-reducing effect for prime-age poverty could
+ largely result from the fact that many prime-age indi-
+ viduals are in families that also include teenagers and
+ junior-high dropouts. Indeed, when we use as the
+ dependent variable the poverty rate for prime-age
+ individuals who have more than 12 years of schooling
+ and live alone, we obtain a positive coefficient esti-
+ mate (standard error) on the minimum wage variable
+ of .042 (.034).
+
+ wage effects are virtually identical to those
+ obtained without cyclical controls. The
+ final specification in Table 3 includes both
+ the prime-age poverty rate and the male
+ unemployment, with minimum wage re-
+ sults the same as in specification (2).
+
+ As a way of summarizing the estimated
+ effects of minimum wages on poverty, we
+ performed a back-of-the-envelope calcula-
+ tion that combines the point estimates (for
+ specification 5 of Table 3) for all three of
+ our low-wage groups. The result suggests
+ that a 25% increase in the minimum wage
+ should lower the 1996 poverty rate for these
+ three groups combined by 9% (a drop of
+ 1.9 percentage points, from a poverty rate
+ of 22.4% to one of 20.5%). The 95% con-
+ fidence interval ranges from a decline in
+ the poverty rate of 14% to a decline of 3%. "
+ By comparison, Burkhauser and Finegan
+ (1989) found that a similar increase in the
+ minimum wage in 1984 would have de-
+ creased poverty among "low-wage" workers
+ by 21%. Although comparisons are diffi-
+ cult because of differences in the defini-
+ tion of low-wage workers, our results do
+ seem to suggest a poverty-reducing impact
+ similar to that suggested by Burkhauser
+ and Finegan.
+
+ We next explored the sensitivity of our
+ results to the estimation technique and the
+ equation specification (see Table 4). First,
+ we estimated our equations by OLS rather
+ than weighted least squares, using standard
+ errors that are asymptotically robust with
+ respect to heteroskedasticity in the error
+ term. This is an alternative manner of
+ handling the heteroskedasticity problem
+ that naturally arises from the difference in
+ cell sizes across states and years. Unfortu-
+ nately, these results (presented in the first
+ numerical column in the table) suggest
+ that our findings are somewhat sensitive to
+ the estimation technique. The absolute
+ value of the minimum wage coefficient es-
+
+ 18The calculation of the confidence interval as-
+ sumes that the coefficient estimates for the three
+ groups are uncorrelated, and that the prime-age pov-
+ erty rate is unaffected by minimum wage changes.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MINIMUM WAGES AND POVERTY 403
+
+ Table 4. Alternative Estimation Strategies for Poverty Rate Equations.a
+
+ (Standard Errors in Parentheses)
+
+ Estimates (Robust Poverty Minimum Period: Trends
+ Independent Variable Standard Errors) Rateb Effects 1983-89 Included
+
+ OLS Alernative Lagged Sample State/Year
+
+ Teenagers
+
+ Log of Minimum Wage -.11 -.03 -.03 .04 -.03
+ (.05) (.04) (.06) (.07) (.05)
+
+ Lagged Log of Minimum Wagec -.03
+ (.06)
+ [.15]
+
+ Prime-Age Poverty Rate .75 .85 .80 .86 .79
+ (.12) (.09) (.11) (.17) (.12)
+
+ Young Adults
+
+ Log of Minimum Wage -.02 -.06 .02 -.01 -.05
+ (.05) (.05) (.07) (.05) (.04)
+
+ Lagged Log of Minimum Wage -.03
+ (.07)
+ [.87]
+
+ Prime-Age Poverty Rate .48 -.06 .55 .54 .53
+ (.11) (.05) (.12) (.15) (.12)
+
+ Log of Minimum Wage -.08 -.14 -.17 -.01 -.12
+ (.05) (.05) (.06) (.05) (.04)
+
+ Junior High Dropouts
+
+ Lagged Log of Minimum Wage .05
+ (.06)
+ [.01]
+
+ Prime-Age Poverty Rate .32 .29 .22 .28 .23
+ (.13) (.1I1) (.12) (.15) (.13)
+
+ aUnless otherwise noted, all estimations use the same specification as in the fifth specification of Table 3, and
+
+ use the same GLS correction as noted in that table.
+
+ bThe alternative poverty rate is measured using poverty lines equal to 1.25 times the official cutoffs. The
+ alternative poverty rate for prime-age individuals is used as the prime-age poverty measure in this specification.
+ cThe number in brackets is the p-value for a test that the sum of the current and lagged coefficients is equal
+
+ to zero.
+
+ timate for teenagers increases, while the
+ young adult and dropout coefficient esti-
+ mates decrease in absolute value. The gen-
+ eral tenor of the results is similar-a de-
+ creasing effect-but the particular group
+ that is most affected does change with these
+ results. Given the considerable variation in
+ sample sizes (and therefore in error vari-
+ ances), we prefer the GLS estimates of Table
+ 3, as they should be efficient under the
+ assumed model for heteroskedasticity.
+ Nonetheless, either manner of handling
+ heteroskedasticity leads to the conclusion
+ that there is considerably stronger evidence
+ of poverty-reducing effects for teenagers
+ and dropouts than for young adults.
+
+ A second sensitivity consideration stems
+ from concerns about the arbitrariness of
+ the poverty-line threshold. We used an
+ alternative poverty rate as the dependent
+ variable, based on poverty lines that are set
+ 25% higher than the official lines. These
+ results are provided in the second numeri-
+ cal column of Table 4. There is now consid-
+ erably less evidence of a poverty-reducing
+ effect for teenagers (while the estimated
+ coefficient for young adults is again statisti-
+ cally insignificant), but the effect for drop-
+ outs remains statistically significant and of
+ a magnitude similar to that found using the
+ official poverty lines. It would appear that
+ any decrease in poverty arising from mini-
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 404 INDUSTRIAL AND LABOR RELATIONS REVIEW
+
+ mum wage increases for teenagers is prima-
+ rily serving to push individuals initially in
+ poverty to income levels that are just above
+ the official poverty lines.
+
+ Neumark and Wascher (1992) found
+ evidence of a lagged response of employ-
+ ment to changes in the minimum wage. We
+ considered a similar lagged response on
+ poverty by estimating models that also in-
+ cluded the minimum wage lagged one year
+ as an independent variable. The results are
+ presented in the third column of Table 4.
+ The coefficient estimate for the lagged
+ minimum wage is never individually statis-
+ tically significant. It is also the case that the
+ sum of the coefficients on the current and
+ lagged minimum wage is always negative.
+ However, this sum is statistically significant
+ only for junior high dropouts (for whom
+ the estimated total impact is exactly the
+ same as in Table 3). For teenagers, the sum
+ is of a magnitude similar to that without the
+ lag, but the statistical quality of the support
+ is weakened. There is considerably less
+ evidence of an effect for young adults in
+ this specification.
+
+ In an earlier version of this paper, we
+ found very little evidence of a poverty-re-
+ ducing effect forjunior high dropouts. Two
+ major differences between our current
+ specifications and those of the earlier ver-
+ sion are that we were considering a shorter
+ time period, and that we failed to include
+ important group-specific characteristics. To
+ illustrate the importance of the choice of
+ sample period to the estimated minimum
+ wage effects, the penultimate column of
+ Table 4 reports results when the sample is
+ restricted to observations from the 1983-
+ 89 period. When information from the
+ 1990s is excluded, we see very little evi-
+ dence of a minimum wage effect (the coef-
+ ficient estimate for teenagers is actually
+ positive). Admittedly, the standard errors
+ are increased due to the reduction in the
+ sample size, but the failure to find a statis-
+ tically significant estimate in the limited
+ time period is due to the change in the
+ coefficient estimates and not merely to an
+ increase in their standard errors. It ap-
+ pears that the nature of the minimum
+ wage effect on poverty changed in an
+
+ important manner between the 1980s and
+ the 1990s.
+
+ The fixed-effects procedure assumes that
+ the state effects are stable over the sample
+ period for which the equation is estimated.
+ If this restriction is inappropriate, the
+ changes in the minimum wage could be
+ partly picking up differential trends in the
+ demand conditions for low-wage workers
+ within states. This could be behind the
+ different results found when the sample
+ period is restricted to 1983-89, as the state
+ effects are more likely to be essentially stable
+ over a shorter period. One way to relax the
+ constraint of stable state effects is to in-
+ clude additional controls that allow for sepa-
+ rate trend effects for each state. Estimates
+ with these additional controls are presented
+ in the final column of Table 4. These
+ additional controls greatly weaken the sup-
+ port for a poverty-reducing effect of mini-
+ mum wages for teenagers (compared to the
+ results in the final column of Table 3), but
+ they have no effect on the estimated coeffi-
+ cient for dropouts.'9
+
+ In summary, there is considerable evi-
+ dence of a poverty-reducing effect of mini-
+ mum wages for junior high dropouts, and
+ this evidence primarily comes from reac-
+ tions to minimum wages thatwere increased
+ in the 1990s. There is also evidence of a
+ poverty-reducing effect for teenagers, but
+ this support is much more sensitive to is-
+ sues of specification.
+
+ Effects on Earnings and Employment
+
+ We also estimate equations in which the
+ dependent variable is average earnings of
+ individuals in our low-wage groups. Our
+ intention is to explore the connection be-
+ tween changes in the minimum wage and
+ these average earnings amounts. The first
+ two columns of Table 5 present results for
+ specifications (with cyclical and group-spe-
+ cific controls) in which we use either the
+ log of annual earnings or the log of weekly
+
+ 19Asagroup, the state/trend interactions are never
+
+ statistically significant at conventional levels.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MINIMUM WAGES AND POVERTY 405
+
+ Table 5. GLS Fixed-Effects Estimates of Earnings and Weeks Worked Equations.a
+
+ (Standard Errors in Parentheses)
+
+ Dependent Variableb
+
+ Weeks Worked
+
+ Independent Variable Annual Earnings Weekly Earnings Full Sample 1983-89 Only
+
+ Teenagers
+
+ Log of Minimum Wage .65 .69 .23 -.24
+ (.20) (.20) (.12) (.21)
+ Log of Prime-Age Earningsc .68 .64 .33 .38
+ (.17) (.14) (.09) (.15)
+ Log of Prime-Age Weeks .40 .02
+ (.25) (.41)
+
+ Young Adults
+
+ Log of Minimum Wage .21 .23 .03 -.01
+ (.10) (.11) (.06) (.10)
+ Log of Prime-Age Earnings .60 .47 .02 .05
+ (.09) (.08) (.05) (.08)
+ Log of Prime-Age Weeks .52 .27
+ (.13) (.22)
+
+ Junior High Dropouts
+
+ Log of Minimum Wage .40 .36 .38 .21
+
+ (.22) (.28) (.14) (.16)
+ Log of Prime-Age Earnings .22 .15 .03 .43
+ (.17) (.17) (.10) (.13)
+
+ Log of Prime-Age Weeks .11 -.41
+ (.25) (.36)
+
+ aAll specifications include (as controls) the male unemployment rate, average age, percent white non-
+ hispanic, percent hispanic, and state and year dummies. The estimation uses the same GLS procedure as is used
+ for the Table 3 estimates. The average earnings variables are calculated including zeros for those individuals
+ with no earnings over the course of the year.
+
+ bAll dependent variables are in logs.
+ cThis is annual earnings in the annual earnings equations, and weekly earnings in the other equations .
+
+ earnings as the dependent variable. These
+ results suggest an increasing impact of
+ higher minimum wages on both annual
+ earnings and weekly earnings for all three
+ low-wage groups. The impact appears stron-
+ gest for teenagers, while for young adults
+ and junior high dropouts the estimated
+ coefficients suggest elasticities from
+ changes in the minimum wage of 40% or
+ less for both annual earnings and weekly
+ earnings. Although the effect on average
+ earnings appears strongest for teenagers,
+ Table 3 indicated stronger poverty-reduc-
+ ing effects of minimum wages among jun-
+ ior high dropouts. This dissonance may
+ partly result from a more direct connection
+ between earnings and family income for
+
+ junior high dropouts than for teenagers.
+ Thus, for example, in 1996, the average
+ earnings of a junior high dropout repre-
+ sented 22% of the associated average fam-
+ ily income, whereas the average teenager's
+ earnings at that time were 1 % of his or her
+ family income.
+
+ We also estimate equations that allow us
+ to explore the impact of minimum wages
+ on the employment of workers in our low-
+ wage groups, although that is not the pri-
+ mary focus of the paper. The March CPS
+ contains information on weeks worked over
+ the calendar year, which we averaged across
+ individuals in each of our groups to pro-
+ vide a measure of average weeks worked
+ over the year in each state. The logarithm
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 406 INDUSTRIAL AND LABOR RELATIONS REVIEW
+
+ of this variable was then used as the depen-
+ dent variable in equations that included
+ the log of the minimum wage as an inde-
+ pendent variable. We also included the log
+ of average weeks worked for prime-age in-
+ dividuals as a control, as well as the unem-
+ ployment rate and the log of average weekly
+ earnings for prime-age individuals. Given
+ the definition of the dependent variable,
+ these equations are comparable to equa-
+ tions elsewhere in the literature that esti-
+ mate disemployment effects by regressing
+ the employment rate on a function of the
+ minimum wage. The primary difference is
+ that we are implicitly using the employ-
+ ment rate averaged over the 52 weeks of the
+ year, rather than the employment rate in a
+ given week, as the dependent variable.20
+
+ The fitted equations for the full sample
+ period are presented in the third numeri-
+ cal column in Table 5, and the results are,
+ frankly, unexpected. Previous work would
+ predict a negative coefficient estimate for
+ the minimum wage variable, but in our
+ results the point estimate is positive for all
+ three groups. And although statistically
+ insignificant for young adults, the mini-
+ mum wage coefficient estimate is statisti-
+ cally significant for junior high dropouts
+ and (at least marginally) for teenagers. The
+ estimates can be interpreted as elasticities,
+ and suggest a particularly large positive
+ elasticity of 40% for junior high dropouts.
+ The minimum wage effect we find for
+ teenagers is not typical of research findings
+ in this area (we are not aware of any parallel
+ research results for junior high dropouts).
+ The usual finding is that minimum wages
+ tend to lower teenage employment rates.
+ Thus, for example, in a similar analysis of
+ employment effects, Neumark and Wascher
+ (1992) reported an elasticity of teenage
+ employment with respect to the minimum
+ wage of roughly -0.1. One obvious differ-
+ ence between our study and theirs is the
+ time period examined, Neumark and
+
+ Wascher's sample period ending in 1989.
+ The difference in time periods again seems
+ to be a major factor explaining the differ-
+ ence in our results; if we confine our sample
+ period to 1983-89, we also obtain a nega-
+ tive coefficient estimate that indicates a
+ small (but statistically insignificant) elas-
+ ticity of -0.2 (see the last column of Table
+ 6) .21 Results for dropouts also provide much
+ less evidence of an employment-increasing
+ effect from raising minimum wages when
+ estimated using only the data from the
+ 1980s. In fact, our employment estimates
+ are more consistent with the line of re-
+ search advocated by Card and Krueger
+ (1995), including the studies by Card
+ (1992a), Card (1992b), Katz and Krueger
+ (1992), Card, Katz, and Krueger (1994),
+ and Card and Krueger (1994).
+
+ As noted earlier, the evidence of a pov-
+ erty-reducing effect from raising minimum
+ wages largely comes from the experience in
+ the 1990s. This pattern seems to coincide
+ with a change in the employment effects of
+ minimum wages that also appears to have
+ occurred after 1990. Given the lack of
+ evidence of an employment-reducing ef-
+ fect from higher minimums in this period
+ (and the possibility that employment might
+ have even been increased), it is not surpris-
+ ing that there is also evidence that poverty
+ is reduced because of these post-1990 in-
+ creases. It is also informative that our
+ coefficient estimates suggest a poverty-re-
+ ducing effect of a magnitude similar to that
+ suggested by Burkhauser and Finegan
+ (1989); they assumed no disemployment
+ effects in performing their simulations, and
+ our evidence suggests that this assumption
+ may not have been misleading.
+
+ Summary and Discussion
+
+ Studies of minimum wage effects on the
+ employment of low-wage workers typically use
+
+ 20Another difference is that we estimate our re-
+ gressions in logarithmic form, although results of a
+ similar nature are found if the level of weeks worked
+ is used.
+
+ 21There are several other differences between the
+ two studies; for example, the specification of the
+ minimum wage variable differs (Neumark and
+ Wascher use the Kaitz index), and we do not control
+ for school enrollment behavior.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MINIMUM WAGES AND POVERTY 407
+
+ a reduced-form approach to examine the
+ association between changes in the mini-
+ mum wage and employment rates of teen-
+ agers or young adults. We employ a similar
+ strategy in investigating the relationship
+ between minimum wage changes and the
+ family income position of low-wage work-
+ ers, using state-level panel data. Most pre-
+ vious studies of minimum wage effects on
+ the income distribution have relied on simu-
+ lation exercises that potentially ignore many
+ of the important consequences of mini-
+ mum wages. Our analysis does not make
+ any assumptions about these consequences,
+ thereby allowing an improved and more
+ direct method for estimating the impact of
+ minimum wages on the distribution of fam-
+ ily income.
+
+ Our results provide evidence that in-
+ creases in minimum wages in the 1990s
+ have served to reduce poverty. This evi-
+ dence is strongest when we examine the
+ poverty rates ofjunior high dropouts. There
+ is also evidence that minimum wages re-
+ duce poverty for teenagers, but support for
+ this result is somewhat more sensitive to
+ specification changes (in particular, to al-
+ lowing state effects to follow separate trends
+ over time). In contrast, our results suggest
+ that minimum wage increases in the 1980s
+ did not reduce poverty for the groups we
+ examine. A supplementary analysis of em-
+ ployment for our low-wage groups suggests
+ that this difference may be associated with
+ a complete lack of any disemployment ef-
+ fect from higher wage minima in the 1990s.
+ Indeed, our results suggest that there may
+ even be an employment-increasing effect
+ from higher minimum wages during this
+ period (at least for junior high dropouts
+ and for teenagers).
+
+ What underlies this apparent change in
+ the impact of the minimum wages on both
+ employment and poverty? We are not sure.
+ Both the 1983-89 period and the 1990-96
+ period began with the economy in a down-
+ turn, and ended with sustained growth. It
+ is therefore difficult to argue that there was
+ more room for the minimum wage to im-
+ prove the economic conditions of low-wage
+ workers in the later period than in the
+ earlier one. It is true that the labor market
+
+ situation of low-skilled workers deteriorated
+ rapidly during the 1980s, and that this dete-
+ rioration did not continue during the early
+ 1990s (though it had not begun any rever-
+ sion before 1995). Yet for this change to
+ account for the pattern of our results, it
+ would have to be the case that the relative
+ demand shifts against low-wage workers
+ varied across states in a manner that was
+ correlated with minimum wage changes in
+ those states, and it is again difficult to see
+ how this might be the case.
+
+ We did examine the possibility that our
+ employment and poverty findings reflected
+ differences between minimum wage-in-
+ creasing states and other states in the rela-
+ tive supply of low-skilled to high-skilled
+ labor. Our approach was to include the
+ ratio of the population of the low-wage
+ group to the population of prime-age indi-
+ viduals as an additional regressor in our
+ employment equations. The coefficient on
+ this variable was generally not statistically
+ significant, however, and often had an un-
+ expected positive sign (we expected that a
+ reduced supply of a low-wage group would
+ increase employment of that group). It
+ also tended to leave the minimum wage
+ coefficient estimate unaffected.
+
+ We also considered whether or not the
+ general economic conditions in states that
+ increased minimum wages on their own
+ accord differed greatly from those in states
+ that chose not to do so, and, in particular,
+ whether these differences might have them-
+ selves been greater for states increasing
+ minima in the 1990s than for those increas-
+ ing minima in the 1980s. It is conceivable
+ that the labor market conditions confront-
+ ing junior high dropouts were particularly
+ severe (relative to the nation as a whole) in
+ states that increased minimum wages in the
+ 1990s, as opposed to the 1980s, implying
+ that there was more potential improvement
+ in those conditions in the 1990s as the
+ overall economy improved. To make these
+ comparisons, we separated states into those
+ that did and those that did not raise mini-
+ mum wages over the 1983-89 period, and
+ computed some average characteristics at
+ the start of that period (1983) for these two
+ groups of states. These averages are pre-
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 408 INDUSTRIAL AND LABOR RELATIONS REVIEW
+
+ Table 6. Average Characteristics of States with and without State Minimum Wage Increases.a
+
+ 1 983-89 1 989-96
+
+ With Without With Without
+ Characteristic Increase Increase Increase Increase
+
+ Prime-Age Poverty Rate .08 .11 .06 .09
+ Prime-Age Weekly Earningsb $501 $459 $582 $501
+ Prime-Age Percent White, Non-Hispanic .84 .85 .83 .83
+ Prime-Age Male Unemployment Rate .065 .069 .033 .036
+ Teenager Poverty Rate .19 .21 .13 .17
+ Young Adult Poverty Rate .15 .20 .13 .18
+
+ Dropout Poverty Rate .21 .28 .21 .26
+
+ aThe characteristics are for the first year of the specified period. They are simple averages across states.
+ bThe weekly earnings variable is in current dollars.
+
+ sented in the first two columns of results in
+ Table 6.
+
+ It is clear that economic conditions were
+ initially better in those states that did in-
+ crease wage minima, and that this differ-
+ ence was particularly large in the poverty
+ rate for junior high dropouts. But if a
+ similar type of comparison is drawn for
+ states increasing minimum wages in the
+ 1989-96 interval (measuring conditions at
+ the start of that period), much the same
+ pattern is observed-see the final two col-
+ umns of Table 6. This should not be too
+ surprising, given that it is largely the same
+ group of states increasing minimums in
+ both periods.22
+
+ We are not sure why minimum wages
+ appear to have had such different effects in
+ the 1990s and 1980s. The fact that these
+
+ 22As can be seen from Table 1, only NewJersey and
+ Iowa increased their minimum wage in the 1989-96
+
+ differences show up in both employment
+ and poverty analyses is intriguing to us, and
+ suggests that it may be useful to apply re-
+ search strategies from previous papers that
+ discovered disemployment effects to data
+ from the 1990s to see if these results con-
+ tinue to hold. It is also interesting that the
+ paper most often cited for suggesting a
+ positive employment effect from minimum
+ wages (Card and Krueger 1994) studied a
+ minimum wage change that occurred in
+ the 1990s. It may be that we are seeing a
+ continuation of a trend pointed out by
+ Wellington (1991), who noted the dissipa-
+ tion through time of the negative employ-
+ ment effects of minimum wages.
+
+ period but not in the earlier period. Only Wisconsin
+ increased its minimum in the 1983-89 period but not
+ in the later period. The comparisons in Table 6 are
+ still useful, however, as the economic conditions in
+ those states relative to the nation as a whole could
+ have changed between the two periods.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MINIMUM WAGES AND POVERTY 409
+
+ REFERENCES
+
+ AddisonJohn T., and McKinley L. Blackburn. 1993.
+ "The Effect of Recent Increases in the U.S. Mini-
+ mum Wage on the Distribution of Income." Wash-
+ ington, D.C.: Employment Policies Institute.
+
+ Blackburn, McKinley. 1997. "Misspecified Skedastic
+ Functions in Grouped-Data Models." Economics Let-
+ ters, Vol. 55, No. 1 (August), pp. 1-8.
+
+ Brown, Charles, Curtis Gilroy, and Andrew Kohen.
+ 1982. "The Effect of the Minimum Wage on Em-
+ ployment and Unemployment." Journal of Economic
+ Literature, Vol. 20, No. 2 (June), pp. 487-528.
+
+ Burkhauser, Richard V., and T. Aldrich Finegan.
+ 1989. "The Minimum Wage and the Poor: The End
+ of a Relationship." Journal of Policy Analysis and
+ Management, Vol. 8, No. 1 (Winter), pp. 53-71.
+
+ Card, David. 1992a. "Using Regional Variation in
+ Wages to Measure the Effects of the Federal Mini-
+ mum Wage." Industrial and Labor Relations Review,
+ Vol. 46, No. 1 (October), pp. 22-37.
+
+ _ . 1992b. "Do Minimum Wages Reduce Employ-
+ ment? A Case Study of California, 1987-89." Indus-
+ trial and Labor Relations Review, Vol. 46, No. 1 (Octo-
+ ber), pp. 38-54.
+
+ Card, David, Lawrence F. Katz, and Alan B. Krueger.
+ 1994. "Comment on David Neumark and William
+ Wascher, 'Employment Effects of Minimum and
+ Subminimum Wages: Panel Data on State Mini-
+ mum Wage Laws."' Industrial and Labor Relations
+ Review, Vol. 47, No. 3 (April), pp. 487-96.
+
+ Card, David, and Alan B. Krueger. 1994. "Minimum
+ Wages and Employment: A Case Study of the Fast-
+ Food Industry in New Jersey and Pennsylvania."
+ American Economic Review, Vol. 84, No. 4 (Septem-
+ ber), pp. 772-93.
+
+ Card, David, and Alan B. Krueger. 1995. Myth and
+ Measurement: The New Economics of the Minimum
+
+ Wage. Princeton, N.J.: Princeton University Press.
+ Gramlich, Edward M. 1976. "Impact of Minimum
+ Wages on Other Wages, Employment, and Family
+ Income." Brookings Papers on Economic Activity, No.
+ 2, pp. 409-5 1.
+
+ Haugen, Steven E., and Earl F. Mellor. 1990. "Esti-
+ mating the Number of Minimum Wage Workers."
+ Monthly Labor Review, Vol 113, No. 1 (January), pp.
+ 70-74.
+
+ Horrigan, Michael W., and Ronald B. Mincy. 1993.
+ "The Minimum Wage and Earnings and Income
+ Inequality." In Sheldon Danziger and Peter
+ Gottschalk, eds., Uneven Tides: Rising Inequality in
+ America. New York: Russell Sage Foundation, pp.
+ 251-75.
+
+ Johnson, William R., and Edgar K. Browning. 1983.
+ "The Distributional and Efficiency Effects of In-
+ creasing the Minimum Wage: A Simulation." Ameri-
+ can Economic Review, Vol. 73, No. 1 (March), pp.
+ 204-11.
+
+ Katz, Lawrence F., and Alan B. Krueger. 1992. "The
+ Effect of the Minimum Wage on the Fast-Food In-
+ dustry. " Industrial and Labor Relations Review, Vol.
+ 46, No. 1 (October), pp. 6-21.
+
+ Mincy, Ronald B. 1990. "Raising the Minimum Wage:
+ Effects on Family Poverty." Monthly Labor Review,
+ Vol. 113, No. 7 (July), pp. 18-25.
+
+ Neumark, David, and William Wascher. 1992. "Em-
+ ployment Effects of Minimum and Subminimum
+ Wages: Panel Data on State Minimum Wage Laws."
+ Industrial and Labor Relations Review, Vol. 46, No. 1
+ (April), pp. 55-81.
+
+ Wellington, AlisonJ. 1991. "Effects of the Minimum
+ Wage on the Employment Status of Youths." Journal
+ of Human Resources, Vol. 26, No. 1 (Winter), pp. 27-
+ 46.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:12:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+

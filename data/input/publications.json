@@ -1,0 +1,82 @@
+[
+    {
+        "pub_date": "1982-01-01",
+        "unique_identifier": "http://www.jstor.org/stable/1963728",
+        "text_file_name": "1.txt",
+        "pdf_file_name": "1.pdf",
+        "title": "The decline of electoral participation in America",
+        "publication_id": 1
+    },
+    {
+        "pub_date": "1986-01-01",
+        "unique_identifier": "http://www.jstor.org/stable/2111292",
+        "text_file_name": "2.txt",
+        "pdf_file_name": "2.pdf",
+        "title": "Generational Replacement and Value Change in Six West European Societies",
+        "publication_id": 2
+    },
+    {
+        "pub_date": "1991-01-01",
+        "unique_identifier": "http://www.jstor.org/stable/1962884",
+        "text_file_name": "3.txt",
+        "pdf_file_name": "3.pdf",
+        "title": "Macropartisanship: An empirical reassessment",
+        "publication_id": 3
+    },
+    {
+        "pub_date": "1999-01-01",
+        "unique_identifier": "http://www.jstor.org/stable/2525141",
+        "text_file_name": "4.txt",
+        "pdf_file_name": "4.pdf",
+        "title": "Minimum wages and poverty",
+        "publication_id": 4
+    },
+    {
+        "pub_date": "1990-01-01",
+        "unique_identifier": "http://www.jstor.org/stable/2137171",
+        "text_file_name": "5.txt",
+        "pdf_file_name": "5.pdf",
+        "title": "Explaining the recent decline in cocaine use among young adults: Further evidence that perceived risks and disapproval lead to reduced drug use",
+        "publication_id": 5
+    },
+    {
+        "pub_date": "1999-01-01",
+        "unique_identifier": "http://www.jstor.org/stable/2648055",
+        "text_file_name": "6.txt",
+        "pdf_file_name": "6.pdf",
+        "title": "Shifting family definitions: The effect of cohabitation and other nonfamily household relationships on measures of poverty",
+        "publication_id": 6
+    },
+    {
+        "pub_date": "1969-01-01",
+        "unique_identifier": "bbk-1",
+        "text_file_name": "102.txt",
+        "pdf_file_name": "102.pdf",
+        "title": "How does P2P lending fit into the consumer credit market?",
+        "publication_id": 102
+    },
+    {
+        "pub_date": "1969-01-01",
+        "unique_identifier": "bbk-2",
+        "text_file_name": "103.txt",
+        "pdf_file_name": "103.pdf",
+        "title": "Moral Suasion in Regional Government Debt Markets",
+        "publication_id": 103
+    },
+    {
+        "pub_date": "1969-01-01",
+        "unique_identifier": "bbk-3",
+        "text_file_name": "104.txt",
+        "pdf_file_name": "104.pdf",
+        "title": "International monetary policy spillovers through the bank funding channel",
+        "publication_id": 104
+    },
+    {
+        "pub_date": "1969-01-01",
+        "unique_identifier": "bbk-4",
+        "text_file_name": "105.txt",
+        "pdf_file_name": "105.pdf",
+        "title": "Cheap Talk? Financial Sanctions and Non-Financial Activity",
+        "publication_id": 105
+    }
+]

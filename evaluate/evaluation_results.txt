@@ -1,0 +1,11 @@
+Reading baseline file: data_set_citations.json
+Reading derived file: ../output/data_set_citations.json
+Processing status for baseline (None = Success!): "None"
+Processing status for derived (None = Success!): "None"
+Confusion matrix: [[30]]
+precision = 1.0
+recall = 1.0
+accuracy = 1.0
+macro-average: precision = 1.0, recall = 1.0, F1 = 1.0
+micro-average: precision = 1.0, recall = 1.0, F1 = 1.0
+weighted-average: precision = 1.0, recall = 1.0, F1 = 1.0

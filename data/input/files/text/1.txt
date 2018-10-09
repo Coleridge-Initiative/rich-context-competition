@@ -1,0 +1,2275 @@
+ 
+ 
+The Decline of Electoral Participation in America
+Author(s): Paul R. Abramson and  John H. Aldrich
+Source: The American Political Science Review, Vol. 76, No. 3 (Sep., 1982), pp. 502-521
+Published by: American Political Science Association
+Stable URL: https://www.jstor.org/stable/1963728
+Accessed: 06-08-2018 16:11 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+American Political Science Association is collaborating with JSTOR to digitize, preserve and
+extend access to The American Political Science Review
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ The Decline of Electoral Participation in America
+
+ PAUL R. ABRAMSON
+ Michigan State University
+
+ JOHN H. ALDRICH
+ University of Minnesota
+
+ Since 1960 turnout has declined in presidential elections, and since 1966 it has declined in off-year
+ congressional elections. These declines occurred despite several major trends that could have in-
+ creased electoral participation. An analysis of the eight SRC-CPS presidential election surveys con-
+ ducted between 1952 and 1980 and of the six SRC-CPS congressional election surveys conducted be-
+ tween 1958 and 1978 suggests that these declines may result largely from the combined impact of two
+ attitudinal trends: the weakening of party identification and declining beliefs about government
+ responsiveness, that is, lowered feelings of "external" political efficacy. Between two-thirds and
+ seven-tenths of the decline in presidential turnout between 1960 and 1980 appears to result from the
+ combined impact of these trends. Data limitations hinder our efforts to study the decline of congres-
+ sional turnout, but approximately two-fifths to one-half of the decline between 1966 and 1978 appears
+ to result from the combined impact of these attitudinal trends.
+
+ The decline of electoral participation is among
+ the most clearly documented trends in postwar
+ American politics. Turnout was low in 1948, but it
+ grew between 1948 and 1960, by which time 63
+ percent of the adult population voted for pres-
+ ident. Since then the percentage has consis-
+ tently declined, reaching only 53 percent in 1980.1
+ Turnout in off-year congressional elections
+ follows a similar trend. Turnout was low in 1946
+ but grew steadily through 1962, peaking at 45 per-
+ cent in the 1962 and 1966 off-year elections. Since
+ then, turnout has consistently declined, reaching
+
+ We are grateful to George I. Balch, Walter Dean
+ Burnham, Carol A. Cassel, Cleo H. Cherryholmes,
+ Jack Citrin, William Claggett, John A. Ferejohn, Terry
+ M. Moe, Howard L. Reiter, Joseph A. Schlesinger, and
+ Brian D. Silver for comments on an earlier version of
+ this article. Anonymous referees for the Review made
+ extensive and helpful suggestions. The data for our
+ analyses were made available by the Inter-University
+ Consortium for Political and Social Research, which
+ bears no responsibility for our analyses or interpreta-
+ tions. We are grateful to Rick E. Rollenhagen for his ex-
+ tensive assistance with the data analysis.
+
+ 'Except for 1980 all our reports on turnout are based
+ upon U.S. Bureau of the Census (1980, p. 515). Our
+ estimate of turnout for 1980 is based upon the total
+ number of votes cast for president (86,496,851) reported
+ by the Clerk of the House of Representatives and the
+ U.S. Bureau of the Census count of the population aged
+ 18 and older as of April 1, 1980 (162,760,668). The lat-
+ ter figure is unpublished but was provided to us by the
+ Bureau. As the adult population grew between April 1
+ and November 4, the final turnout figure may be lower
+ than the 53.1 percent we estimate.
+
+ only 35 percent in the 1978 congressional elec-
+ tions.
+
+ The dangers of electoral nonparticipation for
+ American democracy have been pointed out by
+ both journalists and scholars; in his "crisis of
+ confidence" speech, President Carter lamented
+ that "Two-thirds of our people do not even
+ vote." The decline in turnout is paradoxical, for it
+ has occurred despite several major trends that
+ might well have increased electoral participation:
+ the rise in educational levels of the electorate, the
+ enactment of less restrictive registration pro-
+ cedures, and the enfranchisement of southern
+ blacks. Moreover, even though a substantial ma-
+ jority of the electorate thought the 1968, 1976,
+ and 1980 presidential contests would be close,
+ turnout declined in all three of these elections.
+ The enfranchisement of 18, 19, and 20 year olds
+ did reduce turnout, but several scholars have
+ demonstrated that their enfranchisement de-
+ creased overall turnout by only one percentage
+ point (cf. Wolfinger and Rosenstone 1980, p. 58).
+ Given all the factors that should have increased
+ turnout, the decline in turnout may properly be
+ labelled a puzzle (Brody 1978).
+
+ This article suggests that the decline in electoral
+ participation results largely from two basic attitu-
+ dinal trends: the weakening of party loyalties
+ among the American electorate and declining
+ beliefs about government responsiveness, that is,
+ lowered feelings of "external" political efficacy.2
+
+ 2Although the data suggest that these attitudinal
+
+ changes contributed to the decline of electoral participa-
+ tion, they cannot be used to establish causal relation-
+ ships. Even though we have strong theoretical reasons
+
+ 502
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 1982 Decline of Electoral Participation in America 503
+
+ Although the importance of these variables has
+ been noticed before in the research literature, our
+ analysis contributes to explaining the decline of
+ turnout in four ways. First, we clarify some of the
+ conceptual confusion which has characterized
+ much of the extant research. Second, we demon-
+ strate the importance of attitude change for the
+ decline of both presidential and congressional
+ turnout. Third, we clearly demonstrate the com-
+ bined impact of these two attitude trends. Last,
+ we employ two complementary methods to eval-
+ uate the impact of these attitude trends, for we
+ use both a simple algebraic correction procedure
+ and probit estimates.
+
+ Data and Measurement Problems
+
+ We analyzed the eight presidential election
+ surveys conducted by the Survey Research Center
+ and the Center for Political Studies (SRC-CPS) of
+ the University of Michigan between 1952 and
+ 1980, as well as the six off-year congressional
+ surveys conducted between 1958 and 1978.
+ Although the SRC-CPS surveys provide the best
+ data for studying attitudinal change, like all
+ surveys conducted in the United States they over-
+ estimate turnout. Since the SRC data tend to
+ overestimate turnout by about 15 percentage
+ points, can they be used to study changing levels
+ of electoral participation?
+
+ In our view there are three reasons why the
+ SRC-CPS data can be used to study the decline in
+ turnout. First, in spite of their systematic over-
+ reporting of turnout, the SRC data do closely
+ parallel the real world trends observed from using
+ electoral statistics and the Census estimates of the
+ voting-age population. The SRC data, for exam-
+ ple, show that turnout peaked in 1960 and record
+ a decline of eight percentage points between that
+ election and 1980.3 The correlation between the
+ actual trend between 1952 and 1980 and the trend
+ observed with the SRC data is 0.86; the correla-
+ tion for the two trends between 1960 and 1980 is
+ 0.98. The SRC data record a decline of ten per-
+ centage points in voting for congressional candi-
+ dates between 1962 and 1978. The correlation be-
+ tween the actual trend between 1958 and 1978 and
+ the trend observed with the SRC data is 0.78; the
+
+ to suggest that these attitudes contribute to the indi-
+ vidual-level propensity to vote, the decline in turnout
+ may also have contributed to attitudinal change.
+
+ 3For the sake of comparability with the aggregate
+
+ data, in this paragraph we report the SRC trends for the
+ total electorate. However, as we shall see, the decline of
+ turnout among the white electorate is somewhat greater,
+
+ correlation between the two trends between 1962
+ and 1978 is 0.79.
+
+ Second, we can use the SRC data because,
+ although they always overestimate voting, we
+ have some evidence that such overestimates are
+ not substantially different for the various attitude
+ groups we will be studying. In 1964, 1976, 1978,
+ and 1980 the SRC-CPS supplemented its election
+ survey by a check of official voting records to
+ determine if respondents actually voted.4 Our
+ analysis shows that in all three presidential surveys
+ there were only negligible differences in voting
+ overreports among whites with different levels of
+ partisan strength or differing levels of "external"
+ political efficacy. In 1978 there were also few dif-
+ ferences in overreporting, although pure indepen-
+ dents were more likely to report voting falsely
+ than any other partisan group.
+
+ Third, we can rely upon the SRC data because
+ they allow us to analyze the decline of turnout be-
+ tween 1964, 1976, and 1980 with the validated
+ results that utilize voting records. These data, too,
+ overestimate turnout, showing a 71.1 percent
+ turnout rate in 1964, 60.9 percent in 1976, and
+ 56.6 percent in 1980 (whereas actual turnout was
+ 61.9 percent, 54.3 percent, and 53.1 percent in
+ these elections), and record a substantially greater
+ decline than the actual voting statistics. Still, they
+ provide a valuable data set to supplement our
+ analyses.
+
+ Despite these reasons, certain limitations must
+ be considered in using the SRC data. Although
+ the SRC data undoubtedly provide a good cross-
+ section of voters, these surveys interview propor-
+ tionately fewer nonvoters (even when the voter
+ validation studies are used to identify nonpartici-
+ pants). There may be some biases in the set of
+ interviewed nonvoters compared to the entire
+ population of nonvoters. We also recognize that a
+ comprehensive study of the decline of turnout
+ must use a wide variety of survey data, including
+ the U.S. Bureau of the Census surveys and
+ possibly Gallup, Harris, and National Opinion
+ Research Center surveys. A comprehensive study
+ should also employ aggregate voting statistics.
+ However, whatever their limitations, the SRC
+ data provide the best source to study the attitu-
+ dinal correlates of the decline of turnout, for they
+
+ 4For extensive analyses of the demographic and atti-
+ tudinal correlates of overreports of voting using the
+ 1976 and 1978 voter validation studies, see Traugott and
+ Katosh (1979) and Katosh and Traugott (1981). The ma-
+ jor bias revealed by their analysis is the tendency of
+ blacks to be more likely to overreport voting than whites
+ (a result that also obtains with the 1964 and 1980 sur-
+ veys). This bias need not concern us here, since our
+ analyses are restricted to whites.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 504 The American Political Science Review Vol. 76
+
+ provide consistent measures of political attitudes
+ over the period when turnout declined.
+
+ Logic of Research Strategy
+
+ In this article we focus on two political attitudes
+ to account for the decline of turnout.' An alterna-
+ tive approach is to use a multivariate analysis that
+ includes a large number of variables, but this ap-
+ proach is usually unsuccessful in accounting for
+ the decline of turnout because such studies have
+ often given little thought to the ways variables
+ relate to each other, how they should best be mea-
+ sured, and why they might be expected to con-
+ tribute to turnout. Even so, a multivariate ap-
+ proach would be necessary if our goal were to ex-
+ plain all variation in turnout, but our goal is to ex-
+ plain why turnout declined. Thus it is not neces-
+ sary to consider directly changes such as increas-
+ ing levels of education that can only have acted to
+ retard the decline of electoral participation.
+
+ Despite the lack of success of most previous
+ analyses in accounting for the decline of turnout,
+ previous studies have often proved valuable by
+ identifying variables that are not related to turn-
+ out. We are guided by two fundamental facts.
+ First, political attitudes that have not changed in
+ the aggregate cannot account for the change in the
+ behavior of the electorate. Second, attitudes that
+ are not related to turnout cannot account for its
+ decline.
+
+ This first fact leads us to reject several candi-
+ date variables from consideration. For example,
+ although feelings of citizen duty are consistently
+ and strongly related to turnout, there has been no
+ decline in such feelings (Miller, Miller, and
+ Schneider 1980, p. 288). Likewise, beliefs about
+ personal political effectiveness, that is, feelings of
+ "internal" political efficacy are strongly related
+ to turnout. However, feelings of personal political
+ effectiveness have not declined, and this dimen-
+ sion of efficacy cannot account for the decline of
+ participation (Miller 1980).6 Likewise, although
+
+ 5This article focuses on the attitudinal correlates of
+ turnout. For useful discussions of the social and demo-
+ graphic correlates of turnout during the postwar years
+ that uses SRC-CPS data, see Boyd (1981), Hout and
+ Knoke (1975), and Reiter (1979). For a useful discussion
+ using the U.S. Bureau of the Census Surveys, see
+ Cavanagh (1981).
+
+ 'Feelings of "internal" political efficacy have not
+ changed, since one of the two items used to measure
+ these feelings, "voting is the only way," has registered a
+ substantial increase in efficacious responses since 1966.
+ Although the second item used to measure "internal"
+ political efficacy, "politics seem complicated," regis-
+ tered a decline, the changing responses to these two
+
+ persons who are interested in politics are more
+ likely to vote, interest in politics has not waned
+ during the past two decades (Miller, Miller, and
+ Schneider 1980, p. 307).
+
+ Political trust, on the other hand, has declined
+
+ markedly (Abramson and Finifter 1981; Miller,
+ Miller, and Schneider 1980, p. 268). However,
+ feelings of political trust are only weakly related
+ to electoral participation (Citrin 1981, 1974), and
+ the decline in trust cannot directly account for the
+ decline of turnout.7
+
+ On the other hand, concern about which party
+ will win the election has declined steadily since
+ 1964, and concern is related to turnout. Ferejohn
+ and Fiorina (1979) argue that the decline in turn-
+ out can largely be explained by declining concern
+ over electoral outcomes. They argue that the
+ decline in turnout does not constitute a "puzzle,"
+ since "recent fluctuations in turnout in Presiden-
+ tial elections appear to arise from variations in
+ election specific factors" (p. 30). In our view,
+ however, the declining concern with electoral out-
+ comes probably results largely from the erosion of
+ party loyalties, for there is a very strong relation-
+ ship between strength of party identification and
+ concern about which party will win. Therefore,
+ we shall turn to the erosion of partisanship to
+ begin our analysis and return to this "concern"
+ variable later.
+
+ Decline of Party Identification
+
+ and Decline of Turnout
+
+ The party identification of white Americans
+ was fairly stable between 1952 and 1964. In 1964,
+
+ items have led to virtually no change in overall levels of
+ "internal" political efficacy.
+
+ There is a debate over the best way to measure sense
+
+ of political efficacy, although many scholars now argue
+ that the "voting is the only way" item should not be in-
+ cluded in an overall sense of political efficacy measure
+ (Balch 1974; Converse 1972). Balch has presented con-
+ vincing evidence that the four standard items used to
+ measure feelings of political efficacy may best be viewed
+ as tapping two separate dimensions. The two items men-
+ tioned above appear to tap beliefs about personal politi-
+ cal effectiveness, or "internal" political efficacy,
+ whereas the remaining two items (reported in full in
+ note 18) measure beliefs about government respon-
+ siveness or "external" political efficacy. Factor
+ analyses we have conducted with Finifter suggest that
+ Balch's interpretation is sound. Analyses by Craig
+ (1979) also strongly support this view.
+
+ 'Following the scoring procedures used by Abramson
+ and Finifter (1981), we found that in 1980 only 24 per-
+ cent of the electorate scored medium or high on the
+ standard five-item political trust index. Our analyses of
+ both this index and of the five items individually showed
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 1982 Decline of Electoral Participation in America 505
+
+ 36 percent of the white electorate were strong
+ party identifiers, a figure that dropped to 27 per-
+ cent in 1966. Since 1966 the decline has been more
+ gradual. In 1978 only 21 percent of the whites
+ interviewed were strong partisans, whereas 23 per-
+ cent were in 1980. In all the SRC surveys between
+ 1952 and 1964 the proportion of independents
+ with no party leanings never rose about 9 percent.
+ This figure increased to 12 percent in 1966 and to
+ 14 percent in both 1978 and 1980. As is well
+ known, however, the party loyalties of black
+ Americans grew dramatically between 1960 and
+ 1964. With a single exception, party identification
+ among blacks has always been stronger from 1964
+ on than it was in surveys conducted before 1964.
+ Given the markedly different trend between
+ blacks and whites in one of our two independent
+ variables, it is important to analyze whites and
+ blacks separately. The results presented in this ar-
+ ticle are limited to whites.8
+
+ There are strong theoretical reasons to expect
+ partisan loyalties to contribute to electoral par-
+ ticipation. As Campbell and his colleagues (1960)
+ argued, strong feelings of partisan identifica-
+ tion contribute to psychological involvement in
+ politics. From a rational-choice perspective,
+ which may view party identification as a weighted
+ average of past evaluations of the parties (Fiorina
+ 1981), we would also expect partisanship to con-
+ tribute to electoral participation, since partisan
+ loyalties reduce information costs and thereby
+ reduce the costs of voting. Further, strong par-
+ tisans are more likely to have stronger preferences
+ among the candidates, and thus evaluate a greater
+ differential benefit from the election of their pre-
+ ferred candidate. However, regardless of our
+ theoretical perspective, we have many empirical
+ studies that document a relationship between par-
+ tisan loyalties and electoral participation.
+
+ Given that strong partisans are more likely to
+ vote than either weak partisans or independents
+ who lean toward a party, and that independents
+ who do not lean toward a party are the least likely
+
+ that feelings of political trust were not related to turnout
+ in the 1980 presidential election.
+
+ 'In addition to manifesting a different trend in their
+ partisan loyalties, blacks also manifest a different trend
+ in turnout, since participation increased markedly
+ among southern blacks. However, this increase can
+ scarcely be explained in attitudinal terms, since it results
+ from such forces as the civil rights movement and the
+ Voting Rights Act of 1965 which enabled southern
+ blacks to register and to vote. An analysis of changing
+ turnout among blacks, therefore, would need to rely on
+ a different theoretical perspective from the one we use
+ to study change among whites.
+
+ to vote, the overall weakening of party identifica-
+ tion among the white electorate may partly con-
+ tribute to the decline in electoral participation. In-
+ deed, several studies have already explored this
+ possibility, although there is wide disagreement
+ about the impact of the decline of partisanship
+ upon the decline of turnout.
+
+ Using a multivariate analysis that examines only
+ the 1960 and 1972 SRC-CPS surveys. Ashenfelter
+ and Kelley (1981, p. 717) conclude that "the
+ strength of 'partisanship' of the respondent had
+ little or nothing to do with the probability of
+ voting." However, their conclusion that "the
+ single most important factor accounting for the
+ decline in turnout . . . is the dramatic shift in
+ voter expectations about the closeness of the race
+ in these two elections" (p. 721) cannot possibly
+ account for the monotonic decline of turnout
+ since 1960. At the other extreme, DeNardo (1980)
+ argues that partisans constitute the core of the ac-
+ tive electorate, and that "The withering of the
+ core is thus sufficient to explain the predominant
+ trends in recent elections" (p. 417). However, this
+ conclusion was reached without actually analyz-
+ ing individual-level data that relate partisanship to
+ political participation.
+
+ Most scholars have reached conclusions that
+ fall between these extremes. For example, Hill
+ and Luttbeg (1980) examine turnout levels among
+ different partisan strength categories for the en-
+ tire electorate with the use of all the SRC-CPS
+ presidential election surveys from 1952 through
+ 1976. They conclude that "increasing indepen-
+ dence from political parties has contributed to
+ declining participation" (p. 106), but do not ac-
+ tually estimate its impact. And Cassel and Hill
+ (1981) in a multivariate analysis of non-
+ southerners in the 1964 and 1976 SRC-CPS voter
+ validation studies, conclude that the erosion of
+ partisan loyalties contributed to a decline in turn-
+ out of only one percentage point. A multivariate
+ analysis by Reiter (1979) presents the relationship
+ of partisan strength to turnout among whites in all
+ the SRC-CPS presidential election studies from
+ 1960 through 1976, but it is difficult to interpret
+ his results to estimate the impact of declining par-
+ tisan loyalties. Miller (1980) concludes that the
+ decline in partisanship has contributed to the ero-
+ sion of turnout, but he does not directly estimate
+ the decline's impact. And Conway (1981) con-
+ ducts a multivariate analysis of turnout among the
+ entire electorate using the 1970 and 1974 SRC-
+ CPS surveys as well as the 1978 CPS voter valida-
+ tion study. She briefly considers the possibility
+ that the erosion of party loyalties contributed to
+ the decline in congressional turnout by leading to
+ a decline in political involvement and concludes it
+ did not. However, Conway does not provide a
+ longitudinal test of the direct effects of the ero-
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 506 The American Political Science Review Vol. 76
+
+ sion of partisanship upon turnout during this
+ period.
+
+ In our view, the best estimates have been pre-
+ sented by Shaffer (1981), who presents a multi-
+ variate analysis of SRC-CPS data on turnout
+ among non-southerners in the presidential elec-
+ tions from 1960 through 1976. His conclusion that
+ approximately one-fourth of the decline in presi-
+ dential turnout results from the decline of parti-
+ sanship seems sound, and his algebraic estimation
+ procedures are similar to those we use. However,
+ although his discriminant analyses are sound, they
+ do not present clearly the changing impact of the
+ decline of partisanship upon turnout from elec-
+ tion to election. Moreover, since trends in both
+ partisan loyalties and turnout are substantially
+ different among whites and among blacks, it is
+ preferable to examine whites and blacks separate-
+ ly.' Last, Shaffer did not examine the impact of
+
+ 'We have no objection to analyses that examine the
+ South and the rest of the nation separately, although
+ Shaffer's analysis suggests that the pattern of relation-
+ ships outside the South is very similar to that for the na-
+ tion as a whole. However, it is far more important to
+ examine whites and blacks separately, since the party
+ identification trend for blacks runs directly counter to
+ that for whites. White southerners and whites outside
+ the South have both experienced declining feelings of
+ party identification and eroding feelings of "external"
+ political efficacy. Moreover, the U.S. Bureau of the
+ Census surveys show that between 1964 and 1980 turn-
+ out has actually been declining somewhat among white
+ southerners, although the decline is greater outside the
+ South. (See U.S. Bureau of the Census 1981.)
+
+ declining partisanship upon turnout in congres-
+ sional elections, even though, as we shall see, the
+ decline of partisanship has affected congressional
+ turnout more than presidential turnout.
+
+ Like all but one of the studies cited above, our
+ own analysis of the impact of the decline of par-
+ tisanship relies upon the SRC-CPS surveys. Table
+ 1 shows the percentage of whites who said they
+ voted for president for all the elections between
+ 1952 and 1980 and examines participation levels
+ within each partisan strength category. By reading
+ down each column we can examine turnout
+ among each partisan group. It is clear that there
+ has been little change in turnout among strong
+ partisans, whereas all remaining groups register a
+ decline.
+
+ Two facts should become apparent if we exam-
+ ine the data presented in Table 1. First, there
+ would have been some decline in turnout after
+ 1960 even without a decline in any of the four col-
+ umns, simply because the distribution of respon-
+ dents in the partisan-strength categories had
+ shifted. Second, there would have been a substan-
+ tial erosion in turnout even if partisanship had not
+ declined, because no partisan group increased its
+ participation and because three groups registered
+ a decline.
+
+ We can estimate what turnout would have been
+
+ from 1960 on if no decline in partisan strength
+ had occurred."' Using the distribution of partisans
+
+ 'Most of the substantive concern with the decline of
+
+ turnout has focused on the erosion of participation
+ since 1960, which is our primary reason for using the
+
+ Table 1. Percentage of Whites Who Said They Voted for President
+
+ by Strength of Party Identification from 1952 through 1980
+
+ Strength of Party Identification
+
+ Independent, Independent,
+ leans toward no partisan Total white
+ Year of Strong Weak a party leaning electorate*
+ Election % N % N % N % N N
+ 1952 85 (512)** 74 (578) 81 (255) 74 ( 81) 79.5 (1426)
+ 1956 82 (575) 76 (598) 74 (248) 78 (145) 78.2 (1566)
+ 1960t 88 (602) 82 (639) 82 (215) 75 (145) 83.3 (1601)
+ 1964 86 (470) 78 (516) 79 (194) 62 ( 95) 80.0 (1275)
+ 1968 87 (332) 76 (506) 77 (251) 66 (134) 77.9 (1223)
+ 1972 82 (481) 74 (811) 72 (461) 50 (253) 72.5 (2006)
+ 1976t 87 (468) 71 (824) 73 (474) 56 (316) 72.8 (2082)
+ 1980 86 (284) 71 (467) 73 (288) 56 (160) 73.1 (1199)
+
+ Source: Surveys conducted by the Survey Research Center and the Center for Political Studies of the University
+ of Michigan.
+
+ *Based upon respondents who were Democrats, Republicans, or independents. Apoliticals and supporters of
+ minor parties have been excluded from these calculations.
+
+ **Total numbers upon which percentages are based.
+ tWeighted Ns.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 1982 Decline of Electoral Participation in America 507
+
+ tiveness, we will not examine the effects of con-
+ gressional turnout in detail. However this decline
+ also resulted partly from the erosion of partisan
+ loyalties. According to our algebraic estimates,
+ about one-third of the decline in congressional
+ turnout between 1962 and 1978 resulted from the
+ erosion of partisanship. If, as will be necessary for
+ our comparisons with political efficacy, we begin
+ the analysis with 1966, approximately one-fifth of
+ the decline can be accounted for by the decline in
+ partisan loyalties.
+
+ in 1960 as our base, we will assume that levels of
+ turnout for each subgroup would have been the
+ same even if no erosion in partisanship had oc-
+ curred. As partisan strength did not decline be-
+ tween 1960 and 1964, the estimates using this
+ algebraic correction technique have little effect on
+ the results. However, after 1964 the percentage
+ that would have voted if partisan strength is
+ assumed to remain constant is consistently higher
+ than the percentage that actually reported voting.
+ The algebraic correction procedure predicts 79.4
+ percent turnout in 1968, 74.6 percent in 1972, 75.9
+ percent in 1976, and 75.6 percent turnout in 1980.
+ According to the SRC-CPS data, there was a
+ decline of 10.2 percentage points in presidential
+ voting between 1960 and 1980; if there had been
+ no decline in party loyalties, then everything else
+ being equal, the decline would have been 7.7 per-
+ centage points. Roughly three-fourths of the
+ decline in turnout would have occurred without
+ any erosion in partisan loyalties. Viewed from
+ another perspective, however, about one-fourth
+ of the decline in turnout can be attributed to the
+ erosion of partisan loyalties."1
+
+ Up to this point, our analyses have focused on
+ the declining levels of turnout from 1960 through
+ 1980 by imagining what turnout would have been
+ without any decline in the aggregate strength of
+ partisan affiliation in the electorate. This
+ algebraic technique provides an assessment of the
+ impact of declining partisanship but does not ad-
+ dress squarely differences in the relationship be-
+ tween partisanship and turnout from election to
+ election. To address this question we combined
+ the data reported in Table 1 into a single, large,
+ pooled, cross-sectional, time-series data set.
+
+ Our major concern is to estimate the effect of
+ declining feelings of partisan affiliation on turn-
+ out. This basic argument can be tested in equation
+ (1):
+
+ Pr(Yit=1) = f(u+flPit) (1)
+
+ Similar results obtain when we turn to the vali-
+
+ dated voting records for the 1964 and 1976 sur-
+ veys, although given the sharp decline of "vali-
+ dated" turnout in 1980, the impact of partisan-
+ ship is reduced when we compare 1964 and 1980.
+ According to our algebraic estimates, about a
+ fourth of the decline of turnout between 1964 and
+ 1976 results from the weakening of party identifi-
+ cation, but only a seventh of the decline can be ac-
+ counted for if we compare 1964 and 1980.
+
+ Because data limitations restrict our ability to
+ examine the effects of feelings of political effec-
+
+ Kennedy-Nixon contest as our baseline. It would be pos-
+ sible to begin our analyses with 1952 or 1956, since the
+ key attitudes we study were measured in both those
+ years. For a discussion of technical reasons for which
+ we do not begin with these surveys, see Abramson and
+ Aldrich (1981, note 12).
+
+ "Because part of the decline of turnout between 1960
+ and 1980 results from the enfranchisement of 18, 19,
+ and 20 year olds, and since these youths have very weak
+ partisan loyalties as well as low turnout, we conducted
+ an analysis in which 18, 19, and 20 year olds outside of
+ Georgia and Kentucky were excluded from our calcula-
+ tions. (Alaska allowed 19 and 20 year olds to vote, and
+ Hawaii enfranchised 20 year olds, but the SRC does not
+ interview in those states.) Obviously, excluding 18, 19,
+ and 20 year olds raised aggregate turnout slightly, but
+ their exclusion had virtually no effect on our estimates
+ of the impact of declining party loyalties. These youths
+ actually had slightly higher feelings of "external" politi-
+ cal efficacy than their elders, and their exclusion slightly
+ increased the impact of declining feelings of efficacy on
+ the decline of turnout.
+
+ Here, Pit refers to the ith individual's reported
+ strength of partisan affiliation in election year t
+ (t= 1960, . . ., 1980).12 Yit is one if individual i
+ voted in year t and 0 if he or she abstained, where-
+ as Pr denotes a probability of turnout to be esti-
+ mated. The equation, then, states that the proba-
+ bility of voting is a transformation of a linear
+ function of strength of partisanship. Changes in
+ proportionate turnout are attributable to varia-
+ tions in Pi in any given year or to changes in the
+ distribution of Pi over the various election years,
+ t. We will estimate it, f, and Pr(Y) via probit (us-
+ ing the McKelvey-Zavoina program (1975); see
+ also Aldrich and Cnudde (1975)). Therefore, the
+ transformation function, f, is assumed to be the
+ cumulative normal distribution function (com-
+
+ 12We collapsed the strength of partisan identification
+ scale to three points, combining weak partisans with in-
+ dependents who lean toward a party. Thus, Pit equals 0
+ for independents with no partisan leanings, 1 for weak
+ partisans and independent leaners, and 2 for strong par-
+ tisans. As can be seen in Table 1, turnout among inde-
+ pendent leaners tends to be quite comparable to turnout
+ among weak partisans. We also ran all estimations with
+ the four-point party identification scale. Although these
+ estimates are somewhat attenuated, the differences are
+ very small and not significantly different from those
+ reported here.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 508 The American Political Science Review Vol. 76
+
+ monly denoted 4A, so f = 4) in equation 1). We are
+ assuming that strength of partisanship is an inter-
+ val scale.13 More important, equation (1) assumes
+ that the same parameters describe the relationship
+ between strength of partisanship and turnout for
+ all election years.
+
+ something more to the decline of turnout than
+ just changes in strength of partisanship. The theo-
+ retical problem is more severe if equation (3) is
+ significantly superior to equation (2), for that im-
+ plies that whatever is left out is confounding the
+ relationship between Pit and turnout."4
+
+ It is possible, of course, that factors will inter-
+
+ The estimates of equations (1-3) are reported in
+
+ vene which will either stimulate or depress turnout
+ uniformly in any one year for all categories of Pi.
+ For example, the one-sided election of 1964 (or
+ 1972) might have depressed turnout regardless of
+ the strength of one's attachment to a party; that
+ is, such factors may intrude without changing the
+ relationship between strength of partisanship and
+ abstention. If we let Tit be one, if i is in the sample
+ in the tth election year, zero otherwise, this
+ hypothesis can be written as:
+
+ Pr(Yit= 1) = a(ny6 + At Tit + 3P1,) (2)
+
+ The difference between equation (2) and equation
+ (1) is only in the constant term; that is, equation
+ (1) is a special case of equation (2), where A=60
+ and At = 0 for t = 1964, . . . , 1980.
+
+ Equation (3) is an even more general equation:
+
+ Pr(Yit=l) = ('460 + AtTit + 0Pit
+
+ + at TitPid (3)
+
+ The addition of the "interaction terms" and
+ parameters ft in equation (3) allows for a changed
+ relationship between strength of partisanship and
+ turnout in each election year. If there is no change
+ in the relationship in any given year compared to
+ 1960, ft = 0. If that is true for all elections after
+ 1960, equation (3) reduces to equation (2). By
+ definition, then, equation (3) must fit the data no
+ worse (and ordinarily better) than equation (2),
+ whereas equation (2) can fit no worse than equa-
+ tion (1).
+
+ Table 2. The fit of all equations is very high (bas-
+ ed on the chi-square, -2 x LLR, statistic), but the
+ probit-analog to R2 is rather low (for equation (1),
+ roughly equivalent to a simple "correlation" of
+ 0.25), obviously suggesting a moderate relation-
+ ship."5 In each equation, the relationship between
+ Pit and turnout is strong, positive, and significant
+ and remains so in each election year in equation
+ (3). For example, equation (1) predicts a pure in-
+ dependent to vote with a probability of 0.60, a
+ weak partisan or leaner with probability 0.75, and
+ a strong partisan with probability 0.86. The cor-
+ relation between predicted proportionate turnout
+ and the actual rate of turnout for each partisan
+ category in each election year is very high in all
+ these equations, e.g. it is 0.96 for equation (1).
+ These correlations are denoted r(actual/predicted) in
+ Table 2.
+
+ Equation (1) is the most direct test of the
+ hypothesis, and Figure 1 graphically presents
+ these results. The solid line shows reported turn-
+ out for each election year, while the broken line
+ presents turnout as predicted by equation (1).
+ Clearly, equation (1) predicts much less change in
+ turnout than actually occurred. Although re-
+ ported turnout declines 10.2 percentage points be-
+ tween 1960 and 1980, equation (1) predicts a drop
+ in turnout owing to a decline in the strength of
+ partisan affiliation of only 2.3 percentage points.
+ Yet approximately 30 percent of the drop in
+ voting can be attributed to the decline of Pit."'
+
+ The hypothesis that equation (2) is not a signifi-
+
+ cant improvement over equation (1) can be re-
+ jected easily, whereas equation (3) is only some-
+
+ "4It is possible, of course, that other, excluded varia-
+ bles confound the relationship if equation (2) or even if
+ equation (1) is satisfactory. The inference in that case
+ would be that the confounding is constant over time.
+
+ "Since the estimates reported here (and in Table 4)
+ predict that citizens in all categories of the independent
+ variable in each election year have a higher probability
+ of voting than abstaining, all are predicted to vote.
+ Thus, such measures as the percentage of cases pre-
+ dicted correctly are irrelevant.
+
+ "6One measure of this is the regression of turnout in
+
+ each election year on that predicted by the estimate of
+ equation (1). This regression has a slope of 3.43, with a
+ reciprocal of 0.29, meaning that it takes about ten units
+ of predicted decline to yield three units of actual
+ decline. This figure is essentially the same as that de-
+ rived from the algebraic technique used previously.
+
+ Although the equations are nested in terms of
+ generality, the increasing generality raises theo-
+ retical questions. If equation (2) is a significant
+ improvement over equation (1), then there is
+
+ 13We recognize that there is considerable controversy
+ over the proper classification of independent leaners,
+ and over the dimensionality of the party identification
+ scale itself (Weisberg 1980; Shively 1980). However, this
+ controversy is largely orthogonal to our treatment of
+ party identification in this analysis. The debate over the
+ classification of leaners does not bear on our analysis,
+ since similar results obtain regardless of how we classify
+ them. The debate over the dimensionality of party iden-
+ tification does not directly concern us, since for the pur-
+ poses of this analysis party identification is close to in-
+ terval as it relates to turnout, at least when weak par-
+ tisans and independents who lean toward a party are
+ combined.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 1982 Decline of Electoral Participation in America 509
+
+ Table 2. Probit Estimates of the Relationship between
+
+ Strength of Party Identification and Turnout, 1960-1980t
+
+ Equation (1) Equation (2) Equation (3)
+
+ Parameter estimate
+
+ Constant in election year (Tt)
+ P60 (P) .244** .473** .670**
+ P64 +P60 .343** .385*
+ P68 + P60 .322** .366*
+ P72 +P60 .167** .127**
+ P76 +P60 .196** .119**
+ P80 +P60 .189** .113**
+
+ Slope in year (PtTt)
+ 0 (0il 0.424** .403** .240**
+ 164 + 0 .368
+ 168 + 60 .363
+ 172 + 06O .442*
+ 176 + 160 .481**
+ 180 + o 60 .478**
+ -2 x LLR 320.8(X2)** 376.7(x6)** 388.8Q42)**
+ r(A/P) .963 .977 .983
+
+ Source: Surveys conducted by the Survey Research Center and the Center for Political Studies of the University
+ of Michigan.
+ *Significant at .05.
+ **Significant at .01 (or sig. difference from base year).
+ tN = 9386 (weighted Ns for 1960 and 1976); equations (1-3) as on pp. 507-08); 3-point partisan strength scale.
+ $Correlation between actual percentage turnout for year/party combination with probit estimated percentage
+
+ turnout in each cell (18 cells), weighted by the number of cases in each cell.
+
+ what less clearly a significant improvement over
+ equation (2).17 The problem is seen quite clearly in
+ either equation estimates. Tt is significant and
+ negative in each election year. In 1964 and in 1968
+ there was a drop in participation for all levels of
+ Pit (of about the same magnitude each year),
+ whereas there was a second substantial drop in
+ 1972, 1976, and 1980. For equation (3), we can see
+ in addition that there was a positive interaction ef-
+ fect in all election years after 1960, but it was a
+ significant improvement only in the last three elec-
+ tions. In sum, the 1960 election was atypical in
+ having a higher participation rate for all Pi's, but
+ with a weaker relationship between Pi and turn-
+ out. The last three elections, for example, evi-
+ denced a much stronger relationship between
+ strength of partisanship and turnout compared to
+
+ "7The test is developed in Aldrich (1977) and is
+ analogous to the Chow test in regression (Chow 1960).
+ Basically, the test is of the difference in the log likeli-
+ hood functions of the more and less constrained equa-
+ tions. The comparison of equation (2) to (1) yields a x2
+ of 55.9 (a > 0.999), equation (3) compared to equation
+ (2) yields a X2 of 12.1 (0.975 > a > 0.95) and equa-
+ tion (3) compared to equation (1) yields a xI of 68.0 (a
+ > 0.999).
+
+ 1960, but for pure independents, starting at a
+ much lower level of participation.
+
+ We estimated the comparable probit equations
+ for the 1964, 1976, and 1980 elections using
+ reported and validated turnout as the dependent
+ variables. The results are similar to those reported
+ previously. Although the slope coefficients are
+ somewhat smaller (especially for 1980) in the
+ validated vote estimates, they are not significantly
+ different from those using reported voting. Thus,
+ the use of self-reported turnout does not affect
+ our results significantly.
+
+ We also estimated equations (1-3) for off-year
+ congressional turnout for the 1962 through 1978
+ election years. The coefficient estimate for parti-
+ sanship in equation (1) is almost identical to that
+ for the presidential turnout estimates (0.404 ver-
+ sus 0.424, respectively). However, the decline in
+ turnout for congressional elections is much more
+ closely related to partisanship. Equation (1) esti-
+ mates predict seven-tenths of the actual decline in
+ turnout between 1962 and 1978. If we begin the
+ analysis with 1966, then partisanship is estimated
+ to account for just over one-fourth of the decline.
+ In sum, the strength of partisan affiliation is
+
+ strongly and positively related to turnout in each
+ election, and this relationship has grown over
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 510 The American Political Science Review Vol. 76
+
+ decline we must rely upon a simple two-item in-
+ dex"8 and would be more confident if we had a
+ measure that captured the subtleties of the elec-
+ torate's changing beliefs about the behavior of
+ elected officials. However, we are using the best
+ measure that can be employed over the appropri-
+
+ "Scores were based upon responses to the following
+
+ statements: "I don't think public officials care much
+ what people like me think," and "People like me don't
+ have any say about what the government does." (See
+ note 6 for the sources that justify combining these items
+ into a single measure.) Respondents who disagreed with
+ both items were scored as highly efficacious; those who
+ disagreed with one but agreed with the other were
+ scored as medium; those who agreed with both were
+ scored as low. Respondents with ambiguous responses
+ to one of these questions were scored as either high or
+ low according to their response on the remaining item,
+ and those with ambiguous responses to both items were
+ excluded from the analysis.
+
+ Actual percentage that said
+ they voted
+
+ - ___- Percentage turnout edicted
+
+ by profit equation 1
+
+ time. As a result, the erosion of partisanship in
+ the electorate can explain between 25 and 30 per-
+ cent of the decline in participation in presidential
+ elections and even more of the decline in off-year
+ congressional elections. Still, there is a good deal
+ more to the decline of turnout than the decline of
+ partisanship. We turn now to consider a second
+ attitudinal trend to help solve the puzzle of declin-
+ ing turnout-the erosion of "external" political
+ efficacy.
+
+ Decline in Beliefs about Government
+ Responsiveness and Decline of Turnout
+
+ The decline in feelings of political effectiveness
+
+ has been widely documented (Abramson 1977;
+ Wright 1976), but the extent of that decline
+ becomes clearer if we focus on beliefs about gov-
+ ernment responsiveness, or what Balch (1974) and
+ others have called feelings of "external" political
+ efficacy. To study such feelings over the period of
+
+ 85%
+
+ 80% _
+
+ 75%
+
+ 70%A I I _ I
+
+ Year of Election: 1960 1964 1968 1972 1976 1980
+
+ Source: Surveys conducted by the Survey Research Center and the Center for Political Studies of the University
+ of Michigan.
+ aBased upon respondents who were Democrats, Republicans, or independents. Apoliticals and supporters of
+ minor parties have been excluded from these calculations.
+ bSee p. 507 for the equation; 3-point partisan strength scale.
+
+ Figure 1. Percentage of Whites Who Said They Voted for President from 1960 through 1980,
+
+ Estimating the Impact of the Decline of Partisan Strength upon Turnout
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 1982 Decline of Electoral Participation in America 511
+
+ ate time period."' When we turn to our index we
+ find that feelings of "external" political efficacy
+ were highest in 1956 and 1960, when 64 percent of
+ the whites scored high on our measure. By 1964
+ the percentage scoring high dropped to 56 per-
+ cent, and this percentage has declined consistently
+ through 1978. By 1978 only 38 percent scored high
+ on the "external" political efficacy measure,
+ while 39 percent did in 1980. Likewise, the per-
+ centage scoring low on this measure was only 15
+ percent in 1956 and 1960 but has risen fairly
+ steadily since. By 1978 34 percent of the white
+ electorate scored low on this measure, and in 1980
+ 30 percent scored low.
+
+ We have strong theoretical reasons to expect
+ that persons who feel politically effective will be
+ more likely to vote. Persons who feel politically
+ capable may feel psychologically motivated to
+ participate, whereas those who feel overwhelmed
+ by the political process may withdraw from
+ political activity. Moreover, feelings of political
+ effectiveness are also related to support for
+ democratic political norms that value citizen par-
+ ticipation. From a rational-choice perspective,
+ one would expect that beliefs that the government
+ is responsive would increase the subjective utility
+ of voting. The expected benefits of voting will be
+ higher if one believes that officials are unrespon-
+ sive. Regardless of our theoretical perspective, we
+ have numerous empirical studies that document a
+ relationship between high feelings of political ef-
+ fectiveness and political participation. Some of
+ these studies have examined the impact of chang-
+ ing levels of political efficacy upon the decline of
+ turnout. However the conceptual confusion that
+ now surrounds the measurement of this concept
+ has led to contradictory conclusions about the ef-
+ fects of efficacy.
+
+ Ashenfelter and Kelley (1975), who include one
+ "internal" efficiacy item in their measure
+ ("politics seem complicated"), conclude that feel-
+ ings of efficacy have little effect upon turnout.
+ Hill and Luttbeg (1980) combine the two "exter-
+ nal" efficacy items into a measure of "aliena-
+ tion," but they fail to estimate the impact of in-
+ creasing "alienation" upon turnout. And in his
+ article with Cassell, Hill used the standard four-
+ item index of political efficacy which has now
+ been abandoned by the Michigan researchers
+ themselves. Cassel and Hill (1981) conclude that
+ the decline of efficacy has had little impact on the
+ decline of turnout. However by including the
+
+ "9New items to measure feelings of "external" politi-
+
+ cal efficacy were introduced in 1968. These new items
+ can be used to form useful measures, but they are not
+ included in this analysis because of the need to maintain
+ comparability over time.
+
+ "voting is the only way" item in their measure,
+ they seriously weaken their ability to study trends
+ (see Converse 1972). Reiter's (1979) analysis is dif-
+ ficult to interpret since he does not report the
+ items he used to construct his measure of political
+ efficacy. Miller, on the other hand, reaches clear
+ conclusions when he reports (1980, p. 24) that
+ "The explanation for declining turnout is not to
+ be found in commensurate declines in political in-
+ terest or involvement, or in decreasing sense of
+ civic duty, feelings of political efficacy, or trust in
+ government." These conclusions about efficacy
+ actually refer only to "internal" political efficacy,
+ although even here Miller's conclusions are con-
+ founded since he includes the "don't have any
+ say" item in his measure of "internal" effec-
+ tiveness.
+
+ Once again, Shaffer (1981) has presented the
+ most solid analysis. He correctly chooses the two
+ basic "external" efficacy items to construct his in-
+ dex, although he selects them on grounds of
+ reliability rather than validity and does not label
+ his measure as "external" efficacy. Although he
+ tends to exaggerate his estimate of the impact of
+ the decline of efficacy (see Abramson and Aldrich
+ 1981, note 25), his fundamental conclusions are
+ sound. And although Shaffer's discriminant
+ analyses do not clearly present the changing im-
+ pact of the decline of efficacy on the decline of
+ turnout from election to election, these analysis
+ also are basically sound. Including blacks with
+ whites is not a serious problem when examining
+ the impact of "external" political efficacy, since
+ the trends for both races are similar from 1960 on-
+ ward. However given the differing racial trends in
+ participation, it is still preferable to examine
+ whites and black separately.
+
+ Despite the considerable confusion in the
+ research literature, our own expectations are clear
+ enough. Given that persons who feel politically ef-
+ ficacious are more likely to vote than those who
+ feel inefficacious, the overall weakening of feel-
+ ings of "external" efficacy among the electorate
+ may contribute to the decline of electoral par-
+ ticipation. The data in Table 3 allow us to ex-
+ amine the relationship of feelings of "external"
+ political efficacy to participation in all eight
+ presidential elections between 1952 and 1980.20 By
+
+ "In examining these trends over time, we do not pre-
+ sent change among each efficacy level with controls for
+ level of education. Cassel (1981), in a discussion of an
+ earlier version of this article (Abramson and Aldrich
+ 1981), argues that by not including level of education in
+ our analysis we have not specified our model ade-
+ quately. We disagree. Including education would be
+ necessary if our goal were to explain all variation in
+ turnout during the postwar years, but our goal is to ac-
+ count for the decline of turnout. During the postwar
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 512 The American Political Science Review Vol. 76
+
+ Table 3. Percentage of Whites Who Said They Voted for President
+ by Sense of "External" Political Efficacy from 1952 through 1980
+
+ Score on "External" Political Efficacy Index:*
+
+ Total white
+ Year of High Medium Low electorate**
+ election % N % N % N % N
+
+ 1952 84 (805)t 76 (372) 66 (260) 78.7 (1437)
+ 1956 83 (1026) 70 (324) 57 (247) 76.6 (1597)
+ 1960t 89 (1050) 77 (351) 60 (226) 82.4 (1627)
+ 1964 84 (722) 76 (315) 71 (250) 79.5 (1287)
+ 1968 86 (561) 79 (271) 61 (356) 77.2 (1188)
+ 1972 82 (897) 72 (534) 57 (593) 72.0 (2024)
+ 1976t 84 (834) 73 (553) 59 (704) 72.6 (2091)
+ 1980 84 (467) 72 (377) 57 (366) 72.1 (1210)
+
+ Source: Surveys conducted by the Survey Research Center and the Center for Political Studies of the University
+ of Michigan.
+ *For a description of the procedures used to construct this index, see note 18.
+
+ **Based upon respondents who received a score on the "external" political efficacy index.
+
+ tTotal numbers upon which percentages are based.
+ 4Weighted Ns.
+
+ reading down each column of Table 3 we can ex-
+ amine change in turnout among each political ef-
+ ficacy group. Among whites with high levels of
+ "external" political efficacy, turnout was highest
+ in 1960 and has declined since. Among whites
+ with medium levels, turnout was fairly high in
+ 1960 and was somewhat lower in 1972, 1976, and
+ 1980. On the other hand, there has been little con-
+ sistent change among respondents with low feel-
+ ings of political efficacy, and turnout was only
+ marginally lower in the three most recent elections
+ than it was in 1960.
+
+ We can estimate what turnout would have been
+ from 1960 on if no decline in feelings of "exter-
+ nal" efficacy had occurred by using the distribu-
+ tion of respondents in each efficacy category as
+ our base, and by assuming that levels of turnout
+ for each subgroup would have been the same even
+ if no erosion in feelings of "external" efficacyhad
+ occurred. According to our estimates, if "exter-
+
+ nal" efficacy had not declined, turnout would
+ have been 80.5 percent in 1964, 81.0 percent in
+ 1968, 76.4 percent in 1972, 78.2 percent in 1976,
+ and 77.7 percent in 1980. In every survey from
+ 1964 on, estimated turnout with no change in feel-
+ ings of political effectiveness is higher than the
+ reported turnout (see the last column of Table 3).
+ According to the SRC-CPS data there was a
+ decline of 10.3 percentage points in reported turn-
+ out between 1960 and 1980. If there had been no
+ decline in feelings of "external" political efficacy,
+ then everything else being equal, the decline
+ would have been only 4.7 percentage points. In
+ other words, less than one-half of the decline in
+ turnout would have occurred without any change
+ in beliefs about government responsiveness. At
+ the same time, somewhat more than one-half of
+ the decline in turnout can be attributed to the ero-
+ sion in feelings of "external" political efficacy.
+
+ Unfortunately, we are somewhat thwarted in
+
+ years educational levels have risen. Throughout the
+ postwar years whites with higher levels of education
+ have scored higher on "external" political efficacy.
+ However, since 1960 feelings of "external" efficacy
+ have declined among whites at all levels of education,
+ and efficacy has declined despite rising levels of educa-
+ tion. Likewise, throughout the postwar years, whites
+ with higher levels of education have been more likely to
+ vote. However, since 1960 turnout has declined among
+ all educational subgroups (except college graduates),
+ and turnout has thus declined despite rising educational
+ levels. The main effect of rising educational levels has
+ been to slow down both the decline of "external" ef-
+ ficacy and the decline of turnout.
+
+ our efforts to estimate the effects of the erosion of
+ feelings of political efficacy upon the decline of
+ "validated" turnout, as the first voter validation
+ study was conducted only in 1964 after the decline
+ in feelings of "external" political efficacy was
+ already under way. Still, the validated results also
+ suggest that the erosion of these feelings con-
+ tributed to the decline of turnout. According to
+ our algebraic estimates, about one-third of the
+ decline of turnout between 1964 and 1976 resulted
+ from the erosion of feelings of political efficacy,
+ although if one only examines the decline between
+ 1964 and 1980, eroding feelings of efficacy ac-
+ count for only one-fifth of the decline.
+
+ We are also hindered in our efforts to estimate
+ the effects of the erosion in feelings of political ef-
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 1982 Decline of Electoral Participation in America 513
+
+ fectiveness upon the decline of congressional
+ voting because the first survey that allows us to
+ examine the relationship between these feelings
+ and off-year voting was conducted only in 1966.
+ Nonetheless, our algebraic estimates suggest that
+ about one-fifth of the decline in off-year turnout
+ between 1966 and 1978 resulted from declining
+ beliefs about government responsiveness.
+
+ that an individual with low feelings of "external"
+ efficacy will vote with a probability of approxi-
+ mately 0.60. This probability rises to 0.75 for
+ those in the middle category and to 0.85 for those
+ highest in feelings of efficacy. The correlations
+ between actual and predicted turnout rates in the
+ eighteen efficacy/year categories are very high for
+ each equation.
+
+ Given the limitations of our algebraic estimates,
+
+ we again turn to probit analysis to specify these
+ relationships better. We substituted "external"
+ efficacy for strength of partisanship into equa-
+ tions (1-3), with efficacy coded 2 = high,
+ I = medium, 0 = low, and estimated the three
+ equations via probit. These estimates are reported
+ in Table 4 for presidential turnout over the period
+ from 1960 through 1980.
+
+ As expected, the relationship between efficacy
+ and turnout is somewhat stronger than that be-
+ tween strength of partisanship and turnout. All
+ goodness-of-fit-type measures are somewhat
+ stronger, and of course efficacy is strongly and
+ positively related to turnout in each set of
+ estimates. The estimates of equation (1) predict
+
+ Figure 2 presents the results of the equation (1)
+ test. Again, the solid line shows reported turnout,
+ and the broken line shows the equation (1) predic-
+ tions. As compared to strength of partisanship,
+ the estimates of equation (1) are much more close-
+ ly aligned with the actual decline in voting. Equa-
+ tion (1) predicts a turnout rate of 80.2 percent in
+ 1960 and 75.1 percent in 1980, for an overall
+ predicted decline of 5.1 percent. As with our
+ algebraic estimates, the estimates of equation (1)
+ explain almost exactly one-half of the decline in
+ voting.2" The estimates of equation (1) fit the
+
+ 2"By regressing reported turnout rates in each year on
+ those predicted by the estimates of equation (1), we find
+
+ Table 4. Probit Estimates of the Relationship between
+
+ Sense of "External" Political Efficacy and Turnout, 1960-1980t
+
+ Equation (1) Equation (2) Equation (3)
+
+ Parameter estimate
+
+ Constant in election year (Tt)
+ 11 (t) .247** .392** .250**
+ /64 + 160 .372 .513**
+ A68 + /160 .335 .316
+ 1172 +160 .172** .184
+ 1176 +1160 .225** .220
+ 1180 + 160 .201** .168
+
+ Slope in year (EtTt)
+
+ 3 (i60) .399** .385** .490**
+ (64 + 60 .237**
+ 0368 +f60 .403
+ (72 +P60 .372*
+ 376 +l(60 .389
+ (80 +(60 .418
+
+ -2 x LLR 559.6(X2)** 590.0(X2)** 604.9(X21)
+ r(A/P)t .962 .962 .997
+
+ Source: Surveys conducted by the Survey Research Center and the Center for Political Studies of the University
+ of Michigan.
+
+ *Significant at .05.
+
+ **Significant at .01 (or sig. difference from base year).
+ tN = 9427 (weighted Ns for 1960, 1976); equations (1-3) as on pp. 507-08. See p. 513 for the substitution to mea-
+ sure the effects of "external" political efficacy.
+ tCorrelation between actual and estimated percentage turnout for year/efficacy combinations (18 cells)
+
+ weighted by number of cases in each cell.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 514 The American Political Science Review Vol. 76
+
+ decline in turnout from 1960 to 1968 very closely
+ but underpredict the extent of the decline from
+ 1968 to 1972 (and thus 1976 and 1980).
+
+ The estimates of equation (3) fit significantly
+ better than those of equation (2) which, in turn,
+ fit significantly better than those of equation (1)22
+ These equation-by-equation differences are not as
+ substantial as with partisanship, however. The
+ relationship of efficacy to turnout was highest in
+ 1960, fell sharply in 1964, rose close to its 1960
+
+ level in 1968, then declined again. The pattern for
+ partisanship, we should recall, was substantially
+ different. The relationship of partisanship to
+ turnout was low in 1960 but has risen over time.
+
+ The estimates of the validated versus self-
+
+ reported turnout variables with efficacy further
+ support the use of the self-reported turnout
+ measure, for the impact is not significantly dif-
+ ferent from self-reported voting.
+
+ Probit estimates of equations (1-3) for the 1966
+
+ that it takes about 1.97 units of predicted decline to
+ yield one unit of actual decline. The reciprocal of the
+ slope estimate is 0.507; thus about one-half of the
+ decline in turnout can be attributed to the decline in
+ "external" efficacy.
+
+ 22The chi-square values, analogous to those reported
+
+ in footnote 17, are 30.4 (5 degrees of freedom, a >
+ 0.999) for the comparison of equation (2) to (1); 14.1 (4
+ degrees of freedom, 0.995 < a < 0.999) for comparing
+ equation (3) to (2); and 45.7 (10 degrees of freedom, a
+ > 0.999) for comparing equation (3) to equation (1)
+ estimates.
+
+ through 1978 congressional election years tell
+ basically the same story as the results reported
+ previously. The estimates of equation (1) suggest
+ that about 27 percent of the decline in turnout
+ over this period can be attributed to the (by now
+ well under way) erosion in feelings of "external"
+ efficacy. The Maximum Likelihood Estimation
+ (MLE) coefficient of efficacy in equation (12) is
+ 0.236, a figure lower than in the presidential turn-
+ out estimates. In equations (2) and (3), for exam-
+ ple, no individual coefficient except those for ef-
+ ficacy itself is statistically significant (although the
+ cumulative impact is), implying that no single
+
+ 85%0
+
+ 80% 0/ - >s
+
+ 75% -
+
+ Actual percentage that said
+ they voteda
+
+ - _ _O _Percentage turnout predicted
+
+ by probit equation 1D
+
+ 70%/ I I
+
+ Yearof Election: 1960 1964 1968 1972 1976 1980
+
+ Source: Surveys conducted by the Survey Research Center and the Center for Political Studies of the University
+ of Michigan.
+ aBased upon respondents who received a score on the "external" political efficacy index.
+ bSee p. 507 for the equation, and p. 513 for the substitution to measure the effects of "external" political
+ efficacy.
+
+ Figure 2. Percentage of Whites Who Said They Voted for President from 1960 through 1980,
+
+ Estimating the Impact of Declining Levels of "External" Political Efficacy upon Thrnout
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 1982 Decline of Electoral Participation in America 515
+
+ election year was significantly different from
+ 1966.
+
+ On balance, the decline in feelings of
+ "external" political efficacy appears to provide a
+ partial first-order explanation for the decline in
+ electoral participation and may account for about
+ one-half the decline in turnout in presidential elec-
+ tions. Unfortunately, we do not have an ap-
+ propriate baseline for estimating the effect of this
+ erosion upon the decline of turnout in off-year
+ congressional elections. For the presidential
+ voting trend, the decline in beliefs about govern-
+ ment effectiveness appears to account for more of
+ the decline in turnout than the erosion of partisan
+ strength. Given that each of these attitudinal
+ trends appears to account for some of the decline
+ in turnout, we may now turn to the next logical
+ question: What is the combined effect of both
+ these attitudinal trends?
+
+ Combined Impact of Decline in Party
+ Identification and Decline in Beliefs
+ about Government Responsiveness
+
+ The combined impact of the two attitudinal
+ trends upon the decline of participation will ob-
+ viously depend upon how strongly these two at-
+ titudes are related to each other; the maximum
+ opportunity for the combined trends to have a
+ greater impact on the decline of participation will
+ occur if these attitudes are unrelated. As we have
+ shown elsewhere (Abramson and Aldrich 1981, p.
+ 31), strength of party identification and beliefs
+ about government responsiveness are largely or-
+ thogonal.
+
+ When we classify each respondent according to
+ his or her partisan strength and feelings of "exter-
+ nal" political efficacy, twelve subgroups emerge.
+ We have elsewhere (Abramson and Aldrich 1981,
+ p. 32) presented the distribution of the white elec-
+ torate according to these two attitudes for all
+ twelve surveys in which both attitudes were
+ measured. There has been a very substantial shift
+ in the distribution of respondents. This shift
+ began in 1964 when feelings of "external"
+ political efficacy declined and was intensified in
+ 1966 when strength of party identification
+ registered its greatest decline. In 1960, nearly one-
+ fourth of the white electorate was in the combined
+ category with the highest potential for participa-
+ tion-strong partisans with high feelings of "ex-
+ ternal" political effectiveness. Since 1972 about
+ one white in ten fell in this combined category.
+ Change was less dramatic for the category with
+ the lowest potential for participation-pure in-
+ dependents with low feelings of political efficacy.
+ In 1960 fewer than one white in forty was in this
+ subgroup; by 1976 and 1978 this group had grown
+
+ to one in sixteen and one in seventeen. In 1980 one
+ white in twenty fell in this group. In addition,
+ there has been a shift in the relative size of other
+ attitude subgroups. Most high-participation
+ groups have diminished in size, whereas most low-
+ participation groups have grown. (Abramson and
+ Aldrich 1981, pp. 33-34, and note 32).
+
+ Table 5 presents the percentage of whites who
+ said they voted for president for all the elections
+ between 1952 and 1980 among each of the twelve
+ attitude subgroups. By reading down each column
+ of Table 5 we can examine change in turnout
+ among each subgroup. Seven of the subgroups
+ registered no consistent change in turnout be-
+ tween 1960 and 1980, and two groups, weak par-
+ tisans with medium efficacy levels and indepen-
+ dent learners with medium efficacy levels,
+ registered only a moderate decline (a drop of
+ about 1.5 percentage points per quadrennium).
+ Three subgroups registered a decline of about
+ three percentage points per election: weak par-
+ tisans with low feelings of political effectiveness,
+ pure independents with high feelings of political
+ effectiveness, and pure independents with
+ medium levels of political effectiveness.
+
+ To estimate the effects of the combined attitude
+ change on the decline of turnout we will use the
+ distribution of respondents in each attitude
+ subgroup in 1960 as our base and assume that
+ levels of turnout for each subgroup would have
+ been the same even if there had been no attitude
+ change among the electorate. According to our
+ algebraic estimates, turnout would have been 80.8
+ percent in 1964, 83.5 percent in 1968, 78.5 percent
+ in 1972, and 80.7 percent in both 1976 and 1980.
+ In every survey from 1964 on, estimated turnout
+ with no attitude change is higher than the
+ reported turnout (see the last column of Table 5).
+ According to the SRC-CPS data, there was a
+ decline of 10.3 percentage points in turnout be-
+ tween 1960 and 1980. If there had been no decline
+ in either partisan strength or in feelings of "exter-
+ nal" political efficacy, the decline would have
+ been only 2.9 percentage points. In other words,
+ just under three-tenths of the decline in turnout
+ would have occurred without any change in the
+ distribution of these attitudes. Conversely, more
+ than seven-tenths of the decline in turnout can be
+ attributed to the combined effect of the erosion in
+ partisanship and the decline in feelings of "exter-
+ nal" political efficacy.
+
+ The "validated" voting results also suggest that
+ the combined impact of declining party loyalties
+ and eroding feelings of "external" political ef-
+ ficacy played a major role in the decline of turn-
+ out. According to our algebraic estimates, about
+ three-fifths of the decline in presidential turnout
+ between 1964 and 1976 resulted from the com-
+ bined impact of these two trends. However, given
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 516 The American Political Science Review Vol. 76
+
+ . M t M 00 'IO C
+
+ ra 0 00 00
+
+ o_ Q
+
+ C.)
+
+ Q C 0 Q n C-. 00 f ) a) O ) C O
+
+ 00~~~~c)0C~~0
+
+ s 00otntn r- .- k to0t %O
+
+ tO a: E 2; e ~~~~~~N C4 %1 oI Co CI Mt Cf 3 Wt 2; (O N kn V- oo- Cn C s
+
+ - < w0 t o ^ oo F _4 ao oo W Wo O O ? N e 00 . N t w
+
+ CI) CI) Cl (I CI)~r CI)f O)0 aC
+
+ M o 0 - t OQ No4 ' ON C C ) N Cn n'.
+
+ ~~~_ q _n ^
+ s X w~~~~~~~~~~~~~~~~~~~0 kn kn M , Nt %O CI v-- qt at
+ g m z~~~~~~~~~~O eN 00 M C) kn v-- v-- Cn q* C N t 00 0
+
+ CQ~~~~~~~~~~~~~~~~0CC ; a)
+
+ W:~ ~ ~ E e > e ___ 90
+
+ as V-~~r 00 00 00 00 00 00 00 00 00 0 - C -. .
+
+ 0~~~~~~~~~~~~~~ ;_4 00 EO W) t- ) 0 W
+
+ 0ZO-00 00 (ON00 ON r 1'O-.. V ,
+
+ C.)
+
+ CN V2 00 00t ) CI)OCl - ~ C-40- M
+
+ 0 : 0CI) r--4 N Vlt
+ oCQ~~~~~~~~~~~~~~~~~~~~~~~- CD 0
+
+ w O- OONOOOOOOO~~~~~~~~~~~hOD O O- bo0O~~~~~~~~~~oNOF | 0 n~~~4 q
+
+ W 000 CN 0NON ON ~0i) oo0 r00 00 0000 00 00 b s-
+
+ t~~~~~~~~~~~~C 00C4G O C- YO 00N,
+ m~~~~~~~~~~~~k tr ",. tO t- 0 "t. 0 t ~ W %O O o0 r- O0 - 0
+ z~~~~~~~~~~~~~~~~C M M M N CN C) M N01 C N _ ON M (O Z) Q o> z
+ F~~~~~~~~~~~> . - ___ __ V. V_____ - r. O .- (A V- O4V~"44"qV4"4r0
+
+ 0 ~~~~~~~~~~~~ ~ ~ ~ ~ ~~0:
+
+ a) U) . OO- 004 ))
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 1982 Decline of Electoral Participation in America 517
+
+ the sharp decline of "validated" turnout in 1980,
+ the combined impact of these trends accounts for
+ only one-third of the decline in turnout between
+ 1964 and 1980.
+
+ We must wait until 1966 to examine the joint ef-
+ fects of these attitudes on voting in off-year con-
+ gressional elections. According to our estimates,
+ about two-fifths of the decline appears to result
+ from the combined impact of these two attitude
+ trends.
+
+ The probit estimates of the effects of both party
+
+ and efficacy on turnout are displayed in Table 6.
+ In most respects, these results are a straightfor-
+ ward combination of those obtained by analyzing
+ the two variables separately. All equations fit the
+ data well. For the first time, such groups as those
+ low in efficacy and independent of party are
+ predicted to be-and in fact are-more likely to
+ abstain than to vote. Both party and efficacy are
+ strongly and positively related to turnout in all
+ equations, and there is a very close fit between ac-
+ tual and predicted proportionate turnout for the
+
+ 54 party-efficacy election-year categorizations.
+ Figure 3 presents the results of equation (1).
+
+ The solid line plots the reported turnout for each
+ election year; the broken line shows turnout as
+ predicted by equation (1). The results look a bit
+ like the efficacy figure. The equation (1) estimate
+ fits the actual turnout rates very closely for 1960
+ through 1968 but underpredicts the drop from
+ 1968 to 1972 (and therefore misses 1976 and 1980
+ somewhat). The algebraic technique suggests that
+ about seven-tenths of the increase in abstention is
+ due to the changes in the two independent
+ variables. Equation (1) predicts 82.3 percent turn-
+ out in 1960 and 75.8 percent in 1980, a drop of 6.5
+ percentage points. Estimates of equation (1) imply
+ that about two-thirds of the decline in turnout is
+ due to the drop in Pit and EFFit23.
+
+ 23The regression of actual on predicted (via equation
+
+ (1)) turnout rates for each year yields a slope of 1.50,
+ with reciprocal of 0.67; hence the two-thirds figure.
+
+ Table 6. Probit Estimates of the Relationships among Strength of Party Identification,
+
+ Sense of "External" Political Efficacy, and Turnout, 1960-1980t
+
+ Equation (1) Equation (2) Equation (3)
+
+ Parameter estimate
+
+ Constant in election year (Tt)
+
+ P60 Q4) -.141** -.014 .066
+ P64 +1P60 -.107 .138
+ P68 + P60 -.047 -.081
+ P72 +1/60 -.207** -.250*
+ P76 + I60 -.137** -.197*
+ P80 +1P60 -.151** -.252*
+
+ Slope in year
+
+ (PtTt) (EtTt) (3 13 (3 7
+ 0 60) 7 (760) .295** .374** .387** .364** .243** .432**
+ 164 +160 764 +760 .345 .210**
+ 168 +160 768 + 760 .379 .406
+ 172 +060 772 + 760 .437 .355
+ 176 +1360 776 + 760 .446* .366
+ 180 +1360 780 +760 .440* .411
+
+ -2 xLLR 776.1(X2)** 795.1(X7)** 817.2(X2)**
+ r(A/P)i .944 .964 .970
+
+ Source: Surveys conducted by the Survey Research Center and the Center for Political Studies of the University
+ of Michigan.
+
+ *Significant at .05.
+ **Significant at .01 (or sig. difference from base year).
+ tN = 9293 (weighted Ns for 1960, 1976); equations (1-3) as on pp. 507-08; 3-point partisan strength scale. See p.
+ 513 for the substitution to measure the effects of "external" political efficacy.
+
+ i:Correlation between actual and estimated percentage turnout for each year/party efficacy combination (54
+
+ cells), weighted by number of cases in each cell.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 518 The American Political Science Review Vol. 76
+
+ Equations (2) and (3) also display much the
+ same patterns as those found earlier. In particu-
+ lar, there is a significant improvement in moving
+ from equation (1) to (2) and, also, although a
+ more minor one, from equation (2) to (3).
+ Although statistically significant, the improve-
+ ments are only marginal.24 From equation (3), we
+ can see that the constant term drops more or less
+ consistently and in fact is significantly lower in the
+ 1970s and 1980s compared to 1960. The estimated
+ impact of strength of partisanship is lowest in
+ 1960 and rises monotonically but apparently in
+
+ 24The relevant chi-square figures are 19.0 (5 degrees
+ of freedom; 0.999 > a > 0.995) for equation (2) com-
+ pared to equation (1); 22.0 (10 degrees of freedom;
+ 0.975 < c < 0.990) for comparing equation (3) to equa-
+ tion (2); and 41.0 (15 degrees of freedom; ca > 0.999)
+ for comparing equation (3) to equation (1). See footnote
+ 17.
+
+ two steps. The slope estimates for 1964 and 1968
+ are moderately larger than in 1960 and roughly
+ identical, whereas those for 1972 through 1980 are
+ significantly larger than that of 1960 and of
+ roughly the same magnitude. Efficacy was most
+ strongly related to turnout in 1960, although the
+ decreased impact is but slight from 1968 through
+ 1980. However, in 1964 the impact of efficacy was
+ about one-half that of 1960.
+
+ Once again, the validated vote estimates have
+
+ been compared to the self-reported vote measure
+ for the 1964, 1976, and 1980 elections, and once
+ again these comparisons yield no surprises. Self-
+ reporting is nearly unrelated to the independent
+ variables examined here.
+
+ The analysis of congressional election-year
+ turnout is confined to the period from 1966
+ through 1978. The joint effects of the two varia-
+ bles are basically equivalent to the sum of their
+ separate effects. Both variables accounted for
+ about one-quarter of the decline in turnout sepa-
+
+ 85/_
+
+ 80%
+
+ \ %> by probit equation 1
+
+ Percentage turnout predicted
+
+ Actual percentage that said
+ they voteda
+
+ 75% - -
+
+ 700/0 1 l l !
+ Yearof Election: 1960 1964 1968 1972 1976 1980
+
+ Source: Surveys conducted by the Survey Research Center and the Center for Political Studies of the University
+ of Michigan.
+ aBased upon respondents who were Democrats, Republicans, or independents, and who received a score on the
+
+ "external" political efficacy index.
+
+ bSee p. 507 for the equation, and p. 513 for the substitution to measure the effects of "external" political efficacy.
+ Estimates employ the 3-point partisan strength scale.
+
+ Figure 3. Percentage of Whites Who Said They Voted for President from
+
+ 1960 through 1980, Estimating the Combined Impact of the Decline of Partisan Strength
+
+ and Declining Levels of "External" Political Efficacy upon Turnout
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 1982 Decline of Electoral Participation in America 519
+
+ rately, and their combined effect, through equa-
+ tion (1) estimates, is 49.4 percent.
+
+ Conclusions
+
+ The combined effect of the decline in partisan
+ strength and the decline in beliefs about govern-
+ ment responsiveness appears to account for be-
+ tween two-thirds and seven-tenths of the decline
+ in presidential turnout. Although we do not have
+ an appropriate baseline for estimating the effects
+ of the attitude changes upon the decline of con-
+ gressional turnout, the combined trends appear to
+ account for about two-fifths to one-half of that
+ decline even for the limited period that we were
+ able to study.
+
+ This analysis has not attempted a comprehen-
+ sive explanation of the changes in attitudes them-
+ selves, mainly because the reasons for these atti-
+ tude changes have been widely discussed. For
+ example, the decline of party identification results
+ from the combined impact of generational re-
+ placement and the historical forces which eroded
+ partisanship between 1964 and 1966 (cf., Abram-
+ son 1976; Converse 1976; Glenn 1972), whereas
+ the decline in feelings of political effectiveness
+ results from more generalized disaffection which
+ may be a response to political events (cf., Abram-
+ son 1977; Wright 1976; House and Mason 1975;
+ Converse 1972). However, even without attempt-
+ ing to explain the causes of the attitude changes,
+ more complex analyses are possible. One of the
+ major areas for future attitude research, which we
+ will discuss below, is an attempt to evaluate the
+ impact of both short-term and long-term forces
+ on the decline of turnout. Analyses of individual-
+ level attitude change, which can be explored
+ through both the 1956 to 1960 and the 1972 to
+ 1976 SRC panel studies, may provide insights
+ about these forces.
+
+ It should also be recognized that the data pre-
+ sented in this article do not account for all of the
+ changes in postwar electoral participation. For
+ example, the decline in participation between 1968
+ and 1972 is greater than one would predict from
+ attitude change alone. And these attitudes do not
+ account very well for rise in political participation
+ between 1952 and 1960.25
+
+ Still, our empirical results are highly satisfac-
+
+ "Approximately one-third of the increased partici-
+ pation between 1952 and 1960 can be accounted for by
+ increased feelings of "external" political efficacy. How-
+ ever the increase in "external" political efficacy oc-
+ curred between 1952 and 1956, and participation fell in
+ 1956. Moreover, increases in participation cannot result
+ from changes in partisan loyalties, since partisan
+ strength was stable between 1952 and 1960.
+
+ tory. However, they do not discriminate between
+ alternative theoretical views of voting behavior.
+ For example, our findings are quite consistent
+ with the social-psychological view of voting
+ behavior. Indeed, the two independent variables
+ that we use are firmly grounded in, and derived
+ from, this attitudinal view of behavior. We have
+ indicated already that the relationships we dis-
+ covered would also be predicted by a rational-
+ choice orientation, but this last point needs some
+ further elaboration, particularly in light of the
+ decline in the expressed concern over the electoral
+ outcome since 1964 and the importance of this
+ ''concern" variable in rational-choice models of
+ turnout (Aldrich 1976; Ferejohn and Fiorina
+ 1979, 1974; Riker and Ordeshook 1968).26
+
+ As Ferejohn and Fiorina (1979) demonstrate,
+
+ since 1964 the electorate's concern with the elec-
+ toral outcome has declined, and concern is a good
+ predictor of turnout (see also Brody 1978). Fere-
+ john and Fiorina claim that the electorate's
+ declining concern with which party wins con-
+ tributes to a substantial portion of the decline in
+ turnout. Since they argue that concern with an
+ election's outcome is an election-specific phenom-
+ enon, they claim that the decline of turnout does
+ not constitute a puzzle.
+
+ Five points are in order. First, the relationship
+
+ between concern and turnout is moderate. Sec-
+ ond, although the decline of concern with which
+ party wins parallels the decline of turnout, from a
+ peak of 69 percent of the whites caring which par-
+ ty won in 1960 to a low of 54 percent in 1980, this
+ decline is moderate. Third, given the two relation-
+ ships above, the total impact of declining concern
+ on the turnout trend is also relatively moderate
+ and can account for only between one-fifth and
+ one-fourth of the decline in turnout among the
+ white electorate. Fourth, as Rollenhagen (1981)
+ demonstrates, there is a strong relationship be-
+ tween strength of party identification and caring
+ which party wins; as a result, the combined im-
+ pact of these two attitude trends does not account
+ for much more of the decline of turnout than the
+ effects of declining partisanship taken alone.
+
+ Fifth, we do not accept Ferejohn and Fiorina's
+ conclusion that the decline in concern with elec-
+ toral outcomes is primarily an election-specific
+ phenomenon. We think it would be difficult to
+ develop election-specific explanations to account
+ for the continual decline in electoral concern
+ among whites from 1960 through 1980. We find it
+ hard to believe that the decline in concern can be
+
+ 16Concern is measured by asking, "Generally speak-
+ ing, would you say that you personally care a good deal
+ which party wins the presidential election this fall, or
+ that you don't care very much which party wins?"
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 520 The American Political Science Review Vol. 76
+
+ attributed to the most obvious sources of election-
+ specific factors: the two candidates and their
+ evaluation by the electorate. If so, why is concern
+ lower in 1972 than in 1964? Why would con-
+ cern with the outcome be lower in 1968 than in
+ 1960 or in 1964? Why, despite sharp policy dif-
+ ferences between Carter and Reagan, does con-
+ cern with which party wins reach its lowest level in
+ 1980? We find it easier to believe that declining
+ concern with electoral outcomes results, at least in
+ part, from the same forces eroding partisanship
+ and feelings of political effectiveness.
+
+ Indeed, partisanship and concern with the elec-
+ toral outcome are closely intertwined, perhaps
+ because the concern item specifically refers to car-
+ ing which party wins the election. Our own analy-
+ ses suggest that in three of the last four presiden-
+ tial elections concern with which party wins was
+ more strongly related to party identification than
+ it was to differential evaluations of the candidates
+ as measured by the candidate "thermometers."
+ Moreover, assuming that declining party loyalties
+ contributed to a declining concern with which par-
+ ty wins presidential elections, about one-half of
+ the decline in electoral concern among the white
+ electorate between 1960 and 1980 can be ac-
+ counted for by the weakening of party identifica-
+ tion (Rollenhagen 1981). These results strongly
+ suggest that the effects of declining electoral con-
+ cern upon turnout during the past two decades
+ should not be viewed in purely election-specific
+ terms but are at least partly systemic.
+
+ If we are correct in concluding that the decline
+
+ of turnout results largely from long-term attitude
+ change, our findings must be discouraging to
+ Americans who wish turnout to increase. The
+ decline in party identification largely results from
+ generational replacement, and, given the very low
+ levels of partisan loyalties among young adults,
+ party loyalties are likely to remain weak for the re-
+ mainder of this century. On the other hand, feel-
+ ings of "external" political efficacy are somewhat
+ stronger among young adults than among their
+ elders. Whether beliefs in government responsive-
+ ness will in fact increase will probably depend
+ mainly upon the future actions of political
+ leaders. This article cannot predict those actions,
+ but it does suggest that it will be difficult to
+ restore higher levels of electoral participation
+ unless the attitudes of the American electorate
+ toward the political system are changed.
+
+ References
+
+ Abramson, Paul R., and Aldrich, John H. 1981. The
+ decline of electoral participation in America. Paper
+ presented at the annual meeting of the American
+ Political Science Association, N.Y.
+
+ . 1977. The political socialization of black
+
+ Americans: a critical evaluation of research on effi-
+ cacy and trust. New York: Free Press.
+
+ Abramson, Paul R., and Finifter, Ada W. 1981. On the
+ meaning of political trust: new evidence from items
+ introduced in 1978. American Journal of Political
+ Science 25:297-307.
+
+ Aldrich, John H. 1976. Some problems in testing two
+ rational models of participation. American Journal
+ of Political Science 20:713-33.
+
+ . 1977. Electoral choice in 1972: a test of some
+ theorems of the spatial model of electoral competi-
+ tion. Journal of Mathematical Sociology 5:215-37.
+ Aldrich, John H., and Cnudde, Charles F. 1975. Prob-
+ ing the bounds of conventional wisdom: a compari-
+ son of regression, probit, and discriminant analysis.
+ American Journal of Political Science 19:571-608.
+
+ Ashenfelter, Orley, and Kelly, Stanley, Jr. 1975. Deter-
+ minants of participation in presidential elections.
+ Journal of Law and Economics 18:695-733.
+
+ Balch, George I. 1974. Multiple indicators in survey
+ research: the concept 'sense of political efficacy.'
+ Political Methodology 1: 1-43.
+
+ Boyd, Richard W. 1981. Decline of U.S. voter turnout:
+ structural explanations. American Politics Quarterly
+ 9:133-59.
+
+ Brody, Richard A. 1978. The puzzle of political partici-
+ pation in America. In The New American Political
+ System, ed. Anthony King, pp. 287-324. Washing-
+ ton, D.C.: American Enterprise Institute.
+
+ Campbell, Angus, Converse, Philip E.; Miller, Warren
+ E.; and Stokes, Donald E. 1960. The American
+ Voter. New York: Wiley.
+
+ Cassel, Carol A. 1981. On solving the 'puzzle' of par-
+ ticipation: a methodological critique. Unpublished,
+ University of Houston.
+
+ Cassel, Carol A., and Hill, David B. 1981. Explanations
+ of turnout decline: a multivariate test. American
+ Politics Quarterly 9:181-95.
+
+ Cavanagh, Thomas E. 1981. Changes in American
+ voter turnout, 1964-1976. Political Science Quarter-
+ ly 96:53-65.
+
+ Chow, Gregory C. 1960. Tests of equality between sets
+ of coefficients in two linear regressions. Econo-
+ metrica 28:591-605.
+
+ Citrin, Jack. 1974. Comment: the political relevance of
+
+ trust in government. American Political Science
+ Review 68:973-88.
+
+ . 1981. The changing American electorate. In
+ Politics and the oval office: towards presidential
+ governance, ed. Arnold J. Meltsner, pp. 31-61. San
+ Francisco: Institute for Contemporary Affairs.
+
+ Converse, Philip E. 1972. Change in the American elec-
+ torate. In The human meaning of social change, eds.
+ Angus Campbell and Philip E. Converse, pp. 263-
+ 337. New York: Russell Sage.
+
+ . 1976. The dynamics of party support: cohort-
+
+ analyzing party identification. Beverly Hills, Calif.:
+ Sage Publications.
+
+ Conway, M. Margaret. 1981. Political participation in
+
+ midterm congressional elections: attitudinal and
+ social characteristics during the 1970s. American
+ Politics Quarterly 9:221-44.
+
+ Craig, Stephen C. 1979. Efficacy, trust, and political
+ behavior: an attempt to resolve a lingering concep-
+ tual dilemma. American Politics Quarterly 7:225-39.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 1982 Decline of Electoral Participation in America 521
+
+ DeNardo, James. 1980. Turnout and the vote: the
+ joke's on the Democrats. American Political Science
+ Review 74:406-20.
+
+ Ferejohn, John A., and Fiorina, Morris P. 1974. The
+ paradox of not voting: a decision theoretic analysis.
+ American Political Science Review 68:525-36.
+
+ . 1979. The decline of turnout in presidential
+ elections. Paper presented at the National Science
+ Foundation Conference on Voter Turnout, San
+ Diego.
+
+ Fiorina, Morris P. 1981. Retrospective voting in Ameri-
+ can national elections. New Haven, Conn.: Yale
+ University Press.
+
+ Glenn, Norval D. 1972. Sources of the shift to political
+ independence: some evidence from a cohort analy-
+ sis. Social Science Quarterly 53:494-519.
+
+ Hill, David B., and Luttbeg, Norman R. 1980. Trends
+ in American electoral behavior. Itasca, Ill.: Pea-
+ cock.
+
+ House, James S., and Mason, William M. 1975. Politi-
+ cal alienation in America, 1952-1968. American
+ Sociological Review 40:123-47.
+
+ Hout, Michael, and Knoke, David. 1975. Change in
+ voting turnout, 1952-1972. Public Opinion Quar-
+ terly 39:52-68.
+
+ Katosh, John P., and Traugott, Michael W. 1981. The
+ consequences of validated and self-reported voting
+ measures. Public Opinion Quarterly 45:519-35.
+
+ McKelvey, Richard D., and Zavoina, William. 1975. A
+ statistical model for the analysis of ordinal level
+ dependent variables. Journal of Mathematical
+ Sociology 4:103-20.
+
+ Miller, Warren E. 1980. Disinterest, disaffection, and
+ participation in presidential politics. Political
+ Behavior 2:7-32.
+
+ Miller, Warren E.; Miller, Arthur H.; and Schneider,
+ Edward J. 1980. American national election studies
+
+ data sourcebook, 1952-1978. Cambridge, Mass.:
+ Harvard University Press.
+
+ Reiter, Howard L. 1979. Why is turnout down? Public
+
+ Opinion Quarterly 43:297-311.
+
+ Riker, William H., and Ordeshook, Peter C. 1968. A
+ theory of the calculus of voting. American Political
+ Science Review 62:25-42.
+
+ Rollenhagen, Rick E. 1981. Explaining variation in con-
+ cern about the outcome of presidential elections,
+ 1960-1980. Unpublished, Michigan State University.
+ Shaffer, Stephen D. 1981. A multivariate explanation
+ of decreasing turnout in presidential elections, 1960-
+ 1976. American Journal of Political Science 25:
+ 68-95.
+
+ Shively, W. Phillips. 1980. The nature of party identifi-
+
+ cation: a review of recent developments. In The
+ Electorate Reconsidered, eds. John C. Pierce and
+ John L. Sullivan, pp. 219-236. Beverly Hills, Calif.:
+ Sage Publications.
+
+ Traugott, Michael W., and Katosh, John P. 1979.
+ Response validity in surveys of voting behavior.
+ Public Opinion Quarterly 43:359-77.
+
+ U.S. Bureau of the Census. 1980. Statistical abstract of
+ the United States: 1980. 101st ed. Washington,
+ D.C.: U.S. Government Printing Office.
+
+ . 1981. Voting and registration in the election of
+ November 1980 (Advance Report). Washington,
+ D.C.: U.S. Government Printing Office.
+
+ Weisberg, Herbert F. 1980. A multidimensional con-
+ ceptualization of party identification. Political
+ Behavior 2:33-60.
+
+ Wolfinger, Raymond E., and Rosenstone, Steven J.
+ 1980. Who votes? New Haven, Conn.: Yale Univer-
+ sity Press.
+
+ Wright, James D. 1976. The dissent of the governed:
+ alienation and democracy in America. New York:
+ Academic Press.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:11:59 UTC
+
+All use subject to https://about.jstor.org/terms
+
+

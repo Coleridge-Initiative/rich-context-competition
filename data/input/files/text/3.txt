@@ -1,0 +1,1286 @@
+ 
+ 
+Macropartisanship: An Empirical Reassessment
+Author(s): Paul R. Abramson, Charles W. Ostrom and  Jr.
+Source: The American Political Science Review, Vol. 85, No. 1 (Mar., 1991), pp. 181-192
+Published by: American Political Science Association
+Stable URL: https://www.jstor.org/stable/1962884
+Accessed: 06-08-2018 15:57 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+American Political Science Association is collaborating with JSTOR to digitize, preserve and
+extend access to The American Political Science Review
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MACROPARTISANSHIP:
+
+ AN EMPIRICAL REASSESSMENT
+
+ PAUL R. ABRAMSON
+
+ CHARLES W. OSTROM, JR.
+
+ Michigan State University
+
+ evaluate the comparability of the Gallup and Michigan Survey Research
+
+ Center measures for studying levels of partisanship among the U.S. electorate we com-
+ pare the overtime distribution of partisanship and the correlates of partisanship using
+ the results of Gallup surveys, the National Election Studies, and the General Social
+ Surveys. Compared with the Gallup results, both the other two surveys reveal less short-
+ term variation and also less total variation. Compared with the Gallup results, the
+ National Election Studies partisanship results are less related to short-term electoral out-
+ comes and do not appear to be strongly driven by short-term economic and political
+ evaluations. Our analyses suggest that scholars should be cautious about using Gallup
+ results to revise conclusions based upon analyses that employ the Michigan Survey
+ Research Center party identification measure.
+
+ The correlates and consequences
+
+ of party identification have been an on-
+ going concern among political scientists
+ for the last three decades. There have
+ been arguments about the origins of parti-
+ sanship, its stability among individuals
+ and electorates, the best way to measure
+ partisan loyalties, the extent to which par-
+ ty identification shapes, or is shaped by,
+ policy preferences, the dimensionality of
+ the party identification measure, and the
+ meaning of partisan independence.
+
+ The recent article by MacKuen,
+ Erikson, and Stimson (1989) appears to
+ provide important insights that could lead
+ scholars to alter their conception of the
+ meaning of party identification. Using the
+ results of Gallup surveys conducted from
+ 1945 through 1987, they analyze the party
+ affiliations of the U.S. electorate, measur-
+ ing the proportion of all partisans who
+ consider themselves to be Democrats, a
+ measure they call macropartisanship.
+ Their analyses reveal a great deal of vari-
+ ability in partisan preferences. MacKuen
+
+ and his colleagues suggest that this short-
+ term variation follows structured patterns
+ of change within presidential administra-
+ tions, that these changes have short-term
+ electoral consequences, and that they are
+ largely driven by short-term economic
+ and political evaluations.
+
+ MacKuen, Erikson, and Stimson gener-
+
+ alize their findings to the extensive
+ research literature on party identification,
+ arguing that variability in party identifi-
+ cation "forces us to reconsider the stan-
+ dard view of party systems and realign-
+ ment theory" (1989, 1139). The "mid-
+ range dynamics" of partisan change, they
+ maintain, "yield partisan movements of
+ realignment magnitude (though not
+ realignment duration) that require neither
+ miracles nor catastrophes but instead
+ arise from the routine success and failure
+ of ordinary politics" (p. 1139). Rather
+ than focusing on long-term changes that
+ may lead to partisan realignments, Mac-
+ Kuen and his colleagues suggest that
+ scholars attempt to account for short-
+
+ AMERICAN POLITICAL SCIENCE REVIEW
+
+ VOLUME 85 NO. 1 MARCH 1991
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ American Political Science Review Vol. 85
+
+ term variation and its contribution to
+ electoral change.
+
+ As we shall see, MacKuen, Erikson,
+ and Stimson's claims are essentially cor-
+ rect if one uses Gallup surveys to measure
+ partisan loyalties. But their findings may
+ have limited generalizability in reevaluat-
+ ing the concept of party identification.
+ Based upon the sweeping generalizations
+ in their conclusions, it appears that
+ MacKuen and his colleagues view the
+ Gallup measure (which Gallup labels
+ party affiliation) and the measure of party
+ identification developed by the University
+ of Michigan Survey Research Center
+ (SRC) to be interchangeable.' Admitted-
+ ly, as Converse and Pierce (1985) have
+ argued, there may be no "right" way to
+ measure partisanship. But we also agree
+ with them that "it is of great importance
+ not to treat diverse measures of partisan-
+ ship as functional equivalents of one
+ another" (p. 143).
+
+ We question the implicit assumption
+
+ that the Gallup and the SRC measures are
+ equivalent, especially since MacKuen,
+ Erikson, and Stimson do not evaluate this
+ assumption empirically. As we shall see,
+ MacKuen and his colleagues exaggerate
+ the degree of volatility in the Gallup
+ measure. But even if this problem is ig-
+ nored, there is reason to believe that the
+ wording of the Gallup party affiliation
+ question may lead to volatile results.
+
+ Let us briefly compare the wording of
+
+ the Gallup and SRC items. The Gallup
+ question reads, "In politics, as of today,
+ do you consider yourself a Republican, a
+ Democrat, or an Independent?" By con-
+ trast, the basic Michigan SRC question
+ reads, "Generally speaking, do you usual-
+ ly think of yourself as a Republican, a
+ Democrat, an Independent, or what?" As
+ Converse has argued: "The 'generally' and
+ 'usually' qualifiers in the SRC question
+ were originally intended to broaden the
+ time reference and properly classify the
+ long-term identifier who is momentarily
+ piqued at his own party, or tempted to
+
+ 182
+
+ defect temporarily to vote for a charis-
+ matic candidate of another party. A verb
+ like 'consider' in the Gallup question has
+ somewhat parallel, if perhaps weaker,
+ overtones; but the 'as of today' invites in
+ the baldest way a very transient frame of
+ reference" (1976, 35). Converse reports
+ that he had conducted "many casual com-
+ parisons" of the two items, and concluded
+ that the responses appeared to be strongly
+ correlated over time. However, he argues,
+ the "face differences in content bear chief-
+ ly on the time referent" and concludes, "It
+ is my impression that ... the Gallup item
+ is visibly more volatile and situation-
+ bound than the SRC party identification
+ measure" (1976, 36).2
+
+ Given the extent to which MacKuen,
+
+ Erikson, and Stimson generalize from their
+ findings, it is essential to determine whe-
+ ther similar results obtain when the widely
+ used Michigan SRC party identification
+ measure is employed. As relatively few na-
+ tional surveys have employed the Michi-
+ gan measure, there is no way to replicate
+ the MacKuen, Erikson, and Stimson find-
+ ings with the Michigan measure; and we
+ do not attempt a replication. Instead, our
+ goal is to evaluate the comparability of
+ the Gallup and Michigan SRC measures
+ for studying overall levels of partisanship
+ by comparing Gallup results with results
+ from the two major academic surveys that
+ use the Michigan SRC measure: the Na-
+ tional Election Studies (NES) conducted
+ by the Michigan SRC and the Center for
+ Political Studies and the General Social
+ Surveys (GSS) conducted by the Univer-
+ sity of Chicago National Opinion Re-
+ search Center.3
+
+ As we shall see, the results using the
+
+ Gallup measure and Michigan measure
+ are substantially different. Compared
+ with the Gallup measure, both the NES
+ and the GSS surveys reveal less short-
+ term variation and display less total vari-
+ ation. Compared with the Gallup mea-
+ sures, the NES measure of partisanship is
+ not strongly related to short-term elec-
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Macropartisanship
+
+ Figure 1. Percentage of Partisans
+
+ Who Are Democrats: Gallup Measure,
+
+ Quarterly Results, 1952-87
+
+ 70
+
+ 65-
+
+ 60
+
+ 55
+
+ 1955 1960 1965 1970 1975. 1980 1985
+
+ toral outcomes and does not appear to be
+ driven by short-term economic and politi-
+ cal evaluations. Based upon our analyses,
+ we must caution scholars to use great care
+ in generalizing the MacKuen, Erikson,
+ and Stimson results to studies of partisan-
+ ship that employ the Michigan SRC
+ measure.
+
+ with the Democratic party. In many
+ respects, this measure seems closer to the
+ way the Gallup measure is constructed,
+ but some scholars argue that many self-
+ professed independents are in fact "hid-
+ den partisans" (see especially Keith et al.,
+ 1986). The proportion of independents is
+ higher today than it was during the 1950s
+ and early 1960s, and it is important to
+ employ a measure that taps their partisan
+ leanings. Our second measure, which we
+ label NES2 and GSS2, is the percentage of
+ party identifiers and independent leaners
+ who either identify with, or lean toward,
+ the Democratic party.
+
+ Even though most of our analyses are
+ restricted to the same time points em-
+ ployed by the NES and GSS, we began by
+ examining the relative level of Democratic
+ strength for every quarter from 1952
+ through 1987.5 Unlike MacKuen, Erikson,
+ and Stimson, who use selected surveys for
+ each quarter,6 we employed all the avail-
+ able Gallup surveys, except for telephone
+ polls that consistently show relatively low
+ levels of Democratic support. Our results
+ are presented in Figure 1. As can be seen
+
+ Variation in Partisanship
+
+ Like MacKuen, Erikson, and Stimson,
+
+ we analyze the percentage of partisans
+ who consider themselves to be Demo-
+ crats. As Gallup results do not differen-
+ tiate among independents who lean
+ toward a party and those who do not,
+ they provide only a single measure of the
+ relative strength of the two major parties.
+ Because the SRC measure always asks in-
+ dependents whether they feel closer to the
+ Republican or the Democratic party, at
+ least two measures of the relative strength
+ of the parties are possible.4 The first,
+ which we label NES1 and GSS1, is the per-
+ centage of party identifiers who identify
+
+ 183
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ American Political Science Review Vol. 85
+
+ Table 1. Variances in Partisanship
+
+ Time Periods Gallup NES, NES2 GSS, GSS2
+
+ 1945-87 (all quarters)a 25.44 - _
+ 1952-87 (all quarters) 16.97 - -
+ 1952-88 (4th quarter of election years) 16.27 7.89 10.85
+ 1972-89 (1st quarter Gallup and GSS; 4th quarter
+
+ NES)b 27.87 10.84 14.01 18.49 17.95
+
+ Measure of Partisanship
+
+ aResult reported in MacKuen, Erikson, and Stimson 1989, 1128.
+ bThe NES results are for 1972-88.
+
+ by comparing our figure with the results
+ presented by MacKuen and his colleagues
+ (1989, Figure 1), the overall pattern of
+ results tracks their results fairly closely
+ through the early 1980s.
+
+ Southerners, and persons with low social
+ status (Glenn and Frisbie 1977).
+
+ Even though the procedures used by
+ MacKuen and his colleagues to measure
+ partisanship exaggerate the variability of
+ party affiliations, the Gallup measure
+ clearly displays considerable volatility.
+ Figure 1 reveals that the Gallup data dis-
+ play considerable variation over time;
+ and adding the years before 1952 (see
+ MacKuen, Erikson, and Stimson 1989,
+ Figure 1) reveals even more variation.
+ MacKuen and his colleagues justify their
+ choice of the Gallup data by arguing that
+ one needs a large number of data points to
+ treat party identification as "a continuous
+ macro phenomenon measured through
+ time" (1989, 1127).
+
+ In Table 1 we report variation in over-
+
+ all levels of Democratic support using
+ alternative measures of partisanship.
+ MacKuen and his colleagues report that
+ from 1945 through 1987 the variance with
+ the Gallup measure was 25.44, and we
+ have presented their finding in our table.
+ As our table shows, there is less variation
+ on the Gallup measure between 1952 and
+ 1987, partly because party loyalties am
+ pear to have been in considerable flux
+ shortly after World War II (see MacKuen,
+ Erikson, and Stimson 1989, Figure 1), and
+ partly because variation is substantially
+ less during the mid-to-late 1980s when
+ one relies upon published quarterly
+ results. Even so, variation during the 144
+
+ During the mid-to-late 1980s, however,
+ there are clear differences between the
+ MacKuen, Erikson, and Stimson results
+ and those we report. Admittedly, both
+ their results and ours show a sizable
+ decline in Democratic loyalties. But their
+ results display substantially more varia-
+ tion from quarter to quarter, and they
+ present at least one quarterly result in
+ which. there are more Republicans than
+ Democrats. Although there are single
+ polls that show more Republicans than
+ Democrats, published Gallup results
+ make it clear that there was not a single
+ quarter during the 1980s for which there
+ were more Republicans than Democrats.
+ At least some of the variability in the
+ MacKuen, Erikson, and Stimson analysis
+ results from the relatively high variation
+ they report during the mid-to-late 1980s.
+ Thus, if changes of "realignment magni-
+ tude" involve a shift in majority party
+ status, the published Gallup results do not
+ show changes of this size during the
+ 1980s.7 The only result published by the
+ Gallup organization showing an actual
+ Republican lead in party affiliation is
+ based upon surveys conducted in 1946, a
+ period when Gallup quota sampling delib-
+ erately underrepresented nonwhites,
+
+ 184
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Macropartisanship
+
+ Figure 2. Gallup Measure of
+
+ Partisanship Compared with NES
+
+ and NES2, 1952-88
+
+ 70
+
+ 65 T<
+
+ 55 NS
+
+ 0 NES2
+
+ 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88
+
+ Year
+
+ quarters between 1952 and 1987 is still
+ substantial.
+
+ However, one need not examine every
+ quarter during these years to demonstrate
+ variability with the Gallup measure; for,
+ as Table 1 reveals, variation is almost as
+ great when the analysis is restricted to the
+ 19 biennial time points that correspond
+ with the NES election year surveys. As
+ variability can be demonstrated by a rela-
+ tively small number of observations, it is
+ reasonable to employ both the NES and
+ the GSS data to determine whether parti-
+ sanship is highly variable when the Michi-
+ gan SRC measure is employed. As Table 1
+ shows, the basic NES measure that in-
+ cludes only self-proclaimed partisans dis-
+ plays less than half the variation found
+ with the Gallup measure." Including
+ leaners leads to more variation in the NES
+ surveys; but even when leaners are in-
+ cluded, the variance in the NES surveys is
+ substantially less than variation in the
+ Gallup surveys.
+
+ The GSS provide 16 observations be-
+
+ tween 1972 and 1989.9 As Table 1 shows,
+ there is clearly more variability in the
+ Gallup measure during this more recent
+ period. GSS1 and GSS2 also display con-
+ siderable variation but only about two-
+ thirds of the variation revealed by the
+
+ 185
+
+ Gallup surveys. Only 9 NES observations
+ are available during these years, and both
+ NES1 and NES2 display more variation
+ during this more recent period. But, as
+ with the 1952-1988 period, NES1 displays
+ less than half the variation revealed by the
+ Gallup surveys, while NES2 exhibits ap-
+ proximately half the variation found
+ using the Gallup data.
+
+ Patterned Variation
+
+ MacKuen and his colleagues provide a
+ "visual 'test' of the responsiveness of
+ macropartisanship to presidential ap-
+ proval and consumer sentiment" (1989,
+ 1130). They display changes in partisan-
+ ship during the Truman, Eisenhower,
+ Kennedy-Johnson, Nixon-Ford, Carter,
+ and Reagan presidencies. Neither the
+ NES nor GSS data provide enough time
+ points to merit separate displays for each
+ of these periods. Nonetheless, we can
+ compare the 19 NES observations to the
+ comparable 19 Gallup quarters, and the
+ 16 GSS observations with the 16 com-
+ parable Gallup observations.
+
+ Figure 2 compares the biennial NES
+ results between 1952 and 1988 with the
+ Gallup surveys conducted during the
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ American Political Science Review Vol. 85
+
+ Figure 3. Gallup Measure of Partisanship
+
+ Compared with GSS1 and GSS2,
+
+ 1972-89
+
+ 70
+
+ Ei60 t
+
+ 55 ~ ~~~~--GSS2
+
+ 50 iiI|I?II,-
+
+ 72 73 74 75 76 77 78 80 82 83 84 85 86 87 88 89
+
+ Year
+
+ same period. Both the SRC and the
+ Gallup measures follow similar trends;
+ but it is readily apparent that the Gallup
+ measure displays more variability, reach-
+ ing higher levels of Democratic support
+ when the Democrats are strong (e.g.,
+ following the Watergate affair) and lower
+
+ Table 2. Correlations among
+
+ Measures of Partisanship,
+
+ 1952-88 and 1972-89
+
+ Time Measure of Partisanship
+ Periods NES, NES2 GSSI GSS2
+
+ 1952-88a
+
+ Gallup .70 .75 _
+ NES, - .97 - _
+
+ 1972-89b
+
+ Gallup .74 .81 .75 .82
+ NES1 - .98 .85 .88
+ NES2 - .83 .88
+ GSSI - - .98
+
+ levels of Democratic support when Demo-
+ cratic loyalties are waning, as in the late
+ 1960s and the mid-to-late 1980s.
+
+ In Table 2 we present the correlations
+ among the various measures. As NES1
+ and NES2 are based upon the same
+ respondents, these measures are very
+ highly related. Of course, the relation-
+ ships between Gallup and NES1 and NES2
+ are high by survey research standards.
+ However, these relationships are below
+ what we hope to find if the Gallup and
+ SRC questions were measuring the identi-
+ cal attitude.
+
+ Figure 3 compares the annual GSS
+ results between 1972 and 1989 with the
+ Gallup results for the same period. As
+ with the NES and Gallup measures, the
+ GSS and the Gallup results follow similar
+ patterns; but once again, it is clear that
+ the Gallup measure displays more vari-
+ ability. For example, the impact of Water-
+ gate is greater with the Gallup data, and
+ the Gallup data reveal greater Democratic
+ losses during the mid-1980s.
+
+ aComparisons of Gallup and NES are based upon
+ fourth-quarter surveys conducted during each elec-
+ tion year.
+ bThe NES results are for 1972-88. Comparisons of
+ Gallup and GSS are based upon first-quarter surveys
+ conducted during each survey year. We compare
+ NES surveys conducted in the fourth quarter of
+ 1972, 1974, 1976, 1982, 1984, 1986, and 1988 with
+ GSS surveys conducted during the first quarter of
+ the following year.
+
+ Obviously, GSS1 and GSS2 will be very
+ highly correlated (see Table 2). Both these
+ measures are more highly correlated with
+ the Gallup measure than the NES
+ measures were; but between 1972 and
+ 1988 the NES measures are also more
+ highly correlated with the Gallup measure
+
+ 186
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Macropartisanship
+
+ than they were for the full 36 years for
+ which NES and Gallup results can be
+ compared. But the relationships between
+ the NES and GSS measures and the
+ Gallup measures are below what one
+ would hope to find if identical attitudes
+ were being tapped. In fact, even though
+ the NES and GSS surveys are conducted
+ during different periods, NES and GSS
+ results are more highly correlated with
+ each other than they are with the more
+ proximate Gallup results.
+
+ predicted seat change is similar using
+ NE% and NES2; but the R-squareds fall
+ dramatically, and the t-ratios are no
+ longer significant. Adding the 1988 results
+ slightly reduces the predicted seat change
+ for the Gallup measure, slightly reduces
+ the R-squared, and the t-ratio remains sig-
+ nificant. When the 1988 results are added,
+ the results for the NES measures clearly
+ deteriorate. Although a modest seat
+ change is predicted (now less than two
+ seats for each percentage point change in
+ party identification), the R-squareds are
+ now quite low. The Michigan SRC mea-
+ sure does not appear to be useful for ex-
+ plaining short-term seat change. Similar
+ results obtain when one examines the rela-
+ tionship between alternative measures of
+ partisanship and the percentage of the
+ popular vote for Democratic House
+ candIdates. Our results employing the
+ Gallup measure are very similar to those
+ reported by MacKuen and his colleagues.
+ For both the 1952-86 and the 1952-88
+ periods predicted vote change is less with
+ the NES measure, and the t-ratios are far
+ lower. Moreover, for both NES% and
+ NES2 the R-squareds are extremely low
+ for both the 1952-86 and 1952-88 periods.
+
+ As MacKuen and his colleagues point
+
+ out, testing the relationship of partisan-
+ ship to the percentage of the vote for
+ Democratic presidential candidates is
+ problematic, for the number of cases is
+ small. Our analyses consistently show
+ partisanship to be more strongly related
+ to the major party presidential vote than
+ the results reported by MacKuen and his
+ colleagues. Their results include the 1948
+ election, in which Truman did far better
+ than one would have predicted from the
+ Gallup party affiliation results. For the
+ 1952-84 elections, the Gallup and Michi-
+ gan measures yield similar results. Includ-
+ ing the 1988 results weakens the predic-
+ tive power of the Michigan measure.
+ While all the t-ratios are significant, the
+ R-squared is higher when the Gallup mea-
+ sure is employed.
+
+ Electoral Consequences
+
+ MacKuen and his colleagues claim that
+ changes in overall levels of partisanship
+ have short-term electoral consequences.
+ They report that a one-point shift toward
+ a party in macropartisanship (in the third
+ quarter) leads to a three-seat gain for the
+ party in U.S. House elections, a third of a
+ point gain in the percentage of House
+ votes, and a half-point gain in the presi-
+ dential popular vote (1989, 1129). We
+ report their results, along with our analy-
+ ses for the years since 1952, in Table 3.
+ Although we believe that aggregate
+ changes in overall levels of partisanship
+ have electoral consequences (see Abram-
+ son, Aldrich, and Rohde 1990, chap. 8),
+ we wanted to determine whether short-
+ term changes in the SRC measure yielded
+ similar short-term political results. We
+ restrict our analysis to the NES surveys,
+ since they are conducted shortly before or
+ after general elections. We compared the
+ short-term electoral impact of changes in
+ partisanship as measured by the NES sur-
+ veys with the impact of changes in parti-
+ sanship as measured by Gallup surveys
+ conducted during the fourth quarter of
+ each election year.
+
+ As Table 3 reveals, between 1952 and
+ 1986 (the last election MacKuen and his
+ colleagues studied) a one-point gain in the
+ Gallup party affiliation measure leads to a
+ 2.89-seat gain in House elections; but the
+ R-squared is only .26. For this period the
+
+ 187
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ American Political Science Review Vol. 85
+
+ Short-Term Evaluations
+
+ "Macropartisanship," MacKuen,
+ Erikson, and Stimson argue, "is a variable
+ like others, subject to routine ebb and
+ flow as citizens in the aggregate reflect
+ their experiences of politics onto the par-
+ ties" (1989, 1125). MacKuen and his col-
+ leagues' time series analysis demonstrates
+ that the Gallup measure responds to
+ short-term evaluations of the economy.
+ They conclude, "We now know that par-
+ tisanship moves and that the economy
+
+ moves it. More precisely, we know that
+ the aggregate division of partisanship has
+ fluctuated over the past 40 years, that
+ those fluctuations have been substantial,
+ and that they have had political conse-
+ quences. Finally, we now know that parti-
+ sanship's twisting course has been shaped
+ by the winds of political and economic
+ fortune" (pp. 1138-39).
+
+ We have already seen that most of these
+ claims are undermined when partisanship
+ is measured by the SRC party identifica-
+ tion question. Changes in partisanship are
+
+ Table 3. Partisanship and Election Results
+
+ Measure of Durbin-
+ Election Years Partisanship B t-ratio R2 Watson
+
+ Number of Democratic House
+ seats
+
+ 1946-86a Gallup (3d quarter) 3.00 - .38 -
+ 1952-86 Gallup (4th quarter) 2.89 2.39* .26 1.11
+ NES, 2.77 1.18 .08 1.08
+ NES2 2.65 1.39 .11 .95
+ 1952-88 Gallup (4th quarter) 2.73 2.36* .25 1.10
+ NEST 1.72 .92 .05 1.16
+ NES2 1.76 1.12 .07 1.05
+
+ Democratic House vote (%)
+
+ 1946-86a Gallup (3d quarter) .31 - .23 -
+ 1952-86 Gallup (4th quarter) .27 2.00* .20 1.53
+ NEST .19 .71 .03 1.68
+ NES2 .23 1.08 .07 1.49
+ 1952-88 Gallup (4th quarter) .26 1.97* .19 1.57
+ NEST .11 .53 .02 1.77
+ NES2 .15 .86 .04 1.62
+
+ Democratic share of major
+ party presidential vote (%)
+
+ 1948-84b Gallup (3d quarter) .56 - .17
+ 1952-84 Gallup (4th quarter) .96 2.45* .46 1.41
+ NEST 1.47 2.20* .41 2.08
+ NES2 1.45 2.77** .52 2.05
+ 1952-88 Gallup (4th quarter) .92 2.56* .45 1.39
+ NEST .98 1.79* .29 1.93
+ NES2 1.02 2.23* .38 1.84
+
+ aResults reported in MacKuen, Erikson, and Stimson 1989, 1129.
+ bResults reported in MacKuen, Erikson, and Stimson, 1989, 1140, n. 4.
+ *p < .05.
+ **p < .01.
+
+ 188
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Macropartisanship
+
+ substantially smaller, and those changes
+ do not significantly affect short-term con-
+ gressional election results. However, indi-
+ vidual-level data clearly show that the
+ Michigan SRC party identification
+ measure responds to short-term forces
+ (see Brody and Rothenberg 1988; Fiorina
+ 1981; and Lockerbie 1989), so that we
+ would also expect aggregate measures of
+ SRC partisanship to be affected by short-
+ term considerations.10 But as the Michi-
+ gan SRC measure seems to tap longer-
+ term party loyalties than the Gallup
+ measure, results that employ the Michi-
+ gan measure should be less driven by
+ short-term economic and political consid-
+ erations.
+
+ Conducting a time series analysis that
+ compares the NES, GSS, and Gallup
+ results is complicated because there are
+ relatively few NES and GSS surveys.
+ Moreover, the GSS studies were con-
+ ducted at unequal intervals, and thus can-
+ not be used without violating the basic
+ time series assumption of equally spaced
+ time intervals. Lacking monthly or quar-
+ terly data that use the Michigan SRC
+ measure, we cannot replicate the transfer
+ function analysis used by MacKuen, Erik-
+ son, and Stimson. Nonetheless, a test we
+ provide clearly suggests that variation in
+ the Michigan measure is not shaped "by
+ the winds of political and economic for-
+ tune."
+
+ Instead of replicating their causal
+ model, we focus on Table N-1 (MacKuen,
+ Erikson, and Stimson 1989, 1140-41, n.
+ 13), in which they utilize ordinary least
+ squares to assure readers that their results
+ "are no artifact" of their transfer function
+ approach. They seek to demonstrate that
+ lagged macropartisanship, political ap-
+ proval, and consumer sentiment can ex-
+ plain macropartisanship. We attempt to
+ approximate their results with the follow-
+ ing steps. First, we create political ap-
+ proval using actual presidential ap-
+ proval11 minus .29 lagged consumer senti-
+ ment (see MacKuen, Erikson, and Stim-
+
+ son 1989, 1140-41, n. 13). Second, we
+ standardize political approval and con-
+ sumer sentiment, employing (as MacKuen
+ and his colleagues did) the index of con-
+ sumer sentiment (ICS), which has been
+ measured by the Michigan SRC since
+ 1953. Third, we multiply the standardized
+ measures of each variable by -1 during
+ Republican administrations. Fourth, we
+ employ the NES measures and the Gallup
+ surveys conducted during the fourth
+ quarter of each election year and create a
+ lagged partisanship measure by using
+ Gallup and NES measures from two years
+ in the past.12 Finally, we regress each par-
+ tisanship measure on fourth-quarter parti-
+ sanship (lagged two years), fourth-quar-
+ ter political approval, and fourth-quarter
+ consumer sentiment.
+
+ Table 4 presents the results of this
+
+ analysis for each of the three measures.
+ Although we used far fewer observations
+ than MacKuen and his colleagues, we
+ demonstrate that the Gallup measure does
+ respond to political-and especially to
+ economic-conditions. Lagged partisan-
+ ship, the ICS, and political approval ac-
+ count for 56% of the total variation; and,
+ as the Q (or residual autocorrelation)
+ statistic demonstrates, there is no indica-
+ tion of significant serial correlation (see
+ Ostrom 1990). These results support Mac-
+ Kuen, Erikson, and Stimson's claims that
+ partisanship (as measured by Gallup)
+ responds to short-term conditions. The
+ analysis also shows that one can demon-
+ strate the impact of short-term conditions
+ even if one employs relatively few obser-
+ vations. If the Michigan SRC measure
+ does respond to short-term evaluations,
+ we have enough data points to demon-
+ strate their impact.
+
+ As Table 4 shows, the standard Michi-
+
+ gan measure responds somewhat to short-
+ term economic and political evaluations,
+ but it is far less responsive than the Gallup
+ measure. None of the three variables is
+ significantly related to NES1; and, more
+ importantly, together they account for
+
+ 189
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ American Political Science Review Vol. 85
+
+ Table 4. Impact of Short-Term Evaluations upon Partisanship, 1954-88
+
+ Measure of Lagged Index of Consumer Political
+ Partisanship Constant Partisanshipa Sentimentb Approvalc R2 Qd
+
+ Gallup 28.13* .54** 1.92* 1;31 .56 2.88
+
+ (2.45)e (2.90) (2.32) (1.11)
+
+ NES, 49.55* .21 1.18 -.25 .19 1.43
+
+ (2.05) (.55) (1.41) (-.18)
+
+ NES2 46.39* .24 1.66* .13 .27 1.37
+
+ (2.23) (.70) (1.85) (.09)
+
+ aLagged partisanship: the lag is two years. The analysis begins with 1954 because the ICS was not measured in
+ 1952; the 1952 partisanship results are used for our lags for 1954.
+ bStandardized index of consumer sentiment multiplied by -1 during Republican administrations.
+ Standardized political approval multiplied by -1 during Republican administrations.
+ dBox Pierce Q-statistic with four degrees of freedom.
+ eThe numbers in parentheses are t-ratios.
+
+ *p < .05.
+ *p < .01.
+
+ only 19% of the total variation. As with
+ the Gallup measure, there is no evidence
+ of serial correlation. NES2 is more respon-
+ sive to short-term evaluations; for con-
+ sumer sentiment has a statistically signifi-
+ cant impact, and somewhat more varia-
+ tion is explained. However, the model as
+ a whole accounts for only 27% of the
+ variation, only half the impact of the
+ three variables on the Gallup results.
+ Once again, there is no evidence of serial
+ correlation.
+
+ These findings lead to two conclusions.
+ First, MacKuen and his colleagues are cor-
+ rect when they conclude that the Gallup
+ partisanship results do strongly vary in
+ concert with political and economic vari-
+ ables. We demonstrate that this variation
+ is sustained even when the number of data
+ points is reduced substantially. Second,
+ their conclusions do not hold when the
+ Michigan SRC measure of party identifi-
+ cation is employed, calling into question
+ the generalizability of their findings.
+
+ Conclusions
+
+ Although MacKuen and his colleagues
+
+ exaggerated the extent of variability in
+
+ 190
+
+ partisanship during the mid-to-late 1980s,
+ they have on balance provided a careful
+ analysis of the correlates of partisanship
+ as measured by the Gallup surveys. Their
+ claims that the Gallup measure is highly
+ variable, that changes in Gallup partisan-
+ ship correlate with election results, and
+ that Gallup partisanship appears to be
+ driven by short-term economic and politi-
+ cal evaluations are supported by our
+ analyses.
+
+ Despite these results, their findings may
+ have limited implications for the study of
+ party identification. MacKuen, Erikson,
+ and Stimson fail -to consider that the
+ Gallup measure might have built-in short-
+ term volatility compared with the Michi-
+ gan SRC measure, which is designed to
+ tap long-term partisan attachments. The
+ SRC measure, too, has some short-term
+ properties, as both this analysis and indi-
+ vidual-level analyses have demonstrated.
+ But the SRC measure, whether employed
+ in the NES surveys or in the GSS, has sub-
+ stantially less volatility than the Gallup
+ measure. Moreover, results using the NES
+ and GSS surveys show less total variation
+ than results using the Gallup surveys. The
+ NES results are not strongly related to
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Macropartisanship
+
+ congressional election results. Finally, a
+ time series analysis employing the NES
+ surveys suggests that the SRC measure is
+ not strongly driven by short-term eco-
+ nomic and political evaluations.
+
+ As Converse suggested over a decade
+
+ ago, the Gallup-type measures are likely
+ to evoke a different response than the
+ SRC measures. Our empirical reassess-
+ ment demonstrates that the SRC measure
+ has different properties than the Gallup
+ measure. At the very least, the Gallup and
+ the SRC measures are not interchangeable;
+ and scholars should exercise considerable
+ caution in generalizing findings based
+ upon analyses of the Gallup measure to
+ studies of party identification that have
+ relied upon the Michigan SRC questions.
+ Although MacKuen and his colleagues
+
+ should have been more careful in general-
+ izing their findings to the study of party
+ identification, their research may lead to
+ fruitful insights. The Gallup measure is
+ different from the SRC measure, but it
+ may well prove to be useful. Their causal
+ analyses suggest that we may need to
+ combine such measures as presidential ap-
+ proval, the ICS, and partisanship. Further
+ analysis is needed to evaluate the meaning
+ of the Gallup party affiliation measure
+ and to determine how it can best add to
+ our understanding of public evaluations
+ of parties, policies, and political leaders.
+
+ identification measure from 1945 through 1987"
+ (1989, 1127).
+
+ 2. A recent study by Borrelli, Lockerbie, and
+
+ Niemi (1987) of polls conducted during the 1980 and
+ 1984 elections also suggests that using the phrase as
+ of today to measure partisan preferences yields
+ results that tend to favor the party advantaged in the
+ most recent presidential contest.
+
+ 3. The data employed in our analyses are based
+
+ upon the following sources. Gallup party affiliation
+ results from 1952 through 1959 were provided by
+ John E. Mueller of the University of Rochester,
+ results for 1960-1980 were based upon Public Opin-
+ ion Location Library (POLL) results provided by the
+ Roper Center for Public Opinion Research, and the
+ results from 1981 through the first quarter of 1989
+ are'based upon The Gallup Report. The NES party
+ identification results are based upon individual
+ codebooks for each election year published by the
+ Inter-University Consortium for Political and Social
+ Research; and the GSS results are based upon cumu-
+ lative code books published by the Roper Center.
+ The number of Democratic House seats at the begin-
+ ning of each Congress from 1952 through 1984 are
+ from Congressional Quarterly 1985, and the 1986
+ and 1988 results are from the Congressional Quar-
+ terly Weekly Report. The percentage of the total
+ popular vote for Democratic House candidates is
+ reported in Ornstein, Mann, and Malbin 1990, and
+ the presidential election results come from Scammon
+ and McGillivray 1989. The Gallup presidential ap-
+ proval results from 1952 through 1959 were pro-
+ vided by Mueller, results from 1960 through 1984
+ were based upon POLL, and results from 1985
+ through 1988 were based upon The Gallup Report.
+ Results for the index of consumer sentiment are
+ based upon the CITIBASE Data Bank. Procedures
+ for aggregating Gallup partisanship and approval
+ results follow those employed by Ostrom and Simon
+ (1985). With the exception of the results provided by
+ Mueller, all of the results we employ are available in
+ published sources or from data archives. However,
+ we have prepared a list of the values for every vari-
+ able used in our analyses, available upon request.
+ 4. Because the SRC measure also differentiates be-
+ tween partisans who feel strongly attached to their
+ party and those who do not, it would also be possi-
+ ble to develop mean scores that take these responses
+ into account. See Abramson 1983, chap. 7 for ex-
+ amples of such measures.
+
+ 5. As we are not able to compare Gallup surveys
+ conducted before 1952 with surveys using the Michi-
+ gan SRC measure, we did not analyze Gallup
+ surveys conducted between 1945 and 1951.
+
+ 6. MacKuen and his colleagues report that their
+ measure of partisanship was based upon data ob-
+ tained from the Roper Center as a systematic sample
+ of Gallup surveys using the first Gallup survey con-
+ ducted during every odd-numbered month. These
+ results were aggregated into quarterly results (1989,
+
+ Notes
+
+ We are grateful to Renee M. Smith for her assis-
+ tance and comments, and to John H. Aldrich, Cleo
+ H. Cherryholmes, Ada W. Finifter, Robert W. Jack-
+ man, Brian D. Silver, and Dennis M. Simon for their
+ comments.
+
+ 1. MacKuen and his colleagues do not report the
+
+ wording of the Gallup party affiliation question and
+ do not raise the possibility that it may have differ-
+ ent properties than the Michigan SRC measure. The
+ manner in which they introduce the Gallup results
+ makes it clear that they view these measures as inter-
+ changeable: "Party identification may be treated as a
+ continuous macro phenomenon measured through
+ time. We have gathered data for such a series, pre-
+ sented here as a quarterly compilation of the Gallup
+
+ 191
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ American Political Science Review Vol. 85
+
+ 1139-40, n. 3).
+
+ 7. Just what changes of "realignment magnitude"
+
+ might be is clearly a subject for debate. For an out-
+ standing discussion of alternative definitions of re-
+ alignment, see Sundquist 1983.
+
+ 8. The NES surveys are usually conducted be-
+
+ 1988. "The Instability of Partisanship: An
+ Analysis of the 1980 Presidential Election."
+ British Journal of Political Science 18:445-65.
+
+ Congressional Quarterly. 1985. Congressional
+ Quarterly's Guide tb U.S. Elections. 2d ed.
+ Washington: Congressional Quarterly.
+
+ tween early September and early November during
+ presidential election years; for most midterm elec-
+ tions they are conducted during November, Decem-
+ ber, and the following January. We therefore com-
+ pare the NES results with Gallup surveys conducted
+ during the fourth quarter of each election year.
+
+ Converse, Philip E. 1976. The Dynamics of Party
+
+ Support: Cohort-Analyzing Party Identification.
+ Beverly Hills: Sage.
+
+ Converse, Philip E., and Roy Pierce. 1985. "Measur-
+
+ ing Partisanship." Political Methodology
+ 11:143-66.
+
+ 9. The GSS surveys began in 1972 and were con-
+ ducted in every subsequent year except 1979 and
+ 1981. As the GSS are conducted in February, March,
+ and April, we compare these results with Gallup
+ surveys conducted during the first quarter of each
+ survey year.
+
+ 10. For further evidence on the sources of short-
+ term change in aggregate levels of partisanship, see
+ Allsop and Weisberg 1988.
+
+ 11. Because the NES surveys have measured presi-
+ dential approval only since 1972, we rely only upon
+ the Gallup measure.
+
+ 12. If partisanship is highly variable (as MacKuen
+ and his colleague argue), there may be problems in
+ using a two-year lag for partisanship. However,
+ even with the two-year lag, lagged partisanship is
+ significantly related to the Gallup measure of party
+ affiliation.
+
+ Fiorina, Morris P. 1981. Retrospective Voting in
+ American National Elections. New Haven: Yale
+ University Press.
+
+ Glenn, Norval D., and W. Parker Frisbie. 1977.
+
+ "Trend Studies with Survey Sample and Census
+ Data." In Annual Review of Sociology, vol. 3,
+ ed. Alex Inkeles. Palo Alto: Annual Reviews.
+
+ Keith, Bruce E., David B. Magleby, Candice J.
+ Nelson, Elizabeth Orr, Mark C. Westlye, and
+ Raymond E. Wolfinger. 1986. "The Partisan Af-
+ finities of Independent 'Leaners'." British Journal
+ of Political Science 16:155-85.
+
+ Lockerbie, Brad. 1989. "Change in Party Identifica-
+
+ tion: The Role of Prospective Economic Evalua-
+ tions." American Politics Quarterly 17:291-311.
+
+ MacKuen, Michael B., Robert S. Erikson, and James
+
+ A. Stimson. 1989. "Macropartisanship." Ameri-
+ can Political Science Review 83:1125-42.
+
+ References
+
+ Abramson, Paul R. 1983. Political Attitudes in
+
+ America: Formation and Change. San Francisco:
+ W. H. Freeman.
+
+ Abramson, Paul R., John H. Aldrich, and David
+ W. Rohde. 1990. Change and Continuity in the
+ 1988 Elections. Washington: Congressional
+ Quarterly.
+
+ Allsop, Dee, and Herbert F. Weisberg. 1988.
+
+ "Measuring Change in Party Identification in an
+ Election Campaign." American Journal of Politi-
+ cal Science 32:996-1017.
+
+ Borrelli, Stephen, Brad Lockerbie, and Richard G.
+
+ Niemi. 1987. "Why the Democrat-Republican
+ Partisanship Gap Varies from Poll to Poll."
+ Public Opinion Quarterly 51:115-19.
+
+ Brody, Richard A., and Lawrence S. Rothenberg.
+
+ Ornstein, Norman J., Thomas E. Mann, and
+
+ Michael J. Malbin. 1990. Vital Statistics on Con-
+ gress, 1989-1990. Washington: Congressional
+ Quarterly.
+
+ Ostrom, Charles W., Jr. 1990. Time Series Analysis:
+
+ Regression Techniques. 2d ed. Newbury Park,
+ CA: Sage.
+
+ Ostrom, Charles W., Jr., and Dennis M. Simon-.
+ 1985. "Promise and Performance: A Dynamic
+ Model of Presidential Popularity." American
+ Political Science Review 79:334-58.
+
+ Scammon, Richard M., and Alice V. McGillivray,
+ eds. 1989. America Votes 18: A Handbook of
+ Contemporary American Election Statistics.
+ Washington: Congressional Quarterly.
+
+ Sundquist, James L. 1983. Dynamics of the Party
+
+ System: Alignment and Realignment of Political
+ Parties in the United States. Rev. ed. Washing-
+ ton: Brookings.
+
+ Paul R. Abramson and Charles W. Ostrom, Jr., are Professors of Political Science,
+
+ Michigan State University, East Lansing, MI 48824.
+
+ 192
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 15:57:56 UTC
+
+All use subject to https://about.jstor.org/terms
+
+

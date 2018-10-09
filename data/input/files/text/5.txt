@@ -1,0 +1,1343 @@
+ 
+ 
+Explaining the Recent Decline in Cocaine Use among Young Adults: Further Evidence That
+Perceived Risks and Disapproval Lead to Reduced Drug Use
+Author(s): Jerald G. Bachman, Lloyd D. Johnston and  Patrick M. O'Malley
+Source: Journal of Health and Social Behavior, Vol. 31, No. 2 (Jun., 1990), pp. 173-184
+Published by: American Sociological Association
+Stable URL: https://www.jstor.org/stable/2137171
+Accessed: 06-08-2018 16:15 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+American Sociological Association is collaborating with JSTOR to digitize, preserve and
+extend access to Journal of Health and Social Behavior
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Explaining the Recent Decline in Cocaine Use among Young
+ Adults: Further Evidence That Perceived Risks and
+ Disapproval Lead to Reduced Drug Use
+
+ JERALD G. BACHMAN
+ LLOYD D. JOHNSTON
+ PATRICK M. O'MALLEY
+ The University of Michigan
+
+ Journal of Health and Social Behavior 1990, Vol. 31 (June):173-184
+
+ This paper explores alternative explanations for the recent sharp decline in
+ cocaine use among high school seniors, using questionnaire data from annual
+ nationwide surveys conducted from 1976 through 1988. Results show important
+ parallels with earlier analyses of the longer-term decline in marijuana use.
+ Although lifestyle factors (e.g., religious commitment, truancy, evenings out for
+ fun and recreation) show strong links with use of marijuana and cocaine, these
+ factors have not developed trends in ways that can account for the declines in use
+ of either drug. Reported availability of either drug has not been reduced. Instead,
+ increases in perceived risks and disapproval appear to have contributed
+ substantially to the recent declines in use of marijuana and cocaine. The findings
+ provide strong support for the use of realistic information about risks and
+ consequences as an important ingredient in efforts to prevent drug use. Coupled
+ with the findings on availability, the results emphasize the importance of efforts to
+ reduce demand (as opposed to supply).
+
+ It is hard to imagine any dimension of
+ behavior in the last two or three decades that
+ has changed more dramatically, or with more
+ worrisome implications, than the use of illicit
+ drugs by youths and young adults. Marijuana
+ has been the most widely used; rates rose
+ during the late 1960s and most of the 1970s,
+ so that by 1979 fully two-thirds of young
+ adults (age 18 to 25) and nearly as many high
+ school seniors reported some consumption of
+ the drug (Fishburne, Abelson, and Cisin
+ 1980; Johnston, O'Malley, and Bachman
+ 1989; National Institute on Drug Abuse
+ 1988). Yet 1979 was a turning point; during
+ the 1980s marijuana use among seniors and
+
+ * This work was supported by Research Grant R
+ 01 DA 01411 from the National Institute on Drug
+ Abuse. We thank Ginger Maggio and Daniel Zahs
+ for their contributions in data analysis and
+ manuscript preparation. Requests for reprints
+ should be sent to Jerald G. Bachman, Institute for
+ Social Research, University of Michigan, Ann
+ Arbor, MI 48106-1248.
+
+ recent graduates declined steadily (Johnston
+ et al. 1989; O'Malley, Bachman, and Johnston
+ 1988). The use of cocaine, a more dangerous
+ illicit drug, followed a different trajectory;
+ prevalence rose during the late 1970s, re-
+ mained relatively unchanged during the first
+ half of the 1980s, and then dropped by about
+ 40 percent between 1986 and 1988 (Johnston
+ et al. 1989).
+
+ Although the declines in rates of use for
+
+ marijuana and for cocaine began at different
+ points in time, they have two important
+ features in common: 1) each was accompa-
+ nied by a sharp shift in attitudes about the
+ drug and 2) in each case the decline in use
+ was not accompanied by any decline in
+ perceived availability of the drug. For some
+ years we have offered the hypothesis that the
+ more danger young people associate with a
+ drug, the less likely they will be to use it
+ (e.g., Johnston 1982; Johnston, Bachman,
+ and O'Malley 1981). In the case of mari-
+ juana, some of the earliest supporting evi-
+ dence came in the form of the cross-time
+
+ 173
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 174 JOURNAL OF HEALTH AND SOCIAL BEHAVIOR
+
+ this hypothesis. In the present paper we
+ examine more closely the link between
+ changed attitudes about cocaine and the
+ decline in its use; again we test the competing
+ hypothesis that a general shift toward more
+ conservative lifestyles might explain more
+ clearly the recent downturn in cocaine use
+ which has been occurring since 1986.
+
+ Following the strategy used in our recent
+ analysis of marijuana, we divide predictors
+ (i.e., correlates) of cocaine use into two
+ categories: 1) individual "lifestyle variables,"
+ which relate not only to cocaine use but also
+ to other drug use, delinquent behavior, and a
+ variety of other "problem" behaviors, and 2)
+ drug-specific factors, in this case those which
+ relate directly to cocaine use. Although this
+ distinction is too sharp and too simple to
+ correspond fully to the real world, nonethe-
+ less it continues to be a useful way of
+ organizing our data and analyses.
+
+ The lifestyle factors again include grades,
+ truancy, hours worked per week, average
+ weekly income, religious commitment, polit-
+ ical liberalism/conservatism, and frequency
+ of evenings out for recreation. Sex of
+ respondent is also included, in part as a proxy
+ for other lifestyle factors not measured.
+
+ The earlier analysis of marijuana examined
+ two drug-specific factors, perceived risk of
+ marijuana use and disapproval of marijuana
+ use, and found that changes in these dimen-
+ sions could account for virtually all of the
+ secular trends in marijuana use from 1976
+ through 1986 (Bachman et al. 1988). The
+ present analyses focus on another drug and
+ another set of drug-specific dimensions,
+ perceived risk of cocaine use and disapproval
+ of cocaine use. We also include some data on
+ another drug-specific dimension, availability
+ (or, more accurately, perceived availability).
+
+ aggregate-level trends in attitudes and use.
+ Additional evidence supporting this interpre-
+ tation was reported by Johnston (1982, 1985),
+ who showed that concerns about marijuana's
+ effects on physical and psychological health
+ were among the leading reasons given by
+ seniors for abstaining from or quitting mari-
+ juana use, and that the proportions of
+ abstainers or quitters mentioning these rea-
+ sons were increasing.
+
+ A more recent paper examined in detail the
+ link between attitude changes and the decline
+ in marijuana use (Bachman, Johnston, O'Ma-
+ lley, and Humphrey 1988). This analysis
+ explored two possible contrasting explana-
+ tions for the decline in marijuana use: 1) that
+ young people have become more conservative
+ in general, or 2) that specific changes in
+ views about marijuana have led to the decline
+ in use. We reached two broad conclusions.
+ First, we found that "although individual
+ differences in lifestyle are very important in
+ understanding individual variations in mari-
+ juana use, the data offer no support for the
+ proposition that any sort of overall conserva-
+ tive shift underlies the recent decline in
+ marijuana use" (p. 107). Second, we noted
+ that perceived risks of regular marijuana use,
+ as well as personal disapproval of such use,
+ rose sharply between 1978 and 1986; we
+ concluded that "if there had not been a
+ distinct increase in negative attitudes about
+ marijuana, we would not have found steadily
+ lower levels of marijuana use in each
+ succeeding class of high school seniors since
+ 1979" (p. 107).
+
+ While this appreciable decline in marijuana
+
+ use was occurring during the first half of the
+ 1980s, cocaine use remained at peak levels
+ despite growing governmental efforts to
+ contain its use. The national strategy was
+ weighted heavily toward reduction of supply,
+ but the empirical evidence, including our own
+ trend data from seniors on perceived availabil-
+ ity, suggested that the strategy was not
+ working. Our belief that risk-related attitudes
+ were important determinants of the secular
+ trends in marijuana use led us to conclude that
+ a shift in young people's perceptions of the
+ risks associated with cocaine use-in particu-
+ lar with experimental and occasional use-
+ would be necessary to achieve a reduction in
+ use (e.g., Johnston, O'Malley, and Bachman
+ 1984, 1985). The trends we eventually
+ observed in perceived risk, disapproval, and
+ active use of cocaine offer some support for
+
+ METHODS
+
+ Subjects
+
+ The data for these analyses were obtained
+ from the "Monitoring the Future" project, an
+ ongoing study of youths conducted by the
+ Institute for Social Research, which has
+ surveyed a nationally representative sample of
+ high school seniors each year since 1975. The
+ study design is described briefly in our
+ previous report (Bachman et al. 1988), and
+ has been described extensively elsewhere
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ DECLINE IN COCAINE USE 175
+
+ (Bachman and Johnston 1978; Bachman,
+ Johnston, and O'Malley 1987; Johnston et al.
+ 1989). The present analyses are based on
+ group-administered questionnaire data col-
+ lected from seniors in 13 graduating classes,
+ 1976 through 1988.
+
+ About 17,000 seniors are surveyed each
+ year; annual sample sizes reported here,
+ however, are just over 3,000 because each
+ annual survey includes five different question-
+ naire forms, and the items dealing with
+ beliefs and attitudes about drugs appear on
+ single forms. Because of the large numbers of
+ cases, sampling errors are very small; any
+ relationship that we treat as substantively
+ important far surpasses conventional stan-
+ dards for statistical significance.'
+
+ items in all questionnaire forms, along with
+ response distributions and missing data rates,
+ have been published separately (see Bachman
+ et al. 1987 and prior volumes in the same
+ series). The analyses reported here focus on
+ the measure of drug use during the previous
+ 12 months. Recent analysis based on four
+ waves of panel data yielded reliability esti-
+ mates of .82 for the 12-month measure of
+ cocaine use and .88 for the 12-month measure
+ of marijuana use, calculated by the Wiley and
+ Wiley (1970) method.
+
+ RESULTS
+
+ Overview of Trends in Attitudes,
+ Perceptions, and Behaviors
+ Regarding Drugs
+
+ Measures
+
+ The questionnaire items dealing with co-
+ caine use, perceived risks of cocaine use, and
+ personal disapproval of cocaine use are
+ presented in Table 1. Descriptions of most
+ other measures are reported in Bachman et al.
+ (1988, Table 2). Complete wordings of all
+
+ Before presenting bivariate and multivari-
+
+ ate relational analyses, we briefly review key
+ trends in use, perceived risk, disapproval, and
+ perceived availability for both marijuana and
+ cocaine, based on all classes of high school
+ seniors from 1976 through 1988. The left-
+ hand side of Figure 1 summarizes some of our
+
+ TABLE 1. Measures of Cocaine Use, Perceived Risk, and Disapproval
+
+ Question Text Response Alternatives
+
+ Cocaine Use (Forms 1-5)
+ On how many occasions (if any) have you used 1. 0 Occasions
+ cocaine (sometimes called "coke") . . . 2. 1-2 Occasions
+ 3. 3-5 Occasions
+ . . . in your lifetime? 4. 6-9 Occasions
+ . . . during the last 12 months? 5. 10-19 Occasions
+ . .. during the last 30 days? 6. 20-39 Occasions
+
+ 7. 40 or More
+
+ Perceived Risk (Form 5 Only)a
+ The next questions ask for your opinions on 1. No Risk
+ the effects of using certain drugs and other 2. Slight Risk
+ substances. How much do you think 3. Moderate Risk
+ people risk harming themselves (physically 4. Great Risk
+ or in other ways), if they . . . 5. Can't Say, Drug
+
+ Unfamiliar
+
+ Try cocaine once or twice
+ Take cocaine regularly
+
+ Disapproval (Form 3 Only)b
+ Individuals differ in whether or not they 1. Don't Disapprove
+ disapprove of people doing certain things. 2. Disapprove
+ Do YOU disapprove of people (who are 18 or 3. Strongly Disapprove
+ older) doing each of the following?
+
+ Trying cocaine once or twice
+ Taking cocaine regularly
+
+ a An index of perceived risk was computed as the mean of these two items (no missing data allowed). "Can't say"
+
+ responses were treated as missing data.
+
+ b An index of disapproval was computed as the mean of these two items (no missing data allowed).
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 176 JOURNAL OF HEALTH AND SOCIAL BEHAVIOR
+
+ Figure 1. Trends in Annual Marijuana and Cocaine Use, Perceived Availability, Perceived Risk,
+
+ and Disapproval: High School Seniors, 1976-1988
+
+ MARIJUANA COCAINE
+
+ 1 1
+
+ 0.8 - Availability 0.8 -
+
+ Risk
+ Disapproval
+
+ 0.6 , 0.6 - Availability
+
+ Disapproval
+ Risk
+
+ 00
+
+ 0.4 -0.4-
+
+ 0.2 - 0.2
+
+ Use
+
+ . t * Usex3
+
+ -a- ~ Use
+
+ 0 i I I l I X l 0 i I I l l l I
+
+ '76 '80 '84 '88 '76 '80 '84 '88
+
+ Year of Survey Year of Survey
+
+ All items were scaled with the minimum possible score set equal to 0 and the maximum possible score set equal to 1.
+
+ earlier findings: both perceived risk and
+ disapproval associated with marijuana use
+ declined slightly during the first year or two
+ and then rose strongly and steadily during the
+ 1980s, while self-reported use of marijuana
+ initially increased and subsequently declined
+ steadily. The figure also shows that perceived
+ availability of marijuana remained nearly
+ unchanged; throughout the whole period the
+ great majority (85%-90%) of seniors thought
+ it would be fairly easy or very easy to obtain
+ marijuana. Thus it seems clear that availabil-
+ ity did not play an important role in the recent
+ changes in marijuana use, at least in those
+ changes which occurred in the last decade or
+ so.
+
+ The trends involving cocaine, also dis-
+ played in Figure 1, match the findings for
+ marijuana in that the trend in self-reported
+ cocaine use shows a fairly close inverse
+ relationship to the trends in perceived risks
+ and in disapproval, particularly during the
+ recent period in which cocaine use was
+ declining. (Because the mean rates of cocaine
+ use are very low, it is difficult to detect the
+ trends on the scale used in Figure 1; in order
+ to present those findings more clearly, we
+ added the dotted line showing the trend in
+ cocaine use multiplied by three.) Again as in
+ the pattern for marijuana, the decline in
+
+ cocaine use could not be linked to availability
+ because perceived availability actually rose
+ somewhat during the recent decline in use.
+
+ In several other ways, however, the
+ findings for cocaine and those for marijuana,
+ as shown in Figure 1, are substantially
+ different. We note first that the perceived
+ availability of cocaine shifted much more
+ strongly over this period than did the
+ perceived availability of marijuana; in partic-
+ ular, during the late 1970s, when self-
+ reported cocaine use was increasing, increas-
+ ing proportions of seniors also felt that they
+ could obtain cocaine if they desired it. Other
+ contrasts also exist between the two drugs;
+ throughout the study period cocaine was
+ perceived as more dangerous than marijuana,
+ was disapproved more strongly, was seen as
+ less easily available, and was used less
+ frequently and by smaller proportions of
+ seniors.
+
+ In sum, Figure 1 shows that attitudes and
+ behaviors regarding cocaine have differed
+ from those regarding marijuana in many
+ respects. Yet the figure also shows clearly the
+ two points of consistency across drugs that we
+ mentioned earlier: for each drug the decline in
+ use was accompanied (or preceded) by 1)
+ increases in perceived risk and disapproval
+ but 2) no decline in perceived availability.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ DECLINE IN COCAINE USE 177
+
+ Trends in Cocaine Use, with Lifestyle
+ Factors Controlled
+
+ Figure 2. Trends in Annual Cocaine Use Shown
+
+ Separately for Five Levels of Truancy:
+ High School Seniors, 1976-1988
+
+ We examined bivariate relationships be-
+ tween each of the lifestyle variables and
+ cocaine use for each of the 13 senior classes
+ (1976-1988). These analyses are reported in
+ detail elsewhere (Bachman, Johnston, and
+ O'Malley 1989, Table 2); the conclusions
+ (which parallel our earlier findings for
+ marijuana) are summarized below.
+
+ 4
+
+ r 3 -
+
+ Xu < .,, 9 Index:
+
+ Truancy
+
+ 30-65 (high)
+
+ 25
+ 20
+ 15
+
+ 1 -10 (low)
+
+ '76 '80 '84 '88
+
+ Year of Survey
+
+ Figure 3. Trends in Annual Cocaine Use Shown
+ Separately for Four Levels of Reli-
+ gious Commitment: High School Sen-
+ iors, 1976-1988
+
+ 2
+
+ 0
+
+ 0 U)
+
+ First, over all 13 senior classes there is a
+ great deal of consistency in relationships
+ between lifestyle factor and cocaine use-the
+ same factors that are predictive in one year
+ are also predictive in other years. Specifi-
+ cally, high school seniors at greatest risk for
+ involvement in cocaine use have been males,
+ those with poorer grades, those high in
+ truancy, those who work long hours in
+ part-time jobs (during the school year), those
+ with relatively high incomes (linked, of
+ course, to long hours of part-time work),
+ those with little or no commitment to religion,
+ those who describe their political preferences
+ as radical, and those who frequently spend
+ evenings out "for fun and recreation."
+
+ Second, there have been no very large
+ secular trends in these lifestyle factors-
+ certainly none of a size and pattern that would
+ be likely to explain the recent trends in
+ cocaine use.
+
+ 4
+
+ 0
+
+ C-
+
+ _3 -
+
+ Does controlling any one of the lifestyle
+ factors have the effect of eliminating the
+ secular trend in cocaine use? We found that it
+ clearly does not. We examined each subgroup
+ for each of the lifestyle measures, with results
+ of the sort illustrated in Figures 2 and 3. In
+ virtually every subgroup, cocaine use rose
+ from 1976 through 1980 and declined from
+ 1986 through 1988. Even so, there are
+ important subgroup differences in the strength
+ of the secular trend; the pattern is always
+ more pronounced for those in the "higher-
+ risk" categories. As Figure 2 shows, among
+ seniors who reported relatively high rates of
+ truancy, mean cocaine use rose sharply from
+ 1976 through 1980 and declined sharply from
+ 1986 through 1988; among seniors who
+ reported no truancy, however, these differ-
+ ences from one class to another are much
+ weaker. Similarly, the findings in Figure 3
+ show the most pronounced secular trend
+ among the "higher-risk" individuals (those
+ lowest in religious commitment). Here again,
+ however, the overall secular trend is discern-
+
+ < 2-
+
+ o Religious
+
+ Commitment
+ Index:
+
+ ~~~~~~~ ~~~~~~(high)
+
+ 10- 15 (low)
+ 20-25
+ 30-35
+
+ '76 '80 '84 '88
+
+ Year of Survey
+
+ ible in all subgroups; each shows some rise
+ during the late 1970s and some decline from
+ 1986 onward.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 178 JOURNAL OF HEALTH AND SOCIAL BEHAVIOR
+
+ Trends in Cocaine Use,
+ with Attitudes Controlled
+
+ What happens to the secular trend in
+ cocaine use if we control either perceived
+ risks or disapproval? We reported above that
+ for every category of each of the lifestyle
+ variables, the same basic secular trend in
+ cocaine use was evident. In other words, the
+ secular trend did not disappear in the face of
+ (bivariate) "controls" for lifestyle factors. For
+ the attitude variables, however, the story is
+ quite different, as illustrated in Figure 4.
+ Practically none of the seniors with strongly
+ anticocaine attitudes reported any use of the
+ drug, no matter in which year; thus there was
+ no room for a downturn to occur in the
+ 1986-to-1988 interval. At the other end of the
+ attitude continuum, among seniors in the
+ small (and, in recent years, shrinking)
+ categories expressing the most "accepting"
+ attitudes regarding cocaine, rates of use rose
+ from 1976 through 1979 and showed mostly
+ random fluctuations thereafter. The trends
+ shown in Figure 4 contrast sharply with those
+ in Figures 2 and 3; specifically, we do not
+ observe a clear downturn in use when we
+ control levels of perceived risk (see Bachman
+ et al. 1989, Table 3, for further details).
+
+ These bivariate analyses suggest a conclu-
+ sion that parallels (in its general form) the one
+ we reached earlier with respect to marijuana:
+
+ Figure 4. Trends in Annual Cocaine Use Shown
+ Separately for Four Levels of Per-
+ ceived Risk of Trying Cocaine: High
+ School Seniors, 1976-1988
+
+ 4-l
+
+ < 2 1 . r No risk
+
+ if there had not been a substantial secular
+ trend in attitudes and beliefs about cocaine,
+ starting in about 1986, the (smaller) down-
+ ward secular trend in cocaine use very likely
+ would not have occurred.
+
+ Multivariate Analyses Combining Lifestyle
+ Factors, Attitudes, and Secular Trends
+
+ All of the preceding analyses involved
+ separate computations for each of 13 classes
+ of high school seniors. We noted parallels
+ among trends (Figure 1); we also observed
+ that in each class cocaine use was linked
+ consistently to a number of lifestyle factors
+ and was correlated strongly with both per-
+ ceived risks and disapproval. Now we turn to
+ the task of discovering how these several sets
+ of trends and correlations are interrelated.
+
+ Our multivariate analyses employ the same
+ strategy as we used in studying the recent
+ decline in marijuana use (Bachman et al.
+ 1988). We computed product-moment corre-
+ lations (two matrices, one based on question-
+ naire Form 5 data and the other based on
+ questionnaire Form 3 data), carried out
+ multiple regression analyses using various
+ sets of predictors, and compared predictor
+ sets to ascertain unique and overlapping
+ portions of explained variance. The analyses
+ are somewhat unusual because 1) the correla-
+ tion matrices pooled data across cohorts
+ (graduating classes) and 2) we assigned a new
+ variable to each individual, consisting of the
+ mean cocaine use (during the previous 12
+ months) reported by all seniors during the
+ year in which the individual graduated. Thus
+ we were able to include in each matrix the
+ correlation between individual cocaine use
+ and mean cocaine use among seniors for that
+ year. We interpret that correlation as reflect-
+ ing the extent to which individual variance in
+ cocaine use over a number of years is
+ "explainable" or "interpretable" in terms of
+ the overall secular trend in use. Accordingly
+ we sometimes refer to mean use per year as a
+ measure of the secular trend in cocaine use.
+
+ 3 - Perceived Risk
+
+ of Trying Cocaine
+ Once or Twice:
+
+ Slight risk
+
+ Moderate risk
+
+ 1 - - I f 7 ~ A; Great risk
+
+ '76 '80 '84 '88
+
+ Year of Survey
+
+ Our initial regression analyses involving
+ cocaine use included all 13 classes (1976
+ through 1988). The results did not replicate
+ fully our findings for marijuana. Specifically,
+ we found that attitudes about cocaine could
+ not account fully for secular trends in cocaine
+ use across the 13 years. This result was not
+ altogether surprising because we had noted
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ DECLINE IN COCAINE USE 179
+
+ intervals.) Our presentation and discussion of
+ regression analyses are based on the shorter
+ 1985-1988 interval.
+
+ already that the period of sharp increase in
+ cocaine use during the late 1970s was not
+ accompanied by equally sharp changes in
+ perceived risks or disapproval. Because we
+ focus primarily on declines in use linked to
+ increases in perceived risk and disapproval,
+ we repeated the analyses focusing only on the
+ four graduating classes of 1985 through 1988.
+ (The two correlation matrices based on this
+ 1985-88 interval, as well as the matrices
+ based on the 1976-88 interval, are included
+ as an appendix in Bachman et al. 1989, along
+ with some commentary on the differences and
+ similarities between results for the two
+
+ Table 2 presents the results of a series of
+
+ regression analyses in which several sets of
+ variables are used to predict individual
+ seniors' self-reported annual cocaine use,
+ based on data from the classes of 1985-88.
+ Three predictor sets, examined separately and
+ then in combination, are (Set A) the seven
+ "lifestyle" dimensions, plus sex of respon-
+ dent; (Set B) perceived risks of cocaine use
+ (upper half of Table 2), or personal disap-
+ proval of cocaine use (lower half of Table 2);
+
+ TABLE 2. Multiple Regression Analyses Predicting Annual Cocaine Use (1-7 Scale) for A)
+
+ Lifestyle Variables, B) Attitudes about Cocaine, and C) Mean Cocaine Use per Year:
+ High School Seniors, Classes of 1985-1988, Combined
+
+ Perceived Risk (Data from Questionnaire Form 5)
+
+ Predictor r A. B. C. A. +B. A. +C. B.+C. A.+B.+C.
+ A. Lifestyle Variables
+
+ Grades -0.130 -0.069 -0.042 -0.068 -0.042
+ Truancy 0.212 0.142 0.106 0.143 0.106
+ Hours worked per week 0.099 0.047 0.035 0.043 0.035
+ Average weekly income 0.103 0.023 0.020* 0.030 0.019*
+ Religious commitment -0.141 -0.081 -0.034 -0.083 -0.034
+ Political beliefs 0.111 0.074 0.047 0.074 0.047
+ Evenings out per week 0.179 0.123 0.078 0.122 0.078
+ Sex (M= 1, F=2) -0.040 0.007* 0.013* 0.008* 0.013*
+
+ B. Perceived Risk of Cocaine Use
+
+ (index) -0.427 -0.427 -0.375 -0.430 -0.375
+ C. Mean Cocaine Use per Year 0.064 0.064 0.071 -0.016* -0.001*
+ R 0.295 0.427 0.063 0.465 0.303 0.427 0.465
+ R 2 0.087 0.182 0.004 0.216 0.092 0.182 0.216
+
+ Disapproval (Data from Questionnaire Form 3)
+
+ Predictor r A. B. C. A.+B. A.+C. B.+C. A.+B.+C.
+ A. Lifestyle Variables
+
+ Grades -0.124 -0.067 -0.035 -0.067 -0.035
+ Truancy 0.235 0.180 0.098 0.181 0.098
+ Hours worked per week 0.067 0.008* 0.003* 0.005* 0.003*
+ Average weekly income 0.090 0.034 0.027 0.039 0.028
+ Religious commitment -0.148 -0.099 -0.023 -0.101 -0.023
+ Political beliefs 0.067 0.029 -0.011* 0.028 -0.011*
+ Evenings out per week 0.161 0.107 0.051 0.106 0.051
+ Sex (M= 1, F=2) -0.032 0.011* 0.007* 0.011* 0.007*
+
+ B. Disapproval of Cocaine Use
+
+ (index) -0.534 -0.534 -0.493 -0.535 -0.493
+ C. Mean Cocaine Use per Year 0.061 0.061 0.068 -0.008* 0.002*
+ R 0.295 0.534 0.060 0.551 0.303 0.534 0.551
+ R 2 0.087 0.285 0.004 0.304 0.092 0.285 0.304
+
+ * p > .05.
+ Note: Entries in the first column are product-moment correlation coefficients (r); entries in the bottom rows are
+ multiple correlation coefficients (R and R2), adjusted for degrees of freedom; all other table entries are standardized
+ regression coefficients.
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 180 JOURNAL OF HEALTH AND SOCIAL BEHAVIOR
+
+ of perceived risk correlates more strongly
+ with cocaine use than does the whole group of
+ predictors in Set A, and that the single
+ measure of disapproval correlates still more
+ strongly.
+
+ The most important stage in the multivari-
+ ate analysis is reached when we consider
+ whether there is any relationship unique to the
+ secular trend measure when either of the
+ attitude measures is included in the equation.
+ Here, although the coefficients are smaller
+ than in our analysis of marijuana, the pattern
+ of findings leads to exactly the same
+ conclusion: in the presence of either of the
+ attitude measures, the secular trend effect is
+ reduced essentially to zero (on the basis of a
+ comparison of Set B with Set B + C). The
+ same finding emerges when we include the
+ Set A variables (comparing Set A + B with
+ Set A+B+C).
+
+ In sum, the regression analyses of cocaine
+ use reported in Table 2, like our earlier
+ analyses of marijuana use, show that the
+ recent downturn in use cannot be explained in
+ terms of the lifestyle measures included in Set
+ A, but can be explained in terms of increases
+ in perceived risks and/or in disapproval.
+
+ The statement above is specific to the
+ recent decline in cocaine use; as noted earlier,
+ changes in perceived risk and disapproval do
+ not provide an adequate explanation for the
+ rise in cocaine use that was observed in the
+ late 1970s.2
+
+ Explaining the rise in cocaine use must
+ involve other variables; the same is probably
+ true for marijuana and for other illicit drugs.
+ We discuss this matter briefly in the next
+ section.
+
+ (Set C) mean cocaine use for all seniors
+ during year of graduation (secular trend in
+ cocaine use).
+
+ The lifestyle variables in Set A account for
+ about 9 percent of the variance in annual
+ cocaine use. This finding contrasts sharply
+ with the 25 percent of variance in marijuana
+ use explained by the same set of variables in
+ our earlier analysis; the lower explained
+ variance is not surprising, however, when we
+ consider that cocaine involves many fewer
+ users and much less frequent use than
+ marijuana. Here again, consistent with our
+ earlier findings (Bachman et al. 1981, 1988),
+ the standardized regression coefficients show
+ that truancy, religious commitment, and
+ evenings out are the most important predic-
+ tors. (Grades also are important, but overlap
+ somewhat with the truancy measure.)
+
+ Looking next at Set C, we find that the
+ overall secular trend in cocaine use can
+ account for only a very small amount of
+ variance in individual use (about 0.4%).
+ (Incidentally, the comparable figure for the
+ full 13-year interval from 1976 to 1988 is
+ scarcely larger-about 0.5%.) Here, as for
+ marijuana, the findings remind us that
+ although the recent year-to-year declines are
+ important and interesting, such variations
+ remain small in comparison to the range of
+ individual variability among seniors within
+ each year of the study.
+
+ The separate findings for Sets A and C
+ show clearly that if one wished to predict
+ cocaine use by a high school senior during
+ recent years, knowing the senior's frequency
+ of evenings out, religious involvement, and
+ adjustment in school would be far more useful
+ than knowing the year of graduation. Yet
+ when we observe the regression findings for
+ Set A + C, it is clear that we can predict even
+ more accurately using both types of predic-
+ tors. The key point here is that including the
+ lifestyle variables (Set A) as predictors does
+ not at all diminish the relationship with the
+ secular trend measure. In fact, the regression
+ coefficient for the secular trend measure is
+ increased slightly in the presence of Set A
+ predictors, and the variance unique to secular
+ trend rises slightly to 0.5 percent-calculated
+ by subtracting the R-squared value for Set A
+ from the R-squared value for Set A + C. In
+ other words, none of the secular trend can be
+ "explained" by the lifestyle variables.
+
+ Finally, Set B shows clearly (as in our
+
+ analysis of marijuana) that the single measure
+
+ DISCUSSION
+
+ In this paper we set out to learn more about
+
+ the recent decline in cocaine use among high
+ school seniors; in particular, we suspected
+ that the decline was caused by recent
+ increases in perceived risks and disapproval
+ associated with cocaine use. We repeated the
+ strategies and procedures used in our earlier
+ analysis of the decline in marijuana use
+ (Bachman et al. 1988); the basic results
+ replicate our earlier findings. In some other
+ respects, however, the findings for cocaine
+ stand in contrast to those for marijuana; yet
+ several of these differences actually tend to
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ DECLINE IN COCAINE USE 181
+
+ strengthen our general conclusions about
+ factors underlying trends in drug use.
+
+ For example, seniors have been far more
+ likely to view cocaine use as risky and as
+ something to be disapproved than has been
+ the case for marijuana (see Figure 1). In
+ keeping with those differences, actual use of
+ cocaine among seniors has been much lower
+ than marijuana use (and because of the
+ resulting lower variance, our correlations
+ involving cocaine use tend to be smaller than
+ those involving marijuana use). Thus we find
+ it all the more important that in spite of large
+ differences in attitudes, rates of use, and size
+ of correlations, the present findings linking
+ attitude changes to the decline in cocaine use
+ have so much in common with our earlier
+ findings about the decline in marijuana use.
+
+ Another significant difference between
+ marijuana and cocaine involves seniors'
+ estimates of how easy it would be to obtain
+ each drug. Marijuana consistently has been
+ viewed by large majorities as readily avail-
+ able, whereas the mean ratings of cocaine
+ availability have been much lower. Thus
+ availability (or at least perceived availability)
+ may have been much more of a limiting factor
+ in the case of cocaine. Although perceived
+ availability of cocaine rose appreciably during
+ the late 1970s, when use also was rising, it is
+ important to recall that during the recent
+ decline in cocaine use there was no decline in
+ perceived availability. Thus our findings for
+ cocaine, like those for marijuana, show that
+ use can decline without any corresponding
+ decline in perceived supply. (It is quite
+ possible, however, that the earlier rise in
+ perceived availability may have facilitated the
+ rise in cocaine use.)
+
+ One other distinction between the findings
+
+ for marijuana and for cocaine, particularly
+ important for our present conclusions, in-
+ volves the shape and the timing of the secular
+ trends in use. Although use of both drugs
+ increased until 1978, the trends were dis-
+ tinctly different after that. Marijuana use
+ declined fairly steadily from 1979 onward, so
+ that by 1988 annual usage rates (either mean
+ use or percentage reporting any use) were
+ about half as large as for the class of 1979.
+ For cocaine, however, the first clear decline
+ did not occur until after the 1986 survey; then
+ it was so steep that only two years later
+ annual use had fallen by about 40 percent.
+
+ We would find it hard to argue plausibly
+
+ that such different secular trends in the use of
+
+ these two drugs could have been caused by
+ some general trend among young people
+ toward becoming more "conservative" or less
+ "trouble-prone" in recent years. (Moreover,
+ such an argument would be strained further to
+ accommodate still other trend patterns for
+ other drugs.) Changes in drug-specific fac-
+ tors, on the other hand, correspond clearly to
+ the declines in both marijuana use and
+ cocaine use. As displayed in Figure 1,
+ perceived risks and disapproval regarding
+ marijuana rose steadily from 1978 or 1979
+ onward; in the case of cocaine, perceived
+ risks and disapproval rose sharply after 1986.
+ Both the bivariate and the multivariate
+ analyses suggest strongly that if these changes
+ in attitudes about each drug had not occurred,
+ we would not have observed any recent
+ declines in use.
+
+ We have not attempted in this -paper to
+
+ formulate an overall theory of drug use, nor
+ have we undertaken the (slightly) more
+ limited task of formulating a theory of secular
+ trends in drug use (but see Johnston forthcom-
+ ing for an initial effort in the latter direction).
+ The present findings, however, prompt two
+ observations that would seem appropriate to
+ incorporate into any general theory of drug
+ use and trends in such use. First, it seems
+ necessary to include drug-specific factors in
+ any complete explication of drug use. Broad
+ theories of deviant or "problem" behavior are
+ valuable and highly relevant to the use of
+ drugs, but they cannot provide a complete
+ explanation-particularly because different
+ drugs have shown such disparate patterns of
+ secular trends. Second, it is not necessarily
+ the case that those factors which play a major
+ role in the decline in use of a drug are those
+ which contributed most substantially to an
+ initial increase in use. To the contrary, we
+ suspect that the factors causing historical rises
+ and declines in a drug's use are seldom the
+ same. With regard to marijuana and cocaine,
+ for example, changes in availability undoubt-
+ edly played a more important role in the
+ increase of each drug's use than in the
+ decline.
+
+ Our emphasis on drug-specific factors does
+ not preclude some very useful generalizations
+ across drugs. Indeed, the central thesis of this
+ paper-that increases in perceived risks and
+ disapproval underlie the recent downturn in
+ use of cocaine-is a generalization from the
+ earlier findings on marijuana.
+
+ Now let us consider why these attitudes
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 182 JOURNAL OF HEALTH AND SOCIAL BEHAVIOR
+
+ about marijuana and cocaine changed. We
+ have argued on several occasions that changes
+ in the social environment, primarily changes
+ in information about marijuana, led to a
+ secular trend in perceptions of the risks of
+ marijuana, which led in turn to secular trends
+ in disapproval and in actual marijuana use
+ (e.g., Bachman et al. 1988; Johnston 1985).
+ In particular, we think that two kinds of social
+ change were involved, no doubt synergistically:
+ 1) there was increased research and more
+ credible reporting on the physical and psycho-
+ logical consequences of marijuana use, and 2)
+ long-term heavy marijuana use became com-
+ mon enough that most high school students
+ knew classmates who exhibited some of these
+ negative consequences.
+
+ In the case of cocaine as well, we believe
+ that shifts in attitudes resulted from changes
+ in the social environment, primarily changes
+ in information specific to cocaine. These
+ shifts occurred much more abruptly than
+ those involving marijuana, most likely be-
+ cause the new information about cocaine
+ arrived in such a dramatic fashion. In May
+ 1986 Len Bias, a college basketball star who
+ had just made sports headlines as the
+ first-round draft pick of the Boston Celtics,
+ died as a result of cocaine use. The extensive
+ press coverage of this tragedy included the
+ assertion that Bias had never used cocaine
+ before the occasion which resulted in his
+ death. Although that statement was discov-
+ ered later to be incorrect, the early publicity
+ left a strong impression that even trying
+ cocaine could be very dangerous. Within
+ several weeks another sports star, profes-
+ sional football player Don Rogers, also died
+ as a result of cocaine use.
+
+ Although these two athletes were not high
+ school seniors, they were only a few years
+ older than the respondents in our study, they
+ were young men in prime physical condition,
+ and they had already achieved a high degree
+ of success and fame. In other words, they
+ were the kinds of individuals with whom
+ many high school students could identify.
+ Thus we suspect that for many young people
+ these widely reported and discussed events
+ had at least some of the impact that would
+ have resulted from a classmate's death due to
+ cocaine. In any case, the Bias and Rogers
+ deaths, coming in rapid succession, provided
+ a focal point for extensive media coverage of
+ cocaine use and its risks (including death rate
+ statistics, other physical effects, addictive
+
+ potential, and the like); all of this information
+ seemed likely to generate higher levels of
+ public concern about the drug. The findings
+ reported here suggest that this is exactly what
+ happened.
+
+ CONCLUSIONS
+
+ In this paper we have concentrated on only
+ one part of the drug use picture, albeit a very
+ important part. We have focused on overall
+ secular trends, not on intra-individual changes;
+ more precisely, our focus has been on recent
+ substantial declines in drug use. The present
+ findings regarding cocaine, combined with
+ the earlier findings concerning marijuana,
+ support several observations and conclusions.
+ First, it seems clear that neither the recent
+ decline in cocaine use nor the decline in
+ marijuana use can be attributed to any overall
+ shifts in a number of general lifestyle factors.
+ These factors themselves have not shown
+ strong trends in recent years; therefore,
+ controlling them (in multivariate regression
+ analyses) did not reduce the size of the
+ secular trend in either cocaine use or
+ marijuana use. Moreover, trends in drug use
+ that differ so widely in timing and in rate of
+ change are unlikely to have identical causes.
+ It appears instead that drug-specific factors
+ were responsible for each of the declines in
+ drug use. In particular, increases in perceived
+ risk and in disapproval associated with each
+ drug seem to have prompted the declines in
+ use.
+
+ The drug-specific factors involved in declin-
+ ing use are not necessarily the same as those
+ involved in (earlier) increases in use. Al-
+ though the present research shows that
+ perceived risk and disapproval can act to limit
+ use of a drug, it is obvious that other factors
+ such as awareness and availability also place
+ limits on use-and that changes in these latter
+ factors very likely contributed to the initial
+ increases in use of various illicit drugs.
+
+ Finally, with respect to prevention, the
+ present findings about cocaine reinforce our
+ earlier conclusions based on the analysis of
+ marijuana use. It appears that large propor-
+ tions of young people do pay attention to new
+ information about drugs, especially risks and
+ consequences; such information, presented in
+ a realistic and credible fashion, plays a vital
+ part in reducing the demand for a drug. The
+ evidence available thus far shows clearly that
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ DECLINE IN COCAINE USE 183
+
+ such reduction in demand has been the key
+ to controlling the epidemics of marijuana use
+ and cocaine use.
+
+ NOTES
+
+ 1. The correlational analyses reported here ex-
+
+ Paper No. 29) Ann Arbor: Institute for Social
+ Research.
+
+ Bachman, Jerald G., Lloyd D. Johnston, Patrick
+ M. O'Malley, and Ronald H. Humphrey. 1988.
+ "Explaining the Recent Decline in Marijuana
+ Use: Differentiating the Effects of Perceived
+ Risks, Disapproval, and General Lifestyle Fac-
+ tors." Journal of Health and Social Behavior
+ 29:92-112.
+
+ Fishburne, Patricia M., Herbert I. Abelson, and Ira
+
+ . Forthcoming. "Toward a Theory of Drug
+
+ Cisin. 1980. National Survey on Drug Abuse:
+ Main Findings, 1979. Washington, DC: Na-
+ tional Institute on Drug Abuse.
+
+ Johnston, Lloyd D. 1982. "A Review and
+ Analysis of Recent Changes in Marijuana Use
+ by American Young People." Pp. 8-13 in
+ Marijuana: The National Impact on Education.
+ New York: American Council on Marijuana.
+
+ . 1985. "The Etiology and Prevention of
+ Substance Use: What Can We Learn from
+ Recent Historical Changes?" Pp. 155-77 in
+ Etiology of Drug Abuse: Implications for
+ Prevention, edited by C.L. Jones and R.J.
+ Battes. Washington, DC: U.S. Government
+ Printing Office.
+
+ Epidemics." In Persuasive Communication and
+ Drug Abuse Prevention, edited by R. Lewis
+ Donohew, Howard E. Sypher, and William J.
+ Bukoski. Hillsdale, NJ: Lawrence Erlbaum.
+
+ Johnston, Lloyd D., Jerald G. Bachman, and
+ Patrick M. O'Malley. 1981. Highlights from
+ Student Drug Use in America, 1975-1980.
+ Washington, DC: U.S. Government Printing
+ Office.
+
+ Johnston, Lloyd D., Patrick M. O'Malley, and
+ Jerald G. Bachman. 1984. Drugs and American
+ High School Students: 1975-1983. Washington,
+ DC: U.S. Government Printing Office.
+
+ . 1985. Use of Licit and Illicit Drugs by
+ America's High School Students: 1975-1984.
+ Washington, DC: U.S. Government Printing
+ Office.
+
+ . 1989. Drug Use, Drinking, and Smoking:
+ National Survey Results from High School,
+ College, and Young Adult Populations 1975-
+ 1988. Washington, DC: U.S. Government
+ Printing Office.
+
+ National Institute on Drug Abuse. 1988. National
+ Household Survey on Drug Abuse: Main Find-
+ ings, 1985. Washington, DC: U.S. Government
+ Printing Office.
+
+ O'Malley, Patrick M., Jerald G. Bachman, and
+ Lloyd D. Johnston. 1988. "Period, Age, and
+ Cohort Effects on Substance Use among Young
+ Americans: A Decade of Change, 1976-86."
+ American Journal of Public Health 78(10):
+ 1315-21.
+
+ Wiley, David E. and James A. Wiley. 1970. "The
+
+ Estimation of Measurement of Error in Panel
+ Data." American Sociological Review 35:
+ 112-17.
+
+ cluded subjects for whom data were missing on
+ one or more of the measures of annual cocaine
+ use, annual marijuana use, personal disapproval
+ of either drug, or perceived risks of either drug
+ (including those who stated, "Can't say, drug
+ unfamiliar" instead of rating perceived risks).
+ Also excluded from the analyses were the small
+ numbers of respondents whose answers to the
+ series of items on perceived risks, or to the
+ series on disapproval, were inconsistent or
+ failed to provide meaningful distinctions among
+ different drugs and different levels of use (see
+ Bachman et al. 1988, footnote 1, for details).
+ These several restrictions had the effect of
+ excluding about 9 percent, on average, of the
+ participants responding to Form 3, which
+ contains the disapproval items. For Form 5,
+ which contains the items on perceived risks, the
+ restrictions excluded about 12 percent of the
+ participants in 1985-1988 and somewhat larger
+ proportions during earlier years (when more
+ seniors claimed that they were not familiar
+ enough with cocaine to rate its risks).
+
+ 2. As noted earlier, we first carried out regression
+
+ analyses covering all 13 graduating classes.
+ Although most of the findings were quite
+ similar to those in Table 2, the critical
+ difference is that including either attitude
+ measure in the equation removed only a portion
+ of the unique contribution of the secular trend
+ measure.
+
+ REFERENCES
+
+ Bachman, Jerald G. and Lloyd D. Johnston. 1978.
+ The Monitoring the Future Project: Design and
+ Procedures (Monitoring the Future Occasional
+ Paper 1). Ann Arbor: Institute for Social
+ Research.
+
+ Bachman, Jerald G., Lloyd D. Johnston, and
+ Patrick M. O'Malley. 1981. "Smoking, Drink-
+ ing and Drug Use among American High School
+ Students: Correlates and Trends, 1975-1979."
+ American Journal of Public Health 71:59-69.
+
+ . 1987. Monitoring the Future: Question-
+ naire Responses from the Nation's High School
+ Seniors, 1986. Ann Arbor: Institute for Social
+ Research.
+
+ . 1989. Linking Trends in Cocaine Use to
+ Perceived Risks, Disapproval, and Lifestyle
+ Factors: An Analysis of High School Seniors,
+ 1976-1988. (Monitoring the Future Occasional
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 184 JOURNAL OF HEALTH AND SOCIAL BEHAVIOR
+
+ JERALD G. BACHMAN is program director at the University of Michigan's Institute for Social
+ Research and is a principal investigator on the ongoing survey series, "Monitoring the Future: A
+ Continuing Study of the Lifestyles and Values of Youth." His publications include five volumes in the
+ Youth in Transition series, The All-Volunteer Force (1977), and recent articles and monographs dealing
+ with drug use and other topics involving youths and young adults.
+
+ LLOYD D. JOHNSTON is also program director at the Institute for Social Research and a principal
+ investigator on the "Monitoring the Future" series. His interests include the study of historical, social,
+ and psychological factors influencing substance use as well as the study of other problems and attitudes
+ among youths. Published works include Drugs and American Youth (1973) and a series of annual
+ monographs, the most recent of which is noted below.
+
+ PATRICK M. O'MALLEY is associate research scientist at the Institute for Social Research. He is
+ coauthor, with Johnston and Bachman, of Drug Use, Drinking, and Smoking: National Survey Results
+ from High School, College, and Young Adult Populations, 1975-1988, published by the National
+ Institute on Drug Abuse (1989).
+
+This content downloaded from 128.122.76.26 on Mon, 06 Aug 2018 16:15:36 UTC
+
+All use subject to https://about.jstor.org/terms
+
+
