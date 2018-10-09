@@ -17,61 +17,82 @@ The Rich Context Contest staff will do our best to help you with problems relate
 
 ## Requirements
 
-Please make sure you have Docker installed on your machine before you start the development of your submission.
+Please make sure you have Docker installed on your machine before you start work on preparing your submission.
 
-For Windows 10 Pro or Apple Macintosh computers, install Docker Desktop:
+For Windows 10 Pro or macOS computers, install Docker Desktop:
 
 - [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+
+For versions of Windows other than Windows 10 Pro, we recommend installing a virtualization program like VirtualBox and working inside an Ubuntu 18.04 linux virtual machine.
 
 For linux, Find your version of linux in the Docker Community Edition product page and click through to find instructions:
 
 - [https://store.docker.com/search?type=edition&offering=community](https://store.docker.com/search?type=edition&offering=community)
 
-This project was created using Docker version `Docker version 18.06.0-ce, build 0ffa825`. Please make sure to use the same to avoid version-related issues.
+Linux notes:
+
+- if you can, we recommend installing the latest from the docker repos, not the versions that are included in base OS repositories.
+- consider adding your user to the "docker" OS group so you can manage docker without having to be root (from [https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user](https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user))_:
+
+    - add group docker (`sudo groupadd docker`) - your OS might create it as part of install.  If so, you'll get an error message something like "groupadd: group 'docker' already exists".  This is fine.  No harm no foul.  Proceed to the next step.
+    - add your user to the docker group (`sudo usermod -aG docker $USER`).
+    - log out and log back in.  On a VM, you might have to reboot the VM for this to stick (from the doc, not sure why).
+    - try running docker without sudo.
+    - if you initially ran docker commands as root, you might see error "WARNING: Error loading config file: /home/user/.docker/config.json - stat /home/user/.docker/config.json: permission denied".  This means your `~/.docker` folder is owned by root.  To fix, either remove `~/.docker` and run a docker command to recreate (you'll lose custom settings), or change owner for the folder and all children to your user and default group and update all permissions to the normal umask default (group rwx):
+	
+            $ sudo chown "$USER":"$USER" /home/"$USER"/.docker -R
+            $ sudo chmod g+rwx "$HOME/.docker" -R(`chown -R `)
+
+This project was created using Docker version `Docker version 18.06.1-ce, build e68fc7a`.  Please make sure to use the current version at the time of submission to avoid version-related issues.
 
 ## Helper script `rcc.sh`
 
 We created bash shell helper script, "`rcc.sh`", to facilitate making and testing a submission and working with Docker. To run the script, navigate into the root of your group's Box folder, then run `./rcc.sh <action>`.  The supported actions are listed below.  Certain specifics of your environment must be specified in a separate configuration shell script (config.sh), that we provide pre-populated with examples that you can use to test all the actions.
 
+Notes:
+
+- on linux, by default, docker is installed so it can only be managed by the root user.  This means you'll have to run "`rcc.sh`" script actions that interact with docker as root, as well (all the `build` and `run` actions, for example).  You can use `sudo` or `su` to root and do this as needed, but this can get messy in terms of the permissions of the files in this submission folder.  One option to consider if you can on your server is to configure your user so it is in the docker OS group, and so able to manage docker without root access: [https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user](https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user).  See detailed instructions above in the "Requirements" section.
+- If you download the contents of your group's Box folder and move them to a linux machine or virtual machine to work on preparing your submission, be aware that even though the shell script files are stored in git with permissions to allow them to be executed, Box does not persist those permissions, and so you might need to update shell scripts to be executable once you uncompress the contents of the Box folder (specifically, "`rcc.sh`", "`project/code.sh`", and "`config.sh`" - `chmod 755 <file_name>`).
+
 ### Configuration script
 
-	#!/bin/bash
-		
-	# The config file can include:
-	# - `BASE_FOLDER_IN` - base folder (usually where this script lives).
-	# - `DATA_FOLDER_PATH_IN` (`-d` option) - path to the data folder for a given run of the model.
-	# - `PROJECT_FOLDER_PATH_IN` (`-p` option) - path to the project folder for the current model.
-	# - `GIT_REPO_FOLDER_PATH_IN` - the path to the git repo (defaults to "/rich-context-contest" inside the base folder).
-	# - `EVALUATE_FOLER_PATH_IN` - path to the evaluate code folder inside the git repository.
-	# - `TEMPLATE_FOLDER_PATH_IN` - path to the template code folder inside the git repository.
-	# - `DOCKER_IMAGE_NAME_IN` - Image name to use locally for submission image, defaults to "my_rcc".
-	# - `DOCKER_CONTAINER_NAME_IN` - Container name to use locally for the instance of the image used to test and run your model, defaults to "${DOCKER_IMAGE_NAME_IN}_run"
-	# - `USE_BUILD_CACHE_IN` - default behavior for build cache use with the base "build" action.  Defaults to false (no cache).
-	# - `DEBUG` - set to "`true`" or "`false`".  If set to "`true`", results in much more verbose output.
+#!/bin/bash
+	
+    # The config file can include:
+    # - `BASE_FOLDER_IN` - base folder (usually where this script lives).
+    # - `DATA_FOLDER_PATH_IN` (`-d` option) - path to the data folder for a given run of the model.
+    # - `PROJECT_FOLDER_PATH_IN` (`-p` option) - path to the project folder for the current model.
+    # - `GIT_REPO_FOLDER_PATH_IN` - the path to the git repo (defaults to "/rich-context-contest" inside the base folder).
+    # - `EVALUATE_FOLER_PATH_IN` - path to the evaluate code folder inside the git repository.
+    # - `TEMPLATE_FOLDER_PATH_IN` - path to the template code folder inside the git repository.
+    # - `DOCKER_IMAGE_NAME_IN` - Image name to use locally for submission image, defaults to "my_rcc".
+    # - `DOCKER_CONTAINER_NAME_IN` - Container name to use locally for the instance of the image used to test and run your model, defaults to "${DOCKER_IMAGE_NAME_IN}_run"
+    # - `USE_BUILD_CACHE_IN` - default behavior for build cache use with the base "build" action.  Defaults to false (no cache).
+    # - `DEBUG` - set to "`true`" or "`false`".  If set to "`true`", results in much more verbose output.
 
-	# set configuration variables
-	BASE_FOLDER_PATH_IN="."
+    # set configuration variables
+    BASE_FOLDER_PATH_IN="."
 
-	# model-related folders
-	DATA_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/data"
-	PROJECT_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/project"
+    # model-related folders
+    DATA_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/data"
+    PROJECT_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/project"
 
-	#===============================================================================
-	# WARNING - do not alter below this point unless you know what you are doing.
-	#===============================================================================
+    #===============================================================================
+    # WARNING - do not alter below this point unless you know what you are doing.
+    #===============================================================================
 
-	# git repo folders
-	GIT_REPO_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/rich-context-contest"
-	EVALUATE_FOLDER_PATH_IN="${GIT_REPO_FOLDER_PATH_IN}/evaluate"
-	TEMPLATE_FOLDER_PATH_IN="${GIT_REPO_FOLDER_PATH_IN}/templates"
+    # git repo folders
+    GIT_REPO_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/rich-context-contest"
+    EVALUATE_FOLDER_PATH_IN="${GIT_REPO_FOLDER_PATH_IN}/evaluate"
+    TEMPLATE_FOLDER_PATH_IN="${GIT_REPO_FOLDER_PATH_IN}/templates"
 
-	# docker
-	DOCKER_IMAGE_NAME_IN="my_rcc"
-	DOCKER_CONTAINER_NAME_IN="${DOCKER_IMAGE_NAME_IN}_run"
-	USE_BUILD_CACHE_IN=false
+    # docker
+    DOCKER_IMAGE_NAME_IN="my_rcc"
+    DOCKER_CONTAINER_NAME_IN="${DOCKER_IMAGE_NAME_IN}_run"
+    USE_BUILD_CACHE_IN=false
 
-	# debug
-	DEBUG=true
+    # debug
+    DEBUG=true
 
 You should only need to set the variables `DATA_FOLDER_PATH_IN` and `PROJECT_FOLDER_PATH_IN`.  The rest you should leave set to defaults unless you really know what you are doing.
 
