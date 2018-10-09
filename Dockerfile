@@ -11,6 +11,6 @@ RUN pip3 install ipython matplotlib numpy pandas scikit-learn scipy six
 RUN mkdir /work
 
 # clone the rich context repo into /rich-context-contest
-RUN git clone https://github.com/NYU-Chicago-data-facility/rich-context-contest.git /rich-context-contest
+RUN git clone https://github.com/Coleridge-Initiative/rich-context-contest.git /rich-context-contest
 
 LABEL maintainer="jonathan.morgan@nyu.edu"
