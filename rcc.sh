@@ -367,6 +367,7 @@ function reset_rcc_script()
 
     # reset rcc.sh, archive and replace if already there.
     reset_file "${base_folder_path_IN}" "${git_folder_path_IN}" "rcc.sh" "${do_replace_IN}"
+    chmod 775 "${base_folder_path_IN}/rcc.sh"
 
 } #-- END function reset_rcc_script() --#
 
