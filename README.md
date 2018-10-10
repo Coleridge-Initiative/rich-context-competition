@@ -169,25 +169,25 @@ The input folder will have a "`publications.json`" file that lists the articles 
 
 Example:
 
-[
-	{
-	    "pub_date": "1982-01-01",
-        "unique_identifier": "http://www.jstor.org/stable/1963728",
-        "text_file_name": "1.txt",
-        "pdf_file_name": "1.pdf",
-        "title": "The decline of electoral participation in America",
-        "publication_id": 1
-	},
-    {
-        "pub_date": "1986-01-01",
-        "unique_identifier": "http://www.jstor.org/stable/2111292",
-        "text_file_name": "2.txt",
-        "pdf_file_name": "2.pdf",
-        "title": "Generational Replacement and Value Change in Six West European Societies",
-        "publication_id": 2
-    },
-	...
-]
+    [
+    	 {
+            "text_file_name": "166.txt",
+            "unique_identifier": "10.1093/geront/36.4.464",
+            "pub_date": "1996-01-01",
+            "title": "Nativity, declining health, and preferences in living arrangements among elderly Mexican Americans: Implications for long-term care",
+            "publication_id": 166,
+            "pdf_file_name": "166.pdf"
+        },
+        {
+            "text_file_name": "167.txt",
+            "unique_identifier": "10.1093/geronb/56.5.S275",
+            "pub_date": "2001-01-01",
+            "title": "Duration or disadvantage? Exploring nativity, ethnicity, and health in midlife",
+            "publication_id": 167,
+            "pdf_file_name": "167.pdf"
+        },
+    	...
+    ]
 
 ### Output files
 
@@ -199,6 +199,28 @@ Example:
     - `data_set_id` - The integer `data_set_id` that identifies the cited dataset.
     - `score` - A score on a scale of 0 to 1 representing the level of confidence that the dataset is referenced in the publication.
     - `mention_list` - A list of the text of explicit mentions of the data set in the publication.
+
+
+        [
+            {"publication_id": 102,
+            "data_set_id": 44,
+            "score": 0.678,
+            "mention_list":[
+                "survey of consumer practices",
+                "consumer service study"
+            ]
+            },
+            {"publication_id": 55,
+            "data_set_id": 434,
+            "score": 0.568,
+            "mention_list":[
+                "corporate balance sheet data",
+                "corporate balance sheet statistics",
+                "corporate balance sheets"
+            ]
+            }
+            ....
+        ]
 
 - **dataset_mentions.json** - A JSON file that should contain a list of JSON objects, where each object contains a single publication-mention pair for every data set mention detected within each publication, regardless of whether a gvien data set is one of the data sets provided in the contest data set file. Each mention JSON object will includes three properties:
 
