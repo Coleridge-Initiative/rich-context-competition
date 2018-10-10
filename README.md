@@ -200,14 +200,14 @@ Example:
     - `score` - A score on a scale of 0 to 1 representing the level of confidence that the dataset is referenced in the publication.
     - `mention_list` - A list of the text of explicit mentions of the data set in the publication.
 
-
+        ```
         [
             {"publication_id": 102,
             "data_set_id": 44,
             "score": 0.678,
             "mention_list":[
                 "survey of consumer practices",
-                "consumer service study"
+                "consumer practice study"
             ]
             },
             {"publication_id": 55,
@@ -221,6 +221,7 @@ Example:
             }
             ....
         ]
+        ```
 
 - **dataset_mentions.json** - A JSON file that should contain a list of JSON objects, where each object contains a single publication-mention pair for every data set mention detected within each publication, regardless of whether a gvien data set is one of the data sets provided in the contest data set file. Each mention JSON object will includes three properties:
 
@@ -228,17 +229,80 @@ Example:
     - `mention` - The specific data set mention text found in the publication.  Each mention gets its own JSON object in this list.
     - `score` - A score on a scale of 0 to 1 representing the level of confidence that the mention text references data.
 
+        ```
+        [
+            {
+                "publication_id": 1088,
+                "mention": "American Community Survey (ACS)",
+                "score": 0.770,
+            },
+            {
+                "publication_id": 1088,
+                "mention": "ACS",
+                "score": 0.590,
+            },
+            {
+                "publication_id": 1902,
+                "mention": "Health and Wellness Study",
+                "score": 0.880,
+            },
+            ....
+        ]
+        ```
+
 - **methods.json** - A JSON file that should contain a list of JSON objects, where each object captures publication-method pairs via three properties:
 
     - `publication_id` - The integer `publication_id` of the publication from `publications.json`.
     - `method` - The inferred method used by the research in the publication.
     - `score` - A score on a scale of 0 to 1 representing the level of confidence that the method is used in the publication.
 
+        ```
+        [
+            {
+                "publication_id": 876,
+                "method": "opinion poll",
+                "score": 0.680,
+            },
+            {
+                "publication_id": 223,
+                "method": "sampling",
+                "score": 0.458,
+            },
+            {
+                "publication_id": 223,
+                "method": "ethnography",
+                "score": 0.916,
+            },
+            ....
+        ]
+        ```
+
 - **research_fields.json** - A JSON file that should contain a list of JSON objects, where each object captures publication-research field pairs via three properties:
 
     - `publication_id` - The integer `publication_id` of the publication from `publications.json`.
     - `research_field` - The inferred research field of the research in the publication.
     - `score` - A score on a scale of 0 to 1 representing the level of confidence that the publication is in the stated research field.
+
+        ```
+        [
+            {
+                "publication_id": 1008,
+                "research_field": "Public Health",
+                "score": 0.747,
+            },
+            {
+                "publication_id": 1073,
+                "research_field": "Urban Planning",
+                "score": 0.690,
+            },
+            {
+                "publication_id": 2133,
+                "research_field": "Economics",
+                "score": 0.900,
+            },
+            ....
+        ]
+        ```
 
 # How to compete?
 
