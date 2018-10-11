@@ -193,7 +193,7 @@ Example:
 
 4 expected output files should be placed in the folder `data/output` after each run of the model:
 
-- **dataset_citations.json** - A JSON file that contains publication-dataset pairs for each detected mention of any of the data sets provided in the contest `data_sets.json` file.  The JSON file should contain a JSON list of objects, where each object represents a single publication-dataset pair and includes four properties:
+- **data_set_citations.json** - A JSON file that contains publication-dataset pairs for each detected mention of any of the data sets provided in the contest `data_sets.json` file.  The JSON file should contain a JSON list of objects, where each object represents a single publication-dataset pair and includes four properties:
 
     - `publication_id` - The integer `publication_id` of the publication from `publications.json`.
     - `data_set_id` - The integer `data_set_id` that identifies the cited dataset.
@@ -223,7 +223,7 @@ Example:
         ]
         ```
 
-- **dataset_mentions.json** - A JSON file that should contain a list of JSON objects, where each object contains a single publication-mention pair for every data set mention detected within each publication, regardless of whether a gvien data set is one of the data sets provided in the contest data set file. Each mention JSON object will includes three properties:
+- **data_set_mentions.json** - A JSON file that should contain a list of JSON objects, where each object contains a single publication-mention pair for every data set mention detected within each publication, regardless of whether a gvien data set is one of the data sets provided in the contest data set file. Each mention JSON object will includes three properties:
 
     - `publication_id` - The integer `publication_id` of the publication from `publications.json`.
     - `mention` - The specific data set mention text found in the publication.  Each mention gets its own JSON object in this list.
@@ -305,6 +305,49 @@ Example:
         ```
 
 # How to compete?
+
+## Preparing your model for submission:
+
+To prepare your model for submission:
+
+- test docker installation:
+
+    - run "`./rcc.sh build`" using the default provided Dockerfile.
+    - do a "basic test" of the container:
+    
+        - "`./rcc.sh run`"
+        - "`./rcc.sh stop`"
+        - "`./rcc.sh evaluate`"
+
+- reset data folder: "`./rcc.sh reset-data-folder`"
+- make your model.
+- update the "`Dockerfile`" file so everything your model needs is installed in the container.
+- get container working - repeat the following until build succeeds:
+
+    - "`./rcc.sh remove-docker-image`"
+    - "`./rcc.sh build`"
+
+- put model into projects folder
+
+    - put model, scripts, needed files, etc., into "project" folder.
+    - update code.sh in project folder so it runs your model on "/data" inside the container.
+    - your model should:
+
+        - use the file "/data/input/publications.json" (inside the container) to figure out which publications need to be processed.
+        - process each.
+        - output the following files to the "/data/output" folder (path is correct inside the container - mapped to data folder in your submission folder):
+
+            - dataset_citations.json
+            - dataset_mentions.json
+            - methods.json
+            - research_fields.json
+
+- use the "`./rcc.sh run`" command to work through getting your model to run. "`./rcc.sh stop`" after each run, or just use "`./rcc.sh run-stop`".
+- once your model is running, run and evaluate against the dev fold:
+
+    - use the "`./rcc.sh run`" command to run your model against the dev fold.
+    - "`./rcc.sh stop`"
+    - run the "`./rcc.sh evaluate`" command to see how your model did.
 
 ## Reviewing your submission
 
