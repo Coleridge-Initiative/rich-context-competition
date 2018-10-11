@@ -156,11 +156,8 @@ Example:
 
 4 expected output files should be placed in the folder `data/output` after each run of the model:
 
-<<<<<<< HEAD
-- **dataset_citations.json** - A JSON file that contains publication-dataset pairs for each detected mention of any of the data sets provided in the contest `data_sets.json` file. The JSON file should contain a JSON list of objects, where each object represents a single publication-dataset pair and includes four properties:
-=======
+
 - **data_set_citations.json** - A JSON file that contains publication-dataset pairs for each detected mention of any of the data sets provided in the contest `data_sets.json` file.  The JSON file should contain a JSON list of objects, where each object represents a single publication-dataset pair and includes four properties:
->>>>>>> 162ad7e2b9bdf580d807d072797f45532a712d8d
 
     - `publication_id` - The integer `publication_id` of the publication from `publications.json`.
     - `data_set_id` - The integer `data_set_id` that identifies the cited dataset.
