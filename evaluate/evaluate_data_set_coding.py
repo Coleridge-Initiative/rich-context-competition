@@ -352,8 +352,8 @@ from citation_coding_evaluation import CitationCodingEvaluation
 
 
 # file paths
-baseline_json_path = "data_set_citations.json"
-derived_json_path = "../data/output/data_set_citations.json"
+baseline_json_path = "./data_set_citations.json"
+derived_json_path = "/data/output/data_set_citations.json"
 
 
 # In[ ]:
