@@ -1,17 +1,22 @@
-# rich-context-contest
+# Rich Context Contest Evaluation and Submission Kit
 
-This repository contains supporting files for working on and submitting an entry for the [Rich Context Text Analysis Competition](https://coleridgeinitiative.org/richcontextcompetition).  Here you will find all the materials and instructions you will need to build your competition submission.  You should develop (train and test) your model on your own machine or server.  Once you are ready to submit, you will use the files and scripts here to create a docker container that contains all code, libraries, and additional data and resources required to train and run your model.  Each group of participants will be given access to a private Box folder shared with contest organizers that will be pre-populated with this repository along with a dev fold, sample data folder, sample project folder, and the train-test data for the competition.  To submit, inside their Box folder, each group will:
+This repository contains supporting files for self-evaluation (with a development fold corpus) and submitting an entry for the [Rich Context Text Analysis Competition](https://coleridgeinitiative.org/richcontextcompetition). Here you will find all the materials and instructions you will need to build your competition submission. 
 
-- place their trained model's data and code in a project folder along with a script that accepts a data folder path and runs the model against the specified data directory (standard data directory layout specified below).
-- implement a Dockerfile that can be run anywhere, built on the ubuntu 18.04 base image, that installs and configures a docker image that can call the model execution script and run it against any directory that has a standard data folder layout (described below).
+You should develop (train and test) your model on your own machine or server. Once you are ready to submit, you will use the files and scripts here to create a docker container that contains all code, libraries, and additional data and resources required to train and run your model. Each group of participants will be given access to a private Box folder shared with contest organizers that will be pre-populated with this repository along with the dev fold, a sample data folder, a sample project folder, and the train-test data for the competition. To submit, inside their Box folder, each group will:
 
-Below are instructions to assist you setting up and configuring your submission container.
+* Place their trained model's data and code in a project folder along with a script that accepts a data folder path and runs the model against the specified data directory (standard data directory layout specified below).
+* Implement a Dockerfile that can be run anywhere, built on the Ubuntu 18.04 base image, that installs and configures a docker image that can call the model execution script and run it against any directory that has a standard data folder layout (described [below](#data-folder-specification)).
+
+Below are instructions and specifications to assist you setting up and configuring your submission container.
 
 # Rules of Engagement
 
 We suggest that you build, train, and test your model in an environment you are comfortable with, then once you have it working, migrate it to a docker container.
 
 The Rich Context Contest staff will do our best to help you with problems related to storing your model and data in a git repo and updating the other related files so we can accept and run it in a docker image.  We can not provide support for software you use to implement your model.
+
+
+
 
 # Technical Details
 
@@ -145,16 +150,13 @@ To rebuild your container and run it against a fresh dev fold data directory, ex
 
 The standard data folder layout:
 
-- data
+    data
+    |_input
+    |   |_files
+    |      |_text
+    |      |_pdf
+    |_output
 
-    - input
-
-        - files
-
-		    - text
-			- pdf
-
-	- output
 
 ### Input files
 
