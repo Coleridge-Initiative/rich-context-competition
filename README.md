@@ -81,7 +81,7 @@ You should only need to set the variables `DATA_FOLDER_PATH_IN` and `PROJECT_FOL
 
 ### rcc.sh - Test that everything works
 
-After you download this repo directory and have [Docker installed]() on your computer, navigate to the home direcotry where the `./rcc.sh` is located and run the following commands:
+After you download this repo directory and have [Docker installed](https://github.com/Coleridge-Initiative/rich-context-contest/wiki/Docker-Installation) on your computer, navigate to the home direcotry where the `./rcc.sh` is located and run the following commands:
 
 - `./rcc.sh build`
 - `./rcc.sh run`
