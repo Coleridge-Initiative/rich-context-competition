@@ -273,11 +273,6 @@ Example:
 
 # How to compete?
 
-<<<<<<< HEAD
-## Overview
-
-### Reviewing your submission
-=======
 ## Preparing your model for submission:
 
 To prepare your model for submission:
@@ -322,7 +317,6 @@ To prepare your model for submission:
     - run the "`./rcc.sh evaluate`" command to see how your model did.
 
 ## Reviewing your submission
->>>>>>> 162ad7e2b9bdf580d807d072797f45532a712d8d
 
 When we receive your submission, we will:
  1. Move the contents of your group's Box folder to an evaluation server.
