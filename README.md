@@ -18,6 +18,13 @@ The Rich Context Contest staff will do our best to help you with problems relate
 
 # Getting Started
 
+## Requirements - Installing Docker
+
+Please make sure you have Docker installed on your machine before you start work on performing the dev fold evaluation or preparing your submission. This project was created using Docker version `Docker version 18.06.1-ce, build e68fc7a`. Please make sure to use the current version at the time of submission to avoid version-related issues.
+
+See details for installing Docker on your system in our [Docker Installation](https://github.com/Coleridge-Initiative/rich-context-competition/wiki/Docker-Installation) notes.
+
+
 ## Preparing your model for submission:
 
 To prepare your model for submission:
@@ -82,11 +89,6 @@ Please do the same process against the **development fold** (the data in the pro
 
 # Technical Details
 
-## Requirements - Installing Docker
-
-Please make sure you have Docker installed on your machine before you start work on performing the dev fold evaluation or preparing your submission. This project was created using Docker version `Docker version 18.06.1-ce, build e68fc7a`. Please make sure to use the current version at the time of submission to avoid version-related issues.
-
-See details for installing Docker on your system in our [Docker Installation](https://github.com/Coleridge-Initiative/rich-context-competition/wiki/Docker-Installation) notes.
 
 ## Helper script `rcc.sh`
 
