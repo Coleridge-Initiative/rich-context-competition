@@ -716,6 +716,28 @@ then
             echo "STOP!!!"
             stop "${DOCKER_CONTAINER_NAME_IN}"
         ;;
+        *)
+            echo ""
+            echo "Requested action \"${requested_action}\" is not valid."
+            echo ""
+            echo "Valid actions:"
+            echo "- build"
+            echo "- build-no-cache"
+            echo "- build-use-cache"
+            echo "- evaluate"
+            echo "- init"
+            echo "- remove-docker-image"
+            echo "- reset-data-folder"
+            echo "- reset-project-folder"
+            echo "- reset-config-file"
+            echo "- reset-dockerfile"
+            echo "- reset-rcc-script"
+            echo "- run"
+            echo "- run-interactive"
+            echo "- run-stop"
+            echo "- stop"
+            echo ""
+        ;;
 
     esac
 
