@@ -35,7 +35,11 @@ Notes:
 
 - On linux, by default, docker is installed so it can only be managed by the root user. This means you'll have to run "`rcc.sh`" script actions that interact with docker as root, as well (all the `build` and `run` actions, for example). You can use `sudo` or `su` to root and do this as needed, but this can get messy in terms of the permissions of the files in this submission folder. One option to consider if you can on your server is to configure your user so it is in the docker OS group, and so able to manage docker without root access: [https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user](https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user). See detailed instructions above in the "Requirements" section.
 
-- If you download the contents of your group's Box folder and move them to a linux machine or virtual machine to work on preparing your submission, be aware that even though the shell script files are stored in git with permissions to allow them to be executed, Box does not persist those permissions, and so you might need to update shell scripts to be executable once you uncompress the contents of the Box folder (specifically, "`rcc.sh`", "`project/code.sh`", and "`config.sh`" - `chmod 755 <file_name>`).
+- Box doesn't reliably track execute permissions of files from unix-based OSes.  So when you either navigate to your group's project folder synced by Box on macOS or download the contents of your group's Box folder and move them to a linux machine or virtual machine to work on preparing your submission, be aware that even though the shell script files are stored in git with permissions to allow them to be executed, Box does not persist those permissions, and so you will need to update the shell scripts in your project folder to be executable.  Commands to do this for the necessary scripts:
+
+    - rcc.sh - `chmod u+x rcc.sh`
+    - config.sh - `chmod u+x config.sh`
+    - project/code.sh - `chmod u+x project/code.sh`
 
 ### Configuration script
 
