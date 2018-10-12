@@ -2,6 +2,7 @@
 print( "Publication parse example:" )
 
 # imports
+import codecs
 import json
 import shutil
 
@@ -51,7 +52,7 @@ with open( publications_json_path ) as json_publication_file:
         print( "- unique_identifier: {}".format( unique_identifier ) )
         print( "- text_file_name: {}".format( text_file_name ) )
         print( "- pdf_file_name: {}".format( pdf_file_name ) )
-        print( "- title: {}".format( title ) )
+        print( "- title: {}".format( codecs.encode( title, "ascii", "xmlcharrefreplace" ) ) )
         print( "- publication_id: {}".format( publication_id ) )
 
     #-- END loop over publications --#
