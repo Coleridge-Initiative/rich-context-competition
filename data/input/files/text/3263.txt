@@ -1,0 +1,1209 @@
+Original Article
+Eyes Wide Open: Only Eyes That Pay
+Attention Promote Prosocial Behavior
+Zoi Manesi1, Paul A. M. Van Lange1, and Thomas V. Pollet1
+Abstract
+Research from evolutionary psychology suggests that the mere presence of eye images can promote prosocial behavior. How-
+ever, the ``eye images effect'' is a source of considerable debate, and findings across studies have yielded somewhat inconsistent
+support. We suggest that one critical factor may be whether the eyes really need to be watching to effectively enhance prosocial
+behavior. In three experiments, we investigated the impact of eye images on prosocial behavior, assessed in a laboratory setting.
+Participants were randomly assigned to view an image of watching eyes (eyes with direct gaze), an image of nonwatching eyes
+(i.e., eyes closed for Study 1 and averted eyes for Studies 2 and 3), or an image of flowers (control condition). Upon exposure to
+the stimuli, participants decided whether or not to help another participant by completing a dull cognitive task. Three independent
+studies produced somewhat mixed results. However, combined analysis of all three studies, with a total of 612 participants,
+showed that the watching component of the eyes is important for decision-making in this context. Images of watching eyes led to
+significantly greater inclination to offer help as compared to images of nonwatching eyes (i.e., eyes closed and averted eyes) or
+images of flowers. These findings suggest that eyes gazing at an individual, rather than any proxy to social presence (e.g., just the
+eyes), serve as a reminder of reputation. Taken together, we conclude that it is ``eyes that pay attention'' that can lift the veil of
+anonymity and potentially facilitate prosocial behavior.
+Keywords
+eye images effect, prosocial behavior, social gaze, reputation, social attention
+Date received: September 11, 2015; Accepted: February 11, 2016
+Individuals care about making a good impression on others,
+and they tend to behave prosocially when they believe that they
+are being watched and evaluated by others (Kurzban, 2001;
+Milinski, Semmann, & Krambeck, 2002; Van Bommel, Van
+Prooijen, Elffers, & Van Lange, 2012; Van Vugt & Hardy,
+2010). In public situations, people commonly behave proso-
+cially in expectation of building a positive reputation which
+will give them access to valuable social benefits, such as
+resources or alliance partners (Kurzban, Burton-Chellew, &
+West, 2015; Nowak & Sigmund, 1998; Panchanathan & Boyd,
+2003; Sylwester & Roberts, 2010; Wedekind & Milinski,
+2000). Furthermore, in the absence of anonymity, people often
+treat others prosocially to avoid social penalties that can result
+from failure to cooperate, such as social ostracism (Boyd, Gin-
+tis, & Bowles, 2010; Fehr & Fischbacher, 2004). Indeed,
+research suggests that reputational mechanisms driving proso-
+cial behavior can be elicited not only by the presence of real
+observers (e.g., Bereczkei, Birkas, & Kerekes, 2007) but also
+by minimal cues of being watched, such as images of eyes or
+artificial eyelike shapes (for reviews, see Nettle et al., 2013;
+Sparks & Barclay, 2013).
+A series of laboratory and online experiments has demon-
+strated that the mere display of eye images can enhance various
+cooperative acts, including (a) generosity (Baillon, Selim, &
+Van Dolder, 2013; Fathi, Bateson, & Nettle, 2014; Haley &
+Fessler, 2005; Keller & Pfattheicher, 2011; Oda, Niwa, Honma,
+& Hiraishi, 2011; Pfattheicher & Keller, 2015; Rigdon, Ishii,
+Watabe, & Kitayama, 2009), (b) contribution to public goods
+1 Social and Organizational Psychology, Department of Experimental and
+Applied Psychology, Faculty of Behavioural and Movement Sciences, VU
+Amsterdam, Amsterdam, the Netherlands
+Corresponding Author:
+Zoi Manesi, Social and Organizational Psychology, Department of Experimental
+and Applied Psychology, Faculty of Behavioural and Movement Sciences, VU
+Amsterdam, Amsterdam, the Netherlands.
+Email: z.manesi@vu.nl
+Evolutionary Psychology
+April-June 2016: 1­15
+ª The Author(s) 2016
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/1474704916640780
+evp.sagepub.com
+Creative Commons CC-BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 3.0 License
+(http://www.creativecommons.org/licenses/by-nc/3.0/) which permits non-commercial use, reproduction and distribution of the work without further
+permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+(Burnham & Hare, 2007), (c) conformity to social norms or
+condemnation of moral transgressions (Bourrat, Baumard, &
+Mckay, 2011; Oda, Kato, & Hiraishi, 2015), and (d) conserva-
+tion of endangered species (Manesi, Van Lange, & Pollet,
+2015). For example, in Haley and Fessler's (2005) seminal
+study, a pair of stylized eyes displayed on participants' computer
+screen was sufficient to increase the likelihood of donating in the
+dictator game. Field research has extended the ``eye images
+effect'' to various socially desirable acts in the real world,
+including (a) litter cleanup and proecological acts (Bateson,
+Callow, Holmes, Roche, & Nettle, 2013; Ernest-Jones, Nettle,
+& Bateson, 2011; Francey & Bergmu
+¨ller, 2012), (b) charitable
+giving (Ekstro
+¨m, 2012; Powell, Roberts, & Nettle, 2012), (c)
+voting in elections (Panagopoulos, 2014), (d) abidance by
+honesty systems (Bateson, Nettle, & Roberts, 2006), and (e)
+compliance with the law (Nettle, Nott, & Bateson, 2012).
+Although images of eyes are obviously a false cue to surveil-
+lance (as no one is actually watching or evaluating the behavior of
+the individual), in most studies conducted so far, they appear effec-
+tive in lifting the veil of anonymity and calibrating social behavior
+(but see Cai, Huang, Wu, & Kou, 2015; Carbon & Hesslinger,
+2011; Fehr & Schneider, 2010; Raihani & Bshary, 2012; Tane &
+Takezawa, 2011; Vogt, Efferson, Berger, & Fehr, 2015). In fact, a
+recent work by Pfattheicher and Keller (2015) demonstrates that
+images of eyes can indeed elicit a sense of being watched. This
+suggeststhatthefeelingofbeingwatchedshouldmatter,asitserves
+as a reminder of reputation and a tool to enhance prosociality.
+However, despite the increased attention to those minimal
+cues to social surveillance, it is unclear whether humans modify
+their behavior only when the eyes are ``monitoring them,'' that
+is, when the eyes show direct gaze. It is possible that individuals
+feel the urge to manage their reputation and act prosocially even
+when they are not the focus of eyes' attention (e.g., when the
+eyes are closed or show averted gaze). Eyes that are not watch-
+ing may still be a reminder of social presence or even convey
+social evaluations. For example, being subjected to an averted
+gaze may elicit fears of negative social evaluation because look-
+ing away can be a sign of rejection and social ostracism (see,
+e.g., Williams, Shore, & Grahe, 1998). We argue that in order to
+better understand potential psychological mechanisms behind
+the phenomenon, it is important to clarify whether the ``watch-
+ing'' component of the eyes underlies the eye images effect. We
+propose two alternative hypotheses. If being the focus of eyes'
+attention is a necessary precondition for experiencing reputa-
+tional concerns, then people should modulate their behavior only
+in the presence of eyes that are watching (i.e., eyes with direct
+gaze). An opposing hypothesis suggests that any eyes, be it
+watching or nonwatching, can elicit prosocial behavior because
+they can be cues of potential social sanctions. Shedding light on
+this issue could help clarify the circumstances under which eyes
+are a valid signal that reputation is at stake.
+When do eyes matter?
+There are several reasons for expecting watching eyes to be a
+stronger elicitor of prosocial behavior than nonwatching eyes.
+For instance, relative to an averted gaze, a direct gaze appears
+to exert greater influence on humans. As compared to averted
+gaze faces, exposure to staring faces is a more powerful elicitor
+of attention, physiological arousal, and neural activation, as
+measured by greater galvanic skin responses (Conty, Russo,
+et al., 2010; Nichols & Champness, 1971), enhanced activity
+of the amygdala (a brain region involved in emotional process-
+ing and social evaluations, among other functions; Kawashima,
+1999), and the fusiform gyrus (a brain region involved in face
+perception; George, Driver, & Dolan, 2001). This is because,
+when humans become the target of another's gaze, they tend to
+be highly alert to those watching cues and attentive to the gazer
+(Conty, Gimmig, Belletier, George, & Huguet, 2010; Conty,
+Russo, et al., 2010).
+The profound effects of a direct gaze are not surprising
+given that eye contact serves as a precursor to social interac-
+tion, conveying the gazer's state of mind and intentions toward
+the other (e.g., threat, interest, sexual attraction, see Kampe,
+Frith, & Frith, 2003; Wicker, Perrett, Baron-Cohen, & Decety,
+2003), and playing a key role in social cognition. For instance,
+as compared to closed eyes or averted eye gaze, seeing
+another's direct gaze enables the perceiver to make faster social
+judgments, including attribution of intentionality (i.e., attribu-
+tion of animacy and agency in the environment, see Senju &
+Johnson, 2009), memory of faces and recognition of individual
+identity (Hood, Macrae, Cole-Davies, & Dias, 2003), person
+construal and category activation (e.g., gender categorization,
+see Macrae, Hood, Milne, Rowe, & Mason, 2002), and decod-
+ing of others' mental states, goals, and intentions (i.e., menta-
+lizing, see Kampe et al., 2003; Wicker et al., 2003).
+Given the psychological significance of eye contact and
+humans' striking sensitivity to direct eye gaze, one would
+expect that the ``watching component'' of the eyes is a prere-
+quisite for triggering a feeling of being monitored. Hence, con-
+cerns for one's own reputation and motivation to acquire social
+approval by acting in a prosocial, cooperative fashion should be
+higher in the presence of watching eyes rather than nonwatch-
+ing eyes (e.g., eyes in a closed state or eyes staring away from
+the individual).
+However, it is still possible that reputational concerns are
+somewhat activated even when the individual is not the target
+of eyes' attention. Nonwatching eyes may also be a cue to
+reputation because they are socially salient stimuli that attract
+attention and activate brain regions involved in sociality (see,
+e.g., Emery, 2000). For example, as compared to other face
+parts or inanimate objects (e.g., lips, scrambled faces, or flow-
+ers), nonwatching eyes (i.e., eyes with averted gaze and eyes
+closed) can elicit larger N170 amplitudes (i.e., a brain response
+to faces, see Taylor, George, & Ducorps, 2001; Taylor, Itier,
+Allison, & Edmonds, 2001). This suggests that people pay
+special attention to eyes (even if those eyes are not watching)
+when detecting faces and social presence. Furthermore, mere
+exposure to an averted gaze is shown to elicit activity in regions
+involved in social cognition, like the superior temporal sulcus
+(a brain region involved in the detection of agency, biological
+motion, and social attention, see Calder et al., 2002; Hoffman
+2 Evolutionary Psychology
+& Haxby, 2000) and the medial prefrontal cortex (a brain
+region involved in mentalizing, see Calder et al., 2002).
+Apart from activating the social brain network, nonwatching
+eyes can have important psychological and emotional conse-
+quences. Previous research suggests that mere exposure to non-
+watching eyes can elicit concerns about belongingness and
+personal status (Schmitz, Scheel, Rigon, Gross, & Blechert,
+2012; Wirth, Sacco, Hugenberg, & Williams, 2010). For exam-
+ple, Wirth et al. (2010) showed that displaying an image of a face
+with averted gaze (as compared to a face with direct gaze)
+caused participants to experience greater feelings of social
+exclusion, greater negative affect, and lower self-esteem. This
+suggests that apart from signaling social presence, nonwatching
+eyes may also have an evaluative function conveying negative
+social evaluation and threatening one's need to belong. This
+seems logical because in contrast to eye contact (which signals
+social engagement and attention), averting the gaze (by looking
+away or closing the eyes) can signal a lack of interest or social
+involvement. An averted gaze, for example, can convey the
+sender's motivational tendencies of avoidance (Adams & Kleck,
+2005; Sander, Grandjean, Kaiser, Wehrle, & Scherer, 2007). If
+eyes that do not pay attention can elicit fears of negative social
+evaluation and rejection, one could argue that they also have the
+potential to enhance reputation-based decision-making. Thus, it
+is possible that individuals are inclined to engage in conspicuous
+displays of prosocial behavior in order to ``be seen,'' feel
+included, and build a positive social reputation. Given the above
+lines of reasoning, we aimed to explore if eyes need to be watch-
+ing to enhance prosocial behavior.
+Measuring prosociality and hypotheses
+To test the role of the watching component in the eye images
+effect, we used a simple measure of prosocial behavior, namely,
+the decision to help another individual at a cost to oneself. Spe-
+cifically, we examined the extent to which participants would
+show other-regarding preferences by carrying out a dull cogni-
+tive task in the laboratory in order to minimize the effort of
+another individual into the same task. Deciding to leave the task
+unfinished would provide more self-benefit (i.e., energy and
+time for oneself), whereas deciding to complete the task would
+provide more other-benefit (i.e., energy and time for the other).
+Thus, this cognitive task was used to create a so-called mixed
+motive situation in which self-benefit and other-benefit conflict
+(Van Lange, Joireman, Parks, & Van Dijk, 2013).
+In the three studies reported below, we tested whether an
+image of eyes can increase the likelihood of a prosocial alloca-
+tion of workload. Aiming to examine the boundary conditions
+of the phenomenon, we compared watching eyes against non-
+watching eyes and flowers. Specifically, Study 1 tested
+whether or not participants will show greater prosocial alloca-
+tion of workload when exposed to a pair of watching eyes (i.e.,
+eyes open with direct gaze) as compared to eyes in a closed
+state or control images of flowers. Studies 2 and 3 tested
+whether the superiority of watching eyes over nonwatching
+stimuli extends to comparisons with averted gaze. In Studies
+2 and 3, we tested whether prosocial allocation of workload
+would be greater when exposed to watching eyes as compared
+to eyes with averted gaze or control images of flowers.
+Study 1
+Materials and Methods
+Participants and design
+The initial sample consisted of 268 Dutch undergraduate students
+from a university-wide subject pool. Four psychology students,
+who expressed suspicion about the eyes manipulation because
+they were already familiar with the eye images effect, were
+dropped from the analyses. Also, because the main measure of
+prosociality was a completion of a behavioral task that involved
+touch-typing, data from 15 participants with dyslexic-type diffi-
+culties were eliminated from analyses. Data removal was based
+on self-report items assessing dyslexia. This resulted in a final
+sample of 249 people (76.3% female; Mage
+¼ 20.35 years, SD ¼
+2.36 years). Because we used images of real stimuli, we did not
+limit our attention to a single sex category, and we used images of
+both male and female eyes. In a between-participants design,
+participants were randomly assigned to one of five experimental
+conditions: (a) male watching eyes condition (n ¼ 48), (b) male
+eyes closed condition (n ¼ 50), (c) female watching eyes condi-
+tion (n ¼ 50), (d) female eyes closed condition (n ¼ 51), and (e)
+flowerscondition(n¼ 50).Inthisfive-conditiondesign,ourmain
+interest was to test whether the two conditions of watching eyes
+will differ significantly from the two conditions of eyes closed
+and the control condition of flowers. The ethics committee of the
+university has approved the present research, and all participants
+gave informed consent before participating in the experiment.
+Typing task and procedure
+The entire experiment was computerized: Instructions and task
+were administered via Qualtrics survey software (Qualtrics,
+Provo, UT), and participants were seated in individual cubicles
+to ensure privacy and anonymity. The experiment consisted of
+a simple cognitive task, called the ``typing task,'' which
+involved typing strings of characters with the use of the key-
+board (see Appendix A). On each trial of the task, a string of 20
+random letters was displayed in the center of the computer
+screen, and the participants were asked to type these characters
+without errors.
+Participants were informed that in this task, they would be
+randomly paired with a task partner, who would participate in
+the experiment at a later time. According to the cover story,
+participants were assigned to the role of Partner A, whereas
+their partner was assigned to the role of Partner B in the task.
+The participants read that the ultimate goal was to complete the
+task, which consisted of 15 typing trials, in total. According to
+the instructions, Partner A was to carry out any number of task
+trials he or she wished. However, the number of trials carried
+out by Partner A would affect the workload of Partner B. If
+Manesi et al. 3
+Partner A would leave the task unfinished, then Partner B
+would be required to complete any remaining task trials in his
+or her turn to participate in the experiment. Thus, for example,
+if Partner A decided to carry out 10 trials, then Partner B would
+be obliged to carry out the remaining five trials in order to
+complete the whole task.
+Hence, the typing task created a decision context, which
+involved outcome dependence: The participant was assigned
+to the role of the decision-maker influencing the workload
+(outcome) of himself or herself and the task partner, whereas
+the task partner had no power over the workload (outcome) of
+the participant or the workload (outcome) of himself or herself.
+As such, the task created a mixed motive situation resembling
+the dictator game, in which one could determine the outcome
+for the other (but not vice versa). Prosocial behavior was mea-
+sured by (a) the inclination of participants to complete the task
+(yes/no) and thus leave no workload for the partner and (b) the
+inclination to leave lower workload for the partner (in the case
+that participants did not complete the task).
+After the typing task, participants provided some demo-
+graphic information, were probed for suspicion, and answered
+few comprehension questions about task-specific instructions.
+They were then debriefed about the aims of the study, thanked,
+and given course credit or a show-up fee of 2.50 for participat-
+ing in the study. In this experiment, a relatively minor form of
+deception was used: Partner B, with whom participants were told
+that they were paired, was in fact a fictitious individual.
+Eyes manipulation
+On each trial of the typing task, a pair of eyes or flowers appeared
+above the letter string (see Appendix B). If assigned to the watch-
+ing eyes conditions, participants viewed pairs of eyes in an open
+state and direct gaze. If assigned to the eyes closed conditions,
+participants viewed pairs of eyes in a closed state. Eye stimuli
+(240Â 90mminsize) were croppedfromfourstandardizedfacial
+photographs oftwo Caucasian adult men and two Caucasianadult
+women with neutral emotional expression. Images were trans-
+formed from color to gray scale, and all stimuli were obtained
+from a website with a standardized set of facial images (see
+www.flickr.com; user profile: Michael Wagenha
+¨user). Based
+on evidence from Sparks and Barclay (2013) suggesting that
+humans become habituated to the eye images effect, stimuli in
+the current research were displayed on the screen just before the
+participant decides whether or not to complete each task trial. The
+image remained visible until the participant completed the task
+trial or pressed the ``stop'' button (and, thus, quit the task). To
+further prevent habituation, on each task trial, stimuli alternated
+between different images of the same set (i.e., set of watching
+eyes, set of eyes closed, or set of flowers).
+Statistical Analyses
+We analyzed the data using the following models: zero-inflated
+Poisson (ZIP) models, zero-inflated negative binomial (ZINB)
+models, zero-altered Poisson (ZAP) models, and zero-altered
+negative binomial regression (ZANB) models (Lambert, 1992;
+Martin et al., 2005; Mullahy, 1986; Welsh, Cunningham, Don-
+nelly, & Lindenmayer, 1996; Zuur, Ieno, Walker, Saveliev, &
+Smith, 2009). The zero-altered modeling approach allows com-
+bining two separate analyses, one for the yes/no decision (com-
+plete or not complete the task) and one for the counts (trials left
+behind), into a single model. Zero-inflated and zero-altered
+models do not differ in fit indices; we therefore report the
+parameter estimates (with watching eyes as reference cate-
+gory), standard errors, and significance tests for the zero-
+altered models, though the corresponding zero-inflated models
+showed the same effects.
+The analyses were implemented using R Version 3.1.3 (R
+Development Core Team, 2008) and use the ``pscl'' package
+(Jackman, 2008) for modeling ZIP, ZINB, ZAP, and ZANB.
+The data and R code are provided as Electronic Supplementary
+Material (see ESM 3). We also ran a combined analysis where
+we combined the data from the three experiments. For combined
+analysis, we also modeled a fixed effect for study and the inter-
+action between study and the condition variable. In addition, we
+explored the possibility of random effect models via the
+``glmmadmb'' package (Supplementary Table 1; ESM 2; see
+Skaug, Fournier, Nielsen, Magnusson, & Bolker, 2011).
+Detailed information about the selection of the statistical models
+and the nature of the data is provided as ESM (see ESM 1). We
+rescored the data such that higher scores indicated more task
+trials left to be carried out by the partner and zeros indicated
+zero trials left behind (i.e., the participant completed the entire
+task). Finally, we ran extra analyses with flowers as the reference
+group and provided descriptive statistics for each of the three
+studies (Supplementary Tables 2-4; ESM 2).
+Results and Discussion
+Our data provided partial support for the primary hypotheses.
+As shown in Table 1, both the eyes closed and flowers condi-
+tions differed significantly from the watching eyes condition in
+terms of the expected count distribution (Figure 1A). Partici-
+pants who did not complete the task left significantly fewer
+trials behind when exposed to images of watching eyes (M ¼
+5.02, SD ¼ 2.23, Mdn ¼ 5), as opposed to images of eyes
+closed (M ¼ 6.65, SD ¼ 3.12, Mdn ¼ 6) or flowers (M ¼
+6.50, SD ¼ 2.93, Mdn ¼ 6).
+Results showed no significant differences between watching
+eyes and eyes closed or flowers in terms of task completion
+(yes/no; see Figure 3A). Yet, it can be noted that the percentage
+of participants completing the task in the watching eyes con-
+dition was 56.1%, whereas in the closed eyes and flowers con-
+ditions, it was 48.5% and 48%, respectively. The contrasts
+between eyes closed and flowers were also not significant
+(count model: p ¼ .825; zero hurdle model: p ¼ .952). If we
+combine the eyes closed and flowers conditions and compare
+them to the watching eyes condition, we obtain a similar result
+(count model estimate: À0.282 + 0.092, p ¼ .002; zero hurdle
+estimate: À0.312 + 0.261, p ¼ .231).
+4 Evolutionary Psychology
+Figure 1. (A­C). Histograms depicting the number of task trials that the participants did not perform. Higher scores indicate higher number of
+task trials that the participants did not perform.
+Manesi et al. 5
+Thus, in line with our hypothesis, participants who did not
+complete the task and were exposed to images of watching eyes
+left significantly fewer trials behind than those in the other
+conditions. However, images of watching eyes did not seem
+to increase the likelihood of completing the task, in comparison
+with images of eyes closed or flowers. Furthermore, results
+showed no effect of the sex of eyes.
+Study 2
+The first study provided some initial support for the hypothesis
+that it is specifically the gaze of the eyes that elicits prosocial
+behavior. However, it is unclear whether prosocial behavior is
+affected only by eyes staring at the individual or just by the
+mere presence of any gaze. To test this alternative interpreta-
+tion of our results, we conducted a replication of Study 1, but
+we included a condition of eyes with averted gaze instead of the
+condition of eyes closed. Do eyes that pay attention elicit
+greater levels of prosocial behavior than eyes that look away?
+Materials and Methods
+Participants and design
+Following deletions for dyslexic tendencies (n ¼ 10), the final
+sample consisted of 190 people (65.3% female; Mage
+¼ 22.17
+years, SD ¼ 7.21 years). In a between-participants design,
+individuals were randomly assigned to one of five experimen-
+tal conditions: (a) male watching eyes condition (n ¼ 36), (b)
+male averted eyes condition (n ¼ 41), (c) female watching eyes
+Table 1. Parameter Estimates (and Standard Errors) for Zero-Altered
+Negative Binomial Models for Study 1 (Zero Hurdle Model [Task Com-
+pletion or Not] and Counts Model [Number of Trials Left Behind]).
+Model 1
+Count model: (intercept) 1.60*** (0.08)
+Count model: watching eyes versus flowers 0.27* (0.12)
+Count model: watching eyes versus eyes closed 0.29** (0.10)
+Count model: log(y) 3.11*** (0.63)
+Zero model: (intercept) À0.25 (0.20)
+Zero model: watching eyes versus flowers 0.33 (0.35)
+Zero model: watching eyes versus eyes closed 0.31 (0.28)
+AIC 932.12
+Log likelihood À459.06
+Number of observations 249
+Note. AIC ¼ Akaike information criterion.
+*p < .05. **p < .01. ***p < .001.
+Table 2. Parameter Estimates (and Standard Errors) for Zero-Altered
+Negative Binomial Models for Study 2 (Zero Hurdle Model [Task Com-
+pletion or Not] and Counts Model [Number of Trials Left Behind]).
+Model 1
+Count model: (intercept) 2.17*** (0.08)
+Count model: watching eyes versus flowers 0.10 (0.13)
+Count model: watching eyes versus averted eyes 0.16 (0.11)
+Count model: log(y) 2.24*** (0.32)
+Zero model: (intercept) À0.19 (0.24)
+Zero model: watching eyes versus flowers 0.39 (0.40)
+Zero model: watching eyes versus averted eyes 0.22 (0.33)
+AIC 815.55
+Log likelihood À400.77
+Number of observations 190
+Note. AIC ¼ Akaike information criterion.
+*p < .05. **p < .01. ***p < .001.
+Table 4. Parameter Estimates (and Standard Errors) for Zero-
+Altered Negative Binomial Models in All Three Studies Combined
+(Zero-Hurdle Model [Task Completion or Not] and Counts Model
+[Number of Trials Left Behind]).
+Model 1 Model 2
+Count model: (intercept) 1.94*** (0.05) 1.69*** (0.06)
+Count model: watching eyes
+versus flowers
+0.12 (0.07) 0.11 (0.07)
+Count model: watching eyes
+versus nonwatching eyes
+0.17* (0.07) 0.17** (0.06)
+Count model: log(y) 2.24*** (0.20) 2.76*** (0.26)
+Zero model: (intercept) À0.27* (0.13) À0.28 (0.16)
+Zero model: watching eyes
+versus flowers
+0.49* (0.21) 0.49* (0.21)
+Zero model: watching eyes
+versus nonwatching eyes
+0.32 (0.19) 0.32 (0.19)
+Count model: Study 1 versus
+Study 2
+0.47*** (0.06)
+Count model: Study1 versus
+Study 3
+0.29*** (0.07)
+Zero model: Study1 versus
+Study 2
+0.03 (0.19)
+Zero model: Study1 versus
+Study 3
+À0.00 (0.20)
+AIC 2472.55 2425.15
+Log likelihood À1229.28 À1201.57
+Number of observations 612 612
+Note. Model 1 has condition as main effect and model 2 has condition and study
+as main effects. AIC ¼ Akaike information criterion.
+*p < .05. **p < .01. ***p < .001.
+Table 3. Parameter Estimates (and Standard Errors) for Zero-
+Altered Poisson Models for Study 3 (Zero-Hurdle Model [Task Com-
+pletion or Not] and Counts Model [Number of Trials Left Behind]).
+Model 1
+Count model: (intercept) 2.10*** (0.07)
+Count model: watching eyes versus flowers À0.05 (0.10)
+Count model: watching eyes versus averted eyes 0.02 (0.10)
+Zero model: (intercept) À0.44 (0.27)
+Zero model: watching eyes versus flowers 0.77* (0.38)
+Zero model: watching eyes versus averted eyes 0.47 (0.38)
+AIC 686.12
+Log likelihood À337.06
+Number of observations 173
+Note. AIC ¼ Akaike information criterion.
+*p < .05. **p < .01. ***p < .001.
+6 Evolutionary Psychology
+condition (n ¼ 37), (d) female averted eyes condition (n ¼ 36),
+(e) flowers condition (n ¼ 40). In this five-condition design, our
+main interest was to test whether the two conditions of watching
+eyes will differ significantly from the two conditions of averted
+eyes and the control condition of flowers.
+Typing task, eyes manipulation, and procedure
+The experimental task and procedure were identical to those of
+Study 1 with one exception: The maximum number of trials of
+the typing task was raised to 18. Because many participants
+completed all task trials in Study 1, this may have led to a ceiling
+effect potentially masking the effect of gaze on overall task
+performance. Therefore, we increased the required effort for task
+completion by increasing the maximum number of trials from 15
+to 18. Similar to Study 1, on each trial of the typing task, a pair of
+eyes or flowers suddenly appeared above the letter string (see
+Appendix B). Participants assigned to the watching eyes condi-
+tions viewed pairs of eyes with direct gaze, whereas participants
+assigned to the averted eyes conditions viewed pairs of eyes with
+averted gazes. Stimuli were obtained from the Radboud Faces
+Database (RaFD; Langner et al., 2010). Eye stimuli (240 Â 90
+mm in size) were cropped from the facial photographs of 18
+Caucasian adult men and women, with neutral emotional expres-
+sion (gray scale). As in Study 1, to prevent habituation, stimuli
+alternated between different images of the same set and were
+displayed on the screen during task trials.
+Results and Discussion
+Figure 1B displays the distributions, and these resemble the
+pattern found in Study 1. However, data from the second study
+provided no support to our hypotheses. There were no signif-
+icant differences between either the averted eyes or the flowers
+condition and the watching eyes condition, either in the
+expected count distribution or in the distribution of zeros (all
+p >.13; Table 2; Figures 1B and 3B).
+Although more participants tended to complete the task
+when exposed to watching eyes (54.8%) as compared to
+averted eyes (49.4%) or flowers (45%), differences between
+groups were nonsignificant. Furthermore, although partici-
+pants left fewer task trials behind when exposed to watching
+eyes (M ¼ 8.76, SD ¼ 4.22, Mdn ¼ 8) as compared to the
+averted eyes (M ¼ 10.31, SD ¼ 4.62, Mdn ¼ 11) or flowers
+(M ¼ 9.64, SD ¼ 3.54, Mdn ¼ 10), differences between groups
+were nonsignificant. The contrast between averted eyes and
+flowers was also not significant (count model: p ¼ .578;
+zero hurdle model: p ¼ .655). Pooling the averted eyes and
+flowers condition and contrasting these with the watching
+eyes condition do not alter this conclusion (count model: p ¼
+.164; zero hurdle model: p ¼ .353).
+Thus, results from Study 2 provided no support for our
+hypothesis. In contrast to results from Study 1, watching eyes
+as compared to averted eyes or flowers did not lead to a signif-
+icant increase in prosocial behavior, in terms of amount of trials
+left to be completed by the partner or likelihood of task comple-
+tion. As in Study 1, there was no effect of the sex of eyes.
+Study 3
+The first two studies produced somewhat inconsistent results
+regarding the role of watching eyes in promoting prosocial
+behavior. In Study 3, we used images depicting averted eyes
+paired with a deviated head orientation. Averting both head and
+gaze (compared to averting only the gaze) may be a better
+signal that an individual is not paying attention and, therefore,
+is not watching (Langton, 2000).
+Materials and Methods
+Participants and design
+Following deletions for dyslexic tendencies (n ¼ 10) and sus-
+picion (n ¼ 5), the final sample consisted of 173 Dutch under-
+graduate students (76.3% female; Mage
+¼ 20.73 years, SD ¼
+Figure 2. Histograms depicting the number of task trials that the participants did not perform in all three studies combined. Higher scores
+indicate higher number of task trials that the participants did not perform.
+Manesi et al. 7
+3.61 years). In a between-participants design, individuals were
+randomly assigned to one of three experimental conditions:
+(a) watching eyes condition (n ¼ 56), (b) averted eyes condi-
+tion (n ¼ 57), and (c) flowers condition (n ¼ 60).
+Typing task, eyes manipulation, and procedure
+The task and procedure were identical to those of Study 2. Eye
+stimuli were cropped from the facial photographs of 18 Cau-
+casian adult men and women (RaFD; Langner et al., 2010),
+with neutral emotional expression, averted gazes, and deviated
+head orientation (gray scale, see Appendix B). Given that in
+Studies 1 and 2, the sex of the eyes did not affect results, in this
+study, the sex of the eyes was not manipulated between parti-
+cipants, so that participants assigned to the watching eyes or the
+averted eyes conditions viewed pairs of both male and female
+eyes (in a random order).
+Results and Discussion
+Data provided partial support for the primary hypothesis. There
+was a significant difference between watching eyes and flowers
+in the expected task completion (yes/no): Participants in the
+watching eyes condition were more likely to complete the
+Figure 3. (A­C). Bar graphs depicting the percentage of participants completing the task in each of the three studies. In Study 3, p value for
+significant difference between watching eyes and flowers was p < .05 (see Table 3). Remaining p values reveal no significant differences between
+other groups (at p < .05).
+8 Evolutionary Psychology
+entire task than those in the flowers condition (Table 3; Figure
+3C). Specifically, the percentage of participants completing the
+task was 60.7% in the watching eyes condition, whereas it was
+41.7% in the flowers condition.
+However, the conditions of watching eyes (M ¼ 8.18, SD ¼
+3.14, Mdn ¼ 8) and flowers (M ¼ 7.77, SD ¼ 2.99, Mdn ¼ 8) did
+not differ significantly in the number of trials left behind (Table
+3, Figure 1C). Furthermore, the differences between watching
+eyes and averted eyes (M ¼ 8.34, SD ¼ 3.13, Mdn ¼ 8) were not
+significant (Table 3), neither for the count nor for the yes/no
+distribution (count model: p ¼ .420; zero hurdle model: p ¼
+.419). Although greater percentage (60.7%) of participants
+tended to complete the task when exposed to watching eyes as
+compared to averted eyes (49.1%), differences between groups
+were not significant. When we pool the averted eyes and flowers
+condition and compare these to watching eyes, we find a statis-
+tical trend for completion (zero hurdle estimate: 0.624 + 0.331,
+p ¼ .059) but not for the number of trials completed (count
+model estimate: À0.019 + 0.087, p ¼ .83).
+Thus, results from Study 3 showed that exposure to images of
+watching eyes (as compared to images of flowers) led to signif-
+icantly greater prosocial behavior, in terms of likelihood of task
+completion. However, there were no significant differences in
+prosocial behavior between participants exposed to images of
+watching eyes and those exposed to images of averted eyes.
+All Studies Combined
+Given the somewhat inconsistent findings and our similar
+designs, we decided to combine the data of all three studies. The
+best fitting model contains two main effects, condition and
+study, but no interaction between them (Table 4). This suggests
+that the overall result is not driven by a particular condition from
+a single study. The analyses yielded four major findings.
+First, as compared to all other stimuli, images of watching
+eyes led to significantly greater levels of prosocial behavior in
+the typing task. Specifically, when we pool the flowers and
+nonwatching eyes conditions and contrast these with the watch-
+ing eyes condition, we find that these contrasts are significantly
+different for both the count and the yes/no distribution (count
+model estimate: 0.149 + 0.061, p ¼ .015; zero hurdle estimate:
+0.384 + 0.169; p ¼ .023). The task was completed by 56.8% of
+participants exposed to watching eyes as opposed to 47.3% of
+participants exposed to the other stimuli. Furthermore, if parti-
+cipants left some workload to the other individual, the amount
+of trials left behind was lower for the watching eyes condition
+(M ¼ 6.99, SD ¼ 3.64, Mdn ¼ 6) as compared to all other
+conditions (M ¼ 8.09, SD ¼ 3.71, Mdn ¼ 8).
+Second, the contrast between nonwatching eyes and flowers
+was not significant for expected counts or completion (count
+model: p ¼ .486; zero hurdle model: p ¼ .413). Thus, the
+nonwatching eyes condition did not significantly differ from
+the flowers condition with regard to the number of trials left
+behind (M ¼ 8.25, SD ¼ 3.97, Mdn ¼ 8; and M ¼ 7.87, SD ¼
+3.31, Mdn ¼ 7, respectively) or the likelihood of completing
+the task (48.9% and 44.7%, respectively). This further suggests
+that it is the watching component of the eyes that matters for
+showing prosocial behavior in the typing task.
+Third, focused comparisons between watching eyes and
+each of the other conditions yielded the following results. The
+watching eyes condition was significantly different from
+the flowers condition with respect to completion (Table 4;
+Figure 4) but not with respect to expected counts (Figure 2).
+Participants were thus significantly more likely to complete the
+task when exposed to images of watching eyes (56.8%) com-
+pared to images of flowers (44.7%). Furthermore, the watching
+eyes condition differed from the nonwatching eyes condition
+(i.e., averted eyes and eyes closed) in terms of counts but not in
+terms of task completion (Table 4; Figure 2). Participants left
+significantly fewer trials behind when eyes were watching
+(M ¼ 6.99, SD ¼ 3.64, Mdn ¼ 6), as opposed to when eyes
+were not watching them (M ¼ 8.25, SD ¼ 3.97, Mdn ¼ 8).
+The overall picture is thus that watching eyes lead to both a
+higher completion rate of the task and leaving fewer trials
+Figure 4. Bar graph depicting the percentage of participants completing the task in all three studies combined. The p value for significant
+difference between watching eyes and flowers was p < .05 (see Table 4). Remaining p values reveal no significant differences between other
+groups (at p < .05).
+Manesi et al. 9
+behind (for those who do not complete it) than the other con-
+ditions combined. Specific comparisons show that watching
+eyes lead to significantly greater prosocial behavior in terms
+of task completion though dependent on the specific contrast
+(watching eyes vs. flowers: significantly greater completion/
+watching eyes vs. nonwatching eyes: significantly less trials
+left behind, when not completed).
+General Discussion
+The present research aimed to shed light on the circumstances
+under which images of eyes can promote prosocial behavior.
+In particular, we sought to explore whether eyes need to be
+watching in order to elicit prosocial behavior. We tested this
+hypothesis in three laboratory studies with a total combined
+sample of 612 participants.
+Results from each individual study were not always com-
+pletely consistent with one another, even though the pattern
+was very similar across the three studies. Focusing on the dif-
+ferences, we saw that Studies 1 and 3 showed that the tendency
+to reduce another's workload was greater, when presented with
+eyes showing direct gaze as compared to control images of
+flowers. Furthermore, Study 1 provided support to the idea that
+the watching component of the eyes is important: The tendency
+to reduce another's workload was greater, when faced with a
+direct gaze, as compared to eyes closed. And finally, Study 2
+revealed no effect of eye images, and Study 3 showed no sig-
+nificant changes in prosocial behavior when exposed to a direct
+gaze as opposed to an averted eye gaze.
+Given the mixed results and the prominent similarity with
+regard to study design and procedure of all three studies, we
+considered it the best approach for now to conduct a combined
+analysis to give insight into the bigger picture across the three
+studies. Combined analysis of all three studies provided evi-
+dence that watching eyes exerted a significant effect, although
+with small or modest effect size.
+First, as compared to all nonwatching stimuli (i.e., eyes
+closed, averted gaze, and flowers), watching eyes led to signif-
+icantly greater inclination to help another individual. The pro-
+portion of participants completing the task was significantly
+higher in the presence of a direct gaze (56.8%) as compared
+to all other stimuli (47.3%). Furthermore, participants who left
+some workload to the other individual tended to assign signif-
+icantly lower amount of task trials when they were exposed to a
+direct gaze as compared to all other stimuli.
+Second, specific comparisons further clarified the specific
+nature of the differences. As compared to control images of
+flowers, eyes showing direct gaze significantly increased the
+likelihood of completing the task to help another individual.
+The proportion of participants completing the task was sig-
+nificantly higher in the presence of a direct gaze (56.8%) as
+opposed to flowers (44.7%). Although there was no signifi-
+cant difference between direct gaze and nonwatching eyes
+(i.e., eyes closed and averted eyes) in terms of task comple-
+tion, there was a significant difference in terms of trials left
+behind: Participants who left some workload to the other
+individual tended to assign significantly lower amount of task
+trials when they were exposed to direct gaze as compared to
+eyes closed and averted gaze.
+Thus, the three studies together converge on the tentative
+conclusion that eyes are a meaningful cue to reputation when
+they are watching. By contrasting direct gaze with averted gaze
+and eyes closed, we demonstrated that attempts to build a rep-
+utation as prosocial person are more likely to take place when
+prosocial acts can be observed and therefore evaluated by oth-
+ers. In contrast to eyes directed at an individual, eyes in a
+closed state and eyes with averted gaze are unlikely to identify
+the individual and thus to remove anonymity. As participants'
+behavior does not fall within ``the spotlight of attention'' any-
+more, nonwatching eyes are unlikely to jeopardize one's rep-
+utation or to activate reputation management concerns. Our
+findings extend and complement existing knowledge on the
+eye images effect (e.g., Bateson et al., 2006; Ernest-Jones
+et al., 2011; Haley & Fessler, 2005) by showing that the watch-
+ing component of the eyes moderates the effect of eye images
+on prosociality. Confirming earlier speculations (e.g., Burnham
+& Hare, 2007), the current research provides empirical evi-
+dence for the potential relevance of gaze detection mechanisms
+that examine whether the honest indicator of monitoring (i.e.,
+watching eyes) is there and thus whether reputation is at stake.
+The current findings are also in accordance with the broader
+literature on the role of reputation concerns in increasing pro-
+sociality (i.e., data on image scoring and gossip, Nowak &
+Sigmund, 1998; Piazza & Bering, 2008). These data, also,
+complement prior work by Tane and Takezawa (2011), who
+found that people do not show increased prosocial behavior in
+the presence of eyes that cannot recognize the identity of a
+person, like eye images presented in darkness. As with the
+experience of darkness, a pair of closed or averted eyes may
+have elicited a sense of concealment, leading participants to
+experience comparably low levels of reputational concerns.
+It is worth noting that exposure to images of nonwatching
+eyes did not make people act significantly more prosocially
+than exposure to images of flowers. Although eyes that are not
+paying attention may serve as reminders of social environment,
+they appear to be as weak as control stimuli in making people
+signal prosocial dispositions. Despite evidence that nonwatch-
+ing eyes activate the social brain and have important psycho-
+logical implications (Emery, 2000; Hoffman & Haxby, 2000;
+Wirth et al., 2010), the present research suggests that they
+might not be as powerful as watching eyes in triggering reputa-
+tional concerns and in promoting prosocial behavior. For repu-
+tational concerns to be activated, the eyes need to be watching
+you and not being closed or looking away.
+It is also useful to discuss the present findings from methodo-
+logical perspectives. First, the findings underline the need for
+rigorousstatisticalapproachesthatanalyzedataontheeyeimages
+effect from multiple perspectives (i.e., both binary and count or
+continuous data) without compromising statistical power. As in
+the case of the typing task, other measures of prosocial behavior
+often yield zero-inflated data with the majority of participants
+actingprosocially(or not).In the dictatorgame,for instance,most
+10 Evolutionary Psychology
+of the participants donate a certain amount rather than no
+amount (Engel, 2011). We posit that in such cases, statisti-
+cal approaches modeling two steps, decision (yes/no) and/or
+the amount to contribute, are perhaps more suitable. In line
+with recent discussion on suitable statistics for testing the
+eye images effect (Nettle et al., 2013), our data highlight the
+importance of more informative models than the traditional
+approaches.
+Second, it is perhaps not completely surprising that the eye
+images effect was somewhat inconsistently observed in each
+individual study. After all, various individual studies have dis-
+puted the role of eyes in modulating behavior (see, e.g., Fehr &
+Schneider, 2010; Raihani & Bshary, 2012; Vogt et al., 2015).
+This, in turn, has given rise to a lively debate in the literature
+encouraging multiexperiment papers and meta-analytical
+reviews in an attempt to shed light on the circumstances under
+which eyes do or do not matter (e.g., Cai et al., 2015; Nettle
+et al., 2013; Sparks & Barclay, 2013). Therefore, our data also
+point to the importance of drawing conclusions regarding the eye
+images effect based on multiple studies, rather than on single
+studies. Considering that the present research was the first
+attempt to explore the moderating role of eye gaze (to our knowl-
+edge), future research using different behavioral paradigms is
+needed to further explore the phenomenon. Also, it is important
+to note that our three studies yielded very similar findings for the
+contrast between nonwatching eyes and the flower conditions.
+In general, the present research advances the state of knowl-
+edge on the eye images effect in various ways: (a) showing that
+eye gaze conveys a signal that is fundamental in enhancing pro-
+sociality, (b) using a noneconomic approach to the effect of eye
+imagesonprosocial behaviorinthe laboratory,and(c) underlying
+the importance of considering alternative statistical analyses for a
+better understanding of data on the eye images effect.
+One limitation of the present research is the use of grayscale
+resolution stimuli, which may be less realistic (as compared to
+full color stimuli) and may therefore dampen the eye images
+effect. The reason behind the use of grayscale images was to
+eliminate the possibility that color differences may affect per-
+ception of stimuli or participants' mood and behavior (Elliot &
+Maier, 2007; Fink, Grammer, & Matts, 2006; Kleisner, Koc
+nar,
+Rubes
+ova
+´, & Flegr, 2010). Future studies could consider explor-
+ing whether more (vs. less) realistically looking stimuli can
+modulate the effect of watching eyes. A second limitation con-
+cerns the use of flower images as control stimuli. Although
+various studies on the eye images effect and other phenomena
+have used images of flowers as ``neutral'' control stimuli (see
+e.g., Bateson et al., 2006; Dasgupta & Asgari, 2004; Ernest-
+Jones et al., 2011; Francey & Bergmu
+¨ller, 2012; O
+¨ hman &
+Mineka, 2003), the neutrality of those stimuli may be debated.
+Future research could offer insights into the boundary conditions
+of the eye images effect by juxtaposing the effect of eyes against
+that of various other controls and perhaps also different cues to
+social presence (e.g., images of other face parts, voice cues).
+A third limitation is that the present research is restricted
+solely to samples of university students, and thus results cannot
+yet be generalized broadly (see also Henrich, Heine, &
+Norenzayan, 2010). Despite the homogeneity of the participant
+pool, convenience samples of undergraduate students are likely
+to have higher scores of intelligence (including emotional intel-
+ligence) as compared to the general population. Given that the
+eye images effect has been debated in the literature (see, e.g.,
+Fehr & Schneider, 2010; Raihani & Bshary, 2012; Vogt et al.,
+2015), the present findings need replication ideally via more
+diverse samples. Furthermore, future studies could consider
+exploring the role of potential moderators of the effect of watch-
+ing eyes. Prior research has underlined the influence of
+individual differences (e.g., in regulatory focus or public self-
+awareness, see Keller & Pfattheicher, 2011; Pfattheicher &
+Keller, 2015) in the phenomenon. Considering that our research
+revealed small to modest effects, testing the role of individual
+differences in the eye images effect could be a promising avenue
+for future research.
+Conclusions
+The extant literature suggests that reminders of reputation, in
+the form of human eyes, promote human cooperation and pro-
+sociality. We extend this general argument by arguing that it is
+not merely the eyes as such that promote prosociality: It is the
+eyes that pay attention. In particular, we suggest that it is eyes
+that pay attention and seem to play a key role as a reminder of
+reputation, serving as a key mechanism promoting prosocial
+behavior. As such, we see two broad contributions of our arti-
+cle. Empirically, it contributes to getting a grip on the incon-
+sistency in findings of the eyes-images effect. Theoretically,
+we suggest that the reminder of reputation is in the eye gaze.
+This seems logical because reward and punishment often start
+with signals conveying approval or disapproval. Such signals
+clearly have functional value in that they are effective and
+efficient tools for regulating individual members within a
+social group. Indeed, ``looking away'' does not convey this
+signal and may even signal the complete absence of approval
+or disapproval. Thus, we close with the tentative conclusion
+that it is the signal rather than the eyes as such that serve as a
+reminder of reputation--and it is those social signals that help
+individuals to enact prosocially oriented behaviors.
+Appendix A
+Example trial of the typing task with a picture of watching eyes
+(Studies 2 and 3, RaFD; Langner et al., 2010).
+Please type the following characters:
+wvzrgydizkfhjtgbrjuf
+Manesi et al. 11
+Appendix B
+Example pictures of watching eyes, averted eyes, and flowers
+used in Studies 2 and 3 (RaFD; Langner et al., 2010).
+(a) Watching eyes trial in Studies 2 and 3.
+(b) Averted eyes trial in Study 2.
+(c) Averted eyes trial in Study 3.
+(d) Flowers trial in Studies 2 and 3.
+Acknowledgments
+The authors wish to thank two anonymous reviewers for their con-
+structive suggestions and Prof. Dr. Daniel Nettle for the fruitful dis-
+cussion of a previous version of this article.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to
+the research, authorship, and/or publication of this article.
+Funding
+The author(s) disclosed receipt of the following financial support for
+the research, authorship, and/or publication of this article: This project
+was made possible through the support of a grant from the John
+Templeton Foundation (Grant ID: 43919). The opinions expressed
+in this publication are those of the authors and do not necessarily
+reflect the views of the John Templeton Foundation.
+Supplemental Material
+The online [appendices/data supplements/etc.] are available at http://
+evp.sagepub.com/supplemental
+References
+Adams, R. B. Jr., & Kleck, R. E. (2005). Effects of direct and averted
+gaze on the perception of facially communicated emotion. Emo-
+tion, 5, 3­11. doi:10.1037/1528-3542.5.1.3
+Baillon, A., Selim, A., & Van Dolder, D. (2013). On the social nature
+of eyes: The effect of social cues in interaction and individual
+choice tasks. Evolution and Human Behavior, 34, 146­154. doi:
+10.1016/j.evolhumbehav.2012.12.001
+Bateson, M., Callow, L., Holmes, J. R., Redmond Roche, M. L., &
+Nettle, D. (2013). Do images of ``watching eyes'' induce beha-
+viour that is more pro-social or more normative? A field experi-
+ment on littering. PLoS One, 8, e82055. doi:10.1371/journal.
+pone.0082055
+Bateson, M., Nettle, D., & Roberts, G. (2006). Cues of being watched
+enhance cooperation in a real-world setting. Biology Letters, 2,
+412­414. doi:10.1098/rsbl.2006.0509
+Bereczkei, T., Birkas, B., & Kerekes, Z. (2007). Public charity offer as
+a proximate factor of evolved reputation-building strategy: An
+experimental analysis of a real-life situation. Evolution and Human
+Behavior, 28, 277­284. doi:10.1016/j.evolhumbehav.2007.04.002
+Bourrat, P., Baumard, N., & Mckay, R. (2011). Surveillance cues
+enhance moral condemnation. Evolutionary Psychology, 9,
+193­199. doi:10.1177/147470491100900206
+Boyd, R., Gintis, H., & Bowles, S. (2010). Coordinated punishment of
+defectors sustains cooperation and can proliferate when rare. Sci-
+ence, 328, 617­620. doi:10.1126/science.1183665
+Burnham, T. C., & Hare, B. (2007). Engineering human cooperation.
+Human Nature, 18, 88­108. doi:10.1007/s12110-007-9012-2
+Cai, W., Huang, X., Wu, S., & Kou, Y. (2015). Dishonest behavior is
+not affected by an image of watching eyes. Evolution and Human
+Behavior, 36, 110­116. doi:10.1016/j.evolhumbehav.2014.09.007
+Calder, A. J., Lawrence, A. D., Keane, J., Scott, S. K., Owen, A. M.,
+Christoffels, I., & Young, A. W. (2002). Reading the mind from
+eye gaze. Neuropsychologia, 40, 1129­1138. doi:10.1016/S0028-
+3932(02)00008-8
+Carbon, C.-C., & Hesslinger, V. M. (2011). Bateson et al.'s (2006)
+cues-of-being-watched paradigm revisited. Swiss Journal of Psy-
+chology, 70, 203­210. doi:10.1024/1421-0185/a000058
+Conty, L., Gimmig, D., Belletier, C., George, N., & Huguet, P. (2010).
+The cost of being watched: Stroop interference increases under
+concomitant eye contact. Cognition, 115, 133­139. doi:10.1016/
+j.cognition.2009.12.005
+Conty, L., Russo, M., Loehr, V., Hugueville, L., Barbu, S., &
+Huguet, P., . . . George, N. (2010). The mere perception of eye
+12 Evolutionary Psychology
+contact increases arousal during a word-spelling task. Social
+Neuroscience, 5, 171­186. doi:10.1080/17470910903227507
+Dasgupta, N., & Asgari, S. (2004). Seeing is believing: Exposure to
+counterstereotypic women leaders and its effect on the mallea-
+bility of automatic gender stereotyping. Journal of Experi-
+mental Social Psychology, 40, 642­658. doi:10.1016/j.jesp.
+2004.02.003
+Ekstro
+¨m, M. (2012). Do watching eyes affect charitable giving?
+Evidence from a field experiment. Experimental Economics, 15,
+530­546. doi:10.1007/s10683-011-9312-6
+Elliot, A. J., & Maier, M. A. (2007). Color and psychological
+functioning. Current Directions in Psychological Science,
+16, 250­254. doi:10.1111/j.1467-8721.2007.00514.x
+Emery, N. J. (2000). The eyes have it: The neuroethology, function
+and evolution of social gaze. Neuroscience & Biobehavioral
+Reviews, 24, 581­604. doi:10.1016/S0149-7634(00)00025-7
+Engel, C. (2011). Dictator games: A meta study. Experimental Eco-
+nomics, 14, 583­610. doi:10.1007/s10683-011-9283-7
+Ernest-Jones, M., Nettle, D., & Bateson, M. (2011). Effects of eye
+images on everyday cooperative behavior: A field experiment.
+Evolution and Human Behavior, 32, 172­178. doi:10.1016/j.evol-
+humbehav.2010.10.006
+Fathi, M., Bateson, M., & Nettle, D. (2014). Effects of watching eyes
+and norm cues on charitable giving in a surreptitious behavioral
+experiment. Evolutionary Psychology, 12, 878­887. doi:10.1177/
+147470491401200502
+Fehr, E., & Fischbacher, U. (2004). Third-party punishment and social
+norms. Evolution and Human Behavior, 25, 63­87. doi:10.1016/
+S1090-5138(04)00005-4
+Fehr, E., & Schneider, F. (2010). Eyes are on us, but nobody cares: Are
+eye cues relevant for strong reciprocity? Proceedings of the Royal
+Society B: Biological Sciences, 277, 1315­1323. doi:10.1098/rspb.
+2009.1900
+Fink, B., Grammer, K., & Matts, P. (2006). Visible skin color distri-
+bution plays a role in the perception of age, attractiveness, and
+health in female faces. Evolution and Human Behavior, 27,
+433­442. doi:10.1016/j.evolhumbehav.2006.08.007
+Francey, D., & Bergmu
+¨ller, R. (2012). Images of eyes enhance invest-
+ments in a real-life public good. PLoS One, 7, e37397. doi:10.
+1371/journal.pone.0037397
+George, N., Driver, J., & Dolan, R. J. (2001). Seen gaze-direction
+modulates fusiform activity and its coupling with other brain areas
+during face processing. NeuroImage, 13, 1102­1112. doi:10.1006/
+nimg.2001.0769
+Haley, K. J., & Fessler, D. M. T. (2005). Nobody's watching?: Subtle
+cues affect generosity in an anonymous economic game. Evolution
+and Human Behavior, 26, 245­256. doi:10.1016/j.evolhumbehav.
+2005.01.002
+Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest
+people in the world? The Behavioral and Brain Sciences, 33,
+61­83. doi:10.1017/S0140525X0999152X
+Hoffman, E. A., & Haxby, J. V. (2000). Distinct representations of
+eye gaze and identity in the distributed human neural system
+for face perception. Nature Neuroscience, 3, 80­84. doi:10.
+1038/71152
+Hood, B. M., Macrae, C. N., Cole-Davies, V., & Dias, M. (2003). Eye
+remember you: The effects of gaze direction on face recognition in
+children and adults. Developmental Science, 6, 67­71. doi:10.
+1111/1467-7687.00256
+Jackman, S. (2008). pscl: Classes and methods for R developed in the
+Political Science Computational Laboratory. R package version
+0.95. Stanford, CA: Department of Political Science, Stanford Uni-
+versity. Retrieved from http://CRAN.R-project.org/package¼pscl
+Kampe, K. K. W., Frith, C. D., & Frith, U. (2003). ``Hey John'':
+Signals conveying communicative intention toward the self acti-
+vate brain regions associated with ``mentalizing,'' regardless of
+modality. Journal of Neuroscience, 23, 5258­5263.
+Kawashima, R. (1999). The human amygdala plays an important role
+in gaze monitoring: A PET study. Brain, 122, 779­783. doi:10.
+1093/brain/122.4.779
+Keller, J., & Pfattheicher, S. (2011). Vigilant self-regulation, cues of
+being watched and cooperativeness. European Journal of Person-
+ality, 25, 363­372. doi:10.1002/per.797
+Kleisner, K., Koc
+nar, T., Rubes
+ova
+´, A., & Flegr, J. (2010). Eye color
+predicts but does not directly influence perceived dominance in
+men. Personality and Individual Differences, 49, 59­64. doi:10.
+1016/j.paid.2010.03.011
+Kurzban, R. (2001). The social psychophysics of cooperation: Non-
+verbal communication in a public goods game. Journal of Non-
+verbal Behavior, 25, 241­259. doi:10.1023/A:1012563421824
+Kurzban, R., Burton-Chellew, M. N., & West, S. A. (2015). The
+evolution of altruism in humans. Annual Review of Psychology,
+66, 575­599. doi:10.1146/annurev-psych-010814-015355
+Lambert, D. (1992). Zero-inflated Poisson regression, with an appli-
+cation to defects in manufacturing. Technometrics, 34, 1­14. doi:
+10.1080/00401706.1992.10485228
+Langner, O., Dotsch, R., Bijlstra, G., Wigboldus, D. H. J., Hawk, S. T.,
+& Van Knippenberg, A. (2010). Presentation and validation of the
+Radboud faces database. Cognition & Emotion, 24, 1377­1388.
+doi:10.1080/02699930903485076
+Langton, S. R. (2000). The mutual influence of gaze and head orienta-
+tion in the analysis of social attention direction. The Quarterly
+Journal of Experimental Psychology. A, Human Experimental Psy-
+chology, 53, 825­845. doi:10.1080/713755908
+Macrae, C. N., Hood, B. M., Milne, A. B., Rowe, A. C., & Mason, M.
+F. (2002). Are you looking at me? Eye gaze and person perception.
+Psychological Science, 13, 460­464. doi:10.1111/1467-9280.
+00481
+Manesi, Z., Van Lange, P. A. M., & Pollet, T. V. (2015). Butterfly
+eyespots: Their potential influence on aesthetic preferences and
+conservation attitudes. PloS ONE, 10, e0141433. doi:10.1371/jour-
+nal. pone.0141433
+Martin, T. G., Wintle, B. A., Rhodes, J. R., Kuhnert, P. M., Field, S. A.,
+Low-Choy, S. J., . . . Possingham, H. P. (2005). Zero tolerance
+ecology: Improving ecological inference by modelling the source
+of zero observations. Ecology Letters, 8, 1235­1246. doi:10.1111/j.
+1461-0248.2005.00826.x
+Milinski, M., Semmann, D., & Krambeck, H.-J. (2002). Reputation
+helps solve the ``tragedy of the commons''. Nature, 415, 424­426.
+doi:10.1038/415424a
+Manesi et al. 13
+Mullahy, J. (1986). Specification and testing of some modified count
+data models. Journal of Econometrics, 33, 341­365. doi:10.1016/
+0304-4076(86)90002-3
+Nettle, D., Harper, Z., Kidson, A., Stone, R., Penton-Voak, I. S., &
+Bateson, M. (2013). The watching eyes effect in the Dictator
+Game: It's not how much you give, it's being seen to give some-
+thing. Evolution and Human Behavior, 34, 35­40. doi:10.1016/j.
+evolhumbehav.2012.08.004
+Nettle, D., Nott, K., & Bateson, M. (2012). ``Cycle thieves, we are
+watching you'': Impact of a simple signage intervention against
+bicycle theft. PLoS One, 7, e51738. doi:10.1371/journal.pone.
+0051738
+Nichols, K. A., & Champness, B. G. (1971). Eye gaze and the GSR.
+Journal of Experimental Social Psychology, 7, 623­626. doi:10.
+1016/0022-1031(71)90024-2
+Nowak, M. A., & Sigmund, K. (1998). Evolution of indirect recipro-
+city by image scoring. Nature, 393, 573­577. doi:10.1038/31225
+Oda, R., Kato, Y., & Hiraishi, K. (2015). The watching-eye effect on
+prosocial lying. Evolutionary Psychology, 13, 1­5. doi:10.1177/
+1474704915594959
+Oda, R., Niwa, Y., Honma, A., & Hiraishi, K. (2011). An eye-like
+painting enhances the expectation of a good reputation. Evolution
+and Human Behavior, 32, 166­171. doi:10.1016/j.evolhumbehav.
+2010.11.002
+O
+¨ hman, A., & Mineka, S. (2003). The malicious serpent: Snakes as a
+prototypical stimulus for an evolved module of fear. Current
+Directions in Psychological Science, 12, 5­9. doi:10.1111/1467-
+8721.01211
+Panagopoulos, C. (2014). Watchful eyes: Implicit observability cues
+and voting. Evolution and Human Behavior, 35, 279­284. doi:10.
+1016/j.evolhumbehav.2014.02.008
+Panchanathan, K., & Boyd, R. (2003). A tale of two defectors: The
+importance of standing for evolution of indirect reciprocity. Jour-
+nal of Theoretical Biology, 224, 115­126. doi:10.1016/S0022-
+5193(03)00154-1
+Pfattheicher, S., & Keller, J. (2015). The watching eyes phenomenon:
+The role of a sense of being seen and public self-awareness. Eur-
+opean Journal of Social Psychology, 45, 560­566. doi:10.1002/
+ejsp.2122
+Piazza, J., & Bering, J. M. (2008). Concerns about reputation via
+gossip promote generous allocations in an economic game. Evolu-
+tion and Human Behavior, 29, 172­178. doi:10.1016/j.evolhumbe-
+hav.2007.12.002
+Powell, K. L., Roberts, G., & Nettle, D. (2012). Eye images increase
+charitable donations: Evidence from an opportunistic field experi-
+ment in a supermarket. Ethology, 118, 1096­1101. doi:10.1111/eth.
+12011
+R Development Core Team. (2008). R: A language and environment
+for statistical computing. Vienna, Austria: R Foundation for Sta-
+tistical Computing.
+Raihani, N. J., & Bshary, R. (2012). A positive effect of flowers rather
+than eye images in a large-scale, cross-cultural dictator game. Pro-
+ceedings of the Royal Society B: Biological Sciences, 279,
+3556­3564. doi:10.1098/rspb.2012.0758
+Rigdon, M., Ishii, K., Watabe, M., & Kitayama, S. (2009). Minimal
+social cues in the dictator game. Journal of Economic Psychology,
+30, 358­367. doi:10.1016/j.joep.2009.02.002
+Sander, D., Grandjean, D., Kaiser, S., Wehrle, T., & Scherer, K. R.
+(2007). Interaction effects of perceived gaze direction and dynamic
+facial expression: Evidence for appraisal theories of emotion.
+European Journal of Cognitive Psychology, 19, 470­480. doi:10.
+1080/09541440600757426
+Schmitz, J., Scheel, C. N., Rigon, A., Gross, J. J., & Blechert, J.
+(2012). You don't like me, do you? Enhanced ERP responses to
+averted eye gaze in social anxiety. Biological Psychology, 91,
+263­269. doi:10.1016/j.biopsycho.2012.07.004
+Senju, A., & Johnson, M. H. (2009). The eye contact effect: Mechan-
+isms and development. Trends in Cognitive Sciences, 13, 127­134.
+doi:10.1016/j.tics.2008.11.009
+Skaug, H., Fournier, D., Nielsen, A., Magnusson, A., & Bolker, B.
+(2011). glmmADMB: Generalized linear mixed models using AD
+Model Builder. R Package Version 0.6, 5, r143.
+Sparks, A., & Barclay, P. (2013). Eye images increase generosity, but
+not for long: The limited effect of a false cue. Evolution and
+Human Behavior, 34, 317­322. doi:10.1016/j.evolhumbehav.
+2013.05.001
+Sylwester, K., & Roberts, G. (2010). Cooperators benefit through
+reputation-based partner choice in economic games. Biology
+Letters, 6, 659­662. doi:10.1098/rsbl.2010.0209
+Tane, K., & Takezawa, M. (2011). Perception of human face does not
+induce cooperation in darkness. Letters on Evolutionary Beha-
+vioral Science, 2, 24­27. doi:10.5178/lebs.2011.15
+Taylor, M. J., George, N., & Ducorps, A. (2001). Magnetoencephalo-
+graphic evidence of early processing of direction of gaze in
+humans. Neuroscience Letters, 316, 173­177. doi:10.1016/
+S0304-3940(01)02378-3
+Taylor, M. J., Itier, R. J., Allison, T., & Edmonds, G. E. (2001).
+Direction of gaze effects on early face processing: Eyes-only ver-
+sus full faces. Cognitive Brain Research, 10, 333­340. doi:10.
+1016/S0926-6410(00)00051-3
+Van Bommel, M., Van Prooijen, J.-W., Elffers, H., & Van Lange, P.
+A. M. (2012). Be aware to care: Public self-awareness leads to a
+reversal of the bystander effect. Journal of Experimental Social
+Psychology, 48, 926­930. doi:10.1016/j.jesp.2012.02.011
+Van Lange, P. A. M., Joireman, J., Parks, C. D., & Van Dijk, E.
+(2013). The psychology of social dilemmas: A review. Organiza-
+tional Behavior and Human Decision Processes, 120, 125­141.
+doi:10.1016/j.obhdp.2012.11.003
+Van Vugt, M., & Hardy, C. L. (2010). Cooperation for reputation:
+Wasteful contributions as costly signals in public goods. Group
+Processes & Intergroup Relations, 13, 101­111. doi:10.1177/
+1368430209342258
+Vogt, S., Efferson, C., Berger, J., & Fehr, E. (2015). Eye spots do not
+increase altruism in children. Evolution and Human Behavior, 36,
+224­231. doi:10.1016/j.evolhumbehav.2014.11.007
+Wedekind, C., & Milinski, M. (2000). Cooperation through image
+scoring in humans. Science, 288, 850­852. doi:10.1126/science.
+288.5467.850
+14 Evolutionary Psychology
+Welsh, A. H., Cunningham, R. B., Donnelly, C. F., & Lindenmayer,
+D. B. (1996). Modelling the abundance of rare species: Statistical
+models for counts with extra zeros. Ecological Modelling, 88,
+297­308. doi:10.1016/0304-3800(95)00113-1
+Wicker, B., Perrett, D. I., Baron-Cohen, S., & Decety, J. (2003). Being
+the target of another's emotion: A PET study. Neuropsychologia,
+41, 139­146. doi:10.1016/S0028-3932(02)00144-6
+Williams, K. D., Shore, W. J., & Grahe, J. E. (1998). The silent
+treatment: Perceptions of its behaviors and associated feelings.
+Group Processes & Intergroup Relations, 1, 117­141. doi:10.
+1177/1368430298012002
+Wirth, J. H., Sacco, D. F., Hugenberg, K., & Williams, K. D. (2010).
+Eye gaze as relational evaluation: Averted eye gaze leads to feelings
+of ostracism and relational devaluation. Personality & Social Psy-
+chology Bulletin, 36, 869­882. doi:10.1177/0146167210370032
+Zuur, A., Ieno, E. N., Walker, N., Saveliev, A. A., & Smith, G. M.
+(2009). Mixed effects models and extensions in ecology with R.
+New York, NY: Springer.
+Manesi et al. 15
+

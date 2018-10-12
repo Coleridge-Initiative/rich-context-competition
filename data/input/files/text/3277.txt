@@ -1,0 +1,1389 @@
+https://doi.org/10.1177/2158244016684911
+SAGE Open
+January-March 2017: 1
+­15
+© The Author(s) 2017
+DOI: 10.1177/2158244016684911
+journals.sagepub.com/home/sgo
+Creative Commons CC-BY: This article is distributed under the terms of the Creative Commons Attribution 3.0 License
+(http://www.creativecommons.org/licenses/by/3.0/) which permits any use, reproduction and distribution of
+the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages
+(https://us.sagepub.com/en-us/nam/open-access-at-sage).
+Article
+A key strategy of the Thai government has been to help
+"grass roots" level, community-based enterprises (CBEs)
+promote their home-grown agricultural and handicraft prod-
+ucts into larger, export-focused, small­medium enterprises
+(SMEs; Foreign Office, Office of the Prime Minister, 2016).
+These present-day Thai policies and programs are, however,
+rooted to a much earlier, 1979 Japanese program called "One
+Village One Product" (OVOP), which was started in Japan's
+poorest prefecture (Oita) by Governor Morihiko Hiramatsu
+which stressed the importance for locals to lessen their
+dependence on government subsidies as well as help with
+retainingyouthandimprovingthequalityoflife(Prayukvong,
+2007; Thu, 2013). Governor Hiramatsu's motto was "Think
+globally, act locally" (Prayukvong, 2007; Ramon Magsaysay
+Award Foundation, 2016). Even the United Nations Industrial
+Development Organization (UNIDO) in 2008 released a
+report committing itself to rural development and poverty
+reduction in Africa using a OVOP-type project style
+(Haraguchi, 2008), whereas other developing nations around
+the world have adopted Governor Hiramatsu's vision.
+The emergence of the Asian financial crisis in mid-1997
+redirected many Asian governments to strengthen their
+SMEs (Moha-Asri, 2002), with Thailand adopting Japan's
+OVOP concept and implementing it in 2001 with a "twist,"
+which in this case reversed the Japanese focus from bottom-
+up initiatives to a Thai government­managed, top-down
+driven scheme (Thu, 2013). Being relabeled in Thailand as
+"One Tambon One Product" or OTOP (Kurokawa, 2009), the
+Thai word "Tambon" is translated into English as "subdis-
+trict," which is the third smallest administrative unit below
+district and province in Thailand. Numbering 7,256 tambons
+throughout Thailand (Hörstemeier, 2013), the program
+exploded after its inception, growing from a little more than
+US$7 million in 2001 to US$2.24 billion in 2008 (Figure 1),
+with officials projecting nearly US$3 billion in 2016
+(Changsorn, 2015).
+With the OTOP program's explosive growth after its
+inception (Figure 1), global confirmation of its importance
+came as early as 2003 when in the 20-nation Asia-Pacific
+Economic Cooperation (APEC) Ministerial SME Meeting
+684911
+SGOXXX10.1177/2158244016684911SAGE OpenSitabutr and Pimdee
+research-article2017
+1King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand
+Corresponding Author:
+Vipada Sitabutr, King Mongkut's Institute of Technology Ladkrabang,
+Chalongkrung Rd., Bangkok 10520, Thailand.
+Email: meaw2498@gmail.com
+Thai Entrepreneur and Community-Based
+Enterprises' OTOP Branded Handicraft
+Export Performance: A SEM Analysis
+Vipada Sitabutr1 and Paitoon Pimdee1
+Abstract
+Thailand's One Tambon One Product (OTOP) branded handicraft and food export program is expected in 2016 to reach
+nearly US$3 billion, with products coming from approximately 6,000, five-star-ranked community-based and small­medium
+enterprises countrywide. This study therefore examined influences of perceived quality, perceived price, trust, and satisfaction
+on enterprise export performance using the OTOP product brand. Structural equation modeling used LISREL Version 9.1
+to conduct a confirmatory factor analysis and test the hypothesized interrelationships on the variables' effect on export
+performance. The vast majority of the entrepreneurs selected by simple random sampling either owned or worked in
+groups that had 50 or fewer employees, which represented 472 of the survey's 500 respondents, or 94.4%. Additional
+results indicated a high and positive correlation between perceived quality, perceived price, trust and satisfaction, and export
+performance, with the most significant factor affecting export performance being customer satisfaction. In addition, perceived
+quality also has a positive and direct effect on trust as well as on the exporter's customer satisfaction. Perceived price plays
+a role as well and has a direct and positive impact on both customer satisfaction and a customer's trust of the exporter.
+Perceived quality also affects export performance in a direct and positive way with trust having a direct and positive impact
+on satisfaction.
+Keywords
+microenterprise, satisfaction, perceived quality, perceived price, trust
+2 SAGE Open
+held in Chiang Mai, Thailand, a ministerial statement was
+issued proclaiming that Thailand's OTOP promotion "is a
+good model that could have application in developing an
+entrepreneurial society, especially in local areas."
+During this period, it was the Thai Department of Rural
+Community Development that was the coordinating office to
+select the champion product at all administrative levels with
+the selection criteria focused on (a) export potential, (b)
+maintaining quality production, (c) high production stan-
+dards which contributed to product quality and customer sat-
+isfaction, and (d) the product's history (Prayukvong, 2007).
+In addition, a rating system of one to five stars was imple-
+mented with five stars necessary for export potential.
+The government plays a supporting role as well, assisting
+in supply chain issues, consultation with enterprise entrepre-
+neurs, networking, and opening up new markets for the
+OTOP products, which in 2016 has included 10 selected
+OTOP products being sold on the national flag airline Thai
+Airways with 128 OTOP products available through their in-
+flight catalog ("Government cooperates with Thai," 2016).
+In addition, OTOP shops are being established in each of two
+national gas stations (PTT) in each province with OTOP fairs
+and booths common throughout Thailand.
+The basic idea of the OTOP scheme is to have each
+Tambon (subdistrict) concentrate on one certain type of
+product which is best suited for production in each subdis-
+trict. Presently, approximately 40% of the Thai OTOP enter-
+prises are engaging in food processing and handicraft
+production, with a heavy concentration of the enterprises in
+Thailand's Northern provinces. Three product categories
+have recently been identified as export rising stars, which
+includes processed foods and beverages, utensils, decorative
+items and souvenirs, and cloth, apparel, and accessories
+(Changsorn, 2015).
+In research reported in 2015 from the Thailand
+Productivity Institute, it was indicated that there were
+approximately 70,000 OTOP enterprises registered country-
+wide (Changsorn, 2015), and according to the Thai Interior
+Ministry's Community Development Department, 10,000 of
+these have been granted a "five-star" rating. It is the "five-
+star" rating that qualifies the enterprise to export, and in
+2015, 5,687 exporters were generating more than 100 billion
+THB (US$2.88 billion) yearly in foreign revenue forThailand
+(Changsorn, 2015).
+Although the terms CBE, SME, and OTOP might at first
+appear to be interchangeable, they are not. To make the
+nomenclature even more confusing, in Thailand's bordering
+neighbor of Malaysia, SMEs are often referred to as "micro-
+enterprises" by scholars (Tock & Baharun, 2013).
+Many CBEs and entrepreneurs have aspirations to become
+SMEs, and one mechanism to achieve this is to market their
+products under the Thai government product branding of
+"OTOP." The brand personifies the perceived value (Tock &
+Baharun, 2013), and by becoming an OTOP branded prod-
+uct, many doors to foreign markets can open, which is cur-
+rently growing at nearly 2% per year ("Know global-build
+local fair," 2015; Mass Communication Organization of
+Thailand [MCOT], 2013). This is also supplemented by a
+large domestic market which has also been growing at a con-
+stant annual rate of 13% over the past several years
+(Changsorn, 2015).
+Thailand for many years has focused on the development
+and the sustainability of the rural regions and citizens, which
+became official government policy with the release of the
+Eighth National Economic and Social Development Plan
+(1997-2001) which included the King of Thailand's "Theory
+of Economic Self-Sufficiency" (Prayukvong, 2007). In addi-
+tion, community-based development can revitalize commu-
+nity solidarity (Suindramedhi, 2016).
+Recently, a new program called "From Hundred to
+Million" has also been conceived which is designed to help
+stimulate young entrepreneurs' creativity and innovation
+("OTOP fairs generate 2 billion," 2015), which is actually
+mirroring one of the main objectives of Governor Hiramatsu
+OVOP concept in 1979. Further program incentives can be
+found in Thai Commerce Ministry statistics which state that
+Thai OTOP products now represent more than 10% of
+Thailand's exports (MCOT, 2013). Further incentives for
+entrepreneurs to join in OTOP branding of their products
+include initiatives such as the OTOP Product Champion
+(OPC) certification that aims to improve the quality of CBE
+products (Natsuda et al., 2011).
+Problem Statement
+Innovators are, first and foremost, entrepreneurs (The World
+Bank, 2010) with Thailand's CBE/OTOP entrepreneurial
+enterprises critical to national economic health, with various
+factors contributing to their export performance success
+(Hirohata, 2013). In the past, Thai entrepreneurial agricultural
+and handicraft exporters have experienced various challenges
+Figure 1. Thailand's OTOP program "early years" from 2001 to
+2008.
+Source. Adapted from Natsuda, Wiboonpongse, Cheamuangphan,
+Shingkharat, and Thoburn (2011).
+Note. OTOP = One Tambon One Product.
+Sitabutr and Pimdee 3
+in overseas markets, including customer confidence, trust, and
+lack of product branding and identification (Kurokawa, 2010;
+Piriyakul & Wingwon, 2011). Production capacity for export
+purposes is a great challenge for developing nations, which in
+turn influences the quality, service standard, and production
+scale (The World Bank, 2010). Customer satisfaction with
+goods and service are critical to export performance (Julian,
+2003; The World Bank, 2010).
+Literature Review
+Multiple experts and studies were analyzed in the lead-up to
+development for the variables for the study's hypotheses con-
+cerning Thai entrepreneurial CBE/OTOP export performance.
+Among these and most frequently mentioned were the CZ
+(Cavusgil & Zou, 1994) and the export performance
+(EXPERF) (Zou, Taylor, & Osland, 1998) models. The
+authors, however, found the history of European SMEs as
+discussed by the Dutch scholar Voerman (2003) particularly
+interesting as well as the detailed analysis on export perfor-
+mance from the Brazilian authors Carneiro, da Rocha, and da
+Silva (2007).
+Finding agreement, however, on what components actu-
+ally contribute to a firm's export performance is complex
+with confirmation of this difficulty coming from early
+research from Aaby and Slater (1989) which conducted a
+review of 55 studies on the management influences on export
+performance from 1978 to 1988 and synthesized the findings
+down to the independent variables environment, competen-
+cies, firm characteristics (i.e., firm characteristics, firm capa-
+bilities, and management characteristics), and strategy
+(Voerman, 2003) which affected export performance. Madsen
+(1987) also synthesized 17 export performance studies from
+1964 to 1985 into 23 latent variables grouped into three cate-
+gories, which were referred to as organizational performance
+(O-performance), the structure and performance of its envi-
+ronment (E-structure), and strategies (strategy).
+Sousa (2004) later reviewed 43 empirical studies pub-
+lished between 1998 and 2004 and noted 50 different opera-
+tional aspects of export performance, whereas Leonidou
+(2004), on the contrary, compiled data from 32 empirical
+studies and identified 39 barriers to export performance of
+small businesses.
+Cavusgil and Zou (1994) in their model focused on larger,
+U.S. organizations and how organizational performance was
+based on the organization's profile; environmental aspects
+including cultural and political/legal factors; management
+factors including experience, education, and commitment;
+and finally the product and where it is destined for. Although
+a good model with many useful elements, the present study
+is focused on very small, rural entrepreneurs and artisans and
+therefore was not a "perfect" guideline to follow.
+Zou et al. (1998) are also recognized for their EXPERF
+model whose key dimensions for measuring export perfor-
+mance include financial, strategic, and satisfaction. This scale
+has been empirically validated in a cross-national study of
+U.S. and Japanese exporters, as well as in a study of U.K. and
+Australian exporters (Styles & Ambler, 1994), and a study of
+British exporters, strengthening its value as a valid general-
+ized export performance measure (Beleska-Spasova, 2014).
+The literature does also suggest that export performance
+is closely associated with the characteristics of the enter-
+prise, including such things as the size, the age, and who the
+entrepreneurs are, as in this study's case (Sinkula, 1994; Zou
+et al., 1998). The research, however, did identify other stud-
+ies concerning export performance which were focused on
+smaller SME organizations. This included Styles andAmbler
+(1998); Bartlett and Bukvi (2001); Leonidou (2004);
+Leonidou, Katsikeas, and Samieec (2002); and Ogunmokun
+and Ng (2004).
+Styles and Ambler (1994) revised an earlier export perfor-
+mance framework from Aaby and Slater (1989) and con-
+cluded that it was the partnership and relationship factors
+which had the greatest influence on export performance
+improvement. Later, Styles (1998) refined Cavusgil and
+Zou's (1994) model for use in the analysis of SMEs in
+Australia and U.K. firms and determined that economic per-
+formance, improvement of competitive position, future
+expansion, and passive exporting were the keys to SME
+export performance.
+Research from Bartlett and Bukvi (2001) also focused on
+SMEs and investigated what hindered their growth the great-
+est, and strongly suggested that unless flexibly and deregula-
+tion are embraced, there will be significant barriers to small
+business growth. Ogunmokun and Ng (2004) explored
+Australian SME export performance (companies with fewer
+than 200 employees) but did so by comparing why some
+SMEs had better success than others in export performance.
+From these and other studies concerning theories about
+export performance, a synthesis of the research led to the fol-
+lowing observed variables being determined.
+Perceived Quality (PQ)
+According to an export marketing performance survey con-
+ducted on Thai SMEs, one of the four factors determined to
+have a significant contribution was product characteristics
+(Julian, 2003). The three others included competition, com-
+mitment, and the export market characteristics. Concerning
+product characteristics, it was stated that concentration
+should be focused on product flexibility, which meets the
+need of the market, specifically cultural specificity and the
+degree of uniqueness of the product.
+Aaker (1991) discussed brand equity and indicated that
+perceived quality as having five elements including reason-
+to-buy, differentiate/position, price premium, channel mem-
+ber, interest, and brand extensions.
+Fornell, Johnson, Anderson, Cha, and Bryant (1996) also
+felt that quality awareness was crucial, whereas Bei and Chiao
+(2001) concluded that the most significant factor was the
+4 SAGE Open
+quality of goods. The World Bank (2010) has also indicated the
+importance of solid infrastructure for norms, standards, and
+quality control, which therefore assures the proper commer-
+cialization of products for either domestic or foreign markets.
+Similarly, Brown (2003) stipulated the necessity of prod-
+uct and service excellence in perceived quality which corre-
+sponds to research from Tsiotsou (2005) concluding
+competitive comparisons as a key success factor. In addition,
+Türkyilmaz and Özkan (2007) cited overall quality, product
+quality, and appropriateness to usage purposes, including
+customer service, and service quality as significant factors.
+This is consistent with Moliner (2009), which discussed
+corporate strategies and indicated that perceived value was
+more important than quality. Other factors such as fulfilling
+expectations, meeting customer's goals, and having positive
+customer relationships are also significant (Tohidinia &
+Haghighi, 2011). Product performance, conformance to
+specifications, reliability, and durability are also applicable
+(Agus & Hajinoor, 2012).
+In addition, Wang and Tsai (2014) stated that outstanding
+quality, reliability, and consistency are crucial elements of
+perceived quality as well with Laosirihongthong, Teh, and
+Adebanjo (2013), stating that a product's performance, its
+conformance to specifications, reliability, and durability are
+equally important. Chang, Kuo, Hsu, and Cheng (2014) cited
+broader factors of information, service, and system quality.
+Perceived Price (PP)
+Dodds, Monroe, and Grewal (1991) indicated that perceived
+price (PP) let to perceived quality which thus led to per-
+ceived value. Bei and Chiao (2001) also indicated the impor-
+tance of a reasonable price, whereas Moliner (2009) stressed
+the importance of customer loyalty and perceived value. This
+is consistent with Dai (2010), which also indicated that rea-
+sonable pricing is important which was in agreement with
+Wang and Tsai (2014).
+In Thailand, Julian (2003) studied SME export perfor-
+mance and indicated that price competitiveness in the export
+market and product commitment as important factors in
+export marketing success with Leonidou et al. (2002) in
+agreement indicated that price flexibility and the ability to
+offer lower prices (i.e., penetration pricing) were positive for
+export performance.
+Valvi and West (2013) in their discussion about E-loyalty
+indicated that perceived value was a significant predictor of
+satisfaction while price notably influenced e-trust develop-
+ment. Perceived price is also defined as pricing that is com-
+petitive or equal to competitors "pricing scales as well as
+corresponding to market trends" (Rijkers, 2014).
+Trust (TR)
+In Thailand, Piriyakul and Wingwon (2011) felt consumer
+trust toward a product brand played a critical role in
+supporting sustainable corporate growth. Lo (2003) elaborated
+further by indicating that trust consisted of integrity, benevo-
+lence, ability, perception, and communication. Jin, Park, and
+Kim (2007) highlighted trust in Korea as coming from a firm's
+reputation. Brencic, Ekar, and Virant (2008) indicated that a
+long-term orientation is a consequence of trust and relation-
+ship commitment with Lin (2013) indicating that significant
+and positive relationships were found between trust and satis-
+faction, and between satisfaction and loyalty.
+Furthermore, according to Moliner (2009), trust is defined
+as being trustworthy, honest, and having a good reputation.
+Stuart, Verville, and Taskin (2011), however, saw trust as
+being built principally through supplier centric traditional
+performance metrics such as delivery reliability and product
+quality conformance.
+Trust is also earned when performance meets expecta-
+tions and comes from reliable products (Valvi & West, 2013).
+To achieve trust, enterprises need to respond to a customer's
+need, have honesty and sincerity, keep commitments, and
+possess competency and effectiveness in their service deliv-
+ery (Alsajjan, 2014). This is consistent with Chang et al.
+(2014) which determined that for businesses to promote
+trust, they must provide excellent service which is reliable
+and delivered with good intentions and Rijkers (2014) which
+found that trust is earned from firms being reasonable, fair,
+and having appropriate services and price consistency.
+Satisfaction (ST)
+Zou and Stan (1998) found 50 papers published between
+1987 and 1997, and from the seven categories measuring
+export performance, satisfaction was a key element. Hill,
+Jones, and Schilling (2015) stated that identification of the
+customer's needs along with superior fulfillment of customer
+satisfaction over rivals contributed to a competitive
+advantage.
+Anderson and Fornell (2000) divided customer satisfac-
+tion into three determinants: perceived service quality, per-
+ceived value, and customer expectations. Satisfaction can
+also be defined broadly as a customer being satisfied with a
+product or service (Bei & Chiao, 2001). In addition, Tohidinia
+and Haghighi (2011) indicated that relationship quality had a
+significant impact with customer satisfaction and that cus-
+tomer satisfaction had a positive impact on repurchase inten-
+tions, positive word-of-mouth, and customer's positive
+feedback.
+This is consistent with Türkyilmaz and Özkan (2007)
+which conducted research in Turkey on Istanbul mobile
+phone subscribers and determined that that these providers
+with limited resources should focus on improving customer
+satisfaction and customer loyalty.
+Calvo-Porral and Lévy-Mangin (2015) indicated that both
+service value and corporate image exerted the strongest
+influence on customer satisfaction and loyalty. Dai (2010)
+indicated that satisfaction can also be derived from a
+Sitabutr and Pimdee 5
+successful purchase decision which leads to happiness and
+overall satisfaction (Tsiotsou, 2005; Vesel & Zabkar, 2010).
+Export Performance (EP)
+Bilkey (1978) determined that management quality is the
+greatest single determinant of a firm's export success. This is
+consistent with Ayan and Percin (2005) which determined
+that export market success can also be determined by multi-
+ple indicators including environmental factors such as for-
+eign environments, managerial characteristics, and the firm's
+marketing strategies.
+Brown (2003) focused on market share, rapid growth, and
+profit as components of export performance, yet Brencic
+et al. (2008) defined export performance as profitability,
+which is reflected in sale volume, rapid growth, global com-
+petitiveness, strategic position, global market share, perfor-
+mance satisfaction, and success with the export venture
+which fully meets expectations. Export performance factors
+are also determined by profit, return of investment (ROI),
+revenue, total sales, market shares, sales growth rate, export
+growth rates, or number of new customers (Abu-Jarad,
+Yusof, & Nikbin, 2010).
+This is consistent with Ural (2009) which demonstrated
+that there is a positive impact of information sharing, stra-
+tegic positioning, and performance on financial export per-
+formance and satisfaction with the export venture. Stuart
+et al. (2011) examined trust between supplier and buyer
+firms as well as the impact that trust has on export perfor-
+mance outcomes which included customer satisfaction,
+market share, and profitability. This was similar to Agus
+and Hajinoor (2012) and Laosirihongthong et al. (2013)
+that emphasized the importance of market share, profit-
+ability, sales growth, and market growth on export perfor-
+mance (Table 1).
+Method
+Data Collection
+From the 2015 Thai Exporter Directory Database from the
+Ministry of Commerce's Department of International Trade
+(DIP), 1,353 Thai OTOP handicraft exporters which were
+listed were extracted. Starting in November 2014, phone
+calls were placed to 720 enterprise entrepreneurs involved in
+export of Thai handicraft- and food-related products. Upon
+contact with these owners, the best method for sending the
+export performance questionnaire was determined (post,
+email, courier, etc.). Subsequent follow-up calls and emails
+were made to those owners who had not returned the survey
+in December 2014 and January 2015, with the completion of
+the follow-up process ending in February 2015. From this
+process, the targeted collection number was not achieved.
+Therefore, 10 teams were selected and deployed to physi-
+cally travel to the enterprises'location in May 2015 and gather
+a completed survey. From this added level of collection, the
+researchers were able to obtain 545 questionnaires. This repre-
+sented a collection rate of 75.69% (545 of the original 720
+enterprises identified). Subsequent quality control and audit-
+ing of the responses eliminated 45 sets, leaving a final survey
+response rate of 69.44% or 500 of the originally identified 720
+enterprises.
+Based on statistical sampling requirements for research
+conducted for the U.S. National Education Association
+(NEA), Krejcie and Morgan (1970) indicated that sample
+sizes larger than 380 are unnecessary. Yamane (1967) and
+Israel (1992) also have indicated that sample sizes beyond
+400 are almost irrelevant as well.
+Furthermore, during the period between March and May
+2015, qualitative research was further conducted by use of
+in-depth, semistructured, guided interviews with seven own-
+ers and executives covering the following five topics:
+1. Measurement of perceived quality.
+2. Measurement of perceived price.
+3. Measurement of trust.
+4. Measurement of customer satisfaction.
+5. Measurement of export performance.
+For the study, Cronbach's alpha (Cronbach, 1951) was
+used to evaluate the initial 30 samples which used a 6-point,
+unipolar scale survey rating matrix with 5 indicating excel-
+lent and 0 indicating no opinion. The value of alpha that is
+considered acceptable ranges in value from 0 to 1 and may be
+used to describe the reliability of factors extracted from mul-
+tipoint formatted questionnaires or scales, with a reliability
+score of .70 or higher being considered a reliable score by
+many researchers (Hair, Hult, Ringle, & Sarstedt, 2013;
+Nunnally & Berstein, 1994). The correlation coefficient indi-
+cated high reliability with a score of .953.
+Quantitative Data Analysis
+To determine whether the sample size of 500 exporters
+selected by use of simple random sampling for the study
+was adequate, the researchers further confirmed this to be
+the case from previous researchers (Hair et al., 2013;
+Schumacker & Lomax, 2004). The questionnaire used a
+6-point unipolar scale with 5 indicating excellent and 0
+indicating no quality (Krosnick & Presser, 2009). This was
+similar to the export performance rating scale used by Pope
+(2002) to measure small firms. Analysis of Thai owner and
+entrepreneur export performance was conducted using
+descriptive statistics including frequency, percentage,
+mean, and standard deviation (Keengwe, Onchwari, &
+Wachira, 2008).
+From literature reviews, the following latent and observed
+variables were analyzed for this study.
+The study defined the hypothesized framework as shown
+below and in Figure 2.
+6 SAGE Open
+Hypothesis 1 (H1): Perceived Quality (PQ) has a direct
+and positive impact on Trust (TR).
+Hypothesis 2 (H2): Perceived Quality (PQ) has a direct
+and positive impact on Satisfaction (ST) as well as an
+indirect and positive impact on Satisfaction (ST) through
+Trust (TR).
+Hypothesis 3 (H3): Perceived Price (PP) has a direct and
+positive impact on Satisfaction (ST) as well as an indirect
+and positive impact on Satisfaction (ST) through Trust
+(TR).
+Hypothesis 4 (H4): Perceived Price (PP) has a direct and
+positive impact on Trust (TR).
+Hypothesis 5 (H5): Perceived Quality (PQ) has a direct
+and positive impact on Export Performance (EP) as well
+as an indirect and positive impact on Export Performance
+(EP) through Trust (TR) and Satisfaction (ST).
+Hypothesis 6 (H6): Trust (TR) has a direct and positive
+impact on Satisfaction (ST).
+Hypothesis 7 (H7): Trust (TR) has a direct and positive
+impact on Export Performance (EP) as well as an indirect
+and positive impact on Export Performance (EP) through
+Satisfaction (ST).
+Hypothesis 8 (H8): Satisfaction (ST) has a direct and
+positive impact on Export Performance (EP).
+Results
+Respondents' Characteristics
+Of the 500 respondents for the study, 301 were female
+(60.2%) and 199 were male (39.8%). These respondents
+were divided into five age groups: 41 to 50 years (156
+respondents or 31.2%), 31 to 40 years (154 respondents or
+30.8%), 51 to 62 years (85 respondents or 17.0%), below 30
+years old (76 respondents or 15.2%), with the remaining
+group above 60 years old of age with 29 respondents (5.8%).
+Regarding education, 220 of the 500 surveyed respon-
+dents had bachelor's degrees (44.0%); the second largest
+group with 141 respondents had vocational education
+(28.2%), with the remaining respondents represented by
+Table 1. Summary of Latent and Observed Variables Along With Their Associated References.
+Latent variables Observed variables Knowledge base (theory)
+PQ (PQ1) Best Quality
+(PQ2) Excellent Standards
+(PQ3) Overall Quality
+(PQ4) Meeting Customer's Goals
+(PQ5) Durability
+(PQ7) Service Quality
+Bilkey (1978); Julian (2003); Fornell, Johnson, Anderson,
+Cha, and Bryant (1996); Bei and Chiao (2001); The
+World Bank (2010); Tock and Baharun (2013); Brown
+(2003); Tsiotsou (2005); Türkyilmaz and Özkan
+(2007); Moliner (2009); Tohidinia and Haghighi (2011);
+Agus and Hajinoor (2012); Wang and Tsai (2014);
+Laosirihongthong et al. (2013); Chang, Kuo, Hsu, and
+Cheng (2014)
+PP (PP1) Reasonable Price
+(PP2) Fair price
+(PP3) Acceptable price
+(PP4) Competitive Market Price
+(PP5) Market Trends
+Aaker (1991); Bei and Chiao (2001); Moliner (2009); Dai
+(2010); Wang and Tsai (2014); Julian (2003); Leonidou,
+Katsikeas, and Samieec (2002); Valvi and West (2013);
+Rijkers (2014)
+TR (TR1) Trustworthy
+(TR2) Ability
+(TR3) Judgment
+(TR4) Product Trust
+(TR5) Integrity
+(TR6) Honesty
+(TR7) Trust in Promise
+Piriyakul and Wingwon (2011); Lo (2003); Jin, Park, and
+Kim (2007); Brencic et al. (2008); Lin (2013); Moliner
+(2009); Stuart et al. (2011); Valvi and West (2013);
+Alsajjan (2014); Chang et al. (2014); Rijkers (2014)
+ST (ST1) Overall Satisfaction
+(ST2) Satisfaction with Goods
+(ST3) Exceeds Expectations
+(ST4) Satisfied Service
+(ST5) Purchase Decision Satisfaction
+(ST6) Needs satisfied
+Zou and Stan (1998); Anderson and Fornell (2000);
+Bei and Chiao (2001); Tohidinia and Haghighi (2011);
+Türkyilmaz and Özkan (2007); Calvo-Porral and Lévy-
+Mangin (2015); Dai (2010); Vesel and Zabkar (2010);
+Tsiotsou (2005)
+EP (EP1) Market Share
+(EP2) Profitability
+(EP3) Rapid Growth
+(EP4) Sales Volume
+(EP5) Strategic Position Growth
+(EP6) Satisfied Performance
+(EP7) Global Competitiveness
+Abu-Jarad, Yusof, and Nikbin (2010); Ayan and Percin
+(2005); Brown (2003); Brencic et al. (2008); Ural
+(2009); Stuart et al. (2011); Agus and Hajinoor (2012);
+Laosirihongthong et al. (2013)
+Note. PQ = Perceived Quality; PP = Perceived Price; TR = Trust; ST = Satisfaction; EP = Export Performance.
+Sitabutr and Pimdee 7
+other types of education including 15 with master's degrees
+(3.0%) and with the remaining 124 respondents representing
+other or lower educational levels (24.8%).
+Among the total 500 respondents, 440 respondents were
+business owners, representing 88% of the total, with the
+remainder 60 (12.0%) indicating "business executives" as
+their title/position. Work experience was broken down into
+those with 10 or more years' experience (231 or 46.2%),
+those with 6 to 10 years of work experience (124 or 24.8%),
+those with 1 to 5 years of experience (120 or 24.0%), and,
+finally, the smallest group was those with less than 1 year of
+experience (25 respondents or 5.0%).
+The vast majority of the entrepreneurs surveyed either
+owned or worked in groups that had 50 or fewer employees
+representing 472 of the respondents (94.4%). This was fol-
+lowed by 22 respondents (4.4%) working in groups with 51
+to 100 employees, with only two of the total of 500 surveyed
+working in organizations larger than 101 employees (0.4%).
+In addition, the respondents are divided into 10 groups
+according to their assets. The largest group was represented
+by those with maximum assets not exceeding 5 million THB
+(US$144, 400 on September 27, 2016) which had 216 mem-
+bers (43.2%). This was followed by those who worked with
+76 businesses (15.2%) with assets between 26 and 50 million
+THB. Another group with 56 respondents (11.2%) had assets
+between 51 and 75 million THB followed by 53 respondents
+between 6 and 25 million THB (10.6%). Respondents with
+assets between 76 and 100 million THB included 42 respon-
+dents (8.4%); between 101 and 125 million THB, 21 respon-
+dents (4.2%); between 126 and 150 million THB, 20
+respondents (4.0%); between 151 and 175 million THB, nine
+respondents (1.8%); between 176 and 200 million THB, six
+respondents (1.2%); and, finally, the last group with assets
+more than 200 million THB was just one respondent (0.2%).
+The respondents were engaged in various forms of busi-
+ness including manufacturing (151 respondents or 30.2%),
+wholesalers (134 respondents or 26.8%), retail (125 respon-
+dents or 25.0%), wholesale and retail (45 respondents or
+9.0%), manufacturing and wholesale (35 respondents or
+7.0%), and combined manufacturer, wholesaler, and retailer
+(10 respondents or 2.0%).
+Confirmatory Factor Analysis (CFA)
+According to Magistris and Gracia (2008), to access the
+measurement models, a CFA is used followed by structural
+equation modeling (SEM) to examine the general fit of the
+proposed model with data and also to identify the overall
+relationships among these constructs. Wong (2013) indicated
+also that for marketing research, a significance level of 5%, a
+(PQ) Perceived
+Quality
+(PP) Perceived
+Price
+(TR) Trust
+(ST)
+Satisfaction
+(EP) Export
+Performance
+PQ1 Best Quality
+PQ 2 Excellent
+Standards
+PQ 4 Meeting
+Customer's Goals
+PQ 7 Service
+Quality
+PQ 5 Durability
+PP1 Reasonable
+Price
+PP2 Fair Price
+PP3 Acceptable
+Price
+PP5 Market
+Trends
+PP4 Competitive
+Market Price
+TR1 Trustworthy
+TR 2 Ability
+TR 3 Judgment
+TR 5 Integrity
+TR4 Product Trust
+TR 6 Honesty
+TR 7 Trust in Promise
+ST 1 Overall
+Satisfaction
+ST 2 Satisfaction with
+Goods
+ST 3 Exceeds
+Expectations
+ST 5 Purchase
+Decision Satisfaction
+ST 4 Satisfied Service
+ST 6 Needs Satisfied
+EP 1 Market Share
+EP 2 Profitability
+EP 3 Rapid Growth
+EP 5 Strategic
+Position Growth
+EP 4 Sales Volume
+EP 5 Performance
+Satisfied
+EP 7 Global
+Competitiveness
+H7
+H5
+H6
+H2
+H3
+H1
+H8
+H4
+Figure 2. Hypothesized framework.
+8 SAGE Open
+statistical power of 80%, and R2 values of at least .25 are
+considered typical.
+Standard modeling accepts the proposed model if the p
+value is higher than .05 and if the 2/df ratio is smaller than 2
+(Byrne, Shavelson, & Muthén, 1989) which is consistent
+with Kline (1998) and Ullman (2001) which also indicated
+that the relative 2 should be less than 2. It is also common to
+display confirmatory factor models as path diagrams in
+which squares show the observed variables and circles show
+the latent concepts (Albright & Park, 2009).
+In addition, another commonly reported statistic and a
+potential mechanism for accommodating large sample sizes
+may be to use the root mean square error of approximation
+(RMSEA) as a measure of goodness-of-fit in SEMs (Chen,
+Curran, Bollen, Kirby, & Paxton, 2008; and to measure the
+discrepancy per degree of freedom (Hu & Bentler, 1999).
+The Amos 22 user's guide suggests that "a value of the
+RMSEA of about 0.05 or less would indicate a close fit of the
+model in relation to the degrees of freedom" (Arbuckle,
+2013). RMSEA values range from 0 to 1, with a smaller
+RMSEA value indicating better model fit. Acceptable model
+fit is indicated by an RMSEA value if recommendations for
+RMSEA cutoff points have been reduced considerably over
+the past couple of decades (Hu & Bentler, 1999).
+Perceived Quality (PQ)
+Using SEM, the researchers specified the CFA model (Hox
+& Bechger, 1998) where the Perceived Quality (PQ; Figure
+3) is influenced by (PQ1) Best Quality, (PQ2) Excellent
+Standards, (PQ4) Meeting Customer's Goals, (PQ5) Durable
+Products, and (PQ7) Service Quality as shown in Figure 3.
+From the modeling, the 2 was indicated to be 0.54, with a p
+value of .764 and RMSEA of 0.000 which indicates an
+acceptable fit with the model. This ensures that the observed
+variables are sensitive to Perceived Quality (PQ) and are
+suitable for further analysis.
+Perceived Price (PP)
+CFA of Perceived Price (PP) in Figure 4 shows the factors
+(PP1) Reasonable Price, (PP2) Fair Price, (PP3) Acceptable
+Price, (PP4) Competitive Market Price, and (PP5) Market
+Trends. From the modeling, the 2 was indicated to be 0.06,
+with a p value of .970 and RMSEA of 0.000 which indicates
+an acceptable fit with the model. This ensures that the
+observed variables are sensitive to Perceived Pricing (PP)
+and are suitable for further analysis.
+Trust (TR)
+CFA of Trust (TR) in Figure 5 shows the factors (TR1)
+Trustworthy, (TR2) Ability, (TR3) Judgment, (TR4) Product
+Trust, (TR5) Integrity, (TR6) Honesty, and (TR7) Trust in
+Promise. From the modeling, the 2 was indicated to be
+11.03, with a p value of .273 and RMSEA of 0.021 which
+indicates an acceptable fit with the model. This ensures that
+the observed variables are sensitive to Trust (TR) and are
+suitable for further analysis.
+Satisfaction (ST)
+CFA of Satisfaction (ST) in Figure 6 shows the factors (ST1)
+Overall Satisfaction, (ST2) Satisfaction With Goods, (ST3)
+Exceeds Expectations, (ST4) Satisfied Service, (ST5)
+Purchase Decision Satisfaction, and (ST6) Needs Satisfied.
+From the modeling, the 2 was indicated to be 11.03, with a
+p value of .273 and RMSEA of 0.021 which indicates an
+acceptable fit with the model. This ensures that the observed
+Figure 4. CFA for PP (value from completely standardized
+solution).
+Note. 2 = 0.06, p value = .970, and RMSEA = 0.000. CFA = confirmatory
+factor analysis; PP = Perceived Price; RMSEA = root mean square error of
+approximation.
+Figure 3. CFA for PQ (value from completely standardized
+solution).
+Note. 2 = 0.54, p value = .764, and RMSEA = 0.000. CFA = confirmatory
+factor analysis; PQ = Perceived Quality; RMSEA = root mean square
+error of approximation.
+Sitabutr and Pimdee 9
+variables are sensitive to Satisfaction (ST) and are suitable
+for further analysis.
+From the modeling, the 2 was indicated to be 0.03, with
+a p value of .986 and RMSEA of 0.000 which indicates a
+good fit with the model. This ensures that the observed vari-
+ables are sensitive to Satisfaction (ST) and are suitable for
+further analysis.
+Export Performance (EP)
+CFA of Export Performance (EP) in Figure 7 shows the fac-
+tors (EP1) Market Share, (EP2) Profitability, (EP3) Rapid
+Growth, (EP4) Sales Volume, (EP5) Strategic Position
+Growth, (EP6) Satisfied Performance, and (EP7) Global
+Competitiveness. From the modeling, the 2 was indicated to
+be 11.03, with a p value of .273 and RMSEA of 0.021 which
+indicates an acceptable fit with the model (Table 2). This
+ensures that the observed variables are sensitive to Export
+Performance (EP) and are suitable for further analysis.
+From the modeling, the 2 was indicated to be 6.43, with
+a p value of .490 and RMSEA of 0.000 which indicates a
+good fit with the model. This ensures that the observed vari-
+ables are sensitive to Export Performance (EP) and are suit-
+able for further analysis.
+Rasch (1980) evaluated 2 statistics as a way of evaluating
+fit of data to the model and indicated that a sample size of
+500 has a 5% range of 0.91 to 1.09. The 2 value of 302.04
+for the 109 degrees of freedom is insignificant. Thus, it could
+Figure 5. CFA for TR (value from completely standardized
+solution).
+Note. 2 = 11.03, p value = .273, and RMSEA = 0.021. CFA = confirmatory
+factor analysis; TR = Trust; RMSEA = root mean square error of
+approximation.
+Figure 6. CFA for ST (value from completely standardized
+solution).
+Note. 2 = 0.03, p value = .986, and RMSEA = 0.000. CFA = confirmatory
+factor analysis; ST = Satisfaction; RMSEA = root mean square error of
+approximation.
+Figure 7. CFA for EP (value from completely standardized
+solution).
+Note. 2 = 6.43, p value = .490, and RMSEA = 0.000. CFA = confirmatory
+factor analysis; EP = Export Performance; RMSEA = root mean square
+error of approximation.
+10 SAGE Open
+say the null hypothesis that the model presented in the article
+is a good fit with the data. The error statistics of RMSEA of
+0.015 confirm that the errors of fit in the covariance matrix
+are very low.
+The p value of .101 in Figure 8 is higher than .05, which
+shows that the criteria is a good fit with the empirical data
+and with each factors weight higher than 0.50 represents a
+latent recognition of the quality Perceived Quality to
+Perceived Price, Trust, Satisfaction which results in Export
+Performance in the construct validity of the variables and
+empirical variables that could explain the variance of latency
+as well. In addition, empirical variables enable to explain
+variances of observed variables ensuring suitability for SEM.
+SEM Results
+The SEM results (Figure 9) showed that all models meet the
+required criteria at 276.94 2 value, with 2/df (276.94/251) at
+1.10, p value at .13, goodness-of-fit index (GFI) at 0.96,
+adjusted goodness-of-fit index (AGFI) at 0.93, root mean
+residual (RMR) at 0.031, RMSEA at 0.014, and CN at
+542.74.
+According to Hooper, Coughlan, and Mullen (2008),
+items with low multiple R2 (less than .20) have been removed
+from the analysis as this is an indication of very high levels
+of error. This is confirmed by Hair et al. (2013) which indi-
+cated that R2 values should be higher than .25. From Table 3,
+GFI is indicated to be 0.96 which is the GFI. Traditionally,
+an omnibus cutoff point of 0.90 has been recommended for
+the GFI (Hooper et al., 2008). Values for the AGFI also
+ranged between 0 and 1, and it is generally accepted that
+values of 0.90 or greater (Figure 8) indicate well-fitting
+models (Hooper et al., 2008). The AGFI for the study in
+Table 3 is 0.96.
+Hypothesis Testing
+The results of the hypotheses testing are indicated in Table 4.
+Discussion and Conclusion
+Results from the study indicate perceived quality (PQ) has a
+positive and direct effect on trust (TR) which corresponds to
+research by Moliner (2009), Vesel and Zabkar (2010), Wang
+and Tsai (2014), and Chang et al. (2014). Indications also
+suggest that the higher perceived quality awareness is, the
+more trust a customer has. This requires Thai CBEs/OTOP
+handicraft and product exporters to focus on products with
+excellent quality while also meeting production standards
+that are suitable for customer needs, including durability and
+Table 2. Goodness-of-Fit Summary Results for the Structural
+Model.
+Evaluating the
+data­model fit Criteria Remarks
+CMIN- (2)  > 0.05 p value must be higher than
+.05
+p value the higher the
+better
+CMIN/df (relative 2) <3 CMIN/df value <3
+CMIN/df value = 0 shows
+appropriate fit
+GFI, AGFI >0.90 GFI, AGFI > 0.90
+GFI, AGFI ~ 1
+RMSEA <0.08 RMSEA < 0.08
+RMSEA = 0 shows
+appropriate fit
+Source. Adapted from Arbuckle (2013) and Hair et al. (2013).
+Note. GFI = goodness-of-fit index; AGFI = adjusted goodness-of-fit index;
+RMSEA = root mean square error of approximation; CMIN = minimum
+chi-square.
+Figure 8. Convergent model (value from completely
+standardized solution).
+Note. 2 = 302.04, p value = .101, and RMSEA = 0.015. PQ = Perceived
+Quality; PP = Perceived Price; TR = Trust; ST = Satisfaction; EP = Export
+Performance.
+Sitabutr and Pimdee 11
+good customer service. These factors highly influence a cus-
+tomer's trust.
+In addition, the results show that perceived quality (PQ)
+has a direct and positive impact on satisfaction (ST), which
+corresponds to research from e-study of Fornell et al. (1996),
+Anderson and Fornell (2000), Bei and Chiao (2001), Tsiotsou
+(2005), Türkyilmaz and Özkan (2007), Vesel and Zabkar
+(2010), and Tohidinia and Haghighi (2011). This higher con-
+sumer awareness translates into higher satisfaction which
+means that exporters should focus on products with excellent
+quality that meet production standards, and are suitable to
+customer needs. Furthermore, products should be durable
+and maintained through an excellent product service system.
+These factors all have a significant influence over a custom-
+er's purchasing decision.
+Furthermore, the study showed that perceived price (PP)
+has a direct and positive impact on satisfaction (ST) corre-
+sponding to studies conducted by Bei and Chiao (2001),
+Moliner (2009), Dai (2010), and Rijkers (2014). This
+explains that the greater export customer price awareness
+is, the higher satisfaction they have. Hence, the Thai export-
+ers' customers expect reasonable and fair prices which are
+competitive. There is also an indirect, positive factor from
+the results which show that satisfaction (ST) delivered
+through higher price awareness affects satisfaction (ST)
+through trust (TR).
+Perceived price (PP) was also shown to have both a direct
+and positive impact on trust (TR) which was validated in pre-
+vious studies from Moliner (2009), Wang and Tsai (2014),
+and Valvi and West (2013). This proves that the higher export
+customer pricing awareness is, the more likely they are to
+trust the exporter. Hence, Thai exporters should ensure that
+their products have reasonable and fair pricing which is
+acceptable and competitive and corresponds to market trends
+to promote trust among their customers.
+Perceived quality (PQ) was also shown to have a direct and
+positive impact on export performance (EP) corresponding to
+studies conducted by Brown (2003), Agus and Hajinoor
+(2012), Laosirihongthong et al. (2013), and Laosirihongthong
+et al. (2013). This shows that quality awareness is an impor-
+tant element for export growth. The analysis emphasizes that
+Thai exporters need to promote high-quality products which
+are suitable to their customer's needs. The products must also
+be durable and serviced with excellent customer services.
+These factors are all important to Thai export performance
+(EP).
+Trust (TR) was also shown to have a direct and positive
+impact on satisfaction (ST) which corresponded to previous
+studies from Jin et al. (2007); Sanayei, Shaemi, and Jamshidi
+(2011); Chang (2012); Chen et al. (2008); Lin (2013);
+Alsajjan (2014); and Rijkers (2014). Trust (TR) therefore
+promotes customer satisfaction (ST), and focus needs to be
+given on products that have good marketing potential, have
+excellent quality, and are suitable to customer's needs. Thai
+OTOP exporter's goals should be focused on promoting cus-
+tomer satisfaction (ST) with both production and service,
+which leads to better export performance (EP). In addition,
+Thai exporters should promote satisfaction with purchasing
+decisions, provide products suitable to consumer's needs,
+and ensure overall customer satisfaction (ST) to enhance
+their export performance (EP).
+In addition, trust (TR) influences directly and positively
+export performance (EP) which is similar to results of studies
+conducted by Lo (2003), and Brencic et al. (2008) which
+shows that trust (TR) influences export performance (EP)
+with the greater a customer trusting the exporter, the higher
+the export performance (EP) value becomes. As such, Thai
+exporters should focus on high-quality, marketable products.
+Trust (TR) leads to purchasing contracts, which leads to bet-
+ter export performance (EP).
+In addition, Satisfaction (ST) has a direct and positive
+impact on export performance (EP) as indicated in studies
+conducted by Ural (2009). As satisfaction (ST) levels
+increase, the greater the positive impact on export perfor-
+mance (EP). Thus, Thai exporters should aim to promote
+product and service satisfaction. In addition, exporters
+should help with their customers' purchasing decision by
+providing products suitable to their customers' needs while
+ensuring overall customer satisfaction.
+Implications
+1. Export sector success depends on properly designing
+production to meet the needs and growth of custom-
+ers which assures the exporters' strategic strength.
+2. To achieve this goal, marketable products with clear
+and proper positioning must be realized.
+3. The most significant factor affecting export perfor-
+mance is customer satisfaction which includes main-
+taining proper production levels while maintaining
+high perceived quality which is also a significant
+factor.
+Figure 9. Final model with values from estimates.
+Note. 2 = 276.94, 2/df = 1.10, p value = .13, GFI = 0.96, AGFI = 0.93,
+RMR = 0.031, RMSEA = 0.014, and CN = 542.74. GFI = goodness-of-fit
+index; AGFI = adjusted goodness-of-fit index; RMSEA = root mean square
+error of approximation.
+*p < .05. **p < .01.
+12 SAGE Open
+4. Perceived quality involves product durability, prod-
+uct quality, and meeting product standards.
+5. Trust must be maintained between the customer and
+the exporter, with the customer­trusting in the qual-
+ity of the deliverables, the contracts, the scheduling,
+and the production quotas.
+6. Perceived Price is significant in that it must be com-
+petitive, follows market trends, and is reasonable and
+acceptable. As such, the exporters should monitor
+their customer's satisfaction periodically.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+Funding
+The author(s) received no financial support for the research and/or
+authorship of this article.
+References
+Aaby, N. E., & Slater, S. F. (1989). Management influences on
+export performance: A review of the empirical literature 1978-
+1988. International Marketing Review, 6(4), 7-25. doi:10.1108/
+EUM0000000001516
+Aaker, D. A. (1991). Managing brand equity: Capitalizing on the
+value of a brand name. New York, NY: Free Press.
+Abu-Jarad, I. Y., Yusof, N. A., & Nikbin, D. (2010). A review
+paper on organizational culture and organizational perfor-
+mance. International Journal of Business and Social Science,
+1(3), 26-46. Retrieved from http://tinyurl.com/hpgk2ro
+Agus, A., & Hajinoor, M. S. (2012). Lean production supply chain
+management as driver towards enhancing product quality and
+business performance: Case study of manufacturing companies
+in Malaysia. International Journal of Quality & Reliability
+Management, 29, 92-121. doi:10.1108/02656711211190891
+Albright, J. J., & Park, H. M. (2009). Confirmatory factor analy-
+sis using Amos, LISREL, Mplus, SAS/STAT CALIS*. Retrieved
+from http://tinyurl.com/hp6xmhk
+Alsajjan, B. A. (2014). Satisfaction-trust model: Developing cus-
+tomer satisfaction and trust indices for mobile service providers
+Table 4. Hypothesis Testing Results.
+Hypotheses Results
+H1: Perceived Quality (PQ) has a direct and positive impact on Trust (TR) Accepted
+H2: Perceived Quality (PQ) has a direct and positive impact on Satisfaction (ST) as well as an indirect
+and positive impact on Satisfaction (ST) through Trust (TR)
+Rejected
+H3: Perceived Price (PP) has a direct and positive impact on Satisfaction (ST) as well as an indirect
+but positive impact on Satisfaction (ST) through Trust (TR)
+Accepted
+H4: Perceived Price (PP) has a direct and positive impact on Trust (TR) Accepted
+H5: Perceived Quality (PQ) has a direct and positive impact on Export Performance (EP) as well as an
+indirect and positive impact on Export Performance (EP) through Trust (TR) and Satisfaction (ST)
+Rejected
+H6: Trust (TR) has a direct and positive impact on Satisfaction (ST) Accepted
+H7: Trust (TR) has a direct and positive impact on Export Performance (EP) as well as an indirect ans
+positive impact on Export Performance (EP) through Satisfaction (ST)
+Rejected
+H8: Satisfaction (ST) has a direct and positive impact on Export Performance (EP) Accepted
+Table 3. Structural Equation Modeling Results.
+Dependent
+variables R2 Effect
+Independent variables
+PQ PP TR ST
+Export
+Performance
+.61 DE 0.30** (0.08) -- 0.19* (0.09) 0.41** (0.07)
+IE 0.14 (0.09) -- 0.09 (0.05) --
+TE 0.44* (0.10) -- 0.28** (0.09) 0.41** (0.07)
+Satisfaction .58 DE 0.53** (0.18) 0.88** (0.20) 0.23* (0.11) --
+IE 0.06 (0.05) 0.03* (0.06) -- --
+TE 0.59* (0.18) 0.91** (0.20) -- --
+Trust .82 DE 0.29** (0.11) 0.59** (0.11) -- --
+IE -- -- -- --
+TE 0.29** (0.11) 0.59** (0.11) -- --
+Note. 2 = 276.94, 2/df (276.94/251) = 1.10, p value = .13, GFI = 0.96, AGFI = 0.93, RMR = 0.031, RMSEA = 0.014, and CN = 542.74. Values in
+parentheses are standard errors. DE = direct effect; IE = indirect effect; TE = total effect, values are estimated; GFI = goodness-of-fit index; AGFI =
+adjusted goodness-of-fit index; RMSEA = root mean square error of approximation.
+*p < .05. **p < .01.
+Sitabutr and Pimdee 13
+in the UK. International Review of Management and Business
+Research, 3, 1088-1104. Retrieved from http://tinyurl.com/jty-
+a9eh
+Anderson, E. W., & Fornell, C. (2000). Foundations of the American
+Customer Satisfaction Index. Total Quality Management, 11,
+869-882. doi:10.1080/09544120050135425
+Arbuckle, J. L. (2013). IBM SPSS Amos 22 user's guide. Chicago,
+IL: SPSS. Retrieved from http://tinyurl.com/h44hf55
+Asia-Pacific Economic Cooperation. (2003, August 7-8).
+Strengthening an APEC entrepreneurial society. Joint ministe-
+rial statement­APEC small and medium enterprise ministerial
+meeting. Chiang Mai, Thailand. Retrieved from http://tinyurl.
+com/hrmbulb
+Ayan, T. Y., & Percin, S. (2005). A structural analysis of the
+determinants of export performance: Evidence from Turkey.
+Innovative Marketing, 1, 106-120. Retrieved from http://
+tinyurl.com/z589ofk
+Bartlett, W. J., & Bukvi, V. (2001). Barriers to SME growth in
+Slovenia. MOCT-MOST: Economic Policy in Transitional
+Economies, 11, 177-195. doi:10.1023/A:1012206414785
+Bei, L. T., & Chiao, Y. C. (2001). An integrated model for the
+effects of perceived product, perceived service quality, and
+perceived price fairness on consumer satisfaction and loy-
+alty. Journal of Consumer Satisfaction, Dissatisfaction and
+Complaining Behavior, 14, 125-140. Retrieved from http://
+tinyurl.com/h43zkno
+Beleska-Spasova, E. (2014). Determinants and measure of export
+performance--Comprehensive literature review. Journal
+of Contemporary Economic and Business Issues, 1, 63-74.
+Retrieved from http://tinyurl.com/gqjsvmt
+Bilkey, W. J. (1978). An attempted integration of the literature on
+the export behavior of firms. Journal of International Business
+Studies, 9, 33-46. Retrieved from http://tinyurl.com/hcd657f
+Brencic, M. M., Ekar, A., & Virant, V. (2008). The influence of
+relationship marketing components on export performance: A
+comparison of transitional vs. established markets. Original
+Scientific Papers, 54, 9-18. Retrieved from http://tinyurl.com/
+zu5eb9c
+Brown, G. K. (2003). Dissertation abstracts international
+(Unpublished doctoral thesis, Thammasat University,
+Bangkok, Thailand). Retrieved from http://catalogue.nla.gov.
+au/Record/3416961
+Byrne, B. M., Shavelson, R. J., & Muthén, B. (1989). Testing for the
+equivalence of factor covariance and mean structures: The issue
+of partial measurement invariance. Psychological Bulletin, 105,
+456-466. Retrieved from http://tinyurl.com/jjxcxb6
+Calvo-Porral, C., & Lévy-Mangin, J. P. (2015). Switching behavior
+and customer satisfaction in mobile services: Analyzing virtual
+and traditional operators. Computers in Human Behavior, 49,
+532-540. doi:10.1016/j.chb.2015.03.057
+Carneiro, J., da Rocha, A., & da Silva, J. F. (2007). A critical analy-
+sis of measurement models of export performance. BAR--
+Brazilian Administration Review, 4(2), 1-19. doi:10.1590/
+S1807-76922007000200002
+Cavusgil, S. T., & Zou, S. (1994). Marketing strategy-performance
+relationship: An investigation of the empirical link in export
+market ventures. Journal of Marketing, 58(1), 1-21.
+Chang, K. C., Kuo, N. T., Hsu, C. L., & Cheng, Y. S. (2014). The
+impact of website quality and perceived trust on customer pur-
+chase intention in the hotel sector: Website brand and perceived
+value as moderators. International Journal of Innovation,
+Management and Technology, 5, 255-260. Retrieved from
+http://tinyurl.com/hfovk8g
+Chang, K.-C. (2012). How reputation creates loyalty in the
+restaurant sector. International Journal of Contemporary
+Hospitality Management, 25, 536-557. doi:10.1108/
+09596111311322916
+Changsorn, P. (2015, March 28). 3 categories seen as rising stars for
+Otop exports. The Nation. Retrieved from http://tinyurl.com/
+zmwmmfw
+Chen, F., Curran, P. J., Bollen, K. A., Kirby, J., & Paxton, P.
+(2008). An empirical evaluation of the use of fixed cut-
+off points in RMSEA test statistic in structural equation
+models. Sociological Methods & Research, 36, 462-494.
+doi:10.1177/0049124108314720
+Cronbach, L. J. (1951). Coefficient alpha and the international
+structure of tests. Psychometrika, 16, 297-334. Retrieved from
+http://tinyurl.com/gtfuvqg
+Dai, B. (2010). The impact of perceived price fairness of dynamic
+pricing on customer satisfaction and behavioral intentions:
+The moderating role of customer loyalty (Unpublished doctoral
+dissertation, Auburn University, Auburn, AL). Retrieved from
+https://etd.auburn.edu/handle/10415/2217?show=full
+Dodds, W. B., Monroe, K. B., & Grewal, D. (1991). Effects
+of price, brand, and store information on buyers' product
+evaluations. Journal of Marketing Research, 28, 307-319.
+doi:10.2307/3172866
+Foreign Office, Office of the Prime Minister. (2016). Government
+offers assistance to SMEs and OTOP operators [Press Release].
+Retrieved from http://tinyurl.com/z9sdure
+Fornell, C., Johnson, M. D., Anderson, E. W., Cha, J., & Bryant, B.
+E. (1996). The American customer satisfaction index: Nature,
+purpose, and findings. Journal of Marketing, 60(4), 7-18.
+Retrieved from http://tinyurl.com/jxklfs6
+Government cooperates with Thai Airways to sell OTOP products.
+(2016, May 15). Government cooperates with Thai Airways
+to sell OTOP products. National News Bureau of Thailand.
+Retrieved from http://tinyurl.com/jypj5qc
+Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2013). A
+primer on partial least squares structural equation modeling
+(PLS-SEM). Thousand Oaks, CA: SAGE.
+Haraguchi, N. (2008). The One-Village-One-Product (OVOP)
+movement: What it is, how it has been replicated, and recom-
+mendations for a UNIDO OVOP-type project. United Nations
+Industrial Development Organization (UNIDO). Retrieved
+from http://tinyurl.com/z6emv6a
+Hill, C. W. L., Jones, G. R., & Schilling, M. A. (2015). Strategic
+management: Theory & cases: An integrated approach (12th
+ed.). Cengage Learning. ISBN-10: 1305502337 | ISBN-13:
+9781305502338.
+Hirohata, N. (2013). One Village One Product movement in
+Laos. International Journal of Engineering Innovation and
+Management, 3, 31-35. Retrieved from http://tinyurl.com/
+zfac866
+Hooper, D., Coughlan, J., & Mullen, M. (2008). Structural equation
+modelling: Guidelines for determining model fit. Electronic
+Journal of Business Research Methods, 6, 53-60. Retrieved
+from http://tinyurl.com/zyd6od2
+Hörstemeier, A. (2013). How many tambon are there in Thailand?
+Retrieved from http://tinyurl.com/z9bg768
+14 SAGE Open
+Hox, J. J., & Bechger, T. M. (1998). An introduction to structural
+equation modeling. Family Science Review, 11, 354-373.
+Retrieved from http://tinyurl.com/ht6w8pe
+Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria for fit indexes
+in covariance structure analysis: Conventional criteria ver-
+sus new alternatives. Structural Equation Modeling, 6, 1-55.
+doi:10.1080/10705519909540118
+Israel, G. D. (1992). Determining sample size (Fact sheet PEOD-6).
+Retrieved from http://tinyurl.com/gvun8cb
+Jin, B., Park, J. Y., & Kim, J. (2007). Cross-cultural examination of
+the relationships among firm reputation, e-satisfaction, e-trust,
+and e-loyalty. International Marketing Review, 25, 324-337.
+doi:10.1108/02651330810877243
+Julian, C. C. (2003). Export marketing performance: A study of
+Thailand firms. Journal of Small Business Management, 41,
+213-221. doi:10.1111/1540-627X.00077. Retrieved from
+http://tinyurl.com/jhljbe6
+Keengwe, J., Onchwari, G., & Wachira, P. (2008). Computer tech-
+nology integration and student learning: Barriers and promise.
+Journal of Science Education and Technology, 17, 560-570.
+doi:10.1007/s10956-008-9123-5
+Kline, R. B. (1998). Principles and practice of structural equation
+modeling. New York, NY: Guilford Press.
+Know Global-Build Local fair helps Thai OTOP entrepreneurs
+reach the global market. (2015, June 5). National News Bureau
+of Thailand. Retrieved from http://tinyurl.com/hvw6rf3
+Krejcie, R. V., & Morgan, D. W. (1970). Determining sample
+size for research activities. Educational and Psychological
+Measurement, 30, 607-610. Retrieved from http://tinyurl.com/
+zpzqmo6
+Krosnick, J. A., & Presser, S. (2009). Question and questionnaire
+design. In J. D. Wright & P. V. Marsden (Eds.), Handbook of
+survey research (2nd ed.). San Diego, CA: Elsevier. Retrieved
+from http://tinyurl.com/jd6ztou
+Kurokawa, K. (2009). Effectiveness and limitations of the "One
+Village One Product" (OVOP) approach as a government-led
+development policy: Evidence from Thai "One Tambon One
+Product" (OTOP). Studies in Regional Science, 39, 977-989.
+Kurokawa, K. (2010). Food education as a regional development
+policy for all: With implications from community develop-
+ment in Japan and Thailand. Australasian Journal of Regional
+Studies, 16, 61-80.
+Laosirihongthong, T., Teh, P.-L., & Adebanjo, D. (2013). Revisiting
+quality management and performance. Industrial Management &
+Data Systems, 113, 990-1006. doi:10.1108/IMDS-02-2013-0058
+Leonidou, L. C. (2004). An analysis of the barriers hinder-
+ing small business export development. Journal of Small
+Business Management, 42, 279-302. doi:10.1111/j.1540-
+627X.2004.00112.x
+Leonidou, L. C., Katsikeas, C. S., & Samieec, S. (2002). Marketing
+strategy determinants of export performance: A meta-analysis.
+Journal of Business Research, 55, 51-67. doi:10.1016/S0148-
+2963(00)00133-8
+Lin, P.-H. (2013). Shopping motivations on the Internet: An empiri-
+cal study of trust, satisfaction and loyalty. International Journal
+of Electronic Business Management, 11, 238-246. Retrieved
+from http://tinyurl.com/h2okcao
+Lo, C. Y. (2003). E-Business marketing on relationship manage-
+ment models an empirical study in Taiwan (China) (Doctoral
+thesis). Retrieved from http://tinyurl.com/j24tkk5
+Madsen, T. (1987). Empirical export performance studies: A
+review of conceptualizations and findings. In S. T. Cavusgil
+(Ed.), Advances in international marketing (Vol. 2, pp. 177-
+198). Greenwich, CT: JAI Press.
+Magistris, T. D., & Gracia, A. (2008). The decision to buy organic
+food products in Southern Italy. British Food Journal, 110,
+929-847.
+Mass Communication Organization of Thailand. (2013, April 5).
+OTOP trading value grows 80% in a decade [Press Release].
+Retrieved from http://tinyurl.com/h4z79vl
+Moha-Asri, A. (2002). The impact of the Asian financial crisis on
+small and medium enterprises in Malaysia: Policy responses.
+Journal of Comparative Asian Development, 1, 227-244. doi:
+10.1080/15339114.2002.9678361
+Moliner, M. A. (2009). Loyalty, perceived value and relationship
+quality in healthcare services. Journal of Service Management,
+20(1), 76-97. doi:10.1108/09564230910936869
+Natsuda, K., Wiboonpongse, A., Cheamuangphan, A., Shingkharat,
+S., & Thoburn, J. (2011). One village one product--Rural
+development strategy in Asia: The case of OTOP in Thailand
+(RCAPS Working Paper No. 11). Retrieved from http://tinyurl.
+com/z5kevlw
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric theory (3rd
+ed.). New York: McGraw-Hill.
+Ogunmokun, G., & Ng, S. (2004). Factors influencing export per-
+formance in international marketing: A study of Australian
+firms. International Journal of Management, 21, 172-185.
+Retrieved from http://tinyurl.com/jxyu6sn
+OTOP fairs generate 2 billion baht in first six months. (2015, July
+6). National News Bureau of Thailand. Retrieved from http://
+tinyurl.com/zv79n7e
+Piriyakul, M., & Wingwon, B. (2011). Societal activity of corporate
+social responsibility as a moderating factor of brand loyalty in
+the ceramic industry. Contemporary Marketing Review, 1(3),
+12-25. Retrieved from http://tinyurl.com/hxcngta
+Pope, R. A. (2002). Why small firms export: Another look. Journal
+of Small Business Management, 40, 17-26. doi:10.1111/1540-
+627X.00035
+Prayukvong, W. (2007). A Buddhist economic approach to hap-
+piness & capability linkage in OTOP craftsmen in Southern
+Thailand. Kasetsart Journal of Social Sciences, 28, 161-176.
+Retrieved from http://tinyurl.com/z4y4rjq
+Ramon Magsaysay Award Foundation. (2016). Hiramatsu,
+Morihiko. Retrieved from http://tinyurl.com/j9494n7
+Rasch, G. (1980). Probabilistic models for some intelligence and
+attainment tests. Chicago, IL: University of Chicago Press.
+Rijkers, R. J. D. (2014). The influence of company image, trust
+and price on satisfaction and intensity of repurchase at the
+large retail businesses in Makassar, South Sulawesi Indonesia.
+International Journal of Business and Behavioral Sciences,
+4(12), 1-17. Retrieved from http://tinyurl.com/jdtg9xd
+Sanayei, A., Shaemi, A., & Jamshidi, H. (2011). An analysis of
+the factors affecting customers satisfaction and trust in mobile
+banking (Case study: Branches of Bank Mellat in Isfahan).
+Interdisciplinary Journal of Contemporary Research in
+Business, 3, 440-452. Retrieved from http://tinyurl.com/
+jpqdjq3
+Schumacker, R. E., & Lomax, R. G. (2004). A beginner's guide
+to structural equation modeling. Mahwah, NJ: Lawrence
+Erlbaum. Retrieved from http://tinyurl.com/z2sdwtr
+Sitabutr and Pimdee 15
+Sinkula, J. M. (1994). Market information processing and organiza-
+tional learning. Journal of Marketing, 58(1), 35-45. Retrieved
+from http://tinyurl.com/jer78fh
+Sousa, C. M. P. (2004). Export performance measurement: An
+evaluation of the empirical research in the literature. Academy
+of Marketing Science Review, 1. Retrieved from http://tinyurl.
+com/hubpu8z
+Stuart,F.L.,Verville,J.,&Taskin,N.(2011).Trustinbuyer-supplier
+relationships: Supplier competency, interpersonal relationships
+and performance outcomes. Journal of Enterprise Information
+Management, 25, 392-412. doi:10.1108/17410391211245856.
+Retrieved from http://tinyurl.com/hv36v29
+Styles, C. (1998). Export performance measures in Australia and
+the United Kingdom. Journal of International Marketing, 6(3),
+12-36. Retrieved from http://www.jstor.org/stable/25048738
+Styles, C., & Ambler, T. (1994). Successful export practice: The
+UK experience. International Marketing Review, 11(6), 23-47.
+doi:10.1108/02651339410072999
+Suindramedhi, S. (2016). The development of community enter-
+prise: A case study of Moku Moku farm in Mie prefecture.
+Rangsit Journal of Social Sciences and Humanities, 3(1), 33-
+48. Retrieved from http://tinyurl.com/jzhzmhs
+Thu, N. T. A. (2013). One Village One Product (OVOP) in Japan
+to One Tambon One Product (OTOP) in Thailand: Lessons for
+grass root development in developing countries. Journal of
+Social and Development Sciences, 4, 529-537. Retrieved from
+http://tinyurl.com/h9bbdew
+Tock, J. M., & Baharun, R. (2013). Introduction to SMEs in
+Malaysia: Growth potential and branding strategy. World
+Journal of Social Sciences, 3(6), 189-203. Retrieved from
+http://eprints.utm.my/40455/
+Tohidinia, Z., & Haghighi, M. (2011). Predictors and out-
+comes of relationship quality: A guide for customer-ori-
+ented strategies. Business Strategy Series, 12, 242-256.
+doi:10.1108/17515631111166889
+Tsiotsou, R. (2005). The role of perceived product quality and over-
+all satisfaction on purchase intentions. International Journal of
+Consumer Studies, 30, 207-217. Retrieved from http://tinyurl.
+com/jfl8t6y
+Türkyilmaz, A., & Özkan, C. (2007). Development of a customer
+satisfaction index model: An application to the Turkish mobile
+phone sector. Industrial Management & Data Systems, 107,
+672-687. doi:10.1108/02635570710750426
+Ullman, J. B. (2001). Structural equation modeling. In B. G.
+Tabachnick & L. S. Fidell (Eds.), Using multivariate statistics
+(4th ed.). Needham Heights, MA: Allyn & Bacon.
+Ural, T. (2009).The effects of relationship quality on export per-
+formance. European Journal of Marketing, 43, 139-168.
+doi:10.1108/03090560910923274
+Valvi, A. C., & West, D. C. (2013). E-loyalty is not all about trust,
+price also matters: Extending expectation-confirmation the-
+ory in bookselling websites. Journal of Electronic Commerce
+Research, 14, 99-123. Retrieved from http://tinyurl.com/hovdxth
+Vesel, P., & Zabkar, V. (2010). Comprehension of relationship
+quality in the retail environment. Managing Service Quality,
+20, 213-235. doi:10.1108/09604521011041952
+Voerman, L. (2003). The export performance of European SMEs.
+Alblasserdam, The Netherlands: Labyrint. Retrieved from
+http://tinyurl.com/jrk8cun
+Wang, E. S.-T., & Tsai, B.-K. (2014). Consumer response to retail
+performance of organic food retailers. British Food Journal,
+116, 212-227. doi:10.1108/BFJ-05-2012-0123
+Wong, K. K-K. (2013). Partial least squares structural equation
+modeling (PLS-SEM) techniques using SmartPLS. Marketing
+Bulletin, 24. Retrieved from http://tinyurl.com/j2qjdyr
+The World Bank. (2010). Innovation policy: A guide for develop-
+ing countries. Washington, DC. Retrieved from http://tinyurl.
+com/hm84tt6
+Yamane, T. K.-K. (1967). Statistics: An introductory analysis (2nd
+ed.). New York, NY: Harper and Row.
+Zou, S., & Stan, S. (1998). The determinants of export perfor-
+mance: A review of the empirical literature between 1987
+and 1997. International Marketing Review, 15, 333-356.
+doi:10.1108/02651339810236290
+Zou, S., Taylor, C. R., & Osland, G. E. (1998). The EXPERF
+Scale: A cross-national generalized export performance mea-
+sure. Journal of International Marketing, 6(3). Retrieved from
+http://tinyurl.com/hm552tr
+Author Biographies
+Vipada Sitabutr is a doctoral candidate with the Faculty of
+Industrial Education at the King Mongkut's Institute of Technology
+Ladkrabang (KMITL).
+Paitoon Pimdee is an associate professor with the Faculty of
+Industrial Education at the King Mongkut's Institute of Technology
+Ladkrabang (KMITL). He also serves has the faculty head of the
+PhD program. He graduated with a Bachelor of Arts in Economics
+and a Master of Science (MSc) degree in science education. He also
+holds a PhD in environmental education and behavioral sciences
+and specializes in environmental issues, energy conservation. and
+ecotourism.
+

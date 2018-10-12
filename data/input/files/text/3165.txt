@@ -1,0 +1,2171 @@
+Discussion Paper
+Deutsche Bundesbank
+No 41/2014
+Unconventional monetary policy
+in an open economy
+Jana Gieck
+(International Monetary Fund)
+Discussion Papers represent the authors` personal opinions and do not
+necessarily reflect the views of the Deutsche Bundesbank or its staff.
+Editorial Board: Daniel Foos
+Thomas Kick
+Jochen Mankart
+Christoph Memmel
+Panagiota Tzamourani
+Deutsche Bundesbank, Wilhelm-Epstein-Straße 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-0
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978­3­95729­102­8 (Printversion)
+ISBN 978­3­95729­103­5 (Internetversion)
+Non-technical summary
+Research Question
+In empirical discussions of unconventional monetary policy, one controversial issue is the
+behavior of the exchange rate with no clear results. Theoretical papers addressing this topic,
+cannot be used as guidance either as they are usually lacking the analysis of the exchange rate.
+To address this gap in literature, I develop a two-country open economy model which allows me
+to not only look at the impact of unconventional measures on the exchange rate but also on the
+policy coordination of unconventional measures between central banks.
+Contribution
+In this paper, I implement an interbank market consisting of two banks (a savings and a lending
+bank) as seen in de Walque et al. (2009) into a two-country economy framework similar to Faia
+(2005, 2008). Moreover, I model two different unconventional measures which were commonly
+used during the crisis: central bank liquidity injections and asset swaps. This model setup allows
+for a meaningful analysis of the impact of unconventional measures on the exchange rate by
+capturing the transmission of unconventional measures from bank balance sheets to the
+economy.
+Results
+The results show that, different unconventional measures have different implications on the
+exchange rate. While liquidity injections appreciate the domestic exchange rate in the short run,
+they lead to a mild depreciation in the long run. Asset swaps on the contrary, cause a short run
+depreciation but lead to a long run appreciation of the currency. As regards the coordination of
+unconventional monetary policy, results show that if central banks do not coordinate liquidity
+injections, they lead to higher increases in GDP but also to higher fluctuations in inflation in the
+domestic economy, while the other economy will be negatively affected through a decline in
+economic growth. In contrary, when central banks coordinate asset swaps, it leads to higher
+GDP growth and lower fluctuations in inflation in both countries. The results of this paper
+suggest that the impact of unconventional measures on the exchange rate is not uniform and
+depends crucially on the choice of instrument. The same is true for policy coordination.
+Nicht-technische Zusammenfassung
+Fragestellung
+Ein umstrittenes Thema in der empirischen Diskussion der unkonventionellen Geldpolitik ist
+das Verhalten des Wechselkurses, mit keinem klaren Ergebnis. Theoretische Arbeiten, die sich
+mit diesem Thema befassen, können nicht zu Rate gezogen werden, da die Analyse des
+Wechselkurses in diesen Arbeiten meist gänzlich fehlt. Um diese Literaturlücke zu schließen,
+entwickle ich ein Zwei-Länder-Modell, das mir nicht nur erlaubt die Auswirkungen der
+unkonventionellen Geldpolitik auf den Wechselkurs von einem theoretischen Standpunkt aus zu
+betrachten, sondern auch die Koordination der unkonventionellen Geldpolitik zwischen
+Zentralbanken.
+Beitrag
+In diesem Papier, implementiere ich einen Interbankenmarkt, bestehend aus zwei Banken (eine
+Spar- und eine Kreditbank), wie gesehen in de Walque et al. (2009), in ein Zwei-Länder-Modell
+ähnlich wie in Faia (2005, 2008). Außerdem modelliere ich zwei verschiedene unkonventionelle
+Maßnahmen, die während der Krise häufig verwendet wurden: Liquiditätsspritzen und Asset-
+Swaps. Dieses Modell ermöglicht eine aussagekräftige Analyse der Wirkung von
+unkonventioneller Geldpolitik auf den Wechselkurs, dadurch dass es die Übertragung von
+unkonventionellen geldpolitischen Maßnahmen von den Banken auf die Wirtschaft erfasst.
+Ergebnisse
+Die Ergebnisse zeigen, dass verschiedene unkonventionelle Maßnahmen unterschiedliche
+Auswirkungen auf den Wechselkurs haben. Während Liquiditätsspritzen, die heimische
+Währung kurzzeitig stärken, führen sie auf langer Sicht zu einer milden Abwertung. Im
+Kontrast dazu führen Asset-Swaps zu einer kurzfristigen Abwertung aber auf langer Sicht
+stärken sie die heimische Währung. Mit Bezug auf die Koordinierung unkonventioneller
+Geldpolitik zeigen die Ergebnisse, dass wenn Zentralbanken den Einsatz von Liquiditätsspritzen
+nicht koordinieren, diese zu einem höheren Anstieg des heimischen BIP führen, aber auch zu
+einer höheren Schwankung der Inflationsrate, während die andere Wirtschaft negativ beeinflusst
+wird durch den Rückgang des Wirtschaftswachstums. Im Gegenteil dazu stehen Asset-Swaps,
+wenn Zentralbanken diese koordinieren, führt dies zu höherem BIP-Wachstum und geringeren
+Schwankungen in der Inflationsrate in beiden Ländern. Die Ergebnisse dieser Arbeit deuten
+darauf hin, dass die Auswirkungen der unkonventionellen Geldpolitik auf dem Wechselkurs
+nicht einheitlich sind und entscheidend von der Wahl des Instruments abhängen. Das Gleiche
+gilt für die Koordinierung der unkonventionellen Geldpolitik.
+Unconventional Monetary Policy in an Open Economy
+Jana Gieck
+International Monetary Fund
+Abstract
+The impact of unconventional monetary policies on exchange rates and its spillovers to
+other economies is not yet fully understood. In this paper I develop a two-country DSGE
+model with interbank markets and endogenous default probabilities to analyze the cross-border
+impacts of unconventional monetary policy. I examine the impact of two unconventional mea-
+sures commonly used: central bank liquidity injections and asset swaps. I find that liquidity
+injections lead to a short run appreciation of domestic currency, but a mild long run deprecia-
+tion. In contrast, asset swaps cause a short run depreciation of domestic currency, but a long
+run appreciation. Lastly, when both countries coordinate on the implementation of unconven-
+tional policies, the model yields the following results: Non-coordinated liquidity injections lead
+to higher increases with respect to output and inflation variation, but have negative spillovers
+on the other economy in terms of lower growth. By contrast, coordinating asset swaps leads to
+higher increases in output and lower fluctuation in inflation in both countries. The results of
+this paper suggest that coordination in unconventional monetary policy may not always yield
+an optimal outcome, and macroeconomic outcomes in both countries depend crucially on the
+choice of instrument.
+JEL classification: E02; E44; E52; G21; G28
+Keywords: Unconventional Monetary Policy, Quantitative Easing; Asset Swaps; Open Economy
+DSGE; Currency Wars; Policy Coordination
+Interbank Model; Nominal Rigidities
+I would like to thank Ester Faia, Michael Binder, Stefan Ried, Heinz Herrmann, Jan Krahnen, Volker Wieland,
+Michael Krause, Aaron Bricco, Ruchir Agarwal, Josef Hollmayr and participants of Deutsche Bundesbank seminar
+series for useful comments and suggestions. The paper represents the authors personal opinions and does not
+necessarily reflect the official views or policies of the Deutsche Bundesbank or International Monetary Fund.
+JGieck@imf.org
+Bundesbank Discussion Paper No 41/2014
+1 Introduction
+The severe negative impact of the 2007-09 financial crisis on the global economy has brought
+monetary authorities to the limits of their policies. Central banks all over the world had to apply
+unprecedented measures after their conventional tools, such as decreasing the interest rate, became
+ineffective when reaching the zero lower bound. In this process, central banks used very different
+approaches. For instance, in December 2008 the Federal Reserve (Fed) intervened aggressively into
+financial markets, within its framework of its quantitative easing program (QE1), by purchasing
+up to USD 1350 billion (9.4% of GDP) in mortgage-backed securities. The ECB and other central
+banks responded to the default of Lehman Brothers by providing EUR70 billion (0.7% of Euro zone
+GDP) to the interbank market, while Bank of Japan provided JPY 5 billion (0.001% of GDP) and
+Bank of England GBP 20 billion (1.4% of GDP). The use of unconventional measures continued
+even after the financial crisis. In September 2012 the ECB announced outright purchases of gov-
+ernment bonds to address a "malfunction in the monetary transmission mechanism". Shortly after
+ECB's announcement, the Fed confirmed a third round of quantitative easing (QE3) to support
+stronger economic recovery. Japan turned to aggressive quantitative easing measures paired with
+increased government spending which are also known as "Abenomics" named after Shinzo Abe,
+the current Prime Minister, who took over office in December 2012.
+While these unconventional measures are generally viewed as helpful to the economy where they
+are applied, some foreign country representatives strongly criticize their use. For example, in Octo-
+ber 2010 China's trade minister, Chen Deming, argued that the Fed's second round of quantitative
+easing would depreciate the value of the US Dollar causing an imported inflationary shock for
+China. The finance minister of Brazil, Guido Mantega, associated the situation to an "interna-
+tional currency war". This critical perception of unconventional measures contrast with the joint
+cooperation of several central banks in November 2011, where the European Central Bank, the Fed-
+eral Reserve, the Bank of Canada, the Bank of England, the Bank of Japan, and the Swiss National
+Bank coordinately supplied liquidity to global financial markets to ease frictions on credit supply.
+These divergent views on the effect of unconventional monetary policy (UMP) lead to several ques-
+tions. Do unconventional measures actually lead to a depreciation of the exchange rate? And if
+so, which of the various measures cause a devaluation of domestic currency? Does central bank
+coordination in unconventional monetary policy amplify spillovers or do they cancel each other out?
+Concerning the empirical strand of literature, there are several papers which examine the im-
+pact of unconventional measures on the exchange rate. However, these studies partly contradict
+each other. For instance, Kuttner and Posen (2001) use a VAR analysis to assess the impact of
+liquidity injections in Japan. According to their paper, a liquidity shock depreciates the yen, but
+the depreciation is not statistically significant. They also find that quantitative easing initially
+increases prices, but the effect is reversed after a few quarters. Honda et al. (2007) show that
+quantitative easing increases output but has no significant effect on the price level because quan-
+titative easing transmits through stock prices and not through general prices. A recent study by
+Fratzscher, Lo Duca and Straub (2012) analyzes the effect of announcements and actual operations
+of the Federal Reserve's unconventional monetary policy measures on portfolio allocations across
+asset classes as well as on asset prices in 65 countries. Fratzscher et al. (2012) find that QE1 and
+QE2 announcements as well as treasury purchases all weakened the US dollar but that liquidity
+1
+injections induced a US dollar appreciation. According to Fratzscher et al. (2012) QE1 and QE2
+announcements, and treasury purchases triggered net outflows from US assets, thus depreciating
+the US dollar, whereas liquidity injections aimed at repairing dysfunctional markets attracted cap-
+ital into US markets and thus strengthened the US dollar.
+Regarding the theoretical strand of literature, there is an increasing number of papers assessing
+the impact of unconventional measures in a DSGE setup (e.g. Gertler and Karadi (2009), Gertler
+and Kiyotaki (2010), Dib (2010), Gieck and Trazyck (2010)) but it is done using a closed economy
+model. Consequently, these papers cannot contribute to the questions stated above. To the best of
+my knowledge, there is only one paper by Dedola, Karadi, and Lombardo (2012, henceforth DKL)
+which examines effects of unconventional measures in an open economy framework. However, DKL
+concentrate on the assessment of cooperation and non-cooperation in unconventional policies in a
+real economy model, therefore they are not able to address the behavior of the exchange rate or
+inflation. The authors find that when economies are hit by a capital quality shock, unconventional
+policies are generally welfare decreasing, i.e. both under cooperation and non-cooperation. When
+they look at a financial shock, they find that central banks should aggressively offset the impact
+of the shock by coordinating policies.
+With this paper I am aiming at closing the gap in DSGE literature and analyze the behavior
+of the exchange rate after the introduction of unconventional measures. Furthermore, I contribute
+to the literature on coordination of monetary policy by looking at spillovers arising from simulta-
+neous (coordination) and non-simultaneous (non-coordination) implementations of unconventional
+measures. I interpret the simultaneous implementation of UMP in both countries as coordina-
+tion in monetary policy whereas the sole implementation of UMP in only one country is regarded
+as non-coordination in monetary policy. In order to address the question of exchange rate be-
+havior, I develop a two country DSGE model similar to Faia (2005, 2008) but with a complete
+international market1. The financial crisis proofed that banks are important in the transmission
+of monetary policy and since most unconventional measures where aimed at banks, my model in-
+cludes a meaningful interbank market with both financial and nominal frictions. Financial frictions
+are introduced through endogenous default of banks and firms like in de Walque et al. (2009) and
+nominal frictions are introduced through price adjustment cost `
+a la Rotemberg like in Gieck and
+Trazyck (2010). The most common unconventional measures used during the financial crisis are
+replicated in this paper, liquidity injections and asset swaps. Liquidity injections are associated
+with the creation of new money and expand the balance sheet of banks. Whereas asset swaps
+of impaired loans in exchange for risk free assets affect the composition of banks' assets and the
+quality of banks's balance sheets without changing balance sheet totals. The interbank market
+consists of two banks per country, a deposit bank and a lending bank. Both banks face endogenous
+balance sheet decisions and are constrained by capital regulation rules. The deposit bank collects
+savings from domestic households and provides loans to domestic lending banks. Lending banks
+supply loans to domestic capital producing firms and lend on the interbank market. Deposit banks
+are net creditors whereas lending banks are net debtors in the interbank market. Both lending
+banks and capital producing firms can default on their loans, but are subject to quadratic adjust-
+ment costs if they do so. These defaults have the effect of financial accelerators. In particular, the
+default of the capital producing firm leads to a default of the lending bank which in turn leads
+1The assumptions of a complete international market facilitates the analysis of spillovers under coordination.
+2
+to a decrease in credit supply on the interbank market by the deposit bank, thereby amplifying
+the crisis. The interbank market is based on the model by de Walque et al. (2009) and allows
+me to take into account the heterogeneity of the banking sector2. Unconventional measures are
+implemented according to Dib (2010), namely through exogenous shocks to the banking sector.
+However, there is no international interbank market, meaning that domestic banks do not borrow
+or lend to foreign banks.
+In this paper, I examine two scenarios for each unconventional measure either only one central
+bank or both central banks introduce unconventional policies which I interpret as coordination
+and non-coordination in monetary policy. I find that if only one central bank injects liquidity into
+the interbank market, the exchange rate appreciates for 2 periods and depreciates thereafter. The
+appreciation in the first 2 periods is caused by the increase in credit supply which also hikes up
+prices and thus the exchange rate (which is defined by the terms of trade). As soon as credit supply
+starts to fall in the third period (although it is still above its steady state) prices also decline lead-
+ing to a depreciation of the exchange rate. By contrast, asset swaps lead to a slight depreciation of
+the exchange rate in the first period and appreciate it thereafter. Asset swaps lead to a decrease in
+credit growth in the first period which also depresses prices, thus depreciating the exchange rate.
+After the first period, however, assets swaps increase credit supply together with prices leading to
+an appreciation in the long run. Another result of this paper is that coordinating unconventional
+policies is advisable in some cases but not in others, it mainly depends on the target of the central
+bank and the instrument it wishes to use. For instance, in the case of liquidity injections, the best
+outcome in terms of higher GDP is achieved with non-coordination. Then, however, the other
+country will be affected by negative spillovers which lead to declines in GDP. With regard to infla-
+tion, liquidity injections have the disadvantage that they increase inflation variation by the same
+amount under coordination and non-coordination. By contrast, asset swaps increase output and
+lower inflation variation the most only if coordinated. But even in the case of non-coordination, the
+spillovers coming from asset swaps are generally positive. While both measures are able to increase
+GDP, the impact of liquidity injections is substantially stronger than the impact of asset swaps.
+This is due to way both measures are modeled: liquidity injections create additional resources
+which banks can use to increase credit supply; asset swaps just change the quality of banks assets
+not the amount of assets. Thus the impact of asset swaps is less pronounced. For the same reason
+is variation in inflation substantially higher under liquidity injections than under assets swaps.
+In a second step, I analyze if both measures are able to mitigate negative effects from a finan-
+cial market shock. This financial shock is supposed to mitigate the beginning of the financial
+crisis where fire sales in mortgage-backed-securities lead to substantial losses in the market book
+of banks causing the default of financial institutions and triggering the financial crisis. In this
+model, the financial market shock leads to a substantial loss in the market book of banks thereby
+decreasing their profits and increasing their default rate. This in turn leads to lower credit supply
+on the interbank market and thus to a credit crunch. When it comes to the ability of mitigating
+negative effects from a financial shock, results show that liquidity injection perform better than
+asset swaps. The impact of liquidity injections, for instance, is more pronounced than of asset
+2For more information on the implications of the heterogeneity and the relationship between deposit banks and
+lending banks as well as the implications of the endogenous defaults, I recommend to read the original paper by de
+Walque et al. (2009).
+3
+swaps, where it is sufficient to inject liquidity as high as 5% of GDP to mitigate negative effects,
+asset swaps need to be substantially higher in order to achieve the same impact. If both countries
+experience a financial market shock the lowest decline in GDP after the shock is attained if a
+central bank does not coordinate liquidity injections. This, however, has negative spillovers on the
+other economy which will see even stronger declines in GDP due to the current account deficits
+caused by the depreciating exchange rate. On top of that, the application of liquidity injections will
+increase variation in inflation. In the case of assets swaps the opposite is true, the lowest decline in
+GDP and lowest fluctuation in inflation after a financial shock is achieved if countries coordinate
+asset swaps. If assets swaps are coordinated the initial decline in GDP is not as steep as in the
+non-coordinated case and negative trade balances on either side are avoided. The results from the
+financial shock experiment are in line with the general finding stated above, that non-coordinated
+liquidity injections lead to higher GDP growth but have negative spillovers on the other economy,
+whereas assets swaps have a stronger impact under coordination.
+The remainder of this paper is organized as follows. The setup of the two-country model is
+introduced in section 2.2. The calibration of the model is documented in section 2.3. Section 2.4,
+shows and evaluates the results from the impulse response analysis and section 2.5 concludes.
+2 The Open Economy Model
+The model consists of two countries, home and foreign. Each country has a representative house-
+hold, an interbank market, a production sector, and a central bank. The interbank market consist
+of two banks, a deposit bank and a lending bank. The deposit bank collects household's savings
+and supplies loans to the lending bank. The lending bank relies on loans from deposit banks on
+which it can default and provides loans to capital producing firms. The production sector consists
+of capital goods, intermediate goods, and final goods producers. Capital producers obtain loans
+from lending banks on which they can default and rent capital to the intermediate goods producing
+firms. These firms use labor and capital to produce intermediate goods and face price adjustment
+costs `
+a-la Rotemberg (1982). Domestic and foreign intermediate goods are then processed into final
+goods by the final good producers. The central bank sets interest rates according to a Taylor-type
+policy rule and carries out unconventional measures. Since the model lacks any distinct fiscal or
+supervisory authorities, I assume that the central bank takes over these roles as well. In particu-
+lar, it supervises the banking sector through capital ratios. All agents are infinitely lived. Both
+countries have the same technologies, preferences and operate in a complete international market.
+An asterisk denotes foreign variables.
+2.1 Households
+Household's maximization program is given by:
+max
+Ct,Nt,Dh
+t
+,B
+t
+
+s=0
+sEt
+
+
+
+log(Ct+s
+) + mlog(1 - Nt+s
+) -
+
+2
+Dh
+t
+1 + rt+s
+-
+Dh
+1 + r
+2
+
+
+
+(1)
+Households consume an aggregate in final goods Ct
+, and decide upon leisure time (1 - Nt
+)
+where m is households leisure utility parameter. They also have the possibility to invest in state-
+contingent assets, B
+t
+and in domestic deposits Dh
+t
+. The state-contingent asset offers a discount
+4
+rate r
+t
+whereas deposits offer a rate rt
+. For technical reasons I impose a target in deposits Dh via
+a quadratic disutility term together with a target interest rate for deposits r. This is necessary in
+order to determine Dh. It can be interpreted as a long-run optimal target in deposits from which
+the households do not like to deviate.
+Households face following budget constraint:
+Ct
++
+Dh
+t
+1 + rt
++
+er
+t
+B
+t
+1 + r
+t
+= wt
+Nt
++
+Dh
+t-1
+t
++
+er
+t
+B
+t-1
+t
++ (1 - vdb
+) db
+t
++ (1 - vlb
+) lb
+t
+(2)
+where er
+t
+= etP 
+t
+Pt
+is the real exchange rate and t
+= Pt
+/Pt-1
+is domestic CPI-inflation. House-
+holds receive a share of banks profits in line with retained earnings ratios vd
+and vl
+.
+When households maximize (1) with respect to (2) the following first-order conditions apply:
+wt
+=
+Ct
+1 - Nt
+m (3)
+1
+Ct
+= Et
+(1 + rt
+)
+Ct+1
+t+1
+- 
+Dh
+t
+1 + rt
+-
+Dh
+1 + r
+(4)
+t
+1 + r
+t
+= Et
+er
+t+1
+er
+t
+t+1
+t+1
+(5)
+Equation (3) states the optimal labor supply conditions. Equation (4) is the Euler equation
+with respect to deposits. Equation (5) is the Euler equation with respect to international state
+contingent bonds, where  denotes the Lagrange multiplier on the constraint (2).
+The behavior of foreign households is symmetric and leads to the following risk sharing condi-
+tion:
+t
+=
+
+t
+er
+t
+(6)
+Equation (6) means that domestic marginal utility of consumption is proportional to its foreign
+counterpart3.
+2.2 Banks
+2.2.1 Deposit Banks
+Deposit banks allocate their resources between deposits from households Ddb
+t
+, loans to the interbank
+market Idb
+t
+, own funds Fdb
+t
+, and an exogenous market book B
+db
+in order to maximize the sum of
+all expected payoffs. The payoffs comprise a concave function of profits db
+t
+and a utility from
+own funds. The concave profit function and the assumption of a positive utility ddb
+for own funds
+Fdb
+t+s
+above the minimum capital requirement is taken from Goodhart et al. (2005). This fixes the
+minimum capital requirement ratio k = 0.08, w = 0.2 and w = 1.2 which are the respective weights
+on interbank loans and on the market book4. Deposit banks are symmetric across countries, thus
+foreign deposit banks face the same maximization problem.
+3As shown in Schmitt-Grohe and Uribe (2001).
+4The buffer above the minimum capital requirement rules out a corner solution and can also be found in the
+data.
+5
+The maximization program is:
+max
+Ddb
+t
+,Idb
+t
+,F db
+t
+
+s=0
+Et
+
+s
+log db
+t+s
++ ddb
+Fdb
+t+s
+- k wIdb
+t+s
++ wB
+db
+(7)
+under the following constraints:
+Fdb
+t
+= (1 - db
+)
+Fdb
+t-1
+t
++ vdb
+db
+t
+(8)
+db
+t
+=
+
+
+
+t
+Idb
+t-1
+t
+-
+Idb
+t
+1 + ri
+t
++
+Ddb
+t
+1 + rl
+t
+-
+Ddb
+t-1
+t
++ db
+(1 - t-1
+)
+Idb
+t-2
+t
++
+B
+db
+t
+
+
+
+(9)
+Equation (8) shows the dynamics for own funds Fdb
+t
+. Own funds are increased each period by
+a share vdb
+of profits. Moreover, a small fraction db
+of own funds is put into an insurance scheme
+run by a public agent. This is due to the fact that deposit banks face losses on their interbank
+loans. Equation (9) denotes the evolution of profits, where db
+is the share which banks can recover
+from defaulted interbank loans due to the insurance fund they pay in. The return on the market
+book B is , and rt
+is the interest rate set by the central bank. In contrast to lending banks it is
+assumed that deposit banks never default.
+The first order conditions of the above maximization program are the following:
+db
+t
+1 + rt
+= Et
+db
+t+1
+t+1
+(10)
+db
+t
+1 + ri
+t
+= Et
+t+1
+db
+t+1
+t+1
++ 
+2
+db
+(1 - t+1
+)
+db
+t+2
+t+1
+- ddb
+kw (11)
+1
+db
+t
+= db
+t
++
+1
+db
+t+1
+t+1
+- db
+t+1
+(1 - db
+) - ddb
+vdb
+(12)
+where db
+t
+denotes the Lagrange multiplier on the profit function (9). Equations (10) and (11)
+are the Euler conditions for households deposits and loans to lending banks, respectively. Equation
+(12) states the optimal choice for holdings of own fund.
+2.2.2 Lending banks
+Lending banks provide loans to the capital producing firms Llb
+t
+, borrow from the interbank market
+Ilb
+t
+, invest in an exogenous market book B
+lb
+with a yield of , choose their holdings in own funds
+Flb
+t
+, and their optimal repayment rate t
+to maximize the expected sum of all future payoff. The
+payoffs comprise a concave function of profits db
+t
+and a utility dlb
+from funds own above the implied
+minimum capital. This fixes the minimum capital ratio k and w and w, the respective weights
+on loans and on the market book. In contrast to deposit banks, lending banks can default (1-t
+).
+However, if lending banks default they face quadratic search costs -
+2
+(1 - t-1
+)( Ilb
+t-2
+t-1
++ d
+)
+2
+,
+where d
+stands for a fixed cost of default5 which is independent from the total defaulted amount
+5The expenses related to default consist of a variable part that relates to the notional of outstanding loans in the
+economy and an additional fixed cost. Linearity of cost would imply indeterminacy for Equation (17). de Walque
+et al. (2009) solve this technicality by splitting the expenses related to default into non-pecuniary costs that affect
+utility and pecuniary costs that impact profits. However, as they acknowledge, this "double cost" lacks pure micro
+foundations.
+6
+(1 - t-1
+) Ilb
+t-2
+t-1
+. The quadratic formulation prevents indeterminacy in the first order condition. .
+Lending banks solve the following maximization problem:
+max
+Llb
+t
+,Ilb
+t
+,F lb
+t
+,t
+
+s=0
+Et
+
+s
+log lb
+t+s
++ dlb
+Flb
+t+s
+- k wLlb
+t+s
++ wB
+lb
+(13)
+where lb
+t
+are profits, under the constraints:
+Flb
+t
+= (1 - lb
+)
+Flb
+t-1
+t
++ vlb
+lb
+t
+(14)
+lb
+t
+=
+t
+Llb
+t-1
+t
+-
+Llb
+t
+1 + rb
+t
++
+Ilb
+t
+1 + ri
+t
+-
+t
+Ilb
+t-1
+t
+-
+
+2
+(1 - t-1
+)
+Ilb
+t-2
+t-1
++ d
+2
++lb
+(1 - t-1
+)
+Llb
+t-2
+t-1
++
+B
+lb
+t
+
+
+
+(15)
+Equation (14) displays the dynamics for own funds of lending banks. Like deposit banks,
+lending banks increase their own funds each period by a share vlb
+of profits and pay a fraction lb
+into an insurance fund. The evolution of lending bank's profits is given in equation (15) where lb
+is the share lending banks can recover from defaulted loans due to the insurance fund,  is the
+return on the market book B
+lb
+, and ri
+t
+is the interbank market rate.
+The first order conditions of the above maximization program are the following:
+lb
+t
+1 + rb
+t
+= Et
+lb
+t+1
+t+1
+t+1
++ 2lb
+t+2
+lb
+(1 - t+1
+)
+1
+t+1
+- dlb
+kw (16)
+lb
+t
+1 + ri
+t
+= Et
+lb
+t+1
+t+1
+t+1
++ 2lb
+t+2
+ (1 - t+1
+)2 (
+Ilb
+t
+2
+t+1
++ d
+) (17)
+lb
+t
+Ilb
+t-1
+t+1
+= Et
+lb
+t+1
+ (1 - t
+) (
+Ilb
+t-1
+t
++ d
+)2 (18)
+1
+lb
+t
+= lb
+t
++
+1
+lb
+t+1
+t+1
+- lb
+t+1
+(1 - ) - dlb
+vlb
+(19)
+where lb
+t
+denotes the Lagrange multiplier on the profit function (15). Equation (16) and (17)
+are the Euler conditions for providing loans to capital producing firms and borrowing from deposit
+banks, respectively. Equation (18) shows the trade-off between redeeming an interbank loan today
+and tomorrow which is associated with a variable and a fixed cost. Equation (19) displays the
+optimal choice for own fund holdings.
+2.3 Non-financial Firms
+2.3.1 Capital Goods Producers
+Capital producers maximize profits c
+t
+by selling out their capital Kt
+to intermediate goods pro-
+ducers against a price zt
+. In order to invest in new capital, they acquire loans Lt
+from lending
+banks on which they can default (the time varying default rate is (1-t
+)). When capital producers
+7
+default they face quadratic search cost -
+2
+(1 - t-1
+) Lt-2
+t-1
++ dc
+2
+, where I distinguish between
+variable cost (1 - t-1
+) Lt-2
+t-1
+and fixed cost (1 - t-1
+) dc
+of default6
+Capital producers solve the following optimization program:
+max
+Kt,Lt,t
+
+s=0
+Et
+
+s
+c
+t+s
+(20)
+Profits are defined as:
+c
+t
+= zt
+Kt -
+t
+Lt-1
+t
+-
+
+2
+(1 - t-1
+)
+Lt-2
+t-1
++ dc
+2
+(21)
+subject to the following constraint:
+Kt
+= (1 - ) Kt-1
++
+Lt
+1 + rb
+t
+(22)
+where  it the capital depreciation rate and rb
+t
+is the interest rate for loans.
+Following first order conditions emerge:
+c
+t
+1 + rb
+t
+= Et
+t+1
+t+1
++ 
+(1 - t+1
+)2
+t+1
+Lt
+t+1
++ dc
+(23)
+Lt-1
+t
+=  (1 - t
+)
+Lt-1
+t
++ dc
+2
+(24)
+zt
+= c
+t
+- Et
+c
+t+1
+(1 - ) (25)
+where c
+t
+denotes the Lagrange multiplier on the constraint (22). Equation (23) equalizes
+today's discounted shadow value of capital to its discounted cost in period t+1 plus the remaining
+cost in period t+2. Equation (24) defines that the discounted marginal cost of paying back the loan
+today is equal to the marginal discounted quadratic search cost of tomorrow in addition to a fixed
+default cost parameter. Equation (25) states that the price for capital is equal to the differential
+between today's and tomorrow's shadow value.
+2.3.2 Intermediate Goods Producers
+The intermediate goods production sector consists of a continuum of monopolistically competitive
+firms each maximizing profits f
+t+s
+(i) by choosing an optimal amount of labor N (i)
+t
+which is
+supplied by households, and an optimal amount of capital K (i)
+t
+which is supplied by capital
+producers. Intermediate goods producers also set the price level where they have to take into
+account price adjustment costs ´
+a la Rotemberg. They solve the following optimization program:
+max
+PH,t
+(i),Nt
+(i)Kt
+(i)
+
+s=0
+Et
+
+s
+f
+t+s
+(i) (26)
+where the profit function is given by:
+6By this I avoid modeling a default parameter in the utility function of capital goods producers like in de Walque
+et al. (2009), see also footnote 3 .
+8
+f
+t
+(i) =
+PH,t
+(i)
+PH,t
+Xt
+(i) - wt
+Nt
+(i) - zt
+Kt
+(i) -
+
+2
+PH,t
+(i)
+PH,t-1
+(i)
+- 
+2
+Xt
+(27)
+ is firms price change cost or the degree of price stickiness.
+Each intermediate goods producer is facing a downward-sloping demand curve for its differen-
+tiated product i:
+Xt
+(i) = Kµ
+t
+(i) (exp (At
+(i)) Nt
+(i))1-µ
+
+PH,t
+(i)
+PH,t
+-
+Xt
+(28)
+where Xt
+(i) = Kµ
+t
+(i) (exp (At
+) Nt
+(i))1-µ is a constant return to scale production function with
+At
+= a
+At-1
++ A
+t
+functioning as an aggregate productivity shock. Xt
+= (XH,t
++ X
+H,t
+) is world
+demand for the domestic intermediate good and  is the elasticity of substitution between two
+intermediate goods. Since firms are symmetric, they will all set the same price s.t. Pt
+(i) = Pt
+.
+Let mct
+be the Lagrange multiplier associated with equation (28). I obtain following first order
+conditions when solving the above optimization problem:
+wt
+= mct
+(1 - µ)
+Kt
+Nt
+µ
+(exp (At
+))1-µ (29)
+zt
+= mct
+µ
+Kt
+Nt
+µ-1
+(exp (At
+))1-µ (30)
+ (H,t - ) H,t
+Xt
+= (1 -  + mct
+)Xt
++ Et
+[ (H,t+1 - ) H,t+1
+Xt+1
+] (31)
+where H,t  PH,t
+PH,t-1
+is the gross inflation. Equations (29) and (30) are the familiar marginal
+cost equations where wages are equal to marginal cost of labor and the rental rate of capital to
+the marginal cost of capital. Equation (31) is the Phillips-Curve stating that today's domestic
+inflation is dependent on world demand for the domestic intermediate good and expectations on
+future domestic inflation.
+2.3.3 Final Good Production
+The final good Yt
+is obtained by combining domestic XH,t
+and imported XF,t
+intermediate goods
+according to the following CES function:
+Yt  [ 1
+ X
+-1
+
+H,t
++ (1 - )1
+ X
+-1
+
+F,t
+] 
+-1 (32)
+where XH,t  1
+0
+XH,t
+(i)-1
+
+di
+
+-1 is an aggregate of domestic intermediate goods and XF,t 
+1
+0
+XF,t
+(i)-1
+
+di
+
+-1 is an aggregate of imported intermediate goods. When I solve following profit
+maximization problem:
+max
+{XH,t
+(i),XF,t
+(i)}
+t=0
+Pt
+Yt -
+1
+0
+PH,t
+(i)XH,t
+(i)di -
+1
+0
+PF,t
+(i)XF,t
+(i) (33)
+I receive the optimal demands for each type of the final good:
+9
+XH,t
+(i) = 
+PH,t
+(i)
+PH,t
+-
+XH,t
+; XF,t
+(i) = (1 - )
+PF,t
+(i)
+PF,t
+-
+XF,t
+(34)
+XH,t
+= 
+PH,t
+Pt
+-
+Yt
+; XF,t
+= (1 - )
+PF,t
+Pt
+-
+Yt
+(35)
+where PH,t  1
+0
+PH,t
+(i)di
+
+-1 , PF,t  1
+0
+PF,t
+(i)di
+
+-1 , Pt  [P1-
+H,t
++(1 - )P1-
+F,t
+] 1
+1- are
+the respective price indices.
+2.3.4 Equilibrium Conditions
+Equilibrium in the asset market implies that the world net supply of bonds is zero. After imposing
+market clearing for each intermediate good i, aggregating and substituting the relevant demand
+functions in (34), market clearing in the intermediate sector implies:
+Xt
+= 
+PH,t
+Pt
+-
+Yt
++ (1 - )
+PF,t
+Pt
+-
+Yt
++
+
+2
+(H,t - )2 Yt
+(36)
+Market clearing in the final goods sector is given by:
+Yt
+= Ct
++
+Lc
+t
+1 + rb
+t
+(37)
+where Lc
+t
+1+rb
+t
+is the amount of loans entrepreneurs invest in new capital.
+Finally, it is assumed that the deposit, interbank, and commercial loan markets clear in the
+long run:
+Ddb
+t
+= Dh
+t
+(38)
+Ilb
+t
+= Idb
+t
+(39)
+Lc
+t
+= Llb
+t
+(40)
+2.4 Central Bank and Unconventional Measures
+In normal times the central bank conducts its policy according to a Taylor-type policy rule:
+(1 + rt
+) = (1 + r)(1-µr
+) (1 + rt-1
+)µr
+t
+
+Q
+(41)
+At times of financial distress it uses unconventional instruments: liquidity injections Mt
+or
+asset swaps St
+to support the lending bank
+10
+Then the budget constraint of domestic lending banks (15) changes to7:
+lb
+t
+=
+t
+Llb
+t-1
+t
+-
+Llb
+t
+1 + rb
+t
++
+Ilb
+t
+1 + ri
+t
+-
+Ilb
+t-1
+t
+-
+
+2
+(1 - t-1
+)
+Ilb
+t-2
+t-1
++ d
+2
++ lb
+(1 - t-1
+)
+Llb
+t-2
+t-1
++
+B
+lb
+t
++ (
+1
+1 + r
+-
+1
+1 + rb
+t
+)St
++
+Mt
+1 + rt
+-
+Mt-1
+t
+
+
+
+(42)
+I assume that asset swaps St
+are executed within one period. In other words, lending banks
+swap a fraction of loans and at the same time receive the equivalent amount in central bank
+bonds. Liquidity injections Mt
+, however, are paid back one period later and become effective in
+the equilibrium condition for the loan market, such as the following holds in the short run:
+Lc
+t
+= Mt
++ Llb
+t
+(43)
+The unconventional monetary tools are modeled as AR (1) processes:
+Mt
+= M
+Mt-1
++ M
+t
+(44)
+St
+= S
+St-1
++ S
+t
+. (45)
+3 Calibration
+The two countries are assumed to be symmetric in every way. Table 1 in the Appendix shows the
+calibrated parameters.
+Households.
+The elasticity of substitution between foreign and domestic goods  is equal to 1.5 as in Backus
+et al. (1992). The export over GDP ratio 1 -  is set to 0.2 which is compatible with Kollmann
+(2004). Households leisure utility parameter m is deduced from the model and is equal to 3.14.
+Production Sector.
+Employment is normalized to N = 0.2 which means that employers work 20% of total available
+hours 8. The capital share in the Cobb-Douglas production function is set to µ = 0.3 which is
+in accordance with the capital share of 30% observed in the euro area and the US. It is assumed
+that capital stock is 10 times higher than production. Capital depreciation rate is set to  = 0.03.
+This implies an investment ratio to output of 0.3 =  K
+Y
+. Although, in the standard RBC literature
+capital stock is usually 8 times higher than production, this is needed to avoid negative search
+cost  on the defaulted amount. The autoregression coefficient in the technology equation a
+is
+equal 0.95 which is standard in the RBC literature. Following Faia (2007) the price elasticity of
+demand  is set to 6 and the price adjustment cost parameter  is set to 17.5. The value for the
+default rate of capital producing firms is equal to 5% (and therefore t
+= 0.95 in steady state)
+7Due to symmetry, the same holds for the foreign lending bank.
+8This is in line with real data, where 0.2 = (40  44)/(52  7  24)
+11
+which is inferred from the US courts and the Bureau of Labor Statistics quarterly pre-crisis data
+on business bankruptcies. The data are based on the number of non-financial corporations that
+go bankrupt. This enables me to derive  = 103.04 the variable default cost parameter of capital
+producing firms and dc
+= 0.001 the fixed default cost parameter.
+Banking Sector.
+I set the deposit rate to r = 0.35%, so the annual deposit rate is equal to 1.4%. The market book
+offers a mere of  = 1%, which is consistent with the average quarterly return of the Dow Jones
+Industrial Average Index from 1980Q1 to 2012Q2. Lending banks default rate is set to  = 0.98
+which is derived from the pre-crisis data provided by the Federal Deposit Insurance Corporation.
+These data encompasses the number of bank failures. When calibrating the model I impose Dh/Llb
+to be around 2 and Idb/Llb = Ilb/Lc around 0.5, which is in line with pre-crisis statistics of the
+Federal Reserve System. The market book for each bank equals to the amount of loans to capital
+producers: B
+db
+= B
+lb
+= Llb. The weights of bank assets are aligned to the solvability regulation
+of the Basel agreement. Loans to banks with a rating of AAA to AA- (S&P) have to be weighted
+with 20%, thus w = 0.2. A loan to an enterprise with a rating of A+ to A- (S&P) has to be
+weighted with 50% thus w = 0.5. The capital ratio is set to k = 8%. Banks are supposed to
+allocate half of their profits to own funds (vb
+= vl
+= 0.5) and the remaining 50% are consumed
+immediately. Through the insurance scheme I assume that banks can recover 80% of their bad
+loans; in exchange, banks must pay a premia of 6% and 7% of their funds (db
+= 0.06 for deposit
+banks and lb
+= 0.07 for lending banks, rates differ due to differences in default rates for firms
+and lending banks) in order to benefit from this provision. The fixed default cost parameter for
+the lending bank d
+is equal to 0.05. Other parameters - default cost parameter  and own funds
+utility parameters for both bank types, dF b
+, dF l
+, bF b
+, and bF l
+- are inferred from the restrictions
+mentioned above.
+Central Bank.
+The Taylor-type monetary policy rule contains parameters that are set according to specifications
+used in the literature and satisfy the Taylor rule principle (µr
+= 0.8, Q
+= 1.7. Regression
+parameters for all unconventional monetary tools (·)
+are set to 0.85.
+4 Quantitative Results
+4.1 Impulse Responses
+4.1.1 Liquidity injections
+Figure 1 shows a liquidity injection shock to lending banks which is equal to 5% of GDP. The solid
+line represents responses when only the domestic central bank applies this unconventional measure
+and the dashed line represents responses when both the domestic and foreign central bank provide
+liquidity to lending banks at the same time. In accordance with the AR(1) processes described
+above, the liquidity shock decays at a rate of 85% per quarter.
+The responses are expressed as percentage deviations from their respective steady states. After
+12
+Figure 1: Impulse responses after a liquidity injection to banks
+5 10 15 20
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0.1
+0.2
+0.3
+Real Exchange Rate
+5 10 15 20
+-6
+-4
+-2
+0
+2
+4
+Terms of Trade
+5 10 15 20
+-0.1
+-0.05
+0
+0.05
+0.1
+0.15
+Prices Exports
+5 10 15 20
+-0.15
+-0.1
+-0.05
+0
+0.05
+0.1
+Prices Imoports
+5 10 15 20
+-8
+-6
+-4
+-2
+0
+2
+Trade Balance (D)
+5 10 15 20
+-5
+0
+5
+10
+15
+20
+25
+Loans to firms (D)
+5 10 15 20
+-15
+-10
+-5
+0
+5
+10
+15
+Loans to firms (F)
+5 10 15 20
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+GDP (D)
+5 10 15 20
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+GDP (F)
+Non-Coordinated UMP (Domestic)
+Coordinated UMP
+This figure shows impulse responses after a liquidity injection shock to banks which is equal to
+5% of GDP. The solid line represents responses when only the domestic central bank introduces
+this shock. The dashed line represents responses when both the domestic and foreign central bank
+introduce liquidity injections. The responses are expressed as percentage deviations from their
+respective steady states. "D" stands for domestic economy and "F" for foreign economy.
+a non-coordinated liquidity injection, the exchange rate declines which means it appreciates9 in the
+first two periods by 0.42% but depreciates persistently thereafter. In this model the exchange rate
+is determined by the terms of trade (tott
+= P
+t
+/Pt
+) that is the relationship between export (P
+t
+)
+and import prices (Pt
+). Figure 1 shows that in the first two periods liquidity injections lead to
+an increase in domestic export prices while prices in the foreign economy (import prices) decline.
+Prices increase due to the increase in credit supply which in turn increases GDP and domestic de-
+mand. Prices in the foreign country decline amid the symmetry of the countries and the complete
+international asset market structure of this model with its consequent risk sharing assumption
+er
+t
+= 
+t
+t
+(see equation (6)). This interaction in prices is mirrored in the response of the domestic
+trade balance. It is negative as long as import prices are lower than export prices, leading to higher
+demand for imports. It is turning positive as soon as export prices are below import prices. From
+the behavior in the banking sector we see that liquidity injections lead to a substantial increase in
+credit supply to firms (+20%) in the domestic economy which in turn boost GDP in the first period
+by more than 2.5%. However the shoot up in credit is not persistent and falls below its steady
+state after 5 periods as banks have to pay back the liquidity injections. Carried by a positive trade
+balance in the long run, GDP returns to its steady state after 10 periods. Liquidity injections in
+the domestic economy transmit to the foreign economy through the risk sharing condition. Since
+both countries are symmetric, the opposite is happening in the foreign economy. Loans to firms
+(-10%) and GDP (-1%) decline.
+When both central banks introduce liquidity injections simultaneously (dashed line) variables in
+9The exchange rate is defined in terms of the domestic currency, e.g. if the domestic currency is given in US
+Dollar and we assume the exchange rate is 1.35, meaning that Euro is worth 1.35 US Dollars, then if the exchange
+rate declines to 1.2 US Dollars that means that the US Dollar appreciated or that the Euro depreciated.
+13
+both countries will have the same response to the shock due to the complete structure of the in-
+ternational market. Thus, the exchange rate, terms of trade, export and import prices, and the
+trade balance do not move. Now we see the same responses in both economies, loans to firms
+increase (but only by half as much as in the case of non-coordination) leading to a slightly lower
+impact on GDP which increases by about 1.5% in the first period instead of 2.5% as in the case
+of non-coordination. Also, domestic GDP falls below its steady state after eight periods whereas
+under non-coordination it remained above its steady state for 10 periods.
++6.52% -4.5%
++6.52% +11%
++11% -
+-4.5% -
+Liquidity Injection No Liquidity Injection
+Liquidity
+Injection
+No Liquidity
+Injection
+Domestic Economy
+Foreign Economy
+Figure 2: Present value of GDP after a liquidity shock
+Results for the domestic economy are in the upper right corner of each box.
++0.072% +0.01%
++0.072% +0.073%
++0.073% -
++0.01% -
+Liquidity Injection No Liquidity Injection
+Liquidity
+Injection
+No Liquidity
+Injection
+Domestic Economy
+Foreign Economy
+Figure 3: Discounted inflation deviations after a liquidity shock
+Results for the domestic economy are in the upper right corner of each box.
+In Figure 2, I compare the discounted deviations in GDP from their steady state and in Figure
+3, I look at the discounted root mean squared deviations of inflation in the case of coordination and
+non-coordination. By computing the present values of these deviations I follow the approach of
+Angeloni et al. (2010), this allows me to sum up the intertemporal effects of various unconventional
+measures in one indicator10. The observation that GDP in the domestic country is higher in the
+case of non-coordination is confirmed by the present values. If the domestic central bank wants
+10The present value is computed by taking the deposit rate as a discount factor over a horizon of 20 periods. For
+GDP:
+T
+t=1
+t(gdpt-gdp)
+gdp
+. For inflation variation:
+T
+t=1
+(t-)2
+T -1
+1
+2
+14
+to increase GDP, higher output increases over time can be attained with non-coordination (+11%
+vs. +6.52%). However, in the case of non-coordination, GDP in the foreign economy will be
+considerably lower (-4.5%) due to the decline in credit supply and the negative trade balance. This
+leads to the suggestion that the foreign economy should immediately use liquidity injections when
+it observes the domestic economy using this measure. With regard to inflation, Figure 3 shows that
+liquidity injections also increase fluctuations in inflation. When only one or both countries are using
+liquidity injections inflation variation increases by 0.07%. In the case of non-coordination, inflation
+variation will be higher in the country with liquidity injections with some inflation fluctuations
+spilling over into the other economy.
+4.1.2 Asset swaps
+Figure 4 shows an asset swap shock to lending banks which is equal to 5% of GDP. In comparison
+to a liquidity shock, the asset swap shock differs strongly in direction and magnitude but is more
+persistent. This is due to the modeling of the asset swap shock. Note that the asset swap enters the
+profit function of lending banks only in time t, as I assume that the lending banks are swapping
+a fraction of loans against assets immediately, there is no intertemporal effect. Furthermore,
+the balance sheet of lending banks is not increasing (like for liquidity injections where they get
+additional funds) but it is altered in its composition, i.e. quality, this is why the impact is lower
+in comparison to liquidity injections but more persistent.
+Figure 4: Impulse responses after an asset swap shock to banks
+5 10 15 20
+-0.02
+-0.015
+-0.01
+-0.005
+0
+0.005
+0.01
+0.015
+Real Exchange Rate
+5 10 15 20
+-0.3
+-0.2
+-0.1
+0
+0.1
+0.2
+Terms of Trade
+5 10 15 20
+-6
+-4
+-2
+0
+2
+4
+6
+x 10-3 Prices Exports
+5 10 15 20
+-6
+-4
+-2
+0
+2
+4
+6
+x 10-3 Prices Imoports
+5 10 15 20
+-0.2
+-0.1
+0
+0.1
+0.2
+0.3
+Trade Balance (D)
+5 10 15 20
+-1
+-0.8
+-0.6
+-0.4
+-0.2
+0
+0.2
+0.4
+Loans to firms (D)
+5 10 15 20
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+Loans to firms (F)
+5 10 15 20
+-0.1
+-0.05
+0
+0.05
+0.1
+GDP (D)
+5 10 15 20
+-0.06
+-0.04
+-0.02
+0
+0.02
+0.04
+0.06
+GDP (F)
+Non-Coordinated UMP (Domestic)
+Coordinated UMP
+This figure shows impulse responses after an asset swap shock to banks which is equal to 5% of
+GDP. The solid line represents responses when only the domestic central bank introduces this
+shock. The dashed line represents responses when both the domestic and foreign central bank
+introduce liquidity injections. The responses are expressed as percentage deviations from their
+respective steady states. "D" stands for domestic economy and "F" for foreign economy.
+When only the domestic lending banks are able to swap loans against central bank bonds, the
+exchange rate depreciates for one period and appreciates thereafter. This is due to the impact of
+asset swaps on export and import prices and thus on the terms of trade. Assets swaps cause a
+15
+0.60% 0.13%
+0.60% 0.47%
+0.47% -
+0.13% -
+Asset Swaps No Asset Swaps
+Asset Swaps
+No Asset
+Swaps
+Domestic Economy
+Foreign Economy
+Figure 5: Present value of GDP after an asset swap shock
+Results for the domestic economy are in the upper right corner of each box.
+decline in credit supply thereby absorbing liquidity and decreasing demand which causes a decline
+in prices. Thus after a non-coordinated asset swap, export prices decline for one period while im-
+port prices increase. This in turn, leads to a positive trade balance in the first period as domestic
+exports are cheaper than foreign exports. This effect is reversed in the second period when credit
+supply starts to grow slowly. The impact of asset swaps on the quality of banks assets is built over
+time rather than instantaneously. Since in each period (as long as the asset swap shock prevails)
+banks are able to swap only a fraction of their "bad assets", they are only able to increase loan
+supply in the next period by a fraction. Thus banks need several periods to increase loan supply
+above its steady state. Loan supply needs about three periods to increase above its steady state;
+the same time GDP needs to increase above its steady.
+Amid the risk sharing condition, the opposite is happening in the foreign economy. Credit supply
+to foreign firms increases slightly in the first period and persistently declines thereafter. This initial
+increase in credit triggers an increase in output. However in the following period GDP declines
+immediately to its steady state but only to increase again in the third period, this time driven by
+a positive trade balance. Foreign output remains above its steady state as long as foreign prices
+are below domestic prices.
+When turning to the assessment of the impulse responses in the case of coordination (dashed
+line), we see that amid the complete international market assumption real exchange rates, terms
+of trade, export and import prices, and the trade balance do not move since both countries are
+experiencing the exact same shock at the same time. Then impulse responses in the domestic
+and foreign economy move in the same way, credit supply decreases initially in both countries
+(but not as strong as in the case of non-coordination) leading to declines in GDP but this time
+declines in domestic GDP are not as high as in the case of non-coordination since the negative
+trade balance is circumvented under coordination. Although foreign GDP is now decreasing in
+the first period as well, the comparison of present values of GDP deviations under coordination
+and non-coordination in Figure 5 reveals that both countries can attain higher GDP increases over
+time if they coordinate asset swaps. Even if countries do not coordinate asset swaps, the other
+economy will experience positive spillovers on GDP, as assets swaps lead to positive trade balances
+in the foreign economy and thus to higher GDP. In the case of inflation (Figure 6), both countries
+16
++0.0032% +0.00038%
++0.0032% +0.0035%
++0.0035% -
++0.00038% -
+Asset Swap No Asset Swap
+Asset Swap
+No Asset
+Swap
+Domestic Economy
+Foreign Economy
+Figure 6: Discounted inflation deviations after an asset swap shock
+Results for the domestic economy are in the upper right corner of each box.
+are able to attain a slightly lower inflation variation when policies are implemented simultaneously
+since under coordination the fluctuation in export and import prices is avoided.
+4.2 Experiments
+In this section I analyze the ability of both unconventional measures to moderate downturns in
+economic activity after a negative market book shock. The market book shook is equal to the one
+used by deWalque et al. (2010) and is supposed to mitigate the beginning of the financial crisis
+where banks experienced large losses in their market book after investments in mortgage backed
+securities devaluated dramatically, resulting in a credit crunch. In my model, the market book
+shock is equivalent to a sudden decrease in market book returns : t
+= (1-rho
+)+rhot-1-u
+t
+with rho
+equal to 0.5 and a standard deviation of 0.1. This means that it takes about a year for
+the shock to disappear. In both experiments the setup is the following: In the first period both
+economies, domestic and foreign, are hit by this strong negative market book shock. In the second
+period there is either no intervention, or only the domestic, or both central banks intervene and
+either inject liquidity or allow for asset swaps. In order to model this experiment in Dynare, I have
+to compute the impulse responses within a deterministic setup. This means, that agents have full
+foresight. This is arguably a strong assumption, however when comparing the impulse responses
+with the ones under the stochastic setup (as described in section 4.1) the impulse responses move
+in the exact same direction and differences are marginal. Moreover, in Gieck and Traczyk (2010),
+we show that the difference in results between a stochastic and a deterministic setup for this model
+in a closed economy setup is very small.
+4.2.1 Negative Market Book Shock: Liquidity injections
+Figure 7 presents impulse responses for three different scenarios. In the first scenario, No UMP,
+there is a negative market book shock in both countries which decreases the return on the market
+book of banks by 200 percent (so it becomes negative). In the second scenario, Non-Coordinated
+UMP, only the domestic central bank intervenes in the second period with liquidity injections (solid
+line) which are equal to 5% of GDP. In the third scenario, Coordinated UMP, both central banks
+intervene in the second period with liquidity injections (dashed line).
+17
+Figure 7: Impulse responses after a negative market book shock in the 1st period with and without
+liquidity injections in the 2nd period
+5 10 15 20
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0.1
+0.2
+0.3
+Real Exchange Rate
+5 10 15 20
+-0.3
+-0.2
+-0.1
+0
+0.1
+0.2
+Terms of Trade
+5 10 15 20
+-0.1
+-0.05
+0
+0.05
+0.1
+0.15
+Prices Exports
+5 10 15 20
+-0.15
+-0.1
+-0.05
+0
+0.05
+0.1
+Prices Imoports
+5 10 15 20
+-0.08
+-0.06
+-0.04
+-0.02
+0
+0.02
+Trade Balance (D)
+5 10 15 20
+-5
+0
+5
+10
+15
+20
+Loans to firms (D)
+5 10 15 20
+-15
+-10
+-5
+0
+5
+10
+Loans to firms (F)
+5 10 15 20
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+GDP (D)
+5 10 15 20
+-1
+-0.5
+0
+0.5
+1
+1.5
+GDP (F)
+No UMP
+Non-Coordinated UMP (D)
+Coordinated UMP (D & F)
+This figure shows impulse responses after a negative market book shock which is equal to one
+standard deviation. The dotted line represents responses with no interventions by the central
+banks after the shock occurred. The solid line shows responses when only the domestic central
+bank is injecting liquidity to banks in the 2nd period. The dashed line represent responses when
+both the domestic and foreign central bank are injecting liquidity to banks in the 2nd period. "D"
+stands for domestic economy and "F" for foreign economy.
+Figure 8 shows that the negative market book shock leads to a credit crunch, banks reduce their
+loan supply to firms which in turn leads to a decrease in GDP. GDP in both countries declines
+by 0.47% in the first period and remains below its steady state for the remaining 19 quarters.
+Loans decrease by -2.36% in the first period and remain below their steady state for 10 quarters.
+Since both countries are symmetric the exchange rate and terms of trade do not move as both
+countries experience the same market book shock at the same time. The blue solid line shows that
+if only the domestic central bank intervenes with liquidity injections after the market book shook
+it can mitigate a credit crunch. Loans to firms increase substantially and thereby stimulate GDP.
+Liquidity injections lead to increases in export prices which lead to an appreciation of the real
+exchange rate of the domestic economy. These increased prices cause a decline in exports and thus
+a negative trade balance for 5 periods. In the foreign country, the increased demand for foreign
+goods initially accelerates economic activity but due to depreciation of the domestic exchange rate
+in the long run the demand for foreign goods weakens which leads to a persistent decrease in foreign
+GDP. When both central bank coordinate policies and inject liquidity after observing the market
+book shock, the black dashed line shows that both countries can avoid a credit crunch but in that
+case GDP in the domestic economy is not increasing as much as it would under non-coordination.
+The impulse on loans and GDP under coordination is lower than under non-coordination, as the
+expected positive impact on GDP through a surplus in the trade balance is not possible in the case
+of coordination.
+Figure 8 confirms the results from the impulse responses, in that liquidity injections can mod-
+erate declines in GDP substantially. But it also shows that the domestic economy would achieve
+18
++0.91% -4.29%
++0.91% +2.51%
++2.51% -2.59%
+-4.29% -2.59%
+Liquidity Injection No Liquidity Injection
+Liquidity
+Injection
+No Liquidity
+Injection
+Domestic Economy
+Foreign Economy
+Figure 8: Present value of GDP after a market book shock and subsequent liquidity injections
+Results for the domestic economy are in the upper right corner of each box.
+the highest increases in GDP if it does not coordinate liquidity injections with the foreign econ-
+omy (+2.51%). Then the decline in GDP for the foreign economy would be even higher (-4.29%)
+than in the case with no interventions by both central banks (-2.59%). Thus, the foreign central
+bank should also inject liquidity after a market book shock if it observes that the domestic central
+bank is using this measure. Figure 9 shows that liquidity injections increase inflation variation.
+In the case of non-coordination they even lead to slightly higher variations in the other economy's
+inflation (after a market book shock) as it is forced to adjust. If both central banks coordinate
+interventions they receive higher inflation variations than in the case of no interventions as liquidity
+interventions generally increase fluctuations in inflation.
++0.1% +0.09%
++0.1% +0.08%
++0.08% +0.07%
++0.09% +0.07%
+Liquidity Injection No Liquidity Injection
+Liquidity
+Injection
+No Liquidity
+Injection
+Domestic Economy
+Foreign Economy
+Figure 9: Discounted inflation deviations after a market book shock and subsequent liquidity injections
+Results for the domestic economy are in the upper right corner of each box.
+4.2.2 Negative Market Book Shock: Asset swaps
+Figure 10 shows impulse responses for three different scenarios, (i) either none (dotted line), (ii)
+or only the domestic (solid line), (iii) or both central banks (dashed line) introduce asset swaps in
+19
+Figure 10: Impulse responses after a negative market book shock in the first period with and
+without asset swaps in the second period
+5 10 15 20
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0.1
+0.2
+0.3
+Real Exchange Rate
+5 10 15 20
+-0.2
+-0.15
+-0.1
+-0.05
+0
+0.05
+0.1
+0.15
+Terms of Trade
+5 10 15 20
+-0.1
+-0.05
+0
+0.05
+0.1
+Prices Exports
+5 10 15 20
+-0.1
+-0.05
+0
+0.05
+0.1
+Prices Imoports
+5 10 15 20
+-0.02
+0
+0.02
+0.04
+0.06
+Trade Balance (D)
+5 10 15 20
+-20
+-15
+-10
+-5
+0
+5
+Loans to firms (D)
+5 10 15 20
+-10
+-5
+0
+5
+10
+Loans to firms (F)
+5 10 15 20
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+GDP (D)
+5 10 15 20
+-1.5
+-1
+-0.5
+0
+0.5
+GDP (F)
+No UMP
+Non-Coordinated UMP (D)
+Coordinated UMP (D & F)
+This figure shows impulse responses after a negative market book shock which is equal to a decline
+in banks' returns by 200%. The dotted line represents responses with no interventions by the central
+banks after the shock occurred. The solid line shows responses when only the domestic central
+bank is carrying out assets swaps in the second period. The dashed line represents responses when
+both the domestic and foreign central bank are carrying out assets swaps in the second period.
+"D" stands for domestic economy and "F" for foreign economy.
+the second period which are equal to 50% of GDP11 after the return on the market book of banks
+declines by 200%. The impulse responses show that assets swaps have also the ability to increase
+credit supply and GDP after a market book shock. However only in the long run, not instantly
+like in the case of liquidity injections. Moreover, the impact of asset swaps is less pronounced
+compared to quantitative measures as also seen in section 4.1.1. In the case of coordination, the
+dashed line shows that domestic GDP not only passes its steady state one period earlier than in
+the case of non-coordination but the rise in GDP is also higher. This is due to the impact on
+lending, if both countries coordinate asset swaps initial decreases in domestic loans are lower than
+in the non-coordinated case.
+Figure 11 shows that asset swaps if non-coordinated are able to moderate decreases in present
+value GDP from -2.59% to 0.57%. And even in the case of non-coordination, the foreign economy
+benefits from the positive spillovers on its economy in terms of lower GDP declines (-2.7%) due
+to the positive trade balance in the foreign economy. However, the strongest impact assets swaps
+develop in the case of coordination leading even to positive increases in GDP after a negative
+financial market book shock. And the same is true for inflation (Figure 12), the lowest inflation
+variation is reached when central banks coordinate asset swaps (+0,056%) since asset swaps absorb
+liquidity.
+11For visibility reasons I had to increase asset swaps to 50% of GDP. If assets swaps would be equal to 5% of
+GDP (like liquidity injections), the impact would be hardly visible in the impulse responses compared to the market
+book shock.
+20
+-2.08% -2.41%
+-2.08% -2.261%
+-2.26% -2.59%
+-2.41% -2.59%
+Asset Swaps No Asset Swaps
+Asset Swaps
+No Asset
+Swaps
+Domestic Economy
+Foreign Economy
+Figure 11: Present value of GDP after a market book shock and subsequent asset swaps
+Results for the domestic economy are in the upper right corner of each box.
++0.056% +0.056%
++0.056% +0.056%
++0.056% +0.074%
++0.056% +0.074%
+Asset Swaps No Asset Swaps
+Asset Swaps
+No Asset
+Swaps
+Domestic Economy
+Foreign Economy
+Figure 12: Present value of inflation after a market book shock and subsequent asset swaps
+Results for the domestic economy are in the upper right corner of each box.
+5 Conclusion
+Unconventional measures while viewed as helpful and expansionary to the country where they
+are applied, are viewed with suspicion by foreign counterparts, even declared as weapons in a
+"currency war" between nations as they are commonly believed to depreciate the currency of the
+applying economy and thereby boosting its exports. However, empirical literature shows contradic-
+tory results, in that unconventional measures not always depreciate the currency and that different
+unconventional measure can lead to different outcomes (see Fratzscher et al. (2012), Honda et al.
+(2007)). Literature which tries to address this question from a theoretical standpoint by using a
+DSGE model with an interbank market is thin, since it was broadly assumed that financial agents
+do not mater due to the Modigliani-Miller theorem. The financial crisis dramatically showed the
+relevance of financial institutions and their importance in the transmission of monetary policy
+especially unconventional monetary policy. For this reason, it is important to address the question
+of the impact of unconventional measures on the exchange rate in a model with a meaningful
+interbank market imbedded in a two country economy.
+21
+In this paper I therefore propose an open economy model with an interbank market to analyze the
+impact of various unconventional measures on the exchange rate. I document that different uncon-
+ventional monetary policy measures do affect the exchange rate differently. In my model liquidity
+injections lead to an appreciation of the exchange rate in the short run but to a depreciation in
+the long run and the opposite is true for assets swaps (depreciation in the short run, appreciation
+in the long run). This is due to the impact of liquidity injections on the economy which lead to an
+increase in credit supply and domestic demand in the short run thus raising domestic prices and
+through the terms of trade appreciating the domestic currency. This effect, however, is reversed
+in the long run; as soon as credit supply starts to decrease, domestic prices start to decrease as
+well causing a depreciation of the domestic exchange rate which in turn leads to a positive trade
+balance in the domestic economy thereby lifting domestic output while foreign output is depressed.
+Asset swaps have the contrary impact on the exchange rate, in the short run they absorb liquidity
+leading to a decline in prices and thus to an depreciation but in the long run they cause an ap-
+preciation of the exchange rate as they increase credit supply and prices which leads to a negative
+trade balance and lower growth. My results for the behavior of the exchange rate in the short run,
+are in line with recent empirical findings see Fratscher et al. (2012), while my long run results are
+in line with the general economic and political debate in terms of currency wars. Furthermore,
+my paper shows that unconventional measures can have significant negative spillovers on other
+economies in terms of negative trade balances and thus lower GDP growth as well as increased
+variations in inflation. These results support the critical view of foreign country representatives
+on the excessive usage of unconventional measures, especially in the case of liquidity injections,
+which in my model result in higher GDP rates in the country where they are applied but lead to
+decreases in economic activity in the other country when non-coordinated. This results leads to
+the conclusion that the other country should also inject liquidity when it observes a country (with
+which it has substantial trading relations) applying this measure. Asset swaps, on the contrary,
+unfold the strongest impact when coordinated. And even in the case of non-coordination, they
+still have positive spillovers on the other economy. Another result of this paper is that liquidity
+injections better mitigate negative effects from a financial shock than asset swaps. While it is
+sufficient to inject liquidity as high as 5% of GDP to mitigate negative effects, asset swaps need to
+be substantially higher to see the same change.
+This paper contributes to the question of exchange rate behavior and coordination of uncon-
+ventional monetary policy in an international environment. It has important implications for the
+implementation of unconventional measures and can contribute to the debate on "currency wars".
+It also provides a versatile model which could be altered in various directions to be useful for
+related research questions such as the exit from unconventional measures.
+22
+6 Appendix
+Table 2.1: Calibrated Parameters
+Parameters12 Description Values
+r target rate in deposits 0.0035
+ discount factor 0.9965
+ elasticity of substitution 1.5
+1 -  trade openness 0.2
+m leisure utility parameter 3.14
+D
+l
+target in deposits 0.39
+ deposit gap disutility 0.216
+N employment 0.2
+µ capital share 0.3
+ capital depreciation 0.03
+ capital producer's variable default cost 103.04
+dc
+capital producer's fixed default cost 0.001
+ price elasticity of demand 6
+ price adjustment cost parameter 17.5
+a
+autoregression coefficient in technology equation 0.95
+k own funds ratio 0.08
+w Basel weight for loans to banks rating AAA to AA- (S&P) 0.2
+w Basel weight for loans to enterprises rating A+ to A- (S&P) 0.5
+ return on market book 0.02
+db
+= lb
+profit share allocated to own funds 0.5
+db
+share of own funds devoted to insurance fund (deposit bank) 0.07
+lb
+share of own funds devoted to insurance fund (lending bank) 0.06
+db
+= lb
+insurance coverage on defaulted amount of banks 0.8
+ lending bank's default cost 174
+dF db
+utility of own funds (deposit bank) 24.58
+dF lb
+utility of own funds (lending bank) 27.71
+B
+db
+= B
+lb
+market book volume of banks 0.19
+M
+autoregression coefficient for liquidity injections 0.85
+X
+autoregression coefficient for asset swaps 0.85
+Q
+Taylor reaction to inflation 1.7
+ inflation target 1
+µr
+policy inertia 0.8
+23
+References
+Angeloni, I. and E. Faia (2010): Capital Regulation and Monetary Policy with Fragile Banks,
+Working Paper, Frankfurt University
+Angeloni, I., Faia, E., and R. Winkler (2011): Exit Strategies, Kiel Working Paper No. 1676.
+Backus D. K., P.J. Kehoe, and F.E. Kydland (1992): International Real Business Cycles, The
+Journal of Political Economy, 100(4), pp. 745-775.
+Benigno P., (2001): Price Stability with Imperfect Financial Integration, CEPR Working Paper
+No. 2854.
+Benigno P. (2009): Price Stability with Imperfect Financial Integration, Journal of Money,
+Credit and Banking, 41, pp. 121-149.
+Bernanke, B., V. R. Reinhart, and B. P. Sack (2004): Monetary Policy Alternatives at the Zero
+Bound: An Empirical Assessment, Staff Working Papers in the Finance and Economics Discussion
+Series No. 2004-48.
+Clarida, R., J. Gali, and M. Gertler (1999): The Science of Monetary Policy: A New Keynesian
+Perspective, Journal of Economic Perspectives, 37(4), pp. 1661-1707.
+Curdia, V. and M. Woodford (2010): The Central-Bank Balance Sheet as an Instrument of
+Monetary Policy, Journal of Monetary Economics, forthcoming.
+de Walque, G., O. Pierrard, and A. Rouabah (2010): Financial (In)stability, Supervision and
+Liquidity Injections: A Dynamic General Equilibrium Approach, The Economic Journal, 120(549),
+pp. 1234-1261.
+Dedola, L., Karadi, P., and G. Lombardo (2012): Global Implications of National Unconven-
+tional Policies, Working Paper.
+Dib, A., (2010): Banks, Credit Market Frictions and Business Cycles, Bank of Canada, Work-
+ing Paper No. 2010-24.
+Faia, E. (2005): Financial Differences and Business Cycle Co-Movements in A Currency Area,
+Journal of Money, Credit and Banking, 39(1), pp. 151-185.
+Faia, E. (2007): Finance and International Business Cycles, Journal of Monetary Economics,
+54, pp. 1018-1034.
+Faia, E. (2008): Financial Frictions and the Choice of Exchange Rate Regimes, ECB Working
+Paper No. 56.
+24
+Faia, E., and T. Monacelli (2007): Optimal Monetary Policy Rules, Asset Prices and Credit
+Frictions, Journal of Economic Dynamics and Control, 31(10), pp. 3228-3254.
+Fratzscher M., M. Lo Duca, and R. Straub (2012): Quantitative Easing, Portfolio Choice and
+International Capital Flows, Mimeo April 2012.
+Gali, J. and M. Gertler (2007): Macroeconomic Modeling for Monetary Policy Evaluation,
+Journal of Economic Perspectives, 21(4), pp. 25-46.
+Gali, J., and T. Monacelli (2005): Monetary Policy and Exchange Rate Volatility in a Small
+Open Economy, Review of Economic Studies, 72, pp. 707-734.
+Gerali, A., S. Neri, L. Sessa, and F. M. Signoretti (2010): Credit and Banking in a DSGE
+model of the Euro Area, Banca d'Italia, Working paper No.741.
+Gertler, M. and P. Karadi (2009): A Model of Unconventional Monetary Policy, NYU, Working
+Paper.
+Gertler, M. and N. Kiyotaki (2010): Financial Intermediation and Credit Policy in Business
+Cycle Analysis, Working Paper.
+Gieck, J. and A. Trazyck (2010): Unconventional Monetary Policy and Bank Supervision,
+Working Paper, Frankfurt University.
+Goodfriend, M. (2000): Overcoming the Zero Bound on Interest Rate Policy, Journal of Money,
+Credit and Banking, 32(4), pp. 1007-35.
+Goodfriend, M. and B. McCallum (2007): Banking and Interest Rates in Monetary Policy
+Analysis: A Quantitative Exploration, Journal of Monetary Economics, 54(5), pp. 1480-1507.
+Goodhart, C., P. Sunirand, and D. Tsomocos (2005): A Risk Assessment Model for Banks,
+Annals of Finance, 1(2), pp. 197-224.
+Goodhart, C., P. Sunirand and D. Tsomocos (2006): A Model to Analyse Financial Fragility,
+Economic Theory, 27, pp. 3885-3900.
+Hillberg, B., and J. Hollmayr (2011): Asset Prices, Collateral and Unconventional Monetary
+Policy in a DSGE Model, ECB Working Paper No 1373.
+Honda, Y., Y. Kuroki and M. Tachibana (2007): An Injection of Base Money at Zero Interest
+Rates: Empirical Evidence from the Japanese Experience 2001- 2006, Osaka University, Discussion
+Papers in Economics and Business, No. 07-08.
+Kollmann R. (2004): Welfare Effects of a Monetary Union: the Role of Trade Openness, Jour-
+nal of the European Economic Association, 2 (2-3), pp 289-301.
+25
+Kollmann R., Z. Enders, and G. J. Mller (2011): Global Banking and International Business
+Cycles, Federal Reserve Bank of Dallas Working Paper No. 72.
+Kuttner, K. and A. Posen (2001): The Great Recession: Lessons for Macroeconomic Policy-
+makers from Japan, Brookings Papers on Economic Activity, 2, pp. 93-185.
+Rotemberg, J. (1982): Sticky Prices in the United States, The Journal of Political Economy,
+90(6), pp. 1187-1211.
+Schmitt-Grohe, S. and M. Uribe (2001): Closing Small Open Economy Models, Journal of
+International Economics, 61(1), pp. 163-185.
+26
+

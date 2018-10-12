@@ -1,0 +1,1471 @@
+Copyright 1996 by
+The Cerontological Society of America
+The Cerontologist
+Vol.36, No. 4,474-482
+Using data collected from the first wave of a longitudinal data set collected in the late fall and
+winter of 1990-1991, the National Survey of Self-Care and Aging (NSSCA), we examined the
+extent and type of assistance older people provided to others. Age, gender, and perceived
+health status were the most consistent predictors of the four types of assistance: personal care,
+child care, volunteer work, and listening/offering advice and support. Help with instrumental
+activities of daily living either alone or in combination with other activities of daily living was
+the most common type of personal care provided.
+Key Words: Elderly productive activity, National survey, Volunteering,
+Helping others, Informal care
+Older Adults as a Community Resource:
+Results From the National Survey
+of Self-Care and Aging1
+Jean E. Kincade, PhD,2 Donna J. Rabiner, PhD,3
+Shulamit L. Bernard, PhD,3 Alison Woomert, PhD,4
+Thomas R. Konrad, PhD,5 Gordon H. DeFriese, PhD,6 Marcia G. Ory, PhD7
+The American population is growing older, with
+the most rapid growth occurring in the age group 85
+years and older (U.S. Bureau of the Census, 1992).
+Often, along with the notion of an aging population,
+the assumption is that those 65 years and older are
+"dependent" and must be taken care of by those in
+younger age cohorts. This assumption is supported
+by the calculation of an "elderly dependency ratio,"
+defined as the number of persons aged 65 and over
+divided by the number of persons of working age
+(i.e., 18 to 64 years). The fact that this elderly depen-
+1This research was supported by a Cooperative Agreement from the
+National Institute on Aging and the Division of Nursing, Bureau of Health
+Professions (AG-07929-02). We gratefully acknowledge the professional
+assistance of Market Facts, Inc. of Arlington, Virginia, for their management
+of the national data collection aspect of the first wave in-person interviews.
+Special thanks also go to our programmer, Hazel L. Hadley and to Thomas
+Arcury, PhD, for his helpful comments on earlier versions of this article.
+2Research Associate, The Cecil C. Sheps Center for Health Services
+Research, and Assistant Professor, Curriculum in Public Health Nursing and
+Department of Health Policy and Administration, The University of North
+Carolina at Chapel Hill. Address correspondence to Jean E. Kincade, PhD,
+The Cecil C. Sheps Center for Health Services Research, Suite 210, 725
+Airport Road, CB#7590, The University of North Carolina at Chapel Hill,
+Chapel Hill, NC 27599-7590.
+3Post Doctoral Fellow, The Cecil C. Sheps Center for Health Services
+Research, The University of North Carolina at Chapel Hill.
+"·Research Associate, The Cecil C. Sheps Center for Health Services
+Research, The University of North Carolina at Chapel Hill.
+5Research Associate, The Cecil G. Sheps Center for Health Services
+Research and Research Associate Professor, Department of Social Medi-
+cine, The University of North Carolina at Chapel Hill.
+6Director, The Cecil G. Sheps Center for Health Services Research and
+Professor, Department of Health Policy and Administration, Department of
+Social Medicine and Department of Epidemiology, The University of North
+Carolina at Chapel Hill.
+7Chief, Social Science Research on Aging, Behavioral and Social Research
+Program, National Institute on Aging, National Institutes of Health, Be-
+thesda, MD.
+dency ratio has increased from .07 in 1900 to .18 in
+1975, and is projected to be .29 in 2030, is used to
+indicate that elderly people are becoming an increas-
+ing social and economic burden on society (Cnaan &
+Cwikel, 1992; Wisensale, 1991). A more positive per-
+spective, however, is that many older people are
+active, are employed well into their eighth decade of
+life, and can and do make substantial contributions
+to society. One of the ways they are able to make
+such contributions is by providing help to others.
+Why do older adults help others? One explanation
+is an egoistic one that suggests that helping is moti-
+vated by anticipation of rewards for helping, such as
+social approval, and censure for not helping. For
+example, a daughter may give up a part-time job to
+care for her mother to avoid criticism from family and
+friends or to see herself as being a good person
+(Schulz, 1990). A different perspective is provided by
+the theory that helping is based on altruistic motiva-
+tion. The goal is helping the other person and not the
+self, although benefits to oneself may be a conse-
+quence of helping. Thus, the caregiver is able to
+empathize with the care recipient and evoke a moti-
+vation aimed at reducing the other's needs (Schulz,
+1990). Sociological explanations for why people help
+others often include social norms such as reciproc-
+ity, equity, or social responsibility. Thus, helping
+others is a way of paying back what others have given
+to us or helping others is a duty that should not be
+shirked (Schulz, 1990). Proponents of activity theory
+suggest that maintenance of activity in old age com-
+pensates for role-loss and promotes morale and thus
+should be encouraged. Therefore, providing assis-
+tance not only benefits the recipients, but also pro-
+474 The Gerontologist
+motes the well-being of the providers (Cnaan &
+Cwikel,1992).
+What research has been done to document the
+scope of assistance and characteristics of the pro-
+viders? Substantial research has focused on: (1) the
+characteristics of the older adult as the recipient of
+assistance (e.g., Coward, Home, & Dwyer, 1992;
+Select Committee on Aging, 1987), (2) the reciprocal
+assistance provided between parents and children
+(e.g., Eggebeen, 1992; Speare & Avery, 1993; Spitze
+& Logan, 1992) or siblings (e.g., Avioli, 1989; Cicirelli,
+1992; Suggs, 1989), and (3) the types of volunteer
+work provided by older adults (e.g., Marriott Senior
+Volunteerism Study, 1991; Perry, 1983). However,
+relatively few studies have asked representative sam-
+ples of older people about the range of assistance
+provided to others (Patterson, 1987). In most of the
+studies cited, either the attention has been limited to
+those benefiting from (rather than providing) the
+care, or the scope of inquiry has been limited to
+family exchanges or to types of volunteer work pro-
+vided, rather than to broadening the range of study
+to include other types of assistance provided (such as
+personal care for other adults or child care). Only
+three studies of which we are aware provided a more
+comprehensive picture of older people as recipients
+and givers of care (Herzog, Kahn, Morgan, Jackson,
+& Antonucci, 1989; Shenk, 1991; U.S. Bureau of the
+Census, 1990). This article contributes to the geron-
+tological literature by using data collected from a
+nationally representative sample of community-
+dwelling older adults to examine the extent and type
+of assistance older people provide to others and the
+characteristics of both the providers and the recipi-
+ents of that assistance.
+Previous Studies
+The term informal caregiver (as compared with
+formal caregiver) has been defined somewhat differ-
+ently by researchers working in this area, but usually
+refers to care or services offered by a relative, friend,
+or neighbor who is a member of "a diffuse primary
+group characterized by its small size, affectivity, and
+durable commitment to each other's well-being"
+(DeFriese & Woomert, 1992, p. 63). Schulz (1990)
+reviews two approaches that are used to obtain sam-
+ples in caregiving research. The "direct" approach
+recruits caregivers directly during support group
+meetings of Alzheimer's, stroke, or cancer patients,
+while the "indirect" approach first locates older peo-
+ple with disabilities and asks them to identify, their
+primary (and sometimes secondary) caregivers.
+An example of the "direct" approach was the study
+conducted by Fortinsky and Hathaway (1990) where
+caregivers were recruited through the 20 Alzheimer's
+disease support groups in Maine. It was found that
+the active caregivers were overwhelmingly female
+(75.4%) and about one-third (34.5%) were 65 and
+older. An example of the "indirect" approach was
+the work of Coward, Home, and Dwyer (1992), who
+used data from the 1982 National Long-Term Care
+Survey (NLTCS) to identify elderly persons with im-
+pairments living in community settings. Using these
+data, they were able to describe the relationship be-
+tween the caregiver and elderly recipient, the latter
+being the focus of their research. These authors
+found that wives and daughters were most fre-
+quently mentioned as caregivers and that older
+women were more apt than men to be receiving help
+from both adult children and formal service pro-
+viders. The focus in both these approaches, how-
+ever, was on the elderly recipient of care and only
+indirectly did we find out what proportion of care-
+givers were elderly.
+Some studies focus on reciprocal assistance pro-
+vided between parents and children (intergenera-
+tional) or between siblings. For example, a study by
+Spitze and Logan (1992) focused on the frequency of
+several types of help between parents and adult
+children and the manner in which helping relation-
+ships evolved throughout the life course. They found
+that most kinds of household help were given more
+frequently by elderly parents to children than by
+children to their parents. Cicirelli (1992) summarized
+research related to siblings as caregivers in middle
+and older age. He concluded that sisters provided
+more help to siblings than brothers; in the adult
+child sibling network, sisters shared the caregiving
+burden more equally than brothers, and sisters and
+brothers tended to fulfill caregiving tasks depending
+upon how the tasks fit traditional conceptions of
+male and female roles.
+Older adults may provide help to others by.serving
+as volunteers. Volunteering has been defined by
+Smith and Freedman (1972, p. 115) as "any unpaid
+work performed for or through an organization,"
+while others have used a somewhat broader defini-
+tion to include working for others without monetary
+compensation (Independent Sector, 1990). Chambr6
+(1993) reviewed surveys from 1965 to 1990 that fo-
+cused on older adult volunteers. Her review sug-
+gested that the percentage of older adults who vol-
+unteer has been increasing over time. In 1965, about
+11% of those 65 and older had volunteered in the
+past year, but by the early 1990s, this percentage had
+increased to about 40%. However, these surveys
+varied widely in their definition of what is meant by
+being a volunteer. Older volunteers are more likely
+to be women, have a higher level of education and
+income, be in better health and have previous expe-
+rience as a volunteer compared with nonvolunteers
+(Marriott Senior Volunteerism Study, 1991; Perry,
+1983). In addition, the proportion of older adults who
+volunteer declines with age, especially over age 80
+(Chambr6, 1993). These studies tended to focus on
+broadly defined volunteer activities and did not ask
+about other types of help the older adults provided.
+One study provided data to give a more compre-
+hensive picture of assistance given to others by older
+people. The sixth interview of the 1985 panel of the
+Survey of Income and Program Participation (SIPP)
+asked questions both about help received and help
+provided to others (U.S. Bureau of the Census, 1990).
+This study included respondents 15 years of age and
+older from a representative national sample of
+households. Respondents were asked if they helped
+Vol.36, No. 4,1996 475
+another person with personal care, getting around
+outside, preparing meals, doing housework, or
+keeping track of bills and/or money and their rela-
+tionship to that person. Only 14.9% of the sample
+was 65 years of age or older. Of those 65 years and
+older, 5.5% provided a household member and 7.9%
+provided a nonhousehold member with help with
+one or more activity. In another study, Herzog and
+her colleagues (1989) used data from the 1986 survey
+entitled Americans' Changing Lives (ACL) to study
+these issues. This was a nationally representative
+sample of 3,617 respondents 25 years of age and
+older who were asked about "productive activity,"
+which was defined as those "activities that earn or
+save money or that help others in ways for which a
+market value can plausibly be imputed" (p. S130).
+They found that older Americans participated in a
+number of unpaid activities and noted the disadvan-
+tages of only including paid work in describing pro-
+ductive activity in their analysis. Findings from a
+multiphase qualitative study of 30 older women in
+central Minnesota (Shenk, 1991) provided evidence
+that older adults seek and provide assistance to and
+from a broad range of individuals. The decisions
+about seeking and providing assistance were "based
+on a range of variables including convenience, per-
+sonal relationships and availability. Arrangements
+that maximized their personal independence and
+control are strongly preferred" (p. 351).
+A different approach is taken in the study reported
+here by directly asking a representative national sam-
+ple of older adults about help (of various types) they
+provide to others. Data are presented from the first
+wave of a longitudinal database on older adults, the
+National Survey of Self-Care and Aging (NSSCA), an
+in-person interview study of self-care practices
+among community-dwelling adults aged 65 and
+older. As part of this study, subjects were asked
+whether, and for whom, they provide a variety of
+types of assistance. As a result, the data set provides
+national estimates of the proportion and characteris-
+tics of older people who provide different types of
+assistance to others and the characteristics of both
+providers and recipients of these services.
+In this article, the following questions are ad-
+dressed: (1) What proportion of older people pro-
+vide assistance to others? (2) What are the character-
+istics of older people who provide assistance to
+others? (3) Of those who provide personal assistance
+to others, what types of assistance do they provide?
+(4) To whom do older people provide personal assis-
+tance? (5) What is the association between the type of
+personal assistance provided and the characteristics
+of those who receive the assistance? (6) Which char-
+acteristics of older people are the best predictors of
+service to others?
+Methods
+Sample
+The target population for the National Survey of
+Self-Care and Aging consisted of all community-
+dwelling Medicare beneficiaries in the contiguous
+United States who were 65 years of age or older in
+1990. The final design was a stratified, multistage
+sample with geographic stratification in the first
+stage, based on the distribution of Medicare benefi-
+ciaries 65 years of age or older. In all but the final
+stage of sampling, probability proportional to mea-
+sures of target population size (PPS) selection meth-
+ods were used. First, 50 primary sampling units, 38
+urban and 12 rural, were randomly chosen. Standard
+Metropolitan Areas (SMAs) and counties served as
+primary sampling units (PSUs) in urban and rural
+areas, respectively. Within each urban PSU, three zip
+codes were selected in the second sampling stage.
+Eligible subjects who resided within these urban zip
+codes were then selected in the third stage. In rural
+counties the study sample was chosen from a list of
+all Medicare beneficiaries aged 65 and older in the
+county.
+This sample is characterized by several unique
+features: (1) It is representative of the total noninsti-
+tutionalized elderly population of Medicare benefi-
+ciaries in the contiguous United States; (2) it has
+been stratified by gender and age (males and females
+65 to 74 years, 75 to 84 years, and 85 years and older)
+in the final stage of selection, with oversampling of
+the oldest-old to facilitate subgroup analysis; and (3)
+it was selected proportional to the urban/rural distri-
+bution of the elderly population.
+Baseline in-person interviews, lasting approxi-
+mately one hour, were conducted with 3,485 respon-
+dents in the late fall and winter of 1990-1991. Ninety
+percent were conducted with the subject, while the
+remainder (10%) were conducted with proxies. Re-
+sponse rates, ranging from 66 to 71%, varied by age-
+sex categories and geographic location, with slightly
+higher response rates in the youngest age groups
+and among persons in rural communities. (For addi-
+tional information about the study design, see Nor-
+burnetal.,1995.)
+The analysis presented here uses estimation
+weights that account for the unequal probabilities of
+selection introduced by design considerations, po-
+tential biases introduced by differential coverage in
+the sampling frame, and sample imbalance due to
+varying response rates among important population
+subgroups (e.g., by age; Lessler & Kalsbeek, 1992).
+An initial set of weights was produced to reflect the
+probability of selection for each survey respondent.
+These weights were then post-stratified to match the
+age-race-sex distribution of the noninstitutionalized
+component of the Medicare Current Beneficiary
+Survey. Using the adjusted estimation weights en-
+ables the construction of valid national population
+estimates.
+Measures
+Dependent Variables. -- (A) Assistance to Others.
+All subjects were asked about three types of assis-
+tance that may have been provided to others. The
+question was asked, "During the last 12 months, did
+you periodically ...?" followed by the list of activi-
+476 The Gerontologist
+ties: provide child care, do volunteer work, or listen
+to others/offer advice and support. Individuals an-
+swered "yes" or "no" to each of these three types of
+activities. An additional open-ended question asked
+about any other assistance they may have given to
+others during the 12 months preceding the interview.
+(B) Personal Care. An initial question was asked to
+determine if subjects had helped anyone with any
+day-to-day activities during the last 12 months. If the
+subject answered "yes," he or she was then asked,
+"During the last 12 months, did you ever help an-
+other person ... ?" followed by a list of 15 activities.
+These activities were categorized into three dimen-
+sions: providing help with Basic Activities of Daily
+Living (BADL; i.e., helping someone to eat, bathe, or
+dress), help with Mobility Activities of Daily Living
+(MADL; i.e., helping someone to transfer, get out-
+side, walk or get to the toilet), and/or help with
+Instrumental Activities of Daily Living (IADL; i.e.,
+helping someone to prepare meals, do heavy or light
+housework, do yard work, prepare meals, take meals
+to someone, use the telephone, manage money, or
+shop for personal items). Individuals answered "yes"
+or "no" to each of the 15 specific activities. For each
+of these three ADL dimensions, a score was obtained
+by summing the number of activities with which the
+subject provided assistance. These scores were then
+collapsed into three dichotomous variables indica-
+ting whether the individual provided (or did not
+provide) assistance to another person with any of the
+types of activities within each functional domain. In
+addition, for some of the analysis, an overall score
+for personal care was created to indicate whether or
+not the subject provided assistance with any of the 15
+activities. If the subject helped another individual
+with any item, the following was asked, "Who did
+you help?" These responses were categorized by
+relationship to the care provider (i.e., whether the
+person helped was a spouse, another relative, or a
+close friend or neighbor).
+Independent Variables. -- The following subject
+characteristics are included in the analysis: age, gen-
+der, race, marital status, education, family/individual
+income as a percent of federal poverty guidelines,
+household composition (living alone), geographic
+residence (rural-urban), and self-perceived health.
+Age is divided into three categories: 65-74 years, 75-
+84 years, and 85 and older. Race is divided into
+African American and white/other. Asians and His-
+panics are included in the "other" group and com-
+bined with the "white" category because they consti-
+tuted too small a group for analysis. Household
+composition is defined as living alone versus living
+with at least one other person. Education was deter-
+mined by asking subjects what was the last grade of
+school they had completed. For this analysis, level of
+education was collapsed into four groups: primary
+grades (0 to 8 years of education), some high school
+(9 to 11 years), high school or trade school (high
+school or equivalent, business or trade school with-
+out finishing high school, or post high school busi-
+ness or trade school), and some college or more (at
+least one year of college). Current marital status was
+defined as never married, currently married, wid-
+owed, separated or divorced. Place of residence was
+collapsed into two groups: urban (MSA census defi-
+nition) and rural (non-MSA census definition). Per-
+ceived health status was determined by the response
+to the following question: "How would you rate your
+health at the present time? Would you say it is . . .
+(excellent, very good, good, fair, poor)?"
+Household income was coded in 12 ordered cate-
+gories. The family or household income variable was
+divided by the number of people supported by that
+income. Using the 1989 Bureau of the Census thresh-
+old for 100% of poverty level, the sample was catego-
+rized into five groups: below 100% of poverty, 100 to
+149% of poverty, 150 to 199% of poverty, 200 to 399%
+of poverty, and 400% or more of poverty. (For addi-
+tional information about imputation of missing val-
+ues for income data, see Norburn et al., 1995.)
+Analysis
+Descriptive and multivariate analyses were per-
+formed on the NSSCA data set in order to address the
+five research questions posed earlier. Weighted fre-
+quency distributions and weighted cross-tabulations
+were calculated using SUDAAN software (Research
+Triangle Institute, 1989) to: (1) assess the types of
+assistance provided, and (2) categorize the different
+providers and recipients of each type of assistance.
+SUDAAN properly incorporates all relevant features
+of the complex sampling design used in this study
+(i.e., PSU stratification, cluster sampling, and vari-
+able weights). Weighted multivariate logistic regres-
+sion procedures were performed to identify impor-
+tant predictors of the likelihood of: (a) providing
+personal care, (b) providing child care, (c) perform-
+ing volunteer services, and (d) listening or offering
+advice and support. In each multivariate model esti-
+mation, the dependent variable was coded with a
+value of one, indicating that some assistance was
+provided. A significance level of p < .05 was used in
+all multivariate model estimations.
+Results
+Table 1 shows both the total number of older
+adults who provide assistance and their sociodemo-
+graphic characteristics. Approximately one-third of
+community-dwelling elderly persons in the United
+States (about 8.5 million) provide assistance with
+personal care, almost one-fifth provide child care
+(15.7% or 4.4 million), or perform volunteer work
+(19.7% or 5.5 million), while 40% (11 million) listen to
+others/offer advice and support. An additional 13.6%
+answered affirmatively when asked an opened-
+ended question about any other type of assistance
+they provide. Other categories of assistance (not
+shown in table) provided include financial help to
+family and friends, transportation to doctor's ap-
+pointments and church, household and car repairs,
+writing letters, visits to sick friends and family, and
+feeding neighbor's pets.
+Vol. 36, No. 4,1996 477
+Table 1. Characteristics of Older Persons Who Provide Assistance to Others by Type of Assistance (in Thousands)
+Characteristic
+Total who provide assistance
+Age
+65-74 years
+75-84 years
+85 years and older
+Sex
+Female
+Male
+Race
+African American
+Other
+Current marital status
+Married
+Widowed
+Divorced
+Separated
+Never married
+Place of residence
+Urban
+Rural
+Education
+Primary grades
+Some high school
+High school or trade school
+Some or completed college
+Family income as a percent of poverty
+Less than 100% of poverty
+100-149% of poverty
+150-199% of poverty
+200-399% of poverty
+400% or more of poverty
+Lives alone
+No
+Yes
+Perceived present health
+Excellent
+Very good
+Good
+Fair
+Poor
+Personal Care
+n
+8,531
+5,255
+2,937
+331
+5,044
+3,479
+794
+7,729
+5,380
+2,362
+361
+84
+335
+6,146
+2,376
+623
+2,128
+3,206
+2,470
+1,151
+1,206
+1,110
+3,289
+1,767
+6,476
+2,047
+1,236
+2,296
+2,939
+1,707
+331
+Percent
+30.7
+35.1
+29.3
+11.9
+30.7
+30.6
+28.3
+30.9
+35.8
+23.8
+29.2
+26.7
+25.7
+31.0
+29.8
+25.3
+24.8
+31.4
+40.1
+25.6
+23.2
+28.3
+35.2
+36.7
+33.3
+24.5
+34.2
+35.9
+36.5
+24.6
+12.1
+± SE
+± 2.48
+± 3.43*
+± 2.61
+± 1.57
+± 2.84
+± 2.85
+± 3.68
+± 2.68
+± 2.86
+± 3.31
+± 7.24
+± 12.41
+± 5.63
+± 3.12
+± 3.85
+± 2.81
+± 2.84
+± 3.44
+± 3.32
+± 2.88
+± 3.36
+± 3.56
+± 3.41
+± 3.10
+± 2.84
+± 3.25
+± 3.74
+± 3.41
+± 3.85
+± 3.05
+± 2.83
+Child Care
+n
+4,358
+3,237
+973
+147
+2,833
+1,525
+459
+3,899
+2,576
+1,524
+168
+31
+58
+3,281
+1,077
+315
+1,303
+1,782
+891
+678
+536
+582
+1,698
+864
+3,435
+923
+744
+1,275
+1,142
+939
+244
+Percent
+± SE
+15.7 ± 1.34
+21.6 ± 2.01
+9.7 ± 1.50
+5.3 ± 1.09
+17.2 ± 1.89
+13.4 ± 1.58
+16.4 ± 2.71
+15.6 ± 1.43
+17.1 ± 1.72
+15.4 ± 2.09
+13.6 ± 3.36
+10.0 ± 8.85
+4.5 ± 3.12
+16.6 ± 1.51
+13.5 ± 2.91
+12.8 ± 2.19
+15.2 ± 2.29
+17.4 ± 1.81
+14.4 ± 2.38
+15.1 ± 2.57
+10.3 ± 2.31
+14.8 ± 2.32
+18.1 ± 2.47
+17.9 ± 2.16
+17.7 ± 1.42
+11.1 ± 1.71
+20.6 ± 3.77
+19.9 ± 2.04
+14.2 ± 1.59
+13.6 ± 2.63
+8.9 ± 2.49
+Volunteer Work
+n
+5,467
+3,349
+1,839
+279
+3,107
+2,360
+330
+5,137
+3,412
+1,739
+140
+18
+158
+3,982
+1,485
+82
+989
+2,388
+1,956
+319
+529
+707
+2,548
+1,365
+3,982
+1,485
+1,087
+2,016
+1,494
+775
+86
+Percent
+± SE
+19.7 ± 1.35
+22.4 ± 2.00
+18.4 ± 1.89
+10.1 ± 1.25
+18.9 ± 1.96
+20.8 ± 1.65
+11.8 ± 3.50
+20.6 ± 1.41
+22.7 ± 1.76
+17.6 ± 2.34
+11.3 ± 2.96
+5.9 ± 5.64
+12.1 ± 3.87
+20.1 ± 1.67
+18.6 ± 2.20
+3.3 ± 0.85
+11.5 ± 1.26
+23.4 ± 2.60
+31.8 ± 3.29
+7.1 ± 1.68
+10.2 ± 1.38
+18.0 ± 2.46
+27.3 ± 2.34
+28.4 ± 3.22
+20.5 ± 1.48
+17.8 ± 2.25
+30.1 ± 3.72
+31.6 ± 3.59
+18.6 ± 1.75
+11.2 ± 1.94
+3.1 ± 1.13
+Listen/Offer Advice
+and Support
+n
+10,982
+6,480
+3,674
+827
+6,806
+4,175
+1,241
+9,740
+5,986
+3,834
+550
+105
+496
+8,050
+2,932
+554
+2,660
+3,973
+3,632
+1,392
+1,611
+1,485
+3,916
+2,576
+7,624
+3,357
+1,645
+3,133
+3,037
+2,449
+682
+Percent
+39.5
+43.3
+36.6
+29.8
+41.4
+36.7
+44.2
+39.0
+39.9
+38.7
+44.5
+33.5
+38.1
+40.6
+36.8
+22.5
+31.0
+38.9
+58.9
+31.0
+30.9
+37.8
+41.9
+53.6
+39.2
+40.2
+45.5
+49.1
+37.8
+35.3
+25.0
+± SE
+± 3.39
+± 3.71
+± 3.69
+± 3.81
+± 3.85
+± 3.41
+± 5.73
+± 3.59
+± 3.19
+± 4.27
+± 6.47
+± 14.84
+± 7.57
+± 4.19
+± 5.69
+± 3.78
+± 3.48
+± 4.44
+± 4.41
+± 4.25
+± 3.84
+± 6.27
+± 3.83
+± 4.01
+± 3.27
+± 4.08
+± 5.10
+± 4.54
+± 3.63
+± 3.76
+± 4.89
+*This represents the percentage of each subgroup that provides assistance. For example, 35.1 % of those 65-74 years, 29.3% of those 75-
+84 years, and 11.9% of those 85 and older provide personal care.
+Based on 1990 population estimates of approximately 27 million Americans over the age of 65 living in noninstitutional settings,
+excluding Hawaii and Alaska; totals within categories vary slightly because of missing values.
+In all cases, the percentage of older adults who
+provide assistance declines sharply across the age
+groupings (and particularly after age 85). This rela-
+tionship is most pronounced for assistance with per-
+sonal care and child care and is least pronounced for
+listening/offering advice and support. A smaller per-
+centage of African Americans do volunteer work
+compared to whites/others, and smaller proportions
+of those who are divorced, separated or never mar-
+ried provide child care and perform volunteer work
+compared to those who are married or widowed. The
+estimates for marital status are based on low preva-
+lence and must be viewed with some caution be-
+cause of the size of the standard error in relation to
+the estimate. A smaller percentage of older adults
+with lower education and lower income do volunteer
+work. Even so, providing assistance is not an activity
+reported only by those in excellent health. Except for
+the percent performing volunteer work, which is
+lower for older adults with good, fair or poor self-
+ratings of health, the percentage of older adults
+providing help declines only slightly until self-rated
+health for the provider is reported as poor. Overall,
+and for each category of assistance, there is a high
+478 The Gerontologist
+degree of similarity in the background characteristics
+of individuals providing help. (As an example, nearly
+equal proportions of men and women provide assis-
+tance with personal care, child care, do volunteer
+work or listen and offer advice.)
+Table 2 focuses on the subgroup of respondents
+who provide personal care to others, by type of
+assistance provided. The overwhelming majority re-
+port that they provide help with lADLs or lADLs in
+combination with some other type of personal care.
+Providing assistance with lADLs only, or in combina-
+tion with BADLs and/or MADLs accounts for 96.7% of
+assistance provided with personal care.
+Table 3 shows that nearly the same percentages of
+spouses, other relatives, and close friends/neighbors
+are the recipients of assistance with personal care.
+The assistance given by older adults seems to be
+directed toward only one individual (i.e., spouse
+only, other relative only, or close friend or relative
+only) rather than a variety of individuals.
+Table 4 describes the relationship between the
+type of personal assistance provided and the recipi-
+ent of that assistance. As noted in Table 2, small
+numbers of respondents assist with basic ADLs only,
+mobility ADLs only, or a combination of basic ADLs
+and mobility ADLs. When assistance is provided with
+basic ADLs or mobility ADLs only, it is most likely
+given to assist a close friend or neighbor. Some of
+these estimates are based on behaviors of low preva-
+lence and must be viewed with caution because of
+the size of the standard errors in relation to the
+estimates. Most striking is the fact that across all
+recipients, the most common type of personal assis-
+tance provided is for instrumental ADLs (alone, or in
+combination with other activities). In addition, when
+only instrumental ADL assistance is provided, it is
+usually given to only one person. In contrast, when
+instrumental ADL assistance is provided in combina-
+tion with other ADLs, there is a much broader range
+of recipients receiving such care.
+Table 5 presents the results of the multivariate
+analysis to identify important predictors of the likeli-
+Table 2. Percentage of Older Adults Who Provide Personal Care
+by Type of Personal Care (in Thousands)
+Type of Personal Care
+Provides assistance with:
+Basic activities of daily living only
+Mobility activities of daily living only
+Instrumental activities of daily
+living only
+Both basic and mobility activities
+of daily living
+Both basic and instrumental
+activities of daily living
+Both mobility and instrumental
+activities of daily living
+Basic, mobility, and instrumental
+activities of daily living
+Total
+n
+71
+207
+5,154
+6
+527
+1,132
+1,432
+8,531
+Percent
+± SE
+0.8 ± 0.54
+2.4 ± 0.52
+60.4 ± 3.22
+0.1 ± 0.08
+6.2 ± 1.42
+13.3 ± 1.69
+16.8 ± 2.40
+100.0
+Note: Based on 1990 population estimates of approximately 27
+million Americans over the age of 65 living in noninstitutional
+settings, excluding Hawaii and Alaska.
+Table 3. Percentage of Older Adults Who Provide Personal Care
+by Type of Relationship With Recipient (in Thousands)
+Person Who Receives
+Personal Care
+Spouse only
+Other relative only
+Close friend or neighbor only
+Both spouse and other relative
+Both spouse and close friend
+or neighbor
+Both other relative and close
+friend or neighbor
+Spouse, other relative, and
+close friend or neighbor
+Total
+n
+1,930
+2,349
+2,787
+425
+297
+650
+93
+8,531
+Percent
+± SE
+22.6 ± 2.70
+27.5 ± 2.18
+32.7 ± 3.39
+5.0 ± 0.89
+3.5 :t 0.51
+7.6 ± 1.47
+1.1 ± 0.37
+100.0
+Note: Based on 1990 population estimates of approximately 27
+million Americans over the age of 65 living in noninstitutional
+settings, excluding Hawaii and Alaska.
+Table 4. Relationship Between Type of Personal Care and Recipient of Care (in Thousands)
+Type of Personal Care
+BADL only
+MADL only
+lADLonly
+BADL and MADL
+BADL and IADL
+MADL and IADL
+BADL, MADL and IADL
+Spouse
+Only
+(Percent
+±SE)
+0.7 ± 0.87
+23.6 ± 12.52
+21.6 ± 3.66
+0.0
+25.5 ± 8.61
+8.8 ± 2.82
+37.2 ± 5.48
+Other
+Relative
+Only
+(Percent
+±SE)
+30.6 ± 14.34
+6.9 ± 5.58
+29.9 ± 3.34
+0.0
+22.5 ± 8.09
+27.9 ± 5.82
+23.6 ± 4.61
+Recipient of Care
+Close
+Friend/
+Neighbor
+Only
+(Percent
+±SE)
+68.7 ± 14.07
+66.1 ± 13.39
+35.1 ± 4.72
+100.0
+10.7 ± 4.29
+42.5 ± 6.57
+17.4 ± 4.99
+Spouse
+and One
+or More
+Others
+(Percent
+±SE)
+0.0
+3.4 ± 3.33
+9.3 ± 1.38
+0.0
+25.1 ± 8.72
+4.5 ± 2.16
+10.1 ± 2.53
+Other
+Relative
+and
+Friend/
+Neighbor
+(Percent
+±SE)
+0.0
+0.0
+4.2 ± 1.08
+0.0
+16.1 ± 5.64
+16.2 ± 6.32
+11.7 ± 4.91
+Total
+N = 72
+N = 207
+N = 5,154
+N = 6
+N = 527
+N = 1,132
+N = 1,432
+Note: Based on 1990 population estimates of approximately 27 million Americans over the age of 65 living in noninstitutional settings,
+excluding Hawaii and Alaska. BADL = Basic Activities of Daily Living; MADL = Mobility Activities of Daily Living; IADL = Instrumental
+Activities of Daily Living.
+Vol. 36, No. 4,1996 479
+Table 5. Predictors of Providing Assistance to Others by Category of Assistance (Odds Ratios)
+Variable
+Age
+65-74 years#
+75-84 years
+85 years and older
+Sex
+Male (vs female)
+Race
+African American (vs other)
+Current marital status
+Married
+Widowed
+Divorced
+Separated
+Never married#
+Place of residence
+Rural (vs urban)
+Education
+Primary grades#
+Some high school
+High school or trade school
+Some college or more
+Family income as a percent of poverty
+Less than 100% of poverty
+100-149% of poverty
+150-199% of poverty
+200-399% of poverty#
+400% or more of poverty
+Living arrangements
+Lives alone (vs lives with others)
+Perceived present health
+Excellent
+Very good
+Good
+Fair
+Poor#
+Personal
+Care
+(n = 27,772)
+0.873***
+0.324***
+0.726***
+1.022
+1.565***
+1.025
+1.170
+1.224
+1.015
+0.835***
+0.928
+1.440***
+1.039
+0.803***
+0.893**
+0.935
+0.880**
+3.292***
+3.473***
+3.963***
+2.408***
+Child
+Care
+(n = 27,699)
+0.393***
+0.180***
+0.616***
+1.019
+2.993***
+4.962***
+3.055***
+1.721*
+0.846***
+1.023
+0.811**
+0.715***
+1.058
+0.592***
+0.903
+1.112*
+0.503***
+2.370***
+2.304***
+1.637***
+1.568***
+Volunteer
+Work
+(in thousands)
+(n = 27,720)
+0.959
+0.604***
+0.881**
+0.879*
+2.099***
+1.761***
+1.027
+0.674
+1.082*
+2.038***
+3.280***
+4.689***
+0.463***
+0.516***
+0.812***
+0.854***
+1.218***
+8.022***
+8.341***
+4.544***
+3.068***
+Listen/Offer
+Advice
+and Support
+(n = 27,639)
+0.806***
+0.631***
+0.697***
+1.754***
+1.069
+1.104
+1.331***
+0.837
+0.938*
+1.352***
+1.658***
+3.692***
+0.895*
+0.823***
+1.060
+1.299***
+1.051
+1.875***
+2.127***
+1.467***
+1.432***
+Note: Totals for each model vary slightly because of missing values. # = referent category.
+*p =
+£ .05; **p =s .01; ***p =s .001.
+hood of: (a) providing personal care, (b) providing
+child care, (c) performing volunteer services, and (d)
+listening and offering advice and support.
+Providing Personal Care. -- The odds of providing
+personal care declines with age and is lower for men
+than women. Respondents who are married are one
+and one-half times more likely to provide personal
+care than those who are never married. This is not
+surprising because many married couples help one
+another. Higher education (some college or more)
+appears to increase the odds of providing personal
+care, although these findings are statistically signifi-
+cant for only two of the three education groups. Two
+categories of family income (100-149% of poverty
+and 150-199% of poverty) as well as living alone are
+associated with a decrease, albeit slight, in the odds
+of providing personal care. The most striking finding
+is the association between self-perceived health and
+the likelihood of providing personal care. Using
+poor perception of health as a referent category,
+even fair ratings of health are associated with nearly
+2.5 times the odds of providing personal care. On the
+other hand, race and place of residence do not alter
+the odds of providing personal care.
+Providing Child Care. -- Older age, being male,
+and living in rural areas are associated with a decrease
+in the odds of providing child care, while being mar-
+ried at some point during one's lifetime is associated
+with an increase in the odds of providing child care.
+This latter finding was anticipated because these re-
+spondents are more likely to have grandchildren.
+Geographic mobility of the children of rural elderly
+persons that may result in greater distances from
+grandchildren may be a partial explanation for the
+decreased odds of rural elderly persons providing
+child care. Both education and living alone are associ-
+480 The Gerontologist
+ated with a decrease in the odds of providing child
+care. Self-perceived health is significantly related to
+providing child care, although not with the same
+magnitude as for the provision of personal care;
+those in good or fair (as opposed to poor) health are
+about one and one-half times more likely to provide
+child care. In general, family income and race do not
+alter the odds of providing child care.
+Performing Volunteer Services. -- Being very old
+(85 and older) is associated with a reduction in the
+odds of performing volunteer work. Although the
+odds ratios for gender, race, place of residence, and
+living arrangements are all significant, they are close
+to 1. Similarly, although the odds ratios for education
+and income are both significant, the magnitude of
+the effect of education is considerably larger than the
+impact of income on the likelihood of performing
+volunteer work. Perceived health has a substantial
+impact on the odds of performing volunteer work;
+those in excellent or very good health (as opposed to
+poor health) are over eight times more likely to
+provide volunteer services.
+Listening and Offering Advice. -- Advancing age
+and being male decrease the odds of listening and
+offering advice to others as a form of assistance,
+while being white or other race, having higher edu-
+cation, and reporting better perceived health in-
+crease these odds. The odds ratios for being di-
+vorced (as opposed to never being married), living in
+a rural area, and living alone also are statistically
+significant, but they are close to one. Living alone is
+not associated with the odds of listening and offering
+advice and support.
+Discussion
+This article addressed six questions concerning the
+proportion and characteristics of older people who
+provided different types of assistance to others and
+the characteristics of both the providers and recipi-
+ents of these services. In this section, these ques-
+tions will be revisited in light of the results.
+(1) What proportion of older people provide assis-
+tance to others? It is evident from the data presented
+in this article that impressive numbers of older peo-
+ple in the United States provide assistance in a variety
+of different areas, thereby contributing significantly
+to the vitality of their social networks and their com-
+munity integration. Although a smaller percentage of
+older adults report that they volunteer their time and
+effort in assistance to others compared to that re-
+ported in prior studies (Chambre\ 1993), this may be
+in part an artifact of the data from the present study.
+Most other studies of volunteer behavior focused
+only on volunteer activities and did not ask about the
+provision of other types of assistance. In this study,
+however, respondents were asked about help pro-
+vided both with different types of personal care (in-
+cluding such things as help with yard work, bringing
+meals to another person and shopping), and child
+care, prior to being asked about the extent of their
+volunteer commitments. As a result, some of the
+activities that were classified as volunteer work in
+other studies may have been classified as other cate-
+gories of assistance (e.g., personal care, child care,
+or listening/offering advice) in the current study.
+(2) What are the characteristics of older people
+who provide assistance to others and which of these
+characteristics are the best predictors of service to
+others? In the descriptive analysis, surprisingly similar
+proportions of men versus women, rural versus
+urban-dwellers, and older adults living solo versus
+multiple-occupant dwellings provided assistance to
+others. After controlling relevant variables in the mul-
+tivariate analysis, however, the most consistent pre-
+dictors across the four categories of assistance were
+age, gender, and self-reported health status. Educa-
+tion also was a positive predictor of the likelihood of
+performing volunteer work and listening or giving
+advice, while income was a positive predictor of the
+likelihood of performing volunteer work. These pre-
+dictors are similar in magnitude and direction to
+those found in other studies (Chambr6, 1993; Mar-
+riott Senior Volunteerism Study, 1991; Perry, 1983).
+In general, those who provide assistance are most
+likely to be female and in the younger age groups,
+and in addition, those who volunteer are more likely
+to have higher education. In future cohorts, how-
+ever, women will be more likely to be in the work
+force and overall educational attainment will in-
+crease. Also, Social Security and other pension pro-
+grams are facing greater financial risk, resulting in
+the necessity for many older people to remain em-
+ployed to an older age (Cnaan & Cvvikel, 1992).
+Therefore, as the age of retirement and amount of
+education increase, it will be important to monitor
+the possible impact of these factors on the willing-
+ness of future generations of older adults to provide
+assistance to others. It is also noteworthy that assis-
+tance to others is not an activity restricted to those
+who perceive their health to be extremely good. On
+the contrary, for a large proportion of older adults,
+providing assistance does not decline substantially
+until the older person perceives his or her health to
+be poor. This finding provides convincing evidence
+that older adults continue to provide assistance to
+others even when their own health may be declining.
+(3) Of those who provide personal assistance to
+others, what types of assistance do they provide, to
+whom do older people provide personal assistance,
+and what is the association between the type of
+personal assistance provided and characteristics of
+those who receive assistance? It is not surprising that
+older adults are most likely to provide help with
+instrumental activities of daily living (including such
+things as yard work, light and heavy housework,
+making meals, bringing meals to someone, shop-
+ping for personal items, etc.), because instrumental
+ADLs do not require the intimacy and continuous
+proximity of the person providing help, as is the case
+with basic and mobility ADLs (Norburn et al., 1995).
+Moreover, when assistance with mobility or basic
+ADLs is provided, such assistance is generally pro-
+Vol. 36, No. 4,1996 481
+vided in combination with lADLs and given to a wide
+spectrum of individuals.
+It has been pointed out by proponents of activity
+theory that older persons contribute to society not
+only through their volunteer work and assistance to
+others but also that these "activities increase their
+health and well-being." Therefore, "they benefit
+themselves as well as a society that might otherwise
+be burdened with the consequences of their bad
+health and lowered well-being" (Herzog & House,
+1991, pp. 52-53).
+In conclusion, it is evident that older adults are a
+resource to the communities in which they live.
+Although we did not ascertain the age of the person
+to whom assistance was provided, it is clear from the
+questions we did ask that older adults provide assis-
+tance to individuals both related and unrelated to
+them, and to persons of all ages. As discussed earlier,
+the potential of older people as a resource could be
+influenced by a number of factors, some of which
+may increase and some of which may decrease the
+size of this resource. Increased life expectancy, in
+conjunction with increased levels of education and
+income and technological advances to improve qual-
+ity of life, may increase the likelihood that older
+adults will be able to help others, while increased
+workforce participation and continued threats to fi-
+nancial security (due to cutbacks in Medicare and
+increases in the Social Security retirement age) may
+reduce the availability of older adults to provide
+assistance and serve as resources to others. In the
+future, more opportunities should be made available
+to further explore the implications and expand the
+potential of this resource.
+References
+Avioli, P. S. (1989). The social support functions of siblings in later life.
+American Behavioral Scientist, 33, 45-57.
+Chambre', S. M. (1993). Volunteerism by elders: Past trends and future
+prospects. The Gerontologist, 33, 221-228.
+Cicirelli, V. C. (1992). Siblings as caregivers in middle and older age. In J. W.
+Dwyer & R. T. Coward (Eds.), Gender, families and eldercare (pp. 84-
+101). Newbury Park, CA: Sage.
+Cnaan, R. A., & Cwikel, J. G. (1992). Elderly volunteers: Assessing their
+potential as an untapped resource, journal of Aging & Social Policy, 4(1/
+2), 125-147.
+Coward, R. T., Home, C , & Dwyer, J. W. (1992). Demographic perspectives
+on gender and family caregiving. In J. S. Dwyer & R. T. Coward (Eds.),
+Gender, families, and eldercare (pp. 18-33). Newbury Park, CA: Sage.
+DeFriese, G. H., & Woomert, A. (1992). Informal and formal health care
+systems serving older persons. In M. G. Ory, R. P. Abies, & P. D. Lipman
+(Eds.), Aging, health and behavior (pp. 57-82). Newbury Park, CA: Sage.
+Eggebeen, D. J. (1992). Family structure and intergenerational exchanges.
+Research on Aging, 14,427-447.
+Fortinsky, R. H., & Hathaway, T. J. (1990). Infrastructure and service needs
+among active and former family caregivers of persons with Alzheimer's
+disease. The Gerontologist, 30, 604-609.
+Herzog, A. R., & House, J. S. (1991). Productive activities and aging well.
+Generations, 75(1), 49-54.
+Herzog, A. R., Kahn, R. L., Morgan, J. N., Jackson, J. S., & Antonucci, T. C.
+(1989). Age differences in productive activities. Journal of Gerontology:
+Social Sciences, 44, S129-S138.
+Independent Sector. (1990). Giving and volunteering in the United States.
+Washington, DC: Author.
+Lessler, J. T., & Kalsbeek, W. D. (1992). Nonsampling error in surveys. New
+York: Wiley.
+Marriott senior volunteerism study. (1991). Commissioned by Marriott Sen-
+ior Living Services and United States Administration on Aging. Washing-
+ton, DC: Marriott Senior Living Services.
+Norburn, J. E. K., Bernard, S. L., Konrad, K. R., Woomert, A., DeFriese,
+G. H., Kalsbeek, W. D., Koch, C. G., & Ory, M. G. (1995). Self-care and
+assistance from others in coping with functional status limitations
+among a national sample of older adults. The Journal of Cerontology:
+Social Sciences, 50B, S101-S109.
+Patterson, S. L. (1987). Older rural natural helpers: Gender and site differ-
+ences in the helping process. The Gerontologist, 27(5), 639-644.
+Perry, W. H. (1983). The willingness of persons 60 or over to volunteer:
+Implications for the social services. Journal of Gerontological Social
+Work, 5,107-118.
+Research Triangle Institute. (1989). SUDAAN. Professional Software for
+SUrvey DAta ANalysis. Research Triangle Park, NC: Author.
+Schulz, R. (1990). Theoretical perspectives on caregiving: Concepts, vari-
+ables and methods. In D. E. Biegel & A. Blum (Eds.), Aging and caregiv-
+ing: Theory, research, and policy (pp. 27-52). Newbury Park, CA: Sage.
+Select Committee on Aging (U.S. House of Representatives). (1987). Explod-
+ing the myths: Caregiving in America (Report No. 99-611). Washington,
+DC: U.S. Government Printing Office.
+Shenk, D. (1991). Older rural women as recipients and providers of social
+support. Journal of Aging Studies, 5, 347-358.
+Smith, C , & Freedman, A. (1972). Voluntary associations in community
+service. New York, NY: Community & Service Society.
+Speare, A., & Avery, R. (1993). Who helps whom in older parent-child
+families. Journal of Gerontology: Social Sciences, 48, S64-S73.
+Spitze, G., & Logan, J. R. (1992). Helping as a component of parent-adult
+child relations. Research on Aging, 14, 291-312.
+Suggs, P. K. (1989). Predictors of association among older siblings: A black/
+white comparison. American Behavioral Scientist, 33, 70-80.
+U.S. Bureau of the Census. (1990). The need for personal assistance with
+everyday activities: Recipients and caregivers (Current Population Re-
+ports, Series P-70, No. 19). Washington, DC: U.S. Government Printing
+Office.
+U.S. Bureau of the Census. (1992). Sixty-five plus in America (Current
+Population Reports, Special Studies, P-23-178RV). Washington, DC:
+U.S. Government Printing Office.
+Wisensale, S. K. (1991). An intergenerational policy proposal for the 1990s:
+Applying the temporary disability insurance model to family caregiving.
+Journal of Aging and Social Policy, 3,163-183.
+Received April13, 1995
+Accepted October 7, 1995
+482 The Gerontologist
+

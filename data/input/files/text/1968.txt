@@ -1,0 +1,1004 @@
+By Glen P. Mays and Sharla A. Smith
+Evidence Links Increases In Public
+Health Spending To Declines In
+Preventable Deaths
+ABSTRACT Public health encompasses a broad array of programs designed
+to prevent the occurrence of disease and injury within communities. But
+policy makers have little evidence to draw on when determining the value
+of investments in these program activities, which currently account for
+less than 5 percent of US health spending. We examine whether changes
+in spending by local public health agencies over a thirteen-year period
+contributed to changes in rates of community mortality from preventable
+causes of death, including infant mortality and deaths due to
+cardiovascular disease, diabetes, and cancer. We found that mortality
+rates fell between 1.1 percent and 6.9 percent for each 10 percent increase
+in local public health spending. These results suggest that increased
+public health investments can produce measurable improvements in
+health, especially in low-resource communities. However, more money by
+itself is unlikely to generate significant and sustainable health gains;
+improvements in public health practices are needed as well.
+Despite devoting far more resourc-
+es to health than any other coun-
+try in the world, the United States
+continues to lag behind many
+other industrialized nations in
+health outcomes, including morbidity and mor-
+tality.1 Although there are many factors that con-
+tribute to this gap between resources and out-
+comes, one possible contributor is the relatively
+limited investment in public health activities
+that are designed to promote health and prevent
+disease and disability.2­5 These activities include
+efforts to monitor community health status; in-
+vestigate and control disease outbreaks; educate
+the public about health risks and prevention
+strategies; enforce public health laws and regu-
+lations such as those concerning tobacco use;
+and inspect and ensure the safety and quality
+of water, food, air, and other resources necessary
+for health.6
+Although national data on public health
+spending are scarce and imperfect, estimates
+consistently indicate that less than 5 percent
+of national health spending is devoted to public
+health activities.7­9 In fact, the United States
+spends more on administrative overhead for
+medical care and health insurance than it does
+on public health activities.10
+The resources invested in public health strat-
+egies within the United States vary widely across
+states and communities, yet the effects of this
+variation on population health remain poorly
+understood. Consequently, public health offi-
+cials and policy makers face considerable uncer-
+tainty regarding the appropriate levels and tar-
+gets of investing in public health activities.
+The Affordable Care Act of 2010 authorized the
+largest expansion in federal public health spend-
+ing in decades--a projected $15 billion in new
+spending over ten years--with the goals of im-
+proving population health, reducing health dis-
+parities, and helping to "bend the cost curve" by
+moderating growth in medical care spending.
+However, uncertainties regarding the expected
+doi: 10.1377/hlthaff.2011.0196
+HEALTH AFFAIRS 30,
+NO. 8 (2011): 1585­1593
+©2011 Project HOPE--
+The People-to-People Health
+Foundation, Inc.
+Glen P. Mays (gpmays@
+uams.edu) is a professor in
+and the chairman of the
+Department of Health Policy
+and Management at the Fay
+W. Boozman College of Public
+Health, University of Arkansas
+for Medical Sciences, in Little
+Rock.
+Sharla A. Smith is a research
+associate in the Department
+of Health Policy and
+Management, University of
+Arkansas for Medical
+Sciences.
+August 2011 30:8 Health Affairs 1585
+Web First
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+effect and value of these public health invest-
+ments have contributed to the political contro-
+versy surrounding the Affordable Care Act.11,12
+Meanwhile, a persistent economic downturn
+has precipitated large cuts in state and local
+government support for public health activities,
+which has raised concerns about future adverse
+consequences for population health.
+To shed light on these uncertainties, this study
+uses measures of public health spending from
+local public health agencies over a thirteen-year
+period to estimate the effects of this spending on
+preventable mortality rates.
+Background
+Public health activities in the United States are
+supported through a patchwork of funding
+sources and financing arrangements that vary
+widely across states and communities and that
+are relatively unstable over time.13,14 These ar-
+rangements result in large geographic differen-
+ces in spending for public health activities, even
+among communities with relatively similar pop-
+ulation characteristics and health needs.15
+At the state level, per capita public health
+spending varied by a factor of more than thirty
+in 2010, ranging from a low of less than $4 in
+Nevada to a high of more than $171 in Hawaii.9
+Local variation in public health spending was
+even larger, ranging from less than $1 per capita
+to more than $200 per capita in 2008; among
+local public health agencies the median spent
+was about $36 per person.16 Many communities
+depend heavily on local tax bases to support
+public health programs, making it difficult for
+economically disadvantaged communities to
+support a comprehensive array of activities.17
+Because only 16 percent of funding for public
+health activities is derived from the federal
+government,7 federal spending is insufficient
+to equalize large differences in funding--from
+taxes--of public health programs across lo-
+calities.18
+The amount of resources expended on public
+health activities in a given community is deter-
+mined through a complex interaction of eco-
+nomic conditions and fiscal capacities, commu-
+nity health needs, policy priorities, and delivery
+system characteristics.15 Community-level varia-
+tion in public health spending may result from
+differences in the mix of activities produced; dif-
+ferences in the volume, intensity, and quality of
+activities produced; and differences in the pro-
+duction and delivery costs incurred.
+Higher levels of spending may contribute to
+improved population health if resources are al-
+located to activities that are effective in reducing
+health risks, and if these activities are targeted
+successfully to population groups at risk. How-
+ever, communities may vary considerably in how
+effectively and efficiently resources are used to
+address community health needs, thereby weak-
+ening the effect of spending on population
+health. Research has documented such discon-
+nects between spending and outcomes in local
+medical care delivery.19
+On balance, there is very little empirical evi-
+dence about the extent to which differences in
+public health spending levels contribute to dif-
+ferences in population health.20 Several cross-
+national studies have found weak and conflicting
+associations between spending and health out-
+comes at a national level.21­23 In the United
+States, several time-series studies have examined
+associations between spending levels and health
+outcomes for specific types of programs such as
+those targeting HIV prevention, sexually trans-
+mitted disease prevention, and tobacco control,
+finding that disease incidence and/or harmful
+behaviors declined as expected in response to
+funding increases.24­28
+However, very little attention has been paid to
+the value of investments in the public health
+system as a whole, leading to persistent ques-
+tions about whether the nation's current spend-
+ing levels are worth the opportunity costs. Better
+evidence about the consequences of these spend-
+ing patterns is likely to help policy makers at all
+levels of government make informed decisions
+about how to allocate scarce health resources.
+To this end, we assembled a unique longitudi-
+nal database that included local government
+public health spending, population characteris-
+tics, and community mortality rates, in order to
+estimate how changes in public health spending
+influence population health.We used the consid-
+erable natural variation in public health spend-
+ing levels across communities, and the consid-
+erable change in these levels over time, to
+estimate health effects.
+This study focuses on spending and health at
+the local level because local public health agen-
+cies--rather than their state and federal counter-
+parts--assume primary responsibility for di-
+rectly implementing public health activities in
+most communities.29 Most federal and state
+funding--and large amounts of private philan-
+thropic funding--for public health activities is
+channeled through local public health agencies.
+The local agencies also mobilize and coordinate
+the public health activities of hospitals, health
+plans, and community-based organizations.30
+Thus, these agencies provide valuable settings
+in which to study the health consequences of
+public health spending in the United States.
+Web First
+1586 Health Affairs August 2011 30:8
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+Study Data And Methods
+We analyzed changes in spending patterns and
+mortality rates within the service areas of the
+nation's nearly three thousand local public
+health agencies over a thirteen-year period.
+The study population included all organizations
+that met the National Association of County and
+City Health Officials' definition of a local health
+department: a unit of a local or state government
+that has responsibility for performing public
+health functions for a geopolitical jurisdiction
+smaller than a state.16 In 2005 approximately
+73 percent of these agencies served county juris-
+dictions or combined city and county jurisdic-
+tions, and the remaining agencies served city
+or township jurisdictions (16 percent), or multi-
+county or regional jurisdictions (11 percent).
+Data Sources And Measures The National
+Association of County and City Health Officials
+collected spending data along with organiza-
+tional and operational characteristics of local
+public health agencies through census surveys
+conducted in 1993, 1997, and 2005. Key variables
+reflecting annual agency spending, service offer-
+ings, and staffing levels were collected in each
+year of the survey.We linked the survey data with
+contemporaneous county-level data on popula-
+tion characteristics and health resources from
+the Health Resources and Services Administra-
+tion's Area Resource File (a national county-level
+health resource information database), federal
+and state spending estimates from the Census
+Bureau's Consolidated Federal Funds Report and
+Census of Governments, and cause-specific mor-
+tality rates from the Centers for Disease Control
+and Prevention's Compressed Mortality File.
+As outcome measures, we used mortality rates
+that were expected to be sensitive to public
+health interventions over the thirteen-year
+period of study,31,32 including the age-adjusted
+all-cause mortality rate, the infant mortality rate,
+and the age-adjusted mortality rates for heart
+disease, cancer, diabetes, and influenza. Two
+additional mortality measures were selected as
+control conditions based on the expectation that
+they would not be influenced by public health
+resources and interventions during the study
+period. These measures included mortality from
+Alzheimer's disease and a measure of residual
+mortality indicating deaths not attributable to
+heart disease, cancer, diabetes, chronic obstruc-
+tive pulmonarydisease, influenza, cerebrovascu-
+lar diseases, or unintentional injuries.
+The primary independent variable of interest
+in this analysis is the measure of per capita local
+public health spending, defined as the total an-
+nual spending of the local public health agency,
+divided by the total population residing within
+the jurisdiction of the agency. We also con-
+structed measures of direct state and federal pub-
+lic health spending that were not passed through
+to local public health agencies. Other measures
+reflecting community demographic and socio-
+economic characteristics and area health re-
+sources are used as control variables in the analy-
+sis (Exhibit 1).
+Analytic Methods Multivariate regression
+models for panel data were used to estimate
+the effect of local public health spending on each
+mortality measure while controlling for the ef-
+fects of other community characteristics that in-
+fluence population health. Time-trend variables
+were used in the models to account for general
+downward trends in mortality that occurred
+independently of spending.
+An important methodological complication
+arises in this analysis because local public health
+spending levels may be influenced by unob-
+served community characteristics that simulta-
+neously influence mortality. For example,
+deteriorating local economic conditions may
+cause public health spending to decline and mor-
+tality risks to rise, resulting in incorrect infer-
+ences about how spending influences mortality.
+To address this possible source of bias, we used
+instrumental variables methods to distinguish
+the effects of spending on mortality from the
+effects of unmeasured characteristics that simul-
+taneously influence spending and mortality.33,34
+This methodology requires the identification of
+variables that influence local public health
+spending but have no direct effects on commu-
+nity mortality rates. We used measures of local
+public health decision-making structures for this
+purpose, including whether the agency is gov-
+erned by a local board of health with policy mak-
+ing authority, and whether the agency operates
+under the centralized administrative control of
+state government. Theory and previous studies
+indicate that these characteristics influence the
+ability and inclination of local public health
+agencies to secure external funding sources for
+their work.15,35­37
+Specification tests38 confirm that the struc-
+tural characteristics meet the requirements for
+instrumental variables (see the Appendix).39 Us-
+ing a two-step process, we first estimated the
+effect of the instrumental variables on spending
+levels, and then used the natural variation in
+spending produced by these variables to esti-
+mate how spending affects mortality.
+Limitations Several limitations of this analy-
+sis are worthy of emphasis. Although we used
+strong statistical controls to address possible
+sources of bias,34,35 it remains possible that fac-
+tors distinct from, but closely correlated with,
+public health spending may explain some of
+the observed associations between spending
+August 2011 30:8 Health Affairs 1587
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+and mortality. In addition, our analysis focused
+on selected mortality rates as measures of pop-
+ulation health, not on other indicators of disease
+burden or quality of life.
+Local public health activities may have impor-
+tant and perhaps more immediate effects on
+these other indicators of health. Moreover, the
+thirteen-year time period used in this study is
+insufficient for observing the complete, long-
+term effects of public health interventions on
+chronic disease mortality rates. Consequently,
+this analysis may underestimate the health con-
+sequences of changes in local public health
+spending.
+Study Results
+Variation In Spending And Mortality A gen-
+eral secular trend of growth in public health
+spending and reductions in selected mortality
+rates during the 1993­2005 period masked sig-
+nificant community-level differences. Local pub-
+lic health spending in the average community
+reached $40.84 per capita in 2005, up from
+$34.68 per capita in 1993 (Exhibit 1). However,
+only 65 percent of agencies experienced positive
+growth in per capita public health spending dur-
+ing the 1993­2005 period, while 35 percent of
+agencies experienced spending reductions.
+The degree of change in per capita spending
+varied widely across communities. The top
+20 percent of agencies experienced growth of
+nearly 150 percent, while the bottom 20 percent
+of agencies experienced reductions of nearly
+45 percent during the study period. Meanwhile,
+infant mortality and heart disease mortality rates
+declined moderately during the same period,
+continuing a longer-term secular trend down-
+ward, while cancer and diabetes mortality rose
+slightly (Exhibit 1).
+The rates of change in these outcomes varied
+widely among communities. For example, the
+top 20 percent of communities experienced a
+reduction in age-adjusted heart disease mortality
+Exhibit 1
+Characteristics Of The Study Communities, 1993 And 2005
+Variable 1993 mean 1993 SD 2005 mean 2005 SD
+Public health agency characteristics
+Per capita public health spending $34.68 $33.08 $40.84 $42.52
+Agency governed by local board of health 64.41% 57.42%
+Agency operates as centralized unit of state agency 10.27% 7.83%
+Community characteristics
+Population size (1,000s) 108.63 340.60 131.44 426.42
+Population per square mile (1,000s) 475.08 1,841.46 484.04 1,842.57
+Community located within a metropolitan area 51.05% 50.48%
+Percent of:
+Population nonwhite 14.33 17.93 19.27 17.36
+Population 65 or older 14.39 3.91 14.07 4.00
+Population with college degree 15.85 8.25 19.59 9.53
+Population unemployed 6.21 2.42 5.64 2.26
+Population below federal poverty level 15.65 7.04 11.92 4.79
+Population non­English speaking 1.07 1.77 1.73 2.32
+Population uninsured 13.66 4.65 13.52 4.50
+Medical care resources
+Active physicians per 100,000 population 138.04 133.83 169.24 159.23
+Hospital beds per 100,000 population 384.16 320.51 320.60 372.81
+Federally qualified health center serves community 48.33% 46.57%
+Health outcomes
+Infant deaths per 1,000 live births 8.76 3.50 7.03 3.22
+Deaths per 100,000 population from:
+Influenza 36.11 17.66 27.28 15.52
+Cancer 215.46 56.16 219.49 57.99
+Heart disease 225.02 78.87 194.09 76.95
+Diabetes 23.47 10.58 28.67 14.41
+Total deaths per 100,000 population 1,020.97 256.59 980.62 270.68
+Number of observations 2,026 2,300
+SOURCE Authors' analysis of linked data from the National Association of County and City Health Officials' National Profile of Local Health Departments, the Census
+Bureau's Census of Governments and Consolidated Federal Funds Report, the Health Resources and Services Administration's Area Resource File, and the Centers for
+Disease Control and Prevention's Compressed Mortality File. NOTE SD is standard deviation.
+Web First
+1588 Health Affairs August 2011 30:8
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+of 104 deaths per 100,000 people, while the bot-
+tom 20 percent of communities saw mortality
+increase by forty-three deaths per 100,000 peo-
+ple. Overall, population size, educational attain-
+ment, physician availability, and number of peo-
+ple above the federal poverty level increased in
+the average community during this period.
+Determinants Of Public Health Spending
+Local decision-making structures influenced
+public health spending levels considerably. Per
+capita spending was more than 17 percent higher
+in communities governed by a local board of
+health, compared to communities without such
+boards (p < 0:001) (Exhibit 2). Moreover,
+spending was 24 percent lower among agencies
+that operated under the centralized administra-
+tive control of state agencies, as compared to
+independent local agencies.
+Public health spending increased with social
+indicators of community health need, including
+the unemployment rate, the uninsured rate, and
+the nonwhite racial composition of the commu-
+nity, whereas spending decreased with the avail-
+ability of selected medical resources in the com-
+munity (Exhibit 2).
+Effects Of Spending On Mortality In-
+creases in public health spending were associ-
+ated with statistically significant reductions in
+mortality for four of the six mortality rates we
+examined (Exhibit 3). The strongest effects were
+found for infant mortality and cardiovascular
+disease mortality, indicating that mortality rates
+fellby6.9percentand3.2percentforeach10 per-
+cent increase in spending (p < 0:05). Diabetes
+mortality fell by 1.4 percent and cancer mortality
+fell by 1.1 percent for each 10 percent increase in
+spending (p < 0:05).
+Influenza mortality and total mortality
+changed in the expected direction, but did not
+reach statistical significance. Public health
+spending showed no association with the two
+control conditions, Alzheimer's mortality and
+residual mortality, helping us to rule out the
+possibility of spurious associations between
+spending and mortality.
+Overall, public health spending emerged as
+one of the most consistent determinants of com-
+munity-level preventable mortality. Most of the
+other variables that were consistently associated
+with reductions in mortality reflected social de-
+terminants of health, including educational at-
+tainment, percentage of the population above
+the federal poverty level, and percentage of the
+population that was white (see the Appendix).39
+Medical resource variables were not consistently
+associated with mortality after controlling for
+the effects of other variables in the analysis.
+Discussion
+Communities with larger increases in public
+health spending experienced larger reductions
+Exhibit 2
+Influence Of Selected Characteristics On Local Public Health Spending
+Characteristic Percent change in spending
+Public health agency characteristics
+Agency governed by local board of health 0.169***
+Agency operates as centralized unit of state agency -0:240***
+Community characteristics
+Population per square mile (1,000s) 0.001
+Community lies within a metropolitan area -0:388***
+Percent of population nonwhite 0.008***
+Percent of population 65 or older 0.010
+Percent of population with college degree -0:011***
+Unemployment rate 0.013**
+Percent of population below federal poverty level 0.005
+Percent of population non­English speaking -0:068***
+Percent of population uninsured 0.037***
+Medical care resources
+Active physicians per 100,000 population 0.002
+Hospital beds per 100,000 population -0:002***
+Federally qualified health center serves community -0:174***
+SOURCE Authors' analysis of linked data from the National Association of County and City Health Officials' National Profile of Local
+Health Departments, the Census Bureau's Census of Governments and Consolidated Federal Funds Report, the Health Resources and
+Services Administration's Area Resource File, and the Centers for Disease Control and Prevention's Compressed Mortality File. NOTE
+This table shows coefficient estimates from a semilogarithmic regression model that controls for demographic, socioeconomic, and
+health resources characteristics and community-specific random effects. **p < 0:05 ***p < 0:01
+August 2011 30:8 Health Affairs 1589
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+in mortality from leading preventable causes of
+death over a thirteen-year period. This relation-
+ship was consistent across several different
+mortality measures, and it persisted after ac-
+counting for differences in demographic and
+socioeconomic characteristics, medical resour-
+ces, and unobserved community characteristics
+that jointly influence spending and health. These
+findings are consistent with recent time-series
+studies estimating that, nationally, as much as
+50 percent of the gains in life expectancy expe-
+rienced in the United States since 1950 are attrib-
+utable to public health attention to diet, tobacco
+exposure, and other measures.40­44
+Although our study does not establish a defini-
+tive causal link between spending and mortality
+because of the observational research design we
+used, it nevertheless provides compelling evi-
+dence that differences in public health invest-
+ments may contribute to differences in commu-
+nity health outcomes. Consequently, efforts to
+improve community health and reduce geo-
+graphic disparities in mortality are likely to re-
+quire attention not only to local medical resourc-
+es and interventions, but also to the resources
+invested in local public health activities.
+The findings imply that the mortality reduc-
+tions attributable to increases in public health
+spending are sizable, and may exceed the reduc-
+tions achievable through similar expansions in
+local medical care resources. For example, our
+estimates suggest that a 10 percent increase in
+public health spending could achieve a 3.2 per-
+cent reduction in cardiovascular mortality. This
+spending increase would require an additional
+$312,274 in annual funding in the average met-
+ropolitan community included in our analysis.
+Achieving this same mortality reduction by
+increasing the number of primary care physi-
+cians would require an additional twenty-seven
+physicians in the average metropolitan commu-
+nity, based on a recent analysis of physician sup-
+ply.45 Increasing the physician supply by this
+amount would probably require new spending
+considerably in excess of the amount needed to
+achieve the mortality reduction through public
+health spending. The potential for substitution
+and synergy between public health and medical
+care resources is an important area for fur-
+ther study.
+The strongest associations between spending
+and mortality were observed for infant mortality,
+cardiovascular disease, diabetes, and cancer--
+four of the preventable health conditions most
+commonly targeted by public health agencies. In
+2005, 73 percent of the nation's local health de-
+partments maintained screening and/or risk-
+reduction programs for cardiovascular disease
+or high blood pressure, 74 percent delivered ma-
+ternal and infant health programs involving nu-
+trition and/or prenatal care, and 69 percent
+performed activities to reduce tobacco expo-
+sure--a risk factor for all four causes of death.16
+Evidence-based public health interventions
+areknown to address risk factors for thesecauses
+of death.46­48 The observed associations between
+spending and mortality are consistent with the
+expectation that higher levels of spending allow
+public health agencies to implement these types
+of risk-reduction activities more effectively
+within their communities.
+Influenza mortality and total mortality did not
+appear sensitive to public health spending in our
+analysis. A combination of factors may explain
+Exhibit 3
+Effects Of Local Public Health Spending On Community Mortality Rates
+Mortality rate
+Percent change per
+10% increase in spending
+Infant deaths per 1,000 live births -6:85***
+Heart disease deaths per 100,000 population -3:22**
+Diabetes deaths per 100,000 population -1:44**
+Cancer deaths per 100,000 population -1:13**
+Influenza deaths per 100,000 population -0:25
+All-cause deaths per 100,000 population -0:29
+Alzheimer's deaths per 100,000 population 0.25
+Residual deaths per 100,000 population 0.18
+SOURCE Authors' analysis of linked data from the National Association of County and City. Health Officials' National Profile of Local
+Health Departments, the Census Bureau's Census of Governments and Consolidated Federal Funds Report, the Health Resources and
+Services Administration's Area Resource File, and the Centers for Disease Control and Prevention's Compressed Mortality File. NOTE
+This table shows coefficient estimates obtained from instrumental variables estimation of semilogarithmic regression models for
+panel data that control for demographic, socioeconomic, and health resources characteristics and community-specific random
+effects. **p < 0:05 ***p < 0:01
+Web First
+1590 Health Affairs August 2011 30:8
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+the influenza result, including the dearth of
+effective community-based interventions for
+achieving high vaccination rates, random varia-
+tion in influenza lethality, and inconsistencies in
+how deaths are attributed to influenza.49 For to-
+tal mortality, the lack of a significant spending
+effect probably stems from the heterogeneous
+disease processes reflected in this broad mortal-
+ity measure and the many factors beyond public
+health interventions that influence these
+processes.
+Our results suggest that additional spending,
+such as the $15 billion in new federal funds au-
+thorized under the Affordable Care Act's Preven-
+tion and Public Health Fund, would be expected
+to generate substantial improvements in popu-
+lation health over time. At the same time, our
+results suggest that the recent recession-driven
+reductions in state and local support for public
+health activities are likely to have adverse health
+consequences over time unless they are offset
+with new spending. Additional research is ur-
+gently needed to track the downstream effects
+of these ongoing, unprecedented spending
+shocks in public health. Our study provides a
+foundation for these future investigations.
+The mortality reductions attributable to public
+health spending in this study represent average
+effects across all US local public health agencies
+and across all categories of local governmental
+public health spending. Unfortunately, because
+our analysis of spending was carried out at an
+aggregate level, our results do not suggest how
+future funding increases and reductions should
+be allocated among the many programs and ser-
+vices maintained at the local level.
+The aggregate nature of our analysis may also
+explain the relatively modest mortality effects we
+observed. By measuring spending levels in spe-
+cific programmatic areas such as tobacco con-
+trol, nutrition, and physical activity, it may be
+possible to identify more precise relationships
+between investments and health outcomes and
+to examine the comparative effectiveness of each
+type of spending. Such targeted studies will re-
+quire much more detailedspendingdata than are
+currently available for local public health agen-
+cies nationwide, which calls attention to the
+need for improved data systems to track public
+health spending.
+Our analysis supports the contention that
+spending on local public health activities is a
+wise health investment. Increasing such invest-
+ments in communities with historically low lev-
+els of spending may provide an effective way of
+reducing geographic disparities in population
+health. However, more money by itself is
+unlikely to generate significant and sustainable
+health gains.
+A growing body of evidence suggests that the
+quality and efficiency of public health practice
+within the United States have considerable room
+for improvement, and progress in these areas
+could greatly increase the value of additional
+public health spending.35,50­54 Better systems
+for tracking data on trends in public health
+spending and the use of funds at local, state,
+and national levels are needed to ensure that
+resources are allocated wisely. Moreover, the re-
+sulting estimates of spending and their health
+consequences must be accessible to public health
+officials, policy makers, and the public at large to
+support informed decision making about soci-
+etal investments in public health activities. 
+August 2011 30:8 Health Affairs 1591
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+This research was supported by the
+Robert Wood Johnson Foundation's
+Changes in Health Care Financing and
+Organization Program (Grant 56469) and
+the Public Health Practice-Based
+Research Networks Program (Grant
+64676). Glen Mays also was supported
+through a Clinical and Translational
+Science Award from the National
+Institutes of Health National Center for
+Research Resources (Award
+1UL1RR029884). Data for this study
+were provided by the National
+Association of County and City Health
+Officials Profile of Local Health
+Departments. The content is solely the
+responsibility of the authors and does
+not necessarily represent the official
+views of the Robert Wood Johnson
+Foundation, the National Institutes of
+Health, or the National Association of
+County and City Health Officials.
+[Published online July 21, 2011.]
+NOTES
+1 Davis K. Health and wealth: meas-
+uring health system performance.
+Invited testimony at the hearing on
+rethinking the gross domestic
+product as a measurement of na-
+tional strength, before the Subcom-
+mittee on Interstate Commerce,
+Trade, and Tourism of the Senate
+Committee on Commerce, Science,
+and Transportation [Internet].
+Washington (DC): The Common-
+wealth Fund; 2008 Mar 12 [cited
+2011 Jun 23]. Available for download
+from: http://www.commonwealth
+fund.org/Content/Publications/
+Testimonies/2008/Mar/
+Testimony--Health-and-Wealth--
+Measuring-Health-System-
+Performance.aspx
+2 Lee P, Paxman D. Reinventing public
+health. Annu Rev Public Health.
+1997;18:1­35.
+3 Lantz PM, Lichtenstein RL, Pollack
+HA. Health policy approaches to
+population health: the limits of
+medicalization. Health Aff (Mill-
+wood). 2007;26(5):1253­7.
+4 Mehrotra A, Dudley RA, Luft HS.
+What's behind the health expendi-
+ture trends? Annu Rev Public Health.
+2003;24:385­412.
+5 McGinnis MJ, Williams-Russo P,
+Knickman JR. The case for more
+active policy attention to health
+promotion. Health Aff (Millwood).
+2002;21:78­93.
+6 Institute of Medicine. The future of
+public health. Washington (DC):
+National Academies Press; 1988.
+7 Sensenig AL. Refining estimates of
+public health spending as measured
+in the national health expenditures
+accounts: the US experience. J Public
+Health Manag Pract. 2007;13(2):
+103­114.
+8 Brown R, Elixhauser A, Corea J, Luce
+B, Sheingold S. National expendi-
+tures for health promotion and dis-
+ease prevention activities in the
+United States. Washington (DC):
+Batelle Medical Technology Assess-
+ment and Policy Research
+Center; 1991.
+9 Trust for America's Health. Short-
+changing America's health 2006: a
+state-by-state look at how federal
+public health dollars are spent.
+Washington (DC): Trust for Ameri-
+ca's Health; 2006.
+10 Centers for Medicare and Medicaid
+Services. National health expendi-
+tures by type of service and source of
+funds, CY 1960­2006. Baltimore
+(MD): CMS; 2008.
+11 Russell LB. Preventing chronic dis-
+ease: an important investment, but
+don't count on cost savings. Health
+Aff (Millwood). 2009;28(1):42­5.
+12 Goldman DP, Lakdawalla DN. Can
+the ACA improve population health?
+The Economists' Voice. 2010;7(5):
+1­5.
+13 Gordon RL, Gerzoff RB, Richards
+TB. Determinants of US local health
+department expenditures, 1992
+through 1993. Am J Public Health.
+1997;87(1):91­5.
+14 Gerzoff RB, Gordon RL, Richards
+TB. Recent changes in local health
+department spending. J Public
+Health Policy. 1996;17(2):170­80.
+15 Mays GP, Smith SA. Geographic
+variation in public health spending:
+correlates and consequences. Health
+Serv Res. 2009;44(5 Pt 2):1796­817.
+16 National Association of County and
+City Health Officials. 2008 national
+profile of local health departments.
+Washington (DC): NACCHO; 2009.
+17 Hajat A, Brown CK, Fraser MR. Local
+public health agency infrastructure:
+a chartbook. Washington (DC): Na-
+tional Association of County and City
+Health Officials; 2001.
+18 Bernet PM. Local public health
+agency funding: money begets
+money. J Public Health Manag Pract.
+2007;13(2):188­93.
+19 Fisher ES, Wennberg DE, Stukel TA,
+Gottlieb DJ, Lucas FL, Pinder EL. The
+implications of regional variations in
+Medicare spending. Part 2: health
+outcomes and satisfaction with care.
+Ann Intern Med. 2003;138(4):
+288­98.
+20 Carande-Kulis VG, Getzen TE,
+Thacker SB. Public goods and
+externalities: a research agenda for
+public health economics. J Public
+Health Manag Pract. 2007;13(2):
+227­32.
+21 Filmer D, Pritchett L. The impact of
+public spending on health: does
+money matter? Soc Sci Med. 1999;
+49(10):1309.
+22 Rivera B. The effects of public health
+spending on self-assessed health
+status: an ordered probit model.
+Appl Econom. 2001;33(10):1313­9.
+23 Ghobarah HA, Huth P, Russett B.
+Comparative public health: the
+political economy of human misery
+and well-being. Int Studies Q.
+2004;48(1):73­94.
+24 Farrelly MC, Pechacek TF, Thomas
+KY, Nelson D. The impact of tobacco
+control programs on adult smoking.
+Am J Public Health. 2008;98(2):
+304­9.
+25 Holtgrave DR, Kates J. HIV incidence
+and CDC's HIV prevention budget:
+an exploratory correlational analy-
+sis. Am J Prevent Med. 2007;32(1):
+63­67.
+26 Chesson HW, Harrison P, Scotton
+CR, Varghese B. Does funding for
+HIV and sexually transmitted disease
+prevention matter? Evidence from
+panel data. Eval Rev. 2005;29(1):
+3­23.
+27 Linas BP, Zheng H, Losina E,
+Walensky RP, Freedberg KA.
+Assessing the impact of federal HIV
+prevention spending on HIV testing
+and awareness. Am J Public Health.
+2006;96(6):1038­43.
+28 Tauras JA, Chaloupka FJ, Farrelly
+MC, Giovino GA, Wakefield M,
+Johnston LD, et al. State tobacco
+control spending and youth smok-
+ing. Am J Public Health. 2005;95(2):
+338­44.
+29 Halverson PK, Miller CA, Kaluzny
+AD, Fried BJ, Schenck SE, Richards
+TB. Performing public health func-
+tions: the perceived contribution of
+public health and other community
+agencies. J Health Hum Serv Adm.
+1996;18(3):288­303.
+30 Mays GP, Scutchfield FD, Bhandari
+MW, Smith SA. Understanding the
+organization of public health deliv-
+ery systems: an empirical typology.
+Milbank Q. 2010;88(1):81­111.
+31 Perrin EB, Koshel JJ, editors. As-
+sessment of performance measures
+for public health, substance abuse,
+and Mental Health. Washington
+(DC): National Academies
+Press; 1997.
+32 Hutchinson KD, Turnock BJ. Fea-
+sibility of linking core function-
+related performance measures and
+community health outcomes.
+Chicago (IL): University of Illi-
+nois; 1999.
+33 Newhouse JP, McClellan M. Econo-
+metrics in outcomes research: the
+use of instrumental variables. Ann
+Rev Public Health. 1998;19(1):17­34.
+34 Angrist J, Imbens G, Rubin D.
+Identification of causal effects using
+instrumental variables. J Am Statis-
+Web First
+1592 Health Affairs August 2011 30:8
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+tics Assoc. 1996;91:444­55.
+35 Mays GP, Halverson PK, Baker EL,
+Stevens R, Vann JJ. Availability and
+perceived effectiveness of public
+health activities in the nation's most
+populous communities. Am J Public
+Health. 2004;94(6):1019­26.
+36 Mays GP, McHugh MC, Shim K,
+Perry N, Lenaway D, Halverson PK,
+et al. Institutional and economic
+determinants of public health system
+performance. Am J Public Health.
+2006;96(3):523­31.
+37 DeFriese GH, Hetherington JS,
+Brooks EF, Miller CA, Jain SC,
+Kavaler F, et al. The program impli-
+cations of administrative relation-
+ships between local health depart-
+ments and state and local
+government. Am J Public Health.
+1981;71(10):1109­15.
+38 Staiger D, Stock J. Instrumental
+variables regression with weak in-
+struments. Econometrica. 1997;
+65(3):557­86.
+39 To access the Appendix, click on the
+Appendix link in the box to the right
+of the article online.
+40 Bunker JP. The role of medical care
+in contributing to health improve-
+ments within societies. Int J Epide-
+miol. 2001;30(6):1260­3.
+41 Bunker JP, Frazier HS, Mosteller F.
+Improving health: measuring effects
+of medical care. Milbank Q. 1994;
+72:225­58.
+42 Goldman L, Cook EF. The decline in
+ischemic heart disease mortality
+rates: an analysis of the comparative
+effects of medical interventions and
+changes in lifestyle. Ann Intern Med.
+1984;101:825­36.
+43 Cutler DM, Rosen AB, Vijan S. The
+value of medical spending in the
+United States, 1960­2000. N Engl J
+Med. 2006;355(9):920­7.
+44 Ford ES, Capewell S. Proportion of
+the decline in cardiovascular mor-
+tality disease due to prevention ver-
+sus treatment: public health versus
+clinical care. Annu Rev Public
+Health. 2011;32:5­22.
+45 Ricketts TC, Holmes GM. Mortality
+and physician supply: does region
+hold the key to the paradox? Health
+Serv Res. 2007;42(6 Pt 1):2233­51.
+46 Briss PA, Brownson RC, Fielding JE,
+Zaza S. Developing and using the
+Guide to Community Preventive
+Services: lessons learned about evi-
+dence-based public health. Annu Rev
+Public Health. 2004;25(1):281­302.
+47 Brownson RC, Ballew P, Brown KL,
+Elliott MB, Haire-Joshu D, Heath
+GW, et al. The effect of disseminating
+evidence-based interventions that
+promote physical activity to health
+departments. Am J Public Health.
+2007;97(10):1900­7.
+48 Matson-Koffman DM, Brownstein
+JN, Neiner JA, Greaney ML. A site-
+specific literature review of policy
+and environmental interventions
+that promote physical activity and
+nutrition for cardiovascular health:
+what works? Am J Health Promot.
+2005;19(3):167­93.
+49 Dushoff J, Plotkin JB, Viboud C,
+Earn DJ, Simonsen L. Mortality due
+to influenza in the United States--an
+annualized regression approach us-
+ing multiple-cause mortality data.
+Am J Epidemiol. 2006;163(2):181­7.
+50 Bates LJ, Santerre RE. The demand
+for local public health services: do
+unified and independent public
+health departments spend differ-
+ently? Med Care. 2008;46(6):590­6.
+51 Handler AS, Turnock BJ. Local
+health department effectiveness in
+addressing the core functions of
+public health: essential ingredients.
+J Public Health Policy. 1996;17(4):
+460­83.
+52 Dausey DJ, Lurie N, Diamond A.
+Public health response to urgent
+case reports: a structured test reveals
+gaps in response times in nineteen
+communities across the country.
+Health Aff (Millwood). 2005;24
+(W5):412­9. DOI: 10.1377/
+hlthaff.w5.412.
+53 Santerre RE. Jurisdiction size and
+local public health spending. Health
+Serv Res. 2009;44(6):2148­66.
+54 Mukherjee K, Santerre RE, Zhang
+NJ. Explaining the efficiency of local
+health departments in the US: an
+exploratory analysis. Health Care
+Manag Sci. 2010;13(4):378­87.
+August 2011 30:8 Health Affairs 1593
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 01, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+

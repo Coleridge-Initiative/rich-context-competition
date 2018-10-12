@@ -1,0 +1,1321 @@
+Open-end real estate funds in Germany ­
+genesis and crisis
+Christina E. Bannier
+(University of Frankfurt)
+Falko Fecht
+(Deutsche Bundesbank and European Central Bank)
+Marcel Tyrell
+(University of Frankfurt)
+Discussion Paper
+Series 2: Banking and Financial Studies
+No 04/2007
+Discussion Papers represent the authors' personal opinions and do not necessarily reflect the views of the
+Deutsche Bundesbank or its staff.
+Editorial Board: Heinz Herrmann
+Thilo Liebig
+Karl-Heinz Tödter
+Deutsche Bundesbank, Wilhelm-Epstein-Strasse 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-1
+Telex within Germany 41227, telex from abroad 414431
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978-3­86558­268­3 (Printversion)
+ISBN 978-3­86558­269­0 (Internetversion)
+Abstract:
+Open-end real estate funds are of particular importance in the German bank-dominated
+financial system. However, recently the German open-end fund industry came under
+severe distress which triggered a broad discussion of required regulatory interventions.
+This paper gives a detailed description of the institutional structure of these funds and of
+the events that led to the crisis. Furthermore, it applies recent banking theory to open-
+end real estate funds in order to understand why the open-end fund structure was so
+prevalent in Germany. Based on these theoretical insights we evaluate the various policy
+recommendations that have been raised.
+Keywords: Open-End Funds, Liquidity Transformation, Liquidity Crisis, Risk Sharing
+JEL Classification: G23, G28
+Non technical summary
+Open-end real estate funds perform a substantial liquidity transformation: While the
+largest part of their portfolio is invested into long-term illiquid assets, they issue shares
+that are redeemable on a daily basis at a prespecified rate which is only sluggishly adapted
+to price changes of the underlying assets. This liquidity transformation exposes funds to
+substantial liquidity risk and makes them susceptible to liquidity crisis.
+In Germany a major part of the real estate funds are open-end. In December 2005 and
+January 2006 a credibility crisis spread to the whole industry leading to a severe liquidity
+outflow from those funds. This crisis episode stipulated a discussion about the necessity
+of regulatory changes limiting the liquidity transformation further and improving the
+transparency of those funds.
+This paper gives a detailed description of the institutional structure of open-end real
+estate funds in Germany and of the events that led to the crisis. Furthermore, the paper
+applies recent banking theories analyzing the liquidity transformation and liquidity risks
+of banks to open-end real estate funds and uses those insights to assess the various policy
+recommendations that have been raised.
+The paper argues that even though open-end real estate funds' liquidity transforma-
+tion increases their vulnerability it might improve overall efficiency, because it increases
+investors' liquidity insurance. Moreover, the liquidity transformation might serve as an
+effective incentive device improving the performance of the funds' managers. Thus re-
+straining substantially the liquidity transformation of those funds could be welfare re-
+ducing. In contrast, the proposed discount on the redemption of large share holdings
+is likely to be welfare enhancing. It not only increases funds' scope to provide liquidity
+insurance, it also reduces the institutional investors' arbitrage opportunities that often
+lead to unexpected large scale liquidity outflows. The suggested shortening of the eval-
+uation periods for funds' real estate portfolios on the one hand improves funds' stability
+because it also limits arbitrage opportunities. On the other hand, it certainly reduces the
+scope of funds to intertemporally smooth asset price shocks. The recommended increase
+in evaluation experts' independency as well as the fostering of solicited ratings improves
+funds' transparency and thereby reduce the risk of herding driven runs. In addition,
+greater transparency reduces the need for liquidity transformation as an indirect disci-
+plining device for the funds' management. However, unsolicited rating might only serve
+as a coordination device among investors and increase the risk of self-fulfilling liquidity
+crisis.
+Nicht technische Zusammenfassung
+Offene Immobilienfonds betreiben eine weitreichende Liquidit¨
+atstransformation: W¨
+ahrend
+der gr¨
+oßte Teil ihres Portfolios in langfristige illiquide Verm¨
+ogenswerte investiert ist, emit-
+tieren sie Anteilsscheine, deren t¨
+agliche R¨
+ucknahme zu einem Preis garantiert ist, der
+nur langsam an Marktpreis¨
+anderungen der zugrunde liegenden Verm¨
+ogenswerte angepasst
+wird. Aufgrund dieser Liquidit¨
+atstransformation sind offene Immobilienfonds Liquidit¨
+ats-
+risiken ausgesetzt und anf¨
+allig f¨
+ur Liquidit¨
+atskrisen.
+In Deutschland hat ein wesentlicher Teil der Immobilienfonds bislang eine offene Struk-
+tur. Im Dezember 2005 und Januar 2006 breitete sich eine Glaubw¨
+urdigkeitskrise in weiten
+Teilen der Branche aus, die zu schwerwiegenden Liquidit¨
+atsabfl¨
+ussen f¨
+uhrte. Diese Krise
+l¨
+oste eine Diskussion ¨
+uber die Notwendigkeit weiterer regulatorischer Maßnahmen aus,
+um die Liquidit¨
+atstransformation der Fonds weiter zu begrenzen und ihre Transparenz zu
+erh¨
+ohen.
+Das vorliegende Papier liefert eine detaillierte Darstellung der institutionellen Struktur
+offener Immobilienfonds in Deutschland sowie eine Beschreibung der Krise Ende 2005 bis
+Anfang 2006. Des Weiteren werden j¨
+ungste Erkenntnisse zur Liquidit¨
+atstransformation
+und zu Liquidit¨
+atsrisiken bei Banken auf offene Immobilienfonds angewandt. Hierauf
+aufbauend wird versucht, die vorgeschlagenen regulatorischen Maßnahmen zu evaluieren.
+So deutet das Papier darauf hin, dass auch wenn die Liquidit¨
+atstransformation offener
+Immobilienfonds ihre Krisenanf¨
+alligkeit erh¨
+oht, sie effizienzsteigernd sein kann, da sie
+den Anlegern eine Liquidit¨
+atsversicherung liefert. Dar¨
+uber hinaus kann die Liquidit¨
+ats-
+transformation als ein Anreizmechanismus wirken und so zu einer besseren Leistung der
+Fondmanager beitragen. Eine deutliche Begrenzung der Liquidit¨
+atstransformation k¨
+onnte
+sich somit insgesamt wohlfahrtsmindernd auswirken. Dagegen d¨
+urfte sich der vorgeschla-
+gene Abschlag bei der R¨
+ucknahme großvolumiger Anteilsbesitze eher wohlfahrtssteigernd
+auswirken. Denn dieser d¨
+urfte nicht nur den Fonds erm¨
+oglichen, eine bessere Liquidit¨
+ats-
+versicherung f¨
+ur ihre Anleger bereitzustellen, er sollte auch die Arbitragem¨
+oglichkeiten
+institutioneller Anleger eind¨
+ammen, die oft zu umfangreichen unerwarteten Liquidit¨
+ats-
+abfl¨
+ussen gef¨
+uhrt haben. Die Verk¨
+urzung der Bewertungszeitr¨
+aume der Fondaktiva d¨
+urfte
+sich einerseits stabilit¨
+atsf¨
+ordernd auswirken, da sie ebenfalls destabilisierende Arbitrage-
+m¨
+oglichkeiten einschr¨
+ankt. Andererseits reduziert sie aber auch die M¨
+oglichkeit der Fonds,
+Verm¨
+ogenspreisschocks intertemporal zu gl¨
+atten. Die empfohlenen Maßnahmen, die auf
+eine h¨
+ohere Unabh¨
+angigkeit der Sachverst¨
+andigen bei der Verm¨
+ogenswertermittlung abzie-
+len, d¨
+urfte die Transparenz der Fonds ebenso verbessern wie die F¨
+orderung selbstiniti-
+ierter (solicited) Ratings. Dies d¨
+urfte tendenziell die Risiken von durch Herdenverhalten
+verursachten Krisen verringern. Dar¨
+uber hinaus reduziert eine verbesserte Transparenz
+auch die Notwendigkeit, die Liquidit¨
+atstransformation und die hiermit einhergehenden
+Liquidit¨
+atsrisiken als indirekte Anreizmechanismen f¨
+ur das Fondmanagement zu nutzen.
+Nichtselbstinitiierte (unsolicited) Ratings, bei denen der Ratingagentur keine weitere In-
+formation zukommt, dienen dagegen u.U. lediglich als Koordinationsm¨
+oglichkeit zwischen
+den Anlegern und erh¨
+ohen so die Risiken sich selbst erf¨
+ullender Liquidit¨
+atskrisen.
+4
+Contents
+1 Introduction 1
+2 Open-end Real Estate Funds - An International Comparison 2
+3 The Institutional Design of Open-End Real Estate Funds in Germany 4
+4 Theoretical Arguments for Open-End Real Estate Funds 6
+4.1 Liquidity Insurance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.2 Liquidity Transformation as Disciplining Device . . . . . . . . . . . . . . . 8
+4.3 Liquidity Crises ­ The Unintended Consequences of Liquidity Transformation 10
+5 The Trigger of the Open-End Property Funds Crisis in Germany 13
+6 Systemic Repercussions of Individual Crises and the Role of Informa-
+tion 15
+7 The Spread of the Crisis in Germany 18
+8 Policy Recommendations 21
+Open-End Real Estate Funds in Germany ­
+Genesis and Crisis
+1 Introduction
+Open-end real estate funds are indirect real estate investment vehicles that are of par-
+ticular importance in Germany.1 Shares are directly backed by the properties and liquid
+assets held by the fund. In contrast to a closed fund structure, an open-end investment
+fund continuously creates new shares on demand. Investors can buy shares at net asset
+value from the fund and may redeem them on a daily basis at the prevailing net asset
+value, which can be higher or lower than the initial price at which the investors bought.
+Consequently, even though shares are typically not traded on a secondary market, they
+are a highly liquid investment.2 The price is quoted once a day based on the regular
+valuations of the properties and liquid assets at that time. Since the regular valuations
+are typically done only once a year on a rolling basis for each property, the redemption
+value of a fund's shares adjusts slowly to changes in the market price of the underlying
+properties.
+In contrast to the experience in other countries, in Germany this fund construction
+showed a remarkable degree of stability until recently. However, in December 2005 the
+closure of Deutsche Bank's open-end real estate fund Grundbesitz Invest triggered a cred-
+ibility crisis in this industry that put the stability of most of these funds at risk. In the
+public debate on how to solve this crisis and prevent future ones, several proposals have
+been raised. In this paper, we try to evaluate these recommendations.
+In order to do so, we first analyze why the open-end structure of real estate funds was
+particularly prevailing in Germany. Interestingly, applying recent banking theory to this
+issue we find that there might have been good reasons for choosing an open-end struc-
+ture that is fragile and susceptible to credibility crises. Based on the reasons that might
+have led to the emergence of open-end funds in Germany in the first place, we analyze
+We thank Philipp Hartmann, Jose-Luis Peydro-Alcalde, seminar participants at the ECB and the
+CFS-workshop on the German Banking System Architecture for helpful comments. The views expressed
+here are those of the authors and not necessarily those of the Deutsche Bundesbank or the European
+Central Bank.
+1For example, see Maurer (2004) and Klug (2004) for a description of open-end real estate funds and
+their importance in Germany.
+2For some funds there also exists a small secondary market located at certain regional exchanges in
+Germany. However, these markets are not very liquid and the trading of shares on these exchanges will
+typically be suspended in crisis situations.
+1
+the measures proposed to increase their resilience. We find that some of the recom-
+mended measures that are meant to improve liquidity control, valuation procedures and
+transparency are actually counterproductive and may increase the funds' susceptibility to
+crises even further.
+Our analysis departs from a detailed examination of international experiences with
+open-end real estate funds in section 2. Section 3 focuses on the institutional and regula-
+tory design of open-end property funds in Germany and emphasizes the incentive structure
+that arises between investors, fund managers and fund owners. Section 4 evaluates dif-
+ferent theoretical arguments why this incentive structure might have been so successful
+in the German bank-dominated financial system. However, we also point out its innate
+drawbacks. In section 5 we try to link this dark side of open-end property funds to the
+observed troubles in Germany at the end of 2005, particularly to the closure of Deutsche
+Bank's fund Grundbesitz Invest. While sections 4 and 5 only take the view of an in-
+dividual fund, section 6 discusses the disadvantages of the open-end structure from the
+industry's perspective by taking different externalities into account. Corroborating the
+relevance of these externalities, section 7 describes the onset of a widespread credibility
+crisis of open-end property funds after the closure of DB real estates Grundbesitz Invest.
+In particular, it discusses the chronology of events that led to the closure of another fund
+in the course of the crisis. Based on these findings, section 8 tries to derive some policy
+recommendations and evaluates the most important proposals raised in the aftermath of
+the funds' demise.
+2 Open-end Real Estate Funds - An International
+Comparison
+In the late 1980s, the Dutch fund RODAMCO was one of the largest real estate funds
+in the world.3 It was owned by Robeco Group, at that time the largest independent
+European investment group that managed funds. Robeco followed a policy of tacitly
+guaranteeing fund prices. Thus, for 11 years prior to September 1990, Robeco bought
+back shares of Rodamco at net asset value from any investor wishing to sell. Low interest
+rates in the late 1980s made an investment in RODAMCOs shares particularly interesting,
+since it offered a return of about 3 percent higher than a bank deposit. Due to the open
+structure, a large flow of speculative capital into the fund resulted. At this time, the fund
+had about three quarters of its assets invested in the US and UK real estate market.
+In 1990, however, the rise of interest rates caused a high outflow of capital. At the
+3See also Sebastian and Tyrell (2006) for a more detailed description.
+2
+same time, the US-market - and thus RODAMCOs portfolio - was affected by a severe
+drop in real estate prices. This should have had an adverse impact on RODAMCO's share
+price, because in an open-end structure the unit price is determined by dividing the total
+asset value of property and cash by the number of units. Given the standard valuation
+rule in place in the Netherlands at that time, however, stating that all fund properties are
+only appraised simultaneously once at the end of the fiscal year, investors could predict
+that the redemption price was going to suffer a severe decline at a future point in time,
+i.e. the end of the year 1990. In that situation it was individually optimal for investors
+to redeem their shares before and buy them back after the re-appraisal. Hence, arbitrage
+had become possible, and that is what investors did on a large scale in September 1990.4
+Robeco, however, reacted by suspending its traditional policy of buying back shares when
+asked to do so by investors. Eventually, severe liquidity problems forced the management
+to transform the fund into a stock-listed closed fund.5
+A similar crisis occurred at about the same time in the Australian open-end real estate
+funds market. In particular after the stock market crash of 1987, which caused a strong
+increase in property prices, the Australian real estate market saw huge inflows of capital.
+This surge was supported even further by the credit policy of Australian banks, which
+lent out loans collateralized by real estate at exceptionally low interest rates. When the
+central bank tightened monetary policy, property prices dropped by around 60%.6 This,
+in turn, caused a run by investors in order to redeem their shares of open-end real estate
+funds. To avoid a collapse of those investment vehicles, the government decided to stop all
+redemptions for a period of 12 months and forced all funds to list on the stock exchange
+(Little, 1992).
+In Switzerland the first open-end real estate fund was founded as early as 1938.
+Switzerland was also one of the first countries to introduce a regulation for open-end
+property funds in 1967. Facing irregularities with redemption prices in 1991, the author-
+ities adapted the regulations codified in the "Anlagefondsgesetz"(AFG). According to
+these criteria, redemptions are only possible after a notice of termination within a twelve
+months period before the end of the fiscal year (art. 42 AFG). This requirement should
+ensure that the fund management has enough time to acquire sufficient liquidity if neces-
+sary. On the other hand, the depository bank has to organize a continuous trade of shares,
+in general by trading on the stock exchange. As a result of the new regulations, most of
+4Of course, selling shares and buying them back after a short time period always involves transaction
+costs. However, in the situation described above the expected price drop outweighed transaction costs,
+making such a strategy profitable despite the involved costs.
+5See Boot, Greenbaum, and Thakor (1993), Helmer (1997) and Lee (2000) for more details.
+6See Allen and Gale (2000) for a theoretical explanation of asset price bubbles related to an inefficient
+expansion of credit caused by risk shifting behavior of the banking sector.
+3
+the trading takes place at the stock exchange and Swiss open-end real estate funds do
+neither emit nor redeem units in relevant amounts. Consequently, Swiss open-end funds
+are comparable to stock-listed closed funds with a limited redemption possibility.7
+Summarizing these international experiences, open-end real estate funds in all these
+countries did not survive as a successful investment class because of their inherent fragility.
+Crisis events in the real estate market forced legislators to transform these investment
+vehicles into a closed-end structure in order to avoid a run phenomenon that could trigger
+further uncertainties in the financial sector. In addition, the financial structure of the
+respective countries obviously had a strong influence on the different characteristics of
+open-end real estate funds.
+3 The Institutional Design of Open-End Real Estate
+Funds in Germany
+German open-end real estate funds were the only exception internationally to have been
+very successful for almost 50 years. One reason for this may be found in the specific
+regulatory and institutional design of the German funds. Let us first explore the regulatory
+design. In setting up the German Investment Companies Act in 1969 ("Investmentgesetz
+(InvG)"), the regulation comprised a number of measures to limit the risk of liquidity
+crises despite funds' obligation of daily redemption of shares. One of the most important
+measures in this respect requires German real estate funds to hold at least 5% of their
+assets in cash, with a maximum of 50% allowed. Until the crisis of 2005/2006, the funds
+held 25-49% of their assets in cash or bonds. Furthermore, the funds are allowed to
+maintain a leverage of up to 50% of their real estate assets' value. In addition, they can
+delay the repurchase of units for a period up to two years in case of high liquidity outflows.
+However, since 1959 this possibility of last resort has never been used until 2005.8
+In addition, different elements of the investment practice and valuation process also
+improved funds' resilience against liquidity crisis even if they were not initially imple-
+mented for that reason. One such element is the offering charge of usually 5% which
+becomes due on buying a share of an open-end real estate fund. Originally designated for
+covering distribution costs, these built-in transaction costs create an effective barrier to
+reduce the attractiveness of frequent transactions and thereby limit arbitrage opportuni-
+ties. Furthermore, due to the offering charge, the necessary investment horizon to achieve
+a positive return increases to at least one year on average.
+7As emissions only take place occasionally, Hoesli (1993) refers to these funds as "semi closed-end".
+8For a further description of the institutional framework of German open-end funds see Maurer and
+Sebastian (2002), Maurer (2004) and Maurer, Reiner, and Rogalla (2005).
+4
+Another important aspect that represents a somewhat unique feature of the German
+funds' design relates to the process of evaluating the funds' assets. While financial assets
+are valued according to their market prices, the value of each property in the fund's
+portfolio is based on an appraisal by experts. Under the Investment Companies Act,
+the funds are required to have their property assets valued by an independent panel
+of experts each time they acquire or sell a property. Additionally, the whole portfolio
+has to be evaluated on a rolling basis every 12 months. Hence, the appraisal of the
+funds' properties takes place at different dates during the fiscal year, which results in a
+staggered valuation process. As a consequence, the effect of a change in asset values on
+the redemption prices is smoothed and discrete jumps in the redemption rate creating
+arbitrage opportunities for investors are limited. Further smoothing is accomplished via
+the valuation methods. As has been emphasized by Maurer, Reiner, and Rogalla (2005),
+property appraisals tend to lag movements in the property market and understate the
+true volatility of returns in the underlying property values. This may be the result of
+appraisal "anchoring" to previous evaluations, aggregation of information over time, and
+the use of valuation methods based on yield analysis instead of cash flows - a procedure
+which in general will be considered as hardly market-based.9
+Of at least the same importance is the institutional framework in which the German
+open-end real estate funds are embedded. By law, only an investment fund management
+company ("Kapitalanlagegesellschaft") is allowed to manage open-end real estate funds.
+The investment fund management company is typically set up in the legal form of a
+limited liability company and usually manages several different mutual funds, not only
+open-end property funds. From a legal perspective, the open-end fund itself is a special
+asset pool funded by the investors' contribution on an open-end basis, which must be
+strictly separated from the other funds and the investment company's own assets. Inter-
+estingly, in Germany the shareholders of these investment fund management companies
+are mostly commercial banks and insurance companies and are therefore not identical
+with the investors holding the open-end property funds' shares.
+By the end of 2005, 31 open-end funds were managed by 16 investment management
+companies registered in Germany. These funds had more than EUR 85 billion assets
+under management, which amounts to more than 15.5% of the total managed by German
+mutual funds. This figure went up from EUR 47 billion in 2000, averaging a net cash
+inflow in these 5 years of more than EUR 7 billion. Because most of the funds are owned by
+commercial banks, it comes as no surprise that around 70% of all fund sales are brokered by
+banks, which use their network of branches throughout Germany as distribution channel.
+Along with the huge capital inflow of the last years, the investor structure has changed
+9See also Morgan (1998) and McParland, Adair, and McGreal (2002) for a similar assessment.
+5
+substantially. Even though private investors, who were searching for less risky assets after
+the stock market crash in 2001, invested heavily into open-end property funds, particularly
+institutional investors turned to this type of fund in recent years as an alterative to money
+market funds - despite the fact that open-end property funds were traditionally set up
+mainly for private investors.10 Interestingly, institutional investors were not required to
+pay the offering charge of 5%. Hence, they did not have to bear the built-in transaction
+costs when moving in and out of these funds.
+Examining the historical risk-return profile of open-end real estate funds in Germany
+over the period 1980-2002, we find that, in comparison to equity and bonds, real estate
+funds exhibited by far the lowest volatility. The average nominal respectively real return
+on real estate funds was clearly below the average return on equity, but only slightly
+lower than the return on bonds. On a yearly basis, between 1959 and 2004 open-end real
+estate funds yielded an average return of about 4%, without a single year displaying a
+negative performance (Klug, 2004). For that reason, in recent years some open-end real
+estate funds actually advertised an implicit promise to investors of a yearly return of at
+least 3%. Thus, in summary, open-end real estate funds in Germany exhibit risk-return
+characteristics that are different from any other asset class and that make them attractive
+both for institutional and private investors.11
+4 Theoretical Arguments for Open-End Real Estate
+Funds
+4.1 Liquidity Insurance
+In the aftermath of the severe stock market crash in 2001, investors developed a strong
+awareness of the liquidity risk associated with long-term though marketable investments
+like stocks and investment fund shares. Thus, one of the main sales argument for open-end
+real estate funds, that contributed to their take-off immediately after the stock markets
+crashed, was the guaranteed redemption of fund shares and the fact that the staggered
+evaluation of underlying assets promised a very moderate volatility of the redemption
+rates. The open-end structure of real estate funds hence offered investors a liquidity
+insurance.
+10In Germany, apart from public open-end real estate funds also special property funds exist, which are
+designated for a limited number, i.e. up to 10, of institutional investors. These special funds are usually
+managed by the same investment companies that offer also public open-end property funds.
+11See also Maurer, Reiner, and Rogalla (2005), who provide an in-depth analysis of the risk-return
+profile of German open-end real estate funds.
+6
+Similar to the argument that Diamond and Dybvig (1983) develop for bank deposits,
+investors' demand for liquidity insurance might result from the fact that, by the time
+of their investment decision, investors do not know exactly when they will actually need
+their funds back. Risk-avers investors will therefore prefer an investment product that
+provides them with comparably smooth repayments irrespective of whether they redeem
+their funds early or late. By holding parts of the portfolio in liquid but less profitable
+assets, open-end real estate funds can promise a rather high redemption in the short-run
+at the expense of returns to long-term investors which remain below the average long-term
+yield on pure property investments. Thus, ex-post those investors that happen to hold
+their shares relatively long implicitly cross-subsidize the higher short-term repayment to
+those investors that turn out to require their funds back earlier. Since funds' share holders
+are assumed to be risk avers, this liquidity insurance is ex-ante appreciated by investors
+and is welfare enhancing.
+Following the argument of Qi (1994), originally developed for the case of bank deposits,
+the costs of this liquidity insurance obviously decline if the fund can expect additional
+liquidity inflow in the short-run from issuing new shares. The fund then needs to hold
+fewer liquid and low-return assets as insurance against the expected early redemption of
+impatient investors. Still, the costs of this liquidity insurance to long-term investors, i.e.
+the implicit cross-subsidy paid by long-term investors, are apparently increasing in the
+average fraction of investors redeeming their fund shares early. Put differently, the shorter
+the average holding period of fund shares, the lower is the average return that these funds
+can promise.
+The increased engagement in property funds by institutional investors who used open-
+end real estate funds as a substitute for money market funds to store liquidity, dramati-
+cally reduced average investment horizons in these property funds. The higher short-run
+yield that institutional investors realized in these open-end property funds as compared to
+money market investments were essentially borne by small investors with generally longer
+investment horizons. This undermined the efficiency of the liquidity insurance provided
+by these funds.
+The staggered adjustment of the redemption rates to changes in the market value
+of the property held by the fund also enabled open-end real estate funds to offer an
+intertemporal smoothing of asset price shocks to its long-term investors. Following the
+mechanism described by Allen and Gale (1997) for the banking industry, the staggered
+adjustment of the redemption rate allows open-end property funds to build up reserves in
+times of increasing asset prices. These reserves can be used to stabilize the redemption rate
+above the market value of the fund's underlying assets in periods of declining asset prices.
+Thus, given risk averse investors, the funds' ability to intertemporarily smooth shocks
+7
+allows them to offer an additional efficiency enhancing insurance. However, this insurance
+function of open-end funds is again undermined by institutional investors. Succumbing to
+lower transaction costs typically, they can exploit intertemporal arbitrage opportunities
+that the intertemporal smoothing of property price shocks by open-end real estate funds
+generates.
+4.2 Liquidity Transformation as Disciplining Device
+Even though the liquidity insurance provision of open-end real estate funds might have
+contributed to the emergence of these investment products, it is unlikely that this has
+been the only factor. Particularly the observation that open-end property funds play a
+truly dominant role only in Germany cannot be explained by this universal efficiency gain.
+A probably more convincing argument for the long-lasting success of open-end real
+estate funds in Germany can be made with regard to the disciplining role involved with
+this financing instrument. This argument is based on the idea that redeemable claims
+serve a control function, an idea that can be traced back to Fama and Jensen (1983). In
+banking theory particularly Calomiris and Kahn (1991) and Diamond and Rajan (2001)
+emphasize that refinancing illiquid assets with liquid liabilities­like deposits­held by mul-
+tiple investors can serve as a disciplining device for the bank management. The fragile
+structure due to the liquidity transformation allows the bank manager to credibly refrain
+from moral hazard.12 This is due to the fact that each individual investor has an in-
+centive to redeem his deposits as soon as he perceives any misbehavior of the manager.
+If he withdraws his funds immediately, he receives the face value of his deposits. If he
+waits, in contrast, the bank might not be able to repay due to the manager's misbehav-
+ior. Moreover, knowing that many other depositors have the same incentive to withdraw,
+each investor can anticipate that the bank will run out of liquidity. If the bank has to
+liquidate long-term assets in order to satisfy depositors' demand, this will reduce the ex-
+pected repayment of a depositor holding on to his claim even further. Thus, information
+about a misbehavior of the management serves as a signal for depositors to run which
+eventually forces the fund into default. Assuming that the manager is dismissed in the
+event of such a crisis and assuming that his benefits from misbehavior in the short-run
+are overcompensated by expected future benefits from being in office, he will try to avoid
+a crisis and refrain form moral hazard.
+12Similarly, Goodhart (1987) argues that the characteristic role of banks is that they­in order to
+reduce informational frictions­use fixed-term liabilities to refinance fixed-term lending with a repayment
+probability that is difficult to assess for outsiders. He also points out that this efficiency enhancing
+combination at the same time makes banks vulnerable to crisis and creates the need for a lender of last
+resort.
+8
+Similar to bank deposits in the argument of Diamond and Rajan (2001), an open-
+end fund's redemption guarantee serves as an efficient and timely disciplining device. In
+contrast to other control mechanisms, the liquidity transformation and the associated risk
+of a run does not presuppose sophisticated investors, who have to monitor the management
+of the fund - a time-consuming and difficult exercise because of the long-term horizon of
+investments and the complexities in evaluating real estate assets. Fund managers who
+anticipate the risk of a run will behave well accordingly, thereby giving investors no reason
+to run, even though in principle they have an informational advantage with respect to the
+fund's properties, which they otherwise could use to "hold up" investors.
+Given these advantages of the open-end fund construction in terms of disciplining
+managers, the question arises why open-end real estate funds survived successfully only
+in Germany. One of the main reasons may be the particular severity of potential conflicts
+of interest between fund management and fund investors in Germany. As mentioned in
+Section 3, most funds in Germany are originated and owned by investment management
+companies which themselves are owned by banks, especially universal banks. This is a
+unique institutional feature of German funds. Since these universal banks do not only
+own investment management companies managing a variety of different types of funds, but
+usually hold further business relations with property development companies and property
+dealers, they may have both the possibility to reshuffle assets at low transaction costs and
+the incentive to do so. The only effective disciplining device of open-end property funds'
+investors, consequently, is the option to withdraw funds on a short-term basis and hence
+to "vote" by feet.
+However, real returns on properties are uncertain. It is therefore important to also take
+into account the possibility of return deteriorations that are not caused by misbehavior
+on the part of the fund's management. As has been shown by Diamond and Rajan (2000)
+for the capital structure of bank, in a world with uncertain returns on long-term assets
+the choice of a pure deposit refinancing might be too rigid.13 Such a capital structure
+precipitates runs when real asset values fall even without opportunistic behavior on the
+part of the bank's management. Diamond and Rajan (2000) argue that it is therefore
+optimal for banks to partially finance with a softer claim, i.e. equity. Such a soft claim
+buffers the fund against exogenous shocks to asset values.
+Because the open-end fund itself is a special asset pool funded solely by the investors'
+contributions, a softer capital structure cannot be achieved. Yet, exogenous shocks to
+the property returns can be smoothed by holding liquidity buffers. Such excess liquidity
+holdings help to survive situations in which the cash flow from property returns falls
+13See also Sebastian and Tyrell (2006), who analyze the advantages of open-end real estate funds'
+liquidity risk based on Allen and Gale (1998) and come to similar conclusions.
+9
+short and the available liquidity is therefore insufficient to serve the usual and expected
+redemption of shares.
+In addition, an implicit promise given by the bank-owner to the fund's share holders
+reduces the risk of runs due to asset deteriorations. Such a guarantee to provide liquidity
+assistance in an emergency has to be implicit, so that it can be waived in case of misbe-
+havior. Yet, it provides a buffer against smaller shocks to the asset value. Furthermore,
+it has to be partial, because otherwise the disciplining function of runs and therefore the
+advantage of the open-end construction would be lost. As a consequence, for larger asset
+price shocks the risk of fundamental based crises due to asset price deteriorations is still
+unavoidable.
+4.3 Liquidity Crises ­ The Unintended Consequences of Liquid-
+ity Transformation
+As has already become apparent in the previous section, the liquidity transformation
+of open-end funds makes them fragile and susceptible to severe crises. Particularly the
+combination with the intertemporal smoothing of property price shocks due to the specific
+valuation procedure makes these funds vulnerable in times of deteriorating returns from
+property investments. If the cash flow from real estate investments declines, it becomes
+more and more difficult for open-end property funds to refinance the usual redemption of
+shares. Moreover, if property prices deteriorate, arbitrage opportunities arise due to the
+staggered evaluation of the funds' properties. After a decline in real estate prices, investors
+can therefore anticipate a reduction of the redemption rate. Particularly institutional
+investors who typically face lower transaction costs have an incentive to withdraw their
+funds shortly before the devaluation in order to reinvest them after the devaluation. The
+arbitrage profits that they can realize from this strategy, however, absorb liquidity held
+by the funds. If the liquidity shortage is severe enough, this may force the real estate fund
+to sell off property below book value, leading to a further reduction of the redemption
+rate. Consequently, even those investors who initially were not in need of liquidity or who
+were unable to realize arbitrage profits, eventually have an inventive to withdraw, thereby
+aggravating the liquidity crisis additionally.
+However, apart from these "fundamentally-driven" crises, the liquidity transformation
+of open-end funds also brings about the risk of self-fulfilling liquidity crisis, i.e. purely
+expectation-driven collapses. Due to the liquidity transformation the mere anticipation
+of a sufficiently severe redemption of shares by other investors may lead to the eventual
+closure of the fund - even if the fund's fundamental value did not deteriorate at all. As
+shown by Diamond and Dybvig (1983) for depository institutions, investors expecting
+10
+severe withdrawals of funds will also anticipate that the financial intermediary may be
+forced to sell off long-term assets below book value in order to obtain additional liquidity.
+Since these "fire sales" reduce future cash flows, investors must also anticipate that the
+redemption rate will drop, which decreases the value of their claims. Thus, investors
+expecting a large-scale withdrawal of fund shares have an incentive to redeem their units.
+Consequently, anticipating a strong amount of withdrawal from other investors, each
+individual investor will rationally withdraw his money as well, thereby vindicating the
+initial belief on which his action was based.14
+Technically speaking, the liquidity transformation function of open-end property funds
+induces the possibility of multiple equilibria. Depending solely on investors' expectations,
+there may prevail either an (inefficient) crisis equilibrium or an (efficient) equilibrium,
+in which the financial intermediary remains stable. Interestingly, this case of multiple
+equilibria - of which neither outcome can be predicted with certainty - necessarily requires
+that investors are aware of the fund's fundamental value lying in an intermediate range
+of values: the fund's fundamental value may not be so sound that the fund will never
+be closed, irrespective of investors' behavior, nor so bad that the fund will certainly be
+closed.
+One of the main disadvantages of the theory on self-fulfilling crises is its inability to
+predict which of the two equilibria will be realized. In order to fill this explanatory gap,
+it has been argued that market participants may coordinate their actions according to
+so-called sunspots, i.e. unrelated events that may lead investors to believe one of the two
+outcomes to be more probable than the other. Recent analytical work on coordination
+games has shown, however, that investors' behavior is not necessarily only influenced
+by unpredictable sunspots. Rather, their behavior is crucially affected by the structure
+of information about the fundamental value (in our case, about the fund's assets) that
+they dispose of. Referring to the results of the literature on "global games"15, it has been
+shown that investors' behavior is predictable, i.e. they choose a uniquely optimal strategy
+even for intermediate fundamental values, if they possess very precise private information,
+14Of course, this mechanism works in both directions, i.e. if an investor believes that other investors
+are not going to redeem their shares, this reduces his incentive to do so, thereby vindicating his initial
+belief because his behavior, in turn, reduces other investors' incentives to redeem their shares.
+15In a global game, players observe a noisy private signal about the game's payoff, which itself is
+determined by a random draw from a given class of games (Carlsson and Van Damme, 1993). In the case
+of open-end property funds, investors do not know their investment's payoff with certainty. Rather, they
+try to assess the payoff by taking into account any information that may be given to them. Additionally,
+their behavior itself influences the payoff since the probability of the fund's closure increases in the number
+of investors that withdraw their money. In this sense, the interaction between investors represents a
+"coordination game".
+11
+relative to the precision of publicly-available information (Morris and Shin (2002); Metz
+(2002)). In this respect, public information is defined as pieces of information that are
+known to all investors and that are known to be known to all investors and so forth.
+Hence, provided that investors' private information about the fund is sufficiently pre-
+cise, the uncertainty stemming from self-fulfilling crises may be avoided. In this case,
+investors will redeem their shares only if the fund's fundamental value is perceived to be
+sufficiently bad. In any other case, investors will not be tempted to foreclose their invest-
+ment only based on the anticipation that others will withdraw. In other words, there will
+not be a run that - in a self-fulfilling prophecy - leads to a closure of the fund without
+any fundamental cause. Furthermore, since the occurrence of a crisis can be predicted in
+this case, measures may be taken to prevent it.16
+What can we learn from the theory on global games with regard to the risk of liquidity
+crises of open-end real estate funds? Due to the very specific nature of investment and the
+mentioned evaluation complexities, it is certainly difficult for investors to obtain precise
+private information about the fund's assets. This holds even more for private investors
+who, compared with institutional investors, lack the financial resources to maintain an own
+research department. Publicly obtainable information therefore remains very important
+to bridge the informational gap between the fund's management and, particularly private,
+investors. If this information is very precise, there is a high risk that an interval arises
+in which self-fulfilling crises become possible, which may lead to the inefficient closure of
+a fund, that would still have been viable had only more investors decided not to redeem
+their shares. If public information is less precise, global games theory predicts a closure
+of a fund only if the fund's asset values are sufficiently low.
+Due to the important role that public information plays, we may state that both the
+success and the demise of the market for open-end property funds seem to follow self-
+stabilizing paths. As long as the fund's shares are seen as profitable investments, for
+instance because of a successful development of the fund's share prices, this anticipation
+leads to even more capital inflows into the funds, thereby corroborating its stability. If,
+however, one fund is perceived to be distressed, this may be taken as a negative public
+16Note that a crisis event may still be inefficient, i.e. it might have been prevented had only sufficiently
+many investors decided not to redeem their shares. The difference to the purely expectations-driven
+liquidity crises lies in the fact that not all investors choose the same action, i.e. either all redeem their
+shares or no one does. Rather, the proportion of investors deciding on a withdrawal of money may lie
+between 0 and 1, but may still be inefficiently high relative to the fundamental value of the fund. These
+inefficiencies in run-equilibria have also been pointed out by Rochet and Vives (2004) and Goldstein and
+Pauzner (2005) for the case of banking crises. However, a self-fulfilling liquidity crises will always be
+inefficient, a crisis result stemming from a unique equilibrium in a global game does not necessarily have
+to be inefficient.
+12
+signal about the general development of real estate assets, leading to severe outflows of
+capital, thereby in a contagious process endangering also other open-end property funds.
+The fact that observations of other funds' success or failure are public information to
+investors and hence may strongly influence their behavior may both be strengthened or
+alleviated by the services of public information providers, such as rating agencies. We
+will return to this argument in section 6.
+As already noted by Diamond and Dybvig (1983) an efficient measure to prevent self-
+fulfilling liquidity crises is the suspension of convertibility of shares. However, this measure
+automatically cuts the disciplining effect that the full-redemption of shares exerts on the
+fund's management. As has already been mentioned above, it has to be weighed carefully
+therefore, which of the two risks is more severe: the risk of management-misbehavior or
+the probability of a run. In the latter case, we additionally have to distinguish between
+a fundamentally-caused liquidity crisis leading to the efficient closure of the fund, or a
+self-fulfilling crisis resulting in the closure of an otherwise viable fund. This distinction
+will be taken up again in the next section that describes the closure of the first open-end
+real estate fund in Germany, Deutsche Bank's Grundbesitz Invest.
+5 The Trigger of the Open-End Property Funds Cri-
+sis in Germany
+Following the declining yields on commercial real estate in Germany many open-end
+property funds came under pressure in 2004 and 2005. In several cases, the banks holding
+the respective investment management companies stepped in to provide liquidity and
+buffered a devaluation of the redemption rate. Prominent examples were Deka Bank,
+HypoVereinsbank, and Commerzbank.
+In contrast, on December 11, 2005, Deutsche Bank announced that due to prop-
+erty price developments an unscheduled evaluation of its biggest ($7
+.
+2 billion) real estate
+fund, Grundbesitz Invest, was unavoidable and would very likely lead to a devaluation
+of the redemption price. The following severe withdrawal of funds absorbed most of the
+fund's liquidity and forced Deutsche Bank to freeze redemption and close the fund until
+further notice. At first sight, the troubles of Grundbesitz Invest looked like a typical
+fundamentally-caused crisis, stemming from overvalued assets.
+After the closure of the fund, the general problems of the German real estate funds
+industry were analyzed extensively in public. Despite the general awareness that the
+biggest flaw of open-end real estate funds lies in their promise of immediate liquidity to
+investors while being tied-up in illiquid assets, the public wondered why Deutsche Bank
+13
+announced the freezing of its fund without any obvious cause. Due to the staggered valu-
+ation process, a substantial part of the fund's assets had undergone a thorough evaluation
+just recently. Without any exogenous event suggesting a severe shock to the value of the
+fund's assets, liquidity transformation should not have been much of a problem. Even
+more surprising was Deutsche Bank's announcement of not taking the usual steps of using
+own resources to secure the fund - especially since there were signs that the commercial
+real estate market was already improving at the time. Instead, Deutsche Bank simply
+offered a fair compensation to a sub-group of investors (that had invested in the fund
+within the last two years), not even to all investors.
+This behavior stood in stark contrast, for instance, to the way Deka Bank, a large
+investment branch of German savings banks, had handled the distress of its own open-
+end property fund a year earlier. As was usual for the banking industry in Germany,
+Deka bailed out its fund by buying sufficiently many of the distressed shares. Obviously,
+Deutsche Bank had reasons for choosing to behave differently.
+The difference in behavior between Deka Bank and Deutsche Bank may be ascribed
+to the trade-off between maximization of reputational capital at the expense of financial
+capital, and vice versa, that has been emphasized by Boot, Greenbaum and Thakor (1993).
+Whereas Deka Bank obviously chose to preserve the reputational capital of its own open-
+end property fund by bailing it out, Deutsche Bank decided on the opposite strategy.
+As Deutsche Bank seemed not to have much interest in the development of its open-end
+property funds market, it was not reasonable to value reputational capital in that segment
+very much. Moreover, this difference in priorities may also be explained by the different
+corporate governance of the two banks. While Deutsche Bank's diverse international
+shareholders are efficiently enforcing profit maximization, the public ownership might
+provide Deka Bank with a fairly long-term horizon for efficiency considerations.
+Apart from the aspect of how Deutsche Bank behaved after the onset of the crisis as
+compared to Deka Bank, there remains the question of whether the closure of Deutsche
+Bank's Grundinvest fund was truly triggered by fundamental causes. It may be answered
+with the help of the above mentioned theory of self-fulfilling crises versus a unique crisis
+outcome in the global games theory. If the theory of multiple equilibria - and hence of
+self-fulfilling crises - holds, the fund's demise took place within a rather uncertain market
+where a sunspot-event decided on the realization of the closure of the fund. According to
+global games theory, in contrast, the fund's freeze was the outcome of a unique equilibrium
+and had to be expected with certainty once the value of the underlying assets became
+known. Only in this respect could the crisis correctly be referred to as a fundamental-
+driven event.
+In order to distinguish between the two theories, it is intriguing to examine more
+14
+closely the information available to the market at the time the crisis happened. It might
+have been the case that the announcement of a revaluation of the fund's assets proved
+to be a sufficiently precise public signal to the market that the conditions for a self-
+fulfilling crisis were satisfied, without the fund itself being of sufficiently low quality
+to warrant a "fundamental crisis". If this explanation holds, investors withdrew their
+money solely because they expected others to do so as well and not because they believed
+the fund's fundamental value to be sufficiently low. Hence, they coordinated on the
+inefficient action within a range of fundamental values where the efficient continuation of
+the fund would still have been possible. According to global games theory, in contrast,
+the observed closure of Grundbesitz Invest presents a fundamental crisis because investors
+held sufficiently precise private information about the fund that convinced them of the
+low value of the fund's assets. However, since finally after the reevaluation period the
+redemption price of Grundbesitz Invest shares was only reduced by 2.4 % when the fund
+was opened again on March 3rd, one may seriously doubt that the crisis was indeed driven
+by private information about a fundamental weakness of the fund.
+6 Systemic Repercussions of Individual Crises and
+the Role of Information
+From a regulatory perspective the welfare implications of an individual open-end real
+estate fund being in a crisis ­ even if it is as large as Deutsche Bank's Grundbesitz Invest
+­ are negligible. Of far greater importance are the negative repercussions that the closure
+of such an individual fund has on the entire industry. In several ways the crisis of an
+individual institute can affect the stability of others, potentially leading to a collapse of
+the entire industry.
+A "fundamental" way of how an individual crisis may cause contagious effects is
+through its influence on real estate prices. In reaction to the liquidity shortage, the
+troubled fund has to sell off large parts of its real estate portfolio. This absorbs liquidity
+from the real estate market and depresses property prices. Similar to the channel of fi-
+nancial contagion in the banking sector pointed out by Allen and Gale (2004) and Fecht
+(2004), this may trigger liquidity crises of other funds, since at each point in time some
+funds plan to raise liquidity in the market by selling parts of their real estate portfolio.
+Given a severe drop in property prices, they will not be able to raise the expected amount
+of liquidity from these transactions. This might cause a liquidity shortage at these ini-
+tially solid funds and induce them to sell off additional assets, which creates a further
+downward pressure on real estate prices.
+15
+A probably even more important self-enforcing mechanism leading to contagious effects
+on other initially sound institutes may be induced by the effect of real estate market prices
+on investors' arbitrage opportunities. As has already been noted in previous sections, due
+to the staggered evaluation procedure the redemption price adapts slowly to declines
+in property prices. Thus, investors observing a price decline can anticipate a reduction
+in the redemption rate and realize arbitrage profits by withdrawing shortly before and
+reinvesting shortly after the devaluation. As the arbitrage profits of investors absorb
+funds' liquidity, it may even force previously stable funds to sell off property below book
+value to gather additional liquidity. Anticipating this effect, even those investors who are
+unable to benefit from the arbitrage opportunity have an incentive to withdraw on a large
+scale. Indeed, these effects have been emphasized by many practitioners who also pointed
+to the comparably illiquid and concentrated market for commercial real estate in Germany
+which makes these spill-overs through asset prices a particularly relevant phenomenon.17
+But given the difficulties of private investors in assessing the development of the fun-
+damental value of real estate funds, "informational" spill-overs of an individual fund's
+collapse might have even more severe repercussions on other funds: Due to the opac-
+ity of real estate funds' assets, investors dispose of only imprecise assessments of future
+returns and default probabilities of individual funds. However, given that the portfolio
+structures of different real estate funds are in general very much alike, investors know
+that it is rather unlikely that a shock affects only a single institution. Thus, the collapse
+of one real estate fund serves as an indicator for investors holding shares of other real
+estate funds. Consequently, observing that one fund is unable to redeem its shares, other
+funds' shareholders trying to extract information from this observation will revise their
+expectations about the soundness of their fund, which might increase their incentive to
+withdraw. Because of the liquidity insurance that open-end real estate funds offer, unex-
+pected large-scale withdrawals can trigger a self-fulfilling liquidity crisis. Even sound real
+estate funds might collapse simply due to the erroneous change in investors' sentiment
+following the crisis of an individual fund. Thus, ­ similar to the mechanism emphasized
+by Chen (1999) with regard to banking crises ­ the collapse of an individual fund can
+trigger informational contagion of large parts of a fundamentally sound industry.
+In contrast to this endogenous source of information, exogenous providers of informa-
+tion, such as rating agencies, can be expected to deliver accurate fundamental information
+about individual funds' business perspectives to the public and hence perform a valuable
+task in reducing the informational asymmetry between funds and investors. However,
+17For instance, T. Vorwerk from S¨
+udprojekt, an independent rating agency, and M. Rothe from Stan-
+dard & Poor's raised these concerns during the crisis of Deutsche Bank Grundbesitz Invest (Handelsblatt,
+January 19th, 2006).
+16
+whether or not they make the investment decision of shareholders more efficient remains
+an open question. On the one hand, they may reduce the sensitivity of investors to the
+fragility of other funds. Disposing of more precise information about each individual
+fund, investors may rely to a lower extent on the information that they extract from
+the observed collapse of one fund with regard to the stability of other real estate funds.
+Consequently, by diminishing information asymmetries, rating agencies may substantially
+reduce the risk of informational contagion between open-end real estate funds. Relying on
+the results of global games theory, however, this finding only holds if the rating informa-
+tion does not become common knowledge among all investors. In the context of real estate
+funds, this may be a reasonable assumption, since the market for property fund ratings
+is rather fragmented, and, unlike the market for credit ratings, is not divided among the
+"Big Three" agencies (Moody's, Standard & Poor's and Fitch). Moreover, as fund-ratings
+are not publicly announced but usually sold to subscribers, a public dissemination of their
+content, for instance in the newspapers, will solely follow an extreme rating assessment
+that naturally leads to a response in the financial press.
+If, however, the rating information does become common knowledge, the rating's effect
+may be similar to the impact that credit rating agencies have been found to have on firms
+issuing debt. Focussing solely on the coordinating role of ratings due to their high degree
+of publicity (in credit markets), Boot, Milbourn, and Schmeits (2006) have shown that the
+existence of a rating agency may lead to a reduction of uncertainty in investment behavior,
+as it becomes easier for investors to anticipate the aggregate market outcome. In their
+model, the existence of a rating agency therefore contributes to the prevalence of a unique
+equilibrium. However, as Carlson and Hale (2005) show, ratings do not only coordinate
+behavior but also bring new informational content to the market. They conclude that by
+simultaneously fulfilling both a coordination and an information function, rating agencies
+may increase market uncertainty as multiple equilibria become more likely. Both papers,
+however, lack a proper utility function for the rating agencies and simply assume that they
+always try to generate a rating that reproduces the unknown credit quality as precisely
+as possible, thereby maximizing the agencies' reputation.
+In a recent paper, Bannier and Tyrell (2005) show that these earlier results do not
+necessarily hold if a more complex utility function for a rating agency is introduced. In
+particular, they assume that a rating agency not only tries to maximize her reputation
+but also has to take into account competitive pressures from other information providers
+and has to account for a potential feedback effect of her rating on the credit quality of the
+rated firm. These arguments seem to hold for the ratings of property funds as well. In the
+real estate market, competition between rating agencies is particularly fierce as market
+entry is not as strictly regulated as in the market for credit-ratings. Due to strong com-
+17
+plementarities in investors' behavior following from the liquidity transformation function
+that open-end property funds offer, potential feedback effects from a fund's rating on its
+liquidity situation and hence on its future business prospects are particularly obvious.
+As has been shown by Bannier and Tyrell (2005), rating agencies that generate ratings
+taking into account the above-mentioned utility arguments may potentially but do not
+necessarily increase market uncertainties. While a rating announcement automatically
+increases the precision of public information on the market and hence raises the risk of
+self-fulfilling crises, these may be prevented if investors have access to sufficiently precise
+private information. However, as has already been mentioned, for the case of open-end
+property funds this possibility is limited at least for private investors who were the main
+target group for these funds. In this market, therefore, the existence of ratings, provided
+that they become common information to all investors, may reasonably increase market
+uncertainty and trigger inefficient fund closures. The more precise the rating is, the easier
+it becomes for investors to coordinate their actions, which increases the effect. This result
+is strengthened by an interesting feature of fund ratings. While usually ratings simply
+assess the quality of the fund's underlying assets on a relative scale, there are ratings that
+additionally combine this quality assessment with a sell, hold or buy recommendation.
+The latter combined type of ratings will certainly ease investors' coordination based on
+the published rating, as such increasing the risk of self-fulfilling crises.
+An additional result by Bannier and Tyrell (2005) refers to the impact that the market
+segregation between private and institutional investors has on a rating's influence. Usually,
+institutional investors are required to invest only in assets or funds that are perceived to be
+sound, i.e. in "investment grade" assets or "m¨
+undelsichere Anlagen". These investment
+constraints for institutional investors can be shown to increase the probability of a crisis,
+i.e. of an inefficient mass withdrawal of money, where the effect is strengthened by the
+relative size of their investment.
+7 The Spread of the Crisis in Germany
+Indeed the closure of Deutsche Bank's Grundbesitz Invest caused a widespread crisis in
+the market for open-end property funds in Germany, supporting the considerations of the
+previous section. Particularly interesting was the evolvement of rating agencies in this
+respect.
+The closure of Deutsche Bank's Grundsbesitz Invest apparently raised doubts about
+the stability of German open-end real estate funds in general and the question of whether
+German banks will generally continue their practice of providing liquidity assistance to
+distressed property funds. The widespread credibility crisis of the open-end property
+18
+Figure 1: Monthly net liquidity inflow to public open-end real estate funds in Germany
+(in Mio Euro)
+-5.000
+-4.000
+-3.000
+-2.000
+-1.000
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+Jan 95
+Jul 95
+Jan 96
+Jul 96
+Jan 97
+Jul 97
+Jan 98
+Jul 98
+Jan 99
+Jul 99
+Jan 00
+Jul 00
+Jan 01
+Jul 01
+Jan 02
+Jul 02
+Jan 03
+Jul 03
+Jan 04
+Jul 04
+Jan 05
+Jul 05
+Jan 06
+Jul 06
+Source: BVI
+fund industry is best illustrated by figure 1 presenting the monthly net liquidity inflows
+at German-based public open-end real estate funds from January 1995 to December 2005.
+Obviously, in December 2005 and January 2006 the funds faced a liquidity drain on a
+previously unprecedented scale. The liquidity outflow in the month of December 2005
+to February 2006 amounted to Euro 8.5 bil­more than 10% of the total assets under
+management of these open-end property funds.
+However, the timely announcements of several banks to provide liquidity to their open-
+end property funds in the event of a shortage restored credibility and prevented a large
+scale closure of other funds.
+This was different in the case of KanAm, an investment management company that
+manages two German based open-end property fund and is not owned by a bank. On
+January 9, 2006, Alexandra Merz, managing director of Scope Analysis, a Berlin rating
+agency, stated in Business Week that after the closure of the Deutsche Bank fund, the
+closure of a second fund might trigger a run on open-end property funds. Despite the
+perceived risk of any additional negative information about the real-estate fund industry,
+Scope issued rating downgrades on two open-end property funds by KanAm on January
+16, 2006. Both rating announcements were combined with a sell-recommendation. Inter-
+estingly, the rating downgrades were not triggered by the announcement of a revaluation
+of assets by the funds' management. Rather, Scope argued that a downgrade had become
+necessary due to rumours about The Mills Corporation, one of KanAm's partners in the
+US real estate market. Despite the fact that even a full default of The Mills would only
+19
+have minor effects on KanAm's assets, Scope argued that negative reports about The Mills
+might trigger liquidity outflows from KanAm's funds that warrant a downgrade even of
+KanAm Grundinvest, a fund that is not invested in US real estate, due to infection effects
+between the funds.
+KanAm responded to the rating downgrades by pointing out that Scope had not
+obtained any data on the fund's assets from the fund's management, while a rating by
+Feri, a rating agency based in Bad Homburg, only slightly earlier had announced an
+excellent rating (AA) based on thorough private information about the fund. While the
+lack of proprietary information usually leads a rating agency to dispense with a rating,
+Scope decided to come forward with an assessment nonetheless. As Alexandra Merz later
+argued, Scope was in a dilemma: either not to announce its knowledge about the negative
+information about The Mills, risking not to be seen as a reliable source of information
+if the public learned about the presumably deteriorating quality of KanAm's partner, or
+to announce a negative assessment about KanAm's funds, thereby risking to act as a
+"multiplier", leading to a self-fulfilling prophecy. The latter is exactly what happened.
+Due to severe liquidity outflows, KanAm announced the freezing of its US fund on January
+17, 2006. Two days later, KanAm also had to close the much bigger KanAm Grundinvest
+fund.
+Combining the demise of the KanAm funds with the closure of Deutsche Bank's
+Grundbesitz Invest, we find that the former was definitively not triggered by funda-
+mental reasons. In particular, KanAm US-Grundinvest was the most successful open-end
+property fund in Germany at the time. It stands to reason therefore, which role the publi-
+cation of the negative rating assessments played for the observed development of KanAm's
+funds. The fact that the Scope ratings were combined with a sell recommendation - a
+rather unusual proceeding - certainly contributed to the high perceived precision of this
+piece of public information.
+This perception of a high precision of public information about the KanAm funds'
+quality might exactly have been what triggered the crisis. As the KanAm funds did not
+seem to be in a range where a crisis was inevitable, an interval might have opened up
+where self-fulfilling crises became possible. Since it is hardly possible to obtain any pre-
+cise private information about the investments of real-estate funds, the perceived increase
+in public information precision due to the rating announcement might reasonably have
+triggered the possibility of multiple equilibria. Within the interval where self-fulfilling
+prophecies decide on the market outcome, Scope's negative information coordinated in-
+vestors on the inefficient decision to withdraw their money, which forced the closure of the
+fund. Obviously, therefore, investors overreacted to the negative rating that was publicly
+available rather than searched for additional sources of private information. This overre-
+20
+action reflects the dual role that public information seems to play on financial markets
+due to strategic complementarities in investors' decisions. On the one hand, it conveys
+informational content, on the other hand, however, it also coordinates investors' behavior.
+As long as public information is sufficiently accurate, the latter effect might not distort
+the market outcome away from the efficient action that investors would have chosen had
+they perfectly known the true fundamental value underlying the fund. However, if public
+information is incorrect, it may coordinate behavior towards an inefficient market out-
+come. In the case of Scope's rating, information was certainly not very accurate as it was
+only based on rumours and publicly available pieces of information and not on a thor-
+ough analysis of the funds' data, even though it might have been perceived to be quite
+precise as it was combined with a straightforward trade recommendation. The results
+were aggravated by the fact that in particular institutional investors seem to have been
+heavily invested in KanAm's funds and massively withdrew their money after the rating
+announcement. Certainly this contributed to further withdrawals also by private investors
+that finally led to the closure of the funds.
+8 Policy Recommendations
+After the troubles of open-end property funds in Germany in December 2005 and Jan-
+uary 2006, different measures were recommended to improve the situation of these funds.
+Policy recommendations mainly concentrated on three different aspects: liquidity con-
+trol, valuation and transparency of funds.18 Our analysis of the different functions and
+the operational risk of open-end real estate funds allows us to evaluate most of these
+recommendations in detail.
+With regard to the control of liquidity, funds have been recommended to increase the
+level of their liquidity reserves, to introduce a period of notice for large sales (above one
+Mill. EUR) of the fund's shares combined with a discount on the redemption of shares
+from institutional investors, to allow for transactions between various funds owned by one
+company and to support the public trading of shares on a public exchange once a fund
+is closed. According to the logic that we followed in section 4.2 of this paper, an increase
+in liquidity requirements for real estate funds should be seen as counterproductive. It
+not only reduces the returns that these funds can generate, but it also undermines the
+disciplining effect of liquidity risk on the fund's management. However, larger liquidity
+buffers may alleviate the risk of a run on the fund: Higher liquidity reserves will reduce
+the trigger of the fund's perceived value up to which investors will decide to sell their
+18On January 24, 2006, BVI published a whole package of measures believed to be necessary to improve
+the funds' operations.
+21
+shares.
+A discount on the redemption of large shares, i.e. from institutional investors, should
+be efficiency enhancing because the liquidity transformation provided to investors can
+be improved (Diamond (1997)). Additionally, this measure strengthens the incentive
+of institutional market participants to invest in monitoring of the fund, because they
+cannot rely on withdrawing before small investors do. Most importantly, the discount
+also limits the scope for arbitrage opportunities for institutional investors in anticipation
+of a devaluation of the redemption rate.
+Finally, the closure of a fund may only be efficiency enhancing if management is
+dismissed. Otherwise, the suspension of convertibility of shares into money or the creation
+of a mutual insurance system eliminate the disciplining effect of liquidity transformation.
+These measures might be counterproductive if they reduce financial fragility, which is
+necessary for giving the right behavioral incentives in a complex institutional financial
+environment like Germany, by too much. While a trade of shares on public exchanges in
+the case of a closure of the fund should solve this problem, it has been found that the
+few burses that allowed for trading of open-end property funds stopped trading once the
+funds themselves were closed.
+Regarding the frequency of evaluation the proposals recommend a shortening of the
+period in which each unit has to be assessed to 6 month. With regard to the question of
+how to evaluate the funds' assets, policy recommendations ask for a stronger emphasis of
+a market-based evaluation. Up to now, due to the staggered valuation process, individual
+assets are evaluated not very frequently. Most of a fund's assets hence enter the evaluation
+process with an outdated price that is closer to historical costs than to the present market
+values. Interestingly, recent research by Freixas and Tsomocos (2004) and Plantin, Sapra,
+and Shin (2005) comes to the conclusion that under certain conditions, "book values"
+might be much better suited to evaluate assets than "fair values". Even though the papers
+depart from different assumptions about the underlying market structure, both reflect
+the working of open-end property funds reasonably well. While Freixas and Tsomocos
+(2004) argue that book value accounting is preferable if the evaluated entity is supposed
+to smooth intertemporal consumption, Plantin, Sapra, and Shin (2005) find that this is
+true if the secondary market for the asset is relatively illiquid and claims are long-lived.
+Obviously, it will be important to reduce the volatility of the fund's value by not allowing
+for additional variability brought about by frequent changes due to a marking-to-market
+evaluation program. However, while a shortening of the evaluation period and a stronger
+orientation on current market prices limits the scope of open-end property funds to provide
+intertemporal smoothing it also limits at the same time arbitrage opportunities that arise
+due to temporary deviations of the redemption price from the fundamental value of the
+22
+funds' assets.
+Yet, shorter evaluation periods and a higher emphasis on market prices also increases
+the transparency of a fund's fundamental value. Similarly, the proposed increase in the
+independence of evaluation experts by forcing funds to change the appointed expert every
+two years should improve transparency. Better information about the fundamental value
+of each individual real estate fund reduces the risk of informational contagion since in-
+vestors to a lesser extent rely on information that they extract from another fund's failure.
+In addition, greater transparency should also enable investors to exert direct control on
+the funds management. This would reduce the need for a fragile capital structure that
+enables investors to vote by feet in case of a bad fund performance.
+An additional way to improve transparency is to foster the rating of open-end real
+estate fund. Particularly solicited ratings might be an efficient way to reduce the risk of
+informational contagion and improve investors' control of fund managers. But whenever
+a rating agency does not have access to private information about the fund, as has been
+the case for Scope's KanAm rating, the rating will only display a coordination function,
+which raises the risk of a liquidity crisis for the fund. Thus, in contrast to solicited ratings,
+unsolicited ratings might actually increase the fragility of open-end property funds.
+23
+References
+Allen, F., and D. Gale, 1997, "Financial Markets, Intermediaries, and Intertemporal
+Smoothing," Journal of Political Economy, 105, 523­546.
+Allen, F., and D. Gale, 1998, "Optimal Financial Crises," Journal of Finance, 53, 1245­
+1284.
+Allen, F., and D. Gale, 2000, "Bubbles and Crises," Economic Journal, 110, 236­255.
+Allen, F., and D. Gale, 2004, "Financial Fragility, Liquidity and Asset Prices," Journal
+of the European Economic Association, 2, 1015­1048.
+Bannier, C., and M. Tyrell, 2005, "Modelling the Role of Credit Rating Agencies - Do
+They Spark Off a Virtuous Circle?," Finance and Accounting Working Paper No.,
+Goethe-University Frankfurt.
+Boot, A., T. Milbourn, and A. Schmeits, 2006, "Credit Ratings as Coordination Mecha-
+nisms," Review of Financial Studies, 19, 81­118.
+Boot, W., S. Greenbaum, and A. Thakor, 1993, "Reputation and Discretion in Financial
+Contracting," American Economic Review, 83, 1165­1183.
+Calomiris, C. W., and C. M. Kahn, 1991, "The Role of Demandable Debt in Structuring
+Optimal Banking Arrangments," American Economic Review, 81, 497­513.
+Carlson, M., and G. Hale, 2005, "Courage to Capital? A Model of the Effects of Rating
+Agencies on Sovereign Debt Roll-Over," Cowles Foundation Discussion Paper No 1506.
+Carlsson, H., and E. van Damme, 1993, "Global Games and Equilibrium Selection,"
+Econometrica, 61, 989­1018.
+Chen, Y., 1999, "Banking Panics: The Role of the First-Come, First-Served Rule and
+Informational Externalities," Journal of Political Economy, 107, pp. 946­968.
+Diamond, D., 1997, "Liquidity, Banks, and Markets," Journal of Political Economy, 105,
+928­956.
+Diamond, D., and R. Rajan, 2000, "A Theory of Bank Capital," Journal of Finance, 55,
+2431­2465.
+Diamond, D., and R. Rajan, 2001, "Liquidity Risk, Liquidity Creation, and Financial
+Fragility: A Theory of Banking," Journal of Political Economy, 109, 287­327.
+24
+Diamond, D. W., and P. H. Dybvig, 1983, "Bank runs, deposit insurance, and liquidity,"
+Journal of Political Economy, 91, 401419.
+Fama, E., and M. Jensen, 1983, "Agency Problems and Residual Claims," Journal of Law
+and Economics, 26, 327­349.
+Fecht, F., 2004, "On the Stability of Different Financial Systems," Journal of the European
+Economic Association, 2, 969­1024.
+Freixas, X., and D. Tsomocos, 2004, "Book vs. Fair Value Banking, and Intertemporal
+Smoothing," Mimeo, Universitat Pompeu Fabra.
+Goldstein, I., and A. Pauzner, 2005, "Demand-Deposit Contracts and the Probability of
+Bank Runs," Journal of Finance, 60, 1293­1328.
+Goodhart, C. A. E., 1987, "Why Do Banks Need a Central Bank?," Oxford Economic
+Papers, 39, 75­89.
+Helmer, S., 1997, Die Vermgensverwaltende Immobilien-KG mit Genußschein, Eu-
+rop¨
+aischer Verlag der Wissenschaften, Frankfurt/Main.
+Hoesli, M., 1993, Investissement Immobilier et Diversification de Portefeuille, economica.
+Klug, W., 2004, Offene Immobilienfonds, Fritz Knapp Verlag.
+Lee, S. L., 2000, "Property Funds and Flow," Working Paper in Land Management and
+Development 02/00.
+Little, A., 1992, "Changes for the Unlisted Property Trusts," The Valuer and Land
+Economist, pp. 166­170, 230.
+Maurer, R., 2004, The German Financial System . chap. Institutional Investors in Ger-
+many: Insurance Companies and Investment Funds, pp. 106­138, Oxford University,
+Oxford.
+Maurer, R., F. Reiner, and R. Rogalla, 2005, "Return and risk of German open-end real
+estate funds," Journal of Property Research, 21, 209­233.
+Maurer, R., and S. Sebastian, 2002, "Inflation Risk Analysis of European Real Estate
+Securities," Journal of Real Estate Research, 24, 47­77.
+McParland, C., A. Adair, and S. McGreal, 2002, "Valuation Standard - A Comparison of
+four European Countries," Journal of Property Valuation and Investment, 20, 127­141.
+25
+Metz, C., 2002, "Private and Public Information in Self-Fulfilling Currency Crises," Jour-
+nal of Economics, 76, 65­85.
+Morgan, J. F., 1998, "The Natural History of Professionalization and Its Effect of Valua-
+tion Theory and Practice in the UK and Germany," Journal of Property Valuation and
+Investment, 16, 185­206.
+Morris, S., and H. Shin, 2002, "Social Value of Public Information," American Economic
+Review, 52, 1521­1534.
+Plantin, G., H. Sapra, and H. Shin, 2005, "Marking-to-Market: Panacea or Pandora's
+Box?," Mimeo, Carnegie Mellon University.
+Qi, J., 1994, "Bank Liquidity and Stability in an Overlapping Generations Model," Review
+of Financial Studies, 7, 389­417.
+Rochet, J.-C., and X. Vives, 2004, "Coordination Failures and the Lender of Last Resort:
+Was Bagehot Right After All?," Journal of the European Economic Association, 2-6,
+1116­1145.
+Sebastian, S., and M. Tyrell, 2006, "Open End Real Estate Funds - Diamond or Danger?,"
+Working Paper Goethe University Frankfurt.
+26
+27
+The following Discussion Papers have been published since 2006:
+Series 1: Economic Studies
+1 2006 The dynamic relationship between the Euro
+overnight rate, the ECB's policy rate and the Dieter Nautz
+term spread Christian J. Offermanns
+2 2006 Sticky prices in the euro area: a summary of Álvarez, Dhyne, Hoeberichts
+new micro evidence Kwapil, Le Bihan, Lünnemann
+Martins, Sabbatini, Stahl
+Vermeulen, Vilmunen
+3 2006 Going multinational: What are the effects
+on home market performance? Robert Jäckle
+4 2006 Exports versus FDI in German manufacturing:
+firm performance and participation in inter- Jens Matthias Arnold
+national markets Katrin Hussinger
+5 2006 A disaggregated framework for the analysis of Kremer, Braz, Brosens
+structural developments in public finances Langenus, Momigliano
+Spolander
+6 2006 Bond pricing when the short term interest rate Wolfgang Lemke
+follows a threshold process Theofanis Archontakis
+7 2006 Has the impact of key determinants of German
+exports changed?
+Results from estimations of Germany's intra
+euro-area and extra euro-area exports Kerstin Stahn
+8 2006 The coordination channel of foreign exchange Stefan Reitz
+intervention: a nonlinear microstructural analysis Mark P. Taylor
+9 2006 Capital, labour and productivity: What role do Antonio Bassanetti
+they play in the potential GDP weakness of Jörg Döpke, Roberto Torrini
+France, Germany and Italy? Roberta Zizza
+28
+10 2006 Real-time macroeconomic data and ex ante J. Döpke, D. Hartmann
+predictability of stock returns C. Pierdzioch
+11 2006 The role of real wage rigidity and labor market
+frictions for unemployment and inflation Kai Christoffel
+dynamics Tobias Linzert
+12 2006 Forecasting the price of crude oil via
+convenience yield predictions Thomas A. Knetsch
+13 2006 Foreign direct investment in the enlarged EU:
+do taxes matter and to what extent? Guntram B. Wolff
+14 2006 Inflation and relative price variability in the euro Dieter Nautz
+area: evidence from a panel threshold model Juliane Scharff
+15 2006 Internalization and internationalization
+under competing real options Jan Hendrik Fisch
+16 2006 Consumer price adjustment under the
+microscope: Germany in a period of low Johannes Hoffmann
+inflation Jeong-Ryeol Kurz-Kim
+17 2006 Identifying the role of labor markets Kai Christoffel
+for monetary policy in an estimated Keith Küster
+DSGE model Tobias Linzert
+18 2006 Do monetary indicators (still) predict
+euro area inflation? Boris Hofmann
+19 2006 Fool the markets? Creative accounting, Kerstin Bernoth
+fiscal transparency and sovereign risk premia Guntram B. Wolff
+20 2006 How would formula apportionment in the EU
+affect the distribution and the size of the Clemens Fuest
+corporate tax base? An analysis based on Thomas Hemmelgarn
+German multinationals Fred Ramb
+29
+21 2006 Monetary and fiscal policy interactions in a New
+Keynesian model with capital accumulation Campbell Leith
+and non-Ricardian consumers Leopold von Thadden
+22 2006 Real-time forecasting and political stock market Martin Bohl, Jörg Döpke
+anomalies: evidence for the U.S. Christian Pierdzioch
+23 2006 A reappraisal of the evidence on PPP:
+a systematic investigation into MA roots Christoph Fischer
+in panel unit root tests and their implications Daniel Porath
+24 2006 Margins of multinational labor substitution Sascha O. Becker
+Marc-Andreas Mündler
+25 2006 Forecasting with panel data Badi H. Baltagi
+26 2006 Do actions speak louder than words? Atsushi Inoue
+Household expectations of inflation based Lutz Kilian
+on micro consumption data Fatma Burcu Kiraz
+27 2006 Learning, structural instability and present H. Pesaran, D. Pettenuzzo
+value calculations A. Timmermann
+28 2006 Empirical Bayesian density forecasting in Kurt F. Lewis
+Iowa and shrinkage for the Monte Carlo era Charles H. Whiteman
+29 2006 The within-distribution business cycle dynamics Jörg Döpke
+of German firms Sebastian Weber
+30 2006 Dependence on external finance: an inherent George M. von Furstenberg
+industry characteristic? Ulf von Kalckreuth
+31 2006 Comovements and heterogeneity in the
+euro area analyzed in a non-stationary
+dynamic factor model Sandra Eickmeier
+30
+32 2006 Forecasting using a large number of predictors: Christine De Mol
+is Bayesian regression a valid alternative to Domenico Giannone
+principal components? Lucrezia Reichlin
+33 2006 Real-time forecasting of GDP based on
+a large factor model with monthly and Christian Schumacher
+quarterly data Jörg Breitung
+34 2006 Macroeconomic fluctuations and bank lending: S. Eickmeier
+evidence for Germany and the euro area B. Hofmann, A. Worms
+35 2006 Fiscal institutions, fiscal policy and Mark Hallerberg
+sovereign risk premia Guntram B. Wolff
+36 2006 Political risk and export promotion: C. Moser
+evidence from Germany T. Nestmann, M. Wedow
+37 2006 Has the export pricing behaviour of German
+enterprises changed? Empirical evidence
+from German sectoral export prices Kerstin Stahn
+38 2006 How to treat benchmark revisions?
+The case of German production and Thomas A. Knetsch
+orders statistics Hans-Eggert Reimers
+39 2006 How strong is the impact of exports and
+other demand components on German
+import demand? Evidence from euro-area
+and non-euro-area imports Claudia Stirböck
+40 2006 Does trade openness increase C. M. Buch, J. Döpke
+firm-level volatility? H. Strotmann
+41 2006 The macroeconomic effects of exogenous Kirsten H. Heppke-Falk
+fiscal policy shocks in Germany: Jörn Tenhofen
+a disaggregated SVAR analysis Guntram B. Wolff
+31
+42 2006 How good are dynamic factor models
+at forecasting output and inflation? Sandra Eickmeier
+A meta-analytic approach Christina Ziegler
+43 2006 Regionalwährungen in Deutschland ­
+Lokale Konkurrenz für den Euro? Gerhard Rösl
+44 2006 Precautionary saving and income uncertainty
+in Germany ­ new evidence from microdata Nikolaus Bartzsch
+45 2006 The role of technology in M&As: a firm-level Rainer Frey
+comparison of cross-border and domestic deals Katrin Hussinger
+46 2006 Price adjustment in German manufacturing:
+evidence from two merged surveys Harald Stahl
+47 2006 A new mixed multiplicative-additive model
+for seasonal adjustment Stephanus Arz
+48 2006 Industries and the bank lending effects of Ivo J.M. Arnold
+bank credit demand and monetary policy Clemens J.M. Kool
+in Germany Katharina Raabe
+01 2007 The effect of FDI on job separation Sascha O. Becker
+Marc-Andreas Mündler
+02 2007 Threshold dynamics of short-term interest rates:
+empirical evidence and implications for the Theofanis Archontakis
+term structure Wolfgang Lemke
+32
+Series 2: Banking and Financial Studies
+01 2006 Forecasting stock market volatility with J. Döpke, D. Hartmann
+macroeconomic variables in real time C. Pierdzioch
+02 2006 Finance and growth in a bank-based economy: Michael Koetter
+is it quantity or quality that matters? Michael Wedow
+03 2006 Measuring business sector concentration
+by an infection model Klaus Düllmann
+04 2006 Heterogeneity in lending and sectoral Claudia M. Buch
+growth: evidence from German Andrea Schertler
+bank-level data Natalja von Westernhagen
+05 2006 Does diversification improve the performance Evelyn Hayden
+of German banks? Evidence from individual Daniel Porath
+bank loan portfolios Natalja von Westernhagen
+06 2006 Banks' regulatory buffers, liquidity networks Christian Merkl
+and monetary policy transmission Stéphanie Stolz
+07 2006 Empirical risk analysis of pension insurance ­ W. Gerke, F. Mager
+the case of Germany T. Reinschmidt
+C. Schmieder
+08 2006 The stability of efficiency rankings when
+risk-preferences and objectives are different Michael Koetter
+09 2006 Sector concentration in loan portfolios Klaus Düllmann
+and economic capital Nancy Masschelein
+10 2006 The cost efficiency of German banks: E. Fiorentino
+a comparison of SFA and DEA A. Karmann, M. Koetter
+11 2006 Limits to international banking consolidation F. Fecht, H. P. Grüner
+33
+12 2006 Money market derivatives and the allocation Falko Fecht
+of liquidity risk in the banking sector Hendrik Hakenes
+01 2007 Granularity adjustment for Basel II Michael B. Gordy
+Eva Lütkebohmert
+02 2007 Efficient, profitable and safe banking:
+an oxymoron? Evidence from a panel Michael Koetter
+VAR approach Daniel Porath
+03 2007 Slippery slopes of stress: ordered failure Thomas Kick
+events in German banking Michael Koetter
+04 2007 Open-end real estate funds in Germany ­ C. E. Bannier
+genesis and crisis F. Fecht, M. Tyrell
+35
+Visiting researcher at the Deutsche Bundesbank
+The Deutsche Bundesbank in Frankfurt is looking for a visiting researcher. Among others
+under certain conditions visiting researchers have access to a wide range of data in the
+Bundesbank. They include micro data on firms and banks not available in the public.
+Visitors should prepare a research project during their stay at the Bundesbank. Candidates
+must hold a Ph D and be engaged in the field of either macroeconomics and monetary
+economics, financial markets or international economics. Proposed research projects
+should be from these fields. The visiting term will be from 3 to 6 months. Salary is
+commensurate with experience.
+Applicants are requested to send a CV, copies of recent papers, letters of reference and a
+proposal for a research project to:
+Deutsche Bundesbank
+Personalabteilung
+Wilhelm-Epstein-Str. 14
+60431 Frankfurt
+GERMANY
+

@@ -1,0 +1,493 @@
+Gruenewald, T.L., Liao, D.H., & Seeman, T.E. (2012). Contributing to others, contributing to oneself: perceptions of generativity and health in later life. The Journals of Gerontology, Series B:
+Psychological Sciences and Social Sciences, 67(6), 660­665, doi:10.1093/geronb/gbs034. Advance Access publication March 27, 2012
+© The Author 2012. Published by Oxford University Press on behalf of The Gerontological Society of America.
+All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+Received June 14, 2011; Accepted February 12, 2012
+Decision Editor: Rosemary Blieszner, PhD
+Gruenewald, T.L., Liao, D.H., & Seeman, T.E. (2012). Contributing to others, contributing to oneself: perceptions of generativity and health in later life. The Journals of Gerontology, Series B:
+Psychological Sciences and Social Sciences, 10.1093/geronb/gbs034
+© The Author 2012. Published by Oxford University Press on behalf of The Gerontological Society of America.
+All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+1
+Received June 14, 2011; Accepted February 12, 2012
+Decision Editor: Rosemary Blieszner, PhD
+GENERATIVITY, that is, concern and activity dedicated
+to contributing to the well-being of others, especially
+younger generations, is postulated to be an important devel-
+opmental goal of midlife and beyond (Erikson, 1950,
+1997/1982). Although generative desires and behavior are
+thought to peak in midlife when generative role demands and
+resources (social, economic, cognitive) are greatest, accumu-
+lating evidence suggests that generative desire and activity
+remain high for some older adults (see McAdams, 2001;
+Stewart & Vandewater, 1998). Desires to be useful to and to
+contribute to others are often cited motivations for social and
+productive engagement in later life (Narushima, 2005; Okun,
+1994). Such engagement is a key component of many models
+of successful aging (Depp & Jeste, 2006; Fischer, 1995;
+Rowe & Kahn, 1998) and is linked to better cognitive and
+physical well-being in older adulthood (Adams, Leibbrandt,
+& Moon, 2010; Gottlieb & Gillespie, 2008).
+Older adults' perceptions of important components of
+generativity (e.g., feeling needed and useful) may also be
+linked to health trajectories in later life. Not feeling needed
+by others predicted greater risk of institutionalization and
+death (for a period of 5­10 years) in older Finnish birth
+cohorts (aged 75­85; Pitkala, Laakkonen, Strandberg, & Tilvis,
+2004). Similarly, rural-dwelling French (aged 60) and
+Japanese (aged 65) elders with low (vs. high) feelings of
+social usefulness were more likely to experience increases
+in activities of daily living (ADLs) impairment or to die
+over 4- to 6-year follow-ups (Grand, Grosclaude, Bocquet,
+Pous, & Albarede, 1988, 1990; Okamoto & Tanaka, 2004).
+These associations were replicated in analyses of high-
+functioning older Americans (aged 70­79 years). Among
+older adults initially disability-free, those with low (vs.
+high) feelings of social usefulness were more likely to show
+increases in ADL disability or to die (more than 7.5 years),
+and those with persistently low or declining feelings of
+usefulness experienced shorter longevity (Gruenewald,
+Karlamangla, Greendale, Singer, & Seeman, 2007, 2009).
+The current analyses add to these prior investigations by
+examining whether self-perceptions of generativity predict
+risk of disability increase or mortality for a 10-year period
+in a national sample of older adults (aged 60­75 years) from
+the Study of Midlife in the United States (MIDUS). An
+important limitation of much of the prior research in this
+area is the use of samples of high-functioning elders or from
+select geographic locales (e.g., rural dwelling). Another
+limitation of previous research is the limited measurement
+of generativity components (i.e., feeling needed, feeling
+useful to others). The present investigation examines the
+health correlates of generativity using both an indicator of
+perceived level of current contributions to others and a brief
+version of the widely used Loyola Generativity Scale
+(McAdams & de St.Aubin, 1992) that taps multiple generativity
+components (having made important contributions to others,
+feeling needed, having socially-valued skills). An additional
+contribution of the present investigation is the examination
+of three potential pathways through which we hypothesize
+Contributing to Others, Contributing to Oneself:
+Perceptions of Generativity and Health in Later Life
+Tara L. Gruenewald,1 Diana H. Liao,2 and Teresa E. Seeman2
+1Davis School of Gerontology, University of Southern California, Los Angeles.
+2Department of Medicine/Geriatrics, Geffen School of Medicine at University of California, Los Angeles.
+Objectives. To examine whether perceptions of generativity predict the likelihood of increases in levels of impairment
+in activities of daily living (ADLs) or of dying over a 10-year period in older adults aged 60­75 from the Study of Midlife
+in the United States (MIDUS).
+Method. Perceptions of generativity and current generative contributions as well as select sociodemographic, health
+status, health behavior, and psychosocial factors, assessed at a baseline exam, were examined as predictors of change in
+ADL disability level or mortality over the 10-year period between the baseline and follow-up waves of the MIDUS Study.
+Results. Greater levels of generativity and generative contributions at baseline predicted lower odds of experiencing
+increases in ADL disability (2 or more new domains of impairment; generativity odds ratio [OR] = 0.93 and generative
+contributions OR = 0.87), or of dying (generativity OR = 0.94 and generative contributions OR = 0.88), over the 10-year
+follow-up in models adjusted for sociodemographics and baseline health and disability. Associations remained relatively
+unchanged with the inclusion of different sets of health behavior and psychosocial variables in analytic models.
+Discussion. Findings indicate that greater perceptions of generativity are associated with more favorable trajectories
+of physical functioning and longevity over time in older adults.
+Key Words: Aging--Disability--Generativity--Mortality--Usefulness.
+660
+GRUENEWALD ET AL.
+2
+perceptions of generativity may be linked to physical health
+outcomes: (a) health-related behavior, (b) social and produc-
+tive engagement, and (c) affective well-being. Those who feel
+more generative may take better care of themselves to maintain
+their ability to contribute, engage in more social and productive
+activity, and experience greater affective well-being, all of
+which may be paths to better physical well-being.
+Method
+Participants
+MIDUS is currently a two-wave [MIDUS I (MI): 1995­
+1996; MIDUS II (MII): 2004­2006] longitudinal study of
+factors associated with healthy aging in a national sample of
+adults (aged 25 to 74 at baseline). At both waves, partici-
+pants completed telephone (MI n = 7,108; MII n = 4,963)
+and mail (MI n = 6,325; MII n =4,032) surveys. Given our
+focus on links between generativity and health in older
+adulthood, the current analyses focus on the subset of
+MIDUS participants aged 60­75 at baseline (n = 1,353).
+Measures
+Unless otherwise stated, study variables were assessed at
+the MI baseline.
+Perceived generativity.--Perceived generativity was calcu-
+lated as the sum of six items assessing agreement on a 4-point
+scale ranging from 1 (not at all) to 4 (a lot), with indicators
+of past and current generative desires and behaviors (made
+unique contributions to society, feel others need you, have
+skills to pass along, many come to you for advice, like to teach
+others, have a good influence on others; scale alpha = 0.84)
+taken from the Loyola Generativity Scale (McAdams & de St.
+Aubin, 1992). A second measure assessed perceptions of
+current generative contributions by asking respondents to rate
+their current level of contribution to the welfare and well-being
+of others, including friends, family, and the community, using
+an 11-point scale from 0 (worst possible) to 10 (best possible).
+Sociodemographic and health status covariates.--
+Sociodemographic covariates included age, sex, educa-
+tional attainment (high school, some college), and race/
+ethnicity (coded as White or non-White due to the small
+proportion of non-White participants; 3.6% Black or African
+American, 2.4% multirace, 0.7% other). Indicators of health
+status included body mass index (BMI) and the total number
+of nine health conditions (hypertension, heart disease,
+stroke, neurological disorder, diabetes, cancer, autoimmune
+disease, lung problems, and AIDS) experienced in the last
+year or ever (for heart disease and cancer).
+Behavioral and psychosocial covariates.--Physical
+activity level was assessed as a summary of the frequency
+(6-point scale: 1 [never] to 6 [several times a week or more])
+measure of moderate and vigorous (frequency weighted by
+1.5) physical activity. Smoking status was coded as non-, ex-,
+or current smoker. Social contact variables included presence
+of marital or marital-like partner and frequency of contact
+with nonhousehold family members and friends (8-point
+scale: 1 [never/hardly ever] to 8 [several times a day]) and
+neighbors (6-point scale: 1 [never/hardly ever] to 6 [almost
+every day]). Emotional and instrumental support provision
+(hours per month) were assessed across multiple recipients
+(spouse/partner, parents, in-laws, children/grandchildren,
+other family, close friends, others). Productive activity
+variables included volunteer activity (hours per month) and
+paid employment (1 [yes], 0 [no]). Affective well-being
+was assessed as the average frequency (5-point scale: 1
+[none of the time] to 5 [all of the time]) of five negative
+emotions (e.g., nervous, worthless, sad) experienced in the
+last month.
+Change in disability and mortality occurrence.--Activities
+of daily living impairment at both MIDUS assessments was
+measured as the total number of six ADLs that participants
+reported "a lot" of difficulty in performing: lifting or carry-
+ing groceries, bathing or dressing, climbing several flights
+of stairs, walking several blocks, bending, kneeling or
+stooping, and moderate physical activity (e.g., vacuuming).
+Mortality status was obtained through National Death Index
+(NDI) searches through 2006 and next of kin reports during
+MII follow-up. Disability change and mortality information
+were combined into a four-category outcome variable: no
+change or slight improvement inADL disability (from base-
+line), small disability increase (1­2 new impairments),
+moderate to large disability increase (3 new impairments),
+or death over the follow-up.
+Analyses
+Complete data for measures examined in analyses, MI
+and MII disability, and mortality occurrence over the follow-up
+were available for 855 of the 1,353 individuals aged 60 and
+older at baseline (313 were missing data on one or more
+measures, 285 neither participated in the MII exam nor
+were identified in NDI searches). Comparisons of those
+included and excluded from analyses on the basis of missing
+data indicated no significant differences for study variables
+except those included were more likely to be college edu-
+cated, men, married, and to have lower negative affect and
+slightly higher levels of perceived generative contributions.
+Multinomial logistic regressions were used to examine the
+odds of each disability change or mortality outcome cate-
+gory over the follow-up as a function of baseline generativity.
+The baseline model included baseline ADL disability,
+health, and sociodemographic covariates. Five additional
+models added different sets of baseline covariates reflecting
+hypothesized paths through which generativity may be
+linked to health outcomes: (a) health behaviors, (b) social
+PERCEPTIONS OF GENERATIVITY AND HEALTH 661
+PERCEPTIONS OF GENERATIVITY AND HEALTH 3
+activity, (c) social support provision, (d) productive activity,
+and (e) affect. A final model included baseline model
+covariates and significant covariates (p  .10) from previous
+models. Analyses accounted for clustering by family mem-
+bership given the presence of twin and sibling participants
+in the sample. STATA (v.11) was utilized for analyses.
+Results
+Descriptive statistics for study variables are presented in
+Table 1. Approximately a quarter of the sample died, a little
+under a quarter showed small or moderate to large disability
+increases, and approximately half showed no change or
+slight improvements in ADL impairment.
+Inspection of associations between generativity measures
+and study covariates (data not shown) indicated that those
+who felt more generative had more frequent social contact,
+provided more support to others, volunteered more, were
+more physically active, had lower levels of negative affect,
+were more likely to be married and college educated, and
+less likely to smoke. Only perceived current generative
+Table 1. Sociodemographic, Psychosocial, Behavioral, and Health Characteristics of Study Sample
+N % M (SD) Possible range
+Sociodemographic variables
+Age (baseline) 855 66.17 (4.19) 60­75
+Sex
+Male 416 48.65
+Female 439 51.35
+Race or ethnicity
+White 799 93.45
+Non-White 56 6.55
+Education
+High school or less 374 43.74
+Some college or greater 481 56.26
+Baseline health status variables:
+# Major health conditions 855 0.55 (0.87) 0­9
+None 535 62.60
+One 213 24.90
+Two or more 107 12.50
+Body mass index 855 26.81 (5.06)
+# of ADL impairments at baseline 855 0.52 (1.23) 0­6
+None 678 79.30
+One or two 99 11.60
+Three or more 78 9.10
+Health behavior variables:
+Physical activity level 855 10.88 (3.31) 2.5­15
+Smoking status
+Current 134 15.67
+Ex-smoker 369 43.16
+Nonsmoker 352 41.17
+Social contact variables
+Married or marriage-like cohabitating partner
+Yes 615 71.93
+No 240 28.07
+Frequency of family contact 855 6.03 (1.47) 1­8
+Frequency of friend contact 855 5.64 (1.52) 1­8
+Frequency of neighbor contact 855 5.33 (1.11) 1­6
+Provide social support variables
+Emotional support (hours per month) 855 42.62 (66.26)
+Instrumental support (hours per month) 855 5.04 (15.14)
+Productive engagement variables
+Hours per month volunteer 855 6.95 (15.26)
+Work for pay
+Yes 223 26.08
+No 632 73.92
+Affective well-being variable
+Negative affectivity 855 1.42 (0.54) 1­5
+Perceived level of generativity 855 16.62 (3.97) 6­24
+Perceived level of current generative contributions 851 6.65 (2.33) 0­10
+Change in health status over follow-up
+No change or slight decrease in ADL impairment 449 52.64
+Small increase in ADL impairment 77 9.03
+Moderate to large increase in ADL impairment 118 13.60
+Died 211 24.74
+Note. ADL = activities of daily living.
+662 GRUENEWALD ET AL.
+GRUENEWALD ET AL.
+4
+contributions showed weak negative associations with base-
+line ADL impairment and BMI, and neither generativity
+measure was significantly associated with baseline health
+condition burden. The two generativity measures were
+moderately correlated (r = 0.43).
+As documented inTable 2, for both generativity measures,
+greater perceptions of generativity at baseline predicted sig-
+nificantly lower odds of increased ADL disability or mor-
+tality over the follow-up (odds of slight increase in disability
+as a function of the multi-item generativity measure was not
+significant), when accounting for baseline health, disability,
+and sociodemographic factors. The inclusion of different
+sets of health behavior, social and productive engagement,
+and affective well-being covariates led to little change in
+odds ratio (OR) estimates for generativity predictors. How-
+ever, for the multi-item generativity measure, estimates for
+mortality were reduced to marginal significance in models
+including health behavior covariates and in the full multi-
+variate model.
+Supplementary Analyses
+Analyses were repeated with missing values estimated
+(via STATA's Imputation by Chained Equations algorithm)
+with three imputation approaches: (a) A model imputing all
+missing data except missing outcome data, (b) A model
+additionally imputing missing outcome data, and (c) A model
+incorporating outcome variable information in the imputa-
+tion process but excluding cases with missing outcome
+data from analyses. Analyses using all three approaches
+(10 imputed datasets utilized in each approach) produced
+a very similar pattern of results to those obtained with
+complete case analyses.
+Discussion
+Results indicate that older adults in their 60s and 70s with
+greater self-perceptions of generativity were less likely to
+experience increases in ADL disability or to die as they
+aged into their 70s and 80s. These findings are consistent
+with previous research linking components of generativity
+(feeling useful, feeling needed) and disability and mortality
+outcomes in older adulthood (Grand et al., 1988, 1990;
+Gruenewald et al., 2007, 2009; Okamoto & Tanaka, 2004;
+Pitkala et al., 2004). An important contribution of the pre-
+sent investigation is the documentation of these associations
+in a national sample of older Americans, as most previous
+investigations have examined select samples of older adults
+(e.g., high-functioning older Americans, rural-dwelling
+Japanese or French elders). Although there is no reason to
+expect that links between generativity perceptions and
+health should be unique to these populations, replication in
+a national sample further bolsters the hypothesis that feeling
+generative may be health-enhancing in older adulthood.
+The measure of perceived level of current generative con-
+tributions showed a stronger association with likelihood of
+disability increase and mortality as compared with results
+for the multi-item perceived generativity scale, although
+both were associated with better outcomes. This could indi-
+cate that strong associations for one or more generativity
+Table 2. Odds (95% CI) of Disability and Mortality as a Function of Perceived Level of Generativity in Multivariable Models Including
+Sociodemographic, Psychosocial, Behavioral, and Health Covariates
+Change in health status over 10-year follow-up
+Slight increase in
+ADL disability (1 new ADL)
+Moderate to large increase in
+ADL disability (2+ new ADLs) Died
+Perceived generativity
+Baseline model 0.95 (0.89, 1.02) 0.93 (0.88, 0.98) 0.94 (0.90, 0.98)
+Add health behavior covariates 0.95 (0.89, 1.02) 0.94 (0.89, 0.99) 0.96 (0.91, 1.00)
+Add social contact covariates 0.96 (0.89, 1.02) 0.93 (0.88, 0.98) 0.94 (0.90, 0.99)
+Add give support covariates 0.95 (0.89, 1.01) 0.93 (0.88, 0.98) 0.94 (0.90, 0.99)
+Add productive activity covariates 0.95 (0.89, 1.01) 0.92 (0.89, 0.99) 0.95 (0.91, 0.99)
+Add affective well-being covariate 0.96 (0.90, 1.02) 0.93 (0.88, 0.99) 0.95 (0.91, 0.99)
+Final multivariate model 0.95 (0.89, 1.02) 0.94 (0.88, 0.99) 0.96 (0.92, 1.01)
+Current generative contributions
+Baseline model 0.88 (0.80, 0.97) 0.89 (0.81, 0.97) 0.88 (0.81, 0.96)
+Add health behavior covariates 0.88 (0.80, 0.96) 0.88 (0.81, 0.97) 0.90 (0.83, 0.98)
+Add social contact covariates 0.89 (0.80, 0.98) 0.87 (0.80, 0.96) 0.89 (0.82, 0.97)
+Add give support covariates 0.87 (0.80, 0.96) 0.87 (0.80, 0.96) 0.89 (0.81, 0.96)
+Add productive activity covariates 0.87 (0.79, 0.96) 0.88 (0.80, 0.96) 0.90 (0.83, 0.98)
+Add affective well-being covariate 0.89 (0.81, 0.97) 0.88 (0.80, 0.96) 0.89 (0.82, 0.96)
+Final multivariate model 0.88 (0.80, 0.97) 0.89 (0.81, 0.98) 0.91 (0.83, 0.99)
+Note. ADL = activities of daily living. Baseline model includes age, sex, race, educational attainment, BMI, and number of ADL limitations and major/chronic
+health conditions (continuous) at baseline. The health behavior model adds physical activity frequency and smoking status. The social contact model adds presence
+of marital or marital-like partner and frequency of contact with family, friends, and neighbors. The productive activity model adds volunteerism and engagement in
+paid employment. The give support model adds frequency of provided emotional and instrumental support. The affective well-being model adds negative affect. The
+final multivariate model includes baseline model covariates and significant psychosocial, behavioral, and health status covariate predictors from previous models
+(presence of marital or marital-like partner, frequency of provided emotional support, physical activity level, number of chronic health conditions, BMI, and smoking
+status). Bold font indicates p values for coefficients are .05.
+PERCEPTIONS OF GENERATIVITY AND HEALTH 663
+PERCEPTIONS OF GENERATIVITY AND HEALTH 5
+subcomponents are masked by averaging across the mul-
+tiple scale indicators. However, supplementary analyses
+indicated similar OR estimates for disability and mortality
+outcomes for each of the individual scale indicators, albeit
+some point estimates were nonsignificant or marginally sig-
+nificant (data not shown). Another possibility may be that
+the measure of perceived level of current generative contri-
+butions best captures a component of generativity that
+is an active ingredient in promoting better health in later
+life.Additional research with investigations designed to more
+comprehensively measure different generativity components
+and trajectories of health in later life is needed to address
+these questions.
+Although greater perceptions of generativity were associ-
+ated with a more favorable profile on psychosocial and
+behavioral measures, the magnitude of associations between
+generativity perceptions and disability and mortality risk
+remained relatively unchanged when accounting for these
+covariates in analyses. Greater perceptions of generativity
+also predicted lower risk of increased disability and mor-
+tality when accounting for sociodemographic factors and
+baseline disability and health condition burden. On the one
+hand, these findings indicate that associations between
+generativity and disability and mortality are not confounded
+by these other factors. However, it also indicates that more
+research is needed to understand the pathways through
+which perceptions of generativity may be linked to physical
+health over time.
+One important limitation of the present investigation is
+that even though the MIDUS sample is a national sample,
+the representation of those at the extremes of the socioeco-
+nomic spectrum and of racial ethnic minorities is lower than
+in the general U.S. population. Such characteristics are not
+uncommon for national telephone and mail surveys, but do
+raise the possibility that results may not generalize to all
+older Americans. In addition, although there were relatively
+few differences between those included and excluded from
+analyses due to missing data, the two groups did differ on
+some variables (e.g., education, negative affect, perceived
+generative contributions). These differences raise the con-
+cern that study findings may be dependent on characteris-
+tics of the analytic sample (e.g., associations may be
+stronger in those who are more advantaged). However, the
+similar pattern of results for analyses with missing data im-
+puted with multiple approaches does suggest that results
+may not be limited to the analytic sample. A final limitation
+is that measures of perceived generativity were limited to a
+single baseline assessment. Identifying the health correlates
+of change in these perceptions over time is an important
+objective of future research with the MIDUS cohort.
+In summary, the current investigation indicates that older
+adults in their 60s and 70s who feel more generative are less
+likely to show increases in physical disability or to die as
+they age into their 70s and 80s. These findings suggest that
+health promotion scientists and society at large may want to
+devote further attention to understanding factors that main-
+tain and enhance perceptions of generativity in later life.
+Funding
+This work was supported by the National Institute on Aging (grant
+numbers K01-AG028582 to T. L. Gruenewald, R01-AG032271 to T. E.
+Seeman, and P01-AG020166, which funded MIDUS II data collection);
+and the MacArthur Foundation Network on Midlife (which funded MIDUS
+I data collection).
+Correspondence
+Correspondence should be addressed to Tara L. Gruenewald, PhD,
+MPH, Davis School of Gerontology, University of Southern California, 3715
+McClintock Ave, Los Angeles, CA 90089-0191. E-mail: tara.gruenewald@
+usc.edu.
+References
+Adams, K. B., Leibbrandt, S., & Moon, H. (2010). A critical review of the
+literature on social and leisure activity and wellbeing in later life.
+Ageing & Society, 31, 683­712. doi:10.1017/s0144686x10001091
+Depp, C. A., & Jeste, D. V. (2006). Definitions and predictors of successful
+aging:A comprehensive review of larger quantitative studies. American
+Journal of Geriatric Psychiatry, 14, 6­20. doi:10.1097/01.JGP.
+0000192501.03069.bc
+Erikson, E. H. (1950). Childhood and society. New York: W. W. Norton
+and Company.
+Erikson, E. H. (1997/1982). The life cycle completed. New York: W. W.
+Norton & Company.
+Fischer, B. J. (1995). Successful aging, life satisfaction, and generativity in
+later life. International Journal of Aging and Human Development,
+41, 239­250. doi:10.2190/HA9X-H48D-9GYB-85XW
+Gottlieb, B. H., & Gillespie, A. A. (2008). Volunteerism, health, and civic
+engagement among older adults. Canadian Journal on Aging--Revue
+Canadienne Du Vieillissement, 27, 399­406. doi:10.3138/cja.27.4.399
+Grand, A., Grosclaude, P., Bocquet, H., Pous, J., & Albarede, J. L. (1988).
+Predictive value of life events, psychosocial factors and self-rated
+health on disability in an elderly rural French population. Social Sci-
+ence & Medicine, 27, 1337­1342. doi:10.1016/0277-9536(88)90198-0
+Grand, A., Grosclaude, P., Bocquet, H., Pous, J., & Albarede, J. L. (1990).
+Disability, psychosocial factors and mortality among the elderly
+in a rural French population. Journal of Clinical Epidemiology, 43,
+773­782. doi:10.1016/0895-4356(90)90237-J
+Gruenewald, T. L., Karlamangla, A. S., Greendale, G. A., Singer, B. H., &
+Seeman, T. E. (2007). Feelings of usefulness to others, disability, and
+mortality in older adults: The MacArthur study of successful aging.
+The Journals of Gerontology, Series B: Psychological Sciences and
+Social Sciences, 62, P28­P37. doi:62/1/P28 [pii]
+Gruenewald, T. L., Karlamangla, A. S., Greendale, G. A., Singer, B. H., &
+Seeman, T. E. (2009). Increased mortality risk in older adults with
+persistently low or declining feelings of usefulness to others. Journal
+of Aging and Health, 21, 398­425. doi:10.1177/0898264308329023
+McAdams, D. P. (2001). Generativity in midlife. In M. E. Lachman (Ed.),
+Handbook of adult development (pp. 295­443). Hoboken, NJ: John
+Wiley & Sons.
+McAdams, D. P., & de St. Aubin, E. (1992). A theory of generativity and
+its assessment through self-report, behavioral acts, and narrative
+themes in autobiography. Journal of Personality and Social Psy-
+chology, 62, 1003­1015. doi:10.1037/0022-3514.62.6.1003
+Narushima, M. (2005). `Payback time': Community volunteering among
+older adults as a transformative mechanism. Ageing & Society, 25,
+567­584. doi:10.1017/S0144686X05003661
+Okamoto, K., & Tanaka, Y. (2004). Subjective usefulness and 6-year
+mortality risks among elderly persons in Japan. The Journals of
+Gerontology, Series B: Psychological Sciences and Social Sciences,
+59, P246­P249. doi:10.1093/geronb/59.5.P246
+664 GRUENEWALD ET AL.
+GRUENEWALD ET AL.
+6
+Okun, M. A. (1994). The relation between motives for organizational
+volunteering and frequency of volunteering by elders. Journal of
+AppliedGerontology,13,115­126.doi:10.1177/073346489401300201
+Pitkala, K. H., Laakkonen, M. L., Strandberg, T. E., & Tilvis, R. S. (2004). Pos-
+itive life orientation as a predictor of 10-year outcome in an aged popula-
+tion. Journal of Clinical Epidemiology, 57, 409­414. doi:10.1016/
+j.jclinepi.2003.07.013
+Rowe, J. W., & Kahn, R. L. (1998). Successful aging. NewYork: Pantheon
+Books. doi:10.1093/geront/37.4.433
+Stewart, A. J., & Vandewater, E. A. (1998). The course of generativity.
+In D. P. McAdams & E. de St. Aubin (Eds.), Generativity and
+adult development: How and why we care for the next generation
+(pp. 75­100). Washington, DC: American Psychological Association.
+doi:10.1037/10288-003
+PERCEPTIONS OF GENERATIVITY AND HEALTH 665
+

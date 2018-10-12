@@ -1,0 +1,3947 @@
+Monetary transmission in Germany:
+New Perspectives on Financial Constraints
+and Investment Spending
+Ulf von Kalckreuth
+Discussion paper 19/01
+Economic Research Centre
+of the Deutsche Bundesbank
+December 2001
+The discussion papers published in this series represent
+the authors' personal opinions and do not necessarily reflect the views
+of the institutions they are affiliated to.
+Deutsche Bundesbank, Wilhelm-Epstein-Strasse 14, 60431 Frankfurt am Main,
+P.O.B. 10 06 02, 60006 Frankfurt am Main, Federal Republic of Germany
+Telephone (0 69) 95 66-1
+Telex within Germany 4 1 227, telex from abroad 4 14 431, fax (0 69) 5 60 10 71
+Internet: http://www.bundesbank.de
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address, or by fax No. (0 69) 95 66-30 77
+Reproduction permitted only if source is stated.
+ISBN 3­933747­95­3
+6XPPDU\
+In order to obtain a better understanding of monetary transmission, this paper assesses the
+importance of the interest rate and credit channels on business fixed investment in the
+German manufacturing sector. Our panel of financial statements contains 44,345 obser-
+vations for 6,408 firms.
+We uncover a rather solid interest channel. A transitory increase in nominal interest rates
+by 100 basis points would depress investment demand by almost 4% within the first year.
+Using our direct measure of creditworthiness, we can also document a balance-sheet
+channel. Relative to unconstrained firms, financially constrained firms exhibit increased
+sensitivity to internal funds, and decreased sensitivity to the user cost as well as to market
+demand. Furthermore, changes in the rating of firms seem to affect investment demand in
+a way that is consistent with the presence of a balance-sheet channel. Quantitatively,
+however, this balance-sheet channel seems to be of secondary importance.
+JEL Classification: E5, E2
+Keywords: Monetary Transmission, Firm Investment, User Cost,
+Finance Constraints, Credit Channel
+=XVDPPHQIDVVXQJ
+Mit Hinblick auf ein besseres Verständnis der monetären Transmission wird hier die
+Bedeutung des Zinskanals und des Kreditkanals für die Anlageinvestitionen des
+Verarbeitenden Gewerbes in Deutschland untersucht. Unser Panel von Jahresabschlüssen
+enthält 44 345 Beobachtungen aus 6 408 Unternehmen.
+Es kann ein recht kräftiger Zinskanal isoliert werden. Eine transitorische Erhöhung der
+Nominalzinsen um 100 Basispunkte könnte die Investitionsnachfrage im Laufe eines
+Jahres um fast 4% drücken. Mit Hilfe eines direkten Maßes für Kreditwürdigkeit können
+wir außerdem einen Unternehmensbilanzkanal nachweisen. Im Vergleich zu anderen
+Firmen weisen finanziell beschränkte Unternehmen eine erhöhte Sensitivität für interne
+Liquidität auf, sowie eine geringere Reagibilität bezüglich der Kapitalnutzungskosten und
+der Nachfrage. Weiterhin paßt die Wirkung einer Änderung des Unternehmensratings auf
+die Investitionsnachfrage zu einem wirksamen Unternehmensbilanzkanal. Jedoch scheint
+letzterer quantitativ von nachgeordneter Bedeutung zu sein.
+JEL Klassifikation: E5, E2
+Schlüsselbegriffe: Monetäre Transmission, Investition, Kapitalnutzungskosten,
+finanzielle Restriktionen, Kreditkanal
+Table of Contents
+1. Introduction 1
+2. Modelling Investment Spending 5
+3. Datasets 9
+4. Baseline Empirical Results 12
+5. Testing the Interest Rate Channel 14
+6. Evaluating the Interest Channel 16
+7. Testing the Credit Channel 17
+8. Evaluating the Credit Channel 22
+9. Conclusions and Future Work 23
+References 24
+Appendix A: Derivation of the Autoregressive Distributed Lag (ADL) Model 28
+Appendix B: Variable Definition and Outlier Control 32
+Appendix C: The Construction of User Costs of Capital for Germany 34
+Appendix D: Gauging the Effects of Monetary Policy 37
+0RQHWDU\ 7UDQVPLVVLRQ LQ *HUPDQ\
+1HZ 3HUVSHFWLYHV RQ )LQDQFLDO &RQVWUDLQWV
+DQG ,QYHVWPHQW 6SHQGLQJ
+
+ ,QWURGXFWLRQ
+From a theoretical as well as from a policy perspective, it has always been important to
+understand the mechanism by which monetary policy influences the factor demand of
+firms. This is the place in the chain of monetary transmission where the "real" effects kick
+in. The nature of this mechanism has important structural implications, especially if one
+considers the possibility that monetary policy might partly operate through the availability
+of external finance: in this case, the effect of monetary policy might be asymmetric. It is
+the weakest firms that will be hit hardest by a monetary contraction. And young, innova-
+tive start-ups with little collateral and little reputation are especially weak.
+Studying the interaction between the financial sphere and factor demand, the neoclassical
+point of departure is provided by the theorem of Modigliani and Miller (1958, 1961).
+With perfect capital markets, the value of a firm is independent of its financial structure,
+and the decisions on factor demand and financing can be separated. The former will de-
+pend only on "real" factors such as production technology, installation costs, and current
+and future values of capital-good prices, interest rates and demand.
+In such a setting, the prime variable that lends itself to influencing by the central bank is
+the user cost of capital, although secondary influences might come from the demand side.
+It is common usage to label this the interest-rate channel.1
+With imperfect capital markets, however, the access of firms to external finance might
+differ according to the importance of information asymmetry, uncertainty and agency
+problems. These problems create a wedge between the costs of external finance and the
+opportunity costs of internal finance. As the sources of finance are no longer perfect sub-
+*
+This paper was written as a contribution to the Monetary Transmission Network of the Eurosystem (MTN).
+It developed in an exchange of ideas with Robert S. Chirinko. Within the MTN, where all portions of this
+paper were presented and intensively discussed, I want to thank especially Heinz Herrmann, Anil Kashyap,
+Ignazio Angeloni, Daniele Terlizzese, Jean-Bernard Chatelain, Andrea Generale, Ignacio Hernando and Philip
+Vermeulen. Important stimulus came from Steve Bond, Nick Bloom, Dietmar Harhoff, Fred Ramb, Jürgen
+von Hagen, Gerhard Ziebarth, Karl-Heinz Tödter and other participants in seminars at the Bundesbank and the
+IFS. Fred Ramb allowed me to use and modify his routines for calculating firm-specific user costs of capital,
+one of the central variables for this paper. My colleagues in the Department for Credit, Foreign Exchange and
+Capital Markets gave me access to the Bundesbank rating data, thanks especially to Judith Eigermann and
+Stefan Blochwitz.
+1 For business fixed investment in the United States, see the surveys by Chirinko (1993a, 1993b), who con-
+cludes that the response of investment to its user cost is low. Contrasting (high elasticity) interpretations can
+be found in Taylor (1995) and in Hassett and Hubbard (1997).
+- 1 -
+stitutes, the amount of internally generated funds can matter to the investment decision.
+Furthermore, it is conceivable that a change in the risk-free interest rate, induced by a
+monetary contraction, will lead to DGGLWLRQDO effects on the costs of external finance. The
+real value of collateral may be reduced, whereas the default probability rises, as higher
+interest payments act as a drain on cash flow. Lenders might react by demanding higher
+premiums or by imposing quantitative limits.2 This has been called the financial accel-
+erator,3 and its effect may well differ between firms.
+Since the work of Fazzari, Hubbard and Peterson (1988), the predominant approach to the
+investigation of the role of financial factors has been an indirect one. A subsample of
+firms is classified as being financially constrained according to some D SULRUL criterion.
+The analysis starts with the observation that, for financially constrained firms, the liquid-
+ity generated internally is a relevant explanatory variable for investment demand, whereas
+in the "pure" case of a financially unconstrained firm it is not. Fazzari, Hubbard and Pe-
+terson and several other authors proceed to estimate separate investment equations and
+then test whether the current cash flow is of higher importance for the investment demand
+of the firms deemed to be as especially constrained, compared with the rest of the sample.
+Thus the effect of financial constraints is identified by the "excess sensitivity" to current
+cash flow.
+This approach has been forcefully criticised by Kaplan and Zingales (1997). These
+authors maintain that there is no theoretical reason why ­ in a comparison between firms
+­ a larger cost differential between internal and external finance might lead to a higher
+cash-flow sensitivity, as opposed to just comparing the extreme cases of a constrained
+firm and an absolutely unconstrained one. A non-monotonic relationship between the cost
+differential and excess sensitivity is perfectly conceivable. They show further that the
+sorting criterion used by Fazzari, Hubbard and Peterson ­ dividend payments ­ is not very
+reliable: a detailed firm-by-firm investigation shows that many firms in the group deemed
+to be 'very constrained' had few problems obtaining external finance. Using the results of
+their own detailed analysis of firm liquidity, the regressions of Kaplan and Zingales show
+that the excess sensitivity in their sample actually seems to be a GHFUHDVLQJ IXQFWLRQ of
+the degree of constraint.4
+From this discussion, we draw two methodological conclusions. Instead of using a poten-
+tially misleading D SULRUL grouping criterion, we should try to measure the differential ac-
+2 The latter possibility was first investigated in the seminal paper by Stiglitz and Weiss (1981).
+3 The term was invented by Bernanke, Gertler and Gilchrist (1996). For recent surveys of the theory of the
+credit channel, see Bernanke and Gertler (1995) or Bernanke, Gertler and Gilchrist (1999).
+4 The discussion was continued in Fazzari, Hubbard and Peterson (2000) and Kaplan and Zingales (2000).
+- 2 -
+cess to external finance directly. The obvious way is to use rating data. A low rating
+means that commercial banks will either demand a higher risk premium or that they will
+not extend credit at all. Differences in investment behaviour between firms of good
+standing and those of bad standing allow us to infer the relevance of financial constraints.
+If, then, an excess sensitivity for constrained firms can be confirmed, this can be regarded
+as a preliminary empirical validation of the Fazzari, Hubbard and Peterson approach. We
+can then use excess sensitivity in other sample splits to test for the presence of group-spe-
+cific financial constraints.
+Furthermore, we can also exploit the effect of FKDQJHV in the rating, as long as we control
+for endogeneity. In a neoclassical, Modigliani-Miller world, the costs of capital do not
+depend on the volume of credit and the associated credit risk. The interest rate might
+contain a risk premium, but that does not more than compensate both the borrower and
+the lender for the fact that under certain conditions, the borrower will not pay back the
+full amount under certain conditions. Under the alternative given by the financial accel-
+erator hypothesis, however, there are financial frictions that lead to expected costs of de-
+fault. These will ultimately have to be borne by the borrower. Together with the default
+probability, the external finance premium becomes a function of the total volume of fi-
+nance, given net worth. In this world of imperfect financial markets, a rating variable is
+not only a measure for the perceived risk of bankruptcy, but also for the costs of external
+finance. According to the financial accelerator hypothesis, shifts in the default probability
+generated by changes in net worth should translate into shifts of capital demand and in-
+vestment activity.
+Our analysis will proceed in the following way. In Section 2, we will discuss the estimat-
+ing equation. We use an Autoregressive Distributed Lag (ADL) model relating the in-
+vestment/capital ratio to current and lagged values of a price variable (the growth rate in
+user cost), an accelerator variable (the growth rate in sales), and a financing variable
+(cash flow scaled by the capital stock), as well as lags of the dependent variable. This
+model provides a solid econometric framework for assessing the interest rate and credit
+channels.
+Section 3 describes the datasets for German firms at our disposal. First, we have an un-
+balanced panel of financial statement data for the period 1988-1997. After accounting for
+lags, outliers, and missing observations, we have 44,345 firm/year observations for 6,408
+firms for our baseline model. Second, we compute user costs of capital along the lines
+presented in King and Fullerton (1984), adapting prior work by Fred Ramb (2002, IRUWK
+FRPLQJ) for the purposes of this study. Third, as part of its rediscount lending operation,
+the Bundesbank routinely collected the above-mentioned financial statement data but,
+- 3 -
+importantly, also determined overall creditworthiness through a detailed discriminant
+analysis. In combination, these datasets provide a unique opportunity to analyse the inter-
+est-rate channel ­ by examining the effects of monetary policy operating through the user
+cost ­ and the credit channel ­ by examining the cash-flow sensitivity of firms, differenti-
+ated by their access to external finance.
+Section 4 contains our baseline empirical results. Various lag lengths are investigated, and
+the specification tests favour a model with three lags. The long-run user cost elasticity
+proves robust to variations in lag length, as well as to alternative formulations of the user
+cost of capital.
+Sections 5 and 6 evaluate the interest-rate channel. At the microeconomic level, the rele-
+vant price variable for capital demand is the user cost of capital. It will thus be the long-
+run effect of a change in this variable that is of interest to us. A rather solid interest-rate
+channel is identified. The estimates of the elasticity of long-run capital demand with re-
+spect to its user cost range between 39% and 52%; our preferred estimate yields 43.5%.
+This is the "micro-link" of the monetary transmission chain. Economic significance is
+evaluated by a transitory increase in the capital-market interest rate of 100 basis points.
+Within the first year, investment demand would drop by almost 4%.
+In section 7 and 8, we test for the existence of a credit channel and evaluate its impor-
+tance. Relative to unconstrained firms, financially constrained firms exhibit increased
+sensitivity to internal funds and decreased sensitivity to the price incentives embedded in
+the user cost. This validates the methodology advocated by Fazzari, Hubbard and Peter-
+son. We obtain a very interesting result when we perform the same test on a sample split
+between large and small firms - there is no excess sensitivity to be reported, in one case
+the sensitivity of large firms to cash flow is even higher. Apparently, the German house-
+banking system does not discriminate against small firms! In quantitative terms, the direct
+income effects of monetary policy turn out to be of secondary importance, compared to
+the strength of the interest rate channel.
+In a last step, we will concentrate on the financial accelerator in the narrow sense. Propo-
+nents of this approach maintain that a monetary contraction is able to "weaken" balance
+sheets, directly via increasing interest expenses and depressing asset prices, indirectly via
+reducing sales revenue coming from downstream customers. A closer analysis of the bal-
+ance-sheet ratios that enter the rating of the Bundesbank gives us direct evidence of how
+this may happen. By using changes in the overall rating variable as an additional regres-
+sor, we see how a "weakening" of financial statement items depresses investment de-
+mand.
+- 4 -
+Section 9 contains a summary of our results, and the conclusions that we draw for mone-
+tary transmission in Germany.
+ 0RGHOOLQJ ,QYHVWPHQW 6SHQGLQJ
+In choosing an econometric specification, it is important to distinguish between demand
+for the stock of capital and demand for the flow of investment. Since the capital stock is a
+factor of production, the standard tools of microeconomics can be used to relate the de-
+mand for capital, conditional on output, to its "price." The definition of this price variable
+is complicated by capital's durability. The important contribution of Jorgenson (1963)
+was to relate the price of durable capital to the user cost (or rental price) of capital, de-
+fined as a function of the interest, tax, and depreciation rates and relative prices. With a
+readily measurable user cost, the demand for capital can be analysed as a static optimisa-
+tion problem.
+However, the demand for the flow of investment is more complicated. Investment equals
+the change in the capital stock in a static environment, and thus can be specified as the
+change in the determinants of the capital stock. This is the derivation used by Clark
+(1917) for his accelerator model of investment. Such a formulation does not reflect the
+"frictions" that introduce an important and complicated set of dynamic elements into the
+investment decision. These frictions include adjustment costs with changing the capital
+stock, delivery lags, vintage effects, time-to-build lags, and irreversibility constraints. The
+interaction between these frictions and durability forces the profit-maximising firm to
+take a deep look into the future. Consequently, a second important dynamic element af-
+fecting the investment decision is expectations of future variables.
+The numerous models appearing in the investment literature can be divided into two
+broad categories, depending on whether dynamic elements are treated explicitly or im-
+plicitly. Models are included in the former category if dynamic elements appear explicitly
+in the optimisation problem and if the estimated coefficients are linked explicitly to the
+underlying technology and expectation parameters. The implicit category contains those
+investment models that do not meet these criteria. These different approaches are re-
+viewed below in the light of their usefulness for investigating the monetary transmission
+mechanism.
+The most popular explicit models can be derived from a common optimisation problem. If
+frictions are modelled in terms of convex adjustment costs, then the first-order conditions
+- 5 -
+5 This section is partly based on a memo by Bob Chirinko. An extensive list of references is contained in
+Chirinko (1993a, 1993b). We gratefully acknowledge the permission to make use of this memo.
+for intertemporal profit maximisation imply a decision rule for investment spending: the
+investment/capital ratio is a function of the shadow price of capital, which is defined as
+the discounted sum of current and future returns on the marginal unit of capital. The key
+problem facing the applied econometrician is that this shadow price is not observed. In-
+vestment models based on adjustment-cost frictions differ only in how the applied
+econometrician solves this unobservability problem. 6
+The first solution exploits the substantial and readily-available information in financial
+markets to solve the unobservability problem, and the shadow price is equated with the
+Brainard-Tobin's Q. There are three reasons why we do not estimate a Q model. First, the
+empirical performance of Q models has generally been disappointing, though recent work
+with panel data is encouraging. Second, to assess the impact of a monetary impulse on
+investment, we would have to simulate a difference equation for Q and the investment
+equation simultaneously over time in a rather difficult multiple shooting exercise (Sum-
+mers, 1981). The third and most important difficulty with using the Q model is that it re-
+quires that firms be listed on the stock exchange. This is a severe restriction that would
+eliminate most of the firms in our sample, especially smaller firms for which financial
+constraints may be important.
+The second approach solves the unobservable shadow-price problem by transforming the
+investment-decision rule so that most of the future unobservable variables in the shadow
+price are eliminated. The resulting Euler equation is a period-by-period arbitrage condi-
+tion that must hold along the optimal path of capital accumulation. Unlike the Q model,
+estimation can proceed with both listed and unlisted firms. However, the Euler-equation
+approach shares the two other difficulties affecting the Q model. The empirical perform-
+ance of the Euler equation has been disappointing.7 Furthermore, an estimated Euler
+equation is not an investment-decision rule. It can be solved forward to yield such a rule,
+but this solution requires specification of the entire future paths of interest rates and other
+forcing variables.
+The third solution to the unobserved shadow-price problem forecasts the terms constitut-
+ing the shadow price from period t onward using data available in period t, and then esti-
+mates the model's parameters. The two steps can be executed sequentially (Abel and
+Blanchard, 1986). In this forecasting model, the investment/capital ratio is related to cur-
+rent and lagged values of the exogenous and predetermined variables with the estimated
+- 6 -
+6Some of the other frictions lead to only modest changes in the decision rule. The model of irreversibility and
+uncertainty of Abel and Eberly (1994) generates a specification where the Brainard-Tobin's Q appears as a
+polynomial. Time-to-build and delivery lags alter timing relations in the benchmark explicit model.
+7 See Oliner, Rudebusch, and Sichel (1995).
+coefficients restricted in several ways by the underlying structural model. Gilchrist and
+Himmelberg (1995) have successfully estimated a forecasting model on panel data and, in
+their study, the investment/capital ratio is related to current and lagged values of the
+sales/capital and profits/capital ratios. Importantly for the purposes of our study, the in-
+terest rate is held constant in the Gilchrist and Himmelberg forecasting model, and this
+restriction would make it difficult to assess monetary transmission channels.
+To summarise, the explicit models have the notable advantages of being based on a
+choice-theoretical framework and having coefficients in the econometric equation that
+can be identified with technology and expectation parameters. However, given our inter-
+est in quantifying aspects of the monetary transmission mechanism and concerns about
+the fragility of inferences in explicit models, we believe that, given their current state of
+development, our analysis can best be carried out with an implicit model.
+There is a wide variety of implicit models (see Chirinko, 1993a, 1993b). The specification
+used in this paper defines a desired capital stock in terms of user cost and sales variables
+having separate elasticities.8 This demand for the stock of capital is translated into a de-
+mand for the flow of investment by relating the percentage change in capital (or the in-
+vestment/capital ratio less depreciation, I/K - ) to the current and lagged percentage
+changes in the user cost (UC) and sales (S). To allow for a general pattern of dynamic
+responses, lagged dependent variables are included. We also enter current and lagged val-
+ues of a financing variable, the ratio of cash flow to the capital stock (CF/K), to capture
+the effects of financing constraints. These considerations lead to the estimating equation
+as the following autoregressive distributed lag (ADL(L)) model of lag length L:
+1
+,
+,
+-
+W
+L
+W
+L
+.
+,
+
+
+=
+-
+-
+-
+-
+=
+
+
++
+
++
+
+=
+0
+P
+P
+W
+L
+P
+O
+W
+L
+O
+W
+L
+/
+O
+O
+L
+6
+.
+,
+0
+,
+1
+,
+,
+0
+log
+W
+L
+W
+T
+W
+L
+T
+W
+L
+4
+T
+T
+Q
+W
+L
+1
+Q
+Q X
+.
+&)
+8&
+,
+1
+,
+,
+0
+,
+0
+log +
+
++
+
++
+
+
++
+-
+-
+-
+=
+-
+=
+
+ (1)
+where the
+O
+ , P
+ , Q
+ and the T
+ are estimated coefficients,
+W
+ is a series of time ef-
+fects that capture aggregate shocks,
+W
+L
+X
+,
+is a stochastic error term, i indexes firms, and t
+indexes time. The
+L
+ reflect the firm's mix of capital assets, and is firm-specific. More
+generally, this firm-specific constant term captures all firm-specific effects. The other co-
+efficients do not vary across firms. A derivation of (1) is provided in Appendix A.
+8 This model was developed over several years in a spirited set of exchanges (Jorgenson, (1963); Hall and
+Jorgenson (1967, 1969, 1971); Eisner and Nadiri (1968, 1970); Bischoff (1969); Coen (1969); and Eisner
+(1969, 1970)).
+- 7 -
+Equation (1) has three notable advantages for assessing the monetary transmission
+mechanism. First, a similar specification has performed well in previous research with
+panel data for the United States (Chirinko, Fazzari, and Meyer, 1999) and Germany (Har-
+hoff and Ramb, 2001). Second, a user-cost variable appears in the specification. This is
+important because it provides a direct avenue for considering the interest-rate channel of
+monetary policy. The user cost varies both through time and across firms, and thus panel
+data can be very useful in estimating user-cost coefficients. Third, as will be seen below,
+the ADL(L) in (1) has long-run properties, conditional on the parameter values, which are
+easy to evaluate and to interpret. The major concern with implicit models is the Lucas
+Critique. Investment specifications based on an explicit optimisation problem are immune
+to this critique because the coefficients appearing in the econometric equation are related
+to separately-identified technology and expectation parameters. While undoubtedly cor-
+rect theoretically, some empirical evidence indicates that the Lucas Critique is not quan-
+titatively important.9
+We close this section on model selection with a brief discussion of an alternative implicit
+model, the Error Correction Model (ECM) that was introduced into the study of invest-
+ment spending by Bean (1981) and, in a panel context, by Bond, Elston, Mairesse and
+Mulkay (1997); for a derivation, see Appendix A. This specification nicely combines
+long-run restrictions between the levels of capital and the other explanatory variables in
+the error-correction term and short-run dynamics in the adjustment terms. The difficulty
+with using an ECM is practical. Applications to date on panel data have not fared well;
+see Mairesse, Hall, and Mulkay (1999) for estimates with French and United States firms,
+and Harhoff and Ramb (2001) for estimates with German firms.10 Our own experiments
+with this approach were plagued with difficulties in finding valid instruments and with a
+high sensitivity of the results on specification and instrumentation choices; to boot, the
+results frequently lacked economic sense. In Appendix A we show that this problem
+might be due to firm-specific technological progress that leads to firm-specific growth in
+the level of the target capital stock. In this case, it might be problematic to use an estima-
+tion equation based on levels. Instability with firm-panel data, coupled with the fragility
+of ECM estimates in other studies, suggests some caution in using an ECM specification
+with panel data at this time.
+9 See the empirical assessments by Chirinko, Fazzari, and Meyer (1999).
+10 In a study similar to ours, Chatelain and Tiomo (2001) also report problems. Gaiotti and Generale (2001)
+seem to obtain a rather coherent picture.
+- 8 -
+ 'DWDVHWV
+ )LQDQFLDO 6WDWHPHQWV 8QWHUQHKPHQVELODQ]VWDWLVWLN 8%6
+The Bundesbank's financial statement database (Unternehmensbilanzstatistik; UBS) con-
+stitutes the largest source of accounting data for nonfinancial firms in Germany. This
+collection of financial statements originates from the Bundesbank's function of perform-
+ing credit assessments within the scope of its rediscount-lending operations, through
+which the Bundesbank purchases trade bills issued by nonfinancial firms from creit insi-
+tutions. When a bill is presented to the Bundesbank, the creditworthiness of the present-
+ing firm, as well as all other firms that have held this bill, needs to be determined. In the
+case of default, under German law, liability for payment of the bill falls on any firm that
+has held the bill.
+The Bundesbank's branch offices collect about 70,000 annual accounts per year on a
+strictly confidential basis. These data are initially subjected to a computer check for logi-
+cal errors and missing data. Approximately 15,000 accounts have to be excluded because
+they are incomplete, are consolidated accounts, or are for firms in sectors for which no
+meaningful results can be generated owing to the small amount of available data. Addi-
+tional checks and corrections for errors are undertaken in the Statistical Department at the
+Bundesbank's Central Office in Frankfurt before finalising the UBS database. According
+to turnover-tax statistics, the UBS represents roughly 75% of the total turnover of the
+West German manufacturing sector, albeit only 8% of the total number of firms. The
+sample used in estimation is much smaller because of data cleaning, outlier control (the
+upper and lower 1% tails of sales growth, cash flow divided by the capital stock, and the
+overall rating ratio discussed below, and the upper 2% tail of the investment-capital ra-
+tio), first-differencing, missing values, and the necessity of lag lengths (three periods for
+the ADL(3) model discussed in Section IV) and contiguous observations. We thus have
+available a dataset comprising 44,345 firm/year observations for 6,408 firms. In 1996,
+these firms had 2,593,100 employees, representing about 45% of all employees in the
+manufacturing sector. In the same year, total turnover was DM 963.6 billion, which is
+50.8% of sector turnover.
+The dataset extends from 1988 to 1997. The beginning year is chosen because the defini-
+tions of many important financial statement data were changed in 1986 by the directive
+11 On investment demand, the UBS data-base has been utilised by Harhoff and Ramb (2000) in a user-cost
+study, and by von Kalckreuth (2000) in a study on investment and uncertainty, also see Deutsche Bundesbank
+(2001). Detailed descriptions are presented by Deutsche Bundesbank (1998), Friderichs and Sauvé (1999),
+and Stöss (2001).
+- 9 -
+harmonising financial statements in the European Union. For many firms, the changes
+were not instituted in 1987, and the amount of data available in the UBS is unacceptably
+low in that year. Also for reasons of comparability, the dataset used in estimation only
+contains firms located in the former Western Germany.
+Table 1 contains summary statistics for the variables entering the regression model (1)
+and three different specifications of the user-cost variable, which is presented in both lev-
+els and growth rates. These specifications are discussed in the next sub-section, further
+details on the variables are given in Appendices B and C. Tables 2 and 3 complement this
+information with a description of the sample composition with regard to size and rating
+categories, both showing the mean value of the variables for the various groups and a
+cross tabulation. It becomes clear that small firms have only a marginally worse rating
+than large firms, and that they are not overrepresented in the group of firms initially rated
+as bad risks. Table 4 presents the size distribution of the firm/year observations by mean
+employment, and documents the remarkable representation of small firms in the UBS da-
+tabase. The median and mean number of employees is 119 and 405, respectively. Nearly
+one-half of the observations pertain to firms with 100 employees or fewer.
+ 8VHU &RVWV
+The user cost of capital (UC) is the key "price" term in our model, and it is the variable
+through which the interest-rate channel of monetary policy operates. As a first approxi-
+mation, the user cost is composed of three elements,
+UC = R * P * T, (2)
+where R, P, and T represent rental, price, and tax terms, respectively. The rental term
+contains two components, the opportunity cost of funds, measured by the real long-term
+interest rate (r =  - , the nominal discount rate () less the expected rate of inflation () in
+the price of investment goods), and the economic rate of depreciation (). This initial
+formulation of the user cost needs to be expanded to reflect relative prices and taxes. The P
+term is the price of investment goods relative to the price of output. The two key taxes are
+the rate of income taxation (, reflecting both federal and Länder rates, as well as the
+"solidarity surcharge") and the present value of the stream of current and future tax-
+depreciation deductions (A).12
+12 Note that the pattern of tax depreciation defining A is determined by law, and likely differs from the eco-
+QRPLF GHSUHFLDWLRQ SDWWHUQ GHILQLQJ  The tax term in the user-cost formula usually reflects investment-tax
+credits determined as a percentage of the price of a purchased asset. During our sample period, no such credits
+were granted to German firms. Apart from entering the T term, taxes also affect the discount rate entering the R
+term, as discussed later in this subsection.
+- 10 -
+Equation (2) summarises the price incentives that a profit-maximising firm faces when
+evaluating the acquisition of the marginal unit of capital. However, the user-cost variable
+used in this study is much more complicated. These details are provided in Appen-
+dix C. Here we note the important issue that the nominal discount rate in the R term
+varies by the assumed source of finance and, in this study, we use three different specifica-
+tions of this discount rate and hence the user cost of capital.
+The nominal discount rate depends on whether the marginal source of funds is from retained
+earnings, debt finance, or new share issues. Taxing at both the personal and the business
+level leads potentially to large differences in discount rates. However, as shown in Appendix
+B, the split-rate system with full imputation that prevailed in Germany from 1977 to 2000
+led to an equality between the costs of debt and new equity finance. Hence the only differ-
+ence in discount rates is between internal funds and external funds. In order to construct a
+representative user cost of capital, we follow King and Fullerton (1984), and define the user
+cost as a weighted sum, where the weights reflect the usage of internal and external finance.
+We use two different weighting schemes. For UC(1), the weights are based on the flow of
+the sources of internal and external finance in a given year. This approach has the advantage
+of reflecting ongoing financing decisions, but the disadvantage of not being directly linked
+to a well-defined marginal decision. Our second user cost, UC(2), weights the costs of inter-
+nal and external finance by balance-sheet proportions. These stock weights were used by
+King and Fullerton (p. 14), and reflect the marginal source of finance for an equiproportion-
+ate expansion of the firm. This scheme has the advantage of reflecting a long-run marginal
+decision, but may be misleading if current sources of finance differ from the average pat-
+terns that existed previously. For either UC(1) or UC(2), the interest rate is the average yield
+on industrial obligations of all maturities issued by German residents.
+The third user cost used in our study, UC(3), uses an apparent interest rate calculated from
+total interest payments divided by outstanding debts. This measure introduces firm-specific
+variation, but does not reflect a pure cost of finance. Rather, it contains the default risks that
+will be impounded into average financing costs, thus making it difficult to distinguish be-
+tween interest-rate and credit channels. With respect to the summary statistics in Table 1,
+UC(1) and UC(2) are rather similar, as they sum up the same items using different weights
+only. Standard deviation for UC(3) is higher as a consequence of the greater dispersion of
+apparent interest rates.
+ 2YHUDOO 5DWLQJ 5DWLR 255
+Based on the UBS data, the Bundesbank computes an Overall Rating Ratio (ORR or Ge-
+samtkennzahl) of creditworthiness, using discriminant analysis. The following informa-
+- 11 -
+tion is used to calculate discriminant functions in the manufacturing sector; for the de-
+tails, see Appendix B:
+1. equity/pension provision ratio;
+2. return on total capital employed;
+3. return on equity;
+4. capital recovery rate;
+5. net interest-payment ratio;
+6. accounting practice.
+These ratios are examined by the Bundesbank's Department of Credit, Foreign Exchange,
+and Financial Markets for outliers. The rating data are not passed to commercial banks,
+but rather constitute internal ratings for the rediscount purposes of the Bundesbank. The
+ORR ranges between -99.9 and 99.9 and, in our study, it has been transformed so that it
+varies between 0 and 1. The discriminant analysis determines two critical values of the
+ORR variable that classify firms into one of three categories: high risk of default, low risk
+of default, or indeterminate. The proportion of distressed firms in the UBS appears repre-
+sentative, and compares favourably with the percentage of failed firms in the overall
+economy (Deutsche Bundesbank 1998, Stöss 2001).
+ %DVHOLQH (PSLULFDO 5HVXOWV
+We begin the empirical work by examining the performance of our Autoregressive Dis-
+tributed Lag (ADL) estimating equation (1) to variation in lag length. All estimates are
+computed by GMM with the equation first-differenced to eliminate firm fixed effects.13
+The instruments are the undifferenced values of all regressors, lagged at least two periods
+and earlier when feasible (i.e., Ii,t-m
+/Kt-1-m
+, logSi,t-m
+, logUCi,t-m
+, CFi,t-m
+/Ki,t-1-m
+for m > 2,
+where m is as large as possible, given data availability), as well as a constant and year
+dummies. The ADLs are evaluated with the Sargan-Hansen statistic for testing overidenti-
+fying restrictions and the Lagrange Multiplier statistic (LM(2)) for testing second-order
+residual serial correlation. If the first-differenced model is correctly specified, the overi-
+dentifying restrictions will be sustained, and the residuals between periods t and t-2
+should be uncorrelated. Since one of our primary substantive interests is the response of
+capital formation to the interest rate embedded in the user cost, we present long-run elas-
+ticities for each specification. The Long-Run User-Cost Elasticity (uc
+) is the long-run
+percentage change in the capital stock as a reaction to a permanent increase in the level of
+its user cost, given by a one percentage point blip in the growth rate, 8&&
+log
+ , see Ap-
+13 All estimates are computed with DPD (Ox version 2.20 for Windows), and are the "two-step estimates"
+based on a weighting-matrix that is a function of the initial GMM parameter estimates.
+- 12 -
+pendix A. It is given as the sum of the coefficients on the user-cost variables divided by
+one minus the sum of the coefficients on the lagged dependent variables, that is:
+
+
+
+
+
+
+
+
+
+-
+
+=
+ 
+
+=
+=
+/
+K
+K
+/
+K
+K
+8&
+0
+0
+1 (3)
+The standard error of uc
+is computed by the delta method. Table 5 contains the long-run
+user-cost elasticity for three different user costs for lag lengths of two, three, and four pe-
+riods. A clear pattern emerges. For a given user cost, the Sargan-Hansen statistic reaches
+a minimum at lag 3, and the LM(2) statistic rises uniformly with the lag length. Our pri-
+mary interest is in UC(1) (flow weights) and UC(2) (stock weights), and the ADL(3) is
+clearly the preferred specification. For UC(3), the LM(2) statistic is 0.031 for the
+ADL(3), and the specification tests, considered jointly, suggest that the ADL(4) model is
+more appropriate. For the sake of comparability with the models using alternative user
+costs, and to avoid losing a substantial part of the sample because of the longer lag, we
+estimate models with only three lags.
+The estimated impacts of monetary policy via the user cost are robust to variations in the
+lag length. For UC(1) or UC(2), uc
+varies very little. The maximum change is 0.139
+(between the ADL(3) and ADL(4) models for UC(1)), which is less than one standard
+error. For our preferred ADL(3) specification, the point estimate is about 0.40. Similar
+results hold for UC(1), except for the ADL(2) model, which is decidedly rejected by the
+specification tests.
+Table 6 presents the complete list of coefficient estimates, their sums, and the associated
+p-values for the ADL(3) model for the three user costs. We also give the long-run effects
+for the other two explanatory variables. Similar to (3), the long-run sales elasticity of
+capital demand, 8&
+ , relates the sum of changes in the logarithmic capital stock to a
+once-and-for-all increase in the level of real sales, i.e., a one-time increase in its growth
+rate. With respect to the cash-flow capital ratio, however, we prefer to think of a one-time
+increase in the level of cash flow per unit of capital.14 Again, the long-run effect of this,
+&)
+ , is given as the sum of subsequent changes in the logarithmic capital stock, see Ap-
+pendix A. Technically speaking, &)
+ is a semielasticity of long-run capital demand with
+respect to .
+&) . It is easy to see that it is equal to the long-run change in the level of the
+14 Our investment equation allows for long-run effects of a transitory change in cash flow on the capital stock.
+A SHUPDQHQW change in the cash-flow - capital ratio, however, would be a thought experiment of doubtful
+value: On the face of it, there could be no steady state level for the capital stock, as its growth rate is perma-
+nently shifted. But the long-run level of profitability is determined by the same technology that also underlies
+the other parameters of the investment function. A shift in the profitability of real capital thus cannot be car-
+ried out in isolation. I thank Daniele Terlizzese for a long and careful discussion of the problems involved.
+- 13 -
+capital stock as a reaction to cash-flow injections, that is: a long-term marginal propensity
+to spend on capital goods:
+( ) ( ) G&)
+G.
+.
+&)
+G
+.
+G.
+.
+&)
+G
+.
+,
+G
+&) =
+=
+=
+
+
+(4)
+The sums of the coefficients on all four regressors ­ user-cost growth, the lagged depend-
+ent variable, sales growth, and cash flow relative to the capital stock ­ are statistically
+significant at the 1% level.15 All three of the long-run effects defined above are also sig-
+nificant at the 1% level.
+The sales coefficients turn out to be rather small. This is a rather common result in the
+panel literature, see, e.g., Chirinko, Fazzari and Meyer (1999). Possible reasons are faulty
+deflators, measurement problems, bad instruments and irreversibility. We do not observe
+sales of real capital in the case of downturn, and when sales go up, there might be a
+threshold value for profitability that has to be surpassed.16 In order to gauge the impor-
+tance of this potential bias for the estimated user cost elasticities, we reestimated our pre-
+ferred specification, the ADL(3), imposing constant returns. Thus, the sales elasticity was
+constrained to be one and the same set of instruments was used. Under this assumption,
+estimated user cost elasticities increase somewhat, to -0.620 for UC1, -0.635 for UC2 and
+to -0.75 for UC3 (not shown). We cannot tell, however, whether the restriction is valid,
+and in all three cases, the Sargan statistics give us reason to prefer the free estimate.
+ 7HVWLQJ WKH ,QWHUHVW 5DWH &KDQQHO
+Uncovering a significant interest-rate channel of monetary policy has proved elusive. In
+the ADL investment model, the interest-rate channel operates through the user cost and,
+as Tables 5 and 6 reveal, there is a statistically significant relation between the user cost
+and investment. The UC
+'s for different user costs range from 0.39 to 0.52, and are statis-
+tically significant at the 1% level. The distributed lag coefficients for user cost decline
+sharply, and most of the impact of the user cost is transmitted to investment after two
+years. The lagged dependent variable has only a modest effect on UC
+, raising this elastic-
+ity by about 10%-15%.
+Table 7 explores the interaction between the cash flow and user-cost variables. In our
+baseline specification, the cash-flow variable is included to capture short-term financing
+15 In Table 4, the sums of the coefficients for a given explanatory variable differ from their long-run effect,
+which also accounts for the dynamic impact of the lagged dependent variable.
+16 For investment under irreversibility, see, e.g., Dixit and Pindyck (1994), and, for an empirical exploration
+with the Bundesbank data set, von Kalckreuth (2000).
+- 14 -
+effects.17 Constraining now the cash-flow coefficients to zero, the user-cost elasticities
+rise by 12 to 14 percentage points. This effect and the same magnitude have been ob-
+served previously in U.S. data by Chirinko, Fazzari, and Meyer (1999), who argued that it
+was due to an "income effect" induced by financing constraints. Chatelain and Tiomo
+(2001) and Chatelain, Generale, Hernando, von Kalckreuth and Vermeulen (2001) had
+the same experience with the various national data sets they used.
+For a firm operating in frictionless capital markets, a user-cost change induces substitu-
+tion effects only. However, interest costs and available internal finance are also affected
+by interest rates embedded in the user cost. Fluctuations in internal finance can affect the
+behaviour of financially constrained firms over and above the effects arising from substi-
+tution alone. A higher interest rate may have standard incentive effects on the demand for
+capital and investment but, for financially constrained firms, the resulting decline in cash
+flow could reduce investment more than if the firm operated in perfect capital markets.
+The existence of these "income effects" is consistent with our findings in Tables 6 and 7.
+In the regressions without cash flow (Table 7), UC
+captures both the conventional substi-
+tution effect as well as the income effect induced by financing constraints, which affect
+investment in the same direction. When we add cash flow, however, the estimated UC
+can
+be interpreted as the user-cost elasticity holding cash flow constant; that is, as a measure
+of the conventional substitution effect alone. These results suggest the importance of ex-
+ploring the impact of finance constraints, a task that we pursue in Sections 8 and 9.
+There are several insignificant coefficients in the distributed lags that may affect the pre-
+cision of the estimated coefficients and elasticities. To obtain more precise estimates, we
+proceed to remove those variables in Table 6 whose coefficients have a p-value that is
+greater than, or equal to, 0.10. For two of our three models, the trimmed specification is
+identical, and includes one lag of the dependent variable, the current value of cash flow,
+the current and one lagged value of the user cost, and the current and two lagged values of
+sales. 18 These trimmed estimates are presented in Table 8. The point estimates for most
+variables remain quite robust, and are estimated more precisely. One exception is the
+user-cost elasticity for UC(3) which changes from -0.521 to -0.378. On the other hand,
+UC(2) increases from 0.392 to 0.504. Smaller changes occur for UC(1) ­ the estimated
+elasticitiy now is 0.435. These trimmed models will be the primary focus of the discus-
+sion in the next sections. In the following tables, the trimmed estimates will be presented
+as Table "a" and the untrimmed (i.e., lag 3 for all variables) estimates as Table "b".
+17 More generally, current cash flow may be of importance for the formation of expectations.
+18 The model with the user-cost variable UC(3) needs two lags for user costs and cash flow, respectively.
+- 15 -
+ (YDOXDWLQJ WKH ,QWHUHVW &KDQQHO
+To evaluate the economic significance of the interest channel of monetary policy in our
+ADL model, we compute the change in the time path of capital formation that would be
+forthcoming from a contractionary monetary policy. The computations are based on the
+estimated investment equation and the user-cost definition. We assume that the nominal
+long-term interest rate is a variable at the control of policymakers, and evaluate the im-
+pact of a 100-basis-point rate hike for one year.
+The long-term rate usually is not considered an instrument of monetary policy. An in-
+crease of the money market rate by a certain amount can lead to a smaller or larger reac-
+tion of the long-term rate, depending on whether agents perceive the underlying change as
+transitory or permanent. If agents expect further increase in the future, the reaction of the
+long-term rate might even be stronger than the underlying change on the money market.
+Analysing the dynamics of the interest rate structure in any further detail, however, is be-
+yond the scope of this paper. Our analysis evaluates the interest channel taking the effects
+on the financial markets as given.
+In terms of our explanatory variables, this translates into a positive change in the log of
+user cost of capital during one year, followed by an equally-sized drop in the next year. In
+our thought experiment, we do not consider the reactions to the investment-price inflation
+that this policy shock might entail. Furthermore, we want to keep this experiment strictly
+partial: Second-order effects of investment on the cash-flow capital ratio and sales growth
+are not considered. It is necessary to emphasize that the analysis in Sections 6 and 8 is not
+equivalent to a thorough quantification of the dynamic effects of monetary policy. Such
+an exercise is being done by Angeloni, Kashyap, Mojon and Terlizzese (2001). Our aim is
+of a more qualitative nature: we want to use the dynamic characteristics our investment
+equation to make a statement on the relative importance of interest channel and credit
+channel.
+In order to link monetary policy to capital formation, we first need to look at the depend-
+ence of (log) user costs on nominal interest rates. The term L
+8& 
+ log is the semielas-
+ticity of user costs with respect to the nominal interest rate: For each firm, it is computed
+using the exact definition of user costs, see Appendices C and D. As a mean value for our
+ADL(3) sample, we obtain 3.383, which corresponds to an interest elasticity of user costs
+of almost exactly 0.25.19 Second, we use the coefficients of our preferred estimate, which
+19 It is interesting to interpret this elasticity in terms of the simplified user-cost formula given in equation (2).
+With UC = R*P*T and the rental rate equal to the sum of the real long-term rate and the depreciation rate (R =
+L  WKH HODVWLFLW\ LV HTXDO WR L  L  $VVXPLQJ WKDW L   DQG  = 0.17, we obtain an elasti-
+city of 0.25.
+- 16 -
+is the trimmed UC(1) estimate in Table 8. This yields the deviations of the investment-
+capital ratio from the baseline scenario. Finally, dividing by the mean of the investment-
+capital ratio, we convert these deviations into relative deviations of gross investment.
+The results are presented in Table 12, columns (1) - (5). The assumed temporary increase
+in nominal interest rates translates into a temporary growth of user costs by 3.38%, which
+is reversed the year after. In the first year, this translates into a drop of gross investment
+by 0.7% of the capital stock, meaning a decrease in gross investment by 3.9% of the
+baseline level. In the second year, there are two conflicting influences on investment de-
+mand. Last year's increase of user costs still has an effect via the lagged user cost term
+and the lagged dependent variable in the investment function. On the other hand, user-
+costs go down again at the beginning of the second year. The net effect is almost nil. In
+the third year, the effect of the fall in the user costs in the preceding year dominates, and
+investment rises above the baseline level. The build-up of real capital, having slowed
+down as a consequence of the transitory rise in its user costs, is returning to its old path.
+The effects peter out in the following periods. The total effect of a transitory shock on the
+long run capital stock, which is obtained by summing up column (4), is nil. In the exam-
+ple, almost the whole effects of the user-cost change make themselves felt in the first
+year. This is partly a technical consequence of specifying the equation in first differences,
+together with the assumption that interest rates reverse in full at the end of the first year.
+It is interesting to look at the macroeconomic relevance of the interest-rate channel. In
+1997, the last year of our estimation horizon, the gross fixed investment of firms (without
+housing) was 18% of GDP. Thus, if the reaction of investment demand in the manufac-
+turing sector is representative of the entire demand for fixed capital, the decrease in in-
+vestment within the first year would amount to 0.7% of GDP, even without taking secon-
+dary effects on aggregate demand into account.
+ 7HVWLQJ WKH &UHGLW &KDQQHO
+As a first step, we sort the firms in our dataset by two characteristics that might identify
+access to external funding - the overall rating ratio ORR and firm size. As is standard in
+the literature, our estimation strategy is to sort the dataset by these characteristics, and
+evaluate whether investment spending is "excessively sensitive" to cash flow for the firms
+that are believed to be financially constrained. Given our user-cost data and the interest
+channel that we have identified, we can also examine whether the user-cost elasticity
+varies systematically.
+- 17 -
+Table 9a presents estimates of our trimmed models where the firms are classified as hav-
+ing a favourable or unfavourable credit rating. Classification depends on the state in the
+year before the first investment-capital ratio enters the regression. For our ADL(3), this is
+the third year of the cleaned sample. Firms that are in the indeterminate category are ex-
+cluded from these regressions. The table gives us the long-run effects of all explanatory
+variables for firms with a favourable credit rating at the outset. In the line underneath, the
+difference in the long-term effects between firms with an unfavourable rating and firms
+with a favourable rating is presented. Two results stand out. First, the coefficients on the
+cash-flow term are larger for the unfavourably-rated firms. For all user-cost definitions,
+the long-term effect of cash flow is at least twice as large for these firms, and for UC(1),
+our preferred variable, this difference is statistically significant at the 5% level. For those
+firms with an unfavourable credit rating and presumably higher cost of external finance,
+investment seems to be excessively sensitive to internal funds.
+Unfavourably-rated firms also demonstrate a smaller sensitivity to the user cost. For these
+firms, the long run effect of user cost changes is insignificantly different from zero in
+each regression. Thus, because of financial constraints, these firms show little response to
+the price incentives associated with variations in interest rates. It is interesting to specu-
+late on this reduced sensitivity to price variations. The underlying reason might be that
+the badly-rated firms are financially "paralysed" - at least at the margin, they are unable to
+adapt their capital stock to changing economic circumstances. Another, but related, rea-
+son might be that these firms obtain an insurance against changes in the cost of credit
+from their house bank - in return for higher interest charges, of course. In this case,
+changes in the market rates do not reflect changes in the costs of marginal finance of the
+firms. Looking at the sales coefficients gives evidence of the first explanation: the sales
+sensitivity of badly-rated firms is drastically reduced, compared with the firms of good
+credit standing.20
+Table 10a sorts the sample by number of employees: a firm is categorised as "small" if it
+has less than 100 employees on average. It frequently has been hypothesised that small
+firms will face financing problems because they have less visibility in external capital
+markets and are poorly positioned to bear the fixed costs associated with external finance.
+As nearly one-half of our firms have fewer than 100 employees, we should be able to de-
+tect small-firm financing problems if they exist. For UC(1) and UC(2), there is no differ-
+ence in the cash-flow coefficients between small and large firms. For all three user-cost
+20 There is, however, a competing explanation. Badly rated firms might experience episodes of decreasing
+sales disproportionally often. Because of irreversibility and the fact that we do not observe sales of capital
+goods, the measured reaction might be weak compared to favourably rated firms.
+- 18 -
+definitions, the user-cost coefficients are more negative for the small firms. Small firms
+seem to have access to credit, but are very sensitive to variations in price incentives.
+However, in spite of being large, the measured differences are statistically insignificant.
+It emerges that being "small" is something essentially different from being badly-rated
+and credit-constrained in Germany. Whereas our sample split according to rating was able
+to detect clear signs of credit constraints (which was to be expected), the sample split ac-
+cording to size did not. These results might indicate that the German house banking sys-
+tem is efficiently overcoming the barriers to external finance that could otherwise have
+constrained small and therefore "opaque" firms in the capital market. These results are
+compatible to the role of the house-banking system in Germany as described, e.g., by
+Worms (2001)
+As a result from our sample splits, we can conclude that financial constraints seem to play
+a certain role - the availability of internal finance is a determinant of investment behav-
+iour. But there is more to the balance-sheet channel than these drains on cash flow. A re-
+strictive monetary policy might influence key balance-sheet items in a way that makes
+commercial banks and other sources of external finance more reluctant to supply credit or
+equity. Our rating variable, ORR, condenses the information contained in the balance
+sheet in a rather efficient way. This variable enables us to test directly the influence of a
+deterioration of the balance on investment demand, using the ORR variable as a regressor
+in its own right.
+costs of finance
+autonomous variation
+costs of ext. finance
+A C
+expected marginal return of capital
+B external finance
+premium
+riskless rate
+O net worth capital demand
+Fig 1: Capital Demand and Costs of External Finance
+- 19 -
+If we leave the Modigliani-Miller world, and enter a world characterized by financial
+frictions due to costly state verification or other agency problems, there will be expected
+costs of default that ultimately have to be borne by the borrower. With higher financing
+volume, the default probability rises and with it the associated costs of default. These will
+be internalized to the borrower by the credit contract. The costs of finance depend upon
+the volume of external finance.21
+Using a model of costly state-verification, Bernanke, Gertler and Gilchrist (1999) show
+that the optimal contract provides a monotonically increasing relationship between the
+capital/wealth ratio and the premium on external funds. A higher premium will be associ-
+ated with a higher default probability. Fig. 1 demonstrates the basic argument. As soon as
+the financial volume of firms becomes higher than their net worth ­ or the amount that
+can be collected costlessly by borrowers as collateral ­ the costs of external finance rise
+above the riskless rate because of the expected bankruptcy costs that have to be borne by
+the borrower. Firms that are in the ascending part of the schedule are "constrained", their
+demand for capital depends on their net worth and on those factors that influence the re-
+lationship between borrowing and the costs of finance. Important factors might be: distri-
+bution of earnings (both mean and variance), monitoring and other ageny costs, and col-
+lateralization technology
+Our rating variable is a direct measure of SHUFHLYHG GHIDXOW ULVN, as seen from the per-
+spective of the lender. Therefore, it varies with the difference between the riskless rate
+and the costs for external finance. In dynamic firm equilibrium, default probability and
+rating are determined by the difference between the riskless rate and the marginal produc-
+tivity of capital.
+What can we say about the relationship between the perceived default probability, meas-
+ured by our rating variable and capital demand and investment? In firm equilibrium, de-
+fault probability is HQGRJHQRXV. A rise in the difference between expected profitability
+and the risk free interest rate will be associated by a higher capital/wealth ratio and a
+higher default probability. If we compare dynamic equilibrium states, where capital stock
+and default probability jointly depend on productivity, the observed relationship between
+capital demand and default probability should be positive. This is equivalent to a move-
+ment RQ the schedule for costs of finance.
+On the other hand, the schedule relating the costs of finance to the total financing volume
+can VKLIW due to a change in net worth or one of the other factors mentioned above. Given
+21 Models of this type are described, among others, in Bernanke, Gertler and Gilchrist (1999) and Bernanke
+and Gertler (1989).
+- 20 -
+a certain stock of capital, this will show up in a change in default probability. In Fig. 1, an
+increase in net worth will shift the cost of external finance schedule to the right. The state
+of the firm will switch from A to B. The movement towards a new equilibrium in C
+makes necessary a series of investment (over and above the depreciation rate) or disin-
+vestment (investment rates lower than depreciation). Under the financial accelerator hy-
+pothesis, the relationship between investment and DXWRQRPRXV movements of current and
+lagged rating is therefore supposed to be positive. Such a positive relationship can be
+considered as an independent piece of direct evidence for a propagation mechanism that
+links investment demand to changes in net worth.
+In order to identify autonomous variation, we have two devices. First, we use the time
+structure of information flows between borrower and lender. For the credit decision that
+takes place within a given period, the financial statement issued at the beginning of the
+period, covering the year before, is relevant. The rating based on this statement will be
+causal for this period's investment decision, but not vice versa. Second, we will use the
+Arellano-Bond GMM first-difference procedure to minimize endogeneity problems.
+Technically, we model the ORR variable as affecting the discount rate as a mark-up:
+UC'= UC * (1 + g[ORR]), (4)
+where g[.] is a decreasing linear function of the credit rating. Since UC enters the model
+in log differences, we transform (4) accordingly,
+¨ ORJ8&
+ ¨ORJ8&  ¨255 (5)
+ZKHUH !  6LQFH WKH XVHU FRVW HQWHUV WKH PRGHO ZLWK D QHJDWLYH HIIHFW ZH ZRXOG DQWLFL
+SDWH WKDW 255 ZRXOG KDYH D SRVLWLYH FRHIILFLHQW LQGLFDWLQJ WKDW LQYHVWPHQW LQFUHDVHV
+with the credit rating. But there is one last identification problem, which is endemic to
+implicit investment models: As the ORR variable is a predictor of default, it might also
+concentrate important information regarding future profitability. If this information is
+relevant to the formation of expectations over and above the variables already contained
+in the equation, the ORR variable might have an effect that is independent of financing
+costs.
+The results in Table 11 confirm the importance of credit rating for investment. Both of the
+VXPV RI WKH ODJJHG 255 DUH SRVLWLYH DQG VWDWLVWLFDOO\ VLJQLILFDQW DW WKH  OHYHO :H GLG
+not estimate the equation for the user cost variable UC3. That user cost variable contains
+average interest payments, which might vary with the default risk. As in our sample split,
+the results are consistent with the existence of a financial accelerator. Furthermore, to the
+- 21 -
+extent that monetary policy can affect the credit rating of firms, the balance sheet effects
+of a monetary tightening go beyond the drain on cash flow.
+ (YDOXDWLQJ WKH &UHGLW &KDQQHO
+Looking back at 9a and 9b, it seems that the income effect is important for the influence
+of monetary policy on financially constrained firms. We want to assess the importance of
+this "income channel" for monetary policy, and compare it with the strength of the inter-
+est-rate channel. In order to do this, we will make the extreme assumption that the entire
+effect of cash flow, as shown in Table 8, is due to financial constraints. It might as well
+be argued that only the difference between the effects for favourably and unfavourably
+rated firms is of relevance here. As in the last section, we assume a transitory increase in
+nominal capital-market rates by 100 basis points, from a level of 7%. As before, the shock
+is being reversed after one year. The shock, however, will affect the firms' interest pay-
+ments for more than one period, as all the credits which are due in the current period, the
+short-term as well as the long-term debts, have to be renewed on the new terms.
+We account for this persistence by assuming that the time to maturity of long term debt
+(with a maturity of more than one year) is distributed evenly over the next five years, see
+Appendix D for details. An increase in market interest rates will raise the "apparent inter-
+est rate" in the following year, which is given by the ratio of total interest payments to
+debt. The effect on the cash flow capital ratio depends on the corporate profit tax and the
+degree to which the capital stock is financed through debt.
+The columns (1), (2), (6) and (7) of Table 12 show this "income channel" of a change in
+interest rates. Again, the simulation is based on the coefficients of the preferred estima-
+tion, the first column of Table 8. Because of the persistence of the reaction of interest
+payments to changes in the market rate, the effects are distributed over a longer time pe-
+riod. In the first period, investment decreases by 0.34% of its baseline value, and in the
+following years, the effects peters out. The accumulated effects of the interest change on
+investment via the cash-flow channel are about 0.5%, which is but a small fraction of the
+first-period effect via the user-cost channel of 3.9%. At least the direct "income effect" of
+increased interest payments, therefore, does not seem to be of overwhelming importance.
+But we have also seen evidence of a balance-sheet channel in the narrow sense, working
+through creditworthiness of firms. The size of the coefficient indicates that rating is of
+importance for capital accumulation, although not overwhelming so: a permanent increase
+in rating by one standard deviation would increase capital demand by 2.4% in the long
+run. Trimming the regression along the lines of Table 8 (not shown) will cut the size of
+- 22 -
+the effect by half, although it remains significant at a 2% level. This indicates that re-
+stricting certain coefficients to zero might result in a missing variable bias in this regres-
+sion, but it might also show that the size of the long-term effect of rating is less reliable
+than, e.g., the user-cost effect.
+What remains to be done is to work out the effects of monetary policy on the rating of
+firms. Analysing the components of the ORR rating variable given in Section 3 and Ap-
+pendix B, we see that at least three items should clearly be sensitive to interest-rate
+changes: return on equity, the capital-recovery rate and the net interest-payment ratio. A
+more thorough analysis encounters the difficulty that the coefficients of the individual
+balance sheet ratios within the ORR variable are confidential and may not be disclosed.
+But we hope to solve this problem using a direct estimation approach
+ &RQFOXVLRQV DQG )XWXUH :RUN
+This paper has examined the monetary transmission channel in Germany with regard to
+business fixed investment with an extremely rich collection of data. We have been suc-
+cessful in uncovering statistically significant interest-rate and credit channels. The credit-
+channel hypothesis was tested using our direct measure of creditworthiness, first as a
+sorting criterion and then as a regressor in its own right. Whereas firms of poor credit
+standing show clear signs of being affected by credit constraints, small firms do not - the
+German financial system seems able to cope with informational asymmetries given by the
+small size of firms.
+When evaluated in terms of economic significance, the interest-rate channel proves to be
+rather solid. An increase in nominal interest rates by 100 basis points for one year would
+lead to a drop of almost 4% in investment demand. The credit channel, on the other hand,
+does not seem to be of overwhelming importance, at least if it is evaluated using direct
+income effects only. However, there is more to the balance sheet channel than these direct
+effects: monetary policy has an influence on several of the balance-sheet ratios that are
+important for the rating of firms, and we have been able to show that firm rating is an im-
+portant determinant of investment demand. With the FDYHDW that these balance-sheet ratios
+might be important for the formation of expectations over and above cash flow, this
+proves the existence of a balance-sheet effect in the narrow sense. In future work, we will
+try to quantify this effect as well, thus giving an overall assessment of the effects of
+monetary policy on private fixed investment across all channels.
+- 23 -
+5HIHUHQFHV
+Angeloni, Ignazio, Anil Kashyap, Benoît Mojon and Daniele Terlizzese, "Monetary Transmission
+in the Euro Area: Where Do We Stand ?", unpublished manuscript (December 2001).
+Abel, Andrew B., and Olivier J. Blanchard, "The Present Value of Profits and Cyclical Movements
+in Investment", (FRQRPHWULFD 54 (March 1986), 249-274.
+Abel, Andrew B., and Janice C. Eberly, "A Unified Model of Investment under Uncertainty",
+$PHULFDQ (FRQRPLF 5HYLHZ 84 (December 1994), 1369-1384.
+Arellano, Manuel, and Stephen Bond, "Some Tests of Specifications for Panel Data: Monte Carlo
+Evidence and an Application to Employment Equations", 7KH 5HYLHZ RI (FRQRPLF 6WXGLHV
+58 (April 1991), 277-298.
+Auerbach, Alan J., "Taxation, Corporate Financial Policy and the Cost of Capital", -RXUQDO RI (FR
+QRPLF /LWHUDWXUH 21 (September 1983), 905-940.
+Bean, Charles R., "An Econometric Model of Manufacturing Investment in the UK", 7KH (FRQRPLF
+-RXUQDO 91 (March 1981), 106-121.
+Bernanke, Ben S., and Mark Gertler, "Agency Costs, Net Worth, and Business Fluctuations", 7KH
+$PHULFDQ (FRQRPLF 5HYLHZ 79 (March 1989), 14-31
+Bernanke, Ben S., and Mark Gertler, "Inside the Black Box: The Credit Channel of Monetary
+Transmission", 7KH -RXUQDO RI (FRQRPLF 3HUVSHFWLYHV 9, (Fall 1995), 27-48.
+Bernanke, Ben S., Mark Gertler, and Simon Gilchrist, "The Financial Accelerator and the Flight to
+Quality", 7KH 5HYLHZ RI (FRQRPLFV DQG 6WDWLVWLFV, Vol. 78 (February 1996), 1-15.
+Bernanke, Ben S., Mark Gertler, and Simon Gilchrist, "The Financial Accelerator in a Quantitative
+Business Cycle Framework", in Taylor, John B, and Michael Woodford (eds.), +DQGERRN
+RI 0DFURHFRQRPLFV, Vol. 1 (Amsterdam, New York, etc.: North Holland, 1999), Ch. 21,
+1341-1393.
+Bischoff, Charles W., "Hypothesis Testing and the Demand for Capital Goods", 7KH 5HYLHZ RI
+(FRQRPLFV DQG 6WDWLVWLFV 51 (August 1969), 354-368.
+Bloom, Nicholas, Stephen Bond, and John van Reenen, "The Dynamics of Investment under Un-
+certainty", unpublished working paper, Institute for Fiscal Studies (December 2000).
+Bond, Stephen, Julie Elston, Jaques Mairesse, and Benoît Mulkay, "Financial Factors and Invest-
+ment in Belgium, France, Germany and the UK: a Comparison Using Company Panel
+Data", NBER Working Paper 5900 (January 1997).
+Bond, Stephen, Dietmar Harhoff, and John Van Reenen, "Investment, R&D and Financial Con-
+straints in Britain and Germany", IFS Working Paper No. W99/5 (February 1999).
+Bontempi, Elena, Alessandra del Boca, Alessandra Franzosi, Marzio Galeotti, and Paola Rota,
+"Capital Heterogeneity: Does It Matter? Fundamental Q and Investment on a Panel of
+Italian Firms", unpublished working paper (July 2001).
+Chatelain, Jean-Bernard, and André Tiomo, "Investment, the Cost of Capital and Monetary Policy
+in the nineties in France: A Panel Data Investigation", ECB Working Paper No. 106,
+(December 2001).
+Chatelain, Jean Bernard, Andrea Generale, Ignacio Hernando, Ulf von Kalckreuth, and Philip
+Vermeulen, "Firm Investment and Monetary Transmission in the Euro Area Countries",
+ECB Working Paper No. 112 (December 2001).
+Chenells, Lucy, and Rachel Griffith, 7D[LQJ 3URILWV LQ D &KDQJLQJ :RUOG (London: The Institute for
+Fiscal Studies, 1997).
+Chirinko, Robert S., "Business Fixed Investment: A Critical Survey of Modeling Strategies,
+Empirical Results, and Policy Implications", -RXUQDO RI (FRQRPLF /LWHUDWXUH 31
+(December 1993a), 1875-1911.
+Chirinko, Robert S., (FRQRPHWULF 0RGHOV DQG (PSLULFDO )LQGLQJV IRU %XVLQHVV ,QYHVWPHQW (New
+York: Basil Blackwell, 1993b). (A Monograph in the Salomon Brothers Center Series
+Financial Markets, Institutions & Instruments).
+Chirinko, Robert S., "Finance Constraints, Liquidity, and Investment Spending: Theoretical Re-
+strictions and International Evidence", -RXUQDO RI WKH -DSDQHVH DQG ,QWHUQDWLRQDO (FRQR
+PLHV 11 (June 1997), 185-207.
+- 24 -
+Chirinko, Robert S., Steven M. Fazzari, and Andrew P. Meyer, "How Responsive is Business
+Capital Formation to its User Cost? An Exploration with Micro Data", -RXUQDO RI 3XEOLF
+(FRQRPLFV 74 (October 1999), 53-80.
+Clark, John Maurice, "Business Acceleration and the Law of Demand: A Technical Factor in
+Economic Cycles", -RXUQDO RI 3ROLWLFDO (FRQRP\ 25 (March 1917), 217-235. Reprinted in
+American Economic Association, 5HDGLQJV LQ %XVLQHVV &\FOH 7KHRU\ (Philadelphia:
+Blakiston Company, 1944), 235-254.
+Coen, Robert M., "Tax Policy and Investment Behavior: Comment", $PHULFDQ (FRQRPLF 5HYLHZ
+59 (June 1969), 370-379.
+Dixit, Avinash K. and Robert S. Pindyck, ,QYHVWPHQW XQGHU 8QFHUWDLQW\ (Princeton: Princeton
+University Press 1994)
+Deutsche Bundesbank, $QQXDO DFFRXQWV RI :HVW *HUPDQ (QWHUSULVHV  WR . Special
+Statistical Publication (March 1999).
+Deutsche Bundesbank, "The Methodological Basis of the Deutsche Bundesbank's Corporate Bal-
+ance Sheet Statistics", 0RQWKO\ 5HSRUW (October 1998), 49-64.
+Deutsche Bundesbank, "Uncertainty, Freedom of Action and Investment Behaviour - Empirical
+Findings for Germany", 0RQWKO\ 5HSRUW (September 2001), 71-86.
+Eisner, Robert, "Tax Policy and Investment Behavior: Comment", $PHULFDQ (FRQRPLF 5HYLHZ 59
+(June 1969), 379-388.
+Eisner, Robert, "Tax Policy and Investment Behavior: Further Comment", $PHULFDQ (FRQRPLF
+5HYLHZ 60 (September 1970), 746-752.
+Eisner, Robert, and M. Ishaq Nadiri, "Investment Behavior and Neo-Classical Theory", 7KH 5HYLHZ
+RI (FRQRPLFV DQG 6WDWLVWLFV 50 (August 1968), 369-382.
+Eisner, Robert, and M. Ishaq Nadiri, "Neoclassical Theory of Investment Behavior: A Comment",
+7KH 5HYLHZ RI (FRQRPLFV DQG 6WDWLVWLFV 52 (May 1970), 216-222.
+Fazzari, Steven M., R. Glenn Hubbard, and Bruce C. Petersen, "Financing Constraints and
+Corporate Investment", %URRNLQJV 3DSHUV RQ (FRQRPLF $FWLYLW\ 1988:1, 141-195.
+Fazzari, Steven M., R. Glenn Hubbard, and Bruce C. Petersen, "Investment-Cash Flow Sensitivities
+are Useful: A Comment on Kaplan and Zingales", 4XDUWHUO\ -RXUQDO RI (FRQRPLFV 115
+(May 2000), 695-705.
+Friderichs, Hans, and Annie Sauvé, "The Annual Accounts Databases on Non-Financial Enterprises
+of the Banque de France and the Deutsche Bundesbank: Methodological Aspects and
+Comparability", in: Sauvé, Annie, and Manfred Scheuer (eds.), &RUSRUDWH )LQDQFH LQ
+*HUPDQ\ DQG )UDQFH (Deutsche Bundesbank, 1999), Ch. 2, 33-62.
+Gaiotti, Eugenio, and Andrea Generale, "Does Monetary Policy Have Asymmetric Effects? A Look
+at the Investment Decisions of Italian Firms", ECB Working Paper No. 110 (December
+2001).
+Gilchrist, Simon, and Charles P. Himmelberg, "Evidence on the Role of Cash Flow for Investment",
+-RXUQDO RI 0RQHWDU\ (FRQRPLFV 36 (December 1995), 541-572.
+Gilchrist, Simon, and Charles P. Himmelberg, "Investment, Fundamental and Finance", NBER
+Working Paper 6652 (July 1998).
+Hall, Robert E., and Dale W. Jorgenson, "Tax Policy and Investment Behavior", $PHULFDQ
+(FRQRPLF 5HYLHZ 57 (June 1967), 391-414.
+Hall, Robert E., and Dale W. Jorgenson, "Tax Policy and Investment Behavior: Reply and Further
+Results", $PHULFDQ (FRQRPLF 5HYLHZ 59 (June 1969), 388-401.
+Hall, Robert E., and Dale W. Jorgenson, "Application of the Theory of Optimum Capital
+Accumulation", in Gary Fromm (ed.), 7D[ ,QFHQWLYHV DQG &DSLWDO 6SHQGLQJ (Washington:
+Brookings Institution, 1971), 9-60.
+Hamilton, James D., 7LPH 6HULHV $QDO\VLV (Princeton: Princeton University Press, 1994).
+Hansen, Lars Peter, "Large Sample Properties of Generalized Method of Moments Estimators",
+(FRQRPHWULFD 50 (July 1982), 1029-1054.
+Hansen, Lars Peter, and Thomas J. Sargent, "Formulating and Estimating Dynamic Linear Rational
+Expectations Models", -RXUQDO RI (FRQRPLF '\QDPLFV DQG &RQWURO 2 (February 1980), 9-
+46.
+- 25 -
+Hansen, Lars Peter, and Sargent, Thomas J., "Instrumental Variables Procedures for Estimating
+Linear Rational Expectations Models", -RXUQDO RI 0RQHWDU\ (FRQRPLFV 9 (May 1982),
+263-296.
+Harhoff, Dietmar, and Ramb, Fred, "Investment and Taxation in Germany: Evidence From Firm-
+Level Panel Data", in Deutsche Bundesbank (ed.), ,QYHVWLQJ 7RGD\ IRU WKH :RUOG RI
+7RPRUURZ 6WXGLHV RQ WKH ,QYHVWPHQW 3URFHVV LQ (XURSH (Berlin: Springer-Verlag, 2001),
+47-73.
+Hassett, Kevin A., and R. Glenn Hubbard, "Tax Policy and Investment", in Alan J. Auerbach (ed.),
+)LVFDO 3ROLF\ /HVVRQV IURP (FRQRPLF 5HVHDUFK (Cambridge: MIT Press, 1997), 339-385.
+Hubbard, R. Glenn, "Capital-Market Imperfections and Investment", -RXUQDO RI (FRQRPLF
+/LWHUDWXUH 36 (March 1998), 193-225.
+Jorgenson, Dale W., "Capital Theory and Investment Behavior", $PHULFDQ (FRQRPLF 5HYLHZ 53
+(May 1963), 247-259.
+Jorgenson, Dale W., and Kun-Young Yun, 7D[ 5HIRUP DQG WKH &RVW RI &DSLWDO (Oxford: Clarendon
+Press, 1991).
+von Kalckreuth, Ulf, "Exploring the Role of Uncertainty for Corporate Investment Decisions in
+Germany", Deutsche Bundesbank Discussion Paper 5/00 (September 2000).
+Kaplan, Steven N., and Luigi Zingales, "Do Investment-Cash Flow Sensitivities Provide Useful
+Measures of Finance Constraints?", 4XDUWHUO\ -RXUQDO RI (FRQRPLFV 112 (February 1997),
+169-215.
+Kaplan, Steven N., and Luigi Zingales, "Investment-Cash Flow Sensitivities are Not Valid
+Measures of Financing Constraints", 4XDUWHUO\ -RXUQDO RI (FRQRPLFV 115 (May 2000),
+707-712.
+King, Mervyn A., and Don Fullerton (eds.), 7KH 7D[DWLRQ RI ,QFRPH IURP &DSLWDO (Chicago:
+University of Chicago Press (for the NBER), 1984).
+King, Mervyn A., 3XEOLF 3ROLF\ DQG WKH &RUSRUDWLRQ (London: Chapman and Hill, 1977).
+Mairesse, Jaques, Bronwyn H. Hall, and Benoit Mulkay, "Firm Level Investment in France and the
+United States: An Exploration of What We Have Learned in Twenty Years", $QQDOHV
+G¶(FRQRPLH HW GH 6WDWLVWLTXH 55-56 (Septembre-Decembre 1999), 27-67.
+Mairesse, Jaques, Bronwyn H. Hall, and Benoit Mulkay (2001), "Firm Level Investment and R&D
+in France and the United States: A Comparison", in: Deutsche Bundesbank (ed.), ,QYHVWLQJ
+7RGD\ IRU WKH :RUOG RI 7RPRUURZ (Berlin, Heidelberg, New York: Springer 2001).
+OECD, 7D[LQJ 3URILWV LQ D *OREDO (FRQRP\ 'RPHVWLF DQG ,QWHUQDWLRQDO ,VVXHV (Paris: OECD,
+1991).
+Oliner, Stephen, Rudebusch, Glenn, and Sichel, Daniel, "New and Old Models of Business Invest-
+ment: A Comparison of Forecasting Performance", -RXUQDO RI 0RQH\ &UHGLW DQG %DQNLQJ
+27 (August 1995), 806-826.
+Ramb, Fred, 6WHXHUV\VWHP XQG ,QYHVWLWLRQVWlWLJNHLW (LQH SDQHO|NRQRPHWULVFKH 8QWHUVXFKXQJ IU
+'HXWVFKODQG { 7D[DWLRQ DQG ,QYHVWPHQW $ 3DQHO (FRQRPHWULF ,QYHVWLJDWLRQ IRU *HU
+PDQ\ ` (Forthcoming, Baden-Baden: Nomos Verlag, 2002).
+Sargan, John D., "The Estimation of Economic Relationships Using Instrumental Variables",
+(FRQRPHWULFD 26 (1958), 393-415.
+Stöss, Elmar, "Deutsche Bundesbank's Corporate Balance Sheet Statistics and Areas of Application.
+6FKPROOHUV -DKUEXFK ( -RXUQDO RI $SSOLHG 6RFLDO 6FLHQFH 6WXGLHV ) 121 (Spring 2001),
+131-137.
+Sinn, Hans-Werner, "Systeme der Kapitaleinkommensbesteuerung: Ein allokationstheorethischer
+Vergleich {"Systems of Capital Income Taxation. A Comparison with Respect to Alloca-
+tion"), in Dieter Bös et al. (eds.), %HLWUlJH ]XU QHXHUHQ 6WHXHUWKHRULH (Berlin, Heidelberg
+etc.: Springer 1984).
+Sinn, Hans-Werner, .DSLWDOHLQNRPPHQVEHVWHXHUXQJ {&DSLWDO ,QFRPH 7D[DWLRQ} (Tübingen: Mohr,
+1985).
+Stiglitz, Joseph E., and Andrew Weiss, "Credit Rationing in Markets with Imperfect Information",
+American Economic Review, 71, (June 1981), 393-410.
+Summers, Lawrence H., "Taxation and Corporate Investment: A q-Theory Approach", %URRNLQJV
+3DSHUV RQ (FRQRPLF $FWLYLW\ (1981:1a), 67-127.
+- 26 -
+Taylor, John B., "The Monetary Transmission Framework: An Empirical Framework", -RXUQDO RI
+(FRQRPLF 3HUVSHFWLYHV 9 (Fall 1995), 11-26.
+Worms, Andreas, "Monetary Policy Effects on Bank Loans in Germany. A Panel-Econometric
+Analysis", Deutsche Bundesbank Discussion Paper 17/01 (December 2001).
+- 27 -
+$SSHQGL[ $ 'HULYDWLRQ RI WKH $XWRUHJUHVVLYH 'LVWULEXWHG /DJ $'/ 0RGHO
+The model platform corresponds to that used recently by, among others, Bond, Elston,
+Mairesse and Mulkay (1997), Harhoff and Bond (1999), Chirinko, Fazzari and Meyer
+(1999), Mairesse, Hall and Mulkay (1999, 2001), von Kalckreuth (2000), Harhoff and
+Ramb (2000), as well as Bloom, Bond and van Reenen (2001). The point of departure is
+the static neoclassical equation for capital demand. Using a generalised CES production
+function, Eisner and Nadiri (1968) derive the following linear equation form the first- or-
+der conditions of profit maximisation:
+W
+W
+W
+W
+K
+8&&
+6
+. log
+log
+log
+log +
+
+-
+
+= , (A1)
+with 
+
+
+
+
+
+
+
+-
++
+
+=
+
+1
+and ( )
+
+-
+
+
+
+=
+1
+W
+W
+$
+K , (A2)
+where UCC is the user costs of capital,
+W
+$ is productivity and  and  are the elastici-
+ties of substitution and scale, respectively. The variable
+W
+K depends on the time-varying
+terms
+W
+$ . The elasticity of capital to sales is unity ( 1
+=
+ ) if the production function has
+constant returns to scale ( 1
+=
+ ) or if its elasticity of substitution is unity ( 1
+=
+ ), that is,
+in the Cobb-Douglas case. A log-linear demand equation can also be derived for the case
+of increasing returns to scale, 1
+>
+ . If the firm is rationed on the product market, it will
+have to solve a cost minimisation problem. Then we have 
+=
+ 1 in (A2) and
+W
+K will be
+a term that depends on relative factor prices and the CES parameters. From this static,
+log-linear capital demand equation, we can derive two well-known specifications, the
+First Difference Autoregressive Distributed Lag (ADL) equation, as well as the Error
+Correction Model (ECM). These are different dynamic parameterisations of the same de-
+mand structure, and the results can easily be compared.
+7KH )LUVW 'LIIHUHQFH $'/
+If the presence of a firm-specific WUHQG in capital demand cannot be excluded, e.g. because
+the growth of
+W
+$ is firm-specific, it is helpful to first difference equation (A1):
+W
+W
+W
+W
+K
+8&&
+6
+. log
+log
+log
+log 
++
+
+
+-
+
+
+=
+ . (A3)
+The first term,
+W
+.
+log
+ , is approximately equal to 
+-
+-1
+W
+W
+.
+, . The depreciation rate will
+be subsumed into the unobservable firm-specific latent variable in the estimation proce-
+dures below. The change in
+W
+K
+log can be represented by time dummies in our regression
+equation, at least as far as global productivity shocks and changes in the user costs are
+- 28 -
+concerned, and by individual constants in order to catch trends of the form W
+L
+ in the
+course of the firm's technological progress. Individual productivity shocks are confined to
+the error term of the equation.
+We assume that the production possibilities are given by the capital stock at the beginning
+of the current period. Taking account of installation costs and short-run dynamics in the
+formation of expectations, we generalise the static capital-demand equation by using dis-
+tributed lags:22
+W
+W
+W
+W
+K
+8&&
+/
+&
+6
+/
+%
+.
+/
+$ log
+log
+)
+(
+log
+)
+(
+log
+)
+( 
++
+
+
++
+
+
+=
+ , (A4)
+)
+(
+),
+(
+),
+( /
+&
+/
+%
+/
+$ being polynomials in the lag operator, not necessarily of the same de-
+gree. With the additional constraints
+( )
+( ) 1
+1
+1
+=
+$
+%
+and
+( )
+( ) 1
+1
+1
+=
+$
+&
+, (A5)
+the long-run effects of changes in the level of sales or user costs are the same as in the
+static model A(1). Furthermore, contemporaneous and lagged real cash flow per unit of
+capital growth rates of cash flow may be added as further regressors to capture financial
+constraints and possible dynamics of expectation formation. As a behavioural equation to
+be estimated, we obtain for company L:
+W
+L
+T
+W
+L
+T
+W
+L
+4
+T
+T
+Q
+W
+L
+1
+Q
+Q
+0
+P
+P
+W
+L
+P
+O
+W
+L
+O
+W
+L
+/
+O
+O
+W
+L
+W
+L X
+.
+&)
+8&
+6
+.
+,
+.
+,
+,
+1
+,
+,
+0
+,
+0
+0
+,
+1
+,
+,
+0
+1
+,
+, log
+log +
+
++
+
+
++
+
+
++
+
+=
+-
+-
+-
+=
+-
+=
+=
+-
+-
+-
+-
+=
+-
+
+
+
+ (A6)
+with
+W
+L
+W
+L
+W
+L
+X
+,
+,
+
++
+
++
+
+= . (A7)
+W
+L
+&)
+,
+represents cash flow, 1
+, -
+W
+L
+. is the real capital stock carried over from the end of the
+last period and
+W
+L
+X
+,
+is a latent term. It is composed of a firm-specific constant
+L
+ that re-
+flects depreciation and a possible trend in the capital-demand equation (A1), a time-spe-
+cific shock
+W
+ equal for all firms, and finally an idiosyncratic transitory shock
+W
+L,
+ . In this
+quite general specification, the data are allowed to determine the adaptation dynamics.
+Consider now a one-period change for one of the explanatory variables, say
+W
+8&&
+log
+ .
+The short-run effect of this change is given by
+22 In an unpublished memo, Bob Chirinko develops this equation by explicitely introducing delivery lags and
+adaptive expectations. However, as in all implicit models, the parameters belonging to the expectation forma-
+tion mechanism are not separately identified.
+- 29 -
+0
+,
+log
+log
+
+=
+
+
+W
+W
+L
+8&&
+G
+.
+G
+, (A8)
+whereas the long-run effects are given by the sum of the effects of shocks in periods
+K
+,
+2
+,
+1
+, -
+- W
+W
+W
+/
+1
+L
+8&&
+8&&
+W
+L
+W
+W
+W
+8&&
+G
+.
+G
+
+-
+-
+
+-
+
+-
+
++
++
+
++
+
+=
+
+
+
+
+=
+=
+=
+
+=
+ +
++ K
+K
+2
+1
+1
+0
+0
+0
+...
+log
+log 1
+log
+log
+2
+, (A9)
+if the equation is stable, and in an analogous fashion for the sales and for the cash-flow
+effects.23 As the long-term elasticities are non-linear functions of the parameters, the stan-
+dard deviations may be computed using the delta method. It is important to note that a
+SHUPDQHQW change in the OHYHO of the user-cost or sales variable translates into a one-off
+increase in the respective growth rate,
+W
+8&&
+log
+ and
+W
+6
+log
+ , as described above.
+7KH (UURU&RUUHFWLRQ 0RGHO (&0
+If we choose to ignore a possible firm-specific trend in
+W
+$ , we can depart from equation
+(A1) directly, without prior differencing. Again, using a dynamic generalisation by adding
+lags on both sides, one obtains:
+W
+W
+W
+W
+K
+8&&
+/
+&
+6
+/
+%
+.
+/
+$ log
+log
+)
+(
+log
+)
+(
+log
+)
+( +
++
+= , (A10)
+with )
+(
+),
+(
+),
+( /
+&
+/
+%
+/
+$ being polynomials in the lag operator. For a lag length of two,this
+leads to
+W
+L
+.
+,
+log +
+
++
+
++
+
++
+
++
+
+=
+-
+-
+-
+- 2
+,
+2
+1
+,
+1
+,
+0
+2
+,
+2
+1
+,
+1
+log
+log
+log
+log
+log
+W
+L
+W
+L
+W
+L
+W
+L
+W
+L
+6
+6
+6
+.
+.
+W
+L
+W
+L
+W
+L
+W
+L
+X
+8&&
+8&&
+8&&
+,
+2
+,
+2
+1
+,
+1
+,
+0
+log
+log
+log +
+
++
+
++
+
++
+-
+-
+, (A11)
+again with
+W
+L
+W
+L
+W
+L
+X
+,
+,
+
++
+
++
+
+= . Subtracting lagged endogenous variables on both sides,
+using the approximation
+L
+W
+L
+W
+L
+W
+L .
+,
+. 
+-
+
+
+,
+,
+,
+log , as well as substituting the identities:
+1
+,
+2
+1
+,
+1
+,
+0
+log
+log
+log -
+-
+
++
+
++
+
+W
+L
+W
+L
+W
+L
+6
+6
+6
+( ) ( )
+2
+,
+2
+1
+0
+,
+1
+0
+,
+0
+log
+log
+log -
+
++
+
++
+
++
+
+
++
+
++
+
+
+=
+W
+L
+W
+L
+W
+L
+6
+6
+6 (A12)
+and
+23 See, for example, Hamilton (1994), esp. Sections 2.4 and 3.5.
+24 I thank Steve Bond for a thorough introduction into the analytics of the ECM.
+- 30 -
+2
+,
+2
+1
+,
+1
+,
+0
+log
+log
+log -
+-
+
++
+
++
+
+W
+L
+W
+L
+W
+L
+8&&
+8&&
+8&&
+( ) ( )
+2
+,
+2
+1
+0
+1
+,
+1
+0
+,
+0
+log
+log
+log -
+-
+
++
+
++
+
++
+
+
++
+
++
+
+
+=
+W
+L
+W
+L
+W
+L
+8&&
+8&&
+8&& , (A13)
+we obtain the VWDQGDUG (&0 VSHFLILFDWLRQ for a model with two lags:
+=
+-1
+,
+,
+W
+L
+W
+L
+.
+,
+( ) ( ) +
+-
+
++
+
++
+-
+
+-
+-
+-
+2
+,
+1
+2
+2
+,
+1
+,
+1
+log
+1
+1
+W
+L
+W
+L
+W
+L .
+.
+,
+( ) ( ) +
+
++
+
++
+
++
+
+
++
+
++
+
+
++
+-
+- 2
+,
+2
+1
+0
+1
+,
+1
+0
+,
+0
+log
+log
+log
+W
+L
+W
+L
+W
+L
+6
+6
+6
+( ) ( )
+W
+L
+W
+L
+W
+L
+W
+L
+X
+8&&
+8&&
+8&&
+,
+2
+,
+2
+1
+0
+1
+,
+1
+0
+,
+0
+log
+log
+log +
+
++
+
++
+
++
+
+
++
+
++
+
+
++
+-
+-
+ (A14)
+Using more lags will move the position of the level terms further backward. This specifi-
+cation was invented by Charles Bean (1981), and it was introduced to the micro invest-
+ment literature by Bond, Elston, Mairesse and Mulkay (1997). The long-run properties are
+similar to the accelerator framework. As a long-run elasticity of the capital stock with re-
+gard to user costs, one obtains:
+2
+1
+2
+1
+0
+... 1
+log
+log
+1 
+-
+
+-
+
++
+
++
+
+=
+=
+=
+= +
+8&&
+8&&
+8&&
+W
+W
+8&&
+G
+.
+G
+. (A15)
+Here, too, the long-run elasticities are non-linear functions of the parameter. Note that the
+numerator and denominator of this expression are given by the coefficients of the level
+terms. By rewriting the equation, this identity offers a possibility of neatly separating
+short-run and long-run dynamics:
+( )
+2
+,
+1
+,
+1
+1
+,
+1
+-
+-
+-
+-
+
+=
+
+W
+L
+W
+L
+W
+L
+W
+.
+,
+.
+,
+( ) ( )
+1
+,
+1
+1
+0
+,
+0
+1
+,
+1
+0
+,
+0
+log
+log
+log
+log -
+-
+
+
++
+
++
+
+
++
+
+
++
+
++
+
+
++
+W
+L
+W
+L
+W
+L
+W
+L
+8&&
+8&&
+6
+6
+( )
+W
+L
+W
+L
+W
+L
+W
+L
+X
+8&&
+6
+.
+,
+2
+,
+2
+1
+0
+1
+2
+2
+,
+2
+1
+0
+1
+2
+2
+,
+2
+1
+log
+1
+log
+1
+log
+1 +
+
+
+
+
+
+
+
+-
+
+-
+
++
+
++
+
++
+
+-
+
+-
+
++
+
++
+
+-
+-
+
++
+
++
+-
+-
+-
+(A16)
+The first term in the third line is the error-correction coefficient; it ought to be negative.
+The term in curly brackets ought to be zero in the long run for the long-term relationship
+between capital, user costs and sales to hold. The ECM model uses both levels and first
+differences for estimation and instrumentation; with regard to the analytical interpreta-
+tion, however, it concentrates on the equilibrium relationship between levels of capital,
+sales and user costs. As in the First Difference ADL, we may add cash-flow terms in or-
+der to capture short-run dynamics.
+- 31 -
+$SSHQGL[ % 9DULDEOH 'HILQLWLRQ DQG 2XWOLHU &RQWURO
+5HJUHVVLRQ 9DULDEOHV
+,QYHVWPHQW , Additions to plant, property and equipment come from the detailed sched-
+ule of fixed asset movements ($QODJHQVSLHJHO). The schedule also includes their value at
+historical costs. Not all firms show their investment data in the $QODJHQVSLHJHO, and, fur-
+thermore, missing investment data and zero investment are coded by the same symbol in
+the raw data. An extremely cautious procedure was chosen to impute a zero value only in
+cases where this is logically inevitable, in all other cases the variable is coded as missing.
+&DSLWDO 6WRFN . is computed by adjusting the value of fixed assets at historical costs
+taken from the $QODJHQVSLHJHO for inflation and depreciation during the previous years,
+and by applying a perpetual inventory procedure with a sector specific depreciation rate
+for all years following the first year for which historic cost data and investment data are
+available:
+( )
+W
+,
+W
+M
+,
+W
+M
+,
+W
+M
+W
+,
+W
+M
+M
+W
+,
+W
+M
+,
+3
+3
+3
+.
+3
+.
+3
+,
+1
+,
+,
+1
+1
+,
+,
+1 +
+
+
+
+
+
+
+
+
+
+-
+=
+-
+-
+-
+, (B1)
+where ,
+W
+M
+3
+,
+is a sector specific price of investment goods,
+W
+, is real investment and
+M
+ the
+sector-specific depreciation rate.
+5HDO 6DOHV 6 Sales, deflated by a sector-specific index for output prices.
+8VHU &RVWV RI &DSLWDO 8& see Appendix C.
+&DVK )ORZ &) Net income plus depreciation, deflated by a sector-specific index for
+output prices.
+2YHUDOO 5DWLQJ 5DWLR 255 A discriminant analysis procedure separates firms with a
+high a priori risk of default from those with a low risk, also see Section 3.3. Firms are
+placed in one of three categories of creditworthiness: "good credit standing", "indifferent
+credit standing" and "endangered credit standing". Individual ratios for calculating dis-
+criminant functions in the manufacturing sector include:
+· equity/pension-provision ratio (adjusted equity capital and pension provisions as a
+percentage of adjusted balance-sheet total);
+· return on total capital employed (Profit/loss before taxes on income and before inter-
+est payments as a percentage of adjusted balance-sheet total;
+· return on equity (Profit/loss before taxes on income as percentage of adjusted equity);
+· capital recovery rate (Net receipts/net expenditures as percentage of capital invested);
+- 32 -
+· net interest payment ratio (Net interest result as percentage of turnover/total output);
+· accounting practice.
+Here, balance sheet total and equity are adjusted by subtracting items like subscribed
+capital unpaid, goodwill, credits to proprietors and partners, formation expenses. "Net
+receipts" is an elaborate measure for cash flow, not equal to the simpler one used in esti-
+mation. It is profit plus depreciation, augmented by changes of items like provisions for
+taxes, other short term provisions, pension provisions and other long term provisions,
+payments received on account of orders, less items like increases of stocks of finished
+goods. Capital invested is adjusted balance sheet total less liquid financial assets.
+The overall rating ratio takes on values between -99.9 and 99.9. It is a weighted sum of
+the individual ratios. The weights are determined by the discriminant analysis procedure,
+as well as the cut-off points
+O
+F , X
+F for a grouping of creditworthiness:
+O
+F
+255 <
+<
+- 0
+.
+99 endangered credit standing
+X
+O
+F
+255
+F <
+ indifferent credit standing
+9
+.
+99
+<
+ 255
+F
+X
+good credit standing
+For the use of our study, the overall rating ratios have been transformed so that they vary
+between 0 and 1, approximately in line with the other variables entering the regression.
+2XWOLHU FRQWURO
+Observations with missing values for sales, capital, investment, cash flow or the overall
+rating ratio were excluded. The presence of the overall rating ratio serves as a check that
+the EU harmonisation guidelines were being followed.
+The data set is trimmed by excluding the upper and the lower 1-% percentiles of 6
+log
+ ,
+1
+-
+W
+W
+.
+&) and the overall rating ratio
+W
+255 , as well as the two upper 1% percentiles of
+1
+-
+W
+W
+.
+, . Additionally, in the constructing the sample for the estimations with the user
+costs based on apparent interest rates, the upper and the lower 1-% percentile of the ap-
+parent interest rate and of 8&
+log
+ are excluded.
+- 33 -
+$SSHQGL[ & 7KH &RQVWUXFWLRQ RI 8VHU &RVWV RI &DSLWDO IRU *HUPDQ\
+The Jorgensonian user costs of capital are given by
+( )( )
+( )
+
+-
+
++
+
+-
+
+-
+=
+1
+1 H
+,
+, $
+S
+S
+8& (C1)
+The derivation can be found, e.g., in Auerbach (1983). Here, S is the output-price level and
+,
+S is the price of investment goods. $ is the present value of depreciation allowances, H
+
+is the economic depreciation rate and ,
+ is the expected rate of investment-goods price
+inflation.  is the basic corporate tax rate, the rate of tax paid if no profits are distributed.
+.LQJ)XOOHUWRQW\SH XVHU FRVWV
+A general expression for the discount rate  in the presence of distortionary taxes and
+income taxation at the level of the individual investor has been derived by King (1977)
+and King and Fullerton (1984), also see OECD (1991) or Chenells and Griffith (1997). If
+we distinguish as VRXUFHV RI ILQDQFH between UHWDLQHG HDUQLQJV U QHZ GHEW, G, and QHZ
+FDSLWDO, Q, the respective discount rates are given by
+( )
+r
+earnings,
+retained
+for
+n
+issues,
+shares
+new
+for
+d
+finance,
+debt
+for
+1
+1
+1
+
+
+
+
+
+
+
+-
+-
+
+
+
+-
+
+=
+
+]
+P
+L
+L
+L
+(C2)
+In this expression, the variable  measures the degree of discrimination between reten-
+tions and distributions. It is the opportunity costs of retained earnings in terms of gross
+dividends forgone; i.e. it equals the additional dividend shareholders would receive if one
+unit of post-corporate tax earnings were distributed. Furthermore, L is the nominal interest
+rate, and P is the marginal personal tax rate on capital income for the representative
+shareholder. Finally, ] is the effective tax rate on accrued capital gains.
+Between 1977 and 2000, the system of capital-income taxation operating in Germany was
+a split-rate system with full imputation. The shareholder ­ provided that he was a resident
+of the Federal Republic ­ received a tax credit in the amount of the corporation tax on
+distributed profits paid. Ultimately, the tax on capital income on distributed profits was
+equal to the marginal tax on capital income. For Germany, therefore, the variable  as-
+25 The user cost of capital for our sample has been constructed on the basis of the computer routines provided
+by Fred Ramb, who also allowed us to use his tax and depreciation data. Fred's help was crucial and decisive.
+As we made several changes, however, he has no responsibility for the final product.
+- 34 -
+sumes the value ( )
+
+-
+1
+1 . Furthermore, the effective tax rate on accrued capital gains was
+zero, as capital gains were not taxed after a holding period of one year or more.
+Taking this into account, the expression for the discount rate reduces to
+( )
+( )
+( ) r
+earnings,
+retained
+for
+n
+issued,
+shares
+new
+for
+d
+finance,
+debt
+for
+1
+1
+1
+
+
+
+
+
+-
+
+
+-
+
+
+-
+
+=
+
+P
+L
+L
+L
+(C3)
+In a system with full imputation, the two types of outside finance are equivalent, see Sinn
+(1984) and especially Sinn (1985).
+Implementing this empirically, we use sector-specific output price levels
+W
+M
+S
+,
+and depre-
+ciation rates
+W
+M ,
+ . The price of capital goods ,
+W
+S is an economy-wide deflator referring to
+the beginning of the year, the inflation rate ,
+W
+ measures the rate of growth of ,
+W
+S in the
+time between the beginning and the end of year W.
+W
+L
+$
+,
+is the present value of depreciation
+allowances as a firm-specific weighted average for three different types of assets: buildings,
+machinery and equipment. In each case, finance-specific discount rates were used. The
+interest rate,
+W
+L , is the average yield on industrial bonds outstanding issued by residents.26
+The tax rate on retained earnings was calculated as a compound tax combining three
+different taxes of profits: the basic corporate tax on retained earnings, U
+W
+ , the
+*HZHUEHVWHXHU,
+W
+J , which is deductible for corporate tax purposes, and the "solidarity
+surcharge"
+W
+V , which is levied on all corporate tax payments and all personal income taxes:
+( ) ( )
+W
+W
+U
+W
+W
+W
+J
+J
+V +
+-
+
+
++
+=
+ 1
+1 (C4)
+Like King and Fullerton, we treat the *HZHUEHVWHXHU as a normal tax on profits, ignoring
+some of its special features.27 As a marginal tax rate for the shareholder, we used the
+highest marginal income tax max
+W
+P , again inflated by the solidarity surcharge:
+( ) max
+1
+W
+W
+W
+P
+V
+P +
+= (C5)
+For the different user-cost expressions resulting for the different types of finance, we ex-
+periment with two different weighting schemes. A VWRFNZHLJKWLQJ VFKHPH, leading to our
+variable UC(2), identifies share finance with the stock of subscribed capital (augmented
+26 See Deutsche Bundesbank, Monthly Report, Statistical Annex, several issues.
+27 Interest payments are only partly deductible, and the *HZHUEHVWHXHU payments are not credited to the share-
+holders on distribution. The latter, strictly speaking, destroys the basic equivalence between sources of outside
+finance. Ultimately, the *HZHUEHVWHXHU is raised at the community level, displaying a lot of local variation.
+Due to data limitation, however, we have to confine ourselves to the mean *HZHUEHVWHXHU rate for the whole
+sample.
+- 35 -
+by share premium or paid-in surplus), retained earnings with the earned surplus, including
+the share of own funds in the reserves subject to future taxation, debt finance with total
+liabilities, including the share of borrowed funds in the reserves subject to future taxation.
+A IORZZHLJKWLQJ VFKHPH uses as sources of finance the first differences of the above-
+mentioned stocks. For LQFUHDVHV of shares issued, retained earnings debt, the correspond-
+ing weight is calculated as the ratio to the sum of SRVLWLYH sources of new finance in the
+year. If the respective first difference assumes a negative value, its weight is set at zero.
+For the first year, the respective stock weights are used. This is how UC(1) is calculated.
+$Q DOWHUQDWLYH IRUPXODWLRQ XVLQJ DSSDUHQW LQWHUHVW UDWHV
+As an alternative, and in order to be compatible with similar studies for other European
+countries performed within the Monetary Transmission Network of the Eurosystem, we
+construct a user-cost variable that relies less on tax changes, but uses firm-specific varia-
+tion of the "apparent interest rate"
+W
+U
+i,
+instead, the ratio between total interest payments
+and outstanding debts, excluding interest-free credits. Apparent interest rates have the
+econometric advantage of providing a lot of firm-specific variation in a rather simple way.
+A large part of this variation, however, is spurious: the apparent interest rate of a firm in a
+given year is a weighted average of past interest rates, with the weights being given by the
+current composition of debt. Furthermore, apparent interest rates do not reflect pure costs
+of finance, but also vary according to firm-specific default risk. Used in estimation, the
+variable might therefore mix up these two different classes of underlying determinants of
+investment spending. Finally, interest payments are a drain on liquidity and might pick up
+effects that really belong to cash flow. This may result in the cash-flow coefficient being
+too low or the user-cost coefficient being too high.
+Let ( )
+W
+L
+W
+L
+W
+L
+'
+(
+(
+,
+,
+,
++ be the stock share of total equity finance (consisting of retained
+earnings plus subscribed capital), and ( )
+W
+L
+W
+L
+W
+L
+'
+(
+'
+,
+,
+,
++ the share of debt finance. Then a
+weighted average
+( )
+( )( ) ( )( )
+
+
+
+
+
+
+
+
+
++
+
++
+
+-
++
++
+
++
+
++
+
+-
++
+
+-
+= W
+M
+,
+W
+'
+W
+'
+W
+L
+W
+L
+W
+L
+W
+L
+W
+M
+,
+W
+(
+W
+L
+(
+W
+L
+W
+L
+W
+L
+W
+L
+W
+W
+,
+W
+W
+L $
+'
+(
+'
+$
+'
+(
+(
+S
+S
+-
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+1
+1
+1
+(C6)
+is calculated, with discount rates
+W
+L
+(
+W
+L L
+,
+,
+=
+ for equity finance and ( )
+W
+W
+'
+W U 
+-
+=
+ 1 for
+debt finance. Again, present values of depreciation allowances, (
+W
+L
+$
+,
+and '
+W
+L
+$
+,
+are con-
+structed using the respective finance-specific discount rates. See Chatelain, Generale,
+Hernando, von Kalckreuth and Vermeulen (2001) for further details.
+- 36 -
+$SSHQGL[ ' *DXJLQJ WKH (IIHFWV RI 0RQHWDU\ 3ROLF\
+In order to relate monetary policy to investment demand, we have to specify the link be-
+tween the explanatory variables of our investment function and the nominal capital-mar-
+ket interest rates.
+,QWHUHVW &KDQJHV DQG 8VHU &RVWV
+The impact of interest-rate changes on the user costs of capital can be calculated from
+their definition, given in Appendix B. For purposes of monetary policy analysis, we re-
+gard the present value of the depreciation allowances $ as fiscal policy parameters which
+DUH IL[HG LQGHSHQGHQWO\ RI WKH FHQWUDO EDQN MXVW OLNH FRUSRUDWH WD[ UDWHV  )RU WKH WZR
+King-Fullerton-type user costs 8& and 8&, this leads to a time and firm-specific
+derivative, L
+8& 
+ . As investment demand depends on log 8&, we have to convert this
+expression into a semi-elasticity. The overall mean of this semi-elasticity for 8& in our
+ADL(3) sample is given by 3.383, corresponding to an elasticity of the user costs with
+respect to nominal interest-rate changes of almost exactly 0.25.
+,QWHUHVW &KDQJHV DQG &DVK )ORZ
+Rising interest rates lead to higher payments on debts and to lower cash flows for the
+firms. The effect of nominal interest-rate changes can be calculated from the definition of
+cash flow, but we need to make an assumption on the maturity structure of the outstand-
+ing debt. We can write nominal cash flow Q
+W
+&) in the following way:
+( )( ) .
+payments
+interest
+1 GHSU
+FRVWV
+VDOHV
+&) Q
+W
++
+-
+-
+
+-
+= (D1)
+Here, "costs" is obviously all costs apart from interest payments. Writing
+debt
+payments
+interest D
+L
+
+ (D2)
+we define the apparent interest rate D
+L as WKH DYHUDJH LQWHUHVW SD\PHQWV IRU FUHGLWV RI DOO
+PDWXULWLHV The derivative of cash flow with respect to the apparent interest rate is simply:
+( )
+W
+D
+W
+Q
+W GHEW
+L
+&)
+
+-
+=
+
+
+1 (D3)
+As we are looking for the effect of interest-rate changes on the real cash flow capital ra-
+tio, we use the following transformation:
+( )
+D
+W
+W
+W
+L
+.
+&)
+
+
+-1 =
+1
+-
+
+
+W
+W
+Q
+W
+D
+Q
+W
+.
+&)
+&)
+L
+&)
+(D4)
+- 37 -
+For this expression, we obtain a mean value of 0.855 in the sample used for our preferred
+estimate. As can easily be seen, the apparent interest rate is a distributed lag of prior mar-
+ket-interest rates:
+ -
+=
+K
+W
+K
+D L
+D
+L , (D5)
+with the K
+D being weights for debt of different age as a percentage of total debt. From the
+UBS data base, one can estimate that 76.3% of the liabilities in the manufacturing sector
+have a maturity of less than one year in 1996. We will assume that the age profile (matur-
+ity structure) of firm debt is constant over time and that time to maturity of the remaining
+23.7% of liability is distributed evenly over the next five years.28 For the effect of interest
+rate changes on future cash flow over capital ratios, we can then use the approximation
+( ) ( )
+D
+W
+W
+W
+K
+W
+K
+W
+K
+W
+L
+.
+&)
+D
+L
+.
+&)
+
+
+
+
+
+-
++
+-
++ 1
+1 , (D6)
+which is exact if
+1
+-
+W
+W
+.
+&) is also constant over time.
+28 See Deutsche Bundesbank (1999). As the percentage of liabilities with a maturity of more than one year is
+rather low, our results are robust with respect to assumptions concerning the maturity structure. The cumulated
+effect on capital demand does not depend on the maturity structure at all; it merely serves to distribute the total
+effect over time.
+- 38 -
+7DEOH  6XPPDU\ 6WDWLVWLFV IRU WKH 2YHUDOO 6DPSOH
+9DULDEOH 0HDQ 6WG 'HY 0LQ  0HGLDQ  0D[
+1
+-
+W
+W
+.
+, 0.1813 0.2200 0 0.0585 0.1161 0.2157 2.2139
+W
+6
+log
+ 0.0206 0.1597 -0.5960 -0.0654 0.0214 0.1068 0.8309
+1
+-
+W
+W
+.
+&) 0.2843 0.4941 -1.9143 0.1091 0.1887 0.3308 9.2678
+W
+8& )
+1
+(
+log
+ 0.0222 0.0717 -0.3478 -0.0178 0.0094 0.0644 0.4991
+W
+8& )
+1
+( 0.1587 0.0182 0.0859 0.1468 0.1583 0.1704 0.2682
+W
+8& )
+2
+(
+log
+ 0.0233 0.0668 -0.3328 -0.0147 0.0089 0.0711 0.4516
+W
+8& )
+2
+( 0.1575 0.0180 0.0852 0.1461 0.1572 0.1694 0.2627
+W
+8& )
+3
+(
+log
+ 0.0248 0.1101 -0.3558 -0.0436 0.0246 0.0912 0.4222
+W
+8& )
+3
+( 0.1575 0.0285 0.0763 0.137 0.1558 0.1758 0.3242
+W
+255
+ 0.0004 0.0430 -0.3515 -0.0210 0.0005 0.0220 0.4905
+W
+255 0.5737 0.0619 0.3655 0.5355 0.5735 0.6150 0.7390
+The sample used includes 44,345 observations from 6,408 firms and is the same as used to estimate the
+ADL(3) model with UC(2) and UC(2) discussed in Section IV. For the variable UC(3), the number of obser-
+vations is only 40,362 from 5,876 firms, because of additional data cleaning with respect to this variable. See
+Section III and Appendices A, B, C for more details about the data set.
+- 39 -
+7DEOH  6DPSOH &RPSRVLWLRQ DQG 0HDQV
+9DULDEOH VPDOO ODUJH EDG UDWLQJ LQGHW UDWLQJ JRRG UDWLQJ
+Number of firms 3053 3355 1131 893 4384
+Number of obs. 20452 23893 7489 6029 30827
+1
+-
+W
+W
+.
+, 0.1981 0.1669 0.1776 0.1891 0.1806
+W
+6
+log
+ 0.0232 0.0184 0.0111 0.0265 0.0218
+1
+-
+W
+W
+.
+&) 0.3253 0.2492 0.1563 0.2262 0.3267
+W
+8& )
+1
+(
+log
+ 0.0229 0.0216 0.0217 0.0228 0.0222
+W
+8& )
+1
+( 0.1559 0.1611 0.1584 0.1579 0.1589
+W
+8& )
+2
+(
+log
+ 0.0241 0.0226 0.0232 0.0240 0.0232
+W
+8& )
+2
+( 0.1547 0.1599 0.1573 0.1568 0.1577
+W
+8& )
+3
+(
+log
+ 0.0275 0.0224 0.0306 0.0300 0.0222
+W
+8& )
+3
+( 0.1530 0.1614 0.1548 0.1548 0.1587
+W
+255
+ -0.0002 0.0009 -0.0005 -0.0001 0.0007
+W
+255 0.5643 0.5818 0.5147 0.5399 0.5946
+7DEOH  &URVV 7DEXODWLRQ RI *URXSV
+EDG UDWLQJ LQGHW UDWLQJ JRRG UDWLQJ
+VPDOO ILUPV 646 472 1935
+ODUJH ILUPV 485 421 2449
+The sample used includes 44,345 observations from 6,408 firms and is the same as used to estimate the
+ADL(3) model with UC(2) and UC(2) discussed in Section IV. For the variable UC(3), the number of obser-
+vations is only 40,362 from 5,876 firms, because of additional data cleaning with respect to this variable. See
+Section III and Appendices A, B, C for more details about the data set.
+- 40 -
+7DEOH  6L]H 'LVWULEXWLRQ RI )LUPV DQG 2EVHUYDWLRQV
+E\ 0HDQ (PSOR\PHQW
+Q   Q Q Q Q! 6XP
+1R RI ILUPV 616 2437 1626 828 901 6408
+9.61% 38.03% 25.37% 12.92 % 14.06 % 100%
+1R RI REV 3989 16463 11372 5936 6589 44345
+9.00% 37.12% 25.64% 13.39% 14.85% 100%
+The mean and median numbers of employees in the sample for the ADL(3) discussed in Section IV are 405
+and 119, respectively. The sample used includes 44,345 observations from 6,408 firms and is the same as used
+to estimate the ADL(3) model with UC(2) and UC(2) discussed in Section IV. See Section III and Appendices
+A, B, C for more details about the data set.
+7DEOH  9DULDQWV RI WKH %DVHOLQH 0RGHO
+0RGHO $'/ $'/ $'/
+long-run UC elasticity
+(standard deviation)
+-0.445**
+(0.106)
+-0.401**
+(0.144)
+-0.320
+(0.227)
+Sargan-Hansen test, p-value 0.016 0.075 0.009
+LM(2), p-value 0.010 0.165 0.885
+8&
+# observations
+(# firms)
+27195
+(8482)
+18713
+(6408)
+12305
+(4735)
+long-run UC elasticity
+(standard deviation)
+-0.488**
+(0.106)
+-0.392**
+(0.146)
+-0.531**
+(0.227)
+Sargan-Hansen test, p-value 0.004 0.047 0.010
+LM(2), p-value 0.009 0.116 0.871
+8&
+# observations
+(# firms)
+27195
+(8482)
+18713
+(6408)
+12305
+(4735)
+long-run UC elasticity
+(standard deviation)
+-0.187
+(0.108)
+-0.521**
+(0.148)
+-0.390
+(0.205)
+Sargan-Hansen test, p-value 0.016 0.288 0.110
+LM(2), p-value 0.013 0.038 0.785
+8&
+# observations
+(# firms)
+24781
+(7923)
+16858
+(5876)
+10982
+(4282)
+Additional regressors: lags of cash flow capital ratio, sales growth, constant, and year dummies. Estimation
+method: two-step GMM of equation (1) first-differenced. Instruments: the undifferenced values of all regres-
+sors lagged at least two periods, and earlier when feasible (i.e., Ii,t-m
+/Kt-1-m
+, logSi,t-m
+, logUCi,t-m
+, CFi,t-m
+/Ki,t-1-
+m
+for m > 2, where the maximum value of m is as large as possible given data availability), as well as a con-
+stant and year dummies. The Sargan-Hansen statistic is a test for overidentifying restrictions proposed by Sar-
+gan (1958) and Hansen (1982). The LM(2) statistic is the Lagrange Multiplier statistic for second-order serial
+correlation proposed by Arellano and Bond (1991). The long-run effect of UC is to be interpreted as a long-
+run elasticity of capital demand, it is defined as the sum of the UC coefficients divided by one minus the sum
+of the coefficients on the lagged dependent variables, see Section IV. The standard error is computed using the
+delta method. Robust standard errors from the second step estimation are in parentheses: ** significant at the
+1% level; * significant at the 5% level. The estimates are presented with three different definitions of the user
+cost: UC(1), flow weights; UC(2), stock weights; UC(3), apparent interest rate. See Section III and Appendix
+C for details about these user costs.
+- 41 -
+7DEOH  $'/ 0RGHOV RI ,QYHVWPHQW 'HPDQG
+*00 HVWLPDWHV 'HSHQGHQW 9DULDEOH ,LW
+.LW
+([SODQDWRU\
+9DULDEOH
+8& 8& 8&
+Ii,t-1
+/Ki,t-2
+0.131 (0.016)** 0.123 (0.016)** 0.124 (0.017)**
+Ii,t-2
+/Ki,t-3
+-0.002 (0.009) -0.005 (0.009) 0.002 (0.009)
+Ii,t-3
+/Ki,t-4
+0.005 (0.007) 0.003 (0.007) 0.005 (0.007)
+ ,
+LWQ
+.
+LWQ
+ 
+
+  
+
+  
+
+
+ORJ 6
+i,t
+0.161 (0.055)** 0.185 (0.056)** 0.142 (0.054)**
+ORJ 6
+i,t-1
+0.095 (0.014)** 0.091 (0.014)** 0.097 (0.014)**
+ORJ 6
+i,t-2
+0.065 (0.011)** 0.061 (0.011)** 0.061 (0.011)**
+ORJ 6
+i,t-3
+0.033 (0.010)** 0.032 (0.010)** 0.036 (0.010)**
+ ORJ 6
+i,t-n
+ 
+
+  
+
+  
+
+
+ORQJUXQ HII VDOHV  
+
+  **  
+
+
+ORJ 8&
+i,t
+-0.206 (0.071)** -0.239 (0.067)** -0.220 (0.080)**
+ORJ 8&
+i,t-1
+-0.163 (0.038)** -0.164 (0.040)** -0.151 (0.028)**
+ORJ 8&
+i,t-2
+-0.014 (0.034) 0.007 (0.038) -0.060 (0.020)**
+ORJ 8&
+i,t-3
+0.038 (0.027) 0.051 (0.031) -0.021 (0.015)
+ ORJ 8&
+LWQ
+ 
+
+  
+
+  
+
+
+ORQJUXQ HII XVHU FRVW  
+
+  
+
+  
+
+
+CFi,t
+/Ki,t-1
+0.070 (0.034)* 0.066 (0.034) 0.043 (0.036)
+CFi,t-1
+/Ki,t-2
+0.013 (0.014) 0.015 (0.014) 0.011 (0.012)
+CFi,t-2
+/Ki,t-3
+0.005 (0.005) 0.007 (0.005) 0.011 (0.006)
+CFi,t-3
+/Ki,t-4
+0.005 (0.004) 0.005 (0.004) 0.004 (0.005)
+ CFi,t-n
+/Ki,t-n-1
+ 
+
+  
+
+  
+
+ORQJUXQ HII FDVK IORZ  
+
+  
+
+  
+
+No. obs. 18713 18713 16858
+No. firms 6408 6408 5876
+Sargan-Hansen, p-value 0.075 0.047 0.288
+LM(2), p-value 0.165 0.116 0.038
+Additional regressors: a constant and year dummies. Estimation method: two-step GMM of equation (1) first-
+differenced. Instruments: the undifferenced values of all regressors lagged at least two periods, and earlier
+when feasible (i.e., Ii,t-m
+/Kt-1-m
+, logSi,t-m
+, logUCi,t-m
+, CFi,t-m
+/Ki,t-1-m
+for m > 2, where the maximum value of m
+is as large as possible given data availability), as well as a constant and year dummies. The Sargan-Hansen
+statistic is a test for overidentifying restrictions proposed by Sargan (1958) and Hansen (1982). The LM(2)
+statistic is the Lagrange Multiplier statistic for second-order serial correlation proposed by Arellano and Bond
+(1991). The long-run effects of the explanatory variables are defined as the sum of the coefficients of the ex-
+planatory variable divided by one minus the sum of the coefficients on the lagged dependent variables; for
+sales and user cost this is to be interpreted as a long-run elasticity of the capital stock, for cash flow this is a
+long-run derivative, see Section IV. The standard error is computed using the delta method. Robust standard
+errors from the second step estimation are in parentheses: ** significant at the 1% level; * significant at the 5%
+level. The estimates are presented with three different definitions of the user cost: UC(1), flow weights;
+UC(2), stock weights; UC(3), apparent interest rate. See Section III and Appendix C for details about these
+user costs.
+- 42 -
+7DEOH  $'/ 0RGHOV RI ,QYHVWPHQW 'HPDQG
+*00 HVWLPDWHV 'HSHQGHQW 9DULDEOH ,LW
+.LW
+([SODQDWRU\
+9DULDEOH
+8& 8& 8&
+II,t-1
+/Ki,t-2
+0.148 (0.016)** 0.143 (0.016)** 0.142 (0.017)**
+II,t-2
+/Ki,t-3
+0.005 (0.009) 0.003 (0.009) 0.010 (0.009)
+II,t-3
+/Ki,t-4
+0.009 (0.007) 0.008 (0.007) 0.008 (0.007)
+ ,
+LWQ
+.
+LWQ
+ 
+
+  
+
+  
+
+
+ORJ 6
+i,t
+0.191 (0.055)** 0.213 (0.055)** 0.162 (0.053)**
+ORJ 6
+i,t-1
+0.115 (0.013)** 0.109 (0.013)** 0.106 (0.013)**
+ORJ 6
+i,t-2
+0.080 (0.011)** 0.076 (0.011)** 0.069 (0.011)**
+ORJ 6
+i,t-3
+0.041 (0.010)** 0.040 (0.010)** 0.042 (0.010)**
+ ORJ 6
+LWQ
+ 
+
+  
+
+  
+
+
+ORQJUXQ HII VDOHV  
+
+  
+
+  
+
+
+ORJ 8&
+i,t
+-0.232 (0.073)** -0.279 (0.068)** -0.286 (0.089)**
+ORJ 8&
+i,t-1
+-0.190 (0.039)** -0.190 (0.040)** -0.170 (0.029)**
+ORJ 8&
+i,t-2
+-0.037 (0.034) -0.021 (0.039) -0.072 (0.021)**
+ORJ 8&
+i,t-3
+0.022 (0.028) 0.0354 (0.032) -0.029 (0.015)
+ ORJ 8&
+LWQ
+ 
+
+  
+
+  
+
+
+ORQJUXQ HII XVHU FRVW  
+
+  
+
+  
+
+
+No. obs. 18713 18713 16858
+No. firms 6408 6408 5876
+Sargan-Hansen, p-value 0.048 0.032 0.289
+LM(2), p-value p=0.240 p=0.194 p=0.042
+Additional regressors: a constant and year dummies. Estimation method: two-step GMM of equation (1) first-
+differenced. All of the cash-flow coefficients are set to zero. Instruments: the undifferenced values of all re-
+gressors lagged at least two periods, and earlier when feasible (i.e., Ii,t-m
+/Kt-1-m
+, logSi,t-m
+, logUCi,t-m
+, for m >
+2, where the maximum value of m is as large as possible given data availability), as well as a constant and year
+dummies. The Sargan-Hansen statistic is a test for overidentifying restrictions proposed by Sargan (1958) and
+Hansen (1982). The LM(2) statistic is the Lagrange Multiplier statistic for second-order serial correlation pro-
+posed by Arellano and Bond (1991). The long-run effects of the explanatory variables are defined as the sum
+of the coefficients of the explanatory variable divided by one minus the sum of the coefficients on the lagged
+dependent variables; for sales and user cost this is to be interpreted as a long-run elasticity of the capital stock,
+for cash flow this is a long-run derivative, see Section IV. The standard error is computed using the delta
+method. Robust standard errors from the second step estimation are in parentheses: ** significant at the 1%
+level; * significant at the 5% level. The estimates are presented with three different definitions of the user cost:
+UC(1), flow weights; UC(2), stock weights; UC(3), apparent interest rate. See Section III and Appendix C for
+details about these user costs.
+- 43 -
+7DEOH  $'/ 0RGHOV RI ,QYHVWPHQW 'HPDQG
+*00 HVWLPDWHV 'HSHQGHQW 9DULDEOH ,LW
+.LW
+7ULPPHG (TXDWLRQ
+([SODQDWRU\
+9DULDEOH
+8& 8& 8&
+Ii,t-1
+/Ki,t-2
+0.136 (0.014)** 0.131 (0.014)** 0.119 (0.015)**
+Ii,t-2
+/Ki,t-3
+Ii,t-3
+/Ki,t-4
+ ,
+LWQ
+.
+LWQ
+ 
+
+  
+
+  
+
+
+ORJ 6
+i,t
+0.141 (0.052)** 0.158 (0.053)** 0.139 (0.053)**
+ORJ 6
+i,t-1
+0.090 (0.014)** 0.087 (0.014)** 0.097 (0.014)**
+ORJ 6
+i,t-2
+0.062 (0.011)** 0.059 (0.011)** 0.062 (0.011)**
+ORJ 6
+i,t-3
+0.034 (0.009)** 0.034 (0.009)** 0.038 (0.010)**
+ ORJ 6
+i,t-n
+ 
+
+  
+
+  
+
+
+ORQJUXQ HII VDOHV  
+
+  
+
+  
+
+
+ORJ 8&
+i,t
+-0.209 (0.069)** -0.251 (0.065)** -0.166 (0.074)**
+ORJ 8&
+i,t-1
+-0.167 (0.031)** -0.187 (0.034)** -0.126 (0.023)**
+ORJ 8&
+i,t-2
+-0.040 (0.015)**
+ORJ 8&
+i,t-3
+ ORJ 8&
+LWQ
+ 
+
+  
+
+  
+
+
+ORQJUXQ HII XVHU FRVW  
+
+  
+
+  
+
+
+CFi,t
+/Ki,t-1
+0.094 (0.024)** 0.092 (0.023)** 0.051 (0.035)
+CFi,t-1
+/Ki,t-2
+0.010 (0.012)
+CFi,t-2
+/Ki,t-3
+0.011 (0.006)
+CFi,t-3
+/Ki,t-4
+ CFi,t-n
+/Ki,t-n-1
+ 
+
+  
+
+  
+
+
+ORQJUXQ HII FDVK IORZ  
+
+  
+
+  
+
+
+No. obs. 18713 18713 16858
+No. firms 6408 6408 5876
+Sargan-Hansen, p-value 110.5 (p=0.092) 113.0 (p=0.068) 94.99 (p=0.312)
+LM(2), p-value 0.118 0.070 0.030
+Additional regressors: a constant and year dummies. Estimation method: two-step GMM of equation (1) first-
+differenced. Those coefficients for the ADL(3) in Table 4 with p-values greater than or equal to 0.10 are set to
+zero. Instruments: the undifferenced values of all regressors lagged at least two periods, and earlier when fea-
+sible (i.e., Ii,t-m
+/Kt-1-m
+, logSi,t-m
+, logUCi,t-m
+, CFi,t-m
+/Ki,t-1-m
+for m > 2, where the maximum value of m is as
+large as possible given data availability), as well as a constant and year dummies. The Sargan-Hansen statistic
+is a test for overidentifying restrictions proposed by Sargan (1958) and Hansen (1982). The LM(2) statistic is
+the Lagrange Multiplier statistic for second-order serial correlation proposed by Arellano and Bond (1991).
+The long-run effects of the explanatory variables are defined as the sum of the coefficients of the explanatory
+variable divided by one minus the sum of the coefficients on the lagged dependent variables; for sales and user
+cost this is to be interpreted as a long-run elasticity of the capital stock, for cash flow this is a long-run deriva-
+tive, see Section IV. The standard error is computed using the delta method. Robust standard errors from the
+second step estimation are in parentheses: ** significant at the 1% level; * significant at the 5% level. The
+estimates are presented with three different definitions of the user cost: UC(1), flow weights; UC(2), stock
+weights; UC(3), apparent interest rate. See Section III and Appendix C for details about these user costs.
+- 44 -
+7DEOH D  $'/ 0RGHOV RI ,QYHVWPHQW 'HPDQG
+*00 HVWLPDWHV 'HSHQGHQW 9DULDEOH ,LW
+.LW
+7ULPPHG HTXDWLRQ
+/RQJUXQ HIIHFWV RI VDOHV XVHU FRVWV DQG FDVK IORZ
+IRU FUHGLWZRUWK\ DQG QRQFUHGLWZRUWK\ ILUPV
+([SODQDWRU\
+9DULDEOH
+8& 8& 8&
+ORJ 6 KLJK 255 0.467 (0.083)** 0.459 (0.082)** 0.456 (0.079)**
+'LII ORZ  KLJK 255 -0.363 (0.126)** -0.264 (0.124)* -0.275 (0.128)*
+ORJ 8&
+i,
+high ORR -0.524 (0.115)** -0.576 (0.109)** -0.520 (0.127)**
+'LII ORZ  KLJK 255 0.470 (0.225)* 0.370 (0.213) 0.472 (0.215)*
+CF/K high ORR 0.086 (0.026)** 0.085 (0.026)** 0.072 (0.028)**
+'LII ORZ  KLJK 255 0.089 (0.042)* 0.069 (0.041) 0.069 (0.071)
+No. obs. 16256 16256 14566
+No. firms 5515 5515 5033
+Sargan-Hansen, p-value 0.326 0.345 0.744
+LM(2), p-value 0.042 0.026 0.014
+Additional regressors: a constant and year dummies. Estimation method: two-step GMM of equation (1) first-
+differenced. Those coefficients for the ADL(3) in Table 6 with p-values greater than or equal to 0.10 are set to
+zero. Instruments: the undifferenced values of all regressors lagged at least two periods, and earlier when fea-
+sible (i.e., Ii,t-m
+/Kt-1-m
+, logSi,t-m
+, logUCi,t-m
+, CFi,t-m
+/Ki,t-1-m
+for m > 2, where the maximum value of m is as
+large as possible given data availability), as well as a constant and year dummies. The Sargan-Hansen statistic
+is a test for overidentifying restrictions proposed by Sargan (1958) and Hansen (1982). The LM(2) statistic is
+the Lagrange Multiplier statistic for second-order serial correlation proposed by Arellano and Bond (1991).
+The long-run effects of the explanatory variables are defined as the sum of the coefficients of the explanatory
+variable divided by one minus the sum of the coefficients on the lagged dependent variables; for sales and user
+cost this is to be interpreted as a long-run elasticity of the capital stock, for cash flow this is a long-run deriva-
+tive, see Section IV. The standard error is computed using the delta method. Robust standard errors from the
+second step estimation are in parentheses: ** significant at the 1% level; * significant at the 5% level. The
+estimates are presented with three different definitions of the user cost: UC(1), flow weights; UC(2), stock
+weights; UC(3), apparent interest rate. See Section III and Appendix C for details about these user costs.
+- 45 -
+7DEOH E  $'/ 0RGHOV RI ,QYHVWPHQW 'HPDQG
+*00 HVWLPDWHV 'HSHQGHQW 9DULDEOH ,LW
+.LW
+8QWULPPHG HTXDWLRQ
+/RQJUXQ HIIHFWV RI VDOHV XVHU FRVWV DQG FDVK IORZ
+IRU FUHGLWZRUWK\ DQG QRW FUHGLWZRUWK\ ILUPV
+([SODQDWRU\ 9DULDEOH 8& 8& 8&
+ORJ 6 KLJK 255 0.478 (0.085)** 0.469 (0.084)** 0.442 (0.079)**
+'LII ORZ  KLJK 255 -0.322 (0.130)* -0.230 (0.126) -0.255 (0.136)
+ORJ 8&
+i,
+high ORR -0.608 (0.157)** -0.557 (0.160)** -0.679 (0.156)**
+'LII ORZ  KLJK 255 0.419 (0.323) 0.309 (0.321) 0.340 (0.278)*
+CF/K high ORR 0.092 (0.029)** 0.095 (0.029)** 0.074 (0.028)**
+'LII ORZ  KLJK 255 0.089 (0.049) 0.062 (0.047) 0.129 (0.062)*
+No. obs. 16256 16256 14556
+No. firms 5515 5515 5033
+Sargan-Hansen, p-value 0.239 0.257 0.787
+LM(2), p-value 0.132 0.097 0.041
+Additional regressors: a constant and year dummies. Estimation method: two-step GMM of equation (1) first-
+differenced. Instruments: the undifferenced values of all regressors lagged at least two periods, and earlier
+when feasible (i.e., Ii,t-m
+/Kt-1-m
+, logSi,t-m
+, logUCi,t-m
+, CFi,t-m
+/Ki,t-1-m
+for m > 2, where the maximum value of m
+is as large as possible given data availability), as well as a constant and year dummies. The Sargan-Hansen
+statistic is a test for overidentifying restrictions proposed by Sargan (1958) and Hansen (1982). The LM(2)
+statistic is the Lagrange Multiplier statistic for second-order serial correlation proposed by Arellano and Bond
+(1991). The long-run effects of the explanatory variables are defined as the sum of the coefficients of the ex-
+planatory variable divided by one minus the sum of the coefficients on the lagged dependent variables; for
+sales and user cost this is to be interpreted as a long-run elasticity of the capital stock, for cash flow this is a
+long-run derivative, see Section IV. The standard error is computed using the delta method. Robust standard
+errors from the second step estimation are in parentheses: ** significant at the 1% level; * significant at the 5%
+level. The estimates are presented with three different definitions of the user cost: UC(1), flow weights;
+UC(2), stock weights; UC(3), apparent interest rate. See Section III and Appendix C for details about these
+user costs.
+- 46 -
+7DEOH D  $'/ 0RGHOV RI ,QYHVWPHQW 'HPDQG
+*00 HVWLPDWHV 'HSHQGHQW 9DULDEOH ,LW
+.LW
+7ULPPHG HTXDWLRQ
+/RQJUXQ HIIHFWV RI VDOHV XVHU FRVWV DQG FDVK IORZ
+IRU VPDOO ILUPV DQG IRU ODUJH ILUPV
+([SODQDWRU\ 9DULDEOH 8& 8& 8&
+ORJ 6 ODUJH ILUPV 0.375 (0.077)** 0.368 (0.076)** 0.309 (0.081)**
+'LII VPDOO ± ODUJH -0.040 (0.127) -0.020 (0.125) 0.009 (0.122)
+ORJ 8&
+i,
+large firms -0.277 (0.104)** -0.283 (0.101)** -0.446 (0.134)**
+'LII VPDOO ± ODUJH -0.287 (0.197) -0.297 (0.178) 0.067 (0.200)
+CF/K large firms 0.078 (0.030)** 0.073 (0.030)* 0.105 (0.036)**
+'LII VPDOO ± ODUJH 0.048 (0.043) 0.049 (0.043) -0.155 (0.074)*
+No. obs. 18713 18713 16858
+No. firms 6408 6408 5876
+Sargan-Hansen, p-value 0.220 0.097 0.478
+LM(2), p-value 0.108 0.073 0.027
+Additional regressors: a constant and year dummies. Estimation method: two-step GMM of equation (1) first-
+differenced. Those coefficients for the ADL(3) in Table 6 with p-values greater than or equal to 0.10 are set to
+zero. Instruments: the undifferenced values of all regressors lagged at least two periods, and earlier when fea-
+sible (i.e., Ii,t-m
+/Kt-1-m
+, logSi,t-m
+, logUCi,t-m
+, CFi,t-m
+/Ki,t-1-m
+for m > 2, where the maximum value of m is as
+large as possible given data availability), as well as a constant and year dummies. The Sargan-Hansen statistic
+is a test for overidentifying restrictions proposed by Sargan (1958) and Hansen (1982). The LM(2) statistic is
+the Lagrange Multiplier statistic for second-order serial correlation proposed by Arellano and Bond (1991).
+The long-run effects of the explanatory variables are defined as the sum of the coefficients of the explanatory
+variable divided by one minus the sum of the coefficients on the lagged dependent variables; for sales and user
+cost this is to be interpreted as a long-run elasticity of the capital stock, for cash flow this is a long-run deriva-
+tive, see Section IV. The standard error is computed using the delta method. Robust standard errors from the
+second step estimation are in parentheses: ** significant at the 1% level; * significant at the 5% level. The
+estimates are presented with three different definitions of the user cost: UC(1), flow weights; UC(2), stock
+weights; UC(3), apparent interest rate. See Section III and Appendix C for details about these user costs.
+- 47 -
+7DEOH E  $'/ 0RGHOV RI ,QYHVWPHQW 'HPDQG
+*00 HVWLPDWHV 'HSHQGHQW 9DULDEOH ,LW
+.LW
+8QWULPPHG HTXDWLRQ
+/RQJUXQ HIIHFWV RI VDOHV XVHU FRVWV DQG FDVK IORZ
+IRU VPDOO ILUPV DQG IRU ODUJH ILUPV
+([SODQDWRU\ 9DULDEOH 8& 8& 8&
+ORJ 6 ODUJH ILUPV 0.409 (0.083)** 0.393 (0.079)** 0.337 (0.086)**
+'LII VPDOO ± ODUJH -0.059 (0.130) -0.036 (0.126) -0.029 (0.125)
+ORJ 8&
+i,
+large firms -0.320 (0.146)* -0.300 (0.138)** -0.512 (0.173)**
+'LII VPDOO ± ODUJH -0.316 (0.286) -0.183 (0.290) -0.063 (0.255)
+CF/K large firms 0.076 (0.030)** 0.074 (0.030)* 0.092 (0.038)*
+'LII VPDOO ± ODUJH 0.053 (0.045) 0.055 (0.045) -0.050 (0.050)
+No. obs. 18713 18713 16858
+No. firms 6408 6408 5876
+Sargan-Hansen, p-value 0.185 0.073 0.400
+LM(2), p-value 0.098 0.071 0.034
+Additional regressors: a constant and year dummies. Estimation method: two-step GMM of equation (1) first-
+differenced. Instruments: the undifferenced values of all regressors lagged at least two periods, and earlier
+when feasible (i.e., Ii,t-m
+/Kt-1-m
+, logSi,t-m
+, logUCi,t-m
+, CFi,t-m
+/Ki,t-1-m
+for m > 2, where the maximum value of m
+is as large as possible given data availability), as well as a constant and year dummies. The Sargan-Hansen
+statistic is a test for overidentifying restrictions proposed by Sargan (1958) and Hansen (1982). The LM(2)
+statistic is the Lagrange Multiplier statistic for second-order serial correlation proposed by Arellano and Bond
+(1991). The long-run effects of the explanatory variables are defined as the sum of the coefficients of the ex-
+planatory variable divided by one minus the sum of the coefficients on the lagged dependent variables; for
+sales and user cost this is to be interpreted as a long-run elasticity of the capital stock, for cash flow this is a
+long-run derivative, see Section IV. The standard error is computed using the delta method. Robust standard
+errors from the second step estimation are in parentheses: ** significant at the 1% level; * significant at the 5%
+level. The estimates are presented with three different definitions of the user cost: UC(1), flow weights;
+UC(2), stock weights; UC(3), apparent interest rate. See Section III and Appendix C for details about these
+user costs.
+- 48 -
+7DEOH  $'/ 0RGHOV RI ,QYHVWPHQW 'HPDQG  ODJV
+*00 HVWLPDWHV 'HSHQGHQW 9DULDEOH ,LW
+.LW
+255 DV DQ DGGLWLRQDO H[SODQDWRU\ YDULDEOH
+([SODQDWRU\ 9DULDEOH 8& 8&
+II,t-1
+/Ki,t-2
+0.130 (0.016)** 0.122 (0.016)**
+II,t-2
+/Ki,t-3
+0.002 (0.009) 0.001 (0.009)
+II,t-3
+/Ki,t-4
+0.007 (0.007) 0.005 (0.007)
+ ,
+LWQ
+.
+LWQ
+0.139 (0.025)** 0.128 (0.025)**
+ORJ 6
+i,t
+0.110 (0.049)* 0.119 (0.050)*
+ORJ 6
+i,t-1
+0.085 (0.014)** 0.078 (0.014)**
+ORJ 6
+i,t-2
+0.054 (0.012)** 0.047 (0.012)**
+ORJ 6
+i,t-3
+0.026 (0.010)** 0.023 (0.010)**
+ ORJ 6
+LWQ
+ 
+
+  
+
+
+ORQJUXQ HII VDOHV  
+
+  
+
+
+ORJ 8&
+i,t
+-0.182 (0.066)** -0.202 (0.064)**
+ORJ 8&
+i,t-1
+-0.173 (0.037)** -0.162 (0.039)**
+ORJ 8&
+i,t-2
+-0.039 (0.032) -0.012 (0.036)
+ORJ 8&
+i,t-3
+-0.019 (0.026) 0.042 (0.030)
+ ORJ 8&
+LWQ
+ 
+
+  
+
+
+ORQJUXQ HII XVHU FRVW  
+
+  
+
+
+CFi,t
+/Ki,t-1
+0.057 (0.031) 0.057 (0.030)
+CFi,t-1
+/Ki,t-2
+0.011 (0.013) 0.012 (0.013)
+CFi,t-2
+/Ki,t-3
+0.005 (0.005) 0.005 (0.005)
+CFi,t-3
+/Ki,t-4
+0.006 (0.004) 0.007 (0.004)
+ CFi,t-n
+/Ki,t-n-1
+0.079 (0.023)** 0.081 (0.022)**
+ORQJUXQ HII FDVK IORZ 0.092 (0.026)** 0.093 (0.026)**
+255
+i,t-1
+0.142 (0.047)** 0.152 (0.047)**
+255
+,t-2
+0.133 (0.051)** 0.154 (0.050)**
+255
+i,t-3
+0.054 (0.041) 0.067 (0.040)
+ 255
+LWQ
+0.330 (0.118)** 0.373 (0.117)**
+ORQJUXQ HII 255 0.383 (0.140)** 0.428 (0.137)**
+No. obs. 18713 18713
+No. firms 6408 6408
+Sargan-Hansen, p-value 0.063 0.032
+LM(2), p-value 0.181 0.127
+Additional regressors: a constant and year dummies. Estimation method: two-step GMM of equation (1) first-
+differenced. Instruments: the undifferenced values of all regressors lagged at least two periods, and earlier
+when feasible (i.e., Ii,t-m
+/Kt-1-m
+, logSi,t-m
+, logUCi,t-m
+, CFi,t-m
+/Ki,t-1-m
+for m > 2, where the maximum value of m
+is as large as possible given data availability), as well as a constant and year dummies. The Sargan-Hansen
+statistic is a test for overidentifying restrictions proposed by Sargan (1958) and Hansen (1982). The LM(2)
+statistic is the Lagrange Multiplier statistic for second-order serial correlation proposed by Arellano and Bond
+(1991). The long-run effects of the explanatory variables are defined as the sum of the coefficients of the ex-
+planatory variable divided by one minus the sum of the coefficients on the lagged dependent variables; for
+sales and user cost this is to be interpreted as a long-run elasticity of the capital stock, for cash flow this is a
+long-run derivative, see Section IV. The standard error is computed by the delta method. Robust standard
+errors from the second step estimation are in parentheses: ** significant at the 1% level; * significant at the 5%
+level. The estimates are presented with three different definitions of the user cost: UC(1), flow weights;
+UC(2), stock weights; UC(3), apparent interest rate. See Section III and Appendix C for details about these
+user costs.
+- 49 -
+7DEOH  6LPXODWLRQ RI D WUDQVLWRU\ LQFUHDVH RI WKH QRPLQDO FDSLWDO PDUNHW UDWH
+ ([SODQDWRU\ 9DULDEOHV  ,QWHUHVW
+&KDQQHO
+ ,QFRPH
+&KDQQHO
+ 7RWDO (IIHFW
+(1) (2) (4) (5) (6) (7) (8) (9) (10)
+Year Level Deviation Deviation Change Level Deviation Deviation Deviation Rel. Deviation Deviation Rel. Deviation Deviation Rel. Deviation Rel. Deviation
+int. rate int. rate level log UC log UC app. int. app. int. level CF/K I/K Investment I/K Investment I/K Investment Capital Stock
+-3 7.00% 0.00% 0.0000 0.0000 7.00% 0.00% 0.00% 0.0000 0.00% 0.0000 0.00% 0.00% 0.00% 0.00%
+-2 7.00% 0.00% 0.0000 0.0000 7.00% 0.00% 0.00% 0.0000 0.00% 0.0000 0.00% 0.00% 0.00% 0.00%
+-1 7.00% 0.00% 0.0000 0.0000 7.00% 0.00% 0.00% 0.0000 0.00% 0.0000 0.00% 0.00% 0.00% 0.00%
+0 8.00% 1.00% 0.0338 0.0338 7.76% 0.76% -0.65% -0.0071 -3.90% -0.0006 -0.34% -0.77% -4.24% -0.77%
+1 7.00% 0.00% 0.0000 -0.0338 7.05% 0.05% -0.04% 0.0005 0.25% -0.0001 -0.07% 0.03% 0.19% 0.03%
+2 7.00% 0.00% 0.0000 0.0000 7.05% 0.05% -0.04% 0.0057 3.15% -0.0001 -0.03% 0.57% 3.12% 0.57%
+3 7.00% 0.00% 0.0000 0.0000 7.05% 0.05% -0.04% 0.0008 0.43% 0.0000 -0.03% 0.07% 0.40% 0.07%
+4 7.00% 0.00% 0.0000 0.0000 7.05% 0.05% -0.04% 0.0001 0.06% 0.0000 -0.02% 0.01% 0.03% 0.01%
+5 7.00% 0.00% 0.0000 0.0000 7.05% 0.05% -0.04% 0.0000 0.01% 0.0000 -0.02% 0.00% -0.02% 0.00%
+6 7.00% 0.00% 0.0000 0.0000 7.00% 0.00% 0.00% 0.0000 0.00% 0.0000 0.00% 0.00% 0.00% 0.00%
+Nominal capital-market rate increases from 7% to 8% in t=0 for one year, and then falls back to its old level The simulation uses the coefficients in the first column of
+Table 8. A detailed account of the calculation and the assumptions involved is given in Appendix D, as well as in Sect. 6 and 8.
+- 50 -
+The following papers have been published since 2000:
+February 2000 How Safe Was the ,,Safe Haven"?
+Financial Market Liquidity during
+the 1998 Turbulences Christian Upper
+May 2000 The determinants of the euro-dollar
+exchange rate ­ Synthetic fundamentals Jörg Clostermann
+and a non-existing currency Bernd Schnatz
+July 2000 Concepts to Calculate Equilibrium
+Exchange Rates: An Overview Ronald MacDonald
+August 2000 Kerinflationsraten: Ein Methoden-
+vergleich auf der Basis westdeutscher
+Daten * Bettina Landau
+September 2000 Exploring the Role of Uncertainty
+for Corporate Investment Decisions
+in Germany Ulf von Kalckreuth
+November 2000 Central Bank Accountability and
+Transparency: Theory and Some Sylvester C.W. Eijffinger
+Evidence Marco M. Hoeberichts
+November 2000 Welfare Effects of Public Stephen Morris
+Information Hyung Song Shin
+November 2000 Monetary Policy Transparency, Public
+Commentary, and Market Perceptions
+about Monetary Policy in Canada Pierre L. Siklos
+* Available in German only.
+- 51 -
+November 2000 The Relationship between the Federal
+Funds Rate and the Fed's Funds Rate
+Target: Is it Open Market or Open
+Mouth Operations? Daniel L. Thornton
+November 2000 Expectations and the Stability Problem George W. Evans
+for Optimal Monetary Policies Seppo Honkapohja
+January 2001 Unemployment, Factor Substitution, Leo Kaas
+and Capital Formation Leopold von Thadden
+January 2001 Should the Individual Voting Records Hans Gersbach
+of Central Banks be Published? Volker Hahn
+January 2001 Voting Transparency and Conflicting Hans Gersbach
+Interests in Central Bank Councils Volker Hahn
+January 2001 Optimal Degrees of Transparency in
+Monetary Policymaking Henrik Jensen
+January 2001 Are Contemporary Central Banks
+Transparent about Economic Models
+and Objectives and What Difference
+Does it Make? Alex Cukierman
+February 2001 What can we learn about monetary policy Andrew Clare
+transparency from financial market data? Roger Courtenay
+March 2001 Budgetary Policy and Unemployment Leo Kaas
+Dynamics Leopold von Thadden
+March 2001 Investment Behaviour of German Equity
+Fund Managers ­ An Exploratory Analysis
+of Survey Data Torsten Arnswald
+- 52 -
+April 2001 Der Informationsgehalt von Umfrage-
+daten zur erwarteten Preisentwicklung
+für die Geldpolitik * Christina Gerberding
+May 2001 Exchange rate pass-through
+and real exchange rate
+in EU candidate countries Zsolt Darvas
+July 2001 Interbank lending and monetary policy Michael Ehrmann
+Transmission: evidence for Germany Andreas Worms
+September 2001 Precommitment, Transparency and
+Montetary Policy Petra Geraats
+September 2001 Ein disaggregierter Ansatz zur Berechnung
+konjunkturbereinigter Budgetsalden für
+Deutschland: Methoden und Ergebnisse * Matthias Mohr
+September 2001 Long-Run Links Among Money, Prices, Helmut Herwartz
+and Output: World-Wide Evidence Hans-Eggert Reimers
+November 2001 Currency Portfolios and Currency Ben Craig
+Exchange in a Search Economy Christopher J. Waller
+December 2001 The Financial System in the Thomas Reininger
+Czech Republic, Hungary and Poland Franz Schardax
+after a Decade of Transition Martin Summer
+December 2001 Monetary policy effects on
+bank loans in Germany:
+A panel-econometric analysis Andreas Worms
+December 2001 Financial systems and the role of banks M. Ehrmann, L. Gambacorta
+in monetary policy transmission J. Martinez-Pages
+in the euro area P. Sevestre, A. Worms
+ Available in German only.
+- 53 -
+December 2001 Monetary Transmission in Germany:
+New Perspectives on Financial Constraints
+and Investment Spending Ulf von Kalckreuth
+- 54 -
+Visiting researcher at the Deutsche Bundesbank
+The Deutsche Bundesbank in Frankfurt is looking for a visiting researcher. Visitors should
+prepare a research project during their stay at the Bundesbank. Candidates must hold a
+Ph D and be engaged in the field of either macroeconomics and monetary economics,
+financial markets or international economics. Proposed research projects should be from
+these fields. The visiting term will be from 3 to 6 months. Salary is commensurate with
+experience.
+Applicants are requested to send a CV, copies of recent papers, letters of reference and a
+proposal for a research project to:
+Deutsche Bundesbank
+Personalabteilung
+Wilhelm-Epstein-Str. 14
+D - 60431 Frankfurt
+GERMANY
+- 55 -
+

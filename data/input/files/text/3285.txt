@@ -1,0 +1,724 @@
+SAGE Open
+October-December 2015: 1­9
+© The Author(s) 2015
+DOI: 10.1177/2158244015610172
+sgo.sagepub.com
+Creative Commons CC-BY: This article is distributed under the terms of the Creative Commons Attribution 3.0 License
+(http://www.creativecommons.org/licenses/by/3.0/) which permits any use, reproduction and distribution of
+the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages
+(https://us.sagepub.com/en-us/nam/open-access-at-sage).
+Article
+Introduction
+Concerns on improved performance in secondary schools are
+heightening and are becoming increasingly difficult to ignore
+due to its overall contribution in the success of schools and
+social-economic development of any country. However,
+learner performance cannot be divorced from the well-
+managed schools. It is the responsibility of school managers
+to make schools work and improve the learning outcomes for
+children (Moloi, 2003).
+The trend of the performance reports for the past 5 years
+(2008-2012) from the Certificate of Secondary Education
+Examinations (CSEE) in Tanzania leave a lot of doubt on the
+effectiveness of school internal mechanisms to ensure high
+standards of performance. The uncertainties were also
+increased by the manner in which the internal mechanisms
+were managed for effective teaching and learning in second-
+ary schools in Tanzania. The CSEE results indicate that the
+performance of students who scored Division I to III is far
+less than the percentage of students scoring Division IV and
+zero (Table 1).
+From the data in Table 1, it can be argued that there are
+great challenges in improving performance in secondary
+education. This article is concerned with school perfor-
+mance, in terms of results obtained through national assess-
+ment of Form IV students, as one of the indicators for quality
+education. The article attempts to show how effective man-
+agement of school internal mechanisms (vision, mission, and
+school practices) contributes toward enhancement of perfor-
+mance and improved quality of education. The aim is to pro-
+vide an insight to educational practitioners on how schools
+with similar characteristics can best manage their internal
+mechanisms for improved performance.
+The study was conducted in the Eastern School Zone of
+Mainland Tanzania (Coast and Morogoro regions). Coastal
+region is on the Eastern part of Tanzania mainland and a
+large part of the region is situated along the Indian Ocean
+coastal belt. The region is located between latitudes 60° and
+80° south of the Equator and between longitudes 370°
+30and 400° east of Greenwich. Morogoro Region, how-
+ever, lies between latitude 5° 58 and 10° 0 to the south of
+the Equator and longitude 35° 25 and 35° 30 to the east
+(Figure 1).
+XXX10.1177/2158244015610172SAGE OpenChua and Mosha
+research-article2015
+1Dar es Salaam University College of Education, Tanzania
+2University of Dar es Salaam, Tanzania
+Corresponding Author:
+Consolata L. Chua, Department of Educational Foundations Management
+and Lifelong Learning, Dar es Salaam University College of Education, P.O.
+Box 2329, Dar es Salaam, Tanzania.
+Email: conso.chua@gmail.com
+Managing School Internal Mechanisms for
+Performance Improvement in Secondary
+Education: Case of Six Secondary Schools
+in Eastern Zone in Tanzania
+Consolata L. Chua1 and Herme J. Mosha2
+Abstract
+Recent apprehensions over the poor performance of secondary schools at ordinary level in Tanzania have given rise to
+concerns over the quality of education provided at this level. Addressing the issue of poor performance requires a gargantuan
+understanding of the environment under which these schools operate. This study explored how management of school
+internal mechanisms contributed toward enhancement of school performance for improved quality of secondary education
+in Tanzania. The article reports on the findings of a comparative case study conducted in six secondary schools in the Eastern
+Education zone of Tanzania. Findings revealed that, performance of schools was mainly attributed to the kind of management
+available in a particular school, which will ensure availability of workable and agreed on mechanisms of providing effective
+teaching and learning. The findings provide several important implications for education and school practitioners on how best
+to manage school internal mechanisms for improved performance.
+Keywords
+management, school internal mechanisms, quality education, performance, secondary school.
+2 SAGE Open
+Review of Literature
+The literature on school management reveals that, school man-
+agers play a central role in the success of the school and get-
+ting the system to operate effectively (Clarke, 2007; Van
+Deventer & Kruger, 2007). Their crucial role is explained by
+Palestini (2005), who offers that managers should provide
+strategy, vision, and strong leadership for the school. Apart
+from that, schools need to have in place a system of measuring
+learning outcomes of its learners and evaluating its results as a
+means of assessing the performance of the school in providing
+effective teaching and learning (Clarke, 2007). To achieve this
+goal, schools ought to have effective management which will
+ensure there are workable and agreed upon internal mecha-
+nisms where performance can be maximized. These roles
+seemed to be missing in six secondary schools investigated.
+Management can be defined as a process of coordinating,
+directing, and guiding the efforts of members of the organi-
+zation toward achievement of organizational goals (Mullins,
+2005). It is a process because it comprises a series of actions
+that lead to the achievement of organizational objectives
+such as planning, organizing, staffing, directing, and control-
+ling. Schools as organizations have set goals/performance
+standards which they want to achieve and therefore manage-
+ment becomes the key aspect through which these goals can
+be achieved for enhanced performance (Kapolesya, 2010;
+Nzigilwa, 2010). Schools therefore, ought to have effective
+management which will ensure there are feasible and estab-
+lished on internal mechanisms such as school vision, mis-
+sion, and practices which guide implementation of the
+day-to-day activities of the school. Furthermore, the exis-
+tence of experienced and committed leadership which will
+Table 1. Form Four Examination Results (CSEE) in Percentage by Division in Government and Non-Government Secondary Schools,
+2008-2012.
+Year
+Division
+Total number of candidates examined
+I to III (%) IV and 0 (failed; %)
+2008 26.7 73.3 162,855
+2009 17.9 82.1 248,336
+2010 11.4 88.6 351,214
+2011 10.7 89.3 324,216
+2012 6.3 93.7 367,756
+Source. Basic Education Statistics in Tanzania (The United Republic of Tanzania [URT], 2011, 2012a).
+Note. CSEE = Certificate of Secondary Education Examinations.
+Figure 1. A map showing study area in the coast and Morogoro regions.
+Source. Cartographic Unit, UDSM.
+Chua and Mosha 3
+ensure that the school vision, mission, and practices are
+owned and shared by all stakeholders is of paramount
+importance.
+A school vision is an aspiration of where the school wants
+to be and what it wants to achieve in future, hence gives a
+general picture of the work that needs to be done to attain it.
+Mission statement on the other hand stipulates how that
+vision is going to be achieved by stating what the school does
+right now in attaining the vision. It is from the school vision
+and mission that schools formulate strategic/action plans
+with targets to measure their progress toward attaining their
+vision (Gabriel & Farmer, 2009).
+It is therefore the role of heads of schools to create a cli-
+mate in their schools which will ensure that the vision and
+purpose of the school is clear to everyone (Nkosha &
+Mwanza, 2009) by encouraging and recognizing good per-
+formance from teachers and students through various forms
+of rewards so as to improve performance (Bottoms &
+Schmidt-davis, 2010; Mbiti, 2007; Nkosha & Mwanza,
+2009).
+Several studies have been carried out worldwide reveal-
+ing the role of heads of schools as managers in improving
+school performance. Day etal. (2009) conducted a study on
+the impact of school leadership on student outcome carried
+out in sampled 20 primary and secondary schools in London.
+The findings revealed that actions taken by heads of schools
+to set, renew, and review the vision and direction of their
+schools had a significant impact on their schools' climate,
+culture, approach to learning, leadership of teaching and
+learning, and above all on student attainment and progress.
+In another study performed in New York city on how school
+performance relates to the characteristics of school princi-
+pals, Clark, Martorell, and Rockoff, (2009) found that there
+was a positive relationship between principal's experience
+and school performance, implying that schools led by inex-
+perienced principals would reveal poor performance.
+According to Ngwako (2001), the management's ineffi-
+ciency to develop school vision and mission through a con-
+sultative process affects its implementation and subsequently
+the success of the school. These studies have one thing in
+common, which was revealing how important it was for the
+heads of schools to be competent enough to lead their schools
+in a visionary way for improved performance.
+In Tanzania, studies on performance in secondary educa-
+tion have focused more on the extent to which the school
+inspectorate genuinely addresses the issue of poor perfor-
+mance in science and mathematics in secondary schools (The
+United Republic of Tanzania [URT], 2008); how the Ministry
+of Education and Vocational Training supervises the large
+number of public, private, and community secondary schools
+for quality education (Chediel, Sekwao, & Kirumba, 2000).
+Although there is general concern on the performance of sec-
+ondary schools in general, community schools, which enroll
+the majority of the students have been found to have been
+performing very poorly as compared with public and private
+schools (URT, 2012b). Although all these studies dealt with
+performance issues, there is still a gap in literature on how
+internal school mechanisms are managed for performance
+improvement in secondary schools in Tanzania. To under-
+stand better on how management of internal mechanisms can
+influence performance, two management theories have been
+used to form the theoretical framework of this study.
+The most influential theories in providing educational
+managers with the background from which decisions can be
+made as well as authority be practiced are the management
+theories. These theories include motivational theories, scien-
+tific management theory, bureaucracy theory, contingency
+theories, and systems approach theory. However, the focus of
+this article is on motivational theories and the systems
+approach theory, as they provide educational managers with
+basic understanding on how to successfully manage educa-
+tional institutions for quality improvement.
+Motivational theories generally advocate that managers
+have the responsibility of motivating people in their institu-
+tions to work hard and be committed to their tasks so as to
+attain the vision set for the organization (Clarke, 2007).
+Theory X and Y and Maslow's theory are the two motiva-
+tional theories which explain more on motivation from the
+management point of view. In Theory X, the assumption is
+that workers are naturally lazy and would work as little as
+possible because they do not like responsibilities and prefer
+to be led by someone to do their responsibilities (Robbins,
+2005). This theory therefore suggests that for workers to per-
+form their responsibilities, punishments, force, or threaten-
+ing conditions must be used. Theory Y on the other hand
+believes that people are naturally not resistant or passive to
+the goals of the organization, rather they have the ability for
+assuming responsibilities, and exercise self-direction and
+self-control if they are committed to the objectives of the
+organization (Robbins, 2005). Thus, the attitude of any school
+manager on how he or she views people under him or her
+will have an impact on how those workers perform their
+responsibilities for achievement of the organizational goals.
+Maslow's theory of motivation assumes that individuals
+have a variety of needs, which need to be satisfied in sequence
+for them to work effectively. These needs according to
+Linstead, Fulop, and Lilley (2004) are categorized into high-
+and low-order needs. High-order needs include self-
+actualization, self-esteem, and the social acceptance needs,
+whereas the lower level needs are safety and security needs
+as well as basic physiological needs. This implies that school
+managers have the responsibility of not only understanding
+workers' needs but also find ways in which those needs can
+be met for the workers to be able to work effectively and
+achieve school goals.
+The importance of viewing schools as social systems being
+built up of interrelated parts which work together to achieve
+the objectives of the organization (Hoy & Miskel, 2008;
+Robbins, 2005) has roots in systems theory. These parts
+include the individuals in the organization, the departments,
+4 SAGE Open
+and even the environment which forms an important part of
+the survival of the organization. As such, school managers
+have the task of ensuring that every person and every part of
+the organization is of equal importance and works in harmony
+to achieve school goals.
+Method
+Research Design
+A comparative case study design was used in this study by
+comparing best and least performing secondary schools in
+the two administrative regions (Eastern zone) of Tanzania.
+As the study used multiple data generation techniques to
+understand the present status of the quality of secondary
+school education in Tanzania, by linking the management of
+school internal mechanisms with students' performance in
+secondary education, the use of a case study design was inev-
+itable. This meant that the results and methodology of this
+study can only be used for generalization in areas with simi-
+lar cases and characteristics.
+Sample Size and Sampling Method
+Eastern zone was purposively selected, based on data
+obtained from the National Examination Council of Tanzania
+(NECTA), which showed that the Eastern zone was one of
+the zones that had large schools with the best and worst
+results in the Certificate of Secondary Education Examination
+(CSEE). Out of 160 secondary schools in the Eastern zone,
+the three best and the three worst performing large secondary
+schools in the CSEE for 3 years (2010-2012) were selected
+and involved in the study. The rating is done at the zonal
+level by using students' performance in the national exami-
+nation. The sample size was 90 respondents, which included
+District Secondary Education Officers (DSEO), Secondary
+School Inspectors, Heads of Schools, teachers, students, and
+representatives of the School Boards (see Table 2).
+The sample size was considered sufficient for the purpose
+of the study, for in qualitative research the researcher's intent
+is to describe a particular context in depth and not to general-
+ize to a context or population.
+DSEO, the Zonal Chief Inspector of Schools (ZCIS), and
+the Heads of the best and least performing secondary schools
+were chosen on the merit of their positions as they were
+expected to be conversant with and well informed about the
+school internal mechanisms in their zone, districts, and
+schools, as well as the extent to which they were working.
+Teachers, who had taught for at least 2 years in the same
+school, were involved in the study as they were expected to
+provide information on the practices in place for ensuring
+that there was effective teaching and learning for improved
+performance in their schools. Form IV students were also
+selected because they were the class that had stayed longest
+in the school hence they were able to provide a clear picture
+of how well the teaching and learning process was managed
+in their schools. School board members were selected
+because they represent members of the community in school
+matters and were expected to have knowledge on how school
+internal mechanisms were used to ensure effective teaching
+and learning was taking place in schools.
+Data were gathered from documentary review, focus
+group discussions with teachers and students, and interviews
+with DSEOs, the ZCIS, representative member of the School
+Board, and Heads of Schools. Content analysis was the major
+tool for data analysis whereby information were put into a
+data spreadsheet and organized into themes of analysis based
+on research questions.
+Research Findings and Discussion
+The findings from interviews, focus group discussions, and
+documentary reviews of files in schools on management of
+school internal mechanisms revealed the following:
+School Internal Mechanisms for Enhanced
+Performance
+Information and data obtained through interviews with heads
+of schools and focus group discussions with teachers and stu-
+dents revealed that 60% of the respondents were aware of
+their schools' vision and how they were used to ensure
+enhanced academic performance. Thirty-eight percent of
+Table 2. Number of Respondents.
+Schools DSEO School's board member Heads of schools ZCIS Teachers Students Total
+School 1 01 01 01 01 06 06 15
+School 2 -- 01 01 06 06 15
+School 3 01 01 01 06 06 15
+School 4 01 01 01 06 06 15
+School 5 01 01 01 06 06 15
+School 6 01 01 01 06 06 15
+ 05 06 06 36 36 90
+Source. Field data.
+Note. DSEO = District Secondary Education Officers; ZCIS = Zonal Chief Inspector of Schools.
+Chua and Mosha 5
+respondents, majority of who were teachers and students
+from the least performing schools, were not aware of their
+school's vision and therefore could not relate how it was
+used to ensure enhanced academic performance in their
+schools. Schools'mottos were known as they were displayed
+in the school logo and/or on walls. Table 3 shows these
+findings.
+The findings in Table 3 were also supported by the docu-
+ments reviewed in the schools. The files in schools revealed
+that some schools, which said their vision was not known,
+had school development and action plan files. The files stated
+the vision and mission of the schools, hence were translated
+into development plans for the schools. As the school devel-
+opment plans were supposed to reflect the vision of the
+schools, the implication is that schools had visions but were
+not communicated to all members of the school to ensure
+realizations of the vision is attained and quality of education
+is improved.
+Focus group discussions with students from least per-
+forming schools indicated that teachers in their schools were
+not making enough efforts to ensure that the vision and mis-
+sion were used to enhance academic performance. One stu-
+dent stated that
+We have not seen how the vision and mission are used to enhance
+academic performance because we have not seen any efforts
+made by teachers to ensure academic performance is enhanced.
+There are only few teachers who attend classes, we don't get our
+progress reports at the end of term or year and therefore we do
+not even know how we have performed in the last year's exams
+and how we should improve. (FGD-D2SC3STS)
+These findings indicate that the vision and mission of this
+school were not shared with all implementers. This therefore
+shows that heads of schools who were the primary imple-
+menters and overseers of the school vision and mission had
+not done enough to ensure that all stakeholders shared and
+owned the vision so that it could lead to the formulation of a
+clear mission, aims, and goals of education at school level.
+The findings corroborate with Ngwako (2001) who found
+out that school management ability to involve stakeholders
+in the development of a vision affects its implementation and
+the performance of the school.
+D'Souza (2001) also stressed that schools need to ensure
+that there is an endless articulation and reinforcement of
+what the institution honors, values, believes, and cherishes to
+accomplish its goals. The importance of the leader to strive
+for a shared vision is well documented by Hoyle (2007) who
+posits that a shared vision will enable everyone to know what
+the organization is trying to do and where it is going. Lack of
+a shared vision in schools creates conflicts in the implemen-
+tation of school goals as members will be working without
+having a shared direction of where they want to go, what
+they aspire to attain, and how it is to be realized. It can there-
+fore be concluded that the heads of schools who were
+supposed to be on the frontline to ensure the vision was
+known and shared by all members of the school lacked not
+only the knowledge of the importance of the vision in their
+schools but also an effective system of communicating the
+vision to the members of the schools.
+Measures Set by Schools to Ensure Enhanced
+Academic Performance
+Interviews with heads of schools and board members and
+focus group discussions with students and teachers revealed
+that frequent internal examinations, and a reward system for
+good performance motivated teachers, and strict adherence
+to rules and regulations were measures used to ensure
+enhanced academic performance in their schools.
+In addition findings reveal that frequent internal examina-
+tions, which included weekly and monthly tests, were the
+most popular measure adopted by both best (64%) and least
+(67%) performing schools to ensure that there was enhanced
+academic performance in their schools. Table 4 shows these
+findings.
+However, there was a difference in the way the internal
+examinations were carried out between the best and least
+performing schools. Focus group discussion with teachers
+of the one of the best performing schools revealed the
+following:
+We have examinations every month which are marked, and
+prompt feedback is given to students followed by corrections.
+The continuous assessment comprises monthly and end of term
+examinations. Students are also trained on speed as monthly
+exams are done in a shorter time than the normal national
+examinations. Parents get feedback quarterly on the progress of
+their children. (FGD-D5SC6Tt)
+In the least performing schools, the internal examinations
+were used concurrently with quizzes and assignments. Apart
+from informing students and parents on their progress feed-
+back was also used as a way of identifying weak students to
+be given remedial classes. During Focus Group Discussion
+(FGD), teachers had the following to say:
+We have monthly tests which account for 30% in each quarter
+while midterm tests carry 70% of the marks. These tests give
+feedback to the students on their performance and help teachers
+identify weak students for remedial classes. There are also
+quizzes given to weak students and performance is reported to
+the academic master. (FGD-D4SC5Tt)
+The findings from both least and best performing schools
+indicated that at one point both schools had set equal strate-
+gies for improving performance, and yet there was a signifi-
+cant difference in performance between them. This implies
+that frequent tests and examinations alone could not contrib-
+ute to improved performance. Giving tests alone to students,
+6
+Table 3. Schools' Visions and Missions for Enhanced Academic Performance.
+Responses
+Best performing schools (n = 42) Least performing schools (n = 42)
+(%) (N = 84)
+HoS (n = 3) Tts (n = 18) Sts (n = 18) SBM (n = 3)
+Subtotal (%)
+(n = 42) HoS (n = 3) Tts (n = 18) Sts (n = 18) SBM (n = 3)
+Subtotal (%)
+(n = 42)
+Vision not known at all 02 -- 06 -- 8 (19) -- 06 18 -- 24 (57) 32 (38)
+Vision used to ensure
+students are well-taught and
+disciplined
+-- 12 -- -- 12 (28) 02 06 -- -- 8 (19) 20 (23)
+Vision known but no efforts to
+ensure enhanced academic
+performance
+-- -- 06 01 7 (17) -- -- -- 01 1 (2) 8 (10)
+Vision used to give tests,
+assignments, and quizzes
+regularly with timely feedback
+-- -- -- -- -- -- 06 -- -- 6 (14) 6 (7)
+Vision used to ensure syllabus
+is covered in the first term to
+have time for revision
+-- 06 -- -- 6 (14) -- -- -- -- 00 6 (7)
+Motto used regularly to remind
+students to have determination
+to perform well
+-- -- 06 -- 6 (14) -- -- -- -- 00 6 (7)
+Vision used to ensure
+environment is clean and
+students participate in
+extracurricular activities
+01 -- -- 01 2 (5) 01 -- -- -- 1 (2) 3 (4)
+Vision used to enroll students
+with high performance in
+entry examinations
+-- -- -- 01 1 (2) -- -- -- -- 00 1 (1)
+Vision used to enroll students
+with poor performance from
+same denomination
+-- -- -- -- 00 -- -- -- 01 1 (2) 1 (1)
+Source. Field data.
+Note. N = number; HoS = head of school; Tts = teachers; Sts = students; SBM = school board members.
+7
+Table 4. School Measures for Ensuring Enhanced Academic Performance.
+Responses
+Best performing schools (n = 42) Least performing schools (n = 42)
+Grand total
+(%) (N = 84)
+HoS (n = 3) Tts (n = 18) Sts (n = 18) SBM (n = 3)
+Subtotal (%)
+(n = 42) HoS (n = 3) Tts (n = 18) Sts (n = 18 SBM (n = 3)
+Subtotal (%)
+(n = 42)
+Frequent internal
+examinations
+1 12 12 2 27 (64) 3 12 12 1 28 (67) 55 (65)
+Reward system for good
+performance
+-- 6 6 1 13 (31) -- 12 -- -- 12 (28) 25 (30)
+Motivated teachers 1 6 12 1 20 (48) 1 -- -- 1 2 (5) 22 (26)
+Strict adherence to rules
+and regulations
+2 6 12 -- 20 (48) -- -- -- -- 00 20 (24)
+Contracted Form VI leavers
+to teach subjects with no
+teachers
+-- -- -- -- 00 1 -- 12 1 14 (33) 14 (17)
+The red carpet interview
+for failures
+1 6 -- -- 7 (17) -- -- 6 -- 06 (14) 13 (15)
+Expulsion/repetition
+for failures below set
+standard of performance
+-- -- 6 1 7 (17) -- -- -- 1 01 (2) 8 (10)
+Ensure have enough well-
+qualified teachers
+1 6 -- -- 7 (17) 1 -- -- -- 01 (2) 8 (10)
+Participate in subzonal
+exams to evaluate students
+1 -- -- -- 1 (2) 1 6 -- -- 7 (17) 8 (10)
+Strict on enrolment; take
+only those with highest
+marks
+1 6 -- -- 7 (17) -- -- -- -- 00 7 (8)
+Reinforced subject clubs for
+students
+1 -- -- -- 1 (2) -- -- 6 -- 06 (14) 7 (8)
+Provide remedial classes for
+weak students
+-- -- -- -- 00 1 6 -- -- 7 (17) 7 (8)
+Classroom observation
+by head of school and
+internal inspector
+-- -- -- -- 00 1 6 -- -- 7 (17) 7 (8)
+Use class journals to ensure
+teachers attend classes
+1 -- -- -- 1 (2) -- -- -- -- 00 1 (1)
+Check teachers' scheme
+of work and lesson plans
+regularly
+-- -- -- -- 00 1 -- -- -- 1 (2) 1 (1)
+Source. Field Data.
+Note. N = number; HoS = head of school; Tts = teachers; Sts = students; SBM = school board members.
+8 SAGE Open
+however, cannot bring about improvement if the feedback is
+not effectively used to improve students' learning. Tests and
+examinations conducted at school level are meant to inform
+teachers and students on areas that need more attention so
+that teachers can make improvements on how they teach and
+howbesttoassiststudentslearn(Ampiah,2011).Furthermore,
+Thoonen, Peter, Frans, Thea, and Femke (2011) add that
+assessment should be an ongoing activity whereby an effec-
+tive teacher can use different methods to monitor student's
+learning and give meaningful feedback for making
+improvement.
+Focus group discussion with students from best performing
+schools revealed the reasons for their excelling performance
+as compared with least performing schools. They maintained
+their schools had teachers who were motivated and hence con-
+tributed to improving their students' performance.
+. . . we have the best teachers most of whom are graduates and are
+enough in numbers. Our teachers are also very motivated as they
+volunteer to teach even at night where students also get a chance
+to ask questions on areas that need further clarifications . . .
+In addition, the best performing schools mentioned strict
+adherence to school rules and regulations (48%) which
+helped in maintaining discipline and creating a favorable
+environment for learning to take place. This factor was not
+mentioned by the least performing schools as one of their
+measures for enhancing performance. In this regard, the best
+performing schools had managed to create a favorable envi-
+ronment for teaching and learning to be more effective.
+According to Van Deventer and Kruger (2007), schools with
+poor culture of teaching and learning have among other
+things poor school results, and weak management and
+administration. Teachers who were motivated were reported
+to be concerned with their students and therefore spent extra
+time helping students in areas where they faced difficulties
+as well as ensuring that school rules and regulations were
+followed. Rules and regulations were said to be of use in
+maintaining discipline at school and therefore improving stu-
+dents' attention, striving for hard work and good perfor-
+mance. This implies that heads of schools had created a
+working climate in their schools where teachers felt comfort-
+able and happy to do their work.
+It has been noted by Nkosha and Mwanza (2009) that
+encouraging and recognizing good performance from teach-
+ers and students, through various forms of rewards, as well
+as creating good working climate for teachers ensure clarity
+of vision and purpose of the school to everyone. Improving
+professional development practices in terms of in house
+trainings, seminars, workshops, as well as providing them
+with necessary equipment and resources can also work as an
+effective motivational factor (Mbiti, 2007). These findings
+also concur with Clarke (2007) who advocated that leaders
+need to motivate their workers so as to work hard and be
+committed to their tasks to attain the vision set for the orga-
+nization. The findings therefore imply that the use of regular
+examinations and tests alone do not contribute to enhanced
+performance in schools. Motivation for teachers and stu-
+dents, good discipline, and a favorable learning environment
+must also be present.
+Conclusion and Recommendations
+The study contributes toward enhancing our understanding
+of the school internal mechanisms used by secondary schools
+in Tanzania for performance improvement. Although schools
+had developed internal mechanisms such as the vision and
+mission of the school, the challenge lay on how these schools
+used them to ensure performance was enhanced. Similarly,
+the use of examinations and tests was still the major strategy
+used by both best and least performing schools to ensure per-
+formance was improved. However, the findings have shown
+that this strategy alone was insufficient; other supporting
+measures like the presence of motivated teachers and adher-
+ence to rules and regulations must be present.
+Taken together, these findings suggest that management
+of school internal mechanisms play an important role in the
+improvement of school performance and ultimately the qual-
+ity of education provided.
+The study recommends that Heads of schools/school man-
+agers be trained and developed on the areas of developing,
+implementing, monitoring, and evaluation of school vision,
+mission, and development plans to ensure that realistic goals on
+teaching and learning are set and attained and continuously
+improved for realization of quality education. Furthermore,
+schools should institute their own mechanisms for ensuring
+that there is timely and effective feedback to both students and
+teachers on how they have performed. This will help in the
+overall improvement of teaching and learning practices. In
+addition, teacher professional development can work as an
+effective motivational factor for teachers to work toward real-
+ization of goals set by the school. This can include in house
+trainings, workshops, and seminars on issues related to school
+goals and objectives.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research and/or
+authorship of this article.
+References
+Ampiah, J. G. (2011). Quality basic education in Ghana:
+Prescription, practice and problems. Africa-Asia University
+Dialogue for Educational Development, 2(4), 137-154.
+Bottoms, G., & Schmidt-davis, J. (2010). The three essentials
+to improving schools. Retrieved from http://www.wal-
+lacefoundation.org/knowledge-center/school-leadership/
+district-policy-and-practice/Documents/Three-Essentials-to-
+Improving-Schools.pdf
+Chua and Mosha 9
+Chediel, R. W., Sekwao, N., & Kirumba, P. L. (2000). Private and
+community schools in Tanzania (Mainland). Paris, France:
+International Institute for Educational Planning/UNESCO.
+Available from www.unesco.org/iiep
+Clarke, A. (2007). The handbook of school management. Cape
+Town, South Africa: Kate McCallum.
+D'Souza, A. (2001). Leadership. Nairobi, Kenya: Pauline's
+Publications Africa.
+Clark, D., Martorell, P., & Rockoff, J. (2009). School principals
+and school performance. Washington, DC: Calder.
+Day, C., Sammons, P., Hopkins, D., Harris, A., Leithwood, K., Gu,
+Q., . . . Kington, A. (2009). The impact of school leadership on
+pupil outcomes. Retrieved from http://dera.ioe.ac.uk/11329/1/
+DCSF-RR108.pdf
+Linstead, S., Fulop, L., & Lilley, S. (2004). Management and organ-
+isation: A critical text (Illustrate). Palgrave Macmillan Limited.
+Retrieved fromhttp://books.google.co.tz/books/about/Management_
+and_Organization.html?id=dquFQgAACAAJ&redir_esc=y
+Gabriel, J. G., & Farmer, P. C. (2009). Developing a vision and a
+mission. In J. G. Gabriel & P. C. Farmer (Eds.), How to help
+your school thrive without breaking the bank. Association
+for Supervision & Curriculum Development. Retrieved from
+http://www.ascd.org/publications/books/107042/chapters/
+Developing-a-Vision-and-a-Mission.aspx
+Hoy, W., & Miskel, C. G. (2008). Educational administration:
+Theory, research and practice. New York, NY: Random House.
+Hoyle, D. (2007). Quality management essentials. Oxford, UK:
+Elsevier.
+Kapolesya, M. K. (2010). Factors determining good academic per-
+formance in Catholic seminaries and a few private denomina-
+tional secondary schools in national examination--Tanzania.
+Dar es Salaam, Tanzania: University of Dar es Salaam.
+Mbiti, D. (2007). Foundations of school administration (Rev. ed.).
+Nairobi, Kenya: Oxford University Press East Africa.
+Moloi, K. C. (2003). The school as a learning organisation (2nd
+ed.). Pretoria, South Africa: Van Schaik Publishers.
+Mullins, L. J. (2005). Management and organisational behaviour
+(7th ed.). Harlow, UK: Pearson Education.
+Ngwako, S. (2001). The importance of vision and mission state-
+ments in promoting school effectiveness in Northern
+Province schools. Rand Afrikaans University. Retrieved from
+https://ujdigispace.uj.ac.za/bitstream/handle/10210/5830/
+S.N.MODIBA_2001_PHD.pdf?sequence=3
+Nkosha, D. C., & Mwanza, P. (2009). Quality of basic educa-
+tion provided by rural community and regular schools in
+the Northern province of Zambia. Journal of International
+Cooperation in Education, 12, 19-32.
+Nzigilwa, E. A. (2010). The role of school leaders in influencing
+students' achievement in secondary schools. Dar es Salaam,
+Tanzania: University of Dar es Salaam.
+Palestini, R. (2005). Educational administration: Leading with
+mind and heart (2nd ed.). New York, NY: Rowman & Little
+Field Education.
+Robbins, S. (2005). Organizational behavior (11th ed.). Upper
+Saddle River, NJ: Pearson Education.
+Thoonen, E. E. J., Peter, J. C. S., Frans, J. O., Thea, T. D. P., &
+Femke, P. G. (2011). How to improve teaching practices: The
+role of teacher motivation, organizational factors and leadership
+practices. Educational Administration Quarterly, 47, 496-536.
+Retrieved from http://eaq.sagepub.com/content/47/3/496
+The United Republic of Tanzania. (2008). A performance audit
+report on school inspection programme for secondary schools
+in Tanzania. Retrieved from http://www.nao.go.tz/?wpfb_
+dl=29CCI/CAG Report - Performance Audit on School
+Inspection - 2010.pdf
+The United Republic of Tanzania. (2011). Basic education sta-
+tistics in Tanzania 2007­2011 national data. Dar es Salaam,
+Tanzana: Ministry of Education and Vocational Training.
+The United Republic of Tanzania. (2012a). Basic education statis-
+tics in Tanzania 2012 national data. Dar es Salaam, Tanzania:
+Ministry of Education and Vocational Training.
+The United Republic of Tanzania. (2012b). Tanzania education sec-
+tor analysis: Beyond primary education, the quest for balanced
+and efficient policy choices for human development and eco-
+nomic growth (SN/2012/ED/PI/1). Dakar, Senegal: UNESCO
+Van Deventer, I., & Kruger, A. G. (Ed.). (2007). An educator's
+school management skills. Pretoria, South Africa: Van Schaik.
+Author Biographies
+Consolata L. Chua is a lecturer in Education and Management at
+the Dar es Salaam University College of Education (DUCE) which
+is a constituent College of the University of Dar es Salaam.
+Herme Joseph Mosha is a professor in the School of Education at
+the University of Dar es Salaam. He has writen widely in the area of
+policy and planning in Education.
+

@@ -1,0 +1,1140 @@
+Instability and indeterminacy
+in a simple search and matching model
+Michael Krause
+(Deutsche Bundesbank)
+Thomas Lubik
+(Federal Reserve Bank of Richmond)
+Discussion Paper
+Series 1: Economic Studies
+No 25/2010
+Discussion Papers represent the authors' personal opinions and do not necessarily reflect the views of the
+Deutsche Bundesbank or its staff.
+Editorial Board: Klaus Düllmann
+Frank Heid
+Heinz Herrmann
+Karl-Heinz Tödter
+Deutsche Bundesbank, Wilhelm-Epstein-Straße 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-0
+Telex within Germany 41227, telex from abroad 414431
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978-3­86558­666­7 (Printversion)
+ISBN 978-3­86558­667­4 (Internetversion)
+Abstract:
+We demonstrate the possibility of indeterminacy and non-existence of equilibrium dynam-
+ics in a standard business cycle model with search and matching frictions in the labor
+market. Our results arise for empirically plausible parametrizations and do not rely upon
+a mechanism such as increasing returns.
+Keywords:
+Search and matching, indeterminacy, match elasticity
+JEL-Classi...cation:
+E24, E32, J64
+1
+Non-technical summary
+In macroeconomic models where individual behavior is forward-looking, there exists the
+possibility that beliefs about future economic variables can lead to aggregate self-full...lling,
+or sunspot, 
+uctuations. The reason for such a possibility lies in the fact that when agents
+make their choices, they form rational expectations by extrapolating their behavior, and
+that of the economy, into the future. In a `
+regular'economic system, non-optimal choices
+lead to unstable solutions that would explode or implode, just leaving one unique stable
+equilibrium path as the rational, determinate, solution. In an `
+irregular'system, there
+are many choices agents can make today which are optimal and still not lead to explosive
+solutions. In this case, there are many equilibrium adjustment paths, which is problematic
+for the analysis of economic 
+uctuations. Whether there is indeterminacy or determinacy
+in an economic model'
+s rational expectations equilibrium depends on the model'
+s assumed
+structure and parameter values.
+The search and matching model of Mortensen and Pissarides (1994) has become a
+popular and successful framework for analyzing labor market dynamics in dynamic sto-
+chastic general equilibrium (DSGE) models. In this article, we point out a potentially
+problematic feature of this framework. We show that the solution to the dynamic model
+can be non-existent or indeterminate. In particular, uniqueness problems arise when en-
+dogenous matching in response to labor market pressures is not elastic enough. In such
+a scenario, self-full...lling expectations, `
+sunspots'
+, can lead to business cycle 
+uctuations.
+On the other hand, a solution does not exist when matching is too elastic. While these
+determinacy problems are plausible outcomes, we argue that they are not likely, as they
+are associated with regions of the parameter space that are at the extremes of typical
+calibrations.
+The intuition for the occurence of indeterminacy of an expectational equilibrium can
+be illustrated as follows. Suppose agents expect for some non-fundamental reason that
+unemployment increases in the future, which would reduce hiring costs in the future.
+This would motivate ...rms to hire less workers today, which would in fact lead to higher
+unemployment. Usually such non-fundamental expectations could be ruled out, since
+they would lead to ever increasing unemployment rates, which would lead the system
+to collapse, and thus cannot be a rational expectation. However, there are parameter
+constellations in the labor market model, in which non-fundamental expectations of ...rms
+could lead to rather falling unemployment. This is the case when the hiring costs (which
+depend on unemployment as well) only weakly react to such expectations. Then the
+above mentioned cost saving motive is not present. Then arbitrary non-fundamental
+2
+expectational changes can have real e¤ects on today'
+s behavior, but eventually correct
+themselves, and the system would, along the relevant adjustment path, return to the
+long-run equilibrium.
+3
+Nicht-technische Zusammenfassung
+In makro-ökonomischen Modellen in denen individuelles Verhalten vorausschauend ist,
+besteht die Möglichkeit, dass Mutmaß
+ungen über zukünftige ökonomische Variablen zu
+sich selbst erfüllenden aggregierten Fluktuationen führen. Man spricht in diesem Kon-
+text auch von durch Sonnen
+ecken hervorgerufenen Fluktuationen. Die Ursache für solch
+eine Möglichkeit liegt in der Tatsache, dass, wenn ökonomische Akteure ihre Entschei-
+dungen tre¤en, sie rationale Erwartungen bilden, indem sie ihr Verhalten und das der
+Volkswirtschaft in die Zukunft fortschreiben. In einem "regulären" ökonomischen Sys-
+tem führen nicht-optimale Entscheidungen zu instabilen Lösungen, die explodieren oder
+implodieren, so dass nur ein eindeutiger stabiler Gleichgewichtspfad als rationale, deter-
+minierte Lösung übrig bleibt. In einem "nicht-regulären"System gibt es viele Entschei-
+dungen die heute von Akteuren getro¤en werden können, die optimal sind und dennoch
+nicht zu explosiven Lösungen führen. In diesem Fall gibt es viele gleichgewichtige Anpas-
+sungspfade, was für die Analyse von wirtschaftlichen Schwankungen problematisch ist. Ob
+Nicht-Determiniertheit oder Determiniertheit des rationalen Erwartungsgleichgewichts
+eines ökonomischen Modells vorliegt, hängt von der angenommen Struktur des Modells
+und den Parameterwerten ab.
+Das `
+search und matching'
+-Modell der Sucharbeitslosigkeit von Mortensen und Pis-
+sarides (1994) ist ein bevorzugter Rahmen zur Analyse von Arbeitsmarktdynamik in
+dynamischen, stochastischen, allgemeinen Gleichgewichtsmodellen (DSGE). In die-sem
+Artikel zeigen wir einen potentiell problematischen Aspekt dieses Modells auf und zeigen,
+dass eine Lösung des Models nicht-existent oder undeterminiert sein kann. Insbesondere
+ergeben sich Probleme der Eindeutigkeit des Gleichgewichts, wenn die Rate mit der neue
+Arbeitsverhältnisse zustande kommen, nicht stark genug auf sich ändernde Arbeitsmark-
+tbedingungen reagiert. In solch einem Szenario kann es also auch in einem Arbeitsmarkt-
+modell zu Fluktuationen auf Basis von sich selbst erfüllenden Erwartungen kommen. Auf
+der anderen Seite kann auch dann kein Gleichgewicht vorliegen, wenn die Rate mit der
+Arbeitsverhältnisse zustande kommen, zu stark auf Arbeitsmarktbedingungen reagiert.
+Obgleich diese Determiniertheitsprobleme prinzipiell möglich sind, bewerten wir sie als
+nicht wahrscheinlich, da hierzu Parameterwerte nötig sind, die aus Sicht von typischen
+Kalibrierungen eher extrem sind.
+Die Intuition für das Auftreten von Nichtdeterminiertheit eines Erwartungsgleichgewichts
+kann wie folgt illustriert werden. Man nehme an, dass ohne fundamentalen Anlass ein
+Anstieg von Arbeitslosigkeit für zukünftige Perioden erwartet wird, was in der Zukunft
+Kosternersparnisse bei den Einstellungen ermöglichen sollte. Diese würden Firmen mo-
+4
+tivieren, heute weniger Arbeitskräfte einzustellen, was dann tatsächlich zu höherer Ar-
+beitslosigkeit führt. Normalerweise können solche fundamental nicht gerechtfertigten Er-
+wartungen ausgeschlossen werden, da sie zu immerwährend steigenden Arbeitslosenraten
+führten, bis das System kollabiert, was keine rationale Erwartung sein kann. Es gibt allerd-
+ings Parameterkonstellationen des Arbeitsmarktmodells, in denen nicht-fundamentale Er-
+wartungen der Firmen heute tendenziell zu fallender Arbeitslosigkeit führen. Dies ist der
+Fall, wenn Einstellungskosten relativ schwach auf diese Erwartungen reagieren, sodass das
+obengenannte Kostenersparnismotiv entfällt. Dann würden beliebige nicht-fundamentale
+Erwartungsänderungen zwar E¤ekte auf das Verhalten haben, sich aber am Ende selbst
+korrigieren, und das System würde auf dem entsprechenden Pfad wieder zum langfristigen
+Gleichgewicht zurück...nden.
+5
+Contents
+1 Introduction 1
+2 A Canonical DSGE Model with Labor Market
+Search and Matching 2
+3 Steady State and Calibration 6
+4 Indeterminacy and Non-Existence 7
+5 Conclusion 12
+List of Figures
+1 Determinacy Regions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Instability and Indeterminacy in a Simple Search and Matching
+Model1
+1 Introduction
+The search and matching model of Mortensen and Pissarides (1994) has become a popu-
+lar and successful framework for analyzing labor market dynamics in dynamic stochastic
+general equilibrium (DSGE) models.2 In this article, we point out a potentially problem-
+atic feature of this framework. We show that the solution to the dynamic model can be
+non-existent or indeterminate. In particular, uniqueness problems arise when endogenous
+matching in response to labor market pressures is not elastic enough. In such a scenario,
+extraneous uncertainty, `
+sunspots'
+, can lead to business cycle 
+uctuations even in the
+absence of any other disturbances. On the other hand, a solution does not exist when
+matching is too elastic. While these determinacy problems are plausible outcomes, we
+argue that they are not likely, as they are associated with regions of the parameter space
+that are at the extremes of typical calibrations.
+Indeterminacy in search and matching models has previously been addressed by Gi-
+ammarioli (2003). Her article di¤ers from ours in that it introduces increasing returns
+in the matching function, which is a well known mechanism to generate multiplicity in
+DSGE models (see Farmer and Guo, 1994). We show that indeterminacy in the search
+and matching model can arise even under constant returns. Our paper is closer to Burda
+and Weder (2002) in this respect. Their indeterminacy results are driven, however, by the
+existence of labor market distortions, such as taxes, and the associated ...scal policy func-
+tions, and not by the features of the matching process per se. More recently, Hashimzade
+and Ortigueira (2005) analyzed the determinacy properties of a real search and matching
+model with capital. They show numerically how for a given parameterization the model
+admits sunspot equilibria. Zanetti (2006) incorporates the standard search and matching
+model into a New Keynesian DSGE model, where monetary policy is governed by an
+interest rate feedback rule. He shows that this expands the region of the parameter space
+where the Taylor principle, and thus equilibrium uniqueness, is violated. However, his
+1We are grateful to Andreas Hornstein, Anne Davlin, Marianna Kudlyak, and Alex Wolman for
+useful comments. The views expressed in this paper are those of the authors and should not neces-
+sarily be interpreted as those of the Federal Reserve Bank of Richmond or the Federal Reserve Sys-
+tem. Krause: Economic Research Centre, Wilhelm-Epstein-Str. 14, 60431 Frankfurt, Germany. Email:
+michael.u.krause@bundesbank.de. Lubik: Research Department, Federal Reserve Bank of Richmond.
+P.O. Box 27622, Richmond, VA 23261. Email: thomas.lubik@rich.frb.org.
+2A non-exhaustive list of references includes Merz (1995), Andolfatto (1996), Cooley and Quadrini
+(1999), den Haan et al. (2000), Krause and Lubik (2007), and Trigari (2009).
+1
+paper focuses on the monetary policy rule as a source of indeterminacy. Labor market
+search and matching only provides a transmission mechanism, but is not analyzed as an
+independent factor of determinacy problems.
+This article proceeds as follows. We present a canonical DSGE model with search and
+matching frictions in the next section. This is a bare-bones version of the model that does
+not rely on any increasing returns to scale in the functional forms. Our model speci...cation
+has the advantage that the determinacy regions can be characterized largely analytically.
+Section 2 discusses issues related to the calibration of this model, while section 3 derives
+its determinacy properties, both analytically and numerically. The ...nal section brie
+y
+summarizes and concludes.
+2 A Canonical DSGE Model with Labor Market
+Search and Matching
+We develop a simple version of a discrete-time DSGE model with search and matching
+frictions in the labor market.3 Key to the search and matching model is that new employ-
+ment relationships are the result of time-consuming search, both by ...rms and potential
+workers. In order to hire workers, ...rms have to advertise open positions ...rst; they have to
+post vacancies which is assumed to be costly. Existing matches between workers and ...rms
+are subject to job destruction, which leads to a 
+ow of workers into the unemployment
+pool. The behavior of the aggregate economy is governed by the choices of a representa-
+tive household, which desires to smooth consumption. The household engages in perfect
+risk-sharing between its employed and unemployed members. The latter enjoy unemploy-
+ment bene...ts while searching for a job. We employ some simplifying assumptions later
+on which lead to steady-state and dynamic equations that can be solved analytically. The
+properties of the full model are then analyzed numerically.
+Time is discrete. One period in the model is assumed to be a quarter. There is a
+continuum of identical ...rms that employ workers each of whom inelastically supplies one
+unit of labor.4 Output y of a typical ...rm is linear in employment n:
+yt
+= nt
+: (1)
+The matching process is represented by a constant-returns matching function, m(ut
+; vt
+) =
+mut
+v1
+t
+, of unemployment u and vacancies v, with parameters m > 0 and 0 < < 1.
+3The model is similar to Lubik (2009), to which we refer the reader for additional discussion and
+references.
+4For expositional convenience, we present the problem of a representative ...rm only, and abstract from
+indexing the individual form and aggregation issues.
+2
+It captures the number of newly formed employment relationships that arise out of the
+contacts of unemployed workers and ...rms seeking to ...ll open positions. Unemployment
+is de...ned as:
+ut
+= 1 nt
+; (2)
+which is the measure of all potential workers in the economy who are not employed at the
+beginning of the period and are thus available for job search activities.
+In
+ows to unemployment arise from exogenous job destruction at rate 0 < < 1.
+Employment therefore evolves according to:
+nt
+= (1 )[nt 1
++ m(ut 1
+; vt 1
+)]: (3)
+Note that newly matching workers that are separated from their job within the period
+re-enter the matching pool immediately. We can de...ne q( t
+) as the probability of ...lling
+a vacancy, or the ...rm-matching rate, where t
+= vt
+=ut
+. We refer to as the degree of
+labor market tightness. In terms of the matching function, we can write this as q( t
+) =
+m(ut
+; vt
+)=vt
+= m t
+. Similarly, the probability of ...nding a job, the worker-matching
+rate, is p( t
+) = m(ut
+; vt
+)=ut
+= m 1
+t
+. An individual ...rm is atomistic in the sense that
+it takes the aggregate matching rate q( t
+) as given. The employment constraint on the
+...rm'
+s decision problem is therefore:
+nt
+= (1 )[nt 1
++ vt 1
+q( t 1
+)]; (4)
+that is, it is linear in vacancy postings.
+Firms maximize pro...ts, using the discount factor t t
+0
+(to be determined below):
+max
+fvt;ntg1
+t=0
+1
+X
+t=0
+t t
+0
+[nt
+wt
+nt
+vt
+] + (5)
++
+1
+X
+t=0
+t t
+0
+t
+[(1 )[nt 1
++ vt 1
+q( t 1
+)] nt
+] :
+Wages paid to the workers are wt
+, while > 0 is a ...rm'
+s cost of opening a vacancy. is
+the Lagrange-multiplier on the ...rm'
+s employment constraint. It can be interpreted as the
+marginal value of a ...lled position. Firms decide on how many vacancies to post (which
+can be turned into employment relationships) and how many workers to hire. The ...rst
+order conditions are:
+nt
+: t
+= 1 wt
++ (1 ) t+1
+t
+t+1
+; (6)
+vt
+: = (1 ) t+1
+t
+t+1
+q( t
+); (7)
+3
+which imply a job creation condition:
+q( t
+)
+= (1 ) t+1
+t
+1 wt+1
++
+q( t+1
+)
+: (8)
+This optimality condition trades o¤the expected hiring cost (which depends on the success
+probability q( t
+)) against the bene...ts of a productive match (which consists of the output
+accruing to the ...rms net of wage payments and the future savings on hiring costs when the
+current match is successful. These costs are identical to the value of a job in equilibrium).
+We assume that the economy is populated by a representative household. The house-
+hold is composed of workers, who are either unemployed or employed. If they are unem-
+ployed they are compelled to search for a job, but they can draw unemployment bene...ts
+b. Employed members of the household receive pay w, but share this with the unem-
+ployed. They do not su¤er disutility from working and supply a ...xed number of hours.5
+The household'
+s only choice variable is consumption, so that its optimization problem is
+trivial:
+max
+fCtg1
+t=0
+1
+X
+t=0
+t
+C1
+t
+1
+1
+; (9)
+subject to:
+Ct
+= Yt
+; (10)
+where C is consumption and Y is income earned from labor and residual pro...ts from
+the ...rms; 0 < < 1 is the discount factor, and 1 is the intertemporal elasticity of
+substitution. From the household'
+s (trivial) ...rst-order condition we ...nd that t
+= Ct
+,
+where is the multiplier on the household'
+s budget constraint. In equilibrium, total
+income accruing to the household equals net output in the economy, which is composed
+of production less real resources lost in the search process:
+Yt
+= yt
+vt
+: (11)
+Finally, we need to derive how wages are determined. We assume that wages are set
+according to the Nash bargaining solution.6 Firms and workers maximize the bargaining
+function:
+max
+wt
+(Wt
+) (Jt
+)1 : (12)
+5We thus assume income pooling between employed and unemployed households, and abstract from
+potential incentive problems concerning labor market search. This allows us to treat the labor market
+separate from the consumption choice. See Merz (1995) and Andolfatto (1996) for discussion of these
+issues.
+6This is a standard assumption in the literature. Shimer (2005) provides further discussion.
+4
+with respect to the variable over which the two parties bargain, namely the wage wt
+. This
+results in the sharing rule:
+Jt
+= (1 ) Wt
+: (13)
+Wt
+denotes the match surplus accruing to the worker, while Jt
+is the ...rm'
+s surplus, that
+is, the value of a ...lled job. The latter can be found from the ...rm'
+s optimization problem.
+It is equal to the Lagrange-multiplier on the employment constraint t
+, and is the shadow
+value of a ...lled position; to wit, Jt
+= t
+. From the ...rst-order condition with respect to
+employment we ...nd:
+Jt
+= 1 wt
++ (1 ) t+1
+t
+Jt+1
+: (14)
+The expression states that the value of a ...lled job is its marginal product, 1, net of wage
+payments wt
+; but it also has a continuation value Jt+1
+, which is discounted at the time
+preference rate , and assuming that the ...lled job is still there next period. The latter is
+captured by the survival rate (1 ).
+We can derive the worker'
+s surplus as follows. The worker receives payment in form
+of the wage wt
+. But while he is working, he loses the value of being unemployed b. The
+latter can be interpreted as the money value of enjoying leisure, engaging in household
+production, or simply unemployment bene...ts. Therefore, the current period net return
+is wt
+b. In the next period, the worker receives the continuation value Wt+1
+, which is
+discounted at rate . The worker has to take into account that he might not be employed
+next period, which is captured by the survival rate (1 ), adjusted for the fact that a
+separated worker might not ...nd a job again with probability [1 p( t
+)]. Putting it all
+together, we have:
+Wt
+= wt
+b + (1 ) [1 p( t
+)] t+1
+t
+Wt+1
+: (15)
+The two marginal values can now be substituted into the sharing rule, and after some
+algebra using the ...rm'
+s ...rst-order conditions, we can ...nd the Nash-bargained wage:
+wt
+= (1 + t
+) + (1 )b: (16)
+We can now use this wage equation to derive the job creation condition:
+q( t
+)
+= (1 )
+Yt
+Yt+1
+(1 ) (1 b) t+1
++
+q( t+1
+)
+; (17)
+where we have used the ...rst-order conditions of the household to eliminate the Lagrange-
+multiplier from the discount factor. The dynamics of the model are given by the
+...ve equations in ...ve unknowns: (2), (3), (11), (17), and the de...nition of labor market
+tightness t
+.
+5
+3 Steady State and Calibration
+We ...rst compute the deterministic steady state of the model. We then linearize the
+dynamic system around the steady state and analyze the local determinacy properties of
+the economy. The equations describing the steady state are:
+u = 1 n; (18)
+=
+v
+u
+; (19)
+n =
+1
+mv1 u ; (20)
+Y = n v; (21)
+(1 )(1 b) =
+1 (1 )
+(1 ) m
++ c : (22)
+(20) is the employment accumulation equation. It stipulates that in
+ows and out
+ows
+of the unemployment pool have to be equal. In a steady-state equilibrium, the number
+of separated workers n has to equal newly hired workers. Eq. (22) is the job creation
+condition, while the other equations are de...nitions.
+There are ...ve endogenous variables (u, n, v, , y) and seven structural parameters ( ,
+m, , , , , b). Because of the non-linearity in the last equation there is no analytical
+solution to this system. Given values for the parameters, however, we can compute a
+numerical solution. Using a non-linear equation solver we determine from Eq. (22).7
+From Eq. (20) we can ...nd u = 1 + 1 m 1
+1
+, and the solution for the other variables
+follows immediately.
+We ...nd it more convenient, however, to calibrate the model by ...xing the steady
+state unemployment rate u = u. This implies that one parameter has to be determined
+endogenously. Additionally, we can ...x the endogenous matching rate q = m by using
+evidence on the rates at which ...rms ...ll vacancies. Hence, another parameter has to be
+determined endogenously. Using n = 1 u in (20) we ...nd that the match e¢ ciency
+parameter is m =
+1
+1 u
+u
+q1 and labor market tightness is = m
+q
+1=
+. From (22)
+we can then also compute: 1 b =
+1
++ 1
+1
+1 (1 )
+(1 ) m
+. Note, however, that this condition
+does not pin down b and independently, nor does any other restriction in the model.
+Eq. (21) helps only insofar it restricts such that y remains positive. We chose to ...x the
+vacancy cost parameter and let the bene...t parameter b be determined endogenously.
+7Since the function in is monotonically increasing for non-negative there is a unique solution to
+this equation as long as 0 b < 1. This re
+ects the fact that the outside option of the worker, namely
+staying unemployed, cannot be larger than the worker'
+s marginal product, i.e. the maximum rent that
+the worker can extract from the ...rm.
+6
+For our calibration exercise we set the discount factor = 0:99. We choose a separation
+rate of = 0:1. This is consistent with the evidence reported in Shimer (2005) and Lubik
+(2010), who uses various econometric methods to estimate this parameter from U.S. labor
+market data. We agnostically set the bargaining parameter = 0:5 and follow most of
+the literature in this respect. Similarly, the match elasticity = 0:5, which is on the
+low end of estimates in the literature. Note that this benchmark calibration implements
+the Hosios-condition, under which the market allocation in the model is socially e¢ cient.
+The value for the match elasticity is at the low end of the plausible range as reported
+in the empirical study by Petrongolo and Pissarides (2001). We set the intertemporal
+substitution elasticity = 1.
+Finally, the two steady state values are chosen as follows. We ...x the unemployment
+rate u at 12%. Our idea is to capture both measured unemployment in terms of recipients
+of unemployment bene...ts and potential job searchers that are only marginally attached to
+the labor force, but are open to job search. Since we do not model labor force participation
+decisions, this is a shortcut to capturing e¤ective labor market search. This approach has
+been taken by Cooley and Quadrini (1999) and Trigari (2009). In choosing the steady
+state job matching rate we follow den Haan et al. (2000) who set q = 0:7. In the numerical
+determinacy analysis below we conduct robustness checks for selected parameters and the
+calibrated steady-state values by varying them over their admissible range.
+4 Indeterminacy and Non-Existence
+We now proceed by linearizing the dynamic equilibrium conditions around the steady
+state. It is a well-known feature of linear rational expectations models that they can have
+multiple equilibria, or that the solution may not even exist. We show that both scenarios
+are possible outcomes in the standard search and matching model, but they are associated
+with regions at the fringes of the parameter space. The linearized system is as follows
+(where b
+xt
+= log xt
+log x denotes the percentage deviation of the variable xt
+from its
+steady state x):
+u b
+ut
+= n b
+nt
+; (23)
+b
+t
+= b
+vt
+b
+ut
+; (24)
+b
+nt+1
+= (1 )b
+nt
++ (1 )b
+vt
++ b
+ut
+; (25)
+b
+Yt
+=
+n
+y
+b
+nt
+v
+y
+b
+vt
+; (26)
+b
+t
+b
+Yt
+=
+m
+X 1b
+t+1
+b
+Yt+1
+; (27)
+7
+where X = 1
+(1 ) m
+.
+It is straightforward to substitute out b
+ut
+, b
+vt
+, and b
+Yt
+, so that we are left with:
+b
+t+1
+b
+nt+1
+=
+"
++ v
+y
+1
++ (1 ) 2
+1
+2
+1 u
+(1 ) u
+u
+#
+b
+t
+b
+nt
+; (28)
+where 1
+= (1 )( m 1 ) + v
+y
+and 2
+= n
+y
+(1 + ). This reduced form is
+expressed in terms of the state (or predetermined) variable b
+nt
+and the jump variable b
+t
+,
+which is a function of vacancy postings b
+vt
+. The stability properties of the solution depend
+on the eigenvalues of the coe¢ cient matrix. A unique solution requires that one root be
+inside the unit circle and the other root outside. Indeterminacy arises when both roots
+are inside the unit circle, while non-existence occurs with both roots being explosive. In
+the former case, both equations are dynamically stable and in...nitely many adjustment
+paths (starting from arbitrary initial conditions) towards the unique steady state exist.
+In the latter case, both equations are explosive, which implies that from any arbitrary
+initial condition employment and vacancies would grow without bounds. This violates
+transversality or boundary conditions and can therefore not be an equilibrium.
+The coe¢ cient matrix is su¢ ciently complicated to prevent simple analytical deriva-
+tions of the equilibrium regions. For illustrative purposes and for gaining intuition, we
+therefore make the simplifying assumption that the representative household is risk-
+neutral, = 0. Later on, we then discuss the general case using simulation results.
+Under risk-neutrality, the coe¢ cient matrix reduces to:
+(1 )( p)
+0
+(1 ) u
+u
+: (29)
+Since the coe¢ cient matrix is triangular the eigenvalues can be read o¤ the principal
+diagonal. Recall that the worker matching rate p = m 1 , which is equal to
+1
+1 u
+u
+. Since
+we are treating the unemployment rate as a parameter to be calibrated, the determinacy
+conditions therefore only depend on structural parameters.
+We establish the determinacy properties in the following proposition.
+Proposition 1 1. The model solution is indeterminate if and only if
+(a) 0 < < 2u;
+(b) 0 < < (1 )
+1+ (1 )
+p:
+2. The model solution is non-existent if and only if
+8
+(a) > 2u > 0;
+(b) (1 )
+1+ (1 )
+p < < 1:
+3. The model solution is unique if and only if either
+(a) 0 < < 2u;
+(b) (1 )
+1+ (1 )
+p < < 1;
+or
+(c) > 2u > 0;
+(d) 0 < < (1 )
+1+ (1 )
+p:
+Proof. Indeterminacy requires both roots inside the unit circle. Call 2
+= u
+u
+. It
+is straightforward to verify that j 2
+j < 1 over the permissible range i¤ 0 < < 2u.
+Call the other root 1
+=
+(1 )( p)
+. We have to distinguish two cases: if > p
+no parameter combination can be found such that j 1
+j < 1. If < p we can write
+(1 )( p) > > (1 )( p). Simple algebra in combination with > 0
+then yields 1(b). Non-existence requires that both roots be outside the unit circle. This is
+just the opposite scenario discussed before. Part 2 of the proposition follows immediately.
+Uniqueness requires one stable and one unstable eigenvalue. The parameter regions are
+consequently implied by those not considered in Part 1 and 2.
+The Proposition shows that indeterminacy is a potential outcome in this model. It
+arises when the job destruction rate is less than twice the (calibrated) unemployment
+rate. For instance, at a separation rate of 10%, the unemployment rate would have to
+be less than 5% to de...nitely rule out indeterminacy on account of condition 1(a). This
+value is not implausible, given historical data for the U.S. where the average post-war
+unemployment rate is 4:8%. However, it has been argued (e.g. Trigari, 2009) that the
+proper corresponding concept for model unemployment includes not only the registered
+unemployed but all workers potentially available for employment, such as discouraged
+workers or workers loosely attached to the labor force. Consequently, u should be assigned
+a much higher value (for instance, 26% as in Trigari, 2009) which raises the possibility of
+equilibrium indeterminacy.8
+8Calibrating u to a di¤erent value implies that bene...ts b and match e¢ ciency m would have to
+change, too, since they are computed endogenously from the steady state conditions. Higher steady state
+unemployment corresponds to a higher value of b and lower m. This can be interpreted as an implication
+of di¤erent labor market institutions.
+9
+Condition 1(b) imposes an upper bound on the match elasticity . In the benchmark
+calibration, this upper bound is 0:147. Since is typically calibrated to be above 0:5
+this would rule out indeterminacy. However, this observation comes with the caveat
+that values for the match elasticity below 0:5 have some support in the literature. For
+instance, Cooley and Quadrini (1999) argue that a low elasticity in the range of = 0:1 is
+necessary to match labor market cyclicality. Using likelihood-based econometric methods
+Lubik (2010) ...nds that there is, in fact, substantial probability mass on low values of .
+We also note that the upper bound is increasing in the Nash-bargaining parameter. But
+even if ! 1, indeterminacy would not occur for the typical parameter choices in the
+literature. Suppose on the other hand that the unemployment rate were set to u = 0:06.
+In this case, the upper bound increases to 0:816, which would imply indeterminacy for
+typical match elasticity choices. Clearly, the interpretation of the pool of searchers in the
+matching model matters for determinacy questions.
+Intutitively, we can think about a sunspot equilibrium in the following way. Firms are
+willing to incur vacancy posting costs if they expect to recoup them through the proceeds
+from production net of wages and the savings on future hiring, as captured by the job
+creation condition (17). The equilibrating mechanism is the behavior of the matching
+rate q( ). An increase in vacancy posting, raises labor market tightness and lowers the
+probability that an individual ...rm is succesful in ...nding an employee. This, in turn, raises
+e¤ective hiring costs =q( ), which would have to be o¤set by higher expected returns. It
+is this externality, namely the fact that ...rms do not internalize the e¤ect of their posting
+decisions on aggregate match probabilities, that are at the heart of the determinacy issue.9
+Now suppose that a ...rm believes that future pro...ts will be higher than is warranted
+by the fundamentals, such as the level of productivity. Beliefs of this kind can be triggered
+by sunspot shocks, as in the interpretation by Lubik and Schorfheide (2003). This belief
+would compel it to post more vacancies. If other ...rms were to do the same aggregate
+tightness would increase and match probability fall, raising e¤ective hiring cost. What
+tends to rule out a sunspot equilibrium is that expected future bene...ts are not consistent
+with the higher posting costs. Consequently, rational ...rms do not act on sunspot beliefs.
+This argument breaks down in an environment where future bene...ts rise to accommodate
+higher current costs. The Proposition stipulates that indeterminacy arises when both the
+separation and the match elasticity are too small. When the former applies, the
+9This has similar characteristics to the notion of an upward-sloping labor demand schedule in Farmer
+and Guo (1994). In their model, production exhibits constant returns to scale at the individual ...rm
+level, but increasing returns in the aggregate. An individual ...rm hiring more workers raises the marginal
+product of workers in the aggregate, thereby stimulating more labor demand. The job creation condition
+can be thought of as a vacancy-demand curve.
+10
+unemployment pool is small, while the latter makes new matches, and thereby future
+employment, highly elastic to vacancy postings. Consequently, the savings on future
+hiring costs react more than current e¤ective costs, which helps validate sunspot beliefs.
+A similar argument applies for the case of non-existence of equilibrium. In general,
+non-existence problems would arise for unemployment rates that are too low for given
+separation rates, in combination with excessively high match elasticities. In more technical
+terms, this combination makes the employment equation explosive. Any disturbance to a
+steady state equilibrium would result in excessive job destruction (due to high separation
+rates) and matching that is inconsistent with the job creation condition.
+We now turn to the full model solution with risk-averse households ( > 0). We
+compute the determinacy regions numerically for combinations of the match elasticity
+and various other structural parameters. The results are presented in Figure 1, where
+we have plotted determinacy regions for di¤erent subsets of the parameter space. The
+parameters are calibrated at the benchmark values discussed above. In each panel we
+vary two parameters over their admissible range while keeping the other parameters at
+their benchmark values.
+As a general conclusion, determinacy problems tend to arise when the match elasticity
+is either too small or too big. For small the equilibrium is indeterminate when the
+job destruction rate or the unemployment rate u are too small. This is related to the
+analytical condition found in Proposition 1. Furthermore, ...rm-matching rates q above
+0:2 and a Nash-parameter that puts more weight on workers also lead to multiplicity. No
+equilibrium exists for large and either a small unemployment rate or above 0:2. We
+also analyze the sensitivity of the regions with respect to (not reported). As ! 0
+the indeterminacy regions expand. In particular, any q implies multiple equilibria when
+< 0:2. In the limit the boundaries between regions are given in the Proposition. As the
+household becomes more risk averse, however, regions of indeterminacy disappear entirely.
+An interesting special case to consider is a calibration with the Hosios-condition, where
+= . This can be represented by a 45-degree line in the lower-right panel of Figure 1. In
+the absence of outside information on the value of the bargaining parameter , the Hosios-
+calibration is often chosen in the literature. In this case, indeterminacy and non-existence
+is ruled out, and becomes highly unlikely for other parameter combinations. For instance,
+equilibrium non-existence requires a separation rate of = 0:81. Moreover, if = , we
+can rule out indeterminacy in the case of = 0 because condition 1(b) of the proposition
+never holds. The equilibrium could still be non-existent, but this would require very high
+separation rates. In principle, these could obtain when the model period is much longer
+11
+than a quarter since eventually all workers turn over within a long enough time horizon.10
+Interpreting these results in light of standard calibrations used in the literature, we
+would argue that indeterminacy and non-existence do not present serious problems for the
+search and matching framework. Hence, it is unlikely that sunspot equilibria would be
+helpful in explaining labor market dynamics (as claimed in Hashimzade and Ortigueira,
+2005). This is not to say that labor search and matching frameworks cannot support
+indeterminate equilibria. Mildly increasing returns to scale in the matching function (Gi-
+ammarioli, 2003) lead to widely expanded indeterminacy regions, while a New Keynesian
+model with search and matching frictions in the labor market has broader indeterminacy
+properties than the standard New Keynesian model (Zanetti, 2006).
+5 Conclusion
+We show in this article that for most plausible parameterizations the simple search and
+matching model does not su¤er from determinacy problems. Speci...cally, we argue that
+it is unlikely that the model has multiple equilibria so that extraneous uncertainty, i.e.,
+animal spirits, can cause business cycles. Parameterizations that lead to indeterminacy
+can be found, but they lie at the boundaries of the region that the empirical literature
+would consider plausible. We identify the match elasticity and the separate rate as crucial
+parameters in that respect.
+These properties are obviously model speci...c, but our conclusions are likely robust to
+modi...cations such as endogenous job destruction. While the boundaries of the determi-
+nacy regions are likely to shift, the dynamic mechanism stays una¤ected. The main caveat
+to our study is that our analysis applies to a local equilibrium in the neighborhood of the
+steady state. However, the underlying model is non-linear and local results may therefore
+not adequately describe the global equilibrium properties. Naturally, this is a topic for
+further investigation. Moreover, researchers may actually be interested in the business
+cycle implications of indeterminacy that does not depend on policy rules or externalities.
+It appears plausible that actual labor market decisions are characterized to some extent
+by animal spirits. Further research should shed some light on this issue.
+10Incidentally, the continuous time version of this simple search and matching model always has a
+unique solution (see Shimer, 2005), as the separation-relevant time horizon is in...nitesimal small. We are
+grateful to Andreas Hornstein for pointing this out.
+12
+References
+[1] Andolfatto, David (1996): "Business Cycles and Labor Market Search"
+. American
+Economic Review, 86(1), 112-132.
+[2] Burda, Michael C. and Mark Weder (2002): " Complementarity of Labor Market
+Institutions, Equilibrium Unemployment and the Propagation of Business Cycles"
+.
+German Economic Review, 3, 1-24.
+[3] Cooley, Thomas F., and Vincenzo Quadrini (1999): "A Neoclassical Model of the
+Phillips Curve Relation"
+. Journal of Monetary Economics, 44, 165-193.
+[4] den Haan, Wouter, Garey Ramey, and Joel Watson (2000): "Job Destruction and
+the Propagation of Shocks"
+. American Economic Review, 90, 482-498.
+[5] Farmer, Roger E. and Jian-Tang Guo (1994): "Real Business Cycles and Animal
+Spirits"
+. Journal of Economic Theory, 63(1), 42-72.
+[6] Giammarioli, Nicola (2003): "Indeterminacy and Search Theory"
+. European Central
+Bank Working Paper #271.
+[7] Hashimzade, Nigar, and Salvador Ortigueira (2005): "Endogenous Business Cycles
+with Frictional Labor Markets"
+. The Economic Journal, 115, C161-C175.
+[8] Krause, Michael U., and Thomas A. Lubik (2007), "The (Ir)relevance of Real Wage
+Rigidity in the New Keynesian Model with Search Frictions"
+. Journal of Monetary
+Economics 54, 706-727.
+[9] Lubik, Thomas A. (2009): "Estimating a Search and Matching Model of the Aggre-
+gate Labor Market"
+. Federal Reserve Bank of Richmond Economic Quarterly, 95(2),
+101-120.
+[10] Lubik, Thomas A. (2010): "Identifying the Search and Matching Model of the Labor
+Market"
+. Manuscript.
+[11] Lubik, Thomas A., and Frank Schorfheide (2003): "Computing Sunspot Equilibria in
+Linear Rational Expectations Models"
+. Journal of Economic Dynamics and Control,
+28(2), 273-285.
+[12] Merz, Monika (1995): "Search in the Labor Market and the Real Business Cycle"
+.
+Journal of Monetary Economics, 36, 269-300.
+13
+[13] Petrongolo, Barbara, and Christopher Pissarides (2001): "Looking Into the Black
+Box: A Survey of the Matching Function"
+. Journal of Economic Literature, 39, 390-
+431.
+[14] Shimer, Robert (2005): "The Cyclical Behavior of Equilibrium Unemployment and
+Vacancies"
+. American Economic Review, 95, 25-49.
+[15] Trigari, Antonella (2009): "Equilibrium Unemployment, Job Flows, and In
+ation
+Dynamics"
+. Journal of Money, Credit, and Banking, 41(1), 1-33.
+[16] Zanetti, Francesco (2006): "Labor Market Frictions, Indeterminacy, and Interest
+Rules"
+. Journal of Money, Credit, and Banking, 38(7), 1959-1970.
+14
+Figure 1: Determinacy Regions
+15
+16
+The following Discussion Papers have been published since 2009:
+Series 1: Economic Studies
+01 2009 Spillover effects of minimum wages Christoph Moser
+in a two-sector search model Nikolai Stähler
+02 2009 Who is afraid of political risk? Multinational Iris Kesternich
+firms and their choice of capital structure Monika Schnitzer
+03 2009 Pooling versus model selection for Vladimir Kuzin
+nowcasting with many predictors: Massimiliano Marcellino
+an application to German GDP Christian Schumacher
+04 2009 Fiscal sustainability and Balassone, Cunha, Langenus
+policy implications for the euro area Manzke, Pavot, Prammer
+Tommasino
+05 2009 Testing for structural breaks Jörg Breitung
+in dynamic factor models Sandra Eickmeier
+06 2009 Price convergence in the EMU?
+Evidence from micro data Christoph Fischer
+07 2009 MIDAS versus mixed-frequency VAR: V. Kuzin, M. Marcellino
+nowcasting GDP in the euro area C. Schumacher
+08 2009 Time-dependent pricing and
+New Keynesian Phillips curve Fang Yao
+09 2009 Knowledge sourcing: Tobias Schmidt
+legitimacy deficits for MNC subsidiaries? Wolfgang Sofka
+10 2009 Factor forecasting using international
+targeted predictors: the case of German GDP Christian Schumacher
+17
+11 2009 Forecasting national activity using lots of
+international predictors: an application to Sandra Eickmeier
+New Zealand Tim Ng
+12 2009 Opting out of the great inflation: Andreas Beyer, Vitor Gaspar
+German monetary policy after the Christina Gerberding
+breakdown of Bretton Woods Otmar Issing
+13 2009 Financial intermediation and the role Stefan Reitz
+of price discrimination in a two-tier market MarkusA.Schmidt,MarkP.Taylor
+14 2009 Changes in import pricing behaviour:
+the case of Germany Kerstin Stahn
+15 2009 Firm-specific productivity risk over the Ruediger Bachmann
+business cycle: facts and aggregate implications Christian Bayer
+16 2009 The effects of knowledge management Uwe Cantner
+on innovative success ­ an empirical Kristin Joel
+analysis of German firms Tobias Schmidt
+17 2009 The cross-section of firms over the business Ruediger Bachmann
+cycle: new facts and a DSGE exploration Christian Bayer
+18 2009 Money and monetary policy transmission
+in the euro area: evidence from FAVAR-
+and VAR approaches Barno Blaes
+19 2009 Does lowering dividend tax rates increase
+dividends repatriated? Evidence of intra-firm Christian Bellak
+cross-border dividend repatriation policies Markus Leibrecht
+by German multinational enterprises Michael Wild
+20 2009 Export-supporting FDI Sebastian Krautheim
+18
+21 2009 Transmission of nominal exchange rate
+changes to export prices and trade flows Mathias Hoffmann
+and implications for exchange rate policy Oliver Holtemöller
+22 2009 Do we really know that flexible exchange rates
+facilitate current account adjustment? Some
+new empirical evidence for CEE countries Sabine Herrmann
+23 2009 More or less aggressive? Robust monetary Rafael Gerke
+policy in a New Keynesian model with Felix Hammermann
+financial distress Vivien Lewis
+24 2009 The debt brake: business cycle and welfare con- Eric Mayer
+sequences of Germany's new fiscal policy rule Nikolai Stähler
+25 2009 Price discovery on traded inflation expectations: Alexander Schulz
+Does the financial crisis matter? Jelena Stapf
+26 2009 Supply-side effects of strong energy price Thomas A. Knetsch
+hikes in German industry and transportation Alexander Molzahn
+27 2009 Coin migration within the euro area Franz Seitz, Dietrich Stoyan
+Karl-Heinz Tödter
+28 2009 Efficient estimation of forecast uncertainty
+based on recent forecast errors Malte Knüppel
+29 2009 Financial constraints and the margins of FDI C. M. Buch, I. Kesternich
+A. Lipponer, M. Schnitzer
+30 2009 Unemployment insurance and the business cycle: Stéphane Moyen
+Prolong benefit entitlements in bad times? Nikolai Stähler
+31 2009 A solution to the problem of too many
+instruments in dynamic panel data GMM Jens Mehrhoff
+19
+32 2009 Are oil price forecasters finally right? Stefan Reitz
+Regressive expectations toward more Jan C. Rülke
+fundamental values of the oil price Georg Stadtmann
+33 2009 Bank capital regulation, the lending
+channel and business cycles Longmei Zhang
+34 2009 Deciding to peg the exchange rate in
+developing countries: the role of Philipp Harms
+private-sector debt Mathias Hoffmann
+35 2009 Analyse der Übertragung US-amerikanischer
+Schocks auf Deutschland auf Basis eines
+FAVAR Sandra Eickmeier
+36 2009 Choosing and using payment instruments: Ulf von Kalckreuth
+evidence from German microdata Tobias Schmidt, Helmut Stix
+01 2010 Optimal monetary policy in a small open
+economy with financial frictions Rossana Merola
+02 2010 Price, wage and employment response Bertola, Dabusinskas
+to shocks: evidence from the WDN survey Hoeberichts, Izquierdo, Kwapil
+Montornès, Radowski
+03 2010 Exports versus FDI revisited: C. M. Buch, I. Kesternich
+Does finance matter? A. Lipponer, M. Schnitzer
+04 2010 Heterogeneity in money holdings Ralph Setzer
+across euro area countries: Paul van den Noord
+the role of housing Guntram Wolff
+05 2010 Loan supply in Germany U. Busch
+during the financial crises M. Scharnagl, J. Scheithauer
+20
+06 2010 Empirical simultaneous confidence Òscar Jordà, Malte Knüppel
+regions for path-forecasts Massimiliano Marcellino
+07 2010 Monetary policy, housing booms Sandra Eickmeier
+and financial (im)balances Boris Hofmann
+08 2010 On the nonlinear influence of Stefan Reitz
+Reserve Bank of Australia Jan C. Ruelke
+interventions on exchange rates Mark P. Taylor
+09 2010 Banking and sovereign risk S. Gerlach
+in the euro area A. Schulz, G. B. Wolff
+10 2010 Trend and cycle features in German
+residential investment before and after
+reunification Thomas A. Knetsch
+11 2010 What can EMU countries' sovereign
+bond spreads tell us about market
+perceptions of default probabilities Niko Dötz
+during the recent financial crisis? Christoph Fischer
+12 2010 User costs of housing when households face Tobias Dümmler
+a credit constraint ­ evidence for Germany Stephan Kienle
+13 2010 Extraordinary measures in extraordinary times ­
+public measures in support of the financial Stéphanie Marie Stolz
+sector in the EU and the United States Michael Wedow
+14 2010 The discontinuous integration of Western
+Europe's heterogeneous market for
+corporate control from 1995 to 2007 Rainer Frey
+15 2010 Bubbles and incentives: Ulf von Kalckreuth
+a post-mortem of the Neuer Markt in Germany Leonid Silbermann
+21
+16 2010 Rapid demographic change and the allocation
+of public education resources: evidence from
+East Germany Gerhard Kempkes
+17 2010 The determinants of cross-border bank flows
+to emerging markets ­ new empirical evidence Sabine Herrmann
+on the spread of financial crisis Dubravko Mihaljek
+18 2010 Government expenditures and unemployment: Eric Mayer, Stéphane Moyen
+a DSGE perspective Nikolai Stähler
+19 2010 NAIRU estimates for Germany: new evidence
+on the inflation-unemployment trade-off Florian Kajuth
+20 2010 Macroeconomic factors and Claudia M. Buch
+micro-level bank risk Sandra Eickmeier, Esteban Prieto
+21 2010 How useful is the carry-over effect
+for short-term economic forecasting? Karl-Heinz Tödter
+22 2010 Deep habits and the macroeconomic effects
+of government debt Rym Aloui
+23 2010 Price-level targeting C. Gerberding
+when there is price-level drift R. Gerke, F. Hammermann
+24 2010 The home bias in equities P. Harms
+and distribution costs M. Hoffmann, C. Ortseifer
+25 2010 Instability and indeterminacy in Michael Krause
+a simple search and matching model Thomas Lubik
+22
+Series 2: Banking and Financial Studies
+01 2009 Dominating estimators for the global Gabriel Frahm
+minimum variance portfolio Christoph Memmel
+02 2009 Stress testing German banks in a Klaus Düllmann
+downturn in the automobile industry Martin Erdelmeier
+03 2009 The effects of privatization and consolidation E. Fiorentino
+on bank productivity: comparative evidence A. De Vincenzo, F. Heid
+from Italy and Germany A. Karmann, M. Koetter
+04 2009 Shocks at large banks and banking sector Sven Blank, Claudia M. Buch
+distress: the Banking Granular Residual Katja Neugebauer
+05 2009 Why do savings banks transform sight
+deposits into illiquid assets less intensively Dorothee Holl
+than the regulation allows? Andrea Schertler
+06 2009 Does banks' size distort market prices? Manja Völz
+Evidence for too-big-to-fail in the CDS market Michael Wedow
+07 2009 Time dynamic and hierarchical dependence Sandra Gaisser
+modelling of an aggregated portfolio of Christoph Memmel
+trading books ­ a multivariate nonparametric Rafael Schmidt
+approach Carsten Wehn
+08 2009 Financial markets' appetite for risk ­ and
+the challenge of assessing its evolution by
+risk appetite indicators Birgit Uhlenbrock
+09 2009 Income diversification in the Ramona Busch
+German banking industry Thomas Kick
+10 2009 The dark and the bright side of liquidity risks:
+evidence from open-end real estate funds in Falko Fecht
+Germany Michael Wedow
+23
+11 2009 Determinants for using visible reserves Bornemann, Homölle
+in German banks ­ an empirical study Hubensack, Kick, Pfingsten
+12 2009 Margins of international banking: Claudia M. Buch
+Is there a productivity pecking order Cathérine Tahmee Koch
+in banking, too? Michael Koetter
+13 2009 Systematic risk of CDOs and Alfred Hamerle, Thilo Liebig
+CDO arbitrage Hans-Jochen Schropp
+14 2009 The dependency of the banks' assets and Christoph Memmel
+liabilities: evidence from Germany Andrea Schertler
+15 2009 What macroeconomic shocks affect the
+German banking system? Analysis in an Sven Blank
+integrated micro-macro model Jonas Dovern
+01 2010 Deriving the term structure of banking Stefan Eichler
+crisis risk with a compound option Alexander Karmann
+approach: the case of Kazakhstan Dominik Maltritz
+02 2010 Recovery determinants of distressed banks: Thomas Kick
+Regulators, market discipline, Michael Koetter
+or the environment? Tigran Poghosyan
+03 2010 Purchase and redemption decisions of mutual Stephan Jank
+fund investors and the role of fund families Michael Wedow
+04 2010 What drives portfolio investments of
+German banks in emerging capital markets? Christian Wildmann
+05 2010 Bank liquidity creation and Berger, Bouwman
+risk taking during distress Kick, Schaeck
+24
+06 2010 Performance and regulatory effects of
+non-compliant loans in German synthetic
+mortgage-backed securities transactions Gaby Trinkaus
+07 2010 Banks' exposure to interest rate risk, their
+earnings from term transformation, and
+the dynamics of the term structure Christoph Memmel
+08 2010 Completeness, interconnectedness and
+distribution of interbank exposures ­
+a parameterized analysis of the stability
+of financial networks Angelika Sachs
+09 2010 Do banks benefit from internationalization? C. M. Buch
+Revisiting the market power-risk nexus C. Tahmee Koch, M. Koetter
+10 2010 Do specialization benefits outweigh Rolf Böve
+concentration risks in credit portfolios Klaus Düllmann
+of German banks? Andreas Pfingsten
+11 2010 Are there disadvantaged clienteles
+in mutual funds? Stephan Jank
+12 2010 Interbank tiering and money center banks Ben Craig, Goetz von Peter
+25
+Visiting researcher at the Deutsche Bundesbank
+The Deutsche Bundesbank in Frankfurt is looking for a visiting researcher. Among others
+under certain conditions visiting researchers have access to a wide range of data in the
+Bundesbank. They include micro data on firms and banks not available in the public.
+Visitors should prepare a research project during their stay at the Bundesbank. Candidates
+must hold a PhD and be engaged in the field of either macroeconomics and monetary
+economics, financial markets or international economics. Proposed research projects
+should be from these fields. The visiting term will be from 3 to 6 months. Salary is
+commensurate with experience.
+Applicants are requested to send a CV, copies of recent papers, letters of reference and a
+proposal for a research project to:
+Deutsche Bundesbank
+Personalabteilung
+Wilhelm-Epstein-Str. 14
+60431 Frankfurt
+GERMANY
+

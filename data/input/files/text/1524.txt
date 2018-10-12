@@ -1,0 +1,597 @@
+Williams, S.R., & McDade, T.W. (2009). The use of dried blood spot sampling in the national social life, health, and aging project. Journal of Gerontology: Social Sciences,
+64B(S1), i131­i136, doi:10.1093/geronb/gbn022.
+© The Author 2009. Published by Oxford University Press on behalf of The Gerontological Society of America.
+All rights reserved. For permissions, please e-mail: journals.permissions@oxfordjournals.org.
+i131
+DRIED blood spots (DBSs)--drops of capillary whole
+blood collected on filter paper from a simple prick of
+the finger--provide a minimally invasive alternative to ve-
+nous blood sampling that facilitates the collection of blood
+samples in home-based settings, by nonmedically trained
+personnel. Although the advantages of DBS in terms of
+sample collection, transport, and storage are substantial, care
+should be taken when using data obtained from DBS, as they
+are not identical to results obtained by more commonly ap-
+plied methods using serum or plasma samples (McDade,
+Williams, & Snodgrass, 2007). DBSs are one of the 13 direct
+biological measures (biomeasures) collected in the National
+Social Life, Health, and Aging Project (NSHAP). These
+measures, which also include weight, waist circumference,
+height, blood pressure, smell, saliva collection, taste, a self-
+administered vaginal swab for female respondents, "Get Up
+and Go," distance vision, touch, and oral mucosal transudate
+(Orasure®) HIV test, were collected for analysis of mea-
+sures associated with physiological functioning. The collec-
+tion of biomeasures in conjunction with questionnaire items
+allows for the investigation of the interaction between the
+social, psychological, and environmental domains and their
+impact on health. The object of this paper is to provide per-
+tinent information on the collection, transport, and labora-
+tory analysis of DBS samples in NSHAP to promote the
+appropriate use of data derived from these samples.
+Methods
+In order to minimize participant burden and to maximize
+participation, the NSHAP interview and biomeasure collec-
+tion process was designed to be completed in approximately
+2 hr. To stay within these time constraints and still obtain
+the maximum amount of information, it was necessary to
+modularize the design of the survey. As a result, approxi-
+mately 5/6 of NSHAP participants (2,494) were asked to
+provide blood spots. Of those asked, 84.5% (2,105) agreed.
+However, due to collection difficulties, blood spots were not
+collected from an additional 57 individuals who originally
+agreed to participate. As a result, DBSs were collected from
+a total of 2,048 individuals. Because of the variability in
+volume of blood available for analysis, the sample size for
+each analyte obtained from blood spots varies. A list of ana-
+lytes obtained and the sample size for each analyte is listed
+in Table 1.
+DBS Collection Protocol
+Blood spots were collected from free-flowing capillary
+blood obtained by finger stick. The protocol is as follows:
+1. Angle Respondent's hand below his/her lap.
+2. Warm finger and stimulate circulation by gently
+kneading and squeezing the appropriate finger.
+The Use of Dried Blood Spot Sampling in the National
+Social Life, Health, and Aging Project
+Sharon R. Williams1 and Thomas W. McDade2
+1Department of Sociology, Purdue University, West Lafayette, Indiana.
+2Department of Anthropology and Cells to Society (C2S): The Center on Social Disparities and Health at the Institute for Policy
+Research, Northwestern University, Evanston, Illinois.
+Objectives. This paper describes the methods used for and issues associated with collection and analysis of dried blood
+spot (DBS) samples for the National Social Life, Health, and Aging Project and provides the basic distributions of the
+resulting analytes.
+Methods. DBSs from capillary finger sticks were collected by nonmedically trained interviewers from 2,044 individu-
+als, aged 57­85 years. The quality and quantity of DBS samples were evaluated to allow for analysis of interviewer per-
+formance. Levels of C-reactive protein, antibodies to the Epstein­Barr virus, hemoglobin, and glycosylated hemoglobin
+were assayed using various analytic methods.
+Results. Cooperation rate for DBS collection was 84.5%, with 99% of the cards yielding enough sample for at least
+one analysis. The distribution, mean, and standard deviation of the analytes obtained from DBSs are also presented in this
+paper.
+Conclusions. The high cooperation rate and quality of the spots collected suggest that the collection of DBSs in
+population-based research is a feasible and viable alternative to venous blood draws. The relative ease of sample collec-
+tion, transport, and storage are significant benefits. Care should be taken, however, when comparing results from analysis
+of DBS samples with those obtained from serum or plasma samples.
+Key Words: Biomeasures--Dried blood spots--Aging.
+WILLIAMS AND MCDADE
+i132
+3. Ask Respondent to gently shake his/her hand a few
+times.
+4. Wipe the index finger of the right hand with alcohol
+swab and wait a few seconds for the alcohol to dry
+(DO NOT blow on finger, wave hand, etc. to speed up
+drying).
+5. Squeeze the finger just below the area to be pricked.
+6. Firmly prick finger in the fleshy part of the pad, just
+off the center.
+7. IMMEDIATELY dispose of the lancet into the sharps
+container.
+8. Allow blood to well on tip of finger.
+9. If necessary, apply gentle pressure below the site of
+the prick.
+10. Place first drop in discard circle of filter paper--
+marked D.
+11. Place three (if possible) additional drops on filter pa-
+per.
+12. DO NOT reblot the circles on the filter paper (except
+discard circle).
+13. If unable to fill three spots (+ discard spot), prick an-
+other finger. Place first drop in discard circle of filter
+paper (marked D) and place additional drops in re-
+maining circles.
+14. If necessary, ask Respondent to hold cotton ball on
+finger and apply pressure until bleeding stops.
+15. Offer Respondent a bandage.
+After collection of the blood spots, field interviewers
+(FIs) were instructed to record in the computer the number
+of blood spots collected and finger pricks attempted and to
+set the filter paper aside and allow the blood spots to dry for
+the remainder of the interview. At the end of the interview,
+the FI was instructed to flip the cover of the filter paper over
+the blood spots and place the filter paper in a plastic bag
+with a desiccant pack. Upon returning home, the blood
+spots were removed from the bag and allowed to air dry
+overnight. They were then returned to the bag and stored at
+4°C until shipped.
+Field Interviewer Training
+The majority of FIs used for data collection in NSHAP
+did not have any previous medical training. However, most
+of them did have previous experience in field interviewing.
+FIs were brought to a central location, in three groups, for 8
+days of training. FIs were trained in preventing disease
+transmission and the use of universal precautions as well as
+the specific techniques necessary for blood spot collection.
+Although one of the key benefits of this method of blood
+collection is the minimal risk to both the participant and the
+collector, every effort was made to train the interviewers to
+minimize their exposure to potential risks. Further, only
+single-use safety lancets were used to prevent exposure to
+used lancet blades, FIs were well supplied with alcohol
+pads, and all materials were collected in biohazard and
+sharps containers and properly disposed.
+Basic techniques in the use of lancets, the proper posi-
+tioning of the finger stick, and proper application of the
+blood to the card were demonstrated to FIs in small groups
+during the larger NSHAP training. Individual FIs were then
+given time to practice on themselves and each other under
+the supervision of experienced training personnel. Addi-
+tional time with training personnel was available for those
+who needed extra training. On the final day of training, each
+FI was required to demonstrate adequacy in blood spot col-
+lection before training was considered complete.
+Continual feedback on the quality of spots was also pro-
+vided to the FIs throughout the study period. As the blood
+spots were received in the laboratory for analysis, the num-
+ber, quality, and condition of the spots was recorded by
+trained personnel. If consistent problems with collection
+were observed for a single FI, he or she was contacted to
+discuss potential problems and techniques that could be
+used to improve the quality of the blood spot collection.
+Key issues in the collection of DBSs.--Sample volume is
+a key issue in the usability of blood spots for biomeasure
+analysis. In order to obtain the maximum amount of blood,
+FIs were instructed to allow large drops of blood to pool on
+the finger before dropping them onto the filter paper with
+the goal of filling each of the five premarked circles entirely.
+Analysis of DBSs typically requires that either a 3.2-mm or
+a 6.0-mm disk of dried blood be punched out of the filter
+paper. A full drop of blood provides sufficient sample for
+either a 1- to 6.0-mm disk of dried blood or up to 7- to 3.2-
+mm disks. Smaller volumes collected means less sample is
+available for analysis. Further, proper techniques used for
+promoting blood flow were stressed during training. The
+idea that "some people just don't bleed well" was discour-
+aged, and FIs were taught that with proper technique--in-
+cluding having the individual rigorously shake his/her hand
+before the stick and firmly pressing the lancet to the finger
+for maximum contact with the blade--five drops of blood is
+possible from almost anyone.
+In addition to volume, it is necessary that the blood be
+collected appropriately to ensure that the blood is absorbed
+evenly across the filter paper. This ensures that the analyte
+of interest is evenly distributed across the blood spot. It is
+necessary, therefore, for the blood to be freely dropped onto
+the filter paper. If the finger is touched to the filter paper or
+blood is blotted onto the filter paper, the blood cannot flow
+evenly across the paper matrix and the spot is not usable for
+Table 1. Analytes Obtained From Dried Blood Spots
+Analyte Sample Size
+C-reactive protein 1,940
+Epstein­Barr virus antibody titers 1,981
+Hemoglobin 1,859
+HbA1c 1,739
+DRIED BLOOD SPOT ANALYSIS IN NSHAP i133
+most analyses. Further, if more than one drop is applied to
+the same area of the filter paper and the spots are doubled or
+overlapping, these spots are also unusable for most analy-
+ses. Upon careful examination of the spots, those that have
+been blotted or double spotted will appear asymmetric.
+Only spots that appear symmetric and circular on both sides
+of the filter paper are appropriate for most analyses. The
+exceptions to these general guidelines are spots that will be
+used for DNA extraction or for other analyses where quan-
+tification of the analyte in question is not necessary. A more
+detailed discussion of important issues in the collection and
+use of DBSs can be found in McDade et al. (2007).
+After drying, the blood spots were refrigerated until ship-
+ment to the laboratory for analysis. DBSs were shipped in
+batches to the laboratory every 2 weeks. Shipment within
+the United States of blood (including blood spots, plasma,
+and serum) requires samples to be labeled and shipped as
+"diagnostic specimens." These samples must be packed
+with enough absorbable material to collect any sample leak-
+age and packed in a sealed, leak-proof bag or container.
+This container must be packed inside an additional sealed
+container clearly marked as diagnostic specimens on the
+outside of the package. Diagnostic specimens can be shipped
+through commercial carriers or through standard U.S. mail
+when correctly packaged (contact the United States Depart-
+ment of Transportation [USDOT] or commercial shipper for
+details). Upon arriving in the laboratory, blood spot cards
+were catalogued, analyzed for quantity and quality, and fro-
+zen at -25°C until analysis.
+Collection Results
+There were no significant differences between individu-
+als who agreed to provide blood spots and those who re-
+fused with respect to gender, race, ethnicity, age, education,
+income, or marital status. There was also no difference be-
+tween the two groups with respect to self-reported mental or
+physical health or the number of doctor visits reported by
+the participants. However, the experience of the FI did have
+an impact on the percentage of their participants who re-
+fused to provide blood spots. Of the 131 FIs, the average
+success rate (measured by percentage of total number of
+subjects asked who agreed to provide a DBS) was 84. How-
+ever, interviewers had significantly higher response rates if
+they had more than 2 years of survey experience (82% vs.
+86%). Neither the race of the FIs nor the age of the FIs,
+relative to the age group of the NSHAP participants, was
+associated with their success rate.
+Individuals who refused to participate in blood spot col-
+lection reported various reasons for doing so. However,
+these responses followed a few general themes. Of the 158
+refusal responses noted, 25% refused because of a reported
+medical condition, most commonly due to blood thinners,
+recent blood work, or daily glucose checks due to diabetes.
+Of the remaining refusals, 20% reported unease with
+potential pain, fear of needles, or dislike of blood, and 17%
+reported that they (or in three cases a family member) did
+not think providing blood was appropriate or believed the
+measure was too invasive or dangerous.
+DBS sample quality.--Each card contains five preprint-
+ed circles of standard size (1/2-inch diameter) for suggest-
+ed collection. Interviewers in this study were instructed to
+blot the first drop on the filter paper in the rightmost circle.
+This spot will not be used for analysis and is not described
+in the current paper. Remaining spots are counted and
+measured (in relation to the size of punches possible), and
+any obviously blotted or double dropped spots are noted.
+Both individual spots and entire cards will be described.
+Spots are considered to be too small if they are not large
+enough to allow for a single small (3.2 mm) hole punch.
+Spots are considered good if they will allow for a single
+large (6 mm) hole punch. Spots are considered excellent if
+they fill the entire circle. For the purposes of the NSHAP
+study, one large and three small punches are required for
+analysis of proposed biomarkers. Cards are considered to
+be inadequate if they cannot support the necessary punch-
+es, adequate if they will support only the required punches,
+and excellent if they will support more than the required
+amount of punches. Statistical analysis in the following
+section was completed using STATA 9.2 (StataCorp, Col-
+lege Station, TX). A summary of DBS card quantity and
+average quantity of blood collected by each FI is presented
+in Table 2.
+Blood Spot Analysis
+Biomarkers for analysis from DBSs in NSHAP were se-
+lected based on several criteria, including availability of a
+valid assay, cost, and relative value of the measure with re-
+spect to the objectives of the survey. Analytes quantified in
+NSHAP DBS samples include C-reactive protein (CRP),
+antibodies to the Epstein­Barr virus (EBV), hemoglobin,
+and HbA1c. In most cases, there was more sample collected
+than used, allowing for the potential future use of these
+DBSs for more analyses. The consent process was designed
+with this in mind, and participants were asked for permis-
+sion to store their DBS samples for future use. The majority
+of participants, 86%, agreed to allow storage of any remain-
+ing sample for future use. Many additional analytes have
+been obtained from DBS, and improvements in technology
+may result in new analyses or methods for analyses. How-
+ever, length of storage and stability of a new analyte must be
+Table 2. DBS Card Quality
+Card Quality % of Total Cards % Average by
+Field Interviewer
+Usable (1 punch) 98.6 100.0
+Acceptable (4 punches) 88.8 100.0
+Good (10 punches) 56.4 66.0
+Excellent (20 punches) 13.6 3.3
+WILLIAMS AND MCDADE
+i134
+considered before any future analyses. A comprehensive list
+of potential DBS analytes, available protocols, validity, and
+stability are available in McDade et al. (2007). Unless oth-
+erwise noted, all assays were conducted in the Laboratory
+for Human Biology Research at Northwestern University
+(Evanston, IL).
+CRP.--CRP is an acute-phase protein and a nonspecific
+marker of inflammation. CRP has been used as a marker of
+immune activation (McDade, Burhop, & Dohnal, 2004) as
+well as a risk factor for cardiovascular disease (Smith et al.,
+2004). Although CRP is correlated with other biological in-
+dicators of health, it is independently related to cardiovas-
+cular risk, even when accounting for age, smoking, blood
+pressure, and diabetes and lipids (Koenigh, Sund, Frohlich,
+& Fischer, 1999; Pai, Pischon, Ma, & Manson, 2004; Ridker,
+2003; Ridker Cushman, Stampfer, Tracy, & Hennekens,
+1997; Ridker, Rifai, Rose, Buring, & Cook, 2002). CRP
+values were assayed using an enzyme-linked immunosor-
+bent assay (ELISA) protocol previously developed for use
+with DBS (McDade et al., 2004). Validation studies indicate
+that the blood spot CRP method has a lower detection limit
+of 0.028 mg L-1 and a high correlation between matched
+plasma and blood spot samples. These matched samples can
+be used to convert DBS results to plasma/serum equivalents
+using the linear regression equation reported in McDade
+et al. (2004).
+However, care should be taken when comparing DBS
+values with plasma or serum values, as the relationship
+will vary across analytic methods and may vary by popu-
+lation (e.g., Shirtcliff, Reavis, Overman, & Granger,
+2001). As reported in Pearson et al. (2003), the Centers
+for Disease Control and Prevention (CDC) has recently
+recommended classifications of cardiovascular risk as de-
+rived from CRP values. Plasma or serum CRP values >10
+mg L-1 are presumed to represent the presence of acute,
+active infection and should be excluded from analyses
+that are using CRP as an indicator of chronic, low-grade
+inflammation. Based on the relationship between DBS
+and plasma/serum CRP values evaluated as part of the
+DBS CRP assay validation, a DBS value of 8.6 mg L-1
+corresponds to a plasma/serum value of 10 mg L-1. Dis-
+tribution of CRP levels in the NSHAP sample are pro-
+vided in Table 3.
+EBV antibody.--EBV is a ubiquitous human herpes virus
+that may cause mononucleosis, although most primary
+infections are asymptomatic. EBV is present in at least 90%
+of humans, although rates of seropositivity are lower among
+younger individuals and in more affluent populations. Once
+infected, an individual carries the virus for his or her entire
+life (Callan, 2004). Although most individuals remain
+asymptomatic, EBV has also been linked to chronic fatigue
+syndrome and some lymphomas (Thompson & Kurzrock,
+2004). Increased levels of psychosocial stress have been
+associated with viral activation due to reductions in cell-
+mediated immune function, and measuring antibodies to
+EBV therefore provides an indirect measure of an aspect of
+cell-mediated immune function (Glaser et al., 1991, 1993).
+Levels of immunoglobulin G antibody to the viral capsid
+antigen complex of the EBV were determined using an
+ELISA protocol previously validated for use with DBS
+(McDade, Stallings, & Worthman, 2000). Distribution of
+EBV levels in the NSHAP sample are provided in Table 4.
+HbA1c.--Glucose is a sugar molecule that circulates in
+blood until it is used by cells for energy. Effective control
+over glucose concentrations is important for health, and high
+blood sugar after fasting is a sign of diabetes. Hemoglobin
+(Hb) is the protein that carries oxygen in the blood, contained
+in red blood cells. Normally, a small percentage of the Hb
+molecules in red blood cells become glycosylated (that is,
+chemically linked to glucose). The percent of glycosylated
+hemoglobin (HbA1c) increases over time in response to
+higher concentrations of circulating glucose. HbA1c, thus,
+can provide an integrated measure of blood sugar levels over
+the past 2­3 months. Recent work has linked elevated HbA1c
+levels to cardiovascular disease, independent of diabetes sta-
+tus (see Grant et al., 2004). Here, HbA1c is used to measure
+long-term blood glucose control--useful as a marker of
+blood sugar regulation, and therefore of how well diabetes is
+being managed, and as a marker of "prediabetes" (Yoshinaga
+& Kosaka, 1996). An HbA1c level of >7% (in total Hb) is
+associated with diabetes (Ford & Mokdad, 2003). According
+to the 3rd wave of the National Health and Nutrition Ex-
+amination Survey (NHANES III), 4.2% of the total popula-
+tionhavereachedthislevelofHbA1c,whereasthepercentage
+Table 3. Summary Statistics for C-reactive Protein Levels (mg L-1)
+C-Reactive Protein (mg L-1) Range Mean (Weighted) SD
+Men (years)
+Ages 57­65 0­38.2 2.80 3.93
+Ages 66­75 0.06­100 2.87 6.53
+Ages 76+ 0.03­39.8 2.51 4.69
+Women (years)
+Ages 57­65 0­100 4.17 8.93
+Ages 66­75 0­41.8 3.28 5.14
+Ages 76+ 0­100 3.20 6.05
+Table 4. Summary Statistics for EBV Antibody Titers
+EBV Antibody Titers
+(ELISA Units)
+Range Mean
+(Weighted)
+SD
+Men (years)
+Ages 57­65 13.2­318.7 155 75.7
+Ages 66­75 14.2­371 158 72.8
+Ages 76+ 13.1­317 157 75.3
+Women (years)
+Ages 57­65 13.7­318 151 73.4
+Ages 66­75 14.4­331 159 77.9
+Ages 76+ 12.7­314 156 83.0
+Note: EBV, Epstein­Barr virus; ELISA, enzyme-linked immunosorbent
+assay.
+DRIED BLOOD SPOT ANALYSIS IN NSHAP i135
+of those with diagnosed diabetes with >7% HbA1c is 56.4%.
+In a sample of inner-city residents, Grant et al. found that
+3.4% of people without diabetes had elevated HbA1c levels
+(Grant et al., 2004). However, these associations have not
+been demonstrated for values HbA1c levels obtained from
+DBS samples. To prevent further glycosylation of hemoglo-
+bin after collection on filter paper, one spot on the filter paper
+was pretreated with a proprietary solution provided by Flex-
+site Diagnostics (Palm City, FL). Analyses of HbA1c values
+were determined at Flexsite Diagnostics using an in-house
+protocol developed for the Cobas Integra blood chemistry
+analyzer. Based on previous research, Flexsite reports high
+correlation of results when compared with clinical standard
+methods (see http://www.flexsite.com/Professional_A1c.
+html for details). Distribution of HbA1c levels in the NSHAP
+sample are provided in Table 5.
+Hemoglobin.--Hemoglobin is the protein that carries
+oxygen to the blood, contained in red blood cells. Both high
+and low levels of hemoglobin signal defects in the balance
+of red blood cells in the blood. Anemia, indicated by hemo-
+globin deficiency, is an increasing health concern in the
+United States. In older populations, anemia is an indepen-
+dent risk factor for death (Lipschitz, 2003) and decline in
+physical performance (Penninx et al., 2003). It is associated
+with decrease in myocardial function (Penninx et al., 2003),
+poor outcomes in many chronic diseases (Goodnough &
+Nissenson, 2004), and muscle density (Cesari et al., 2004).
+Prevalence of anemia increases with age (Penninx et al.,
+2003), but estimated prevalence rates for older populations
+in the United States vary widely from 3.9% to 59.9% de-
+pending on the population studied and criteria used for de-
+fininganemia(Beghe,Wilson,&Ershler,2004).Hemoglobin
+was quantified in DBS samples using a colorimetric method
+based on the conversion of hemoglobin to cyanmethemo-
+globin in the presence of Drabkin's solution (O'Broin &
+Gunter, 1999). Distribution of hemoglobin levels in the
+NSHAP sample are provided in Table 6.
+Analytical Issues
+Because of the modularized design, blood spots were not
+requested of all NSHAP participants, and other sections of
+the survey were not completed on all individuals from which
+blood spots were requested. For example, on 500 of the in-
+dividuals from which blood spots were requested, no sen-
+sory function or "Get Up and Go" tests were administered.
+As a result, sample sizes might be significantly different for
+analyses using these variables.
+Care should be taken when attempting to compare values
+derived from DBS samples and other sources. Although
+these methods have been previously validated against clini-
+cal standards, such as plasma or serum, they are not equiva-
+lent to these methods, and the relationship may vary across
+populations (Shirtcliff et al., 2001). The source and method
+of comparison, sample size used for validation, and strength
+of statistical relationship should be considered before com-
+parisons are made.
+Conclusions
+DBS sampling was used as an alternative to venipuncture
+in the NSHAP to obtain several biomeasures useful in the
+assessment of health and risk for development of chronic
+diseases. In most cases, this method proved to be a viable
+alternative to venipuncture for both FIs and study partici-
+pants, although proper and sufficient training for interview-
+ers is vital to the success of this method. The feasibility of
+both collection and analysis of DBS provides results that
+are valid and useful in community-based studies. However,
+care should be taken when using these data because these
+methods are not directly comparable to clinically standard
+methods. By providing these measures, we hope that when
+combined with the breadth of available social measures and
+self-reported measures collected in NSHAP, we are provid-
+ing useful and important data to explore in an attempt to
+understand health outcomes in aging adults.
+Funding
+The National Health, Social Life, and Aging Project (NSHAP) is sup-
+ported by the National Institutes of Health--the National Institute on Ag-
+ing, Office of Women's Health Research, Office ofAIDS Research, and the
+Office of Behavioral and Social Science Research (5R01AG021487).
+Acknowledgments
+Special thanks to Bjay Wilde for his assistance in compiling references.
+Correspondence
+Address correspondence to Sharon Williams, PhD, Department of An-
+thropology, Purdue University, 700 West State Street, West Lafayette, IN
+47907. Email: srw@purdue.edu
+Table 5. Summary Statistics for HbA1c Levels (% of Total Hemo-
+globin)
+HbA1c (% of Total Hb) Range Mean (Weighted) SD
+Men (years)
+Ages 57­65 4.70­13.4 6.21 1.39
+Ages 66­75 4.60­11.4 6.07 0.89
+Ages 76+ 4.20­14.2 6.09 1.02
+Women (years)
+Ages 57­65 4.50­12.5 5.99 0.99
+Ages 66­75 4.50­11.4 5.91 0.82
+Ages 76+ 4.60­13.5 6.04 0.82
+Table 6. Summary Statistics for Hemoglobin Levels (mg dL-1)
+Hemoglobin (mg dL-1) Range Mean (Weighted) SD
+Men (years)
+Ages 57­65 8.89­18.5 13.8 1.76
+Ages 66­75 7.65­18.7 13.2 1.92
+Ages 76+ 7.56­17.0 12.6 1.72
+Women (years)
+Ages 57­65 7.89­18.3 12.6 1.63
+Ages 66­75 4.50­18.4 12.3 1.81
+Ages 76+ 6.58­16.4 12.0 1.66
+WILLIAMS AND MCDADE
+i136
+References
+Beghe, C., Wilson,A., & Ershler, W. B. (2004). Prevalence and outcomes of
+anemia in geriatrics: A systematic review of the literature. American
+Journal of Medicine, 116, 3S­10S.
+Callan, M. F. C. (2004). The immune response to Epstein-Barr virus. Mi-
+crobes and Infection, 6, 937­945.
+Cesari, M., Penninx, B. W., Lauretani, F., Russo, C. R., Carter, C.,
+Bandinelli, S., Atkinson, H., Onder, G., Pahor, M., & Ferrucci, L.
+(2004). Hemoglobin levels and skeletal muscle: Results from the In-
+CHIANTI Study. Journal of Gerontology: Biological Sciences, 59A,
+249­254.
+Ford, E., & Mokdad, A. (2003). Trends in glycosylated hemoglobin con-
+centration among United States adults. Diabetes, 52, 219.
+Glaser, R., Pearson, G. P., Bonneau, R. H., Esterling, B. A., Atkinson, C.,
+& Kiecolt-Glaser, J. K. (1993). Stress and the memory T-cell re-
+sponse to the Epstein-Barr virus in healthy medical students. Health
+Psychology, 12, 435­442.
+Glaser, R., Pearson, G. R., Jones, J. F., Hillhouse, J., Kennedy, S., Mao, H.,
+& Kiecolt-Glaser, J. K. (1991). Stress related activation of Epstein-
+Barr virus. Brain Behavior and Immunity, 5, 219­232.
+Goodnough, L. T., & Nissenson, A. R. (2004). Anemia and its clinical con-
+sequences in patients with chronic diseases. American Journal of
+Medicine, 116, 1S­2S.
+Grant, T., Soriano, Y., Marantz, P. R., Nelson, I., Williams, E., & Ramirez,
+D. (2004). Community-based screening for cardiovascular disease
+and diabetes using HbA1c. American Journal of Preventive Medi-
+cine, 26, 271­275.
+Koenigh, W., Sund, M., Frohlich, M., & Fischer, H. G. (1999). C-Reactive
+protein, a sensitive marker of inflammation, predicts future risk of
+coronary heart disease in initially healthy middle-aged men: Results
+from the MONICA (Monitoring Trends and Determinants in Cardio-
+vascular Disease)Augsburg Cohort Study, 1984 to 1992. Circulation,
+99, 237­242.
+Lipschitz, D. (2003). Medical and functional consequences of anemia in
+the elderly. Journal of Geriatrics Society, 51, S10­S13.
+McDade, T. W., Burhop, J., & Dohnal, J. (2004). High sensitivity enzyme
+immunoassay for C-reactive protein from dried blood spots. Clinical
+Chemistry, 50, 652­654.
+McDade, T. W., Stallings, J. F., & Worthman, C. (2000). Culture change
+and stress in Western Samoan youth: Methodological issues in the
+cross-cultural study of stress and immune function. American Jour-
+nal of Human Biology, 12, 792­802.
+McDade, T. W., Williams, S., & Snodgrass, J. J. (2007). What a drop can do:
+Dried blood spots as a minimally invasive method for integrating bio-
+markers into population-based research. Demography, 44, 785­803.
+O'Broin, S., & Gunter, E. (1999). Screening of folate status with use of
+dried blood spots on filter paper. American Journal of Clinical Nutri-
+tion, 70, 359­367.
+Pai, J. K., Pischon, T., Ma, J., & Manson, J. E. (2004). Inflammatory mark-
+ers and the risk of coronary heart disease in men and women. New
+England Journal of Medicine, 351, 2599­2610.
+Pearson, T. A., Mensah, G. A., Alexander, R., Anderson, J. L., Cannon, R.
+O., Criqui, M., et al. (2003). Markers of inflammation and cardiovas-
+cular disease: Application to clinical and public health practice: A
+statement for healthcare professionals from the Centers for Disease
+Control and Prevention and the American Heart Assocation. Circula-
+tion, 107, 499­511.
+Penninx, B., Guralnik, J. M., Onder, G. L., Ferucci, L., Wallace, R. B., &
+Pahor, M. (2003). Anemia and decline in physical performance
+among older persons. American Journal of Medicine, 115, 104­110.
+Ridker, P. M. (2003). High-sensitivity C-reactive protein and cardiovascular
+risk: Rationale for screening and primary prevention. American Jour-
+nal of Cardiology, 92, 17K­22K.
+Ridker, P. M., Cushman, M., Stampfer, J. J., Tracy, R. P., & Hennekens,
+C. H. (1997). Inflammation, aspirin, and the risk of cardiovascular
+disease in apparently healthy men. New England Journal of Medi-
+cine, 336, 973­979.
+Ridker, P. M., Rifai, N., Rose, L., Buring, J. E., & Cook, N. R. (2002).
+Comparison of C-reactive protein and low-density lipoprotein cho-
+lesterol levels in the prediction of first cardiovascular events. New
+England Journal of Medicine, 347, 1557­1565.
+Shirtcliff, E. A., Reavis, R., Overman, W. H., & Granger, D. A. (2001).
+Measurement of gonadal hormones in dried blood spots versus se-
+rum: Verification of menstrual cycle phase. Hormones and Behavior,
+39, 258­266.
+Smith, S. C.,Anderson, J. L., Cannon, R. O., Fadl,Y.Y., Koenig, W., Libby,
+P., Lipshultz, S.E., Mensah, G.E., Ridker, P.M., & Rosenson, R.
+(2004). CDC/AHA workshop on markers of inflammation and car-
+diovascular disease: Application to clinical and public health prac-
+tice. Circulation, 110, 550e­553e.
+Thompson, M. P., & Kurzrock, R. (2004). Epstein-Barr virus and cancer.
+Clinical Cancer Research, 10, 803­821.
+Yoshinaga, H., & Kosaka, K. (1996). High glycosylated hemoglobin levels
+increase the risk of progression to diabetes mellitus in subjects with
+glucose intolerance. Diabetes Research and Clinical Practice, 31,
+71­79.
+Received July 22, 2008
+Accepted October 28, 2008
+Decision Editor: Robert B. Wallace, MD, MSc
+

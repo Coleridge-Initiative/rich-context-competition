@@ -1,0 +1,786 @@
+ORIGINAL CONTRIBUTION
+Smoking and Mental Illness
+A Population-Based Prevalence Study
+Karen Lasser, MD
+J. Wesley Boyd, MD, PhD
+Steffie Woolhandler, MD, MPH
+David U. Himmelstein, MD
+Danny McCormick, MD, MPH
+David H. Bor, MD
+SMOKING IS THE LEADING PRE-
+ventable cause of death in the
+United States.1 In an effort to
+target public health interven-
+tions, recent studies have focused on
+smoking in distinct populations, such
+as pregnant women2 and adolescents.3
+We believe those with mental illness are
+another group that merits special at-
+tention.
+Previous studies have found high
+smoking rates among selected popula-
+tions of persons with mental illness,
+such as psychiatric outpatients4 and pa-
+tients in a state mental hospital.5 Oth-
+ers have found elevated smoking rates
+among patients with specific diag-
+noses, such as bipolar illness, depres-
+sion, schizophrenia, and panic disor-
+der.6-11 Persons with mental illness may
+encounter greater difficulty with to-
+bacco cessation.4,12,13 However, no re-
+cent study has analyzed rates of smok-
+ing and quit rates across the spectrum
+of psychiatric diagnoses in a nation-
+ally representative sample. We hypoth-
+esized that persons with mental ill-
+ness smoke at higher rates than persons
+without mental illness, have lower quit
+rates, and comprise a large proportion
+of the US tobacco market.
+We used population-based data from
+the National Comorbidity Survey14
+(NCS) to examine the association be-
+tween type and severity of mental ill-
+ness and the likelihood of smoking and
+subsequent cessation. The NCS dif-
+fered from previous studies because it
+was the first to administer a structured
+psychiatric interview to a nationally rep-
+resentative sample.15 Furthermore, the
+NCS was specifically designed to exam-
+ine both substance-use and nonsub-
+stance-use psychiatric disorders.
+METHODS
+Data Sources
+The NCS was a congressionally man-
+dated study of the prevalence of psy-
+chiatric disorders in the United States.15
+Administered between September 1990
+and February 1992, the survey used a
+stratified, multistage probability sample
+of persons aged 15 to 54 years in the
+noninstitutionalized civilian popula-
+tion. The data were released for public
+use in 1998. The study design allowed
+for estimation of the national preva-
+lence of mental illness as defined by the
+DiagnosticandStatisticalManualofMen-
+tal Disorders, Third Edition, Revised
+(DSM-III-R).16
+Author Affiliations: Departments of Medicine (Drs
+Lasser, Woolhandler, Himmelstein, McCormick, and
+Bor) and Psychiatry (Dr Boyd), The Cambridge Hos-
+pital and Harvard Medical School, Cambridge, Mass;
+and Department of Religion, Smith College, Northamp-
+ton, Mass (Dr Boyd).
+Corresponding Author and Reprints: Karen Lasser,
+MD, Department of Medicine, Cambridge Hospital,
+Macht Bldg, 1493 Cambridge St, Cambridge, MA
+02139 (e-mail: klasser@massmed.org).
+Context Studies of selected groups of persons with mental illness, such as those who
+are institutionalized or seen in mental health clinics, have reported rates of smoking to
+be higher than in persons without mental illness. However, recent population-based,
+nationally representative data are lacking.
+Objective To assess rates of smoking and tobacco cessation in adults, with and with-
+out mental illness.
+Design, Setting, and Participants Analysis of data on 4411 respondents aged
+15 to 54 years from the National Comorbidity Survey, a nationally representative mul-
+tistage probability survey conducted from 1991 to 1992.
+Main Outcome Measures Rates of smoking and tobacco cessation according to
+the number and type of psychiatric diagnoses, assessed by a modified version of the
+Composite International Diagnostic Interview.
+Results Current smoking rates for respondents with no mental illness, lifetime men-
+tal illness, and past-month mental illness were 22.5%, 34.8%, and 41.0%, respec-
+tively. Lifetime smoking rates were 39.1%, 55.3%, and 59.0%, respectively (P.001
+for all comparisons). Smokers with any history of mental illness had a self-reported
+quit rate of 37.1% (P=.04), and smokers with past-month mental illness had a self-
+reported quit rate of 30.5% (P.001) compared with smokers without mental illness
+(42.5%). Odds ratios for current and lifetime smoking in respondents with mental ill-
+ness in the past month vs respondents without mental illness, adjusted for age, sex,
+and region of the country, were 2.7 (95% confidence interval [CI], 2.3-3.1) and 2.7
+(95% CI, 2.4-3.2), respectively. Persons with a mental disorder in the past month con-
+sumed approximately 44.3% of cigarettes smoked by this nationally representative
+sample.
+Conclusions Persons with mental illness are about twice as likely to smoke as other
+persons but have substantial quit rates.
+JAMA. 2000;284:2606-2610 www.jama.com
+2606 JAMA, November 22/29, 2000--Vol 284, No. 20 (Reprinted) ©2000 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ on 05/24/2014
+The NCS surveyed 8098 persons.
+Questions regarding tobacco use were
+asked of the 4411 respondents inter-
+viewed during the latter half of the sur-
+vey (1991-1992). Specially trained staff
+from the Survey Research Center at the
+University of Michigan administered
+a modified version of the Composite
+International Diagnostic Interview
+(CIDI).17 The CIDI is a well-validated,
+structured diagnostic interview based
+on the Diagnostic Interview Schedule
+(DIS), which was used in the Epide-
+miologic Catchment Area Study.18 In
+the NCS, the overall response rate was
+82.4%; nonrespondents resembled re-
+spondents in age and sex, which are the
+only demographic variables available for
+all nonrespondents. A supplemental
+survey was administered to a random
+sample of nonrespondents, who were
+found to have elevated rates of both life-
+time and current psychiatric disor-
+ders. The data were weighted to
+account for sample design (ie, prob-
+abilities of selection among house-
+holds) and for nonresponse using
+information from the supplemental sur-
+vey. An additional weight was used to
+extrapolate the data to the national
+population by age, sex, race or ethnic-
+ity, marital status, educational level, liv-
+ing arrangements, region, and urban-
+icity (TABLE 1).
+Definitions of Mental Illness
+and Tobacco Use
+We defined respondents as lifetime
+smokers if they answered affirma-
+tively to the question, "Have you ever
+smoked daily for a month or more?" We
+defined current smokers as those who
+responded, "in the past month" when
+they were asked, "When was the last
+time you smoked fairly regularly--in
+the past month, past six months, past
+year, or more than a year ago?" We de-
+fined the quit rate as the proportion of
+lifetime smokers who were not cur-
+rent smokers. Because this definition of
+quit rate differs from that used in other
+studies, we also analyzed the data with
+a more conservative definition of quit
+rate: the proportion of lifetime smok-
+ers who had stopped smoking for more
+than a year. This analysis did not sig-
+nificantly change our findings; hence,
+we used the former definition of quit
+rate. The NCS did not ascertain the
+total lifetime consumption of tobacco
+or the current number of cigarettes
+smoked. However, respondents were
+asked, "How many cigarettes did you
+smoke per day during the period when
+you were smoking most?" We defined
+this number as peak consumption. We
+considered persons whose peak con-
+sumption exceeded 24 cigarettes per
+day to be heavy smokers. We defined
+moderate and light smokers as those
+whose peak consumption was 24 ciga-
+rettes per day or less. We did not ana-
+lyze cigar or pipe smoking.
+We defined mental illness as major
+depression, bipolar disorder, dysthy-
+mia, panic disorder, agoraphobia, so-
+cial phobia, simple phobia, general-
+ized anxiety disorder, alcohol abuse,
+alcohol dependence, drug abuse, drug
+dependence, antisocial personality, con-
+duct disorder, or nonaffective psycho-
+sis. The latter includes schizophrenia,
+schizophreniform disorder, schizoaf-
+fective disorder, delusional disorder,
+and atypical psychosis.
+We analyzed persons with and with-
+out any mental illness at any time in
+their lives (lifetime mental illness), per-
+sons with active mental illness in the
+past month (whom we define as "the
+mentally ill"), and persons with each
+of the individual DSM-III-R diagnoses
+and with multiple DSM-III-R diag-
+noses. In addition, we compared smok-
+ing rates in respondents with current
+alcohol and drug use to those of re-
+spondents who had been abstinent for
+at least 1 year.
+We also estimated the proportion of
+all cigarettes smoked in the United
+States that were consumed by persons
+with mental illness via the following
+calculation: (M) (C1
+) / {(N) (C2
+)+(M)
+(C1
+)}, where M=the number of cur-
+rent smokers with mental illness in the
+past month; C1
+=the mean peak con-
+sumption of cigarettes per day by cur-
+rent smokers with mental illness in the
+past month; N=the number of current
+smokers without mental illness in the
+past month, which includes persons
+with and without lifetime mental ill-
+ness; and C2
+=the mean peak consump-
+tion of cigarettes per day by current
+smokers without mental illness in the
+past month. For both persons with and
+without mental illness, we assumed that
+the peak number of cigarettes con-
+Table 1. Demographic Characteristics
+According to Psychiatric Diagnosis*
+Variable
+Ever
+Mentally
+Ill in
+Lifetime,
+%
+Mentally
+Ill in Past
+Month,
+%
+Sex
+Men 51.5 31.0
+Women 47.3 25.7
+Age, y
+15-24 48.8 33.8
+25-34 52.9 29.6
+35-44 49.5 26.9
+45-54 43.5 20.8
+Race
+White 51.8 28.5
+Black 34.9 21.1
+Hispanic 50.9 37.2
+Other 39.6 19.6
+Region
+Northeast 51.4 28.1
+Midwest 47.3 24.7
+South 44.4 27.2
+West 57.6 34.5
+Education
+High school 45.8 33.6
+High school
+graduate
+51.8 31.4
+Some college 53.0 26.7
+College graduate 44.1 17.5
+Below poverty level
+Yes 51.1 35.3
+No 49.1 27.3
+Family income, US $
+0-19 999 50.2 33.3
+20 000-34 999 52.4 31.3
+35 000-69 999 50.3 25.7
+70 000 40.5 20.8
+Marital status
+Married 49.4 26.9
+Separated/divorced/
+widowed
+55.0 30.7
+Never married 47.0 30.8
+*Mental illness is defined in the "Methods" section. Per-
+centages are weighted to approximate the US popula-
+tion as determined from the 1989 US National Health In-
+terview Survey.
+Race and ethnicity were self-reported. Respondents of
+Hispanic descent were coded as Hispanic regardless
+of race (black, white, or other race).
+§Poverty is defined as living in a household below the fed-
+eral poverty level.
+SMOKING AND MENTAL ILLNESS
+©2000 American Medical Association. All rights reserved. (Reprinted) JAMA, November 22/29, 2000--Vol 284, No. 20 2607
+Downloaded From: http://jama.jamanetwork.com/ on 05/24/2014
+sumed correlated with the current num-
+ber of cigarettes consumed.
+Statistical Methods
+We used the SAS computer statistical
+package (Version 7; SAS Institute, Cary,
+NC). We used the 2 test to compare
+differences between groups in the pro-
+portion of personswho smoked, and the
+Mantel Haenszel 2 test for trend to
+compare smoking rates with the num-
+ber of lifetime DSM-III-R diagnoses. We
+used logistic regression to analyze men-
+tal illness as a predictor of smoking,
+while controlling for sex, age, and re-
+gion of the United States.
+RESULTS
+The demographic characteristics of per-
+sons with a lifetime history of mental
+illness and persons with mental ill-
+ness in the past month are shown in
+Table 1. The population prevalence of
+current smoking was 28.5%, while the
+lifetime prevalence was 47.1%. Forty-
+one percent of persons who reported
+having mental illness in the past month
+were current smokers and repre-
+sented 40.6% of all current smokers in
+the United States. Respondents with a
+history of mental illness had elevated
+smoking rates, and smoking rates in-
+creased further in respondents with
+mental illness in the past month
+(TABLE 2). Current smokers without
+mental illness in the past month
+(n=746) had a mean peak consump-
+tion of 22.6 cigarettes per day vs 26.2
+in those with mental illness in the past
+month (n=511). We estimated that per-
+sons with mental illness comprised
+44.3% of the US tobacco market.
+The relationship between smoking
+and mental illness persisted when we
+controlled for age, sex, and geographic
+region using logistic regression (details
+availableonrequest).Comparedwithre-
+spondents without mental illness, those
+with any history of mental illness were
+significantly more likely to be lifetime
+smokers(oddsratio[OR],2.1;95%con-
+fidence interval [CI], 1.9-2.4) or cur-
+rentsmokers(OR,1.9;95%CI,1.7-2.2).
+Thisrelationshipwasstrongeramongre-
+spondentswithmentalillnessinthepast
+month(OR,2.7;95%CI,2.3-3.1forcur-
+rent smokers; OR, 2.7; 95% CI, 2.4-3.2
+for lifetime smokers).
+Persons with multiple lifetime psy-
+chiatric diagnoses had higher rates of
+smoking and smoked more heavily than
+persons with only 1 DSM-III-R diagno-
+sis (P.001, FIGURE). Heavy smoking
+was rare in persons with no history of
+mental illness; only 10% of such per-
+sons were heavy smokers. We ob-
+served a dose-response relationship be-
+tweenthenumberoflifetimepsychiatric
+diagnoses and smoking rates. Quit rates
+were lower in smokers with mental ill-
+ness in the past month (30.5%,
+P.0001) and in smokers with any life-
+time history of mental illness (37.1%,
+P=.04) compared with smokers with-
+out mental illness (42.5%).
+TABLE 3 and TABLE 4 show smok-
+ing rates according to psychiatric di-
+agnosis (lifetime and in the past
+month), as well as the corresponding
+quit rates. The quit rates of respon-
+dents who were abstinent from alco-
+hol (41.5%) or drugs (39.0%) were
+similar to the quit rate of persons with
+no mental illness history (42.5%). Due
+to small numbers in some diagnostic
+categories, differences between indi-
+vidual diagnoses should be inter-
+preted cautiously.
+COMMENT
+We found that persons with mental ill-
+ness are about twice as likely to smoke
+as other persons, a finding consistent
+with previous studies.4,6,19,20 Population-
+based data collected in the early 1980s
+by the Epidemiologic Catchment Area
+Study showed that persons with ma-
+jor depression, dysthymia, agorapho-
+bia, and alcoholism were 1.6 to 4.7
+times more likely to have ever smoked
+than subjects without mental illness.6
+However, we observed that more than
+a third of patients with a history of men-
+tal illness had quit smoking by the time
+of the survey. The quit rate in the Epi-
+demiologic Catchment Area Study was
+lower than this and was only deter-
+mined for persons with major depres-
+sion. Our finding that persons absti-
+nent from alcohol had quit rates equal
+to those of persons without mental ill-
+ness confirms previous findings.21 How-
+ever, our finding that persons absti-
+nent from drugs also had quit rates
+equal to those of persons without men-
+tal illness is a novel one.
+Our study is based on data collected
+from 1991 to 1992 and released for pub-
+lic use in 1998, the most recent na-
+tionaldataavailableonmentalillnessand
+smoking. Given the minimal decline in
+Figure. Smoking Rates Compared According
+to the Number of Lifetime Diagnoses and the
+Proportion of Heavy Smokers
+60
+50
+40
+30
+20
+10
+0
+1
+0 2 3 4 >4
+No. of Lifetime Psychiatric Diagnoses
+% Who Are Smokers
+Percentage Light-
+Moderate Smokers
+Percentage Heavy
+Smokers
+Mantel-Haenszel 2, P.001. Heavy smokers are de-
+fined as those whose peak consumption exceeded 24
+cigarettes a day and moderate and light smokers as
+those whose peak consumption was 24 or less ciga-
+rettes a day.
+Table 2. Smoking Status According to Psychiatric Diagnosis*
+Psychiatric
+Diagnosis
+US
+Population, %
+Current
+Smokers, %
+Lifetime
+Smokers, %
+Total 100 28.5 47.1
+No mental illness 50.7 22.5 39.1
+Ever mental illness 49.3 34.8 55.3
+Any mental illness in past month 28.3 41.0 59.0
+*Percentages are weighted to approximate the US population as determined from the 1989 US National Health Inter-
+view Survey.
+Percentages of mental illness reported are the proportion of respondents who received the tobacco supplement (n = 4411)
+who have any of the diagnoses listed in the "Methods" section.
+Significantly different from respondents without mental illness, 2, P.001.
+SMOKING AND MENTAL ILLNESS
+2608 JAMA, November 22/29, 2000--Vol 284, No. 20 (Reprinted) ©2000 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ on 05/24/2014
+the prevalence of smoking in the United
+States over the past decade, from 26.5%
+in 1992 to 24.7% in 1997,22 our find-
+ings are still pertinent. Similarly, we
+doubt that the prevalence of mental ill-
+ness has decreased dramatically since
+1992. In the NCS, almost half of the re-
+spondents had experienced a DSM-III-
+R­defined mental illness in their life-
+time, and 28% had experienced mental
+illness in the past month. These num-
+bers appear high because the definition
+of mental illness in the NCS (the stan-
+dard definition used by most psychia-
+trists in the United States) encom-
+passedabroadspectrumofseverity,from
+simple phobia to schizophrenia.
+Mentally-ill cigarette smokers, like
+other smokers, are at high risk of smok-
+ing-related deaths. Persons with ma-
+jor depression, alcohol disorders, and
+schizophrenia have high mortality rates
+from vascular disease and cancer.23
+Smoking also complicates the treat-
+ment of some mental disorders by de-
+creasing blood levels of neurolep-
+tics.24 Thus, smokers may require larger
+doses to achieve therapeutic effect, and
+thereby run an increased risk of ad-
+verse effects.13,25,26 Some26,27 but not
+all28,29 studies have found that smok-
+ers experience more tardive dyskine-
+sia than nonsmokers.
+Why do the mentally ill smoke more?
+Some have suggested that such per-
+sons use cigarettes as a means of self-
+medication of psychiatric symp-
+toms.13,30 This theory implicitly assumes
+that mental illness causes smoking.
+However,recentfindings9-10,31 raiseques-
+tions about the direction of causality. In
+a study of childhood and adolescent de-
+pression,31 antecedent smoking was as-
+sociated with an increased risk of de-
+pression, but not vice-versa. Similarly,
+current smokers have an elevated risk
+of first-time occurrence of panic at-
+tacks relative to nonsmokers or former
+smokers,10 and smoking may increase
+the risk of certain anxiety disorders dur-
+ing late adolescence and early adult-
+hood.32 Lastly,arecentstudy9 foundthat
+smoking preceded the onset of schizo-
+phrenia in the majority of persons with
+schizophrenia who smoked.
+Internal documents from the to-
+bacco industry suggest that the indus-
+try has identified psychologically vul-
+nerable persons as a part of their
+tobacco market. In the 1981 Segmen-
+tation Study,33 market researchers at R.
+J. Reynolds Tobacco Co described
+smokers who smoked for "mood en-
+hancement" and "positive stimula-
+tion."Thismarketingstudyimplied that
+smokers used nicotine for depressive
+symptoms, stating that smoking "helps
+Table 3. Smoking Status Among Respondents According to Psychiatric Diagnosis
+at Any Time in Their Life*
+Lifetime Diagnosis
+US
+Population, %
+Current
+Smoker, %
+Lifetime
+Smoker, %
+Quit
+Rate, %
+No mental illness 50.7 22.5 39.1 42.5
+Social phobia 12.5 35.9 54.0 33.4
+Agoraphobia 5.4 38.4 58.9 34.5
+Panic disorder 3.4 35.9§ 61.3 41.4
+Major depression 16.9 36.6 59.0 38.1
+Dysthymia 6.8 37.8 60.0 37.0
+Panic attacks 6.5 38.1 60.4 36.9
+Simple phobia 11.0 40.3 57.8 30.3
+Nonaffective psychosis 0.6 49.4§ 67.9 27.2
+Alcohol abuse or dependence 21.5 43.5 65.9 34.0
+Antisocial personality, antisocial
+behavior, or conduct disorder
+14.6 45.1 62.5 27.8
+Posttraumatic stress disorder 6.4 45.3 63.3 28.4§
+Generalized anxiety disorder 4.8 46.0 68.4 32.7
+Drug abuse or dependence 11.4 49.0 72.2 32.1§
+Biopolar disorder 1.6 68.8 82.5 16.6
+*Percentages of the National Comorbidity Study sample of 4411 persons are weighted to approximate the US popu-
+lation as determined from the 1989 US National Health Interview Survey.
+Significantly different from respondents without mental illness, 2, P.0001.
+Significantly different from respondents without mental illness, 2, P.01.
+§Significantly different from respondents without mental illness, 2, P.001.
+Significantly different from respondents without mental illness, 2, P.05.
+Table 4. Smoking Status Among Respondents According to Mental Illness in the Past Month*
+Diagnosis in Past Month
+US
+Population, %
+Current
+Smokers, %
+Lifetime
+Smokers, %
+Quit
+Rate, %
+No mental illness 50.7 22.5 39.1 42.5
+Social phobia 4.0 31.5 44.5 29.2
+Agoraphobia 1.3 48.1§ 63.2§ 23.2
+Panic disorder 1.4 42.6 63.5§ 32.9
+Major depression 4.9 44.7§ 60.4§ 26.0
+Dysthymia 1.7 38.2 49.0 22.0
+Panic attacks 2.0 46.4§ 66.1§ 29.8
+Simple phobia 6.3 36.8§ 55.2§ 33.3
+Nonaffective psychosis 0.2 45.3 45.3 0
+Alcohol abuse or dependence 2.6 56.1§ 67.5§ 16.9§
+Antisocial personality, antisocial
+behavior, or conduct disorder
+14.6 45.1§ 62.5§ 27.8§
+Posttraumatic stress disorder 2.3 44.6§ 58.1§ 23.2
+Generalized anxiety disorder 1.7 54.6§ 76.8§ 28.9
+Drug abuse or dependence 1.0 67.9§ 87.5§ 22.4
+Bipolar disorder 0.9 60.6§ 81.8§ 25.9
+*Percentages of the National Comorbidity Study sample of 4411 persons are weighted to approximate the US popu-
+lation as determined from the 1989 US National Health Interview Survey.
+Significantly different from respondents without mental illness, 2, P.01.
+Significantly different from respondents without mental illness, 2, P.05.
+§Significantly different from respondents without mental illness, 2, P.0001.
+Significantly different from respondents without mental illness, 2, P.001.
+SMOKING AND MENTAL ILLNESS
+©2000 American Medical Association. All rights reserved. (Reprinted) JAMA, November 22/29, 2000--Vol 284, No. 20 2609
+Downloaded From: http://jama.jamanetwork.com/ on 05/24/2014
+perk you up" and "helps you think out
+problems." The authors also identi-
+fied the role of smoking in "anxiety re-
+lief,"stating that smoking helped people
+"gain self-control," "calm down," and
+"cope with stress." While studies have
+shown that cigarette advertising and
+promotion influence smoking in ado-
+lescents,34 no studies have examined the
+effect of cigarette advertising on the
+mentally ill.
+Extrapolating our results to the US
+population, we estimate that persons
+with a diagnosable mental disorder in
+the past month consume nearly half of
+all cigarettes smoked in the United
+States. Our findings emphasize the
+importance of focusing smoking pre-
+vention and cessation efforts on the
+mentally ill. Individual clinicians'
+efforts in this regard need to be
+coupled with broader public policy
+interventions. Increases in tobacco
+taxes and antismoking media cam-
+paigns have been shown to reduce
+cigarette sales and consumption,35-38
+particularly in lower-income smok-
+ers.37 While data are not available on
+the impact of tobacco taxation on the
+subpopulation of smokers with mental
+illness, we believe that taxation might
+be an effective smoking deterrent in
+this group, which tends to be at a low-
+income level. Tax revenues could then
+be used to fund smoking cessation and
+other programs for persons with men-
+tal illness and to support counter-
+advertising campaigns.
+Mental illness carries a unique bur-
+den of suffering--an "inexplicable
+agony"--according to one eloquent vic-
+tim.39 The mentally ill also carry the
+burden of nearly half of all US tobacco
+consumption. However, the fact that
+smokers with mental illness are able to
+quit should offer hope.
+Funding/Support: This study was supported by grant
+5T32PE11001-12 from the National Research Ser-
+vices Award (Dr Lasser) and in part by a grant from
+the Open Society Institute (Drs Woolhandler and
+Himmelstein).
+Acknowledgment: We thank John Orav, PhD, for his
+help with statistical analysis, Ronald C. Kessler, PhD, and
+Patricia Berglund, MBA, for their assistance with the NCS
+database, and the University of Michigan Institute of
+Survey Research for making the data available to us.
+REFERENCES
+1. US Department of Health and Human Services.
+Health Consequences of Smoking Cessation: A Re-
+port of the Surgeon General. Washington, DC: Gov-
+ernment Printing Office; 1994:124.
+2. Ebrahim SH, Floyd RL, Merritt RK, Decoufle P, Holtz-
+man D. Trends in pregnancy-related smoking rates in
+the United States, 1987-1996. JAMA. 2000;283:361-
+366.
+3. Anda RF, Croft JB, Felitti VJ, et al. Adverse child-
+hood experiences and smoking during adolescence and
+adulthood. JAMA. 1999;282:1652-1658.
+4. Hughes JR, Hatsukami DK, Mitchell JE, Dahlgren
+LA. Prevalence of smoking among psychiatric outpa-
+tients. Am J Psychiatry. 1986;143:993-997.
+5. De Leon J, Dadvand M, Canuso C, White AO, Sta-
+nilla JK, Simpson GM. Schizophrenia and smoking: an
+epidemiological survey in a state hospital. Am J Psy-
+chiatry. 1995;152:453-455.
+6. Glassman AH, Helzer JE, Covio LS, et al. Smoking,
+smoking cessation, and major depression. JAMA. 1990;
+264:1546-1549.
+7. Gonzalez-Pinto A, Gutierrez M, Ezcurra J, et al. To-
+bacco smoking and bipolar disorder. J Clin Psychia-
+try. 1998;59:225-228.
+8. Breslau N. Psychiatric comorbidity of smoking and
+nicotine dependence. Behav Genet. 1995;25:95-
+101.
+9. Kelly C, McCreadie RG. Smoking habits, current
+symptoms, and premorbid characteristics of schizo-
+phrenic patients in Nithsdale, Scotland. Am J Psychia-
+try. 1999;156:1751-1757.
+10. Breslau N, Klein DF. Smoking and panic attacks:
+an epidemiologic investigation. Arch Gen Psychiatry.
+1999;56:1141-1147.
+11. Goff DC, Henderson DC, Amico E. Cigarette smok-
+ing in schizophrenia: relationship to psychopathol-
+ogy and medication side effects. Am J Psychiatry. 1992;
+149:1189-1194.
+12. Ziedonis DM, George TP. Schizophrenia and nico-
+tine use: report of a pilot smoking cessation program
+and review of neurobiological and clinical issues.
+Schizophr Bull. 1997;23:247-254.
+13. Addington J, el Guebaly N, Campbell W, Hod-
+gins DC, Addington D. Smoking cessation treatment
+for patients with schizophrenia. Am J Psychiatry. 1998;
+155:974-976.
+14. Kessler RC, Ronald C. National Comorbidity Sur-
+vey, 1990-1992 [computer file]. Ann Arbor, Mich: In-
+ter-University Consortium for Political and Social Re-
+search; 2000.
+15. Kessler RC, McGonagle KA, Zhao S, et al. Life-
+time and 12-month prevalence of DSM-III-R psychi-
+atric disorders in the United States: results from the
+National Comorbidity Survey. Arch Gen Psychiatry.
+1994;51:8-19.
+16. American Psychiatric Association. Diagnostic and
+Statistical Manual of Mental, Disorders, Third Edi-
+tion, Revised. Washington, DC: American Psychiat-
+ric Association; 1987.
+17. World Health Organization. Composite Interna-
+tional Diagnostic Interview [CIDI Version 1.0]. Geneva,
+Switzerland: World Health Organization.
+18. Robin LN, Regier DA, eds. Psychiatric Disorders
+in America: The Epidemiologic Catchment Area Study.
+New York, NY: Free Press; 1981.
+19. Glassman AH. Cigarette smoking: implications for
+psychiatricillness.AmJPsychiatry.1993;150:546-553.
+20. Hughes JR. Possible effects of smoke-free inpa-
+tient units on psychiatric diagnosis and treatment.
+J Clin Psychiatry. 1993;54:109-114.
+21. Breslau N, Peterson E, Schultz L, Andreski P, Chil-
+coat H. Are smokers with alcohol disorders less likely
+to quit? Am J Public Health. 1996;86:985-990.
+22. Centers for Disease Control and Prevention. Ciga-
+rette smoking among adults: United States, 1997. Avail-
+able at: http://www.cdc.gov/tobacco/97adultprevfacts
+.htm. Accessibility verified October 3, 2000.
+23. Bruce ML, Leaf PJ, Rozal GP, Florio L, Hoff RA.
+Psychiatric status and 9-year mortality data in the New
+Haven Epidemiologic Catchment Area Study. Am J Psy-
+chiatry. 1994;151:716-721.
+24. Lohr JB, Flynn K. Smoking and schizophrenia.
+Schizophr Res. 1992;8:93-102.
+25. Decina P, Caracci G, Sandik R, Berman W,
+Mukherjee S, Scapicchio PL. Cigarette smoking and
+neuroleptic-induced parkinsonism. Biol Psychiatry.
+1990;28:502-508.
+26. Yassa R, Lal S, Korpassy A, Ally J. Nicotine expo-
+sure and tardive dyskinesia. Biol Psychiatry. 1987;22:
+67-72.
+27. Binder RL, Kazamatsuri H, Nishimura T, McNiel
+DE. Smoking and tardive dyskinesia. Biol Psychiatry.
+1987;22:1280-1282.
+28. Chiles JA, Cohen S, Roland M, Wright R. Smok-
+ing and schizophrenic psychopathology. Am J Ad-
+dict. 1993;2:315-319.
+29. Menza MA, Grossman N, Van Horn M, Cody R,
+Forman N. Smoking and movement disorders in psy-
+chiatric patients. Biol Psychiatry. 1991;30:109-115.
+30. Carmody TP. Affect regulation, nicotine addic-
+tion, and smoking cessation. J Psychoactive Drugs.
+1989;24:111-122.
+31. Wu L, Anthony JC. Tobacco smoking and de-
+pressed mood in late childhood and early adoles-
+cence. Am J Public Health. 1999;89:1837-1840.
+32. Johnson JG, Cohen P, Pine DS, Klein DF, Kasen
+S, Brook JS. Association between cigarette smoking
+and anxiety disorders during adolescence and early
+adulthood. JAMA. 2000;284:2348-2351.
+33. Nordine R. 1981 Segmentation study: overview.
+Available at: http://galen.library.ucsf.edu/tobacco
+/mangini/html/c/039/otherpages/index.html; 9-10.
+Accessibility verified October 3, 2000.
+34. Siegel M. Mass media antismoking campaigns: a
+powerful tool for health promotion. Ann Intern Med.
+1998;129:128-132.
+35. Hu T, Sung H, Keeler T. Reducing cigarette con-
+sumption in California: tobacco taxes vs an anti-
+smoking media campaign. Am J Public Health. 1995;
+85:1218-1222.
+36. Pierce JP, Gilpin EA, Emery SL. Has the California
+tobacco control program reduced smoking? JAMA.
+1998;280:893-899.
+37. Biener L, Aseltine RH, Cohen B, Anderka M. Re-
+actions of adult and teenaged smokers to the Mas-
+sachusetts tobacco tax. Am J Public Health. 1998;88:
+1389-1391.
+38. Siegel M. Mass media antismoking campaigns: a
+powerful tool for health promotion. Ann Intern Med.
+1998;129:128-132.
+39. Styron W. Darkness Visible: A Memoir of Mad-
+ness. New York, NY: Random House; 1990:84.
+SMOKING AND MENTAL ILLNESS
+2610 JAMA, November 22/29, 2000--Vol 284, No. 20 (Reprinted) ©2000 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ on 05/24/2014
+

@@ -1,0 +1,1019 @@
+Research Report
+``Pharming out'' support:
+a promising approach to
+integrating clinical
+pharmacists into established
+primary care medical home
+practices
+Kimberly D. Brunisholz1, Jeff Olson1,
+Jonathan W. Anderson1, Emily Hays1,
+Peggy M. Tilbury1, Bradley Winter1,
+Josh Rickard2, Sharon Hamilton1 and
+Gregory Parkin1
+Abstract
+Objective: Embedding clinical pharmacists into ambulatory care settings needs to be assessed in
+the context of established medical home models.
+Methods: A retrospective, observational study examined the effectiveness of the Intermountain
+Healthcare Collaborative Pharmacist Support Services (CPSS) program from 2012­2015 among
+adult patients diagnosed with diabetes mellitus (DM) and/or high blood pressure (HBP). Patients
+who attended this program were considered the intervention (CPSS) cohort. These patients were
+matched using propensity scores with a reference group (no-CPSS cohort) to determine the effect
+of achieving disease management goals and time to achievement.
+Results: A total of 17,684 patients had an in-person office visit with their provider and 359
+received CPSS (the matched no-CPSS cohort included 999 patients). CPSS patients were 93%
+more likely to achieve a blood pressure goal < 140/90 mmHg, 57% more likely to achieve HbA1c
+values < 8%, and 87% more likely to achieve both disease management goals compared with the
+reference group. Time to goal achievement demonstrated increasing separation between the study
+cohorts across the entire study period (P <.001), and specifically, at 180 days post-intervention
+(HBP: 48% vs 27% P <.001 and DM: 39% vs 30%, P <.05).
+Conclusions: CPSS participation is associated with significant improvement in achievement of
+disease management goals, time to achievement, and increased ambulatory encounters compared
+with the matched no-CPSS cohort.
+Journal of International Medical Research
+2018, Vol. 46(1) 234­248
+! The Author(s) 2017
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0300060517710885
+journals.sagepub.com/home/imr
+1Intermountain Healthcare, Salt Lake City, UT, USA
+2St. John's University, Queens, NY, USA
+Corresponding author:
+Kimberly D. Brunisholz, Institute for Healthcare
+Leadership, Intermountain Healthcare, 36 South State
+Street, Salt Lake City, UT 84111, USA.
+Email: kim.brunisholz@imail.org
+Creative Commons CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial
+4.0 License (http://www.creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and
+distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.
+sagepub.com/en-us/nam/open-access-at-sage).
+Keywords
+Collaborative drug therapy management, pharmacy, population health, hypertension, diabetes
+mellitus
+Date received: 9 February 2017; accepted: 28 April 2017
+Background
+Currently, organizations are charged with
+improving the population's health, by
+``improving the health outcomes of a group
+of individuals'', to efficiently transition
+towards new mechanisms of value-based
+care delivery and population-based pay-
+ment.1 These changes have reinforced the
+role of primary care in meeting the growing
+healthcare needs of the population and
+coordinating access to specialty services,
+while controlling overall healthcare spend-
+ing.2 However, optimization of care delivery
+modalities is still required among high-
+performing practices. Embedding a clinical
+pharmacist in an ambulatory care setting,
+including primary care, is a growing trend.
+Data have been published to support
+improvement in patients' care and decreased
+healthcare costs when pharmacists are
+added to the care team.3­5
+Involvement of clinical pharmacists
+improves clinical outcomes in many disease
+states, and improves patients' satisfac-
+tion.5­8 Optimizing medication regimens to
+meet clinical goals and prevent adverse
+events is the clinical pharmacist's specialty.
+Having a pharmacist included in patients'
+care improves medication-related quality
+measures and reduces errors. These same
+quality and safety metrics are increasingly
+tied to reimbursement and population
+health management initiatives.4
+Outcomes from involvement of a clinical
+pharmacist in the care of patients with high
+blood pressure (HBP) and/or diabetes (DM)
+have been highlighted in several previous
+clinical trials.9­14 Hirsch et al.9 found that
+using a pharmacist for drug therapy man-
+agement for hypertension resulted in a
+higher rate of patients reaching a blood
+pressure target (88.5%) compared with
+usual care (63.6%). Comprehensive man-
+agement of DM by clinical pharmacists
+within primary care practices shows
+improvement in numerous diabetes-related
+outcomes, including a greater likelihood of
+reaching hemoglobin A1c (HbA1c), blood
+pressure, and low density lipo-protein
+(LDL) targets compared with patients
+receiving care in a clinic without a pharma-
+cist as a member of the healthcare team.14
+Each of the above-mentioned studies
+showed positive associations when a pharma-
+cist was integrated into the care team.
+However, this study analyzed the effective-
+ness of the Intermountain Healthcare (IH)
+Collaborative Pharmacist Support Services
+(CPSS) program, which was deployed in
+established primary care medical home prac-
+tices. The IH CPSS program emphasizes
+partnership and collaboration between clin-
+ical pharmacists and primary care teams,
+rather than co-location of services. CPSS
+provides efficiency in care delivery by max-
+imizing the role of the pharmacist. This
+provides a benefit to physicians who lack
+the ability to actively provide additional
+care interactions. This program uniquely
+incorporates collaborative drug therapy
+management agreements that include the
+following: developing and executing
+treatment plans; and managing medications,
+including selection, titration, monitoring,
+and medication adjustments, while support-
+ing existing relationships between patients
+and their care teams.
+However, whether the IH CPSS can
+support short-term improvement and
+enhance current clinical goal achievement
+among patients with DM and HBP are still
+Brunisholz et al. 235
+unknown. These chronic diseases have pre-
+viously been demonstrated to have excellent
+baseline disease management at IH.15 This
+study evaluated the immediate effect of the
+IH CPSS to determine the associated clinical
+and healthcare use patterns among enrolled
+patients compared with patients with these
+conditions from a neighboring geographical
+region who did not participate.
+Methods
+A retrospective, observational design was
+used to study the effectiveness of the IH
+CPSS program, which was implemented in
+seven pilot clinics among patients diagnosed
+with HBP and/or DM. Patients who were
+enrolled in CPSS were considered the inter-
+vention cohort. The CPSS group was
+matched using propensity scores (defined
+below) with a reference group comprising
+patients who were selected from an adjacent
+geographic region within the healthcare
+system (no-CPSS cohort). This matching
+was performed to determine the effect of
+achieving disease management goals and
+time to achievement, increasing the number
+of clinical encounters, and improving the
+overall efficiency of care teams.
+Study setting
+IH is an integrated delivery system of 22
+hospitals. IH is also a medical group with
+more than 185 ambulatory physician clinics
+and approximately 1100 primary and sec-
+ondary care physicians. This system has an
+affiliated health plan that provides more
+than half of all healthcare services within
+Utah and southeastern Idaho.16 IH's mis-
+sion, ``to help people live the healthiest lives
+possible,'' is actualized through a clinical
+integration structure that drives clinical
+work processes. This is achieved through a
+culture of accountable leadership, continu-
+ous quality improvement, and measurement
+of patients' outcomes and delivery system
+costs.16 IH's Enterprise Data Warehouse
+collects source data from its integrated
+health plan and the electronic medical
+record (EMR). The resulting data infra-
+structure means that every patient who is
+treated at an IH inpatient or outpatient
+facility contributes structured data for
+formal learning. Therefore, IH is an example
+of a learning healthcare system, where
+routine state-of-the-art patient care also
+produces rapid advances in formal medical
+knowledge.
+CPSS program
+Clinical pharmacists embedded in primary
+care medical home practices have multiple
+patient care responsibilities, with co-manage-
+ment of DM and hypertension representing
+approximately 50% of the pharmacists'
+responsibilities. Patients with DM, HBP, or
+a combination of the two, are identified for
+referral to the clinical pharmacist by either a
+primary care provider directly or review of
+system population health management
+reports (Figure 1). The majority of patients
+are referred to the pharmacist for manage-
+ment of HBP when systolic blood pressure
+is> 140 mmHg or diastolic blood pressure
+is> 90mmHg, and for management of DM
+when HbA1c values are > 8%. Additionally,
+patients who were escalating medications or
+dosages were considered for referral.
+However, there were no strict exclusion
+criteria for referral.
+Clinical pharmacists were employed by
+IH and devoted 100% of their time to the
+intervention. Selection criteria for clinical
+pharmacists required board certification and
+an established training process (i.e., mentor-
+ing, testing and peer-review of clinical
+competencies) before full integration began.
+Upon referral, the clinical pharmacist
+assumed responsibility for co-management
+of DM and/or hypertension under a
+Collaborative Drug Therapy Management
+(CDTM) agreement. The CDTM agreement
+236 Journal of International Medical Research 46(1)
+Figure 1. Collaborative Pharmacy Model: algorithm for the pharmacy medical management care process.
+Brunisholz et al. 237
+authorizes the pharmacist to initiate,
+modify, and discontinue medication ther-
+apy, order labs (i.e, HbA1c, Basic Metabolic
+Panel, Serum Creatinine), provide educa-
+tion, refer patients to other healthcare pro-
+fessionals, and provide ongoing monitoring
+and follow-up. Care was individualized and
+there were attempts to provide avenues that
+best suited the needs of the enrolled patients.
+Three attempts at phone calls were made by
+the clinical pharmacist to enroll each patient
+who was referred for the services. When
+contact attempts by phone were not success-
+ful, a letter was sent to patients informing
+them of the services and seeking their par-
+ticipation. Referrals were tracked and rea-
+sons noted in the electronic medical record if
+a patient was not enrolled. Once enrolled,
+pharmacists delivered care free of charge
+because there was no mechanism to bill for
+services. Pharmacists provided follow-up
+every 1 to 4 weeks via face-to-face visits,
+telephone visits, or secure electronic
+messaging.
+Study participants
+Patients who were enrolled in CPSS between
+July 2012 and April 2015 were eligible for
+inclusion in the intervention group (CPSS).
+Patients were only included in the interven-
+tion group for analysis if they had an out-of-
+control condition (HBP and/or DM) at
+enrollment and a corresponding outcome
+measure (i.e., blood pressure measurement
+or HbA1c test) during the follow-up period.
+Independent chart review was performed by
+the research team (P.T. and E.H.) to ensure
+participation in CPSS and adjudicate results
+that were observed.
+A reference, or control group (no-CPSS),
+was selected from an adult population (! 18
+years) who was determined from IH's net-
+work of outpatient clinics. Patients were
+included in the no-CPSS group if they fit the
+following criteria: 1) they were previously
+diagnosed with HBP or met the national
+Healthcare Effectiveness Data and
+Information Set (HEDIS)17 criteria for
+DM, and 2) had a visit to a primary care
+provider within a established medical home
+practice located in an adjacent geographic
+region between July 2012 and May 2015. All
+IH practices included in the study (i.e.,
+intervention and control practices) were
+high-performing, routinized medical home
+practices with a similar team composition,
+including nurse care managers and mental
+health specialists. However, patients who
+were included in the no-CPSS group did not
+have access to a clinical pharmacist included
+as a member of the team. The earliest visit
+encounter date for each patient within the
+study period was used as the no-CPSS study
+enrollment date. This study was approved
+by the IH's institutional review board
+(#1050294) and was granted a waiver of
+informed consent and documentation of
+consent for all eligible patients who were
+considered for analysis.
+Measurements
+Baseline measures. Patients were compared
+within the study groups to assess if
+differences in patients' demographics and
+clinical characteristics were present prior to
+enrollment in the study. Baseline
+demographics included age, sex, race, ethni-
+city, and insurance status. Information on
+current smoking status at the time of enroll-
+ment was collected. Clinical characteristics
+for the study cohort included the proportion
+of patients with chronic conditions prior to
+enrollment in the study, including depres-
+sion, DM, and HBP. Criteria for chronic
+conditions were standardized by an internal
+expert committee of practicing providers
+(Appendix Table A1). The most recent
+clinical biometric measures ( 12 months
+prior to enrollment) were collected and
+included body mass index (BMI) (BMI
+classes: underweight, normal, overweight,
+and obese), HbA1c levels, and systolic and
+238 Journal of International Medical Research 46(1)
+diastolic blood pressure. Medications that
+were ordered prior to enrollment in the
+study were also included and categorized
+based on their class (anti-hypertensive, met-
+formin, diabetes medications, including
+injectable and oral therapy other than
+metformin, and statins). Information on
+the number of patients per primary care
+physician (PCP) and the number of PCPs
+per clinic was collected at the practice level
+for each of the participating clinics.
+Outcome measures. The primary outcome
+measure for the study was achievement of
+disease management goals as follows. 1)
+Control of Blood Pressure (BP) was defined
+by achieving < 140/90 mmHg for the general
+population and < 150/90 mmHg for patients
+aged ! 80 years within 7 months. 2) Control
+of DM was defined as HbA1c values < 8%
+within 12 months. The cutoffs were selected
+by the research team a priori to allow for a
+window of time for patients to return to
+their PCP after baseline measurement.
+Secondary measures included time to the
+disease management goal and the number of
+encounters with additional members of the
+care team that were required to achieve
+disease management goals. The time to goals
+was defined as days between study enroll-
+ment and first in-control measurement
+during the follow-up period. An encounter
+with the care team was defined as any type of
+ambulatory interaction with the patient.
+This encounter could have been a phone
+call or visit in person with a pharmacist,
+PCP, specialist, or other member of the
+primary care management team.
+Statistical analysis. Patients were matched at a
+1:4 ratio (intervention to control) based on
+propensity score methodology using the
+nearest neighbor technique.18 This method-
+ology was operationalized by first, including
+potential confounders within a logit model,
+to predict the propensity for treatment (i.e.,
+participation in CPSS).19 Matching
+characteristics included age, sex, race/ethni-
+city, insurance status, disease status and
+duration (HBP, DM, and depression),
+BMI, number of patients per PCP panel,
+and number of PCPs at the clinic. This
+weighting method produced an average
+treatment effect on the treated estimates,
+answering the question ``Among control
+patients closely resembling CPSS patients,
+what outcomes were associated with the
+intervention?''18
+Study group demographics were com-
+pared using chi-square analysis for categor-
+ical variables and the t-test for continuous
+data. Conditional logistic regression was
+used to test the null hypothesis that the
+association of achieving disease manage-
+ment goals was not different between par-
+ticipants and non-participants. Odds ratios
+were generated after accounting for demo-
+graphic and clinical characteristic differ-
+ences to assess the likelihood of achieving
+disease management goals. Non-adjusted
+Kaplan­Meier survival curves were used to
+visually compare achievement of clinical
+goals over time between the study groups.
+Incidence rates (number of events per
+patient-years) were used to test the associ-
+ation of participation in CPSS and the
+number of encounters with the care team
+within the study period. An incidence rate
+ratio with corresponding 95% confidence
+intervals were computed to determine the
+probability of an event occurring between
+study groups. For all analyses, a two-sided P
+value .05 was considered statistically sig-
+nificant. All data were analyzed using Stata
+12.0 (Stata Corp, College Station, TX).
+Results
+A total of 17,684 patients were identified
+within the IH delivery system as meeting the
+selection criteria for CPSS during the study
+period. A total of 489 individuals were
+referred to the CPSS program. However,
+56 patients were excluded from analysis
+Brunisholz et al. 239
+because they were referred for management
+of hyperlipidemia and 74 were referred, but
+never enrolled in CPSS. Patients who
+received CPSS (n ¼ 359) were matched,
+using previously described propensity score
+matching, to a no-CPSS cohort (n ¼ 999). In
+the CPSS group, 93 (25.9%) patients had
+HBP, 22 (6.1%) had DM, and 244 (68.0%)
+had both diagnoses.
+Baseline demographic and clinical char-
+acteristics are shown in Table 1. No signifi-
+cant differences in age, female sex, race/
+ethnicity, type of insurance, smoking status,
+duration and prevalence of HBP and/or
+DM, prevalence of depression, baseline
+BMI (kg/m2), and BMI class were found
+between patients in the reference and inter-
+vention groups. CPSS patients were signifi-
+cantly more likely to already be on
+established evidence-based medication regi-
+mens, including anti-hypertensives, metfor-
+min, and oral and injectable diabetes
+medications excluding metformin compared
+with controls (P < .001). CPSS patients were
+more likely to have higher HbA1c values
+(P < .001), and systolic (P < .001) and dia-
+stolic (P ¼ .05) blood pressure when aver-
+aged over the last 12 months from
+enrollment compared with controls.
+After a priori adjustment for confounders
+(see Table 2), patients in the CPSS group were
+93% more likely to achieve a BP goal
+of < 140/90mmHg (Odds Ratio (OR)¼
+1.93; 95% Confidence Interval (CI)¼ 1.40,
+2.65; P < .001), 57% more likely to achieve
+HbA1c values of < 8% (OR ¼ 1.57; 95%
+CI¼ 1.06, 2.34; P < .026), and 87% more
+likely to achieve both disease management
+goals (OR ¼ 1.87; 95% CI¼ 1.41, 2.50;
+P < .001) compared with the reference
+group. In Kaplan­Meier survival analysis,
+the time to achievement of goals showed
+increasing separation between the study
+cohorts across the entire study period
+(P < .001), especially at 180 days post-inter-
+vention (HBP: 48% vs 27% P < .001 and type
+2 DM: 39% vs. 30%, P < .05) (Figure 2).
+Within the CPSS cohort, there were sig-
+nificantly more ambulatory clinical visits
+compared with the no-CPSS cohort (8.4 vs.
+5.1 visits per patient-year, P < .001) (Table
+3). In the CPSS group, there were 1742
+encounters with the clinical pharmacist,
+averaging 3.07 visits per patient-year (med-
+ian ¼ 3 visits) during enrollment in the
+study. The number of visits to primary
+care, specialty care, and care managers
+(registered nurses) were all significantly
+higher in the CPSS group compared with
+the no-CPSS group (P < .001). While there
+was no difference in hospital admissions,
+there was a significantly higher number of
+emergency department visits in the CPSS
+group compared with the no-CPSS group
+(0.27 vs. 0.21 visits per patient-year,
+P ¼ .007). Additional post-hoc analyses
+were completed to identify the most
+common primary diagnoses that were asso-
+ciated with aberrant visits to the emergency
+department (Figure 3). Of the 133 different
+primary diagnoses, 27 were determined to be
+linked with CPSS comorbidities when
+reviewed by the study team.
+Discussion
+Patients in the CPSS program showed sig-
+nificant improvement in disease manage-
+ment goals and time to achievement
+compared with a patient group who did
+not enroll in this program. Patients in the
+CPSS program experienced a significant
+increase in the rate of all ambulatory
+encounters (i.e., visits with primary and
+specialty care providers, nurse care man-
+agers, and pharmacists), which indicated
+greater overall effectiveness with better
+coordinated care delivery. Additionally,
+patients in the CPSS program showed a
+significantly higher rate of visits to the
+emergency department compared with
+those who did not enroll in this program.
+However, on further review, the emergency
+services that were rendered did not appear
+240 Journal of International Medical Research 46(1)
+Table 1. Baseline characteristics of the study population stratified by participation in Collaborative
+Pharmacist Support Services.
+CPSS group
+n ¼ 359
+No-CPSS group
+n ¼ 999
+n
+Mean Æ SD
+or % n
+Mean Æ SD
+or % P value
+Characteristics
+Age, y 359 61.5 Æ 12.0 999 61.0 Æ 12.9 .50
+Female sex, % 165 50.8 504 51.7 .90
+Race/ethnicity, % .78
+White 306 94.2 910 92.4
+Black 2 0.6 9 0.9
+Asian 5 1.5 23 2.3
+Other/unknown 12 3.7 43 4.4
+Insurance product, % .43
+Commercial 167 51.4 535 54.3
+Medicare (FFS) 79 24.3 239 24.3
+Medicare Advantage 61 18.8 166 16.9
+Medicaid 4 1.3 20 2.0
+Self-pay/unknown 14 4.3 25 2.6
+Health indicators
+Smoking status, % .13
+Current 25 6.6 96 9.6
+Not current 334 93.4 903 90.4
+Clinical characteristics
+High blood pressure
+Prevalence, % 337 93.9 911 91.2 .78
+Duration, y 337 8.2 Æ 5.7 911 7.6 Æ 5.2 .11
+Diabetes mellitus
+Prevalence, % 266 74.1 754 75.5 .99
+Duration, y 266 6.9 Æ 5.1 754 6.1 Æ 4.6 .15
+Depression, % 151 46.5 439 44.6 .55
+Medication class, %
+Anti-hypertensive 334 93.0 658 65.9 < .001
+Metformin 222 61.8 365 36.5 < .001
+Other DM medications* 248 69.1 342 34.2 < .001
+Statins 251 77.2 774 78.6 .61
+Body mass index, kg/m2 325 34.6 Æ 7.6 985 34.5 Æ 7.8 .90
+Body mass index classes, %
+Underweight 1 0.3 3 0.3 .99
+Normal 25 7.7 71 7.2
+Overweight 69 21.2 213 21.6
+Obese 230 70.8 698 70.9
+Mean hemoglobin A1c values
+within 12 months of
+enrollment, %
+266 8.7 Æ 2.1 754 7.4 Æ 1.8 < .001
+Mean blood pressure within 12 months of enrollment
+Systolic, mm Hg 337 138.3 Æ 18.4 911 129.2 Æ 15.3 < .001
+Diastolic, mm Hg 337 78.1 Æ 12.0 911 76.6 Æ 10.3 .05
+*Other diabetes medications included injectable and oral medications excluding metformin.
+Brunisholz et al. 241
+Figure 2. Time to achieve disease management goals: (a) Blood pressure was < 140/90 mmHg for patients
+with high blood pressure. (b) HbA1c values were <8% for patients with DM.
+Table 2. Conditional logistic regression modeling for achievement of HbA1c values < 8% within 12 months
+and blood pressure < 140/90 mmHg in 7 months.
+BP goal < 140/90 mmHg HbA1c goal < 8% BP and HbA1c goals
+#pts
+#met
+goal
+OR
+(95% CI)
+#met
+goal
+OR
+(95% CI)
+#met
+goal OR (95% CI)
+Study cohortz
+No-CPSS 999 283 -- 196 -- 145 --
+CPSS 359 159 1.93
+(1.40, 2.65)*
+113 1.57
+(1.06, 2.34)**
+139 1.86
+(1.28, 2.69)*
+CPSS: Collaborative Pharmacist Support Services; BP: blood pressure; HbA1c: hemoglobin A1c.
+*P <.001; **P <.05; zgroups were adjusted using the characteristics of age, sex, race/ethnicity, insurance status, disease
+status and duration (high blood pressure, diabetes, and depression), baseline systolic and diastolic BP, baseline HbA1c (%),
+body mass index, number of patients per PCP panel, and number of PCPs at the clinic.
+242 Journal of International Medical Research 46(1)
+Table 3. Incidence rate of healthcare use encounters stratified by participation in the Collaborative
+Pharmacist Support Services program.
+Healthcare use
+CPSS group (n ¼ 359)
+No-CPSS group**
+(n ¼ 999)
+Rate
+ratio 95% CI P value
+#events
+#events/
+patient-year #events
+#events/
+patient-year
+Number of ambulatory
+encountersy
+6590 8.37 11,856 5.09 1.64 1.60, 1.70 < .001
+PCP 2511 3.20 6701 2.88 1.11 1.06, 1.17 < .001
+Specialist* 2007 2.56 4831 2.07 1.24 1.17, 1.30 < .001
+Pharmacist 1742 3.07 0 0 -- -- --
+Care manager (RN) 330 0.42 324 0.14 3.03 2.60, 3.54 < .001
+Number of ED visits 243 0.27 512 0.22 1.23 1.06, 1.45 .007
+Number of hospital
+admissions
+115 0.13 264 0.11 1.14 0.90, 1.42 .25
+PCP: primary care physician; CPSS: Collaborative Pharmacist Support Services; CI: confidence interval; ED: emergency
+department.
+*Number of visits to the provider without primary care specialty designation; ynumber of ambulatory encounters
+combining PCP, specialty, care management, and pharmacy services; **the control group was propensity matched using the
+characteristics of age, sex, race/ethnicity, insurance status, disease status and duration (high blood pressure, diabetes, and
+depression), body mass index, baseline HbA1c (%), baseline systolic and diastolic BP, number of patients per PCP panel, and
+number of PCPs at the clinic.
+29
+9
+7
+5 5 5 5
+4 4 4 4 4 4
+3 3 3 3 3 3 3 3
+0
+5
+10
+15
+20
+25
+30
+35
+Count of Emergency Department Visits
+Primary ICD9 diagnosis descriptions
+Figure 3. Twenty most common diagnoses associated with emergency department visits in the intervention
+group
+CPSS: Collaborative Pharmacist Support Services; ICD-9: International Classification of Diseases, Ninth
+Revision; ED: emergency department.
+Brunisholz et al. 243
+attributable to the program and the clinical
+relevance is unclear. Nonetheless, these
+results originated from a population of
+patients who had established medical home
+practices. This population has previously
+demonstrated exceptional baseline medical
+therapy and achievement of disease
+management targets.15
+A large body of evidence supports intensi-
+fication of treatment and adherence to the
+treatment regimen as significantly leading to
+improved control of DM and HBP.20 A lack
+of these factors is defined as a failure to either
+increase a drug dose or change a drug class.
+Findings in our study support previous clin-
+ical trials that showed an improvement of
+approximately 20% in achievement of clin-
+ical targets and a $1600 reduction in health-
+care use costs.3 While these studies validate
+the results in our study, the IH CPSS
+program went beyond what has been previ-
+ously reported. This program uniquely
+authorized the pharmacist to take account-
+ability for a patient's disease management
+experience within a medical home practice,
+while efficiently coordinating care among the
+whole clinical team.
+However, even with success of the IH
+CPSS program, operational resources to
+deliver non-traditional models of ambula-
+tory care require substantial investment and
+a pay-for-value strategy. In this program,
+clinical pharmacists were unable to bill for
+the collaborative services that were ren-
+dered. The pharmacists' salary was paid
+for by institution to test the effectiveness of
+this modality for improving adherence to
+clinical management goals. Ultimately,
+implementing CPSS will be an ongoing
+investment where outcomes that provide
+value to the health system may need to be
+realized over time. If this program is sup-
+ported by value-based or capitated reim-
+bursement structures, it could represent
+decreased healthcare expenses.
+With growing patient panels for phys-
+icians (average for an IH physician is > 2000
+patients), three additional encounters were
+needed to further refine clinical disease
+targets, as demonstrated in this study to
+achieve superior results compared with a
+matched control group. Using ancillary
+clinical team members to perform CDTM
+becomes an operational necessity to provide
+access and efficiency in delivering these
+services. As healthcare delivery systems
+move towards capitated reimbursement
+models, investing in collaborative pharmacy
+services may reduce the professional salary
+cost by as much as half to deliver chronic
+disease management. This could result in
+major savings to accountable care organiza-
+tions and/or capitated systems.21 Further
+rigorous economic analyses studying the
+financial effects of this program in relation
+to other integration improvement activities
+were not part of the scope of this study.
+However, these analyses are required to
+prioritize and support the spread of innov-
+ations that provide the most value to cus-
+tomers, with the patient and their families
+foremost.
+Finally, this program had operational
+challenges. Further evaluation is ongoing
+to study facilitators and barriers to imple-
+mentation and patients' reports of their
+experience. Similar to the literature, engage-
+ment of patients and activation were major
+impediments observed by clinical pharma-
+cists for obstructing the services that they
+rendered.22 Additionally, the cost of treat-
+ment (i.e., medications, monitoring tools,
+and devices) needed to optimize the disease
+management process for patients contrib-
+utes to stagnant intensification or poor
+adherence. This could potentially lead to
+avoidable incident disease and complica-
+tions over time.20 Uncertainty still exists
+regarding how to finance new mechanisms
+of value-based care delivery. Additionally,
+determining who is responsible within the
+care delivery system to cover the expenses of
+the CPSS program still continues to affect
+expansion and dissemination. Despite these
+244 Journal of International Medical Research 46(1)
+issues, the CPSS program transformed the
+practice culture among the intervention
+clinics. Physicians and care management
+nurses worked in concert with pharmacists
+to provide improved and timely care. This
+study showed that integrating clinical
+pharmacists into established medical home
+practices provided additional levels of suc-
+cess in managing chronic disease within a
+learning healthcare system. The CPSS pro-
+gram may be used nationally as demonstra-
+tion of a promising practice for improving
+adherence to clinical goals.
+Limitations
+The control group was carefully selected
+from an adjacent geographical region that
+was not participating in this program to
+account for possible selection bias.
+However, patients who were enrolled in the
+CPSS program may have been more ready to
+change than those who did not participate.
+Subsequently, there remains a possibility that
+PCPs only referred patients that they felt
+would participate in CPSS. Unfortunately,
+data were not available to measure this
+possibility (i.e., through documentation in
+the EMR or through measurement of health
+literacy, patient activation, or engagement
+levels) and should be an area of future study.
+Additionally, patients who were enrolled in
+CPSS were prescribed proportionally more
+medications, presenting a possible selection
+bias. However, biometrics (i.e., HbA1c and
+blood pressure) were also elevated in this
+group of patients, potentially indicating a
+more complicated clinical course.
+The IH Diabetes Registry does not dis-
+tinguish between type 1 or type 2 DM.
+Therefore, the study groups may still include
+both disease phenotypes within the patient
+population. In this study, we
+identified > 40,000 patients who were diag-
+nosed with DM and/or HBP. However, only
+a small proportion of this group was
+enrolled because of the pragmatic nature of
+this evaluation related to resource and clin-
+ical constraints within primary care teams.
+We acknowledge that the study population
+was largely derived from patients who had
+visited a primary care provider within a
+large integrated healthcare system and may
+not be generalizable to populations outside
+of IH. Data that include social determinants
+of health (income and education level,
+number of family members or dependents,
+and the contextual elements of the neigh-
+borhood or geographical location where the
+patient lives) are predictive of outcomes in
+control of disease management; however,
+these data were not available for this
+study. The level of satisfaction with the
+program, patient activation and/or
+engagement were not measured and sec-
+ondary data collection was not available
+for analysis. Additionally, the exact mode
+of the pharmacist's interaction was not
+differentiated in the medical record (i.e.,
+interaction via face-to-face visits, tele-
+phone visits, or secure electronic messa-
+ging) and thus this information was not
+available for study. Iteration on data
+collection processes is planned to allow
+for future understanding on the best
+method of delivering the intervention.
+Conclusions
+Integrating clinical pharmacists to function
+in collaboration with established care teams
+for direct management of chronic diseases
+using CDTM is proposed. This could opti-
+mize operational utility, promote evidence-
+based change within a learning healthcare
+system, and demonstrate improved adher-
+ence to clinical goals. Furthermore, this
+study highlights the promise of improving
+the efficiency of care teams, while reducing
+the burden of disease management, which is
+traditionally exclusively attributed to
+physicians.
+Brunisholz et al. 245
+Acknowledgements
+This research was supported by the combined
+efforts of IH's Medical Group, Pharmacy
+Services, the Primary Care Clinical Program,
+and the Institute for Healthcare Delivery
+Research.
+Declaration of conflicting interest
+The Authors declare that there is no conflict of
+interest.
+Funding
+This research received no specific grant from any
+funding agency in the public, commercial, or not-
+for-profit sectors.
+References
+1. Kindig D and Stoddart G. What is popu-
+lation health? Am J Public Health 2003; 93:
+380­383.
+2. Reiss-Brennan B, Brunisholz KD, Dredge C,
+et al. Association of integrated team-based
+care with health care quality, utilization, and
+cost. JAMA 2016; 316: 826­834.
+3. Smith M, Giuliano MR and Starkowski MP.
+In Connecticut: improving patient medication
+management in primary care. Health Aff
+(Millwood) 2011; 30: 646­654.
+4. Houle SK, Chuck AW, McAlister FA, et al.
+Effect of a pharmacist-managed hypertension
+program on health system costs: an evaluation
+of the study of cardiovascular risk interven-
+tion by pharmacists-hypertension (SCRIP-
+HTN). Pharmacotherapy 2012; 32: 527­537.
+5. Bunting BA, Smith BH and Sutherland SE.
+The Asheville Project: clinical and economic
+outcomes of a community-based long-term
+medication therapy management program for
+hypertension and dyslipidemia. J Am Pharm
+Assoc (2003) 2008; 48: 23­31.
+6. American College of Clinical Pharmacy,
+McBane SE, Dopp AL, et al. Collaborative
+drug therapy management and comprehensive
+medication management-2015.
+Pharmacotherapy 2015; 35: e39­e50.
+7. American Pharmacists Association
+Foundation and American Pharmacists
+Association. Consortium recommendations
+for advancing pharmacists' patient care ser-
+vices and collaborative practice agreements.
+J Am Pharm Assoc (2003) 2013; 53:
+e132­e141.
+8. Services USDoHaH. Special Report to
+Senate Appropriations Committee:
+Advancing Clinical Pharmacy Services in
+Programs Funded by the Health Resources
+and Services Administration and its Safety-
+Net Providers. 2010; https://docs.340bpvp.
+com/documents/public/resourcecenter/
+HRSA_ACPS_report.pdf
+9. Hirsch JD, Steers N, Adler DS, et al. Primary
+care-based, pharmacist-physician collabora-
+tive medication-therapy management of
+hypertension: a randomized, pragmatic trial.
+Clin Ther 2014; 36: 1244­1254.
+10. McConnell KJ, Zadvorny EB, Hardy AM,
+et al. Coronary artery disease and hyperten-
+sion: outcomes of a pharmacist-managed
+blood pressure program. Pharmacotherapy
+2006; 26: 1333­1341.
+11. Parker CP, Cunningham CL, Carter BL,
+et al. A mixed-method approach to evaluate
+a pharmacist intervention for veterans with
+hypertension. J Clin Hypertens (Greenwich)
+2014; 16: 133­140.
+12. McAdam-Marx C, Dahal A, Jennings B,
+et al. The effect of a diabetes collaborative
+care management program on clinical and
+economic outcomes in patients with type 2
+diabetes. J Manag Care Spec Pharm 2015;
+21: 452­468.
+13. Taveira TH, Dooley AG, Cohen LB, et al.
+Pharmacist-led group medical appointments
+for the management of type 2 diabetes with
+comorbid depression in older adults. Ann
+Pharmacother 2011; 45: 1346­1355.
+14. Johnson KA, Chen S, Cheng IN, et al. The
+impact of clinical pharmacy services inte-
+grated into medical homes on diabetes-
+related clinical outcomes. Ann Pharmacother
+2010; 44: 1877­1886.
+15. Muhlestein JB, Lappe DL, Lima JA, et al.
+Effect of screening for coronary artery dis-
+ease using CT angiography on mortality and
+cardiac events in high-risk patients with
+246 Journal of International Medical Research 46(1)
+diabetes: the FACTOR-64 randomized clin-
+ical trial. JAMA 2014; 312: 2234­2243.
+16. James BC and Savitz LA. How
+Intermountain trimmed health care costs
+through robust quality improvement efforts.
+Health Aff (Millwood) 2011; 30: 1185­1191.
+17. /2012 HEDIS Quality Assurance Reporting
+Requirements. New York2011.
+18. Rosenbaum PR and Rubin DB. The central
+role of propensity score in observational
+studies for causal effects. Biometrika 1983;
+70: 41­55.
+19. Rose S and Laan MJ. Why match?
+Investigating matched case-control study
+designs with causal effect estimation. Int J
+Biostat 2009; 5: Article 1.
+20. Professional practice committee for the
+standards of medical care in diabetes-2016.
+Diabetes Care 2016; 39(Suppl 1): S107­S108.
+21. Occupational Outlook Handbook. 2016;
+http://www.bls.gov/ooh/home.htm.
+Accessed November 15, 2016.
+22. Smith M, Bates DW, Bodenheimer T, et al.
+Why pharmacists belong in the medical
+home. Health Aff (Millwood) 2010; 29:
+906­913.
+Appendix
+Table A1. Definitions of chronic conditions.
+Chronic
+condition Diagnoses (ICD-9-CM)* Encounters (CPT)* Exclusions
+High blood
+pressure
+360.42, 362.11, 401, 401.0,
+401.1, 401.9, 402, 402.0,
+402.00, 402.01, 402.1,
+402.10, 402.11, 402.9,
+402.90, 402.91, 403, 403.0,
+403.00, 403.1, 403.10,
+403.9, 403.90, 404, 404.0,
+404.00, 404.01, 404.1,
+404.10, 404.11, 404.90,
+404.9, 404.91, 405, 405.0,
+405.01, 405.09, 405.1,
+405.11, 405.19, 405.9,
+405.91, 405.99, 437.2
+Outpatient visit for the
+following: 99201-05,
+99211-15, 99241-
+45, 99341-50,
+99381-87, 99391-
+97, 99401-04,
+99411-12, 99420,
+99429, 99455-56
+No documentation of
+renal transplant
+Depression 296.2, 296.20, 296.21, 296.22,
+296.23, 296.24, 296.25,
+296.26, 296.3, 296.30,
+296.31, 296.32, 296.33,
+296.34, 296.35, 296.36,
+296.82, 296.90, 298, 298.0,
+300.4, 309.1, 309.28, 311
+Hospital admission,
+emergency depart-
+ment visit, or
+outpatient visit for
+the following:
+99201-05, 99211-
+15, 99241-45,
+99341-50, 99381-
+87, 99391-97,
+99401-04, 99411-
+12, 99420, 99429,
+99455-56
+None
+(continued)
+Brunisholz et al. 247
+Table A1. Continued.
+Chronic
+condition Diagnoses (ICD-9-CM)* Encounters (CPT)* Exclusions
+Diabetes mellitus 250.x Hospital admission,
+emergency depart-
+ment visit, or
+two outpatient visits
+for the following:
+99201-05, 99211-
+15, 99241-45,
+99341-50, 99381-
+87, 99391-97,
+99401-04, 99411-
+12, 99420, 99429,
+99455-56
+Dispensed insulin or
+hypoglycemic/anti-
+hyperglycemics on
+an ambulatory basis
+None
+ICD-9-CM: International Classification of Diseases, Ninth Revision, Clinical Modification; CPT: current procedural
+terminology.
+*To be identified with a chronic condition. Specifications require at least one CPTand ICD-9-CM code to be paired on the
+same day.
+248 Journal of International Medical Research 46(1)
+

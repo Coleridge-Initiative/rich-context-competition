@@ -1,0 +1,1628 @@
+Discussion Paper
+Deutsche Bundesbank
+No 20/2017
+The Fisher paradox: A primer
+Rafael Gerke
+Klemens Hauzenberger
+Discussion Papers represent the authors` personal opinions and do not
+necessarily reflect the views of the Deutsche Bundesbank or its staff.
+Editorial Board:
+Deutsche Bundesbank, Wilhelm-Epstein-Straße 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-0
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978­3­95729­376­3 (Printversion)
+ISBN 978­3­95729­377­0 (Internetversion)
+Daniel Foos
+Thomas Kick
+Malte Knüppel
+Jochen Mankart
+Christoph Memmel
+Panagiota Tzamourani
+Non-technical summary
+Research Question
+Can central banks increase inflation in the short run by increasing nominal interest
+rates? Yes, according to the neo-Fisherian view. For central bankers this sounds odd,
+since they widely believe that cutting interest rates increases inflation.
+Contribution
+In this primer we illustrate that the neo-Fisherian view critically hinges on equilibrium
+selection and, more generally, on the formation of expectations. The neo-Fisherian view
+is thus not compelling.
+Results
+We show, first, that the prototypical new-Keynesian model for monetary policy analysis
+with a temporary fixed interest rate generates multiple equilibrium paths: some of them
+are consistent with the neo-Fisherian view, others are not. Second, the unique optimal
+monetary policy at the lower bound on interest rates, which can be implemented in the
+model with interest rate rules and state-contingent forward guidance, does not result in a
+paradoxical interest-inflation channel. Third, if one relaxes the assumption of perfect
+foresight or rational expectations, the new-Keynesian model produces an equilibrium
+that is not consistent with the new-Fisherian view.
+Nichttechnische Zusammenfassung
+Fragestellung
+Können Notenbanken in der kurzen Frist die Inflation erhöhen, wenn sie den
+gelpolitischen Nominalzins anheben? Die neo-Fishersche Sicht (neo-Fisherian view),
+bejaht dies. Dies sollte Notenbanker verblüffen, denn überwiegend wird eine
+Zinssenkung zur Erhöhung der Inflation als zielführend gesehen.
+Beitrag
+In dieser Einführung zeigen wir, dass die neo-Fishersche Sichtweise wesentlich von der
+Gleichgewichtsselektion abhängt und ­ allgemeiner ­ von der Erwartungsbildung der
+Akteure. Wir erachten die neo-Fishersche Sichtweise daher nicht als zwingend.
+Ergebnisse
+Wir zeigen als erstes Resultat, dass das prototypische neu-Keynesiansche Modell mit
+einem temporär fixierten Zinssatz (z.B. an der Zinsuntergrenze) ein Kontinuum an
+Gleichgewichten impliziert. Manche dieser Gleichgewichte sind mit der neo-
+Fisherschen Sichtweise kompatibel, andere sind es nicht. Zweitens, die eindeutig
+bestimmte optimale Geldpolitik an der Zinsuntergrenze, implementiert durch eine
+Zinsregel und zustandsabhängiger Forward-Guidance, weist keinen paradoxen Zins-
+Inflationskanal auf. Drittens, weicht man von der üblichen Annahme der perfekten
+Voraussicht oder rationaler Erwartungen ab, ergibt sich im neu-Keynesianischen Modell
+ein Gleichgewicht, das nicht der neo-Fischerschen Sichtweise entspricht.
+BUNDESBANK DISCUSSION PAPER NO 20/2017
+The Fisher paradox: A primer1
+Rafael Gerke
+Deutsche Bundesbank
+Klemens Hauzenberger
+Deutsche Bundesbank
+Abstract
+The neo-Fisherian view does not consider a negative interest rate gap a prerequisite for boosting
+inflation. Instead, a negative interest rate gap is said to lower inflation. We discuss this
+counterintuitive response ­ known as the Fisher paradox ­ in a prototypical new-Keynesian
+model. We draw the following conclusions. First, with a temporarily pegged nominal rate
+during a liquidity trap (given an otherwise standard Taylor rule) the model generally produces
+multiple equilibrium paths: some of these paths are consistent with the neo-Fisherian view,
+others are not. Second, the unique optimal monetary policy at the lower bound on interest rates,
+which can be implemented in the model with interest rate rules and state-contingent forward
+guidance, does not result in a paradox. Third, if the assumption of perfect foresight or rational
+expectations is relaxed, the model produces an equilibrium that is not consistent with the neo-
+Fisherian view.
+Keywords: Neo-Fisherian; Interest Rates; Inflation; Multiple Equilibria; Rational Expectations
+JEL-Classification: E31; E43; E52
+1 Contact address: R. Gerke and K. Hauzenberger: Monetary Policy and Analysis Division Department,
+Deutsche Bundesbank, Wilhelm-Epstein-Straße 14, 60431 Frankfurt am Main (e-mail:
+rafael.gerke@bundesbank.de; klemens.hauzenberger@bundesbank.de). We thank Eric Sims for valuable
+comments, and John Cochrane and Johannes Pfeiffer for sharing their codes with us. Discussion Papers
+represent the authors' personal opinions and do not necessarily reflect the views of the Deutsche
+Bundesbank or its staff.
+1
+1 Introduction
+It is widely accepted that a central bank should cut its policy rate rapidly and sharply in
+response to an adverse shock. If the shock is large enough, the policy rate, in extreme
+circumstances, will be brought down to the lower bound (which, for the sake of
+simplicity, is set at zero). "Sooner or later", this kind of monetary policy (conditional on
+how it is implemented) should lead to an upturn in aggregate demand and thus drive up
+inflation.
+However, despite the very expansionary monetary policy stance, particularly in the euro
+area but also in the United States, no self-supporting rise in inflation can be identified to
+date. It is commonly argued that this is because of a (temporarily) low natural rate of
+interest.2 The argument holds that the natural rate of interest fell so sharply during the
+Great Recession that even the current low real interest rates are still having a
+contractionary effect, and that there is therefore a positive interest rate gap, ie
+( ) ( ) ( ) 0
+i t t r t
+
+- - > , where ( )
+r t denotes the natural interest rate.
+An alternative explanation, which will be our main focus in this paper, is that a negative
+interest rate gap is by no means a prerequisite for driving up inflation. Instead,
+according to this view, a negative interest rate gap lowers inflation, thus reversing the
+sign vis-à-vis the conventional interest rate channel. Such a counterintuitive response
+from the inflation rate following a fall in the policy rate is known as Fisher paradox or
+neo-Fisherianism.
+The neo-Fisherian view holds that the long period of low interest rates itself contributed
+to the fall in inflation and thus to the current low inflation rates. Thus the forward
+guidance that policy rates would remain low for an extended period of time should have
+steered inflation expectations towards deflation or at least disinflation. Conversely,
+under the neo-Fisherian view the central banks should raise interest rates in order to
+increase inflation. Prominent advocates of this view include John Cochrane and Stephen
+Williamson.3
+2 A low natural interest rate compared with the pre-crisis level.
+3 Alongside the academic discussion, the neo-Fisherian view is also hotly debated on some blogs. See
+http://johncochrane.blogspot.com and http://newmonetarism.blogspot.com.
+2
+We discuss the neo-Fisherian view in a prototypical new-Keynesian model and come to
+the following conclusions. First, with a temporarily pegged nominal rate during a
+liquidity trap (given an otherwise standard Taylor rule) the model generally produces
+multiple equilibrium paths: some of these paths are consistent with the neo-Fisherian
+view, others are not. Second, the optimal monetary policy at the lower bound on interest
+rates, which can be implemented in the model with interest rate rules and state-
+contingent forward guidance, does not result in a paradox (see Duarte, 2016). Third, if
+the assumption of perfect foresight or rational expectations is relaxed (either along the
+lines of García-Schmidt and Woodford, 2015 or Gabaix, 2016), the model produces an
+equilibrium that is not consistent with the neo-Fisherian view.
+In related work Garín, Lester and Sims (2016) document how reducing the inherently
+forward-looking nature of the standard new-Keynesian model also helps to escape the
+Fisher paradox.
+2 The Fisher paradox under perfect foresight and its
+resolution
+2.1 The problem of multiple equilibria
+The academic debate about the neo-Fisherian view is based on the prototypical
+(linearised) new-Keynesian model, which is composed of an IS and a Phillips curve,
+( )
+( ) ( ) ( ) ( ) ,
+( ) ( ) ( ),
+x t i t r t t
+t t x t
+ 
+ r 
+= - -
+= -
+
+
+where ( )
+x t and ( )
+t
+ denote the output gap and inflation, ( )
+r t is the natural interest rate
+and ( )
+i t represents the nominal interest rate (the new-Keynesian model is shown here in
+time-continuous form).4 In this model framework, the natural interest rate is assumed to
+be exogenous and therefore independent of nominal interest rates (according to
+conventional wisdom, the natural interest rate is independent of nominal factors).
+If the zero lower bound is binding, the Taylor rule ( ) ( ) ( ) ( )
+x
+i t t x t r t
+
+  
+= + + is
+temporarily disabled; for a finite period the nominal interest rate becomes thus a fixed
+4 For more information, see the mathematical annex in Chapter 5. The parameter  represents the
+interest elasticity (and 1/  the elasticity of intertemporal substitution),  denotes the discount rate of the
+agents and  the degree of price rigidity.
+3
+variable (interest rate peg). Without an active Taylor rule (active implies
+( / ) 1
+x
+
+   
++ > ), be it permanent or only temporary, the determinate stable equilibrium
+is "lost", ie the prototypical two-equation new-Keynesian model then generally
+produces multiple equilibrium paths.5 As is illustrated below, the differing points of
+view on the aforementioned interest rate channel and thus the neo-Fisherian view are
+closely connected with the existence of multiple equilibria.
+Yet in the long run, at least on the basis of the new-Keynesian model, there is no
+discord between the two points of view, as the long-term equilibrium level of inflation ­
+for both the conventional and the neo-Fisherian views ­ can be described using the
+Fisher equation (which, in turn, can be derived from the IS curve):
+( ) ( ) ( ).
+t i t r t
+ = -
+According to this, a lasting increase in nominal interest rates ­ for a given natural
+interest rate ­ raises inflation. In the long term, Fisher neutrality therefore applies:
+( ) ( )
+d di
+  =  .
+Although "exact" Fisher neutrality cannot be observed empirically, higher nominal
+interest rates are often accompanied by higher inflation (eg Evans, 1998). For the long
+run, the neo-Fisherian view is therefore uncontroversial (eg Gabaix, 2016). However,
+there is some dispute over whether the positive relationship between the level of
+nominal interest rates and the level of inflation already applies in the short term.6 This
+"wrong" sign vis-à-vis the conventional policy rate channel formally describes the
+Fisher paradox.
+Where does the Fisher paradox ­ and thus the difference of opinion regarding the short
+term ­ originate? As mentioned above, the prototypical new-Keynesian model with a
+temporary interest peg (given an otherwise applicable Taylor rule) generally produces
+multiple equilibrium paths. Some of these paths are compatible with the paradox, ie
+they model the neo-Fisherian view; others are not and thus model the conventional
+policy rate channel. This means that the choice of equilibrium is critical to the existence
+5 If the Taylor rule always holds and there is no lower bound on interest rates, there is a locally
+determinate stable equilibrium (Duarte, 2016, p 23 and García-Schmidt and Woodford, 2015, p 16).
+6 See the abstract in Cochrane (2016a: "If the Fed raises nominal interest rates, the [conventional new-
+Keynesian] model predicts that inflation will smoothly rise, both in the short run and long run. [My]
+paper presents a series of failed attempts to escape this prediction."
+4
+and thus the plausibility of the Fisher paradox. However, until it is "clarified" beyond
+doubt what economic criteria should be applied when choosing from the many
+equilibrium paths in the prototypical new-Keynesian model, the question of what
+happens after an, say, interest rate hike cannot be answered conclusively.
+From a mathematical point of view, the multiple equilibria in the present model
+framework are the result of having "too many" degrees of freedom; in our prototypical
+model these are two free constants, which are part of the solution to the two differential
+equations of the prototypical new-Keynesian model.7 Depending on how these
+constants are chosen, the model generates an equilibrium path that is either compatible
+or incompatible with the Fisher paradox. Below, we therefore present a series of
+alternatives for selecting equilibria (see also the mathematical annex) and explain the
+implications that this selection has for the occurrence of the paradox.
+There appears to be no consensus in the literature about the economic criteria for the
+choice of "free" constants (see Cochrane, 2011). This explains why some prominent
+economists consider the Fisher paradox to be plausible while others do not.
+By way of example, Figure 1 shows nine equilibrium paths from a continuum of
+equilibria which are all consistent with the same interest rate path. For the first five
+years, a liquidity trap with a positive interest rate gap is assumed, ( ) ( ) 4%
+i t r t
+- =(for the
+sake of simplicity, the inflation target is set at zero) where the nominal interest rate
+( ) 0%
+i t = and the natural interest rate ( ) 4%
+r t = - . Following the liquidity trap, the
+natural interest rate returns to the steady state and, accordingly, the central bank is able
+to close the interest rate gap, meaning that ( ) ( )
+i t r t
+= applies following the liquidity trap.
+For each of the stable equilibria modelled here, one of the free constants is calculated
+with an additional condition for ( )
+t
+ at a given time t .8 The equilibrium accompanying
+the conventional interest rate channel ­ indexed by ( ) 0
+T
+ = in Figure 1 ­ assumes that,
+at the end of the liquidity trap, the central bank is aiming for and achieves the steady
+7 See the mathematical annex in Chapter 5 for details on this solution and a discussion of the "free"
+constants.
+8 The mathematical annex in Chapter 5 details how a free constant is calculated using such an additional
+condition. Alternatively, an additional condition could be formulated for ( )
+x t . The second free constant
+can be calculated comparatively "uncontroversially" provided that, as is usual in the literature, the
+analysis is restricted to those paths which are locally stable, ie the equilibria which are stable going
+forwards in time and thus return to the steady state.
+5
+state with ( ) ( ) 0
+T x T
+= = . During the liquidity trap, this commonly discussed
+equilibrium (eg Werning, 2012) is accompanied by a deep recession and deflation. Such
+Figure 1: Multiple equilibrium paths given perfect foresight
+Notes: By way of example, Figure 1 shows nine stable equilibrium paths. The economy falls into a liquidity trap with
+( ) 0%
+i t = and ( ) 4%
+r t = - between 0
+t = and 5
+t T
+= = ; for t T
+> the interest rate gap is closed, ie ( ) ( ) 4%
+i t r t
+= =
+(along similar lines to Cochrane, 2016b). The prototypical two-equation model is calibrated as in Galí (2015):
+0.01
+ = , 1
+ = and 0.17
+ = . As in Cochrane (2016b), we show only those paths from the continuum of equilibria
+that are stable going forwards in time.
+6
+deflation is not observed in the equilibria favoured by Cochrane (2016b), indexed by
+( ) 0
+ - = or (0) 0
+ = .9 For both equilibrium paths, the inflation rates remain in or
+above the steady state throughout and thus reflect the neo-Fisherian view. For these two
+paths, the recession is less sharp and is followed by a boom at the end of the liquidity
+trap. Cochrane (2016a) "justifies" these equilibria in part by pointing out that sharp
+deflation was not observed in the United States after the onset of the crisis, thus
+concluding that the conventional equilibrium and its implications were not plausible.10
+2.2 One resolution of the paradox
+One logical option for solving the problem of having multiple equilibria which is not
+considered by Cochrane (2016a, 2016b) is to determine the optimal monetary policy ­
+ie the one that maximises utility ­ because the optimal equilibrium is determinate (eg
+Werning, 2012 and Duarte, 2016). For the continuous-time model, the initial conditions
+that are consistent with the optimal monetary policy can be determined using the
+maximum principle.
+Direct implementation of the optimal monetary policy at the zero bound is not possible,
+however, as knowledge of the optimal monetary policy does not per se provide any
+indication of how it can be implemented in practice (a case in point is the targeting rule
+under commitment, which basically only formulates how output and inflation can be
+optimally managed). In other words, knowledge of the optimal and determinate
+equilibrium ­ characterised by a certain output/inflation path ­ does not initially provide
+any indication as to how this can be implemented via a monetary policy rule and
+forward guidance.
+If the central bank combines a monetary policy rule with calendar-based forward
+guidance, it is not possible to implement the optimal monetary policy in a determinate
+manner (Duarte, 2016, Proposition 1). The problem of selection and thus the existence
+of multiple equilibrium paths therefore remains if forward guidance is calendar-based.
+By contrast, if a monetary policy rule with state-contingent forward guidance is
+implemented, it is possible to apply the optimal monetary policy as a determinate
+9 For the equilibrium indexed by ( ) 0
+ - = , the free constant is set to zero. See the mathematical annex in
+Chapter 5.1.
+10 Another attempt to support the neo-Fisherian view is the price puzzle, a characteristic of many
+empirical VAR studies (see Cochrane, 2016a).
+7
+equilibrium (Duarte, 2016, Chapter 5.2 and 5.3 shows interest rate rules of this kind).11
+The optimal monetary policy has two characteristics. First, it implies that the policy rate
+must be kept at the lower bound for longer than the actual shock lasts (see Figure 2).
+This means that the interest rate gap for *
+T t T
+> > is negative, as the central bank
+keeps the policy rate at the zero bound until *
+T despite the natural interest rate being
+positive. Only afterwards is the interest rate gap closed. The optimal time *
+T for the
+policy "lift-off" is state-contingent and is not given a priori.
+Figure 2: Optimal determinate equilibrium under commitment
+Notes: Figure 2 shows the optimal equilibrium path. Much like in Figure 1, between 0
+t = and 5
+t T
+= = the
+economy falls into a liquidity trap with ( ) 0
+i t = and ( ) 4%
+r t = - ; for *
+T t T
+> > the interest rate gap is negative, as
+the central bank keeps the policy rate at the zero bound until *
+T despite the natural interest rate being positive. Only
+afterwards is the interest rate gap closed (ie the nominal rate is adjusted to the natural rate). The prototypical two-
+equation model is calibrated as in Figure 1.
+In addition, the initial response of inflation given the optimal monetary policy has the
+"right" sign, ie a positive interest rate gap initially dampens the inflation rate. The
+Fisher paradox thus cannot be observed (ironically, given the optimal monetary policy,
+a positive inflation rate can also be observed in some phases of the liquidity trap.
+11 For the new-Keynesian model in discrete time, see Eggertsson and Woodford, 2003, and Jung,
+Teranishi and Watanabe, 2005.
+8
+However, this is not a general feature of the optimal policy but is due to the specific
+calibration.)12
+3 Fisher paradox vanishes without perfect foresight
+An alternative option for solving the problem of equilibrium selection and thus avoiding
+multiple equilibria is to modify the present underlying analytical framework, especially
+the assumption of a perfect foresight equilibrium (PFE) or the "softening" of rational
+expectations. A proposal of this sort was put forward by García-Schmidt and Woodford
+(2015) (henceforth GSW). A different way of resolving the Fisher paradox focusses on
+behavioural economic considerations, which we will briefly outline following GSW.
+The foundation of the considerations of GSW is a new equilibrium concept which is no
+longer based on the assumption of rational expectations but has an underlying "process
+of reflection" (roughly, a way of learning); agents iteratively adapt their initial beliefs
+until a PFE has (ideally) been reached. The underlying equilibrium concept is called
+reflective equilibrium (see Woodford, 2013). The iterative process can, under certain
+circumstances, converge towards one of the multiple equilibria. In this context, the
+process of reflection thus takes on the equilibrium selection (the features of an
+equilibrium selected in this way largely depend on the duration of the iteration process).
+In the prototypical new-Keynesian two-equation model with a (temporary or permanent)
+fixed nominal interest rate, the process of reflection converges at a slower pace than in
+cases where the Taylor rule always applies. If the interest rate has been fixed for a
+sufficient length of time, the reflective equilibrium does not at all converge towards one
+of the multiple "rational" equilibria. It is therefore impossible to make an unambiguous
+statement about the features of the equilibrium "determined" using the iterative process
+because the features of the equilibrium determined in this way hinge on how long the
+iterative process is permitted to last.
+According to GSW, it is nevertheless possible to assess the equilibrium paths in
+qualitative terms, if these were determined using the iterative process. Hence, according
+to GSW, a temporarily constant interest rate generally leads to higher demand, which,
+12 The calibration of the prototypical two equation model is based on Galí (2015). The calibration is
+merely for illustrative purposes and does not purport to bring the model "as close as" possible to the data.
+9
+in turn, increases output and inflation.13 The reflective equilibrium thus does not run
+into the Fisher paradox, which may be regarded as irrelevant in the context of this
+approach; this is because of the fact that the PFE equilibrium paths compatible with the
+paradox cannot be achieved iteratively. Similarly, if the interest rate is fixed for a very
+long period, the Fisher paradox cannot be observed either (see GSW, chart 5 and
+proposition 6).
+An alternative way of resolving the paradox, which represents a somewhat less radical
+deviation from the paradigm of perfect foresight or rational expectations, is based on
+behavioural economics, but does not require a new equilibrium concept. In this type of
+models agents are not completely rational and are "inattentive" to macroeconomic
+indicators (bounded rationality).14 Based on this assumption, Gabaix (2016) derives a
+modified IS and the Phillips curve
+( )
+( ) ( ) ( ) ( ) ( ) ,
+( ) ( ) ( ),
+x t x t i t r t t
+t t x t
+  
+ r 
+= + - -
+= -
+
+
+
+where merely the discount factor 0 1
+
+<  is added to the IS equation as a model
+parameter (in this set-up, the standard discount factor in the Phillips curve also changes;
+" 
+
+" is therefore used to make the distinction). If agents are sufficiently myopic, in
+other words, if they have a high preference for the present (which is controlled via
+discount factor  ), the solution of the above system of differential equation is stable and
+unique. This solution contradicts the neo-Fisherian view (see Figure 3). In mathematical
+terms, this is owed to the fact that all free constants can now be eliminated by
+considering stable equilibria only.15 The Fisher paradox is thus also resolved in the
+behavioural model of Gabaix (2016).
+13 If the iterative process lasts long enough, the reflective equilibrium converges towards a unique PFE
+(García-Schmidt and Woodford, 2015, proposition 4). This PFE is not compatible with the Fisher
+paradox.
+14 Empirical evidence for households' and corporations' "inattention" to macroeconomic indicators can
+be found in Coibion and Gorodnichenko (2015) and Taubinsky and Rees-Jones (2015) as well as Caplin,
+Dean and Martin (2011).
+15 For the detailed derivations, see the mathematical annex (Chapter 5.2).
+10
+Figure 3: Behavioural model ­ unique equilibrium
+Notes: As in Figure 1, the economy falls into a liquidity trap between 0
+t = and 5
+t T
+= = , while the interest rate gap
+is closed for t T
+> . The prototypical two-equation model is calibrated as in Galí (2015): 1
+ = and 0.17
+ = . The
+discount factor in the IS curve is set at 0.8
+ = , leading to 0.73
+ =
+
+in the Phillips curve. The paths (thin lines)
+highlighted in Figure 1 and discussed in the main text are shown for comparison.
+4 Assessment
+This short note discusses the Fisher paradox based on the prototypical new-Keynesian
+model using the liquidity trap as an example. The explanations in this paper are
+intended to illustrate that the neo-Fisherian view is not an imperative implication of the
+new-Keynesian model, but is related to the issue of equilibrium selection.
+What are the advantages of selecting an equilibrium path that is compatible with the
+neo-Fisherian view? According to Cochrane (2016b), it is not least the equilibrium
+path's implications at the zero lower bound on interest rates that represent an advantage,
+as it does not exhibit a deep and long-lasting recession or a pronounced deflation in the
+liquidity trap. On the contrary, the inflation rates are consistently at or above the steady
+state. In this sense, such equilibrium better describes the evidence than the "traditional"
+equilibrium of the new-Keynesian model. However, the optimal monetary policy shows
+similar implications for model dynamics at the zero lower bound without following the
+11
+logic of the neo-Fisherian view. As such, selecting the equilibrium which features the
+Fisher paradox is anything but imperative.
+Another argument against the paradox may be its lack of robustness. The work by both
+GSW and Gabaix (2016) (among others) shows that the paradox disappears if the model
+framework is adjusted, especially if the assumption of PFE or rational expectations is
+abandoned or behavioural economic considerations are used as a basis in an otherwise
+standard new-Keynesian model.
+This yields two general insights, which go beyond the issues discussed here. First, any
+analysis based on the new-Keynesian model and conducted at the zero lower bound
+should, as a rule, be carefully and critically examined. Second, the profession already
+has begun to (seriously) question one key assumptions of the new-Keynesian model ­
+the assumption of rational expectations.
+12
+5 Mathematical appendix
+5.1 The prototypical new-Keynesian model
+In its condensed form, the prototypical linearised16 new-Keynesian model comprises an
+IS curve and a Phillips curve, and models the dynamic interaction between the output
+gap ( x ) and inflation ( ):
+( )
+1 1
+1
+.
+t t t t t t t
+t t t t
+x x E
+i r
+E x
+E  
+
+
+ 
++ +
++
+-
+= +
+-
+= -
+The parameters 0
+ > , 0 1
+
+< < and 0
+ > denote interest rate elasticity, the discount
+factor and the degree of price stickiness, respectively. The remaining variables are the
+nominal interest rate (i ) and the natural interest rate ( r ), the paths of which are
+discussed below.
+The formula, as depicted above, shows the discrete-time form with the expectation
+operator t
+E as is usually found in the literature. However, in this paper we have chosen
+to use the deterministic (ie with perfect foresight) continuous-time version of the
+prototypical new-Keynesian model for our analysis. This version of the model enables a
+comparatively simple analytical solution to be found, especially when the focus is on
+what is taking place at the zero lower bound with a fixed nominal interest rate.
+When transposed into the deterministic continuous-time version, this results in the
+following differential equations:
+(1)
+( )
+( ) ( ) ( ) ( ) ,
+( ) ( ) ( ),
+x t i t r t t
+t t x t
+ 
+ r 
+= - -
+= -
+
+
+where, in a departure from the discrete-time presentation, the discount factor now
+amounts to 1
+ 
+= - , and ( )
+x t
+
+and ( )
+t
+
+
+represent the first derivatives of the output gap
+and inflation with respect to time.
+The method used here, to solve this system of differential equations separately for ( )
+x t
+and ( )
+t
+ , follows Gandolfo (1997, Chapter 18). The Phillips curve in (1) is then
+differentiated once again with respect to time t , ie
+16 Ie linearised around a steady state with zero inflation and a closed output gap.
+13
+( ) ( ) x(t)
+t t
+  
+= -
+  
+,
+and subsequently combined with the IS equation into a second-order differential
+equation in ( )
+t
+ :
+(2) ( ) ( ) ( ) ( )
+t t t z t
+  
+- - =
+-
+ 
+with the "forcing variable" or disturbance function ( )
+( ) ( ) ( )
+z t i t r t
+
+= - . Equation (2)
+can alternatively be expressed in operator form:
+(3) 1 2
+( ) ( )
+d d
+t z t
+dt dt
+  
+  
+- + =
+-
+  
+  
+,
+with the eigenvalues 1
+ and 2
+ , where
+(4) ( )
+2
+1
+1
+4 0
+2
+   
++ + >
+= and ( )
+2
+2
+1
+4 0
+2
+   
++ - >
+= ,
+as well as 1 2
+  
+= - and 1 2
+  
+= hold true.
+To invert (3), ie to find a solution for ( )
+t
+ , we will first take a separate look at the two
+bracketed terms on the left-hand side. The first-order differential equation
+1
+( ) ( )
+d
+t z t
+dt
+ 
+ 
+- =
+-
+ 
+ 
+has a standard solution (eg Borelli and Coleman, 2004, Chapter 2.2) of
+(5) 1 1 1
+1
+)
+( ) (
+s
+t t
+t
+s
+t C e
+e e z s ds
+ 
+
+ -
+
+=
++
+= 
+where the first part ­ with the "free" constant 1
+C ­ describes the dynamics stemming
+from the "initial condition" (homogeneous solution). The second part ­ with the
+integration factor 1t
+e ­ characterises the dynamics that arise due to the forcing variable
+( )
+z t (particular solution). The second first-order differential equation
+2
+( ) ( )
+d
+t z t
+dt
+ 
+ 
++ =
+-
+ 
+ 
+has the following standard solution:
+(6) 2 2 2
+2
+(
+) )
+( t t s
+t
+s
+e e z
+t s
+e s
+C d
+
+ 
+
+
+-
+-
+=-
+-
+=  .
+14
+It should be noted here that the differing signs in (5) and (6) arise as a result of the signs
+for 1
+ and 2
+ . The signs in (3) and (4) also determine whether the solution is "forward-
+looking" ­ as in (5) ­ or "backward-looking" ­ as in (6).17
+Equations (5) and (6) generally supply all the components required to invert (3) and
+solve for ( )
+t
+ , ie:
+(7)
+( )( )
+1 2
+1
+( ) ( )
+d d
+dt dt
+t z t
+
+ 
+-
+=
+- +
+However, the product in the denominator makes it difficult to solve the equation. It is
+thus a good idea to transform the expression above into a sum by means of partial
+fraction decomposition:
+( )( ) ( ) ( )
+1 2 2
+1
+1
+d d d d
+dt dt dt dt
+A B
+   
+-
+= +
+- + - +
+,
+where the parameters A and B can be determined in two stages. In the first stage, the
+denominators are taken "up" a level and the brackets are solved:
+2 1 2 1
+1
+d d d d
+A B A A B
+dt dt dt d
+B
+t
+   
+  
++
+
+-
+= + + - = + -
+   
+   
+.
+In the second stage, the values are ordered in accordance with the same powers, yielding
+2 1
+1 2
+1
+1
+0
+A
+A
+d d
+A B
+dt t
+B
+d
+ 
+ 
+- = 
+
+ =
+-
+
+= + 
+
+-
++
+and
+1
+1
+B
+ 
+=
++
+.
+If the expressions for A and B are then inserted, the solution for ( )
+t
+ in (7) is:
+17 The best way to illustrate the difference between forward and backward-looking is to take a short
+digression into the discrete-time world. If we look at the transformation of the following discrete AR(1)
+processes in their continuous-time form
+( )
+1 1 1, 1 1 1, 1 1
+( ) ( )
+1
+t t t t t t
+d
+t u t
+dt
+u u
+       
+- -
+- - = - =
+ 
+   - =
+ 
+ 
+and
+( ) 1 2, 1
+2 ,
+2 2 2
+2
+1
+( ) ( )
+1
+t t t t t t
+d
+t
+u u
+dt
+u t
+       
++ + +
+= = -
+ 
+- +   +  + = -
+ 
+ 
+it is clear that the former is iterated forward and the latter backward.
+15
+(8)
+1 2 2 1
+1 1 1
+( ) ( )
+d d
+dt dt
+t z t
+
+   
+ 
+= -
+ 
++ -
+ 
++
+.
+Because of the positive eigenvalue in 1
+1
+t
+C e , the "forward"-looking path of ( )
+t
+ in (5) is
+explosive if t   . The literature usually only considers stable forward-looking paths
+(unless the focus is on so-called "bubble" solutions): the "free" constant is thus set to
+zero ( 1
+0
+C = ). The "backward"-looking path of ( )
+t
+ in (6) explodes if t  - . If 0
+t = ,
+the "free" constant 2
+C defines the initial condition (0)
+ . As a rule, the free constant 2
+C
+(for 1
+0
+C = ) thus indexes the various equilibrium paths which are all consistent with the
+same forcing variable ( )
+z t . In line with the literature, we assume that 1
+0
+C = (in other
+words, we observe only forward-stable paths) while 2
+C initially remains a variable that
+can be "freely" selected.
+Inserting (5) and (6) into (8) gives us the following solution:
+(9) ( ) ( )
+1
+2
+2
+2
+1 2
+1
+( ) ( ) ( )
+t
+t s s
+s
+t t
+s t
+e ds ds
+t C e z s e z s
+ 
+
+
+ 
+
+- - - -
+-
+=- =
++
+ 
+= +
+ 
+
++ 
+  .
+( )
+x t can be solved by differentiating the solution for ( )
+t
+ with respect to t , that is
+( ) ( )
+2
+2 1
+2 2 2 1
+1 2
+1
+( ) ( ) ( )
+t
+t s s t
+s s t
+t
+e ds d
+t C e z s e z s s
+ 
+
+   
+ 
+
+- - - -
+-
+=- =
+ 
+=
+- + -
+ 
+
++ 
++
+ 
+
+,
+and by plugging this expression back into the Phillips curve in (1). After rearranging,
+using the link 1 2
+  
+= - between the discount factor and the eigenvalues, we get
+(10)
+( )
+( ) ( )
+2
+2 1
+1
+1
+2
+1 2
+2
+1
+( ) ( ) ( )
+t
+t
+t s s t
+s s t
+x e
+t ds d
+C z s z s
+e e s
+ 
+
+
+ 
+   
+
+- - - -
+-
+=- =
+ 
+=
++
++
+
+-
+
+ 
+  .
+Liquidity trap
+We now assume that the economy "falls" into a liquidity trap between 0
+t = and t T
+=
+with a nominal interest rate set at the zero lower bound ( ) 0
+i t i
+= = and a negative
+natural interest rate ( ) 0
+r t r
+= < . As a result, ( )
+z i r
+
+= - holds true for 0 t T
+< < and
+0
+z = for t T
+> . Calculating the integrals in (9) and (10) yields:
+(11) 2
+2
+1 2
+( )
+( ) ( )
+t
+e
+i r
+t C w t
+
+
+
+ 
+-
++
+-
+= + and 2
+1
+2
+1 2
+( )
+( ) ( )
+t
+i r
+x t C e v t
+
+ 
+  
+-
+-
+= +
++
+,
+16
+where
+( ) ( )
+( )
+( )
+( )
+1
+2
+2 2
+2 1
+2
+1 1
+0 : ( ) 1 1
+1
+: ( )
+t
+t
+T t
+t T
+t T w t e e
+t T w t e e
+
+
+ 
+ 
+
+- -
+-
+- - -
+< < - + -
+> -
+=
+=
+and
+( ) ( )
+( )
+( )
+( )
+1
+2
+2 2
+1 2
+2 1
+1
+2
+0 : ( ) 1 1
+: ( ) .
+T t
+t
+t
+T t
+t T v t e e
+t T v t e e
+
+
+ 
+ 
+ 
+
+
+- -
+-
+- - -
+=
+=
+< < - - -
+> -
+We can solve 2
+C for the equilibria shown in Figure 1 as follows:
+( )
+( )
+2
+1
+2 2
+2 2
+2
+1 2 1
+2
+1 2 2
+( ) 0 : lim 0
+( ) 1
+(0) 0 : 1 0
+( ) 1
+( )
+0
+0 : 1 0
+t
+t
+T
+T T
+C C
+i r
+C e
+i
+e
+r
+T C e e
+l
+l
+ll
+
+
+
+lll
+
+
+lll
+-
+-
+-
+- -
+-
+= = 
+-
+= -
+=
+-
+= + -
+=
++
++
+=
++
+Liquidity trap and forward guidance
+We extend the considerations above by a period  , in which we assume that the
+economy has left the liquidity trap ( ( ) 0
+r t r
+= > for t T
+> ), but the central bank leaves the
+nominal interest rate deliberately at the zero lower bound ( ( ) 0
+i t = for 0 t T t
+< < + and
+( )
+i t r
+= for t T t
+> + ). This results in ( )
+z i r
+
+= - for 0 t T
+< < , ( )
+z i r
+
+= - for
+T t T t
+< < + and 0
+z = for t T t
+> + . Calculating the integrals in (9) and (10) then yields:
+(12) 2
+2
+1 2
+( )
+( ) t
+w
+e
+t
+t C 
+
+
+ 
+-
+= +
++
+and 2
+1
+2
+1 2
+( )
+( ) t
+v t
+x t C e 
+ 
+  
+-
+= +
++
+where
+( ) ( )
+( ) ( ) ( )
+( ) ( )
+( ) ( )
+( )
+( ) ( ) ( )
+1 1
+2 1
+1
+2 2
+2
+2
+2
+2
+2
+2 1 1
+2
+2
+2
+2 1
+( ) ( ) ( )
+0 : ( ) 1 1 1
+( ) ( ) ( )
+: ( ) 1 1 1
+( ) ( )
+: ( ) 1 1
+T t t T
+t T T t
+T
+t T
+T
+t
+t
+t
+i r i r i r
+t T w t e e e e
+i r i r i r
+T t T w t e e e e
+i r i r
+t T w t e e e e
+ 
+  t
+  t
+ 
+
+   t
+  
+t
+  
+t
+ 
+- - -
+- -
+- - - + -
+- -
+- -
+- -
+- - -
+< < = - + - + -
+- - -
+< < + = - + - + -
+- -
+> + = - + -
+17
+and
+( ) ( )
+( ) ( ) ( )
+( ) ( )
+( ) ( )
+( )
+( ) ( ) ( )
+1 1
+2 1
+1
+2
+2
+2
+2 2
+2 2
+1 2 2
+2 1 1
+2
+1 2
+2
+2
+2 1
+1 1
+2
+( ) ( ) ( )
+0 : ( ) 1 1 1
+( ) ( ) ( )
+: ( ) 1 1 1
+( ) ( )
+: ( ) 1 1 .
+T t t T
+t T T t
+T
+t T
+t
+t
+t
+T
+i r i r i r
+t T v t e e e e
+i r i r i r
+T t T v t e e e e
+i r i r
+t T v t e e e e
+ 
+  t
+  t
+ 
+
+   t
+  
+  
+  
+t
+  
+ 
+t
+ 
+- - -
+- -
+- - - + -
+- -
+- -
+- -
+- - -
+< < = - - - - -
+- - -
+< < +
+= - + - - -
+- -
+> + = - + -
+Optimal monetary policy
+At time 0
+t = , the point in time when the economy "steps" into the liquidity trap
+( ( ) 0
+i t = and ( ) 0
+r t < ), the central bank chooses the optimal path for inflation and the
+output gap in line with the following standard optimisation problem:
+(13)
+{ }
+( )
+0
+( ), ( ), ( )
+2 2
+1
+min ( ) ( )
+2
+t
+t
+x t t i t
+e x t t dt
+
+
+
+
+-
+=
++
+ 
+
+subject to (12) and with the free initial conditions (0)
+x , (0)
+ (or, as an equivalent
+alternative, the free constants 1
+C and 2
+C ). The central bank thus keeps any deviations
+from zero (ie from the steady state) at a minimum for inflation and the output gap. The
+parameter  controls the relative weight between the two targets.18
+The minimisation problem stated above can be solved numerically using Pontryagin's
+"Maximum Principle" (see Gandolfo, 1997, Chapter 22.1 and Werning, 2012).
+5.2 The new-Keynesian "behavioural model"
+Under the assumption that households and firms are not completely rational, Gabaix
+(2016) derives the following modified IS and Phillips curves:
+( )
+1 1
+1
+.
+t t t t t t t
+f
+t t t t
+x i
+ME x r E
+M E x
+ 
+
+  
++ +
++
+- -
++
+-
+=
+=
+New additions to the formula are the discount factors M and f
+M , where f
+M is a
+function of M and other structural parameters of the new-Keynesian model.
+Transposed into the deterministic continuous-time version, this results in slight
+modifications to the differential equations compared with (1)
+18 In a prototypical new-Keynesian model, the quadratic loss function in (13) can be derived from a
+second-order approximation of households' utility function (see Galí, 2015, Chapter 4).
+18
+(14)
+( )
+( ) ( ) ( ) ( ) ( ) ,
+( ) ( ) ( ),
+x t x t i t r t t
+t t x t
+  
+ r 
+= + - -
+= -
+
+
+
+where the discount factors are now defined by 1 M
+ = - and 1 f
+M
+ 
+= -
+
+in a departure
+from the discrete-time version.
+Using the same calculation rules as in the prototypical model, the following two
+eigenvalues can be derived:
+(15)
+( )
+( )
+2
+1
+2
+2
+1
+( ) 4( ) ( ) ,
+2
+1
+( ) 4( ) ( ) .
+2
+      
+      
++ + - + +
++ + - +
+= -
+=
+  
+  
+In a departure from (4), the second eigenvalue can actually be negative, 2
+0
+ < , for
+instance, if
+(16) 1
+
+
+>
+ .
+In such cases, the sign in the second bracket term in (3) changes "implicitly" and the
+solution follows suit. This is no longer backward-looking, but now forward-looking just
+as in (5). The counterpart to (6) in the "behavioural model" is thus as follows:
+(17) 2 2 2
+2
+( )
+( ) .
+t t
+s t
+s
+e e z s
+C d
+t e s
+  
+ 
+-
+-
+=
+= + 
+The main difference is therefore that the "second" free constant 2
+C now also implies
+forward-explosive dynamics. As in the prototypical model, excluding these solutions
+yields 2
+0
+C = . Thus the differential equation system is uniquely determined by the given
+forcing variable ( )
+z t and shows no multiple forward-stable equilibria.
+The solution is found in the same way as in the prototypical model, in other words by
+inserting (5) and (17) into (8):
+(18) ( ) ( )
+1 2
+1 2
+1
+( ) ( ) ( )
+s t s t
+s t s t
+t e z s ds d
+e z s s
+ 
+
+ 
+ 
+- - -
+= =
+ 
+=
+ 
+
+-
+
++
+  ,
+differentiating the solution with respect to t and inserting it into the Phillips curve (14)
+(19)
+( )
+( ) ( )
+1 2
+2 1
+1 2
+1
+( ) ( ) ( )
+s t s t
+s t s t
+ds ds
+x t e z s e z s
+ 
+ 
+  
+ 
+- - -
+= =
+ 
+=
+ 
+
+-
+
++
+  .
+19
+The integrals are calculated the same way as in (11) and yield:
+(20)
+1 2
+( )
+( ) ( )
+i r
+t w t
+
+
+ 
+=
++
+-
+and
+1 2
+( )
+( ) ( )
+i r
+x t v t
+
+ 
+=
++
+-
+,
+where
+( )
+( ) ( )
+( )
+2 1
+2 1
+1 1
+0 : ( ) 1 1
+: ( ) 0;
+T t T t
+t T w t e e
+t T w t
+ 
+ 
+- - -
+< < - +
+> =
+-
+=
+and
+( )
+( ) ( )
+( )
+2 1
+1 2
+2 1
+0 : ( ) 1 1
+: ( ) 0.
+T t T t
+t T v t e e
+t T v t
+ 
+ 
+ 
+- - -
+< < - - -
+>
+=
+=
+20
+References
+Borelli, R. L., and C. S. Coleman (2004). Differential Equations: A Modeling
+Perspective. John Wiley & Sons.
+Caplin, A., M. Dean and D. Martin (2011). Search and Satisficing. European Economic
+Review, 101, pp 2899-442.
+Cochrane, J. H. (2011), Determinacy and Identification with Taylor Rules. Journal of
+Political Economy 119, pp 565-615.
+Cochrane, J. H. (2016a). Do Higher Interest Rates Raise or Lower Inflation? Mimeo,
+Hoover Institute, Stanford University.
+Cochrane, J. H. (2016b). The New-Keynesian Liquidity Trap, Journal of Monetary
+Economics (forthcoming).
+Coibion, O. and Y. Gorodnichenko (2015). Information Rigidity and the Expectations
+Formation Process. European Economic Review, 105, pp 2644-2678.
+Eggertsson, G. B. and M. Woodford (2003). The Zero Bound on Interest Rates and
+Optimal Monetary Policy. Brookings Papers on Economic Activity, pp 139-211.
+Duarte, F. (2016). How to Escape a Liquidity Trap with Interest Rate Rules. Working
+Paper No 776, Federal Reserve Bank of New York.
+Evans, M. (1998). Real Rates, Expected Inflation, and Inflation Risk Premia. Journal of
+Finance 1, pp 187-218.
+Gabaix, X. (2016). A Behavioral New Keynesian Model. Mimeo, Harvard University.
+Galí, J. (2015). Monetary Policy, Inflation, and the Business Cycle. Princeton
+University Press.
+Galí, J. and M. Gertler (1999). Inflation Dynamics: A Structural Econometric Analysis.
+Journal of Monetary Economics 44, pp 195-222.
+Gandolfo, G. (1997). Economic Dynamics. Springer-Verlag Berlin Heidelberg.
+García-Schmidt, M. and M. Woodford (2015). Are Low Interest Rates Deflationary? A
+Paradox of Perfect-Foresight Analysis, NBER Working Paper No 22177, National
+Bureau of Economic Research.
+21
+Garín, J., R. Lester and E. Sims (2016). Raise Rates to Raise Inflation? Neo-
+Fisherianism in the New Keynesian Model, Journal of Money, Credit and Banking
+(forthcoming).
+Jung, T., Y. Teranishi and T. Watanabe (2005). Optimal Monetary Policy at the Zero-
+Interest-Rate Bound. Journal of Money, Credit and Banking 37, pp 813-835.
+Taubinsky, D. and A. Rees-Jones (2015). Attention Variation and Welfare: Theory and
+Evidence from Tax Salience Experiments. Mimeo, University of Pennsylvania.
+Werning, I. (2012). Managing a Liquidity Trap: Monetary and Fiscal Policy. Mimeo,
+MIT.
+Woodford, M. (2013). Macroeconomic Analysis Without the Rational Expectations
+Hypothesis. Annual Review of Economics 5, pp 303-346.
+

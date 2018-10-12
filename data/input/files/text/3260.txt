@@ -1,0 +1,639 @@
+SAGE Open
+January-March 2013: 1
+­7
+© The Author(s) 2013
+DOI: 10.1177/2158244013480789
+http://sgo.sagepub.com
+Introduction
+It is well documented that our K-12 schools contain a grow-
+ing number of diverse learners, with data indicating that
+nearly six million students with disabilities spend a portion
+of their school day in inclusive settings (U.S. Department of
+Education, 2002). A promising approach to addressing the
+needs of students with disabilities in the general education
+classroom is Universal Design for Learning (UDL; Jackson,
+Harper, & Jackson, 2001). The Center for Applied Special
+Technology (CAST; http://www.cast.org) notes that, "UDL
+provides a blueprint for creating flexible goals, methods,
+materials, and assessments that accommodate learner differ-
+ences." In designing their UDL model, CAST used informa-
+tion on brain processing and their own brain research. From
+this, they deducted that while each brain processes informa-
+tion in a unique manner, there are three specific areas or
+networks of the brain associated with learning. Their UDL
+model provides educators with ways to support students in
+each of these identified brain networks and also promotes
+the use of technology as a key component for teaching and
+learning in diverse classroom environments.
+The UDL model aligns with No Child Left Behind Act
+(NCLB; 2001) and Individuals With Disabilities Education
+Act (IDEA; 2004) by promoting the use of ongoing assess-
+ment and usage of scientifically researched strategies to sup-
+port students. Furthermore, IDEA (2004) mandates that
+universal design be used as an intervention to assist students
+with disabilities in participating more fully in the general
+education curriculum. Equally important, research focusing
+on the needs of special educators indicates that special edu-
+cators benefit from training in adapting curriculum and
+working collaboratively with general educators, coteaching,
+and providing necessary supports to promote learning for
+students with disabilities in inclusive classrooms (Brownell,
+Ross, Colon, & McCallum, 2005; Fisher, Frey, & Thousand,
+2003). With this in mind, we created a hybrid special educa-
+tion course that used UDL and made it available to graduate
+students of special education.
+This article focuses on a case study of the experiences of
+five special educators who participated in our hybrid course
+that incorporated the UDL model. The case study design
+allowed us to gather rich, descriptive data that illuminated
+the experiences of the special educators and helped us under-
+stand how they interpreted what they learned in the course
+and translated it to practice. In an executive summary report
+on teacher education for the American Educational Research
+Association, Cochran-Smith and Zeichner (2005) point out
+the need for this type of case study research to shed light on
+"what teacher education students learn from the opportuni-
+ties they are provided within their programs" (p. 30). We
+begin with a description of the course construct. The
+480789
+SGOXXX10.1177/2158244013480789S
+AGE OpenElder Hinshaw and Sakalli Gumus
+2013
+1Indiana State University,Terre Haute, USA
+2Mustafa Kemal University,Antakya,Turkey
+Corresponding Author:
+Rebecca Elder Hinshaw, Indiana State University, 7th street,
+Terre Haute, IN 47809, USA.
+Email: rebecca.hinshaw@indstate.edu
+Universal Design for Learning Principles in a
+Hybrid Course: Perceptions and Practice
+Rebecca Elder Hinshaw1 and Suad Sakalli Gumus2
+Abstract
+Universal Design for Learning (UDL) is a promising approach of differentiating instruction to meet the needs of all students.
+While differentiation is not unique to special educators, it is an expectation of the profession that special educators know
+ways to differentiate instruction to meet the needs of diverse learners. Furthermore, as more practicing educators seek out
+online education opportunities offered by teacher education programs, it is beneficial that instructors understand how these
+participants interpret what they learn and translate it into practice. This article focuses on a case study of the experiences
+of five special educators who participated in a hybrid graduate course using UDL concepts. The case study design utilized
+interviews, observation, and course products. Inductive data analysis uncovered three emerging themes that corresponded
+to the participants' perception and practice of UDL.
+Keywords
+Universal Design, hybrid, teacher education
+2 SAGE Open
+"Method" section follows with information about the study
+and design. We will then present the results in relationship to
+the three themes. We will conclude with the discussion of
+implications.
+Course Construct
+Online teaching and learning has become a vital part of
+higher education programs and a necessity for adult learners
+who not only want to continue their education but also have
+job commitments that make face-to-face course attendance
+difficult (Cowie & Nichols, 2010). Our hybrid design
+allowed us to have some face-to-face contact with the par-
+ticipants, but the majority of the course was in an online
+platform. The course had two face-to-face group meetings,
+online communication via scheduled discussions and reflec-
+tive journal postings, a drop box area for completed projects,
+and web access to a text by David H. Rose and Anne Meyer
+(2002), Teaching Every Student in the Digital Age: Universal
+Design for Learning. Because the course had a practicum
+element, the instructor also observed each participant teach
+two lessons; the first was a lesson of choice and the second
+was a lesson that was part of their culminating UDL projects.
+Method
+Setting
+The hybrid course was a culminating graduate course in
+special education, taught at a midwestern university. The
+course was designed as the final course in fulfillment of
+requirements for a master's degree in special education.
+Objectives
+The objectives of this study were to provide insight into the
+experiences of special educators who participate in the
+course and to discover how they perceived and practiced
+UDL. Because the special educators had varied undergradu-
+ate backgrounds, skills, and teaching assignments, a portrait
+of their experiences was valuable to our understanding of
+how learning is transferred to practice.
+Instructor
+At the time of the study, the instructor (pseudonym, Annah)
+was a doctoral student who had been a special educator in
+Turkey. She had taught and supervised both undergraduate
+and graduate students in a variety of courses, including dis-
+tant education courses. She was known for her versatility,
+attention to details, and innate ability to provide encourage-
+ment and supportive, constructive feedback to her students.
+To provide a glimpse into her relationship with each of
+the graduate students in the course, examples of her interac-
+tions are included in the following section.
+Participants
+All five of the special educators enrolled in the course
+agreed to participate in the study. Four of the participants
+held positions as special educators in various locations
+within a 3-hr radius of our campus, while the fifth one was
+not working and was placed in a local school for the practi-
+cum component of the course. Four of the participants were
+female and one was male. They were all in their mid- to late
+20s. Pseudonyms were used in place of the special educa-
+tors' names. A brief introduction of each and their experi-
+ences in the course follows.
+Heather worked as a special educator in a large, rural high
+school. She began the course with anxiety over the course
+material. In the first meeting, she took extensive notes while
+Annah explained the passed out materials, presented infor-
+mation about UDL through PowerPoint presentations, and
+explained the course expectations, plans, and answered
+questions. Heather asked questions about UDL and the proj-
+ect, whichAnnah responded to, reassuring her that she would
+understand more once she began reading the text. Throughout
+the course, Heather read her assignments, was actively
+engaged in the online communications with Annah and the
+other graduate students, and readily applied what she had
+learned to her coteaching experience. Heather ended the
+course with seeing the benefits of the flexibility that UDL
+advocates for students and teachers alike.
+Connie was a full-time international student from Taiwan
+who was placed in a local fourth-grade elementary class-
+room for the practicum experience. While Annah chose
+Connie's placement and general educator, Connie was
+pleased with the selection and spoke favorably of the general
+educator in her online communications. Annah responded to
+Connie's postings and was happy that Connie was pleased
+with the placement and the teacher. As for UDL, Connie saw
+it as a method of reaching out to all students through multi-
+media and technology--especially those with English as a
+second language.
+Ally worked as a special educator in a midsized, urban
+city elementary school, K-6. In the first meeting, she greeted
+Annah with a smile and hug and related her delight in having
+Annah for an instructor again. Ally was confident in her abil-
+ity to successfully complete all of the course requirements.
+Being a practicing coteacher, she was able to have ready
+access to all the students in the general education classroom
+as well as a working relationship with a collaborative general
+educator. In her online communications, she often shared her
+own teaching strategies in the general education classroom
+and pointed out how they corresponded with UDL.
+Deanna worked as a special educator at a local, private,
+postsecondary facility created to support young adults diag-
+nosed with Asperger's Syndrome and other forms of autism.
+She began the course with an idea of what UDL involved and
+was intrigued by the concepts presented. In her first online
+forum, she requested more information on how the three
+Elder Hinshaw and Sakalli Gumus 3
+brain networks functioned and Annah responded by provid-
+ing Deanna with a link to an online version of a book on
+neuroscience that referenced brain research and conclusions
+similar to UDL. Annah gave Deanna specific pages to read
+and also suggested that the references cited in the book might
+provide additional resources. Concerning collaboration and
+coteaching, Deanna was the only one unable to work as a
+coteacher. In her online journal, Deanna posted her frustra-
+tions and Annah responded by sympathizing with her situa-
+tion and encouraging her to continue persevering. She
+expressed her sadness in the fact that Deanna was not able to
+collaborate. Annah pointed out that as professionals, teach-
+ers are constantly being expected to collaborate with para-
+professionals, parents, and other members of the community.
+She suggested that Deanna make a renewed effort to try to
+work with the other teacher and include him in her planning
+and teaching. Although she did not coteach, Deanna did suc-
+cessfully complete the course.
+The last participant was Steve, who worked as a learning
+disabilities (LD) teacher in a midsized, urban city middle
+school. He began the course with apprehension about UDL
+because he had little opportunity to coteach. In the first meet-
+ing, he talked about his unique teaching environment and
+was worried about how he could complete the project. He
+solicitedAnnah for ideas on how to fulfill the project require-
+ments of collaborating with a general education teacher
+given that he worked with students only in his resource room
+and none in the general education classrooms.Annah assured
+him that everything would work out and she would be there
+to help him. They talked about ways to approach the general
+educators in his school. He agreed that he was hopeful that
+he would find someone with whom to work. He did find a
+coteacher and ended the course with describing how the
+UDL project and technology enabled him to coteach on a
+more permanent basis.
+Data Collection and Analysis
+The first author conducted three semistructured audiotaped
+interviews and four observations of the participants, at vari-
+ous points in the course. To maintain confidentiality, code
+numbers rather than names identified all data, and audio-
+tapes were erased after transcripts were completed. The
+participants' course products were also instrumental in
+understanding their perceptions. With their permissions, the
+following products were obtained: transcripts of the two
+asynchronous (forum) and one synchronous (chat) discus-
+sions, weekly reflective online journal entries, and the
+course project involving a four-lesson unit plan applying
+UDL principles. Identifying information on all products was
+also removed and the products were coded.
+Data analysis was conducted using the procedures
+described in qualitative research texts (McMillan &
+Schumacher, 2001; Merriam, 1998). This involved organizing
+the data, analyzing the data using the constant comparative
+method, and interpreting the results. To organize the data, sep-
+arate folders for data sets were created for each participant,
+along with folders for the transcripts of each of the two discus-
+sion forums and one discussion chat. All data in each set were
+read several times, with ideas noted in the margins of the data
+sets. These noted ideas were used to create a topic list Word
+document for each data set. Data set topic lists were compared
+with one another, duplications of topics were eliminated and
+similar topics were combined into a broader topic and renamed
+to reflect the combined idea. A master Word document topic
+list encompassing all the data sets was created. This Word
+document topic list contained 14 initial topics. Using the con-
+stant comparative method, each topic document was reexam-
+ined, commonalities between topics compared, and data
+reduction occurred due to the overlapping and collapsing of
+topics. The resulting topics were then developed into catego-
+ries. These categories "reflect the purpose of the research"
+(Merriam, 1998, p. 183) and were exclusive. All data were
+reexamined using the categories, and data not assigned to cat-
+egories, simply responses and restatement of textbook infor-
+mation, were put aside and not used. Further analysis of these
+categories resulted in the emergence of three major themes.
+Eisner (1998) relates that themes are "those recurring mes-
+sages construed from the events observed" (p. 189).
+The issue of trustworthiness was addressed using three
+methods: triangulation, peer debriefing, and member checks.
+Triangulation was accomplished by using multiple partici-
+pants and cross-participants analysis of interview data,
+course artifact collection, and classroom observations.
+During the interpretation phase, a peer debriefer read drafts
+of the coded information and provided questions for further
+interpretation. She judged the coding and theme analysis as
+being consistent and representative of the data overall.
+Member checks involved enlisting the help of interviewees
+in reviewing and determining the accuracy of transcripts and
+information derived from interviews (Brantlinger, Jimenez,
+Klingner, Pugach, & Richardson, 2005). The interviewed
+participants received a copy of one of their transcripts and a
+copy of their case information. They were asked whether
+they agreed with their transcript and their case information.
+Minor discrepancies were noted on two of the cases, and
+changes were made to reflect the accurate information.
+Results
+Three common themes emerged from the cross-case data.
+These themes appeared across data types and represented the
+participants' perceptions and practice of UDL.
+Theme 1: Making the Connection
+Reflection is a key element in teaching and also a key
+component of the course. The design of the hybrid course
+allowed interaction and reflection to occur with the
+instructor, between the participants and in reference to the
+4 SAGE Open
+material. The participants were expected to reflect on their
+learning and teaching, throughout the course. The idea that
+reflection provided an opportunity to connect and apply
+what they have learned in their own teaching was some-
+times apparent in the ways that some participants
+responded. Some consistently sought out ways to connect
+what they were learning about UDL with prior knowledge
+and present teaching experiences. Supporting the practi-
+cum reflection, Heather stated in an interview, "I like
+some sort of weekly reflection, whether it is the chat or the
+journal. I like reading other peoples thoughts." Like
+Heather, Ally valued learning and connecting with her fel-
+low graduate students through reading the online postings:
+"being able to listen to what they were having problems
+with and what they were really enjoying and it kind of
+made you thankful of what you had or that would be neat
+to try."
+In her second journal entry, Heather reflected on the
+assigned reading and then connected the ideas with a teach-
+ing situation:
+Chapter five really put into perspective of how I am
+going to align goals with standards using UDL. The
+goals need to be broader. For example in an English
+class where the goal is: "Write a five paragraph essay
+about your future goals in life." Why does the prompt
+have to be about goals or why does it necessarily need
+to be five paragraphs? Students may have trouble writ-
+ing and five paragraphs are too much or they may feel
+anxious about the future. The teacher should first
+identify what he/she really wants students to accom-
+plish, such as: being able to write a thesis statement
+with a supporting paragraph.
+In Journal 3, Steve reflected on the ideas presented in the
+text and then discussed ways he could apply them to his own
+teaching:
+I can do a couple of different things to customize my
+curriculum and instruction to cater to the brain net-
+works . . . The first is providing multiple examples to
+the students to provide them a variety of ways to hear
+the same concept that we are covering. The second one
+that I use is providing multiple media and formats for
+the students to learn the concept.
+In her fourth journal entry, Ally wrote about a resource
+about teaching strategies and how she used the described
+activity in her own teaching:
+I really enjoyed the kind of "pre-test" that the teacher
+did at the beginning to see how much the students
+already knew about each of the strategies. I myself am
+a big fan of pre-test/post-test data and information.
+The pre-test can help me with what each individual
+student's weaknesses and strengths are which will
+help me guide my instruction and grouping for les-
+sons. The post-test also shows the growth of the stu-
+dents and who still needs some work and the areas that
+they need that work.
+Whereas most used reflection as a way to connect and
+evaluate their teaching experiences, some did not. For
+instance, in Deanna's online communications, she frequently
+wrote about the brain networks but did not reveal if the UDL
+information was important in her present teaching environ-
+ment. Although Connie did discuss the benefits of using
+UDL to support students, she rarely shared her prior learning
+or prior teaching experiences.
+Across the data sets and types, the participants also con-
+sistently talked about teaching and meeting the needs of stu-
+dents. Upon learning about the UDL concepts of recognition,
+strategic, and affective networks, the participants readily
+used the information to describe how they taught and how
+their students learned. They could see the connection
+between what they were learning about UDL, with ways to
+teach their students. With their UDL projects, they had an
+opportunity to apply their UDL information to a teaching
+situation. As with reflection, there was variability to the
+extent that the course provided them with new information
+about teaching diverse students. Hence, the UDL compo-
+nents incorporated in the course did provide them with ways
+to support their diverse learners, but only two participants
+described ways UDL enhanced their teaching. For example,
+Heather talked about learning and applying the UDL con-
+cepts in an interview:
+I really like it, I mean I thought well this is kind of
+stuff we do anyway like when I first read it. But it
+really breaks it down to more specifics and it gives
+you the purpose, you know, why is the strategic net-
+work important? Why should we teach to this net-
+work? So really kind of laid out for me, like oh yeah
+now I know and when I applied it I could see how it
+worked.
+And in her first journal entry, Connie wrote this about the
+recognition network and teaching students:
+For example, when we are at school, we teach stu-
+dents new things and new words everyday. If there is
+a student who cannot recognize different things,
+words or sounds clearly, it will be so hard for this
+student to learn new things and make connections
+between old things and new things. This student will
+feel confused and frustrated when he/she is at school.
+This student cannot understand what they should do
+at which time.
+Elder Hinshaw and Sakalli Gumus 5
+Theme 2:Teaching and Efficacy
+The ability to collaborate and work with others to share
+resources and skills are important attributes of special edu-
+cators. With the course's online interaction, the participants
+became a cohort or community of learners working and col-
+laborating together. With their UDL projects, the partici-
+pants had to collaborate and coteach with a general educator.
+The ability to collaborate in each of these venues allowed
+the participants to validate and strengthen their own teaching
+skills and self-worth.
+Overall findings indicate that the practicum component of
+the course provided them with an opportunity to learn about
+collaboration. In their online communications, projects, and
+interviews, they talked about the characteristics of their gen-
+eral educators and even challenges of their collaborative rela-
+tionships.Allygaveherexperiencedinsightsintocollaborating
+in Forum 1: "Some teachers who have been teaching for a
+while may not be as open and willing to change. Even some
+general education teachers find it difficult to share and open
+their classroom to another teacher." In the same forum,
+Heather had this to say about implementing UDL:
+My fear is that general education teachers may think
+that special education teachers only do the special ed.
+part and gen. ed only does their part, and therefore it
+won't end up being practical UDL but just a special ed
+teacher "helping out."
+Heather later reported in her Project D, her initial strug-
+gles with her coteacher:
+She initially seemed excited to be involved with this
+project, but once we started I felt like I was doing
+more of the work. She didn't seem to give much input
+and always said, "I'll do whatever you want to do" . .
+. She never worked with a special education teacher
+before because she taught at a private school and there
+weren't any students there who received special ser-
+vices. That could be one reason why she and I started
+off struggling, because she wasn't use to working with
+someone else.
+Although challenging, the participants did relate the
+rewards of the collaborative experience that the practicum
+made available to them. They talked about the virtues of
+being in the general education classroom and working side
+by side with the general education teacher. For example,
+through observation data, both Heather's and Connie's sec-
+ond lessons using UDL proved to be far better for them and
+their students, thereby enhancing their self-efficacy. Connie's
+students were engaged, listening and participating in the les-
+son. For Heather, the change came in how she was teaching
+and interacting with the students. She was not acting as
+simply support, but had a true partnership in teaching the
+lesson. Heather related this in Part D of her project:
+But, despite our initial struggles we soon were on track
+and working side by side. She really came to the fore-
+front of this project when we started planning lessons.
+She had all sorts of ideas and was excited to integrate
+them. She also kept me on my toes by always thinking
+about how we could change it to make it better and she
+would immediately reflect on a lesson after we taught
+it to see if we should change anything for the next class
+coming in. She was supportive of my ideas and I was
+of hers. We also worked great together when it was
+time to teach. We had fun and so did the students. We
+both think classes always go so much better when both
+of us are able to teach and manage the class. I'm really
+glad we were able to work well together because I
+think we put out a great UDL project.
+Ally also believed that the collaboration gave her an
+opportunity to share UDL. In her last interview, when ques-
+tioned about collaborating and using UDL for the following
+school year,Ally said, "Well, we're going to have those strat-
+egies from the UDL, the planning technique. Identifying the
+barriers and things like that that are definitely going to influ-
+ence our planning and we're going to think about that."
+For Steve, the collaborative experience brought desired
+changes in his teaching for the next school year. He related in
+his last interview that he would be coteaching four classes
+for the following school year with the coteacher he had
+worked with on the project. Concerning UDL and the col-
+laboration that the practicum required, he wrote in Section D
+of his project,
+The project opened up the door to a co-teaching
+opportunity that I may not have had otherwise. I think
+had I just asked for a teacher to co-teach together, I
+don't think I would have the response I had asking for
+some help to complete my project for this class. My
+cooperating teacher's initial response was sure, "I'll
+help you." I don't think she was expecting the kind of
+experience that she received from the actually helping
+me. I did really get a chance to debrief like I had
+hoped. My overall impression from my cooperating
+teacher was that she had a very positive experience in
+the co-teaching. I believe that she gained some insight
+about UDL principles and the effect they can have on
+student learning.
+Theme 3:Tools toTeach
+A key component of the course and UDL was the use of
+technology to support learning and teaching. With the hybrid
+course, the participants were expected to access information
+6 SAGE Open
+about UDL and interact with one another. In designing their
+UDL projects, the participants were required to include ele-
+ments of technology in their teaching. All were familiar with
+the use of computers and multimedia in their own learning
+and related this in their online communications and inter-
+views. They acknowledged the benefits of using technology
+as a tool to teach. Specifically, Connie, Deanna, and Ally
+used technology to support their instruction. Heather had her
+students use computers to access online information, and
+Steve used his laptop and portable projector in teaching and
+had the students use computers to take tests.
+Deanna talked about using computers as a tool for her
+students' learning in an interview:
+What I've learned, which I guess it's changed in the 10
+years since I went and got my undergrad, is the huge
+emphasis on on-line, and how what a difference that
+makes . . . it's how everything is out there, it's on-line.
+If you're doing any kind of research of any kind, you
+start there.
+Steve, who was very comfortable with technology, was
+observed using an overhead projector and his personal com-
+puter in the observation of his first lesson. In an observation
+of his UDL lesson, he used his computer and digital projector
+to give a PowerPoint presentation and also had the students
+take a posttest on their computers. Before his UDL lesson,
+Steve wrote in Journal 6,
+My collaborating teacher is excited about integrating
+the technology into the unit and also into her class-
+room. We have not yet taught any part of the unit yet
+but I think she is excited to try the technology. I hope
+to have her administer the post-test on Blackboard at
+the conclusion of our unit. Also with the use of our
+tablets and the digital projector I think she will find a
+new way to utilize her tablet in her own classroom the
+remainder of this year.
+Implications
+Data indicate that the graduate students in this case study
+demonstrated improved understanding and use of UDL
+after this hybrid class. Also, the reflection requirements of
+the course assisted in the establishment of a cohort of
+learners who jointly constructed an understanding of the
+UDL concepts. The formats of the online group discus-
+sions and resulting collaborative responding allowed the
+graduate students to provide support and encouragement
+to one another. The online communication was also a
+place for them to share stories of their teaching experi-
+ences. As they learned more about the UDL model, some
+correlated the new UDL information with their own teach-
+ing techniques, reflected on their individual experiences
+of using UDL at their practicum sites, and shared informa-
+tion about their UDL projects.
+As the graduate students continued to apply the UDL
+model in collaboration, they related in their online communi-
+cations and project sections, feeling a sense of empowerment
+when they were able to plan instruction in the general educa-
+tion classroom for all students, share knowledge about using
+technology, and work as a coteacher. In their online commu-
+nications and interviews, most referenced the new ideas of
+using technology that supported each of the three brain net-
+works and discussed how they could use technology to offer
+greater support to their students.
+The case study also revealed the important role that the
+instructor played in the hybrid course. Supportive and active
+field experience supervisors are an essential element of best
+practices in teacher education programs (Wideen, Mayer-
+Smith, & Moon, 1998). This study indicated that the instruc-
+tor's nurturing nature, encouragement, and knowledge of
+UDL and the practicum requirements, all came together to
+provide the graduate students with the support they needed
+to succeed. She was a mentor, a confidante, a disciplinar-
+ian--a teacher. Her continual attention let them know that
+they were not alone in their endeavors and that she not only
+believed in them but also supported them.
+Our case study data indicated that the UDL model intro-
+duced in the course provided the graduate students with a
+welcomed instructional format to enhance the learning expe-
+riences of their students with disabilities in inclusive set-
+tings, an effective means to support a collaborative
+coteaching partnership in the general education classroom,
+and opportunities to explore greater integration of technol-
+ogy in their teaching. Teacher education programs and
+instructors can reference this study as a way to support skill
+acquisition and practicum obligations in a hybrid course.
+This study also adds to the literature on developing the infra-
+structure in schools to meet the needs of students with dis-
+abilities in the general education classroom.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research and/or
+authorship of this article.
+References
+Brantlinger, E., Jimenez, R., Klingner, J., Pugach, M., & Richard-
+son, V. (2005). Qualitative studies in special education. Excep-
+tional Children, 71, 195-207.
+Brownell, M. T., Ross, D. D., Colon, E. P., & McCallum, C. L.
+(2005). Critical features of special education teacher prepara-
+tion: A comparison with general teacher education. Journal of
+Special Education, 38, 242-252.
+Elder Hinshaw and Sakalli Gumus 7
+Cochran-Smith, M., & Zeichner, K. M. (2005). Executive summary:
+The report of the AERA panel on research and teacher educa-
+tion. In M. Cochran-Smith & K. M. Zeichner (Eds.), Studying
+teacher education (pp. 1-36). Mahwah, NJ: Lawrence Erlbaum.
+Cowie, P., & Nichols, M. (2010). The clash of cultures: Hybrid
+learning course development as management of tension. Jour-
+nal of Distance Education, 24(1), 77-90.
+Eisner, E. W. (1998). Do qualitative case studies have lessons
+to teach? The enlightened eye: Qualitative inquiry and the
+enhancement of educational practice (pp. 197-212). Upper
+Saddle River: NJ, Pearson Education Company.
+Fisher, D., Frey, N., & Thousand, J. (2003). What do special educa-
+tors need to know and be prepared to do for inclusive schooling
+to work? Teacher Education and Special Education, 26, 42-50.
+Individuals With Disabilities Education Act. (2004). Available from
+http://idea.ed.gov/
+Jackson, R., Harper, K., & Jackson, J. (2001). Effective teaching
+practices and the barriers limiting their use in accessing the
+curriculum: A review of recent literature. Peabody, MA: Center
+for Applied Special Technology. Retrieved from http://www
+.cast.org/publications/ncac/ncac_effectivetp.html
+McMillan, J. H., & Schumacher, S. (2001). Qualitative data
+analysis. Research in education: A conceptual introduction
+(pp. 460-494). New York. Addison Wesley Longman, Inc.
+Merriam, S. B. (1998). Qualitative research and case study appli-
+cations in education. San Francisco, CA: Jossey-Bass.
+No Child Left Behind Act. (2001). Retrieved from http://www2.
+ed.gov/nclb/landing.jhtml
+Rose, D. H., & Meyer, A. (2002). Teaching every student in the
+digital age: Universal design for learning. Cambridge, MA:
+Harvard Education Press.
+U.S. Department of Education. (2002). To assure the free appropri-
+ate public education of all children with disabilities: Twenty-
+third annual report to Congress on the implementation of The
+Individual With Disabilities Education Act. Washington, DC:
+Office of Special Education Programs.
+Wideen, M., Mayer-Smith, J., & Moon, B. (1998). A critical analy-
+sis of the research on learning to teach: Making the case for
+an ecological perspective on inquiry. Review of Education
+Research, 68, 130-178.
+Author Biographies
+Dr. Elder Hinshaw teaches undergraduate and graduate courses at
+Indiana State University. Her research interests include special
+education teacher education, assistive technology, UDL, differenti-
+ated instruction, collaboration and co-teaching.
+Dr. Sakalli Gumus is an Associate Professor of Special Education
+at Mustafa Kemal University in Turkey. Her research interests are
+students at risk, students with high incidence disabilities, students
+with Autism, assistive technologies, teacher education, assessment,
+universal design for learning and curricular design.
+

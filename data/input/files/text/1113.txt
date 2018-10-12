@@ -1,0 +1,664 @@
+Descriptive Epidemiology
+Maternal Obesity Is Associated With Younger
+Age at Obesity Onset in U.S. Adolescent
+Offspring Followed Into Adulthood
+Penny Gordon-Larsen,* Linda S. Adair,* and Chirayath M. Suchindran*
+Abstract
+GORDON-LARSEN, PENNY, LINDA S. ADAIR, AND
+CHIRAYATH M. SUCHINDRAN. Maternal obesity is
+associated with younger age at obesity onset in U.S.
+adolescent offspring followed into adulthood. Obesity.
+2007;15:2790­2796.
+Objective: The objective was to test the hypothesis that
+maternal obesity is associated with younger age of off-
+spring's obesity onset.
+Research Methods and Procedures: We used prospective,
+nationally representative, longitudinal data collected across
+Waves I (1995; 12 to 20 years), II (1996; 13 to 20 years),
+and III (2001; 18 to 28 years) of the National Longitudinal
+Study of Adolescent Health (N  14,654; 49% female).
+Interval regression analysis was used to assess the associa-
+tion between maternal obesity and age at offspring's obesity
+onset (International Obesity Task Force BMI 30 equiva-
+lent age- and sex-specific cut-off points for adolescents and
+BMI 30 for young adults) using self-reported heights and
+weights, adjusting for race/ethnicity, sex, parental educa-
+tion, and family income, accounting for complex sampling
+design.
+Results: The net effect of having an obese mother varied by
+race/ethnicity and was associated with a significantly earlier
+age at obesity onset (p  0.0001) for whites [ 8.1 year,
+95% confidence interval (CI), 9.3; 6.9)], blacks ( 
+10.8 years, 95% CI, 12.4; 9.2), Hispanics (  7.0
+years, 95% CI, 9.2; 4.8), and Asians (  8.6 years,
+95% CI, 13.3; 3.9). Earlier obesity onset (18 years)
+was associated with increased severity at young adulthood
+(mean BMI, 36.0  0.3 kg/m2) vs. onset after age 18 (mean
+BMI, 34.4  0.2 kg/m2; p  0.0001). There were no sex
+differences in the association of maternal obesity to age at
+obesity onset.
+Conclusions: Having an obese mother was associated with
+earlier age at obesity onset across all race/ethnic groups,
+particularly non-Hispanic blacks. Early obesity onset has
+important health consequences because of its association
+with more severe adult obesity.
+Key words: adolescents, ethnic minorities, family his-
+tory, longitudinal
+Introduction
+Offspring of obese parents are at risk for obesity because
+of shared genes and shared environments. While most stud-
+ies have investigated the risk of becoming obese given
+parental obesity (1­3), few studies have examined how
+parental obesity relates to the age at which offspring be-
+come obese.
+In the past 3 decades, obesity has tripled among U.S.
+adolescents (4) and more than doubled among 20 to 39 year
+olds, (5) with considerable variation by race/ethnicity (6).
+As longitudinal studies have shown, a substantial amount of
+weight gain occurs in the transition from adolescence to
+young adulthood (6,7) with strong tracking from adoles-
+cence into adulthood (8­11).
+Adolescent obesity is associated with increased mortality
+and morbidity related to a variety of chronic diseases later in
+life (12­14). However, less is known about the long-term
+health effects of age at obesity onset. Research suggests that
+adults who became obese in childhood and remained obese
+into adulthood are at higher metabolic risk than those with
+adult-onset obesity (15). Furthermore, reversal of obesity
+between childhood and adulthood is associated with de-
+creased metabolic risk in adulthood (15).
+In this paper, we use innovative statistical methodology
+to investigate how maternal obesity influences the age at
+Received for review December 7, 2006.
+Accepted in final form March 8, 2007.
+The costs of publication of this article were defrayed, in part, by the payment of page
+charges. This article must, therefore, be hereby marked "advertisement" in accordance with
+18 U.S.C. Section 1734 solely to indicate this fact.
+*Carolina Population Center and Departments of Nutrition and Biostatistics, Schools of
+Public Health and Medicine, University of North Carolina, Chapel Hill, North Carolina.
+Address correspondence to Penny Gordon-Larsen, University of North Carolina at Chapel
+Hill, Carolina Population Center, University Square, 123 West Franklin St., Chapel Hill, NC
+27516-3997.
+E-mail: gordon_larsen@unc.edu
+Copyright © 2007 NAASO
+2790 OBESITY Vol. 15 No. 11 November 2007
+which obesity is first observed in offspring participants in
+the nationally representative, prospective National Longitu-
+dinal Study of Adolescent Health (Add Health).1 The Add
+Health data span a lifecycle period of high obesity incidence
+and include an ethnically diverse sample, which allows
+comparisons by race/ethnicity over a period of risk. Further,
+we explore the severity of obesity among those with earlier
+onset obesity and among those with obese mothers.
+Research Methods and Procedures
+Survey Design
+The study population consisted of 20,000 adolescents
+enrolled in Wave I (1994 to 1995) of Add Health, a longi-
+tudinal, nationally representative, school-based study of
+U.S. adolescents in grades 7 to 12, supplemented with
+minority special samples and collected under protocols ap-
+proved by the Institutional Review Board of the University
+of North Carolina-Chapel Hill. Wave II (1996) included
+14,438 eligible Wave I adolescents who would be still
+enrolled in high school during 1996, including dropouts,
+measured between April and August 1996. Thus, older
+youths who were high school graduates in Wave I were not
+followed in Wave II. In Wave III, all Wave I respondents
+were followed (regardless of participation in Wave II).
+Wave III (2001 to 2002) included 15,197 eligible original
+Wave I respondents, measured between August 2001 and
+April 2002. Our final analysis sample included 14,706 re-
+spondents (49% female) with relevant data across Waves I,
+II, and III. In Wave I ages ranged from 12 to 20 years, in
+Wave II ages ranged from 13 to 20 years, and in Wave III
+from 18 to 28 years. Exclusions included pregnant females,
+Native Americans (due to small sample sizes), few partici-
+pants with outlying ages, and those missing relevant data.
+The survey design and sampling frame have been described
+elsewhere (16,17).
+Body Mass
+Height and weight were self-reported in Waves I, II, and
+III and measured in Waves II and III during in-home sur-
+veys using standardized procedures. We used self-reported
+data from all 3 waves to maximize the sample size and to
+have comparably assessed data across the waves. Although
+there is a tendency for heavier individuals to under-report
+weight, this phenomenon has little impact on the classifica-
+tion of obesity using BMI. For example, obesity prevalence
+based on measured vs. self-report at Wave II is 10.3% and
+9.2% respectively, and 86.0% of participants were concor-
+dantly classified. To deal with the discrepant obesity defi-
+nitions for adolescents and adults, we used the International
+Obesity Task Force (IOTF) cut-off points (18) to classify
+adolescents. The IOTF reference is based on pooled inter-
+national data (including four national U.S. surveys) and
+links childhood and adolescent BMI centiles to adult cut-off
+points of BMI of 25 and 30 kg/m2. For the young adult
+population at Wave III (ages 19 to 26), we used the BMI
+cut-off point of 30 kg/m2 (19,20).
+Study Variables
+Race/ethnicity was determined from adolescent and par-
+ent questionnaires and categorized as Hispanic, non-His-
+panic white, non-Hispanic black, or Asian-American. Age
+was calculated from date of interview and data of birth.
+Maternal obesity status, parental education, and family in-
+come were reported by parents in the parental home inter-
+view.
+Statistical Analysis
+Our outcome variable was age at onset of obesity. How-
+ever, we did not fully observe this response variable. In-
+stead, we know only that the adolescent became obese
+before the Wave I survey, or he or she became obese
+between the waves of Add Health, or was not obese at the
+time of the Wave III survey. We also know the exact ages
+of the individual at the time of each of the survey. For
+example, for an individual who is 17.5 years of age at Wave
+I and obese, we know only that this person became obese
+sometime before age 17.5. Similarly, if a non-obese indi-
+vidual age 15.8 at Wave I is obese at Wave II at age 21.0,
+we know that this person's age at onset of obesity falls
+between ages 15.8 and 21.0. For a non-obese individual age
+22.4 at Wave III, we know only that this person's age at
+onset of obesity will be 22.4 years. Such data are called
+interval censored data (21). For the purpose of our analysis,
+the upper and the lower bound of age at onset of obesity is
+tabulated for each individual in the study sample. Examples
+of such tabulations are shown in Table 1. With these data,
+our goal was to estimate, for example, a simple linear
+regression model (additional covariates can be easily added)
+Y  a
+^0
+ a
+^1
+(mother's obesity status)   (1)
+where Y is the age at onset of obesity. For simplicity, we
+assume that the errors are normally distributed. The regres-
+sion coefficient 
+1
+is interpreted in the usual way as the
+difference in the age at onset of obesity when the mother is
+obese or not (represented by an indicator variable). The
+model is estimated using the interval regression procedures
+in Stata 9.0 (22), including survey procedures to correct for
+multiple stages of cluster sample design and unequal prob-
+ability of selection to ensure that our results were nationally
+representative and that bias in estimates and standard errors
+was reduced. Descriptive analyses use design-based, ad-
+justed Wald tests to compare subgroup means. In our data,
+1 Nonstandard abbreviations: Add Health, National Longitudinal Study of Adolescent
+Health; IOTF, International Obesity Task Force.
+Maternal Obesity and Age of Offspring Obesity, Gordon-Larsen et al.
+OBESITY Vol. 15 No. 11 November 2007 2791
+8% of participants were already obese when they first
+entered Add Health, and 82% were not obese when last
+observed.
+The outcome variable in the models is the age at which
+obesity is first observed and the main exposure is mater-
+nal obesity. We also tested, and found similar effects
+when paternal obesity or obesity in either parent was used
+as the main exposure. Since fewer cases were missing
+information about mothers, we present results related to
+maternal obesity only. Similarly, we tested models where
+the main outcome variable was based on measured
+weight and height from Waves II and III. Because the
+results were not substantively different, we present anal-
+yses based on the larger sample, which includes self-
+reported data from Wave I. Control variables included
+household income, parental education, sex, and race/
+ethnicity. We tested for interactions of maternal obesity
+with race/ethnicity and sex, and the non-significant (p 
+0.10) maternal obesity-sex interaction term was ex-
+cluded. Geographic region was tested but not included in
+final models, given that its inclusion did not result in at
+least a 10% change in the coefficient for age at obesity
+related to maternal obesity. To illustrate the effects of
+having an obese mother on age at which obesity is first
+observed in offspring, we used coefficients from the
+interval regression models to predict age at obesity onset
+by race/ethnicity and maternal obesity.
+Results
+Descriptive Results
+At baseline, the mean age of the sample was 15.8 years and
+7.1% of males and 9.7% of females were obese (Table 2).
+In earlier work, we documented the incidence of obesity
+between Waves II and III to be 12.7%, which resulted in an
+approximate doubling of obesity prevalence from Wave II
+to III, with highest rates in black and Hispanic females (7).
+Table 3 shows the percentage of respondents who became
+obese before, vs. after, the age of 18 years, regardless of the
+wave of measurement. A substantially higher proportion of
+young adults with an obese mother became obese before age
+18 (Table 3). Further, obesity was more prevalent overall
+among those with an obese vs. a non-obese mother.
+Table 1. Outcome measure for the multivariate interval regression model
+Wave I Wave II Wave III DV1* DV2*
+Non-obese Non-obese Obese 15.8 21.0
+Obese Obese Obese -- 17.5
+Non-obese Non-obese Non-obese 22.4 --
+* DV1 and DV2 represent the grouped dependent variable, age in years at which obesity was first observed given interval, left-, or
+right-censoring if incidence occurred during study period, if respondent was obese at entry into study, and if respondent remained non-obese
+throughout study period, respectively.
+Table 2. Demographic and descriptive statistics* of
+participants in Add Health (Waves I, II, and II)
+Female
+(n  7123)
+Male
+(n  7531)
+Age (yrs) at Wave I
+mean (SE) 15.9 (0.12) 15.7 (0.12)
+Age (yrs) at Wave II
+mean (SE) 16.5 (0.12) 16.3 (0.12)
+Age (yrs) at Wave III
+mean (SE) 22.2 (0.12) 22.0 (0.12)
+Obese at Wave I
+[% (SE)] 7.1 (0.48) 9.7 (0.55)
+Obese at Wave II
+% (SE) 7.9 (0.59) 10.3 (0.59)
+Obese at Wave III
+% (SE) 17.8 (0.90) 17.6 (0.81)
+Race/ethnicity (%)
+White 57.2 57.0
+Black 20.0 21.3
+Hispanic 16.7 16.6
+Asian 6.1 5.1
+Mother obese (%)
+White 19.4 18.8
+Black 18.3 16.8
+Hispanic 16.1 14.8
+Asian 9.4 7.4
+Add Health, National Longitudinal Study of Adolescent Health;
+SE, standard error; IOTF, International Obesity Task Force.
+* Weighted for national representation.
+ Obesity defined using the IOTF cut-off points at Waves I and II
+and the adult BMI cut-off point BMI 30 kg/m2 at Wave III.
+Maternal Obesity and Age of Offspring Obesity, Gordon-Larsen et al.
+2792 OBESITY Vol. 15 No. 11 November 2007
+Multivariate Analysis Results
+Coefficients from the interval regression model are
+shown in Table 4. In the absence of any interaction with
+maternal obesity, the regression coefficients represent the
+difference in the age at onset of obesity between those with
+obese vs. non-obese mothers. When a race-maternal obesity
+interaction is included in the model, the net change in the
+age at onset due to mother's obesity status is the sum of the
+regression coefficients of the race/ethnicity, maternal obe-
+sity and interaction terms. Whites with an obese mother
+have an estimated age of obesity onset of 8.1 years earlier
+than whites with a non-obese mother. Compared with
+whites with a non-obese mother, blacks were estimated to
+become obese 10.8 years earlier, Hispanics 7.0 years earlier,
+and Asians 8.6 years earlier.
+Implications of Earlier Obesity Onset and Maternal
+Obesity
+Judging by young adult body weight and BMI, the se-
+verity of obesity is greatest among those with onset before
+age 18 (regardless of the wave of measurement) and mater-
+nal obesity (Table 5). At Wave III, mean weight was sub-
+stantially higher among respondents who became obese
+before age 18 and who had an obese mother (females: 13.3
+kg higher; males: 6.7 kg higher) than those with onset after
+age 18 and without maternal obesity.
+Discussion
+In a representative, longitudinal sample of adolescents
+and young adults in the United States, we found that having
+an obese mother was associated with younger age of off-
+spring's obesity onset across all race/ethnic groups. This
+relationship was particularly strong in non-Hispanic black
+females. Our analysis also suggests that the combination of
+having an obese mother and an earlier onset of obesity
+translates into higher BMI and weight at young adulthood.
+The impact of our findings for the population is substan-
+tial. Our Add Health analysis sample represents 18.0
+Table 3. Proportion of participants in Add Health
+(Waves I, II, and II) with obesity onset prior to the age
+of 18 years regardless of wave*
+Became
+obese before
+age 18
+(n  1822) (%)
+Became
+obese after
+age 18
+(n  2026) (%)
+Mother obese
+White 18.9 13.7
+Black 26.7 17.3
+Hispanic 17.3 17.0
+Asian 35.2 8.8
+Mother not obese
+White 5.8 7.1
+Black 8.7 10.4
+Hispanic 8.7 8.2
+Asian 3.2 3.0
+Add Health, National Longitudinal Study of Adolescent Health;
+IOTF, International Obesity Task Force.
+* Weighted for national representation.
+ Obesity defined using the IOTF cut-off points at Waves I and II
+and the adult BMI cut-off point BMI 30 kg/m2 at Wave III.
+Table 4. Predictors of age at which obesity* was
+first observed over 5 years of follow-up (Wave II to
+III) among adolescents and young adults in Add
+Health
+ coefficient
+reported as age in
+years (95% CI) p
+Mother obese 8.1 (9.3; 6.9) 0.0001
+Black 2.3 (3.4; 1.2) 0.0001
+Hispanic 1.0 (2.6; 0.5) 0.2
+Asian 4.6 (0.7; 8.5) 0.02
+Black by maternal obesity 0.4 (2.4; 1.6) 0.7
+Hispanic by maternal
+obesity 2.1 (0.4; 4.7) 0.1
+Asian by maternal obesity 5.1 (10.7; 0.5) 0.07
+Parental less than high
+school education 3.5 (5.0; 2.0) 0.0001
+Parental high school
+education/GED 2.3 (3.7; 0.8) 0.002
+Parental some college
+education 1.5 (2.7; 0.3) 0.02
+Parental low income ($0­
+$26,000/yr) 2.6 (3.8; 1.4) 0.0001
+Parental middle income
+($26,000­$50,000/yr) 2.3 (3.4; 1.3) 0.0001
+Constant 36.3 (34.3; 38.2) 0.0001
+Add Health, National Longitudinal Study of Adolescent Health;
+CI, confidence interval; GED, general equivalency diploma; IOTF,
+International Obesity Task Force.
+* Obesity defined using the IOTF cut-off points at Waves I and II
+and the adult BMI cut-off point BMI 30 kg/m2 at Wave III.
+ Betas and 95% confidence intervals from a multivariate interval
+regression model predicting age at obesity onset, which accounts
+for the sampling strategy by using weights and represents the
+maternal obesity by race/ethnicity-gender interaction, adjusted for
+household income, parental education, and sex.
+Maternal Obesity and Age of Offspring Obesity, Gordon-Larsen et al.
+OBESITY Vol. 15 No. 11 November 2007 2793
+million 13- to 20-year-old students at public and private
+schools in the U.S. and indicates that 1.6 million adoles-
+cents became obese before the age of 18 years. A substantial
+proportion (20%) of offspring of an obese mother became
+obese before the age of 18 years, while only 6.5% of those
+with a non-obese mother had early obesity onset. The tran-
+sition from adolescence to young adulthood is a period of
+high incidence and maintenance of obesity, with maternal
+obesity playing a major role in observed age of obesity
+onset.
+Differences in the long-term consequences of early- and
+later-onset obesity are not fully understood. While some
+studies show increased risk of adult (vs. child) BMI on adult
+risk of chronic disease (23­25), there is evidence that the
+cumulative effects of long-term obesity may be more dele-
+terious than later-onset obesity (13,15). In a southwestern
+Ohio cohort followed over the full life cycle from birth into
+later adulthood, Wisemandle et al. (26) found that starting at
+age 4 and through adulthood, individuals with onset of
+overweight (BMI 25) before the age of 25 years had
+higher weight and BMI than those with later-onset or no
+overweight. Early obesity in black adolescent females has
+been shown to be associated with higher fasting blood
+glucose levels and increased risk of impaired fasting glu-
+cose in young adulthood (27). Further, preadolescent central
+adiposity that continues into young adulthood was associ-
+ated with young adult metabolic risk factors, such as ele-
+vated triglycerides, glucose, and blood pressure (28). In
+addition, weight gain after 2 years of age has been shown to
+be related to impaired glucose tolerance later in life (29).
+Offspring of obese parents are at high risk for obesity
+themselves (30­32) due to the effects of both shared genes
+and shared environments. There is familial aggregation of
+physical activity and diet patterns, attributable to genetic
+and non-genetic factors (33­41). Furthermore, those with
+Class III or extreme obesity (BMI 40 kg/m2) have been
+shown to have significantly heavier parents than those with
+Class I or II obesity (BMI 40 kg/m2) (42).
+Although our study is one of the first to look at the
+combined effect of race/ethnicity and maternal obesity in
+observed age at onset of obesity in a nationally representa-
+tive, prospective cohort, our analytical strategy is not with-
+out caveats. Our analysis assessed the age at which obesity
+was first observed once participants entered the Add Health
+study but was limited to the age distribution of the Add
+Health sample. While left- and right-censoring allows pre-
+diction of the age distribution not surveyed in Add Health,
+we are limited in not having data across the full spectrum of
+Table 5. Body weight and BMI (kg/m2) at Wave III of Add Health by maternal obesity and offspring category
+of age at which obesity was first observed regardless of wave*
+Became obese before age 18
+(n  1822)
+Became obese after age 18
+(n  2026)
+Non-obese
+(n  10,806)
+Females
+Mother obese
+Body weight (kg) 106.3 (2.1) 98.0 (1.7) 66.3 (0.7)
+BMI (kg/m2) 38.8 (0.7) 35.8 (0.6) 24.4 (0.2)
+Mother not obese
+Body weight (kg) 97.9 (2.0) 93.0 (1.0) 63.3 (0.2)
+BMI (kg/m2) 37.0 (0.6) 34.7 (0.3) 23.5 (0.1)
+Males
+Mother obese
+Body weight (kg) 114.3 (1.7) 108.4 (1.3) 80.8 (0.6)
+BMI (kg/m2) 36.1 (0.6) 34.3 (0.4) 25.0 (0.2)
+Mother not obese
+Body weight (kg) 106.9 (1.6) 107.6 (1.0) 76.9 (0.4)
+BMI (kg/m2) 33.9 (0.5) 33.4 (0.2) 24.1 (0.1)
+Add Health, National Longitudinal Study of Adolescent Health; IOTF, International Obesity Task Force. Values are mean (standard error).
+* Weighted for national representation.
+ Obesity defined using the IOTF cut-off points at Waves I and II and the adult BMI cut-off point BMI 30 kg/m2 at Wave III.
+ Comparison of offspring category of age at which obesity was first observed (before age 18, after age 18, or non-obese) by maternal
+obesity vs. maternal non-obesity (p  0.01).
+Maternal Obesity and Age of Offspring Obesity, Gordon-Larsen et al.
+2794 OBESITY Vol. 15 No. 11 November 2007
+ages. The interval regression approach, like survival analy-
+sis approaches, holds the assumption that all respondents
+will become obese at some point up to infinity. Ultimately,
+we rely on the distribution of available data (within the
+studied age range) to predict probability of being obese
+outside of the studied age range. In addition, interval re-
+gression assumes normal error distribution. We think that
+this is a tenable assumption because the normal error in our
+case may be with low dispersion. We acknowledge that, if
+a large proportion of the full population were never to
+become obese, our parameter estimates might overestimate
+the average time to obesity among those who become obese.
+Further, while the absolute numbers might differ with other
+distributional assumptions, it is highly likely that we would
+still find the race/ethnicity differences and the relative ef-
+fects of maternal obesity. The interval regression model is
+specifically designed to address interval censoring and,
+thus, is a well-suited methodological approach to take ad-
+vantage of the strengths of the Add Health data.
+The race/ethnic variation in this large, nationally repre-
+sentative, prospective cohort observed during an understud-
+ied age range with data from adolescent respondents and
+their parents, provides an outstanding opportunity for as-
+sessing these relationships. Another limitation is the use of
+self-report data on height and weight. However, we con-
+ducted separate comparative analyses using measured- vs.
+self-report data and found that our results changed very little
+with the use of measured height and weight. Similarly, we
+used only data on maternal obesity but conducted separate
+comparative analyses using paternal obesity, and both ma-
+ternal and paternal obesity and again found that our results
+changed very little depending on the measure used. To
+maximize sample size and to use consistent measures, we
+opted to use self-report weight and height data and data on
+maternal obesity alone.
+The public health implications of the trend toward earlier
+onset obesity are substantial. The trend foreshadows higher
+rates of diabetes and nutrition-related chronic degenerative
+diseases, emerging at younger ages (43,44). Given that risk
+seems to be higher in those with long-term vs. adult-onset
+obesity and that reversal of obesity seems to protect against
+metabolic risk, early identification and intervention to re-
+duce obesity are likely to have major health implications.
+Acknowledgments
+The authors thank Frances Dancy for her helpful admin-
+istrative assistance and Tom Swasey for assistance with
+graphical analysis. This research uses data from Add
+Health, a program project designed by J. Richard Udry,
+Peter S. Bearman, and Kathleen Mullan Harris, from the
+National Institute of Child Health and Human Develop-
+ment, with cooperative funding from 17 other agencies.
+Special acknowledgment is due Ronald R. Rindfuss and
+Barbara Entwisle for assistance in the original design. Per-
+sons interested in obtaining data files from Add Health
+should contact Add Health, Carolina Population Center, 123
+W. Franklin Street, Chapel Hill, NC 27,516­2524 (www.
+cpc.unc.edu/addhealth/contract.html). Supported by NIH:
+NICHD (R01-HD39183, R01-HD041375, and K01-
+HD044263).
+References
+1. Davison KK, Birch LL. Child and parent characteristics as
+predictors of change in girls' body mass index. Int J Obes
+Relat Metab Disord. 2001;25:1834­42.
+2. Comuzzie AG, Allison DB. The search for human obesity
+genes. Science. 1998;280:1374­7.
+3. Herbert A, Gerry NP, McQueen MB, et al. A common
+genetic variant is associated with adult and childhood obesity.
+Science. 2006;312:279­83.
+4. Ogden CL, Flegal KM, Carroll MD, Johnson CL. Preva-
+lence and trends in overweight among US children and ado-
+lescents, 1999­2000. JAMA. 2002;288:1728­32.
+5. Flegal KM, Carroll MD, Ogden CL, Johnson CL. Preva-
+lence and trends in obesity among US adults, 1999­2000.
+JAMA. 2002;288:1723­7.
+6. McTigue KM, Garrett JM, Popkin BM. The natural
+history of the development of obesity in a cohort of young
+U.S. adults between 1981 and 1998. Ann Intern Med. 2002;
+136:857­64.
+7. Gordon-Larsen P, Adair LS, Nelson MC, Popkin BM.
+Five-year obesity incidence in the transition period between
+adolescence and adulthood: the National Longitudinal
+Study of Adolescent Health. Am J Clin Nutr. 2004;80:569­
+75.
+8. Rolland-Cachera MF, Deheeger M, Guilloud-Bataille M,
+Avons P, Patois E, Sempe M. Tracking the development of
+adiposity from one month of age to adulthood. Ann Hum Biol.
+1987;14:219­29.
+9. Serdula MK, Ivery D, Coates RJ, Freedman DS, William-
+son DF, Byers T. Do obese children become obese adults? A
+review of the literature. Prev Med. 1993;22:167­77.
+10. Srinivasan SR, Bao W, Wattigney WA, Berenson GS.
+Adolescent overweight is associated with adult overweight
+and related multiple cardiovascular risk factors: the Bogalusa
+Heart Study. Metabolism. 1996;45:235­40.
+11. Power C, Lake JK, Cole TJ. Measurement and long-term
+health risks of child and adolescent fatness. Int J Obes Relat
+Metab Disord. 1997;21:507­26.
+12. Must A, Jacques PF, Dallal GE, Bajema CJ, Dietz WH.
+Long-term morbidity and mortality of overweight adolescents:
+a follow-up of the Harvard Growth Study of 1922 to 1935.
+N Engl J Med. 1992;327:1350­5.
+13. Freedman DS, Dietz WH, Tang R, et al. The relation of
+obesity throughout life to carotid intima-media thickness in
+adulthood: the Bogalusa Heart Study. Int J Obes Relat Metab
+Disord. 2004;28:159­66.
+14. Nieto FJ, Szklo M, Comstock GW. Childhood weight and
+growth rate as predictors of adult mortality. Am J Epidemiol.
+1992;136:201­13.
+Maternal Obesity and Age of Offspring Obesity, Gordon-Larsen et al.
+OBESITY Vol. 15 No. 11 November 2007 2795
+15. Vanhala M, Vanhala P, Kumpusalo E, Halonen P, Takala
+J. Relation between obesity from childhood to adulthood and
+the metabolic syndrome: population based study. BMJ. 1998;
+317:319.
+16. Gordon-Larsen P, McMurray RG, Popkin BM. Adolescent
+physical activity and inactivity vary by ethnicity: the National
+Longitudinal Study of Adolescent Health. J Pediatr. 1999;
+135:301­6.
+17. Popkin BM, Udry JR. Adolescent obesity increases signifi-
+cantly in second and third generation U.S. immigrants: the
+National Longitudinal Study of Adolescent Health. J Nutr.
+1998;128:701­6.
+18. Cole TJ, Bellizzi MC, Flegal KM, Dietz WH. Establishing a
+standard definition for child overweight and obesity
+worldwide: international survey. BMJ. 2000;320:1240­3.
+19. No authors listed. Clinical guidelines on the identification,
+evaluation, and treatment of overweight and obesity in
+adults--the evidence report. National Institutes of Health.
+Obes Res. 1998;6(Suppl 2):51S­209S.
+20. World Health Organization. Report of the Joint WHO/FAO
+Expert Consultation on Diet, Nutrition and the Prevention of
+Chronic Diseases. Geneva, Switzerland: World Health
+Organization; 2002.
+21. Gang L, Zhang C. Linear regression with interval censored
+data. Ann Stat. 1998;28:1306­27.
+22. StataCorp. Stata Release 9, Survey Data Reference Manual.
+College Station, TX: Stata; 2005.
+23. Freedman DS, Khan LK, Dietz WH, Srinivasan SR, Be-
+renson GS. Relationship of childhood obesity to coronary
+heart disease risk factors in adulthood: the Bogalusa Heart
+Study. Pediatr. 2001;108:712­8.
+24. Wright CM, Parker L, Lamont D, Craft AW. Implications
+of childhood obesity for adult health: findings from thousand
+families cohort study. BMJ. 2001;323:1280­4.
+25. Black E, Holst C, Astrup A, et al. Long-term influences of
+body-weight changes, independent of the attained weight, on
+risk of impaired glucose tolerance and Type 2 diabetes. Diabet
+Med. 2005;22:1199­205.
+26. Wisemandle W, Maynard LM, Guo SS, Siervogel RM.
+Childhood weight, stature, and body mass index among never
+overweight, early-onset overweight, and late-onset overweight
+groups. Pediatrics. 2000;106:E14.
+27. Klein DJ, Aronson Friedman L, Harlan WR, et al. Obesity
+and the development of insulin resistance and impaired fasting
+glucose in black and white adolescent girls: a longitudinal
+study. Diabetes Care. 2004;27:378­83.
+28. Morrison JA, Friedman LA, Harlan WR, et al. Develop-
+ment of the metabolic syndrome in black and white adolescent
+girls: a longitudinal assessment. Pediatrics. 2005;116:1178­
+82.
+29. Bhargava SK, Sachdev HS, Fall CH, et al. Relation of serial
+changes in childhood body-mass index to impaired glucose
+tolerance in young adulthood. N Engl J Med. 2004;350:865­
+75.
+30. Poskitt EM, Cole TJ. Nature, nurture, and childhood over-
+weight. Br Med J. 1978;1:603­5.
+31. Sorensen TI, Holst C, Stunkard AJ. Adoption study of
+environmental modifications of the genetic influences on obe-
+sity. Int J Obes Relat Metab Disord. 1998;22:73­81.
+32. Garn SM, Clark DC. Trends in fatness and the origins of
+obesity Ad Hoc Committee to Review the Ten-State Nutrition
+Survey. Pediatrics. 1976;57:443­56.
+33. Mitchell BD, Rainwater DL, Hsueh WC, Kennedy AJ,
+Stern MP, Maccluer JW. Familial aggregation of nutrient
+intake and physical activity: results from the San Antonio
+Family Heart Study. Ann Epidemiol. 2003;13:128­35.
+34. Maia JA, Thomis M, Beunen G. Genetic factors in physical
+activity levels: a twin study. Am J Prev Med. 2002;23:87­91.
+35. Franks PW, Ravussin E, Hanson RL, et al. Habitual phys-
+ical activity in children: the role of genes and the environment.
+Am J Clin Nutr. 2005;82:901­8.
+36. Simonen RL, Perusse L, Rankinen T, Rice T, Rao DC,
+Bouchard C. Familial aggregation of physical activity levels
+in the Quebec Family Study. Med Sci Sports Exerc. 2002;34:
+1137­42.
+37. Perusse L, Leblanc C, Bouchard C. Familial resemblance in
+lifestyle components: results from the Canada Fitness Survey.
+Can J Public Health. 1988;79:201­5.
+38. Perusse L, Tremblay A, Leblanc C, et al. Familial resem-
+blance in energy intake: contribution of genetic and environ-
+mental factors. Am J Clin Nutr. 1988;47:629­35.
+39. Rankinen T, Bouchard C. Genetics of food intake and eating
+behavior phenotypes in humans. Ann Rev Nutr. 2006;26:413­
+34.
+40. Spruijt-Metz D, Lindquist CH, Birch LL, Fisher JO,
+Goran MI. Relation between mothers' child-feeding practices
+and children's adiposity. Am J Clin Nutr. 2002;75:581­6.
+41. Krahnstoever Davison K, Francis LA, Birch LL. Reexam-
+ining obesigenic families: parents' obesity-related behaviors
+predict girls' change in BMI. Obes Res. 2005;13:1980­90.
+42. Crerand CE, Wadden TA, Sarwer DB, et al. A comparison
+of weight histories in women with class III vs. class I-II
+obesity. Surg Obes Relat Dis. 2006;2:165­70.
+43. Mokdad AH, Ford ES, Bowman BA, et al. Prevalence of
+obesity, diabetes, and obesity-related health risk factors, 2001.
+JAMA. 2003;289:76­9.
+44. Mokdad AH, Bowman BA, Ford ES, Vinicor F, Marks JS,
+Koplan JP. The continuing epidemics of obesity and diabetes
+in the United States. JAMA. 2001;286:1195­200.
+Maternal Obesity and Age of Offspring Obesity, Gordon-Larsen et al.
+2796 OBESITY Vol. 15 No. 11 November 2007
+

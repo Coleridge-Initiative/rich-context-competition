@@ -1,0 +1,736 @@
+SAGE Open
+October-December 2014: 1
+­8
+© The Author(s) 2014
+DOI: 10.1177/2158244014560551
+sgo.sagepub.com
+Creative Commons CC BY: This article is distributed under the terms of the Creative Commons Attribution 3.0 License
+(http://www.creativecommons.org/licenses/by/3.0/) which permits any use, reproduction and distribution of the work without further
+permission provided the original work is attributed as specified on the SAGE and Open Access page (http://www.uk.sagepub.com/aboutus/openaccess.htm).
+Article
+Introduction
+A digital video recorder (DVR) enables viewers to pause,
+rewind, record, and playback selected programs at their con-
+venient time. Although video cassette recorder (VCR) also
+offered most of these features, the ease and significant
+recording capacity attracted users toward DVR.
+The practice of fast forwarding the commercials has led to
+serious concerns regarding the effectiveness of advertise-
+ments when fast forwarded by the viewers (Maddox, 2006).
+Although various interesting studies have suggested that
+smart advertisements make an impact on TV viewers even
+when fast forwarded, these concerns have still persisted
+(Consoli, 2005, 2007; Wurtzel, 2006).
+Kishore (2003) highlights the claims made by early DVR
+users regarding the impact of new technology on television
+viewing and skipping the advertisements leading to adverse
+impact on traditional television advertising. As a result, it is
+estimated that by 2007, practice of time-shifted viewing and
+skipping of advertisements would reduce traditional ad-
+viewing by 19% leading to loss of US$7 billion from tradi-
+tional TV ad revenue (Forrester, 2002).
+Hollis (2005) also opines that attractive features of DVRs
+such as time shifting, recording, pausing live TV and replay-
+ing where it was left, and saving time by fast forwarding bor-
+ing advertisements would soon make it an indispensable
+home appliance. A study conducted by Fann-Im (2004)
+revealed that more than 50% of all DVR users found fast
+forwarding through commercials as their favorite feature.
+Hollis (2005) brings a ray of hope for the advertisers and
+expresses that this however does not imply that the viewers
+would not see advertisement at all. The study indicated that
+even while fast forwarding, the viewers get to see rapid
+sequence of images with no sound, which still creates some
+impact. Therefore, fast forwarding may pose a threat to
+advertising business but cannot completely destroy the
+impact of ads on the viewers. Gilmore and Secuna (1993)
+also expressed that fast forwarded ads bring back memories
+of the product in the viewers' mind. This argument was con-
+tradicted by Cronin and Menelly (1992) who mentioned that
+viewers fast forward all the ads without any selection and
+prior judgment.
+Negroponte (1995) opines that increasing access to digital
+technologies has enhanced the consumers' control over
+media consumption, thus leading to lesser requirement for
+real-time broadcast. It has been predicted by forecasters that
+this rapid shift from "a world of linear TV to on-demand"
+would require a "radical rethink of advertising supported
+programming."
+560551
+SGOXXX10.1177/2158244014560551SAGE OpenKalia
+research-article2014
+1Institute of Management Technology, Ghaziabad, India
+Corresponding Author:
+Shalini Kalia, Associate Professor and Area Chairperson, Business
+Communication, Institute of Management Technology, Raj Nagar,
+Ghaziabad, UP 201001, India.
+Email: skalia@imt.edu
+DVR and Its Impact on Indian Market:
+Now and in Future
+Shalini Kalia1
+Abstract
+The television viewing experience has been completely revolutionized with the advent of digital video recorder (DVR). The
+comfort and ease of watching programs at one's own convenience and saving time by fast forwarding the commercials have
+completely changed the viewers' life style. Considering the fact, that fast forwarding of commercials defeats the ultimate
+purpose of reaching out to TV viewers, a lot is at stake for the advertisers who ignore the impact of DVRs on advertising.
+International advertising market has already started adopting creative ways to hold the viewers' attention in this time-shifted
+world. The available literature review on impact of DVRs is mainly related to the United States and European countries;
+hardly any research has been done in this regard in context to India. This study is based on literature review to understand
+the threats and opportunities of DVRs in global market, identify the creative strategies adopted by other countries to combat
+these threats, analyze the current situation of impact of DVRs in Indian market, and make recommendations for future in
+context to India.
+Keywords
+digital video recorder, media planning, advertisers, time shift
+2 SAGE Open
+Aim of the Study
+The available literature review on DVR is mainly related to
+the United States and European countries. The research on
+impact of DVRs in context to India has been very limited.
+Therefore, this study, conducted in 2012-2013, is a literature
+review to
+·
+· Understand the threats and opportunities of DVRs in
+global market
+·
+· Identify the creative strategies adopted by other coun-
+tries to combat threats posed by DVRs
+·
+· Analyze the current situation of impact of DVR in
+Indian market and make recommendations for future
+in context to India.
+Method
+An extensive literature review was done to understand the
+impact of DVR on global market.Approximately 45 research
+papers and articles were studied to get an in-depth under-
+standing of the topic.
+Results and Discussion
+DVR Penetration
+In the United States, DVR was introduced in 1999, devel-
+oped and marketed by TiVo, Inc. Since then, the product has
+been made available in many other countries such as
+Australia, Canada, Mexico, New Zealand, Puerto Rico,
+Taiwan, and the United Kingdom. In developed markets such
+as the United States and the United Kingdom, DVR numbers
+have reached a critical mass. The DVR penetration in the
+United States had gone from 1% in 2006 to 43% of all TV
+viewing households in 2011 as per a "Pay TV in the US"
+report by Mintel, a market research firm (Bapna, 2012a).
+Brecht (2011) expressed that DVR penetration had dou-
+bled in the previous 2 years with its presence in 38.1% of all
+U.S. homes; thus, advertisers cannot afford to ignore this
+rapid growth of DVR while planning television marketing
+campaigns. Figure 1 indicates estimates of revenues attribut-
+able to the U.S. DVR industry from 1999 to 2010 (Schaeffler,
+2009) according to which the DVR revenue significantly
+increased from US$111 million to US$5,200 million in these
+years.
+In the United Kingdom, penetration has crossed 50% in
+2011, according to Deloitte Technology's media and tele-
+communication practice (Bapna, 2012a). A report in Cable
+Quest Broadband (2009) projected that in the United
+Kingdom and Ireland, the DVR service was in more than 5
+million homes; in Australia, two out of three set top boxes
+(STBs) deployed were DVR enabled; and in the United
+States, DVRs were provided as a standard feature by most
+operators.
+In India, DVR adoption is still nascent and is estimated at
+400,000 households, or less than 4% of the TV viewing
+homes till 2011 (Bapna, 2012a). A rapid growth rate in DVR
+ownership has been predicted in Asian countries with India
+having the second highest level of DVR subscribers in Asia
+by 2013 and overtaking Japan to have the highest number of
+DVR subscribers by 2018 (refer Table 1).
+Figure 1. Estimates of revenues attributable to the U.S. DVR industry from 1999 to 2010.
+Source. Schaeffler (2009).
+Note. DVR = digital video recorder.
+Kalia 3
+DVR revenues in Asia Pacific have been predicted to be
+witnessing significant growth rates. With Japan as leader,
+China, Korea, and India are other major Asian markets that
+would witness large increase in DVR revenues. DVR reve-
+nue of US$68 million is projected to be generated by India
+till 2018 (refer Figure 2).
+Arecent review of digitization progress by the Ministry of
+Information and Broadcasting (2012) has revealed that 68%
+of cable TV digitization has already been achieved in the
+four metro cities of India--Delhi, Mumbai, Kolkata, and
+Chennai. City-wise data show that digitization in Mumbai is
+95%, in Kolkata 67%, in Delhi 53%, and in Chennai 49%. A
+study by Media Partners Asia predicted India to be the larg-
+est direct to home (DTH) market in the world in terms of
+subscribers by 2012 and estimated 45 million subscribers by
+2014. These are massive numbers for an industry that has not
+even completed a decade since its inception (Sawant, 2011).
+With the exceptional growth of telecom sector in India in
+the past few years, it can be safely said that Indian market is
+ripe for adopting new technologies. DVR will soon be con-
+sidered as essential as the mobile phone as in other leading
+markets in the world. Navin Talreja, president of Ogilvy for
+Mumbai and Kolkata, emphasizes that huge social factors
+that could make DVR big in India are large families and the
+nature of programming (Bapna, 2012a). In a detailed chat
+with the Economic Times (Bapna, 2012b), Atul Phadnis
+opines that TV series, which hold the viewers' attention and
+force them to regularly follow these programs, are one of the
+major reasons for DVR's success in India. Although for seri-
+als in mainline languages there are repeat telecasts, they are
+generally broadcast at odd hours; hence, the DVR acts as a
+useful resource. For programs broadcast in regional lan-
+guages, the main TV serials are not repeated; hence, viewers
+are even more anxious about missing any episode, thus
+increasing the possibility of increased DVR penetration in
+the Indian market. The other element for better DVR pene-
+tration in India could be increasing interest of newer genera-
+tion in sports. With international live matches being telecast
+on a U.S. time or Euro time, the need of DVR becomes all
+the more relevant. Moreover, TV viewers in India have been
+frustrated with too many ads within the programs and wish to
+opt for interruption-free entertainment. Therefore, India
+could be considered a major potential market for DVR in
+future; however, the price may be one of the major stumbling
+blocks for its penetration.
+With the launch of DVR in the United States in 1999,
+research has proven that it posed major challenges to adver-
+tising world forcing advertisers to think of innovative strate-
+gies. In India, DVR was first launched by Tata Sky in 2008
+followed by other players such as Dish TV, Airtel, Reliance,
+and so on. The penetration of DVR in India was less than 4%
+till 2011, which currently may not be an alarming situation.
+However, Indian market is quite receptive to technological
+innovations and with the mandatory digitization process in
+metropolitan cities, increase of affluent class, and working
+couples, the chances of DVR penetration in coming years are
+quite high.
+Impact of DVRs on Advertising
+Many researchers believe that DVR threatens television
+advertising because of the commercial skipping feature
+(Association of National Advertisers/Forrester Research
+Survey, 2006; Goetzl, 2006), whereas others downplay such
+concerns (W. Friedman, 2006; Solman, 2007). Depending on
+different viewpoints, DVRs are either boon or bane. It may
+be considered a boon for TV viewers because DVRs allow
+them to watch their favorite programs at their convenient
+timings. Moreover, it is also beneficial for television net-
+works as they are able to reach out to viewers who are not
+able to watch programs when they are broadcast. The adver-
+tisers may consider it a bane as this facility allows viewers to
+skip through the television commercials by fast forwarding
+and ultimately, reducing the overall return on investment
+(ROI) of television advertising funds.
+It is surprising to know that despite the extent of TV
+advertising market and the impact DVRs already have on
+advertising business, the advertisers, agencies, and about
+70% of advertising executives lack understanding on the
+Figure 2. DVR revenues.
+Source. Cable Quest Broadband (2009).
+Note. DVR = digital video recorder.
+Table 1. DVR Subscribers in Asia.
+DVR subscribers (000)
+ 2009 2013 2018
+India 99 1,554 4,085
+China 154 1,488 4,045
+Japan 644 1,606 2,326
+Korea 57 353 1,067
+Source. Cable Quest Broadband (2009).
+Note. DVR = digital video recorder.
+4 SAGE Open
+change in advertising strategies required due to DVR revolu-
+tion (DVR Research Institute, 2010).
+Brown (2011) comments that advent of DVR is not the
+sole reason behind the change in TV viewing environment.
+Other devices and technologies such as smart phones, tab-
+lets, social media, and TV viewing over the Internet pose
+more substantial challenges to TV advertising than DVRs.
+However, TV remains a formidable advertising vehicle and
+thus, it is important to discuss TV advertising, the challenges
+it faces, and the way advertisers can respond to those
+challenges.
+DVRs as a Threat
+The advertising world has witnessed a significant stir since
+the advent of DVR. Goetzl (2006) reports that essentially all
+DVR users fast forward through advertising, and marketers
+are considering this crucial change in TV viewing very seri-
+ously. An alarming response of survey done with large
+national advertisers (Bernoff, 2004) revealed that due to
+drastic increase in DVR usage, 75% of respondents planned
+to reduce the budget allocation for television advertising and
+70% responded that DVRs would minimize the efficacy of
+"traditional 30-second commercials."
+Debraj Tripathy, managing director of MediaCom India, a
+media planning and buying agency, comments that if DVR
+numbers explode, planners and advertises will have a tough
+time. Consumers will skip through ads and watch what they
+want at a time that is suitable to them; and planners will vir-
+tually be able to do nothing about it (Bapna, 2012a). Thus,
+media planning and creative execution will be significantly
+affected with excessive control of consumers on advertising
+medium.
+Research claims that up to 80% of all primetime program-
+ming in DVR households are time-shifted and out of this,
+65% to 75% of all commercials are skipped by the users
+(Posnack, 2004). Mandese (2004) also reports that "an aver-
+age of 53 percent of TV commercials are skipped in DVR
+households, but the ad zapping is much higher, 77 percent,
+for the portion of programming they view on a recorded
+basis." Thus, time-shifting feature and convenience to skip
+commercials are two major challenges faced by advertisers
+in getting their commercials noticed.
+DVR Research Institute (2010) projects that more than
+80% of advertising executives are concerned about the cru-
+cial impact of DVR on TV advertising and consider this even
+a bigger threat to TV advertising than the shift in media con-
+sumption or the increased use of Internet. As per the study,
+impact of DVR on efficacy of TV advertising is based on the
+components such as "number of TV households with DVR;
+percentage of TV watching time-shifted in DVR households;
+number of ads skipped in time-shifted mode; impact of
+DVRs on the cost of advertising." The impact measured on
+these components could vary depending on "the target audi-
+ence and its ethnicity, location, socio-demographics, age,
+etc., and with factors like program genre and day part."
+Brecht (2011) mentions in a report that the percentage of
+DVR users, who skip all or most commercials, is approxi-
+mately 80%, which may lead to significant reduction in ROI
+for television advertising. Another report projected that
+"with total TV advertising in 2008 estimated at $80 billion,
+the value foregone from fast-forwarding of commercials cur-
+rently reflects approximately $5 billion." The end of 2008
+witnessed 6% fast-forwarded commercials of all TV com-
+mercials; however, this percentage is likely to nearly triple
+by the end of 2011. Therefore, there is a lot at stake for
+advertisers who are striving to get the best returns on invest-
+ments made on TV advertising (Research and Markets,
+2009). This is further validated by research quoted in
+Campaign (2005, PHD) reporting 32% loss of commercial
+impacts if personal video recorders (PVR) and video on
+demand (VoD) reach all U.K. homes by 2010. Therefore,
+DVR's impact on ROI from TV advertising cannot be
+ignored and requires significant measures to control the
+extent of losses made by DVRs.
+DVRs as an Opportunity
+TV viewers enjoy great choice and control through DVR.
+Ferguson and Perse (2004) make an interesting claim that
+DVR owners not only relish recorded television programs
+but also enjoy watching live programs as this gives them
+greater control on media choice. Hollis (2005) shows a ray of
+hope to the media planners and highlights that not all viewers
+are Type "A" go-getters with busy schedules who consider
+their TV viewing a business task. Others, who may be cate-
+gorized as Type "B," still like to utilize the TV viewing expe-
+rience as time to relax and would not completely depend on
+time-shifted programming. The study also adds that even if
+viewers fast forward ads, they are at least engaged and not
+distracted by other technical gadgets. DVRs have an added
+advantage over VCRs as while fast forwarding through
+DVR, the viewers can see images and they can stop and
+replay the ad if something attracts them in terms of relevant
+information or enjoyable content. If, by 2010, DVR penetra-
+tion is 40%, with 33% viewing pre-recorded content, and
+80% of ad exposures being avoided, then only 10% of poten-
+tial exposure will be lost to DVR usage. Although it would
+adversely affect the impact of TV advertising, it is definitely
+not an indicator of end of TV advertising. Even in a worse
+scenario of 60% DVR penetration, 50% pre-recorded view-
+ing, and 80% avoidance to lower ad exposure by 25%, it can-
+not be claimed that fast-forward exposure has no benefit.
+However, undoubtedly, TV advertisers and agencies will
+have to change their strategies in developing and positioning
+of ads to maximize their effectiveness.
+Nielsen (2010) reports an interesting observation and
+states that "Contrary to fears that DVRs would wipe out the
+value of commercials because of viewers fast-forwarding
+through ads, DVRs actually contribute significantly to com-
+mercial viewing." A study conducted with DVR users
+between 18 and 49 years reported an increase of 44% rating
+Kalia 5
+in 3 days following the broadcast for a primetime commer-
+cial minute.
+Stelter (2010) adds that DVR owners are spending more
+time on watching TV and the ratings of commercials for
+some shows targeted for youngsters increased by more than
+50% when played back within 3 days. Interestingly, most of
+the DVR users are the ones who are tech savvy and during
+the commercials, they are also actively engaged in media
+multitasking such as texting, face booking, and so on, using
+that time until the commercial is over. Therefore, instead of
+fast forwarding the ads, this segment uses the commercial
+breaks for effective multitasking.
+Even if we assume that most of the DVR owners fast
+forward the commercials, another U.K.-based research
+proves that fast-forward exposure too has an impact. In a
+controlled experiment of fast-forward viewing at 30 times
+the normal speed, it was concluded that this induced a posi-
+tive emotional response for ads previously run on prime-
+time TV. This emotional response was not observed for the
+ads to which respondents were not exposed earlier, hence
+proving that "prior exposure leads the mind to respond pos-
+itively even to a subsequent fleeting exposure" (Hollis,
+2005). du Plessis (2009) also highlights that by giving
+attention while fast forwarding, people not only recognize
+the advertisement, but in the process of recognition, they
+experience similar emotional memories as when they first
+cognized the advertisement. Thus, in contrast to "live or by
+appointment" TV viewing, where viewers tend to skip ads
+by surfing other channels or getting involved with other
+activities, DVR users are glued to the screen while fast for-
+warding through ads, hence increasing the possibility of
+experiencing the ads at some level (Tse & Lee, 2001; Van
+Meurs, 1998).
+A. Friedman (2010) brings another interesting aspect that
+although TV viewing through DVR enhances ad skipping,
+the demand for advertised product does not get affected by
+owning a DVR. This gives another sigh of relief to the adver-
+tisers as DVRs may not have a direct impact on ROI. With
+DVRs getting more affordable, they are the second most
+important household item, after the mobile phone.
+The wide penetration and popularity of the DVR may,
+however, lead to threat for other businesses in entertainment
+sector. Purchasing and renting of DVDs is one such business
+that has got immensely affected by this. In a survey done
+with DVR owners who actively utilized the recording facil-
+ity of DVR in the previous year, it was found that 40% of
+them purchased fewer DVDs and 38% rented fewer DVDs in
+that duration (Technology, Media, and Telecommunications
+Predictions, 2011).
+Implications for Media Planning and Creative
+Development
+Although the extent to which the economic structure of
+broadcast and cable television would be affected by DVRs is
+not certain, the strong possibility of these devices changing
+the current "advertising-supported business model" is defi-
+nitely indicated by industry experts (Learmonth, 2003). If
+advertisers are to keep up with the changing force in the
+media marketplace, they must thoroughly understand how
+audiences "behave" in the emerging media environment
+(Lin, 1994, p. 30). It has been researched that DVR owners
+have higher incomes, better education, and more children
+than other television viewers (Story, 2007). They tend to be
+younger than the average viewer and exhibit increased tele-
+vision usage (W. Friedman, 2006). Thus, advertisers will
+have to analyze the target audience and their behavior to
+combat the challenges posed by DVR.
+In the countries with significant DVR penetration, adver-
+tisers are already indulging in designing creative TV adver-
+tising strategies to combat the challenges imposed by DVRs.
+The report by DVR Research Institute (2010) suggests the
+following three-step approach that advertisers may consider
+to reach out to consumers even in time-shifted world:
+Step1--EstablishthefactbaseaboutDVRs:Advertisers
+who do not correctly assess the basic facts about DVRs
+and their impact on TV advertising are likely to either
+overestimate or underestimate the true impact and either
+overreact or underreact to DVRs. This, in turn, will result
+in waste in advertising spending.
+Step 2--Evaluate best-practice strategies in response
+to the impact of DVRs: Some of the measures that lead-
+ing advertising executives are already taking, or consider-
+ing taking are
+·
+· Using alternate forms of TV advertising (e.g., product
+placement, pop-up ads, sponsorship, etc.)
+·
+· Selecting appropriate time of ad broadcast (prime-
+time, night time, day time, etc.)
+·
+· Reconsidering TV budget allocations (vs. Internet or
+other media)
+·
+· Advertising in the programs that viewers prefer
+watching when broadcast (news, sports, etc.)
+·
+· Positioning of advertisement (first, middle, last)
+·
+· Strategizing the length of the advertisement and the
+airing frequency
+Step 3--Tailor these strategies to your goals: The
+advertising strategies are to be designed based on cam-
+paign type, target audience, and program/day part.
+The challenges posed by DVRs have motivated advertis-
+ers to identify strategies that effectively help overcome the
+challenges imposed by DVR and leverage its benefits. The
+creative strategies that have been identified through litera-
+ture review are as follows (Brecht, 2011; Brown, 2011;
+Hollis, 2005):
+1. Contextual advertising: By integrating the advertis-
+ing product in show's context, the advertisement sub-
+tly creates an impact on the viewers.
+6 SAGE Open
+2. Addressable advertising: This strategy works smartly
+by telecasting targeted ads in different households
+based on certain characteristics or demographics. As
+a result, viewers watch ads of their interest during a
+program leading to a possibility of ad avoidance.
+3. Designing of ads to work well in fast-forward envi-
+ronment: Placing the most powerful branding cues in
+the center of the screen; identifying the features that
+trigger positive brand associations; and using attrac-
+tive colors, logos, or characters enhance the ad visi-
+bility even when fast forwarded. Another interesting
+strategy to hold audience's attention is to create ads
+that play in slow motion during live viewing, so that
+all of the ad's content, not just the brand cues, is
+clearly recognizable when fast forwarded.
+4. Knowing your audience: Knowing the target audi-
+ence; knowing what their time-shifting/fast-forward-
+ing style is; tailoring ads and media placement
+accordingly helps in reaching out to TV viewers.
+Initial ad placements in programs with high levels of
+live viewing (e.g., sports, news) would maximize the
+probability that they will be seen in "normal" view-
+ing mode prior to fast forwarding.
+5. Using strong visual icons and compelling campaign
+themes to perform better in a fast-forward world:
+Strong visual icons related to the category, brand,
+prior ads in a campaign, or target audience need to be
+featured in the ad preferably near the beginning to
+ensure that viewers do not skip the ad. All these tech-
+niques will help the viewer identify, although at a
+non-conscious level, whether the ad is going to be of
+interest to him or her.
+6. Engaging people emotionally: People who may have
+shifted their focus to other technological gadgets will
+get attracted by ad that interests them. If ads engage
+people emotionally, they will be watched over and
+over again, just because they enjoy the viewing
+experience.
+7. Using high-interest product categories and high-
+affinity brands for having an innate advantage in a
+DVR world: Having an interest in the brand and
+product category increases the possibility of stopping
+and watching a specific ad, thus indicating that high-
+interest product categories and high-affinity brands
+will have an innate advantage in the DVR world.
+DVR companies have been experimenting various meth-
+ods to debilitate the impact of fast forwarding. In one such
+attempt, advertisements of branded products were placed at
+the end of recorded shows, but their effectiveness could not
+be measured (Gonsalves, 2006; Shim, 2005). To avert the
+DVR impact, some companies even went to an extent of sug-
+gesting disabling of fast-forward button during commercial
+break (Stross, 2006) but anticipated the strong consumer
+resistance. Therefore, instead of avoiding the fast-forwarding
+feature, advertisers will have to make the ads as effective as
+possible even when watched in fast-forwarded mode.
+Therefore, it is critical to use the appropriate advertising
+strategies for right impact. Advertising costs are significant
+and wrong allocation of funds can result in major losses. The
+need of the hour is to have perfect blend of placement and
+creative strategy while designing ads so as to get the maxi-
+mum attention of the viewers. Hence, in the DVR age, it is
+the job of media planners to ensure that content attracts peo-
+ple even if it is fast forwarded.
+Conclusion and Recommendations
+There is no doubt that DVRs pose lot of challenges to media
+planners, but it is definitely not the end of TV advertising. To
+convert these challenges into opportunities, the advertisers
+and media planners have to be much more creative in design-
+ing and positioning of ads during the programs. Till 2011,
+DVR penetration in India was less than 4% in contrast to
+43% in the United States and about 50% in the United
+Kingdom; therefore, the challenges posed by DVRs on TV
+advertising in Indian market are not alarming in near future.
+A Coca-Cola spokesperson opines (Bapna, 2012a) that DVR
+market is in the initial stage in India and will take some time
+to have an impact. However, Indians'fad for technology may
+lead to its fast adoption and therefore, a timely strategic plan-
+ning to effectively manage the DVR challenges will be of
+great help.
+Taking clue from the strategies followed by the countries
+where DVR penetration is much higher than India, media
+planners can consider them as precedent and customize in
+Indian context to combat the DVR challenges in Indian mar-
+ket. These may include buying ad spots at the start or the end
+of a commercial break; resorting to other forms of TV adver-
+tising such as product placements, pop-up ads, and sponsor-
+ships; relying on strong iconic and visual imagery that can
+stand out during fast forwarding; and widening the basket of
+allocation to include different kinds of programming, from
+news to sports.
+Moreover, to overcome the possible downside of DVR
+fast forwarding, media planners will have to ensure that the
+fast-forwarded ads have already been seen by viewers at nor-
+mal speed. This could be done by preliminary placement of
+ads in programs that are generally not fast forwarded such as
+sports, news, and so on. Hence, media departments'planning
+will have to emphasize programming, not time slots to under-
+stand which programs are most often viewed in real time and
+which are likely to be time-shifted.
+An interesting observation made on viewing behavior is
+that it is older male viewers who are most likely to fast for-
+ward through commercials; younger people are more likely
+to let the commercials play. This is not because the younger
+people are riveted to their TV screens during the commercial
+break but because they have other screens to attend to--their
+phones, their tablets, and their PCs--and so live viewing still
+Kalia 7
+predominates (Brown, 2011). This observation may be judi-
+ciously utilized by the media planners in positioning of the
+TV ads.
+Many researchers do not consider DVR to be a threat and
+believe that this would not lead to the end of TV advertising
+and all the panic was uncalled for. They have expressed that
+fast forwarding through commercials requires an active
+involvement that not all viewers bring to their leisure time
+TV entertainment; thus, it would remain a "lean-back"
+medium where many viewers would take the path of least
+resistance and let the commercials roll. Even if DVR users
+fast forward the advertisements, it has been observed that
+they are attentive to commercials. Thus, the impact of fast
+forwarding of advertisements on sales may not be equal to
+the ads that are not seen at all.
+Over and above, smart phones, tablets, and social media,
+working in concert with ever-decreasing attention spans,
+pose more substantial challenges to TV advertising than do
+DVRs. Therefore, it can be concluded that DVR is a boon for
+the TV viewers and with smart advertising strategies, media
+planners can excel in reaching out to viewers with significant
+ROI.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research and/or
+authorship of this article.
+References
+Association of National Advertisers/Forrester Research Survey.
+(2006). Beyond the 30 second spot: Marketers adding alter-
+natives to television advertising. Retrieved from http://www.
+marketingtoday.com/research/0306/tv_advertising_less_effec-
+tive.htm
+Bapna, A. (2012a, August 17). Advertisers spooked: DVRs allow
+viewers to record programmes and watch them after fast-for-
+warding advertisements. The Economic Times. Retrieved from
+http://articles.economictimes.indiatimes.com/2012-08-17/
+news/33249674_1_dvr-channels-record-programmes
+Bapna, A. (2012b, August 19). New devices coming in, like
+DVRs, are first supposed to pass the litmus test of consumer
+acceptance: Atul Phadnis, What's-on-India. The Economic
+Times. Retrieved from http://articles.economictimes.india-
+times.com/2012-08-19/news/33273007_1_dvrs-digital-video-
+recorders-tivo
+Bernoff, J. (2004, April 22). Ad skipping still haunts advertis-
+ers (Forrester Research paper). Retrieved from https://www.
+yumpu.com/en/document/view/7248152/ad-skipping-still-
+haunts-advertisers
+Brecht, R. M. (2011, January 4). Television advertising: The impact
+of DVRs on your advertising ROI. Retrieved from http://www.
+dmn3.com/dmn3-blog/television-advertising-the-impact-of-
+dvrs-on-your-advertising-roi
+Brown, M. (2011). Who's still afraid of DVR? Millward Brown
+point of view. Retrieved from http://www.millwardbrown.com/
+Libraries/MB_POV_Downloads/MillwardBrown_POV_Still_
+Afraid_of_DVRs.sflb.ashx
+Cable Quest Broadband. (2009). India set to record large increase
+in DVR ownership. Retrieved from http://www.cablequest.
+org/articles/technical/item/1320-india-set-to-record-large-
+increase-in-dvr-ownership.html
+Campaign. (2005). Ad funded TV has a future: PHD claims
+(Campaign No. 5, p. 6). Retrieved from www.campaignlive.
+co.uk/news/233863/
+Consoli,J.(2005,November).Nets:DVRusersseeads.MediaWeek,
+15(42), 5 .
+Consoli, J. (2007, April). DVRs make their presence felt.
+MediaWeek, 17(18), 8.
+Cronin, J. J., & Menelly, N. E. (1992). Discrimination vs. avoidance:
+"zipping" of television commercials. Journal of Advertising,
+10(2), 1-7.
+du Plessis, E. (2009). Digital video recorders and inadvertent adver-
+tising exposure. Journal of Advertising Research, 49, 236-239.
+DVR Research Institute. (2010). 101: Advertising in the DVR age.
+Retrieved from https://www.ana.net/getfile/15231
+Fann-Im, N. (2004). PVRs and ads: Peaceful coexistence? Shoot,
+44(15), 19.
+Ferguson, D. A., & Perse, E. M. (2004). Audience satisfaction
+among TiVo and ReplayTV users. Journal of Interactive
+Advertising, 4(2), 1-2.
+Forrester. (2002). Will ad-skipping kill television? Author.
+Available from www.forrester.com
+Friedman, A. (2010, December 13). Digital video recorders do
+not change shopping behavior, study finds. UChicagoNews.
+Retrieved from http://news.uchicago.edu/article/2010/12/13/
+digital-video-recorders-do-not-change-shopping-behavior-
+study-finds
+Friedman, W. (2006, April 7). Nets' study finds little difference in ad
+recall among DVR owners. MediaPost. Retrieved from http://
+publications.mediapost.com/index.cfm?fuseaction=Articles.
+showArticleHomePage&;art_aid=41938
+Gilmore, R. F., & Secuna, E. (1993). Zipped TV commercials boost
+prior learning. Journal of Advertising Research, 33, 28-38.
+Goetzl, D. (2006, April). New data reveals virtually no view-
+ers for time-shifted spots. MediaPost. Retrieved from http://
+publications.mediapost.com/index.cfm?fuseaction=Articles.
+showArticleHomePage&;art_aid=41887
+Gonsalves, A. (2006, November 28). TiVo offers post-program
+ad to beat fast-forwarding. InformationWeek. Available from
+www.informationweek.com
+Hollis, N. (2005). Who's afraid of the big bad DVR? Millward Brown
+examine the implications of DVRs (PVRs) for advertisers and
+advertising agencies. WPP. Retrieved from http://www.wpp
+.com/wpp/marketing/media/whos-afraid-of-the-big-bad-dvr.htm
+Kishore, A. (2003). The Death of the 30-Second Commercial.
+New York, NY: The Yankee Group: Media & Entertainment
+Strategies.
+Learmonth, M. (2003). The attack of TiVo. Folio: The Magazine
+for Magazine Management, 32(2), 30-31.
+Lin, C. A. (1994). Audience fragmentation in a competitive video
+marketplace. Journal of Advertising Research, 34(6), 30-38.
+Maddox, K. (2006). Assessing DVRs' impact on TV ads. BtoB,
+91(4), 16.
+8 SAGE Open
+Mandese, J. (2004, March). Facing the DVR's future. Television
+Week, 23(11), 27.
+Ministry of Information and Broadcasting. (2012). Retrieved from
+http://pib.nic.in/newsite/erelease.aspx?relid=87803
+Negroponte, N. (1995). Being Digital. London, England: Hodder
+& Stoughton.
+Nielsen. (2010). DVR use in the U.S. Retrieved from http://
+www.nielsen.com/content/dam/corporate/us/en/newswire/
+uploads/2010/12/DVR-State-of-the-Media-Report.pdf
+Posnack, S. (2004). It can control Madison Avenue. American
+Demographics, 26(1), 29-33.
+Research and Markets. (2009, May). Advertising in the DVR age--
+The strategic response of advertising executives to DVR view-
+ership. Retrieved from http://www.researchandmarkets.com/
+reports/992721/advertising_in_the_dvr_age_the_strategic
+Sawant, N. (2011). HD DTH TV and DVR shootout: Digit rates the
+top six players in India. Retrieved from http://www.thinkdigit.
+com/TVs/HD-DTH-TV-and-DVR-shootout-Digit_6734.html
+Schaeffler, J. (2009). Digital video recorders: DVRs changing TV
+and advertising forever. Amsterdam,UK: Elsevier.
+Shim, R. (2005, March 28). TiVo tests pop-up-style ads. CNET.
+Retrieved from http://news.cnet.com/TiVo-tests-pop-up-style-
+ads/2100-1041_3-5644197.html
+Solman, G. (2007, January 1). DVRs have small impact on ads,
+study says. AdWeek. Retrieved from http://www.lexisnexis.
+com/us/lnacademic/results/docview/docview.do?risb=21_T31
+37420675&;format=GNBFI&sort=RELEVANCE&startDocN
+o=1&resultsUrlKey=29_T3137420683&cisb=22_T31374206
+82&treeMax=true&treeWidth=0&csi=7907&docNo=5
+Stelter, B. (2010, December 20). The myth of fast forwarding past
+the ads. The New York Times. Retrieved from http://www.
+nytimes.com/2010/12/21/business/media/21adco.html?_r=0
+Story, L. (2007, February 16). Viewers fast-forwarding past ads?
+Not always. The New York Times. Retrieved from http://www.
+nytimes.com/2007/02/16/business/16commercials.html?ex=1
+329282000&;en=ac19fdf65f3c4ef3&ei=5088&partner=rssnyt
+&emc=rss
+Stross, R. (2006, May 7). Someone has to pay for TV. But who?
+And how? The New York Times. Retrieved from http://www.
+nytimes.com/2006/05/07/business/yourmoney/07digi.html
+Technology, Media and Telecommunications Predictions. (2011).
+Retrieved from http://www.deloitte.com/assets/Dcom-
+UnitedStates/Local%20Assets/Documents/TMT_us_tmt/us_
+tmt_TMTPredictions_011811.pdf
+Tse, A. C. B., & Lee, R. P. W. (2001). Zapping commercials:
+Are they effective? Journal of Advertising Research, 41(3),
+25-29.
+Van Meurs, L. (1998). Zapp! A study on switching behavior during
+commercial breaks. Journal of Advertising Research, 41(3),
+43-53.
+Wurtzel, A. (2006, May). Pause on this: Why DVR viewing will not
+kill the TV spot anytime soon. MediaWeek, 16(22), 19.
+Author Biography
+Dr Shalini Kalia is Associate Professor and Area Chairperson,
+Business Communication, at Institute of Management Technology,
+Ghaziabad (India).
+

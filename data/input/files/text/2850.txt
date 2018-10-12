@@ -1,0 +1,2170 @@
+Does trade openness increase firm-level volatility?
+Claudia M. Buch
+(University of Tübingen and IAW)
+Jörg Döpke
+(University of Applied Scienes Merseburg)
+Harald Strotmann
+(Institute for Applied Economic Research IAW, Tübingen)
+Discussion Paper
+Series 1: Economic Studies
+No 40/2006
+Discussion Papers represent the authors' personal opinions and do not necessarily reflect the views of the
+Deutsche Bundesbank or its staff.
+Editorial Board: Heinz Herrmann
+Thilo Liebig
+Karl-Heinz Tödter
+Deutsche Bundesbank, Wilhelm-Epstein-Strasse 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-1
+Telex within Germany 41227, telex from abroad 414431, fax +49 69 5601071
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Reproduction permitted only if source is stated.
+ISBN 3­86558­231­1 (Printversion)
+ISBN 3­86558­232­X (Internetversion)
+Abstract:
+From a theoretical point of view, greater trade openness affects firm-level volatility by
+changing the exposure and the reaction of firms to macroeconomic shocks. The net
+effect is ambiguous, though. This paper provides firm-level evidence on the link
+between openness and volatility. Using two novel datasets on German firms, we analyze
+the evolution of firm-level output volatility and the link between volatility and trade
+openness. We find that firm-level output volatility displays patterns similar to those
+found in aggregated data for Germany. Also, smaller firms and firms that grow faster
+are more volatile. Increased trade openness tends to lower volatility.
+Keywords: firm-level volatility, trade openness
+JEL-Classification: F41, E32, G15
+Non-technical summary
+Greater openness to foreign trade has advantages. Countries may benefit from foreign
+trade through lower prices and a wider range of goods. However, there are also fears
+that greater openness may increase instability, say, because the country is more exposed
+to foreign shocks. This paper uses firm-level data to analyze empirically the link
+between trade openness and the volatility of real sales. A partial equilibrium model is
+used to show that the impact of increased openness to trade on the volatility of output is
+ambiguous. On the one hand, volatility may increase with the level of trade openness.
+This is because firms which trade more react more to exogenous shocks than purely
+domestic firms if their factor demand and supply schedules become more elastic. Also,
+firms that trade more are exposed to domestic and foreign shocks. On the other hand, an
+imperfect correlation between domestic and foreign shocks might have a dampening
+impact on volatility. Hence, volatility may decline in the degree of trade openness.
+The empirical analyses rely on firm-level data. Two new datasets on German firms are
+employed. The first is taken from the corporate balance sheet statistics provided by the
+Deutsche Bundesbank. The advantage of this dataset is that changes in the behavior of
+firms can be analyzed over a comparatively long time frame, starting in the mid-1970s
+and extending into the late 1990s. The second dataset is restricted to manufacturing
+firms in the state of Baden-Wuerttemberg, but has the advantage of providing a direct
+measure of trade openness.
+The empirical analysis on the link between trade openness and volatility has three main
+findings. First, there has been a relatively parallel pattern of firm-level and aggregated
+volatility over the past three decades. This is in contrast to recent findings for other
+countries such as the US. Furthermore, average level of firm-level volatility is higher
+than the level of aggregated volatility. Second, regression analyses reveal that smaller
+firms and firms which grow faster have higher volatility of real sales. Third, the
+evidence suggests that exporters tend to have a lower volatility of sales than non-
+exporters. This result is quite robust against changes in the specification, and in
+particular against including proxies for the productivity of firms.
+Nicht-technische Zusammenfassung
+Eine größere Offenheit für Handel mit anderen Ländern hat viele Vorteile. So kann eine
+Land durch niedrigere Preise und die Verfügbarkeit von zusätzlichen Gütern vom
+Handel profitieren. In der öffentlichen Meinung wird aber auch die Befürchtung
+geäußert, dass eine höhere Offenheit einer Volkswirtschaft die Instabilität erhöhen
+könnte, etwa, weil ein Land auch anfälliger für ausländische Schocks wird. Dieses
+Papier nutzt Firmen-Daten um den Zusammenhang zwischen Offenheit und Volatilität
+des Outputs empirisch zu untersuchen. Zunächst wird ein partielles
+Gleichgewichtsmodell verwendet, um zu zeigen, dass der Zusammenhang theoretisch
+nicht eindeutig ist. Auf der einen Seite kann die Hypothese, nach der die Volatilität
+durch eine größere Offenheit erhöht wird, durch zwei Wirkungskanäle begründet
+werden: Erstens reagieren offenere Firmen stärker auf ausländische Schocks wenn z. B.
+die Arbeitsnachfrage elastischer ist. Zweitens sind Firmen, die Handel treiben,
+ausländischen Schocks in höherem Maße ausgesetzt. Auf der anderen Seite kann eine
+geringe Korrelation von aus- und inländischen Schocks einen dämpfenden Einfluss auf
+die Volatilität ausüben.
+Die empirische Analyse des Papiers beruht auf Firmendaten. Zwei neue Datensätze
+werden verwendet. Zum einen benutzen wir Daten aus der Bilanzdatenbank der
+Deutschen Bundesbank. Der Vorteil dieses Datensatzes ist, dass Veränderungen im
+Firmenverhalten über einen relativ langen Zeitraum, von der Mitte der siebziger bis
+Ende der neunziger Jahre, hinweg untersucht werden können. Der zweite Datensatz
+enthält nur Firmen aus dem Verarbeitenden Gewebe Baden-Württembergs. Er hat den
+Vorteil, dass ein direktes Maß der Offenheit auf Firmenebene verfügbar ist.
+Die empirische Untersuchung des Zusammenhangs zwischen Volatilität und Offenheit
+beginnt mit der Darstellung einiger stilisierter Fakten. Es zeigt sich eine relativ parallele
+Entwicklung der gesamtwirtschaftlichen Volatilität und der durchschnittlichen
+einzelwirtschaftlichen Volatilität über die drei zurückliegenden Jahrzehnte. Dies steht
+im Widerspruch zu aktuellen Untersuchungen für andere Länder, insbesondere für die
+USA. Zudem ergibt sich, dass die Volatilität auf Firmenebene spürbar höher ist als die
+gesamtwirtschaftliche. Eine Regressionsanalyse zeigt darüber hinaus, dass kleine und
+schnell wachsende Firmen eine höhere Volatilität aufweisen. Weiter ergibt sich, dass
+exportierende Firmen tendenziell eine niedrigere Volatilität aufweisen als nicht
+exportierende Firmen. Dieses Ergebnis ist recht robust gegen Änderungen in der
+Spezifikation der Schätzgleichung, und es bleibt insbesondere dann erhalten, wenn wir
+ein Maß für die Produktivität der Unternehmen in unsere Regressionen aufnehmen.
+Contents
+1. Introduction .............................................................................................................. 1
+2. A Simple Model of Trade Openness and Output Volatility..................................... 4
+2.1 Exposure and Reaction to Shocks .......................................................................... 4
+2.2 General Equilibrium Models .................................................................................. 8
+2.3 Implications ............................................................................................................ 9
+3. The data .................................................................................................................. 10
+3.1 Bundesbank Data................................................................................................. 11
+3.2 Data for Baden-Wuerttemberg ............................................................................. 12
+4. Empirical Results.................................................................................................... 14
+4.1 Descriptive Statistics ............................................................................................ 14
+4.2 Estimation Issues.................................................................................................. 16
+4.3 Regression Results................................................................................................ 17
+5. Robustness Tests ........................................................................................................ 20
+5.1 Data for Baden-Wuerttemberg ............................................................................. 20
+5.2 Sector Data ........................................................................................................... 21
+6. Summary and Conclusions......................................................................................... 22
+References ...................................................................................................................... 25
+Data Appendix................................................................................................................ 28
+Lists of Tables and Figures
+Table 1: Summary Statistics........................................................................................... 30
+Table 2: Trend Analysis of Volatility at the Firm-Level, German Data ........................ 31
+Table 3: Regression Results Bundesbank-Data.............................................................. 32
+Table 4: Regression Results Data for Baden-Wuerttemberg.......................................... 34
+Table 5: Regression Results Sector Data........................................................................ 35
+Figure 1: Mean Volatility of Real Sales and of Real GDP (1973-1994)........................ 37
+Figure 2: Cross-Section Correlation Between Openness and Volatility, Sector Data.... 38
+1
+Does Trade Openness Increase Firm-Level Volatility? *
+1. Introduction
+Does increased openness to foreign trade affect the volatility of output? Public
+policy discussions suggest that globalization may increase uncertainty by raising the
+volatility of output and consumption. Econometric work using aggregated or sector data
+indeed shows that greater openness to trade may lead to increased output volatility
+(Easterly et al. 2000, Braun and Larrain 2004, Kose et al. 2003).1 Hence, the recently
+observed decline in output volatility across industrialized countries (see, e.g., Blanchard
+and Simon 2001) cannot be attributed to greater openness but rather to smaller shocks,
+better inventory management, or better monetary policy.
+Studying the development of aggregated output volatility may mask important
+differences across individual firms. If output across firms is imperfectly correlated and
+if these correlations change over time, firm-level and aggregated volatility may even
+develop differently. (See, e.g., Imbs (2003) or Comin and Philippon (2005).) For
+individual households and consumers, in turn, it is the development of output volatility
+at the firm-level rather than the development of aggregate volatility that matters. As
+firm-level volatility increases, households must find channels of diversifying firm-level
+risks and shielding their consumption patterns against fluctuations of output. This is one
+* Authors: Claudia M. Buch, (University Tübingen, Department of Economics, Mohlstrasse 36, 72074
+Tübingen, Phone: +49 (0)7071 2972962, claudia.buch@uni-tuebingen.de), Jörg Döpke (University of
+Applied Sciences Merseburg, Geusaer Strasse, 06217 Merseburg, Phone: +49 (0)3461-46 2441; email:
+joerg.doepke@hs-merseburg.de), Harald Strotmann (Institute for Applied Economic Research, Ob dem
+Himmelreich 1, 72074 Tübingen, Phone: +49 (0)7071 989624, herald.strotmann@iaw.edu). The
+authors wish to thank the Federal Statistical Office of Baden Württemberg and the Statistics
+Department of the Deutsche Bundesbank and, in particular, Tim Körting, for their excellent data
+assistance and their most helpful discussions on the data. We would also like to thank Jörg Breitung,
+Heinz Herrmann, Steinar Holden, Harald Stahl, and the participants of seminars at the European
+University Institute in Florence and the WHU Koblenz for their most helpful discussions and
+comments. Nico Zorell has provided most efficient research assistance. The views presented in this
+paper are those of the authors and do not necessarily reflect the opinions of the Deutsche Bundesbank.
+1 In a recent paper, however, Cecchetti et al. (2006) do not find a significant impact of trade openness on
+growth volatility across countries. Also, establishing a significant link between financial openness and
+output volatility is difficult (Easterly et al. 2000, Razin and Rose 1994).
+2
+channel through which changes in firm-level output volatility can affect economic
+welfare.2
+In this paper, we provide evidence on the evolution of firm-level output volatility
+for German firms. We employ two new firm-level datasets. The first is taken from the
+corporate balance sheet statistics provided by the Deutsche Bundesbank. The advantage
+of this dataset is that changes in the behavior of firms can be analyzed over a
+comparatively long time frame, starting in the mid-1970s and extending into the late
+1990s. The second dataset is restricted to manufacturing firms in the state of Baden-
+Wuerttemberg, but it has the advantage of providing a direct measure of trade openness.
+To the best of our knowledge, this is the first paper to address the issue of firm-level
+output volatility using German data.
+Our aim in this paper is two-fold:
+First, we analyze whether patterns of firm-level output volatility in Germany
+resemble those found in aggregated data. The evolution of aggregated output volatility
+in Germany has differed from the patterns observed in other industrialized countries,
+where volatility has been on a trend decline. Output volatility in Germany followed the
+trend decline, but it increased temporarily in the period following re-unification
+(Aßmann et al. 2006, Buch et al. 2004). We test whether similar patterns are found in
+firm-level data.
+Second, we analyze how increased openness to trade affects firm-level output
+volatility. Despite the concern that globalization may increase uncertainty, little is
+known about this link. Work by Ber, Blass, and Yosha (2002) provides one piece of
+evidence that the degree of internationalization of firms affects their exposure to
+domestic shocks. For Israeli firms, they find that more export-orientated firms react less
+to monetary policy shocks than more domestically-oriented firms. The importance of
+financial market development for firm-level volatility has been studied by Thesmar and
+Thoenig (2004), who use a firm-level dataset of large French firms. They find that
+financial market development and greater participation by foreign investors increase
+2 An additional channel is the impact that volatility can have on growth. So far, the empirical literature
+has remained inconclusive with regard to the link between growth and volatility (see e.g. Norrbin and
+Ygit (2005) and the papers cited therein). While we will control for the impact of growth on volatility,
+we do not discuss this issue further in this paper.
+3
+volatility. This trend has been reinforced by greater product market competition, which
+could be taken as indirect evidence for a positive link between volatility and trade
+openness. Recent research has also tried to explain differences in the evolution of firm-
+level and aggregate output volatility. Comin and Philippon (2005) show that, for large
+US firms, a declining aggregated output volatility has been associated with increased
+volatility of output at the firm-level. (See also Comin et al. (2006) for evidence on the
+labor market.) They also find that firm-level volatility is higher the more deregulated
+markets are, the more firms invest in research and development, and the better their
+access to debt and equity markets. Each of these variables may be related to increased
+trade openness, but the effect of openness is not tested directly.
+The finding that firm-level volatility of output has been increasing is mirrored by
+an increasing degree of idiosyncratic risk in individual stock returns. Campbell et al.
+(2000) use US stock market data and find that, between 1962 and 1997, there was a
+positive trend in idiosyncratic firm-level volatility but no similar trend in industry or
+market volatility. We are not aware of comparable evidence for Germany.
+Studying German evidence on the link between trade openness and volatility is
+interesting not only because volatility of output has increased temporarily due to
+reunification. Germany is also one of the countries in the OECD with quite rigid labor
+market institutions, and product market regulations are still relatively widespread
+(OECD 2005). German firms might thus adjust differently to external developments
+than firms from countries with more flexible institutional structures.
+The starting point of our analysis is a partial equilibrium model which links output
+volatility to trade openness. This model allows decomposing the impact of trade on
+volatility into two components. The first is the volatility of aggregated shocks and the
+correlation of shocks across countries. The second is the elasticity of factor demand and
+supply, which determines the response of output to macroeconomic shocks. Both of
+these parameters ­ the exposure to shocks and the reaction to shocks ­ are potentially
+affected by a firm's degree of openness. (See Rodrik (1997) for a similar argument
+concerning employment volatility.) We also review implications of open economy
+general equilibrium models. The main hypothesis which can be taken from these models
+is that (firm-level) output volatility might be higher for firms which trade more.
+4
+However, a counterbalancing effect comes through imperfect correlations between
+domestic and foreign shocks and, thus, through diversification effects. Hence, the link
+between trade openness and output volatility is ambiguous from a theoretical point of
+view.
+In Part 2, we derive testable implications from a stylized model of export
+openness and output volatility. In Part 3, we describe our datasets and provide
+descriptive statistics on the evolution of the volatility of firm-level output volatility.
+Part 4 provides an empirical analysis of the determinants of volatility at the level of the
+individual firm. Part 5 presents robustness tests based on data for the state of Baden-
+Württemberg and sector data, and Part 6 concludes. Our results show that output
+volatility at the firm-level ­ unlike in the US ­ displays patterns similar to those in
+aggregated data. As regards the impact of export openness, we distinguish between the
+effects of being an exporter per se and the volume of exports. We find that volatility is
+smaller for exporters than for non-exporters. The volume of exports tends to have a
+negative impact on volatility as well. Moreover, smaller firms and firms that grow faster
+are more volatile.
+2. A Simple Model of Trade Openness and Output Volatility
+The openness of firms can have many dimensions. Firms can buy inputs from
+foreign suppliers, sell their products abroad, and establish foreign affiliates for
+production or sales. In this section, we define openness in a narrow sense as the share of
+exports to total sales. Our aim is to show the channels through which export openness
+affects the volatility of output. We begin by sketching these mechanisms in a simple
+partial equilibrium model, and we briefly review the implications of open economy
+general equilibrium models.
+2.1 Exposure and Reaction to Shocks
+Output volatility of domestic and of export firms can differ either because firms
+are exposed to different types of shocks or because firms react to these shocks
+differently. (See Barba-Navaretti and Venables (2004) for a more detailed discussion.)
+As regards the exposure to shocks, foreign operations increase the volatility of output if
+foreign shocks are larger than domestic shocks. A low correlation between domestic and
+5
+foreign shocks potentially counterbalances this effect as it gives rise to diversification
+effects. As regards the reaction of firms to shocks, internationally active firms might
+react differently than purely domestic firms as they can substitute domestic and foreign
+inputs and customers more easily, because they might be less committed to a particular
+location, or because their input and output elasticities differ.
+Modeling differences in the exposure to shocks and differences in reactions to
+shocks would require a full-fledged model of a multinational firm. To set the stage for
+our empirical analysis below, we focus on a simple model of an export firm in a partial-
+equilibrium framework.
+Assume that a domestic firm i produces an output
+t
+i
+Y
+,
+in the domestic economy,
+using domestic labor
+t
+i
+L
+,
+and capital
+t
+i
+K
+,
+under the following production function:
+
+ -
+= 1
+,
+,
+, t
+i
+t
+i
+t
+t
+i
+K
+L
+A
+Y (1)
+where 1
+0 <
+<  denotes the labor share and
+t
+A is a technology parameter. The
+firm sells a share
+i
+ of output on the foreign market and a share )
+1
+(
+i
+
+- on the
+domestic market. Hence profits are given by
+( ) ( )
+[ ]
+t
+i
+t
+t
+i
+t
+t
+i
+i
+t
+t
+i
+t
+t
+i
+L
+w
+K
+r
+Y
+c
+p
+p
+,
+,
+,
+*
+,
+1 -
+-
+-
++
+-
+=
+ 
+ (2)
+where
+t
+c is a per-unit cost of exporting and p (p*) denote domestic (foreign)
+prices. In the short run, the firm takes all prices and the capital stock as given
+( 1
+,
+,
+=
+=
+t
+i
+t
+i
+K
+K ), and the profit-maximizing input of labor is given by the following first-
+order condition:
+( ) ( )
+[ ]
+i
+t
+i
+t
+i
+t
+t
+i
+t
+w
+L
+A
+c
+p
+p =
+-
++
+- -1
+,
+*
+1 
+
+
+ (3)
+Hence, the optimal input of labor depends on the marginal product of labor and on
+the net revenues from selling in the domestic and the foreign market. Solving for
+t
+i
+L
+,
+yields the labor demand function:
+6
+( ) ( )
+[ ]
+D
+A
+x
+w
+A
+c
+p
+p
+w
+L t
+t
+i
+t
+t
+i
+t
+t
+D
+t
+i
+
+
+
+
+
+
+-
+-
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+-
++
+-
+=
+1
+1
+*
+, 1
+(4)
+where ( )
+
+ -
+= 1
+1
+D is the absolute value of the labor demand elasticity, and
+( ) ( )
+[ ]
+i
+t
+i
+c
+p
+p
+x 
+ -
++
+-
+= *
+1 is a weighted average of demand conditions on the home
+and on the foreign market.
+Assuming that labor supply is given by S
+w
+LS 
+= , where S
+ is the elasticity of
+labor supply, dropping time indices, and solving for the equilibrium level of wages
+gives ( ) S
+D
+D
+A
+x
+w 
+
+
+ +
+= . Substituting into the labor supply equation gives ( ) S
+D
+S
+D
+A
+x
+L 
+
+
+
+ +
+= .
+This framework can be used to derive the volatility of wages, employment, and
+output. (For a similar argument see Barba-Navaretti and Venables (2004).) To see this,
+note that the percentage change in wages and in labor for firm i is given by:
+( )
+A
+x
+w
+dw
+w
+S
+D
+D
+^
+^
+^ +
+
+
+
+
+
+
+
+
++
+=
+=
+
+
+
+and
+( ) ( )
+A
+x
+A
+x
+L
+dL
+L
+S
+D
+D
+S
+^
+^
+^
+^
+^ +
+
+=
++
+
+
+
+
+
+
+
+
++
+=
+=
+
+
+
+
+where x
+^
+captures random demand shocks, A
+^ captures technology shocks, and
+S
+D
+D
+S
+
+
+
+
++
+=
+
+summarizes the demand and supply elasticities on the labor market. To simplify the
+presentation, we assume that demand and technology shocks are uncorrelated. Dropping
+this assumption would not change our main argument below, but it would make the
+exposition more cumbersome. The change in output is given by
+A
+E
+x
+E
+L
+A
+dL
+AL
+L
+A
+AL
+dA
+L
+Y
+dY ^
+)
+1
+(
+^
+^
+^
+1
+
+
+
+
+
+
+
+
++
++
+=
++
+=
++
+=
+-
+. The volatility of output is thus
+given by:
+( ) ( )( ) ( )( )2
+2
+2
+2
+2 1
+^
+^
+^ 
++
++
+
+= 
+
+
+
+ A
+x
+Y (5)
+Equation 5 shows that there are three factors affecting the volatility of output
+7
+First, domestic and export firms might react differently to shocks because their
+elasticities of labor demand and supply differ.3 Several pieces of evidence point into this
+direction. Work by Fabbri, Haskel, and Slaughter (2003) and Checchi, Barba-Navaretti,
+and Turrini (2003) shows that the elasticity of labor demand tends to be higher for
+multinational than for national firms. Slaughter (1996) finds, between 1961 and 1991,
+demand for US production labor became more elastic while there has been no
+significant change in the elasticity of demand for non-production labor. However, he
+has difficulties in linking these patterns in the data to the openness of sectors. Rather, he
+finds that "the time series of labor-demand elasticities are explained largely by a
+residual, time itself" (p. 27).
+Second, firms that export are exposed to domestic and foreign demand shocks and
+to domestic technology shocks. Domestic firms, by contrast, are exposed only to the
+domestic shocks. In our empirical model below, we include two proxies for domestic
+shocks (the volatility of domestic government spending and the volatility of total factor
+productivity (TFP)) and two proxies for international shocks (the volatility of oil prices
+and the volatility of the real exchange rate).
+Third, the correlation between domestic and foreign demand shocks affects the
+exposure to shocks and, thus, the volatility of output. If shocks are imperfectly
+correlated across countries, export firms might benefit from a diversification effect,
+which dampens the volatility of output. To see this, we can decompose the term ( )
+x
+^
+2
+
+into shocks to domestic and foreign demand:
+( ) ( ) ( ) ( ) ( ) ( ) ( )
+[ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+i
+t
+i
+i
+i
+t
+i
+i
+t
+i
+i
+x
+x
+,
+*
+,
+2
+,
+2
+2
+*
+,
+2
+2 1
+2
+1
+1
+^ -
++
+-
++
+= (6)
+where
+( )
+*
+,
+2
+t
+i
+
+ is the volatility of foreign demand,
+( )
+t
+i,
+2 
+ is the volatility of
+domestic demand, and  is the correlation between domestic and foreign demand
+shocks. Increasing the share of exports in total sales (
+i
+ ) raises volatility (i), the higher
+is the volatility of foreign relative to domestic demand, and (ii) the greater is the
+correlation between domestic and foreign demand shocks:
+3 Endogenizing the capital stock would yield a similar qualitative argument with respect to the elasticity
+of the demand and supply for capital.
+8
+( ) ( ) ( ) ( ) ( ) ( ) ( )
+[ ] 0
+2
+1
+1
+1
+^
+,
+*
+,
+,
+2
+*
+,
+2
+2
+<
+>
+-
++
+-
++
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+i
+t
+i
+i
+t
+i
+i
+t
+i
+i
+i
+x
+x (7)
+A similar relationship can be derived at the aggregated level. However, the
+aggregate response might differ from the firm-level response because of differences in
+the share of exports or a different covariance structure. (See Imbs (2003) for a related
+argument concerning the link between volatility and growth.)
+2.2 General Equilibrium Models
+The model sketched so far highlights some key channels through which increased
+exports of firms affect the volatility of output. However, we consider only a limited
+range of macroeconomic shocks, and we ignore feedback effects between the domestic
+and the foreign economy. These restrictions are relaxed in open economy general
+equilibrium models.
+Feedback effects between the domestic and the foreign economy as well as
+implications of endogenous capital can be addressed in open economy real business
+cycle models. Backus, Kehoe, and Kydland (1992) show that lower barriers to trade
+increase the volatility of output. This is because the integration of markets allows agents
+to shift production to countries that experience positive productivity shocks. The effects
+of productivity shocks are thus magnified. Stockman and Tesar (1995) calibrate an
+open-economy real business cycle model in which each country produces traded and
+non-traded goods. They find a higher standard deviation of output and labor in the
+traded sector than in the non-traded goods sector, which is driven by a higher variance
+of productivity shocks in the traded goods sector. Also, elasticities of substitution might
+differ for traded and non-traded goods sectors. Hence, the implication of these models is
+that output volatility increases with the degree of trade openness.
+The impact of different macroeconomic shocks on the volatility of output can be
+analyzed with the help of a new open economy macroeconomic model. Senay (1998)
+has a model which accounts for differences in the degree of openness to trade. Her
+model combines pricing-to-market behavior and thus imperfect integration of goods
+markets with the assumption of incomplete integration of financial markets. She finds
+that greater integration of goods markets tends to increase volatility of output because of
+9
+an expenditure-switching effect of real exchange rate changes. This effect is largely
+independent of the degree of financial market integration. The impact of monetary and
+of fiscal shocks on the volatility of output is thus positive, and it is larger the more
+countries trade.
+2.3 Implications
+Three main testable implications can be derived from these models
+First, greater shocks to technology, shocks to domestic demand, and shocks to
+foreign demand tend to raise the output volatility of export firms. Firms that sell only on
+the domestic market are less affected by foreign demand shocks.
+Second, imperfect correlations between domestic and foreign demand shocks
+dampen the output volatility of export firms relative to domestic firms. The net impact
+of openness on output volatility is thus ambiguous.
+Third, firms that trade more might, ceteris paribus, react more to given shocks
+than firms which are active only on the domestic market.
+Our main testing equation thus links the volatility of output to openness and
+aggregated shocks:
+( ) ( )
+ijt
+it
+t
+jt
+it
+j
+i
+ijt
+X
+X
+X
+Y 
+
+
+
+
+
+
+
+
+ +
++
++
++
++
++
+=
+5
+2
+4
+2
+1
+2
+1
+2 (8)
+where
+( )
+ijt
+Y
+2
+ = volatility of sales of firm i in sector j in time t,
+i
+1
+ = firm-fixed
+effects,
+j
+2
+ = sector-fixed effects,
+it
+X = time-varying explanatory variables at the firm
+level,
+jt
+X = time-varying explanatory variables at the sector level,
+( )
+t
+X
+2
+ =
+macroeconomic volatility, and
+it
+ = a measure of the openness of firms or sectors.
+To measure volatility, we need to define a time window over which volatility will
+be computed. Following earlier research at the macroeconomic level such as Blanchard
+and Simon (2001), we choose a five-year window. This also corresponds to the typical
+length of a business cycle. Hence, our dependent variable is specified as a moving
+average process.
+Analyzing the impact of macroeconomic volatility on firm-level volatility is
+difficult because, by definition, macroeconomic volatility does not vary across cross-
+10
+sections. Hence, including a large number of different measures of macroeconomic
+volatilities would artificially boost the significance of these variables, and interpreting
+the effects separately would be difficult because of a relative high degree of colinearity.
+Hence, we adopt two approaches. In a first model, we include time fixed effects which
+capture the joint effect of different aspects of unobserved heterogeneity with respect to
+time. This approach has the disadvantage though that we cannot simultaneously include
+proxies for macroeconomic volatility. In a second model, we include measures of
+macroeconomic volatility, such as the volatility of oil prices, the volatility of the real
+exchange rate, the volatility of total factor productivity, and the volatility of domestic
+government spending one-by-one. In this specification, we also add a linear time trend.
+Note that we cannot directly estimate the effect of greater trade openness on the
+reaction of different firms to macroeconomic volatility. This is because our estimated
+coefficients do not allow disentangling the effects of openness on the elasticities of
+factor demand. Hence, our testing strategy is indirect. We argue that differences in the
+reaction of firms to macroeconomic shocks could be due to their degree of openness.
+We cannot test whether different reactions are due to differences in factor demand and
+supply elasticities, differences in the elasticities of product demand, or a combination of
+these.
+3. The data
+Testing the predictions of the above framework requires firm-level data which
+have a sufficiently large time series dimension ­ in order to capture the time-varying
+nature of output volatility ­ and which provide information on the export openness of
+firms ­ in order to capture cross-sectional differences in the openness of firms. We use
+two datasets. The first comes from the Deutsche Bundesbank's corporate balance sheets
+statistics database (Unternehmensbilanzstatistik, UBS for short). This dataset has the
+advantage that it covers a large cross-section of German firms for the period 1971-1998.
+However, a shortcoming is that information on the openness of firms is patchy. Hence,
+we use a second dataset which has information on export firms and domestic firms in
+the state of Baden-Wuerttemberg. This dataset has the advantage that it includes a direct
+measure of the trade openness of firms. The disadvantage is its regional coverage and its
+focus on manufacturing firms. Since these datasets are being used for an empirical
+11
+analysis of output volatility for the first time, we use the remainder of this section to
+describe their main features.
+3.1 Bundesbank Data4
+The Bundesbank's corporate balance sheet database is the largest database of non-
+financial firms in Germany. The data have been collected in the context of the
+rediscounting and lending facilities conducted by the Bundesbank.
+This restricts the cross-sectional dimension of the database, since only firms
+which used these refinancing facilities are included, and it restricts the time series
+dimension of the database, since rediscounting operations ceased with the introduction
+of the euro in 1999.
+In terms of sector coverage, the manufacturing, construction, and retail sectors
+dominate the sample. This is because trade bills are an important source of external
+finance in these sectors. According to Stoess (2001), the dataset comprises only about
+4% of the total number of enterprises in Germany, but about 60% of the total turnover
+of the corporate sector. Although the sample is non-random and therefore affected by a
+possible selection bias, it tracks aggregated German GDP quite well. The correlation
+coefficient between GDP growth and the mean growth rate of firms covered in the
+sample was 0.89 over the sample period 1971 to 1998. Another advantage of this
+database is that it comprises both incorporated and unincorporated firms. Hence, small
+and medium-sized firms in Germany generally show up in our sample. In terms of the
+time series dimension, we use data from 1971 to 1998 for most of the analysis. Owing
+to changes in the sector definitions, the dataset has to be restricted to the years 1971 to
+1995 whenever industry dummies are used.
+Our main variable of interest is real sales. For this variable, we have relatively few
+data losses owing to incomplete and inconsistent reporting. We convert nominal
+variables into real variables by deflating each firm's sales with the deflator of real GDP
+and taking the difference of the logarithm of real sales.
+Descriptive statistics are presented in Table 1. On average, volatility of real sales
+was 0.11 percentage points across all sectors during the period under study (1975-
+12
+1998). This is significantly higher than the volatility of aggregated output. However,
+there is also a quite significant variation across sectors. Volatility was highest in the
+construction sector (0.18) and lowest in utilities (energy, gas, water supply) (0.07).
+The main disadvantage of the Bundesbank dataset is that it lacks consistent time
+series information on the openness of firms. Thus, we measure trade openness using
+sector information on exports and imports as a percentage of total value added. We
+obtain this information from the OECD's STAN database. Generally, the database starts
+in 1970. However, for the years 1970-1979, we have information for only 12
+manufacturing sectors. For later years, we have more complete data, but there is
+virtually no information on the openness of the services sectors. From these data, we
+construct a measure of openness, which is given by the sum of exports and imports over
+value added, and we also decompose this measure into export and import openness.
+3.2 Data for Baden-Wuerttemberg
+One shortcoming of the Bundesbank database is that it lacks detailed information
+on the exports of each firm. Hence, we complement our empirical analyses by using a
+second establishment-level data base from German official statistics. With respect to its
+sector coverage, this dataset is limited to the manufacturing sector; with respect to its
+regional coverage, the dataset is limited to a single German federal state, the state of
+Baden-Wuerttemberg. In 2003, Baden-Wuerttemberg accounted for 13% of the German
+population, 15% of GDP, and 16% of German exports. In addition, the state is host to
+the largest and the seventh-largest German firms, i.e. Daimler Chrysler AG and Robert
+Bosch GmbH.
+Despite the regional and sector limitations, the data have two major advantages
+over the Bundesbank data. First, they include firm-level information on export
+4 See the data appendix for a more detailed description of the data.
+13
+openness. Second, the data comprise the total population of manufacturing
+establishments in Baden-Wuerttemberg with a very good coverage of small firms.5
+To create this establishment-level panel dataset, we use two sources of German
+industrial statistics. The first data source contains information on all manufacturing
+establishments with at least 20 employees and on establishments which are part of an
+enterprise with at least 20 employees. These data are taken from monthly reports of
+manufacturing firms. The second data source contains information from an annual
+report of small manufacturing establishments covering all establishments with less than
+20 employees. From these reports, a longitudinal dataset is created which includes all
+manufacturing establishments in the German state of Baden-Wuerttemberg in the period
+from 1980 to 2001. Although this panel dataset contains relatively few variables, it
+comprises a large number of establishments, offers a high quality of data, and allows
+tracking individual establishments over time.
+With the help of these data, we can measure openness at the firm-level either
+through a binary dummy variable indicating the exporter status (1 = export firm, 0 =
+domestic firm) or through the firm's share of exports in total sales. Studying the
+changing patterns of firms over a four-year time window shows that about 44% of the
+firms in the sample remain purely domestic firms. Another 45% of the firms are
+continuing exporters, i.e. they have foreign sales over the four-year period considered.
+A similar share of 3-4% of firms are export starters and stoppers. The average exporting
+firm is about larger and more productivity than the average non-exporting firm. This
+confirms recent theories suggesting that productivity (i.e. size) positively affects the
+probability of exporting (Melitz 2004). In our empirical model below, we will also
+include size and productivity to isolate the impact of exporting.
+To calculate the volatility of a firm's real sales, we apply the same procedures as
+for the Bundesbank data. Nominal real sales are converted into real sales by deflating
+each firm's sales with the deflator of GDP. We also use a 50% cut-off-point for the
+growth of real sales to ensure that our results do not depend on outliers. As shown in
+Table 2, dropping outliers and using only firms with a sufficiently large number of
+5 Handcraft firms with fewer than 20 employees are, however, missing from the data.
+14
+observations needed to calculate volatilities implies changes in the composition of the
+full and of the restricted sample.
+Owing to a change in the classification of industries in 1995, we do not pool the
+data. Rather, we present results separately for the period from 1984 to 1994 and for the
+period 1995 to 2001.6
+Descriptive statistics for the Baden-Wuerttemberg data are given in Table 1c. The
+basic descriptive results derived from the Bundesbank data are confirmed using data for
+manufacturing in Baden-Wuerttemberg. Differences between industries are substantial,
+with volatilities ranging from about 0.10 in `Tobacco Products' and in `Food Products
+and Beverages' to almost 0.18 in `Office Accounting and Computing Machinery' or
+`Basic Metals' and more than 0.21 in `Recycling' in the 1995 to 2001 period. Compared
+with the results from the Bundesbank data, the volatility of real sales is larger in the
+manufacturing sector of Baden-Wuerttemberg. This might partly result from the fact
+that the group of small firms is covered in a better manner in the data for Baden-
+Wuerttemberg.
+4. Empirical Results
+Do firms that trade more exhibit higher output volatility than domestic firms? In
+this section, we first present descriptive statistics on the link between openness and
+volatility at the firm level. We proceed with regression-based evidence on the link
+between trade openness and firm-level volatility.
+4.1 Descriptive Statistics
+Figure 1 compares the volatility of real sales at the firm-level to the volatility of
+GDP, bringing out three stylized facts. First, the data show a downward trend in firm-
+level volatility, which is interrupted by a high-volatility period around German
+unification. A similar pattern is found in the data for Baden-Wuerttemberg. Second,
+Figure 1 also shows a quite significant degree of heterogeneity across firms, indicated
+by the relatively wide bands for the 10% and the 90% quantile. The magnitudes of these
+differences are similar to those found in the US data (Comin and Phillipon 2005). Third,
+15
+firm-level volatility resembles patterns of aggregated volatility. In this regard, evidence
+for Germany differs from evidence for the US, where firm-level volatility for large
+firms and aggregated volatility have developed differently.
+To check whether the time trend visible in Figure 1 is also statistically significant,
+Table 2 reports results of a regression of firm-level volatility on a time trend. The
+estimated equation is
+( )
+ijt
+i
+ijt
+u
+dummy
+trend
+Y +
+
++
+
++
+= 
+
+
+
+ln where i = firm, j =
+sector, t = time, and dummy is set at one for the three years following German re-
+unification (1991-1993). Results reported in Table 2 confirm that there is a negative
+trend in the volatility of firm-level volatility for German firms in the regressions
+including the re-unification dummy. Running the same regression for each of the
+industrial sectors separately shows that the negative time trend in output volatility is
+common across sectors.
+For 13 out of 20 sectors, however, we find a statistically negative time trend over
+the full period. There are six sectors for which the time trend is insignificant (mining,
+transport equipment, construction, wholesale and retail trade, and two services sectors).
+For the full period, a positive time trend can be found for only one sector ­ electricity,
+gas, and water supply. This finding is interesting insofar as the energy sector is also the
+sector where the volatility of output is quite low.
+Breaking up the sample into two sub-periods shows that the negative time trend
+found in the full data is driven by the most recent years. The negative time trend in
+volatility across sectors is confirmed in the state level data for the second sub-period
+(1995-2001). In the first period (1984-1994), however, we find evidence for a positive
+time trend in both datasets.7
+How can we explain the recent downward trend in firm-level and aggregate
+volatility? Trade openness is a possible candidate. Yet, over time, trade openness has
+increased which, in itself, would imply a negative link between openness and volatility.
+Between 1970 and 2000, the average ratio of exports over sector value added increased
+from about 40% to 150%, imports over value added increased from 55 to 170%. Data
+for Baden-Wuerttemberg confirm the positive trend in trade openness. Here, the average
+6 Note that our data start already in 1980 but, due to the construction of the dependent variable, the
+estimation period starts only in 1986.
+16
+firm-level export share (exports/total sales) increased from 10,9% in the period 1980 to
+1994 to 13,3% in the period 1995 to 2001. Thus, at first sight, more trade openness
+seems to be associated with less ­ rather than more ­ volatility.
+Cross-sectional evidence shows that the link between trade openness and volatility
+is rather weak (Figure 2). We distinguish between export and import openness. If
+anything, there is a slightly positive correlation. Results are similar for the Baden-
+Wuerttemberg data. Here, we do not find a significant cross-sectional correlation
+between sector openness (measured as the sector export share) and sector volatility.
+If anything, more trade seems to lead to less rather than more volatility. However,
+we have so far ignored the role of macroeconomic shocks. If macroeconomic volatility
+had declined, this could account for the fall in firm-level volatility, thus potentially
+counterbalancing the impact of trade openness. All our proxies for macroeconomic
+volatility (government spending, real exchange rate, total factor productivity, interest
+rates) have indeed shown a downward trend. There are only two exceptions. First, the
+volatility of government spending increased around the re-unification period. Second,
+the volatility of oil prices has increased since 2000. Owing to data limitations, however,
+this period is not covered by our regressions. Analyzing the impact of trade openness on
+(firm-level) volatility thus requires disentangling it from the impact of the overall
+reduction in macroeconomic volatility.
+4.2 Estimation Issues
+Our empirical model is based on Equation (8) above. This equation specifies the
+effect of macroeconomic volatility on the volatility of firms' sales, controlling for firm-
+level, sector, and macroeconomic factors. The explanatory variables at the firm level
+and those at the sector level can contain variables that capture the firms' degree of trade
+openness.
+Due to the specification of our dependent variable, the residuals follow a moving-
+average autoregressive process of order 4. By construction, our dependent variable is
+thus serially correlated, and we have to take the autocorrelation structure of the residuals
+into account. We follow Arellano (1987) and compute robust standard errors which
+7 Note that a reunification dummy is included for both periods.
+17
+allow for both heteroscedasticity and autocorrelation of arbitrary form. Moreover, we
+estimate dynamic panel models, including a set of up to five lags of our dependent
+variable. However, for the firm-level data used, we had difficulties finding appropriate
+instruments, and we could not reject the hypothesis of remaining residual
+autocorrelation. Hence, we do not report these results here.
+4.3 Regression Results
+Table 3 presents the baseline regression results using the Bundesbank data. Panel
+(a) presents results including a full set of time fixed effects, Panel (b) reports results
+including proxies for macroeconomic volatility. In all equations, the volatility of real
+sales at the firm level is the dependent variable. We show specifications which differ
+with regard to the measurement of openness.
+In column 1 of Panel (a), we use a sector measure of openness as the sum of
+exports and imports of each sector over sector value added. In columns 2 and 3, we
+break this measure down into exports and imports over value added. In column 4, we
+additionally include the growth of real sales as an explanatory variable. In columns 5
+and 6, we look at the response of the smallest and largest 10% of the firms in terms of
+total sales.8 Here, the motivation is that small firms are typically active in only a few
+foreign countries. Hence, the diversification effect would weigh less heavily than for the
+larger firms.
+All specifications show that it is difficult to establish a statistically significant link
+between the openness of sectors and firm-level output volatility. The only exception is
+the specification using data for the smallest 10% of firms. Here, the aggregated measure
+of openness (imports plus exports) is positive and statistically significant at the 10%
+level. Unreported regressions show that this effect is driven by export openness, which
+is even significant at the 5% level. However, this positive effect is confined to the
+smallest firms, which would be consistent with a lower degree of diversification of
+these firms. For all other percentiles, we obtain an insignificant effect.
+Splitting the sample into two time periods and dropping the re-unification period
+essentially gives the same results. According to unreported regressions, all openness
+8 Small and large firms are defined over the whole sample, not by sector.
+18
+variables are positive but insignificant in the first sub-period (before 1990). In the
+second sub-period (after 1991), the openness variables tend to come in with a negative
+sign, which is even significant at the 10% level for import openness. A possible
+interpretation of this is that firms have increasingly diversified the set of countries with
+which they trade, and are hence able to reap the benefits of diversification through low
+correlations of shocks.
+As regards the control variables, there is a clear negative correlation between the
+size of a firm (measured as the log of its total sales) and the volatility of real sales.
+Hence, real sales of small firms are more volatile than sales of large firms. This result
+confirms prior expectations. Large firms, owing to more complex organizational
+structures and greater potential for adjusting production across different plants, are
+likely to exhibit lower volatility than smaller firms.
+Another finding, which is robust across specifications, is that faster growing firms
+are more volatile (column 4 of Table 3a). One interpretation is that growing firms are
+active in less mature ­ and thus more volatile ­ markets than firms that grow less
+quickly. Obviously, the reverse causality is conceivable as well ­ more volatility caused
+by a greater intensity of search for new products and production processes may lead to
+higher growth. Addressing the link between growth and volatility in more detail,
+however, is an issue that we leave for future research.
+In Table 3b, we report results for regressions including proxies for
+macroeconomic volatility ­ which are identical for all cross sections in the sample ­
+rather than time-fixed effects. We use the macroeconomic volatilities separately since
+they are highly correlated. In addition, we include a linear time trend and a unification
+dummy which is set at one for the years 1990-1994. With the exception of the volatility
+of the real exchange rate, all proxies for macroeconomic volatility enter with a positive
+and highly significant sign.
+If we include separate measures of macroeconomic volatilities rather than time
+dummies for each year, the openness variable becomes negative and significant in all
+specifications (Table 3b). This shows that, at the firm level, it is difficult to disentangle
+the impact of changes in the shock processes and of changes in the degree of openness
+over time. Since openness is measured at the sector rather than the firm-level, it picks
+19
+up a significant amount of the time-varying nature of shocks. Hence, in Table 3b, the
+openness variables pick up the effects of the macroeconomic volatilities that are not
+included. As firm-level output volatility has tended to decline, macroeconomic shocks
+have become smaller as well. This explains the positive sign on the macroeconomic
+volatilities. At the same time, the openness of sectors has increased. Hence, the negative
+sign on the openness variable could either be due to the fact that the macroeconomic
+volatilities do not fully capture the time trend in macroeconomic shocks or that greater
+openness has indeed been associated with lower volatility. We return to this issue below
+as we look at firm-level evidence on openness.9
+To check how the different ways to capture time trends affect our results, we also
+re-estimate the baseline model without accounting for any time effects and including a
+time trend only. In unreported regressions, we find that openness is negative and
+significant in both sets of regressions. These results also do not depend on the measure
+of openness used (imports, exports, or the combined measure). However, openness is
+insignificant in the regressions including time fixed effects as the most flexible way of
+controlling for time effects. This shows the difficulties in separating the effects of time
+itself and openness in firm-level regressions using sector measures of openness.
+We also check whether firm's leverage has an impact on volatility. However, the
+effect is insignificant throughout.
+In sum, we thus find little evidence for a strong and significant link between trade
+openness and firms' output volatility using data for Germany as a whole. This, however,
+may be due to the fact that we are not able to fully disentangle the impact of greater
+trade openness at the sector level ­ which potentially increases output volatility ­ and
+lower macroeconomic shocks ­ which potentially lowers output volatility. Both of these
+potential drivers of firm-level volatility have a significant time trend, and we thus
+cannot fully isolate their effects. Below, we therefore re-run our regressions using sector
+data and firm-level data for the state of Baden-Wuerttemberg. Both datasets provide
+evidence on the degree of openness for each cross-section.
+9 We have also re-estimated the regressions reported in Table 4b including an interaction term between
+openness and volatility. While the macroeconomic volatilities remained positive and significant, the
+openness variable became positive and significant. However, the signs of the interaction terms differed
+across specifications without a clear economic interpretation. Since this is due to problems of
+multicollinearity, we refrain from interpreting these results any further.
+20
+5. Robustness Tests
+5.1 Data for Baden-Wuerttemberg
+As a first test for the robustness of our results, we use firm-level data for the state
+of Baden-Wuerttemberg. This dataset has the advantage of providing a more direct
+measure of openness. It has the disadvantage that it covers firms only from one German
+state. We now measure openness through the export share of each firm and a binary
+dummy indicating exporter status. Since the sector classification has changed in the
+mid-1990s, we present results for two non-overlapping sub-periods. Results are reported
+in Table 4.
+Starting with the results for openness, we find a negative relationship between the
+export share and volatility for the first sub-period. The effect for the second sub-period
+remains negative but becomes insignificant. The dummy for the exporter status is
+negative and significant for the full period. The explanatory power of the model is
+similar for the two sub-periods with an overall R² of around 0.16. Interestingly, this is
+driven by the within R² in the first and the between R² in the second sub-period.
+One explanation for the relatively consistent finding that exporter status and
+volatility are negatively correlated could be that exporter status is related to size. Recent
+theoretical work suggests that heterogeneity of firms with regard to productivity results
+in different strategies with regard to internationalization (Melitz 2004). The least
+productive firms stay domestic whereas more productive firms export. To control for
+this possibility, we include a measure of labor productivity at the firm-level, which is
+computed as annual real turnover of a firm divided by its average number of
+employees.10 Labor productivity has a negative but insignificant effect on volatility in
+the first period, but a strongly positive and significant effect in the second period. Most
+importantly, including labor productivity does not change our main result for the
+openness variables.
+In unreported regressions, we check whether the results for the openness measures
+depend on the way we measure macroeconomic shocks. Hence, we replace the time-
+10 Note that we cannot follow a similar strategy with the Bundesbank data since labor is measured with a
+considerable margin of error in this dataset.
+21
+fixed effects with proxies for macroeconomic volatilities. While our results for
+openness are not affected, results on the macroeconomic control variables are difficult
+to interpret because of a high degree of colinearity between the individual series.
+Volatility of total factor productivity, for instance, switches from being significantly
+negative in the first sub-period to being significantly positive in the second sub-period.
+Hence, we refrain from interpreting these results further. Importantly though, our results
+for the openness variables are unaffected.
+As regards the remaining control variables, we generally confirm the results using
+Bundesbank data. Smaller firms and firms that grow faster are again more volatile in
+every model estimated. Finally, neither the multi-plant dummy nor our proxy for the
+R&D intensity of a firm's industry has a significant impact on volatility.
+We additionally check the robustness of our results in two different ways. First,
+we measure openness at the sector level as in the Bundesbank data, and we confirm the
+negative impact link between export openness and volatility. Second, we include
+separate dummies for continuing exporters, export starters, and export stoppers within
+the four-year period for which the volatility is computed. Results show that the
+continuing exporters drive the results. The link between this variable and output
+volatility at the firm-level is consistently negative and significant. This result is partly
+underlined by the fact that export starters seem to have a somewhat smaller output
+volatility relative to the purely domestic firms. However, this effect is weakly
+significant in only a few of the specifications. Export stoppers do not exhibit output
+volatility that differs significantly from that of domestic firms.
+5.2 Sector Data
+Table 5 gives the results using sector data. In Table 5a, we present regressions for
+the full sample, including time-fixed effects. In Table 5b, we include proxies for
+macroeconomic volatility. Table 5a shows a positive impact of openness on output
+volatility (Columns 1-3). However, splitting the sample into the period before and after
+1991, as is done in Columns 4 and 5, shows a positive and significant impact of
+openness only for the first sub-period. In the second sub-period, the coefficients turn
+negative and insignificant. We report results only for the combined measure of openness
+(export plus import openness), but the patterns are very similar for the two sub-
+22
+components. To some extent, this mirrors results for the (Bundesbank) firm-level data,
+where we also obtain evidence of a negative link between openness and volatility for the
+1990s. One potential interpretation could be that trade has become more dispersed
+across countries and that firms have benefited from diversification effects.
+Size (measured in terms of the log of real value added) does not have a significant
+impact. Moreover, the positive impact of openness that we find for the full sample
+depends on the measure of size used. If we use employment instead of value added,
+openness is insignificant for the full sample.
+As for the firm-level data, we also include all proxies for macroeconomic
+volatility separately (Column 6b), and we replace the time fixed effects by a linear time
+trend to avoid problems of multicollinearity between the macroeconomic volatilities and
+the time dummies. We confirm a positive impact of macroeconomic volatility on sector
+volatility for total factor productivity, government spending, and interest rate volatility.
+However, the impact of real exchange rate volatility is negative, and the volatility of oil
+prices is insignificant.
+To check whether more open sectors react differently to macroeconomic shocks
+than less open sectors, we further split our sample into sectors which have a degree of
+openness above and below the median. In unreported regressions, we find the main
+difference between the more and less open sectors with regard to the impact of
+government spending. Volatility of less open sectors reacts positively to volatility of
+domestic government spending, while government spending is insignificant for the
+more open sectors. This would be consistent with our theoretical framework.
+6. Summary and Conclusions
+Greater openness to foreign trade benefits countries through lower prices and a
+larger variety of goods. However, greater openness also creates fears that instability and
+the exposure to foreign shocks might increase.
+In this paper, we have taken a firm-level approach to study the link between trade
+openness and volatility. Starting from a partial equilibrium model, we have shown that
+the impact of increased openness to trade on the volatility of output is ambiguous. A
+potential increase in volatility comes through two channels. First, firms that trade more
+23
+react more to exogenous shocks than purely domestic firms if their factor demand and
+supply schedules are more elastic. Second, firms that trade more are exposed to
+domestic and foreign shocks. This might increase volatility of output. However,
+imperfect correlation between domestic and foreign shocks might have a dampening
+impact on volatility.
+We have tested the predictions of this model using two novel firm-level datasets
+for German firms. Some results are robust across specifications.
+First, stylized facts show relatively parallel patterns of firm-level and aggregated
+volatility over the past three decades. In contrast to findings for other countries such as
+the US, there is thus little evidence for diverging patterns of firm-level and aggregated
+volatility. At the same time, the level of firm-level volatility is significantly higher than
+the level of aggregated volatility.
+Second, smaller firms and firms that grow faster have higher volatility of output.
+Both of these results are consistent with expectations.
+Third, exporters have a lower volatility of sales than non-exporters. Since we
+obtain these results in regressions including size and productivity, the effect is indeed
+driven by the openness of firms.
+Fourth, the link between the volume of exports and volatility is negative as well in
+the firm-level data. Results using sector-level data confirm that the impact of openness
+on volatility is not robust across time and across specifications. If anything, we find
+evidence of a positive link for some sub-periods, which is in line with earlier cross-
+country evidence using aggregated data.
+Overall, our results show that the evolution of firm-level volatility over time is
+driven by two factors. First, trade openness has increased, thus affecting volatility
+through a change in the exposure and the reaction to shocks. While the theoretical
+predictions of this link have been inconclusive, the data suggest that the `diversification
+effect' stemming from a low correlation of domestic and foreign shocks dominates.
+Second, macroeconomic volatility has fallen, thus potentially lowering volatility on the
+firm level. Better inventory management is an alternative interpretation for the decline
+in firm-level volatility, but our data do not allow testing this hypothesis directly.
+24
+Finally, we note that the welfare implications of changes in firm-level output
+volatility are not clear-cut. Our results show that firm-level output volatility in Germany
+has tended to decline. Whether this lower volatility at the firm level led to a lower
+volatility of wages, income, and ultimately consumption, and hence had positive
+welfare implications, cannot be answered with the data at hand. Moreover, the impact of
+firm-level output volatility on growth is left for future analyses. It is not clear a priori,
+whether lower volatility at the firm-level has a negative impact on growth because the
+process of `creative destruction' is moderated, or whether it has a positive impact
+through lower uncertainty.
+25
+References
+Arellano, M. (1987). Computing Robust Standard Errors for Within-groups Estimators.
+Oxford Bulleting of Economics and Statistics 49(4): 431-43.
+Aßmann, C., J. Hogrefe, and R. Liesenfeld (2006). The Decline in German Output
+Volatility: A Baysian Analysis. Christian-Albrechts-Universität Kiel. Mimeo.
+Backus, D.K., P.J. Kehoe, and F.E. Kydland (1992). International Real Business Cycles.
+Journal of Political Economy 100 (4): 745-775.
+Barba-Navaretti, G.B., and A.J. Venables (2004). Multinational Firms in the World
+Economy, Princeton: Princeton University Press.
+Ber, H., A. Blass, and O. Yosha (2002). Monetary Policy in an Open Economy: The
+Differential Impact on Exporting and Non-Exporting Firms. Centre for European
+Policy Research. CEPR Discussion Paper 3191. London.
+Blanchard, O.J. and Simon, J.A. (2001). The Long and Large Decline in U.S. Output
+Volatility. Brookings Papers on Economic Activity: 165-173.
+Braun, M., and B. Larrain (2004). Finance and the Business Cycle: International, Inter-
+Industry Evidence. Anderson School, University of California, and Harvard
+University. Mimeo.
+Buch, C.M., J. Döpke, and C. Pierdzioch (2004). Business Cycle Volatility in Germany.
+German Economic Review 5(4): 451-479
+Buch, C.M., J. Döpke, and C. Pierdzioch (2005). Financial Openness and Business
+Cycle Volatility. Journal of International Money and Finance 24 (5): 744-765
+Campbell, J.Y., M. Lettau, B.G. Malkiel, and Y. Xu (2000). Have Individual Stocks
+Become More Volatile? An Empirical Exploration of Idiosyncratic Risk. National
+Bureau of Economic Research (NBER). Working Paper 7590. Cambridge, MA.
+Carlino, G, DeFina, R., and Sill, K. (2003). Postwar Period Changes in Employment
+Volatility: New Evidence from State/Industry Panel Data. Federal Reserve Bank
+of Philadelphia. Working Paper 03-18.
+Cecchetti, S.G., A. Flores-Lagunes, and S. Krause (2006). Assessing the Sources of
+Changes in the Volatility of Real Growth. National Bureau of Economic
+Research. NBER Working Paper 11946. Cambridge, MA.
+Checchi, D., G. Barba Navaretti, und A. Turrini (2002). Adjusting Labor Demand:
+Multina-tional versus National Firms ­ A Cross-European Analysis. CEPR
+Discussion Paper 3751. London.
+Chirinko, R.S. and U. Von Kalckreuth (2002). Further Evidence on the Relationship
+between Firm Investment and Financial Status. Deutsche Bundesbank.
+Bundesbank Discussion Paper 28/02. Frankfurt a.M.
+Comin, D., and T. Philippon (2005). The rise in firm-level volatility: causes and
+consequences. National Bureau of Economic Research. NBER Working Paper
+11388. Cambridge MA.
+26
+Comin, D., E.L. Groshen, and B. Rabin (2006). Turbulent Firms, Turbulent Wages?
+National Bureau of Economic Research (NBER). Working Paper 12032.
+Cambridge, MA.
+Easterly, W., R. Islam, and J.E. Stiglitz (2000). Shaken and Stirred: Explaining Growth
+Volatility. The World Bank. Washington D.C., mimeo.
+Fabbri, F., J.E. Haskel, und M.J. Slaughter (2003). Does Nationality of Ownership
+Matter for Labor Demands? Journal of the European Economic Association
+1(2-3): 698-707.
+Higson, C., Holly, S. and P. Kattuman (2002). The Cross-Sectional Dynamics of the US
+Business Cycle: 1950 ­ 1999, Journal of Economic Dynamics and Control 26,
+1539-1555.
+Higson, C., Holly, S., Kattuman, P. and S. Platis (2004). The Business Cycle,
+Macroeconomic Shocks and the Cross Section: The Growth of UK Quoted
+Companies, Economica 71, 299-318.
+Imbs, J. (2003). Growth and Volatility Revisited. London Business School and CEPR.
+Mimeo.
+Kose, M.A., E.S. Prasad, and M.E. Terrones (2003). Financial Integration and
+Macroeconomic Volatility. International Monetary Fund. Working Paper 03/50.
+Washington DC.
+Melitz, M. (2003). The Impact of Trade on Intra-Industry Reallocations and Aggregate
+Industry Productivity. Econometrica 71, 1695-1725.
+Norrbin, S.C. and F.P. Yigit (2005). The robustness of the link between volatility and
+growth of output. Review of World Economics 141: 343-356.
+OECD (2005). OECD Regulatory Data Base. http://www.oecd.org/statisticsdata/
+Razin, A., and A.K. Rose (1994). Business-cycle volatility and openness: an exploratory
+analysis. In: Leiderman, L. (ed.). Capital mobility: the impact on consumption,
+investment, growth: 48-75.
+Rodrik, D. (1997). Has Globalization Gone Too Far? Institute for International
+Economics, Washington DC.
+Senay, O. (1998). The Effects of Goods and Financial Market Integration on
+Macroeconomic Volatility. The Manchester School Supplement 66: 39­61.
+Slaughter, M.J. (1996). International trade and labor-demand elasticities. Journal of
+International Economics 54: 27-56.
+Stockman, A., and L. Tesar (1995). Tastes and Technology in a Two-Country Model of
+the Business Cycle: Explaining International Comovements. American Economic
+Review: 168-185.
+Stoess, E. (2001), Deutsche Bundesbank's corporate balance sheet statistics and areas of
+application. Schmollers Jahrbuch: Zeitschrift für Wirtschafts- und
+Sozialwissenschaften 121: 131-137.
+Thesmar, D., and M. Thoenig (2004). Financial Market Development the Rise in Firm
+Level Uncertainty. ENSAE-CREST, CERAS-CNRS, and CEPR. Mimeo.
+27
+Von Kalckreuth, U. (2004). Financial constraints for investors and the speed of
+adaptation: Are innovators special? Deutsche Bundesbank. Bundesbank
+Discussion Paper 20/2004. Frankfurt a.M.
+Windmeijer, F. (2005). A Finite Sample Correction for the Variance of Linear Two-
+Step GMM Estimators. Journal of Econometrics 126: 25-51.
+White, H. (1980). A Heteroskedasticity Consistent Covariance Matrix Estimator and a
+Direct Test of Heteroskedasticity. Econometrica, 48, 817-838.
+28
+Data Appendix
+Firm-Level Data
+Unternehmensbilanzstatistik (UBS, Deutsche Bundesbank)
+One of the new firm-level datasets that we use comes from the balance sheets of
+German firms (Unternehmensbilanzstatistik) of the Deutsche Bundesbank. The
+Bundesbank has collected the data when offering rediscounting and lending operations
+on a strictly confidential basis. Section 19 of the Bundesbank Act (§ 19 BBankG)
+stipulates that enterprises have to submit their financial statements to the Bundesbank in
+connection with collateralized rediscount and lending operations. Under the provisions
+of the Bundesbank Act, the Bundesbank was authorized to perform credit assessments
+in line with its obligation to purchase and lend only bills of exchange, which fulfill
+stringent eligibility criteria, such as backing by three parties which are known to be
+solvent. Technically, enterprises submitted their annual accounts to the branch offices of
+the German State Central Banks (Landeszentralbanken). These accounts were then
+recorded electronically, audited, and evaluated for purposes of trade bill transactions.
+Since the Bundesbank performed checks for logical errors and missing data in the
+database as well as consistency checks and error corrections, the quality of the data is
+quite high.
+The data have been collected on a strictly confidential basis and can thus be used on the
+premises of the Deutsche Bundesbank only. The dataset has been used frequently in
+economic research. See, for example, Chirinko and von Kalckreuth (2002) and von
+Kalckreuth (2003). For more details regarding the dataset see Stoess (2001).
+Overall, the Bundesbank received around 60,000 annual accounts per annum. Since not
+all firms submitted reports in all years, the panel of firms is unbalanced. More than 80%
+of the enterprises are small and medium-sized enterprises (SME's) with an annual
+turnover less than 100 million DM, and more than half of the dataset consists of
+unincorporated firms. Even though the number of rediscount lending operations
+dropped sharply with the start of European Monetary Union at the beginning of 1999,
+the Bundesbank continues to collect information on the credit standing of German
+firms. However, eligible enterprises now submit their balance sheets to the European
+Central Bank. Hence we use 1998 as the last year of observations.
+The dataset does not contain information on merger events.11 Growth rates of real sales
+may thus be inflated if two firms have merged during the period under study. To correct
+for outliers, we follow Higson et al. (2002, 2004) and employ several cut-off rates, i.e. a
+fraction of, say a ±50% growth rate, is truncated from the data.
+From this database, we take the firms' total turnover as a measure of real sales. We
+convert nominal into real variables by deflating the firm's sales with the deflator of real
+GDP and taking the difference of the logarithm of real sales. We use the deflator of real
+GDP rather than sector price indices since the latter are highly correlated.
+11 As in other studies using firm-level data, the cut-off may also eliminate some newly founded firms as
+well as firms going bankrupt.
+29
+Sector-Level Data
+All sector-level data are taken from the OECD's STAN database. Data prior to 1991 are
+for West Germany, data after 1990 are for united Germany. The industrial classification
+used follows NACE Rev. 1.
+Exports and imports: Exports and imports of goods at current prices in million euro
+Value added: Value added at current prices in million euro.
+Macroeconomic Data
+Government spending: Real, seasonally adjusted government consumption. Source:
+OECD Economic Outlook.
+Interest rate: Short term interest rate. Source: OECD, Economic Outlook.
+Oil prices: Source: OECD, Main Economic Indicators.
+Real effective exchange rate: Source: Deutsche Bundesbank.
+Total factor productivity (TFP): The change in total factor productivity is calculated as
+ TFP =  Value Added ­ 1/3   Capital stock ­ 2/3   Employment. Data are taken
+from the 60-industry database of the Groningen Growth and Development Centre
+(http://www.ggdc.net/dseries/60-industry.shtml)
+Volatility of the macroeconomic variables is calculated as the conditional variance. We
+model the systematic component of growth in each variable as an AR(1) process and
+estimate this process using rolling samples. See Carlino et al. (2003) for a recent
+application to employment data.
+30
+Table 1: Summary Statistics
+a) German Firm-Level Data (1974 to 1994)
+Volatility
+real sales
+Log
+(Real
+sales)
+Export
+open-
+ness
+Import
+open-
+ness
+Export
+elastici-
+ties
+Volatility
+of total
+factor
+produc-
+tivity
+Volatili-
+ty of go-
+vern-
+ment
+spending
+Volatility
+of oil
+prices
+Mean 0.11 10.50 0.78 0.80 -0.00 1.40 1.48 24.56
+Median 0.10 10.36 0.78 0.61 0.00 1.38 1.51 23.41
+Maximum 0.45 18.50 1.66 2.69 0.12 1.76 2.07 45.41
+Minimum 0.00 3.86 0.01 0.02 -0.14 1.27 0.85 12.52
+Std. Dev. 0.06 1.84 0.34 0.55 0.01 0.11 0.34 7.87
+Skewness 1.00 0.61 -0.20 1.68 -1.05 1.00 -0.25 1.22
+Kurtosis 3.93 4.02 2.33 4.90 17.19 3.39 2.18 4.63
+Observations 54,451 54,451 54,451 54,451 54,451 54,451 54,451 54,451
+b) Volatility of Real Sales by Sector, German Firm-Level Data
+Sector Mean Std. Dev. Obs.
+Agriculture, hunting, forestry and fishing 0.143 0.071 4,981
+Basic metals and fabricated metal products 0.137 0.063 17,183
+Chemical, rubber, plastics, and fuel products 0.111 0.059 18,771
+Community, social, and personal services 0.120 0.070 2,482
+Construction 0.187 0.077 18,223
+Electrical and optical equipment 0.124 0.062 36,092
+Electricity, gas and water supply 0.073 0.053 2,261
+Financial intermediation 0.100 0.056 44
+Food products, beverages, and tobacco 0.096 0.061 17,240
+Hotels and restaurants 0.088 0.053 291
+Machinery and equipment, n.e.c. 0.150 0.069 34,070
+Mining and quarrying 0.123 0.061 13,991
+Pulp, paper, and paper products 0.102 0.057 7,138
+Real estate, renting, and business activities 0.123 0.076 3,613
+Textiles and leather 0.117 0.061 29,824
+Transport and storage 0.105 0.059 8,747
+Transport equipment 0.128 0.067 4,538
+Wholesale and retail trade, repairs 0.118 0.065 142,831
+Wood and wood products 0.127 0.062 16,710
+All 0.125 0.067 379,030
+c) State Firm-Level Data
+Volatility Real Sales Log (Real sales) Export openness
+1980-
+2001
+1980-
+1994
+1995-
+2001
+1980-
+2001
+1980-
+1994
+1995-
+2001
+1980-
+2001
+1980-
+1994
+1995-
+2001
+Mean 0.168 0.181 0.153 15.67 15.61 15.74 0.119 0.109 0.133
+Median 0.162 0.180 0.140 15.64 15.59 15.71 0.001 0.000 0.006
+Maximum 0.499 0.468 0.499 24.44 23.93 24.44 1.000 1.000 1.000
+Minimum 0.004 0.004 0.004 6.04 6.09 6.04 0.000 0.000 0.000
+Std. Dev. 0.080 0.077 0.080 1.73 1.72 1.74 0.19 0.18 0.21
+Coefficient
+of variation 0.473 0.427 0.522 0.11 0.11 0.111 1.61 1.66 1.54
+Observations 138,243 77,098 61,145 138,243 77,098 61,145 138,243 77,098 61,145
+Source: Deutsche Bundesbank and Statistisches Landesamt, authors' calculations.
+31
+Table 2: Trend Analysis of Volatility at the Firm-Level, German Data
+Regressions are based on fixed effects. The unification dummy is set at 1 for the years 1991, 1992, and
+1993, and 0 otherwise. *** (**), * denotes significance at the 1(5, 10) percent level. Robust standard
+errors using the method suggested by White (1980).
+Type of trend Constant Trend parameter Unification
+Dummy
+Adjusted R²
+Increasing for each
+observation per
+cross section
+-2.349***
+[-106.81]
+0.0026
+[0.60]
+[-] 0.742
+Increasing for each
+observation per
+cross section
+-2.337***
+[-162.64]
+-0.0076**
+[-2.02]
+0.202***
+[4.76]
+0.748
+Increasing by
+calendar year
+-2.365***
+[-50.64]
+0.0026
+[0.60]
+[-] 0.742
+Increasing by
+calendar year
+-2.290***
+[-67.26]
+-0.0077**
+[-2.02]
+0.202
+[4.76]
+0.748
+Source: Deutsche Bundesbank, authors' calculations.
+32
+Table 3: Regression Results Bundesbank-Data
+(a) Baseline regressions
+The dependent variable is the volatility of real sales of firm i. Data are taken from the Bundesbank's
+corporate balance sheet statistics for the years 1975-1995. Results are based on fixed effects panel
+regressions, using heteroscedasticity and autocorrelation corrected t-statistics following Arellano (1987).
+All estimations include sector dummies and dummy variable for the legal form of the reporting firm.
+Sales, openness, and sales growth are standardized variables to have a zero mean and a standard deviation
+of one. * significant at the 10% level, ** significant at 5% level, *** significant at 1% level. Absolute t-
+values are reported in brackets.
+(1) (2) (3) (4) (5) (6)
+Full sample
+Largest
+10%
+Smallest
+10%
+Log Sales -0.244*** -0.246*** -0.243*** -0.258*** -0.399*** -0.094
+[8.71] [8.78] [8.67] [8.46] [4.06] [0.89]
+Export + import 0.010 0.010 -0.019 0.103*
+openness [0.90] [0.89] [0.51] [1.72]
+Export -0.002
+openness [0.14]
+Import 0.018
+openness [1.41]
+Sales growth 0.006**
+[2.47]
+Constant 1.102* 1.084* 1.101* 1.113* 0.389 -0.471
+[1.85] [1.82] [1.85] [1.87] [1.26] [1.11]
+Observations 152,600 152,600 152,600 152,600 22,280 10,037
+Number of groups 23,900 23,900 23,900 23,900 3,133 3,000
+R-squared 0.04 0.04 0.04 0.04 0.07 0.01
+R2 within 0.04 0.04 0.04 0.04 0.07 0.01
+R2 overall 0.07 0.07 0.07 0.07 0.04 0.00
+R2 between 0.07 0.07 0.07 0.07 0.05 0.00
+33
+(b) Regressions including macroeconomic volatility
+The dependent variable is the volatility of real sales of firm i. Data are taken from the Bundesbank's
+corporate balance sheet statistics for the years 1975-1995. Results are based on fixed effects panel
+regressions, using heteroscedasticity and autocorrelation corrected t-statistics following Arellano (1987).
+All estimations include sector dummies and dummy variable for the legal form of the reporting firm.
+Sales, openness, and the macroeconomic volatilities are standardized variables to have a zero mean and a
+standard deviation of one. * significant at the 10% level, ** significant at 5% level, *** significant at 1%
+level. Absolute t-values are reported in brackets.
+(2) (3) (4) (5) (6)
+Log Sales -0.352*** -0.296*** -0.277*** -0.344*** -0.357***
+[12.81] [10.74] [9.97] [12.50] [12.97]
+Export + import -0.058*** -0.059*** -0.054*** -0.048*** -0.046***
+openness [5.41] [5.58] [5.16] [4.51] [4.36]
+Volatility of ...
+Interest rates 0.034***
+[10.81]
+Government spending 0.076***
+[26.66]
+Total factor productivity 0.068***
+[25.04]
+Oil prices 0.052***
+[13.38]
+Real exchange rate -0.015***
+[4.74]
+Time trend 0.013*** 0.007*** 0.009*** 0.015*** 0.006***
+[9.34] [5.43] [6.87] [10.83] [4.46]
+Unification -0.000 -0.068*** -0.003 -0.013** 0.014**
+Dummy [0.03] [9.18] [0.40] [2.01] [2.07]
+Constant -25.687*** -13.490*** -17.249*** -27.910*** -11.466***
+[8.80] [4.95] [6.35] [10.18] [4.01]
+Observations 152,600 152,600 152,600 152,600 152,600
+Groups 23,900 23,900 23,900 23,900 23,900
+R-squared 0.01 0.02 0.02 0.01 0.01
+R2 within 0.01 0.02 0.02 0.01 0.01
+R2 overall 0.06 0.06 0.06 0.06 0.06
+R2 between 0.07 0.07 0.07 0.07 0.07
+34
+Table 4: Regression Results Data for Baden-Wuerttemberg
+The dependent variable is the (log) volatility of real sales of firm i. Firm-level data for manufacturing
+firms in Baden-Wuerttemberg 1980-2001. Results are based on fixed effects panel regressions, using
+heteroscedasticity and autocorrelation corrected t-statistics following Arellano (1987). All estimations
+include sector and time dummies. Sales, the export share, and growth are standardized variables to have a
+zero mean and a standard deviation of one. Multi-plant establishment = 1 if plant belongs to a multi-plant
+firm, = 0 otherwise. Technology regime of the industry is based on the NIW/ISI-classification of R&D-
+intensive industries. Reference group = low-tech sectors. Unification dummy = 1 for the years 1989-1993.
+All estimations include sector dummies. * significant at the 10% level, ** significant at 5%,level; ***
+significant at 1% level. t-values are reported in brackets.
+1984-1994 1995-2001
+(1) (2) (3) (4) (5) (6) (7) (8)
+Log real sales -0.257*** -0.255*** -0.252*** -0.418*** -0.577*** -0.575*** -0.572*** -0.766***
+[6.47] [6.42] [6.54] [9.10] [11.54] [11.59] [11.46] [13.39]
+Labour productivity -0.003 -0.003 -0.003 -0.010 0.055*** 0.053*** 0.053*** 0.041***
+[0.38] [0.40] [0.51] [1.42] [3.37] [3.34] [3.34] [2.92]
+Export share -0.046*** -0.033** -0.033** -0.028* -0.016 -0.013
+[3.31] [2.34] [2.30] [1.80] [0.98] [0.84]
+Exporter dummy -0.087*** -0.071*** -0.062*** -0.084*** -0.075*** -0.067***
+[3.85] [3.08] [2.68] [3.23] [2.78] [2.48]
+Sales growth 0.050*** 0.051***
+[13.50] [12.10]
+Multi-plant -0.045 -0.046 -0.045 -0.038 0.019 0.018 0.018 0.020
+establishment [1.18] [1.19] [1.18] [0.99] [0.50] [0.47] [0.48] [0.54]
+Medium-tech 0.084 0.082 0.084 0.084 0.021 0.019 0.016 0.014
+[0.85] [0.83] [0.85] [0.83] [0.15] [0.13] [0.11] [0.09]
+High-tech -0.095 -0.107 -0.104 -0.110 -0.043 -0.045 -0.047 -0.050
+[0.68] [0.76] [0.74] [0.78] [0.28] [0.29] [0.31] [0.32]
+Constant 0.767*** 0.827*** 0.805*** 0.828*** -1.788*** -1.757*** -1.754*** -1.686***
+[3.31] [3.56] [3.46] [3.52] [4.02] [3.94] [3.93] [3.64]
+Observations 77,098 77,098 77,098 77,098 60,979 60,979 60,979 60,979
+Groups 14,261 14,261 14,261 14,261 12,381 12,381 12,381 12,381
+R2 within 0.29 0.29 0.29 0.29 0.03 0.03 0.03 0.04
+R2 overall 0.16 0.17 0.15 0.15 0.16 0.16 0.16 0.16
+R2 between 0.09 0.09 0.10 0.10 0.21 0.22 0.22 0.22
+35
+Table 5: Regression Results Sector Data
+a) Baseline
+The dependent variable is the volatility of value added of sector j. Data are taken from the OECD's STAN
+statistics for the years 1975-2001. Interaction terms are for export plus import openness and
+macroeconomic volatility. Results are based on fixed effects panel regressions, using heteroscedasticity
+and autocorrelation corrected t-statistics following Arellano (1987). Employment and openness are
+standardized variables to have a zero mean and a standard deviation of one. * significant at the 10% level,
+** significant at 5% level, *** significant at 1%-level. Absolute t-values are reported in brackets.
+(1) (2) (3) (4) (5)
+Full sample Before 1991 After 1991
+Export + import 0.534** 0.873*** -0.124
+openness [2.46] [3.57] [0.33]
+Export 0.436*
+openness [1.77]
+Import 0.573**
+openness [2.19]
+Log value added 0.176 0.162 0.17 -0.294 -0.382
+[0.88] [0.93] [0.68] [0.93] [1.06]
+Unification dummy -0.558** -0.505** -0.478** 0.225
+[2.77] [2.68] [2.75] [0.77]
+Constant 1.021*** 1.059*** 0.993*** 0.730** 0.482
+[7.50] [7.23] [7.13] [2.10] [1.43]
+Observations 476 478 470 233 219
+R2 within 0.266 0.265 0.257 0.291 0.101
+R2 overall 0.171 0.234 0.134 0.058 0.021
+R2 between 0.145 0.182 0.102 0.018 0.297
+36
+b) With Macroeconomic Volatilities
+The dependent variable is the volatility of value added of sector j. Data are taken from the OECD's STAN
+statistics for the years 1975-2001. Results are based on GMM estimations with Windmeijer's (2005)
+corrected t-statistics. * significant at the 10% level, ** significant at 5% level; *** significant at 1% level.
+Absolute t-values are reported in brackets.
+(2) (3) (4) (5) (6)
+Export + import 0.552** 0.551** 0.545** 0.535** 0.529**
+openness [2.15] [2.15] [2.10] [2.15] [2.11]
+Volatility of
+Total factor productivity 0.149*
+[1.88]
+Oil prices -0.074
+[1.36]
+Real exchange rate -0.141*
+[1.98]
+Government spending 0.161**
+[2.22]
+Interest rates 0.200**
+[2.38]
+Log value added 0.154 0.13 0.128 0.16 0.142
+[0.72] [0.63] [0.62] [0.74] [0.69]
+Unification dummy 0.059 0.245 0.166 0.053 0.195
+[0.33] [1.64] [1.22] [0.29] [1.31]
+Time trend 0.033 0.013 0.005 0.011 0.036
+[1.20] [0.58] [0.22] [0.48] [1.37]
+Constant -66.282 -24.877 -10.066 -21.105 -71.847
+[1.20] [0.58] [0.22] [0.48] [1.37]
+Observations 476 476 476 476 476
+R2 within 0.168 0.156 0.159 0.185 0.177
+R2 overall 0.114 0.11 0.113 0.124 0.122
+R2 between 0.141 0.143 0.143 0.139 0.142
+37
+Figure 1: Mean Volatility of Real Sales and of Real GDP (1973-1994)
+(a) German data
+.00
+.04
+.08
+.12
+.16
+.20
+.24
+74 76 78 80 82 84 86 88 90 92 94
+Volatility of real sales
+0.1, 0.9 Quantiles
+Volatility of real GDP
+(b) Data for Baden-Wuerttemberg: Volatility of real sales
+.05 .1 .15 .2 .25 .3
+1980 1985 1990 1995 2000
+Median 10%
+90%
+Source: Deutsche Bundesbank and Statistisches Landesamt, authors' calculations.
+38
+Figure 2: Cross-Section Correlation Between Openness and Volatility, Sector Data
+Wood
+Mineral
+Agriculture
+Food
+Paper
+Chemicals
+Metals
+Metals & machinery
+Machinery
+Transport
+Recycling
+Electricity
+Social services
+0 .02 .04 .06 .08 .1
+0 50 100 150
+Import openness
+95% CI Fitted values
+Vola real value added
+Wood
+Mineral
+Agriculture
+Mining
+Food Textiles
+Paper
+Chemicals
+Metals
+Metals & machinery
+Machinery
+Transport
+Recycling
+Electricity
+Social services
+-.05 0 .05 .1 .15
+0 50 100 150 200 250
+Export openness
+95% CI Fitted values
+Vola real value added
+Source: OECD, authors' calculations.
+39
+The following Discussion Papers have been published since 2005:
+Series 1: Economic Studies
+1 2005 Financial constraints and capacity adjustment
+in the United Kingdom ­ Evidence from a Ulf von Kalckreuth
+large panel of survey data Emma Murphy
+2 2005 Common stationary and non-stationary
+factors in the euro area analyzed in a
+large-scale factor model Sandra Eickmeier
+3 2005 Financial intermediaries, markets, F. Fecht, K. Huang,
+and growth A. Martin
+4 2005 The New Keynesian Phillips Curve
+in Europe: does it fit or does it fail? Peter Tillmann
+5 2005 Taxes and the financial structure Fred Ramb
+of German inward FDI A. J. Weichenrieder
+6 2005 International diversification at home Fang Cai
+and abroad Francis E. Warnock
+7 2005 Multinational enterprises, international trade,
+and productivity growth: Firm-level evidence Wolfgang Keller
+from the United States Steven R. Yeaple
+8 2005 Location choice and employment S. O. Becker,
+decisions: a comparison of German K. Ekholm, R. Jäckle,
+and Swedish multinationals M.-A. Muendler
+9 2005 Business cycles and FDI: Claudia M. Buch
+evidence from German sectoral data Alexander Lipponer
+10 2005 Multinational firms, exclusivity, Ping Lin
+and the degree of backward linkages Kamal Saggi
+40
+11 2005 Firm-level evidence on international Robin Brooks
+stock market comovement Marco Del Negro
+12 2005 The determinants of intra-firm trade: in search Peter Egger
+for export-import magnification effects Michael Pfaffermayr
+13 2005 Foreign direct investment, spillovers and
+absorptive capacity: evidence from quantile Sourafel Girma
+regressions Holger Görg
+14 2005 Learning on the quick and cheap: gains James R. Markusen
+from trade through imported expertise Thomas F. Rutherford
+15 2005 Discriminatory auctions with seller discretion:
+evidence from German treasury auctions Jörg Rocholl
+16 2005 Consumption, wealth and business cycles: B. Hamburg,
+why is Germany different? M. Hoffmann, J. Keller
+17 2005 Tax incentives and the location of FDI: Thiess Buettner
+evidence from a panel of German multinationals Martin Ruf
+18 2005 Monetary Disequilibria and the Dieter Nautz
+Euro/Dollar Exchange Rate Karsten Ruth
+19 2005 Berechnung trendbereinigter Indikatoren für
+Deutschland mit Hilfe von Filterverfahren Stefan Stamfort
+20 2005 How synchronized are central and east
+European economies with the euro area? Sandra Eickmeier
+Evidence from a structural factor model Jörg Breitung
+21 2005 Asymptotic distribution of linear unbiased J.-R. Kurz-Kim
+estimators in the presence of heavy-tailed S.T. Rachev
+stochastic regressors and residuals G. Samorodnitsky
+41
+22 2005 The Role of Contracting Schemes for the
+Welfare Costs of Nominal Rigidities over
+the Business Cycle Matthias Paustian
+23 2005 The cross-sectional dynamics of German J. Döpke, M. Funke
+business cycles: a bird's eye view S. Holly, S. Weber
+24 2005 Forecasting German GDP using alternative Christian Schumacher
+factor models based on large datasets
+25 2005 Time-dependent or state-dependent price
+setting? ­ micro-evidence from German
+metal-working industries ­ Harald Stahl
+26 2005 Money demand and macroeconomic Claus Greiber
+uncertainty Wolfgang Lemke
+27 2005 In search of distress risk J. Y. Campbell,
+J. Hilscher, J. Szilagyi
+28 2005 Recursive robust estimation and control Lars Peter Hansen
+without commitment Thomas J. Sargent
+29 2005 Asset pricing implications of Pareto optimality N. R. Kocherlakota
+with private information Luigi Pistaferri
+30 2005 Ultra high frequency volatility estimation Y. Aït-Sahalia,
+with dependent microstructure noise P. A. Mykland, L. Zhang
+31 2005 Umstellung der deutschen VGR auf Vorjahres-
+preisbasis ­ Konzept und Konsequenzen für die
+aktuelle Wirtschaftsanalyse sowie die ökono-
+metrische Modellierung Karl-Heinz Tödter
+42
+32 2005 Determinants of current account developments
+in the central and east European EU member
+states ­ consequences for the enlargement of Sabine Herrmann
+the euro erea Axel Jochem
+33 2005 An estimated DSGE model for the German
+economy within the euro area Ernest Pytlarczyk
+34 2005 Rational inattention: a research agenda Christopher A. Sims
+35 2005 Monetary policy with model uncertainty: Lars E.O. Svensson
+distribution forecast targeting Noah Williams
+36 2005 Comparing the value revelance of R&D report- Fred Ramb
+ing in Germany: standard and selection effects Markus Reitzig
+37 2005 European inflation expectations dynamics J. Döpke, J. Dovern
+U. Fritsche, J. Slacalek
+38 2005 Dynamic factor models Sandra Eickmeier
+Jörg Breitung
+39 2005 Short-run and long-run comovement of
+GDP and some expenditure aggregates
+in Germany, France and Italy Thomas A. Knetsch
+40 2005 A"wreckers theory" of financial distress Ulf von Kalckreuth
+41 2005 Trade balances of the central and east
+European EU member states and the role Sabine Herrmann
+of foreign direct investment Axel Jochem
+42 2005 Unit roots and cointegration in panels Jörg Breitung
+M. Hashem Pesaran
+43 2005 Price setting in German manufacturing:
+new evidence from new survey data Harald Stahl
+43
+1 2006 The dynamic relationship between the Euro
+overnight rate, the ECB's policy rate and the Dieter Nautz
+term spread Christian J. Offermanns
+2 2006 Sticky prices in the euro area: a summary of Álvarez, Dhyne, Hoeberichts
+new micro evidence Kwapil, Le Bihan, Lünnemann
+Martins, Sabbatini, Stahl
+Vermeulen, Vilmunen
+3 2006 Going multinational: What are the effects
+on home market performance? Robert Jäckle
+4 2006 Exports versus FDI in German manufacturing:
+firm performance and participation in inter- Jens Matthias Arnold
+national markets Katrin Hussinger
+5 2006 A disaggregated framework for the analysis of Kremer, Braz, Brosens
+structural developments in public finances Langenus, Momigliano
+Spolander
+6 2006 Bond pricing when the short term interest rate Wolfgang Lemke
+follows a threshold process Theofanis Archontakis
+7 2006 Has the impact of key determinants of German
+exports changed?
+Results from estimations of Germany's intra
+euro-area and extra euro-area exports Kerstin Stahn
+8 2006 The coordination channel of foreign exchange Stefan Reitz
+intervention: a nonlinear microstructural analysis Mark P. Taylor
+9 2006 Capital, labour and productivity: What role do Antonio Bassanetti
+they play in the potential GDP weakness of Jörg Döpke, Roberto Torrini
+France, Germany and Italy? Roberta Zizza
+10 2006 Real-time macroeconomic data and ex ante J. Döpke, D. Hartmann
+predictability of stock returns C. Pierdzioch
+44
+11 2006 The role of real wage rigidity and labor market
+frictions for unemployment and inflation Kai Christoffel
+dynamics Tobias Linzert
+12 2006 Forecasting the price of crude oil via
+convenience yield predictions Thomas A. Knetsch
+13 2006 Foreign direct investment in the enlarged EU:
+do taxes matter and to what extent? Guntram B. Wolff
+14 2006 Inflation and relative price variability in the euro Dieter Nautz
+area: evidence from a panel threshold model Juliane Scharff
+15 2006 Internalization and internationalization
+under competing real options Jan Hendrik Fisch
+16 2006 Consumer price adjustment under the
+microscope: Germany in a period of low Johannes Hoffmann
+inflation Jeong-Ryeol Kurz-Kim
+17 2006 Identifying the role of labor markets Kai Christoffel
+for monetary policy in an estimated Keith Küster
+DSGE model Tobias Linzert
+18 2006 Do monetary indicators (still) predict
+euro area inflation? Boris Hofmann
+19 2006 Fool the markets? Creative accounting, Kerstin Bernoth
+fiscal transparency and sovereign risk premia Guntram B. Wolff
+20 2006 How would formula apportionment in the EU
+affect the distribution and the size of the Clemens Fuest
+corporate tax base? An analysis based on Thomas Hemmelgarn
+German multinationals Fred Ramb
+45
+21 2006 Monetary and fiscal policy interactions in a New
+Keynesian model with capital accumulation Campbell Leith
+and non-Ricardian consumers Leopold von Thadden
+22 2006 Real-time forecasting and political stock market Martin Bohl, Jörg Döpke
+anomalies: evidence for the U.S. Christian Pierdzioch
+23 2006 A reappraisal of the evidence on PPP:
+a systematic investigation into MA roots Christoph Fischer
+in panel unit root tests and their implications Daniel Porath
+24 2006 Margins of multinational labor substitution Sascha O. Becker
+Marc-Andreas Mündler
+25 2006 Forecasting with panel data Badi H. Baltagi
+26 2006 Do actions speak louder than words? Atsushi Inoue
+Household expectations of inflation based Lutz Kilian
+on micro consumption data Fatma Burcu Kiraz
+27 2006 Learning, structural instability and present H. Pesaran, D. Pettenuzzo
+value calculations A. Timmermann
+28 2006 Empirical Bayesian density forecasting in Kurt F. Lewis
+Iowa and shrinkage for the Monte Carlo era Charles H. Whiteman
+29 2006 The within-distribution business cycle dynamics Jörg Döpke
+of German firms Sebastian Weber
+30 2006 Dependence on external finance: an inherent George M. von Furstenberg
+industry characteristic? Ulf von Kalckreuth
+31 2006 Comovements and heterogeneity in the
+euro area analyzed in a non-stationary
+dynamic factor model Sandra Eickmeier
+46
+32 2006 Forecasting using a large number of predictors: Christine De Mol
+is Bayesian regression a valid alternative to Domenico Giannone
+principal components? Lucrezia Reichlin
+33 2006 Real-time forecasting of GDP based on
+a large factor model with monthly and Christian Schumacher
+quarterly data Jörg Breitung
+34 2006 Macroeconomic fluctuations and bank lending: S. Eickmeier
+evidence for Germany and the euro area B. Hofmann, A. Worms
+35 2006 Fiscal institutions, fiscal policy and Mark Hallerberg
+sovereign risk premia Guntram B. Wolff
+36 2006 Political risk and export promotion: C. Moser
+evidence from Germany T. Nestmann, M. Wedow
+37 2006 Has the export pricing behaviour of German
+enterprises changed? Empirical evidence
+from German sectoral export prices Kerstin Stahn
+38 2006 How to treat benchmark revisions?
+The case of German production and Thomas A. Knetsch
+orders statistics Hans-Eggert Reimers
+39 2006 How strong is the impact of exports and
+other demand components on German
+import demand? Evidence from euro-area
+and non-euro-area imports Claudia Stirböck
+40 2006 Does trade openness increase C. M. Buch, J. Döpke
+firm-level volatility? H. Strotmann
+47
+Series 2: Banking and Financial Studies
+1 2005 Measurement matters ­ Input price proxies
+and bank efficiency in Germany Michael Koetter
+2 2005 The supervisor's portfolio: the market price
+risk of German banks from 2001 to 2003 ­ Christoph Memmel
+Analysis and models for risk aggregation Carsten Wehn
+3 2005 Do banks diversify loan portfolios? Andreas Kamp
+A tentative answer based on individual Andreas Pfingsten
+bank loan portfolios Daniel Porath
+4 2005 Banks, markets, and efficiency F. Fecht, A. Martin
+5 2005 The forecast ability of risk-neutral densities Ben Craig
+of foreign exchange Joachim Keller
+6 2005 Cyclical implications of minimum capital
+requirements Frank Heid
+7 2005 Banks' regulatory capital buffer and the
+business cycle: evidence for German Stéphanie Stolz
+savings and cooperative banks Michael Wedow
+8 2005 German bank lending to industrial and non-
+industrial countries: driven by fundamentals
+or different treatment? Thorsten Nestmann
+9 2005 Accounting for distress in bank mergers M. Koetter, J. Bos, F. Heid
+C. Kool, J. Kolari, D. Porath
+10 2005 The eurosystem money market auctions: Nikolaus Bartzsch
+a banking perspective Ben Craig, Falko Fecht
+11 2005 Financial integration and systemic Falko Fecht
+risk Hans Peter Grüner
+48
+12 2005 Evaluating the German bank merger wave Michael Koetter
+13 2005 Incorporating prediction and estimation risk A. Hamerle, M. Knapp,
+in point-in-time credit portfolio models T. Liebig, N. Wildenauer
+14 2005 Time series properties of a rating system U. Krüger, M. Stötzel,
+based on financial ratios S. Trück
+15 2005 Inefficient or just different? Effects of J. Bos, F. Heid, M. Koetter,
+heterogeneity on bank efficiency scores J. Kolatri, C. Kool
+01 2006 Forecasting stock market volatility with J. Döpke, D. Hartmann
+macroeconomic variables in real time C. Pierdzioch
+02 2006 Finance and growth in a bank-based economy: Michael Koetter
+is it quantity or quality that matters? Michael Wedow
+03 2006 Measuring business sector concentration
+by an infection model Klaus Düllmann
+04 2006 Heterogeneity in lending and sectoral Claudia M. Buch
+growth: evidence from German Andrea Schertler
+bank-level data Natalja von Westernhagen
+05 2006 Does diversification improve the performance Evelyn Hayden
+of German banks? Evidence from individual Daniel Porath
+bank loan portfolios Natalja von Westernhagen
+06 2006 Banks' regulatory buffers, liquidity networks Christian Merkl
+and monetary policy transmission Stéphanie Stolz
+07 2006 Empirical risk analysis of pension insurance ­ W. Gerke, F. Mager
+the case of Germany T. Reinschmidt
+C. Schmieder
+49
+08 2006 The stability of efficiency rankings when
+risk-preferences and objectives are different Michael Koetter
+09 2006 Sector concentration in loan portfolios Klaus Düllmann
+and economic capital Nancy Masschelein
+10 2006 The cost efficiency of German banks: E. Fiorentino
+a comparison of SFA and DEA A. Karmann, M. Koetter
+51
+Visiting researcher at the Deutsche Bundesbank
+The Deutsche Bundesbank in Frankfurt is looking for a visiting researcher. Among others
+under certain conditions visiting researchers have access to a wide range of data in the
+Bundesbank. They include micro data on firms and banks not available in the public.
+Visitors should prepare a research project during their stay at the Bundesbank. Candidates
+must hold a Ph D and be engaged in the field of either macroeconomics and monetary
+economics, financial markets or international economics. Proposed research projects
+should be from these fields. The visiting term will be from 3 to 6 months. Salary is
+commensurate with experience.
+Applicants are requested to send a CV, copies of recent papers, letters of reference and a
+proposal for a research project to:
+Deutsche Bundesbank
+Personalabteilung
+Wilhelm-Epstein-Str. 14
+D - 60431 Frankfurt
+GERMANY
+

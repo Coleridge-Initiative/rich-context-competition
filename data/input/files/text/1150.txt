@@ -1,0 +1,832 @@
+Trends
+Financial Burden Of Health Care, 2001­2004
+The same affordability issues that low-income families experienced a
+decade ago have begun to affect middle-income families today.
+by Jessica S. Banthin, Peter Cunningham, and Didem M. Bernard
+ABSTRACT: Analysis of data from the Medical Expenditure Panel Survey (MEPS) shows
+that rising out-of-pocket expenses and stagnant incomes increased health spending's fi-
+nancial burden for families in 2001­2004, especially for the privately insured. High finan-
+cial burdens among those with nongroup coverage increased by more than one-third. De-
+spite evidence of increased cost sharing in private insurance plans, our analysis does not
+show that privately insured people paid a higher share of their total health care bill in 2004
+compared to 2001. Financial burdens have increased to the point at which private insur-
+ance is no longer able to provide financial protection for an increasing number of families.
+[Health Affairs 27, no. 1 (2008): 188­195; 10.1377/hlthaff.27.1.188]
+Rising health care costs are one
+reason for a dramatic increase in
+Americans' dissatisfaction with the
+health care system in recent years.1 In the first
+part of this decade, health care costs contin-
+ued to increase at rates far above general in-
+flation, and employers increasingly shifted
+these higher costs to workers in the form of
+higher out-of-pocket payments for premiums,
+deductibles, and copayments.2 Adding to the
+pressure on families was slower economic
+growth during 2001­2004, which resulted in
+increases in poverty rates and the number of
+uninsured people.3
+Understanding whether these trends are
+resulting in greater financial burdens on fami-
+lies is important, since high financial burdens
+can lead to greater medical debt, problems
+paying medical bills, and bankruptcy.4 In addi-
+tion, high financial burdens are often obstacles
+to medical care access, as many families (in-
+cluding privately insured families) with prob-
+lems paying their medical bills delay or forgo
+needed medical care.5 Although these con-
+cerns have been directed primarily at unin-
+sured people, many families with private in-
+surance--especially those with low
+incomes--are having difficulty paying medical
+bills.
+Prior research based on data from the Med-
+ical Expenditure Panel Survey (MEPS)
+showed that out-of-pocket spending--as well
+as the financial burden of these expenses--in-
+creased for families between 1996 and 2003.6
+In this paper we extend that analysis by pro-
+viding estimates of out-of-pocket spending for
+2004 (the latest data available) and focus on
+the changes in out-of-pocket spending and
+families' financial burdens since 2001. We fo-
+cus on 2001­2004 because it was a period
+when financial pressures on American families
+resulting from health care costs were likely in-
+1 8 8 J a n u a r y / F e b r u a r y 2 0 0 8
+H e a l t h T r a c k i n g
+DOI 10.1377/hlthaff.27.1.188 ©2008 Project HOPE­The People-to-People Health Foundation, Inc.
+JessicaBanthinisdirectorandDidemBernardisasenioreconomistintheDivisionofModelingandSimulation
+Research,CenterforFinancing,Access,andCostTrends,AgencyforHealthcareResearchandQuality(AHRQ),in
+Rockville,Maryland.PeterCunningham(pcunningham@hschange.org)isaseniorfellowattheCenterfor
+StudyingHealthSystemChangeinWashington,D.C.
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 02, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+creasing. For example, annual increases in
+health care costs averaged 8.3 percent during
+2001­2004, while average family incomes in-
+creased only 1.6 percent, on average.7 This was
+in sharp contrast to the period 1996­2000,
+when average annual increases in health care
+costs (5.9 percent) were only slightly higher
+than increases in income (4.6 percent).
+Study Data And Methods
+n Data source. Our analysis is based on
+data from MEPS for 2001 and 2004. The MEPS
+household survey, sponsored by the Agency for
+Healthcare Research and Quality (AHRQ),
+collects detailed information on health care
+spending and use of services, insurance cover-
+age, sources of payment, health status, em-
+ployment, and other sociodemographic details
+from individuals and families. Household re-
+ports on use of services are supplemented with
+information on third-party payments and bill-
+ing codes from medical care providers' billing
+records. Sample sizes are 28,295 for 2001 and
+28,990 for 2004, for people under age sixty-
+five. Our results are weighted to be nationally
+representative of the U.S. civilian, noninstitu-
+tionalized population of that age group.
+n Families' health care burden. We de-
+fine health care burden as the ratio of total family
+out-of-pocket spending for health care ser-
+vices and premiums over total family income.
+Both financial burden for health care and in-
+come are measured at the family level, since
+family members typically share financial re-
+sources and are likely to be affected by each
+other's medical costs. All of our results and
+population estimates are reported at the per-
+son level. Each person in our sample is as-
+signed the family-level burden measure.
+n Family income. Family income is mea-
+sured after taxes (disposable income), because
+this is a more accurate reflection of families' re-
+sources, especially for the working-age popu-
+lation.8 Income and spending for 2001 are in-
+flated to 2004 values using the Consumer
+Price Index (CPI) for urban areas.
+n High-burden individuals. People who
+live in families that spend more than 10 per-
+cent of family income on health care are de-
+fined as individuals with high burdens. This
+method, which has been used in several other
+studies, reduces bias resulting from reporting
+error in income and also provides an intuitive
+measure of the risk of incurring high financial
+burdens.9
+n Differential spending thresholds. We
+also consider a measure that uses a lower
+threshold for low-income people (that is, peo-
+ple whose out-of-pocket costs exceed 5 per-
+cent of income for low-income people and 10
+percent for all others) because it is assumed
+that low-income people have much less capac-
+ity than their higher-income peers to absorb
+high out-of-pocket spending, and this is con-
+sistent with public program requirements in
+Medicaid and the State Children's Health In-
+surance Program (SCHIP).10 However, using
+inconsistent thresholds across income groups
+would bias estimates of disparities in burden
+levels by income.11
+n Insurance categories and premiums.
+People without coverage all year are classified
+as uninsured. We assigned the rest to one of
+three mutually exclusive insurance categories
+based on the type of coverage they held for the
+longest period of time during the year (mea-
+sured monthly). In the event of a tie, we as-
+signed the person to the highest-ranking in-
+surance status category in this order: private
+employment-related group, private nongroup,
+or public.
+Premiums include those paid out of pocket
+for private policies reported in MEPS and sim-
+ulated Medicare Part B premiums for anyone
+enrolled in Medicare and not eligible for
+Medicaid premium support. All premiums are
+prorated to account for the duration of cover-
+age during the year.
+Study Results
+n Financial burden of health care. The
+financial burden of health care increased for
+American families during the first part of this
+decade as a result of rising out-of-pocket
+spending for health care and stagnant family
+incomes. Between 2001 and 2004, the percent-
+age of the nonelderly population living in fami-
+lies with high out-of-pocket health care bur-
+T r e n d s
+H E A LT H A F F A I R S ~ Vo l u m e 2 7, N u m b e r 1 1 8 9
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 02, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+dens rose from 15.9 percent to 17.7 percent
+(Exhibit 1). By 2004, 45.4 million people lived
+in families with high burdens--an increase of
+almost six million from 2001.12
+Increases in out-of-pocket spending be-
+tween 2001 and 2004 were driven by both in-
+creases in health insurance premium payments
+and spending on health care services. Even af-
+ter general inflation is accounted for, total out-
+of-pocket spending on health care rose by $373
+to $2,656 in 2004, an increase of about 16 per-
+cent over the three-year period. In contrast, av-
+erage family incomes not only failed to keep
+pace with rising out-of-pocket spending dur-
+ing this period but were largely unchanged af-
+ter general inflation was accounted for.
+n Health insurance coverage and finan-
+cial burden. The increase in families' financial
+burdens was driven entirely by people with
+private (employer-sponsored) insurance: 17
+percent (or twenty-nine million people) faced
+high burdens in 2004, an increase of 2.3 per-
+centage points from 2001. Together, out-of-
+pocket spending for premiums and services
+rose $553 to $3,211, a 21 percent increase over
+the period. The increase in high financial bur-
+dens would have been even greater if not for a
+small rise in family incomes (4.6 percent) for
+privately insured people during this period.
+Private, nongroup coverage. Although relatively
+1 9 0 J a n u a r y / F e b r u a r y 2 0 0 8
+H e a l t h T r a c k i n g
+EXHIBIT 1
+Components Of Family Out-Of-Pocket Burdens, By Insurance Status, Among The
+Nonelderly Population, 2001­2004
+Insurance statusa
+Population
+(thousands)
+After-tax
+family
+income ($)
+Out-of-pocket
+spending
+on care ($)
+Out-of-pocket
+premiums ($)b
+Total out-of-
+pocket
+burden ($)c
+Percent in
+families
+with high
+out-of-pocket
+burdensd
+Total population
+2001
+2004
+248,412
+256,485
+46,435
+47,107
+1,082
+1,201***
+1,201
+1,455***
+2,283
+2,656***
+15.9
+17.7***
+Private employment-
+related
+2001
+2004
+172,971
+170,628
+55,182
+57,711**
+1,181
+1,354***
+1,478
+1,857***
+2,658
+3,211***
+14.7
+17.0***
+Private nongroup
+insurance
+2001
+2004
+9,104
+9,261
+51,787
+49,207
+1,384
+1,972***
+3,309
+4,204***
+4,693
+6,176***
+39.0
+52.7***
+Public insurance
+2001
+2004
+33,332
+40,567
+19,121
+19,991
+709
+712
+228
+248
+937
+960
+18.0
+15.8
+No coverage
+2001
+2004
+33,005
+36,030
+26,700
+26,881
+858
+828
+155
+205
+1,011
+1,033
+13.9
+14.0
+SOURCE: Authors' calculations using data from the Medical Expenditure Panel Survey (MEPS).
+NOTES: All amounts (income and expenditures) are in 2004 U.S. dollars. Statistical significance denotes difference from 2001.
+Standard errors (adjusted to account for the complex design of MEPS) are available from the authors.
+a Insurance status is based on monthly indicators and reflects coverage for the whole the year. People with multiple coverage
+are assigned the coverage with the longest duration.
+b Premiums include out-of-pocket premiums for private coverage and Medicare Part B premiums. Premiums for those with
+public insurance and no coverage reflect (1) private coverage held for part of the year or (2) private coverage for other family
+members, or both.
+c Burden includes out-of-pocket spending on medical care and on premiums.
+d High burden is defined as having combined out-of-pocket expenses for services and premiums greater than 10 percent of
+after-tax family income.
+**p < 0.05 ***p < 0.01
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 02, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+small in number, people covered by private
+policies purchased in the nongroup market
+were much more likely than those in any other
+insurance group to bear high financial burdens
+during 2001­2004. This was because people
+with private nongroup insurance must pay the
+entire premium, and benefits in such plans are
+often less generous than those in employer-
+sponsored plans. Moreover, the percentage of
+people with nongroup plans experiencing
+high out-of-pocket burdens rose dramatically,
+from 39 percent in 2001 to
+52.7 percent in 2004.
+The large increase in bur-
+dens for those with nongroup
+coverage may have reflected
+the fact that younger and
+healthier people dropped this
+coverage as costs increased.
+However, our results show no
+decrease in the numbers en-
+rolled in nongroup coverage,
+and there was also no change
+during 2001­2004 in the aver-
+age age of people covered by
+these plans (findings not
+shown). Therefore, increases in burden more
+likely reflected large increases in premiums
+and deductibles among people enrolled in
+nongroup plans, which do not have employers
+as a partial buffer to help absorb higher health
+care costs.
+Uninsured and public coverage. There was no
+change in financial burdens among the unin-
+sured and those with public coverage. About
+one-sixth of the publicly insured (or 6.4 mil-
+lion people) faced high financial burdens in
+2004. Although out-of-pocket spending by the
+publicly insured was much lower than by the
+privately insured ($712 on average), even mod-
+est expenses are financially burdensome to a
+population that is mostly poor and low income
+("poor" is defined as less than 100 percent of
+the federal poverty level; "low income," 100­
+199 percent). For the uninsured, lower out-of-
+pocket spending and comparable burden lev-
+els relative to privately insured people re-
+flected lower medical care access and use.
+Only about 55 percent of the uninsured used
+any health services in 2004, compared to 88.1
+percent of those with employer-sponsored
+coverage (findings not shown).
+n Financial burden and income. The
+burdens were highest among poor and low-
+income people with private insurance, a sub-
+group of particular policy concern.13 We found
+that 53.5 percent of poor and 37.4 percent of
+low-income people with private insurance
+faced high financial burdens in 2004, about
+two times as high as middle-income people
+faced and four times as high
+as high-income people faced
+(Exhibit 2). Moreover, finan-
+cial burdens increased be-
+tween 2001 and 2004 for low-
+income people, which indi-
+cates that private coverage
+was becoming less affordable
+for this group. At the same
+time, one out of five privately
+insured people with incomes
+of 200­399 percent of poverty
+(middle income) spent more
+than 10 percent of their in-
+come on health care, a rate
+that is twice as high as that for higher-income
+people.
+Out-of-pocket spending for both premiums
+and services contributed to high financial bur-
+dens for poor and low-income people. For ex-
+ample, among the privately insured, 30.1 per-
+cent of poor and 21.9 percent of low-income
+people incurred high financial burdens from
+the premium alone in 2004 (Exhibit 3). It
+might be argued that families choose to pay
+the out-of-pocket premium and plan their
+budget to cover the regular and predictable
+payments that premiums typically involve. Yet
+39.7 percent of poor and 10.4 percent of low-
+income people incurred high burdens solely
+from the less predictable out-of-pocket spend-
+ing on services in 2004.
+n Share of total health spending paid
+for out of pocket. Increases in out-of-pocket
+spending for deductibles and copayments have
+generated concern about employers' "buy-
+down" of their employees' health benefits,
+compelling enrollees to pay a higher share of
+T r e n d s
+H E A LT H A F F A I R S ~ Vo l u m e 2 7, N u m b e r 1 1 9 1
+"The percentage of
+people with
+nongroup plans
+experiencing high
+out-of-pocket
+burdens rose
+dramatically, from 39
+percent in 2001 to
+52.7 percent in
+2004."
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 02, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+their total health care bill. However, we found
+that the share of total health care spending
+paid for out of pocket actually decreased
+slightly, from 34.8 percent in 2001 to 33.6 per-
+cent in 2004 (Exhibit 4).14 People with non-
+group coverage paid a much higher share of
+their total health care bill out of pocket (55.3
+percent) than did those with employer-spon-
+sored coverage (31.9 percent), although there
+was no statistically significant change in the
+share paid for out of pocket for either group
+between 2001 and 2004. People with public
+coverage paid the lowest share out of pocket
+(13.5 percent), while those without insurance
+paid the highest share (72.2 percent).
+Discussion
+The trend of increasing financial burdens
+among the privately insured has likely contin-
+ued since 2004, although perhaps at a some-
+what lower rate. Annual increases in health in-
+surance premiums have slowed from a high of
+13.9 percent in 2003 to 6.1 percent in 2007, but
+they are still higher than general inflation and
+growth in workers' wages.15 Recent projec-
+tions estimate that both overall private health
+insurance costs and out-of-pocket spending
+will continue to rise by about 6­7 percent an-
+nually through 2016.16 Financial burdens for
+health care may therefore continue to grow as
+well, since growth in incomes is unlikely to
+keep pace with increases in the cost of care,
+depending on changes in benefit design as well
+as consumers' responses to any changes in
+benefits and coverage.
+Our study shows that private health insur-
+ance, as currently structured, does not com-
+pletely protect many poor and low-income in-
+dividuals and families from the high cost of
+health care. This group is of particular policy
+concern because these trends indicate that
+many Americans are underinsured and going
+without needed medical care.17 Also, increases
+in health care costs have greatly eroded private
+coverage of poor and low-income people over
+the past twenty years, which for children has
+1 9 2 J a n u a r y / F e b r u a r y 2 0 0 8
+H e a l t h T r a c k i n g
+EXHIBIT 2
+Percentage Of Nonelderly Population In Families With High Out-Of-Pocket Burdens,
+By Income And Insurance Status, 2001­2004
+Incomea
+Population
+(thousands) All (%)
+Private insurance
+(group and
+nongroup, %)
+Public
+insurance (%) No coverage (%)
+Poor
+2001
+2004
+29,972
+33,903
+30.3
+28.1
+53.8
+53.5
+21.4
+19.8
+27.0
+27.2
+Low income
+2001
+2004
+42,729
+44,008
+22.9
+23.8
+32.0
+37.4**
+15.1
+12.6
+12.9
+11.7
+Middle income
+2001
+2004
+77,439
+82,019
+17.6
+18.9
+19.1
+21.4
+15.4
+11.6
+9.4
+9.4
+High income
+2001
+2004
+98,273
+96,555
+7.2
+10.2***
+7.2
+10.3***
+­b
+­b
+6.4
+7.9
+SOURCE: Authors' calculations using data from the Medical Expenditure Panel Survey (MEPS).
+NOTES: High burden is defined as having combined out-of-pocket expenses for services and premiums greater than 10
+percent of after-tax family income. Insurance status is based on monthly indicators and reflects coverage for the whole year.
+People with multiple coverage sources are assigned the coverage with the longest duration. Statistical significance denotes
+difference from 2001. Standard errors (adjusted to account for the complex design of MEPS) are available from the authors.
+a Poor: family income below 100 percent of the federal poverty level. Low income: 100­199 percent of poverty. Middle income:
+200­399 percent of poverty. High income: 400+ percent of poverty.
+b Not applicable.
+**p < 0.05 ***p < 0.01
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 02, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+been offset by expansions of Medicaid and
+State Children's Health Insurance Program
+(SCHIP) coverage to at least 200 percent of
+poverty in most states.18
+In the debate about whether SCHIP should
+be expanded beyond the 200 percent poverty
+threshold, a key question is the extent to
+which middle-income families can still afford
+private coverage. Compared to poor and low-
+income people, the prevalence of high financial
+burdens during our study period was much
+lower for privately insured people in middle-
+T r e n d s
+H E A LT H A F F A I R S ~ Vo l u m e 2 7, N u m b e r 1 1 9 3
+EXHIBIT 3
+Percentage Of Nonelderly Population In Families With High Out-Of-Pocket Burdens,
+By Income And Insurance Status, 2004
+Incomea All (%)
+Private insurance
+(group and nongroup, %)
+Public
+insurance (%)
+No
+coverage (%)
+Premium burdenb
+Poor
+Low income
+Middle income
+High income
+6.8
+10.9
+8.6
+3.6
+30.1
+21.9
+10.5
+3.8
+1.4
+1.7
+2.7
+­c
+1.1
+1.2
+1.0
+0.2
+Health service burdend
+Poor
+Low income
+Middle income
+High income
+24.3
+10.2
+5.9
+2.9
+39.7
+10.4
+5.6
+2.6
+18.2
+10.0
+7.9
+6.9
+26.4
+10.1
+6.9
+7.1
+SOURCE: Authors' calculations using data from the Medical Expenditure Panel Survey (MEPS).
+NOTES: Insurance status is based on monthly indicators and reflects coverage for the whole the year. People with multiple
+coverage sources are assigned the coverage with the longest duration. Statistical significance denotes difference from 2001.
+Standard errors (adjusted to account for the complex design of MEPS) are available from the authors.
+a Poor: family income below 100 percent of the federal poverty level. Low income: 100­199 percent of poverty. Middle income:
+200­399 percent of poverty. High income: 400+ percent of poverty.
+b Premium burden is defined as having out-of-pocket premiums for private insurance and Medicare Part B coverage greater
+than 10 percent of after-tax family income. Premiums for those with public insurance and no coverage reflect (1) private
+coverage held for part of the year or (2) private coverage for other family members, or both.
+c Not applicable.
+d Health service burden is defined as having out-of-pocket spending on health care services greater than 10 percent of after-tax
+family income.
+Percent
+40
+20
+60
+Private group
+All
+0
+EXHIBIT 4
+Share Of Total Out-Of-Pocket Spending Paid For Out Of Pocket Among The Nonelderly
+Population With An Out-Of-Pocket Expense, 2001 And 2004
+SOURCE: Authors' calculations using data from the Medical Expenditure Panel Survey (MEPS).
+NOTE: For all coverage and public coverage, difference between 2001 and 2004 is significant ( < 0.05).
+p
+Public
+Private nongroup Uninsured
+Source of coverage
+2004
+2001
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 02, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+income families. Still, one out of five privately
+insured people in middle-income families
+faced high financial burdens, and this number
+is likely to increase in future years as health
+care costs continue to outpace growth in fam-
+ily incomes. Thus, the same affordability issues
+that low-income families experienced a de-
+cade ago might affect middle-income families
+in the future.
+Subsidizing out-of-pocket premiums for
+low- and moderate-income workers who have
+access to employer-sponsored coverage is an
+alternative way to increase the affordability of
+private coverage. Premium assistance pro-
+grams are appealing because they offer the po-
+tential to cover a larger number of people with
+fewer public dollars; however, these efforts of-
+ten ignore the financial burden associated
+with out-of-pocket spending for health care
+services. Limiting this spending might be as
+crucial as premium subsidies to the success of
+these programs.19
+At the same time, other developments
+could lead to increased financial burdens.
+States have greater ability to impose cost-
+sharing requirements in their Medicaid pro-
+grams as a result of the 2005 Deficit Reduction
+Act (DRA). Although there are still strict lim-
+its on the amount of cost sharing that benefi-
+ciaries can incur, our study shows that finan-
+cial burdens among families with Medicaid
+enrollees are not insubstantial. Policymakers
+should consider the possibility that state and
+federal cost containment efforts could increase
+these burdens even more.
+Theviewsexpressedinthispaperarethoseofthe
+authors,andnoofficialendorsementbytheU.S.
+DepartmentofHealthandHumanServices,the
+AgencyforHealthcareResearchandQuality,orthe
+CommonwealthFundisintendedorshouldbeinferred.
+PeterCunningham'sparticipationinthisprojectwas
+supportedbytheCommonwealthFund.Theauthors
+thankthefollowingpeopleforprovidinghelpful
+commentsonanearlierdraft:SteveCohen,JoelCohen,
+PaulGinsburg,AlwynCassil,SaraCollins,andCathy
+Schoen.
+NOTES
+1. Employee Benefit Research Institute, "2006
+Health Confidence Survey: Dissatisfaction with
+Health Care System Doubles since 1998," EBRI
+Notes 27, no. 11, November 2006, http://www.ebri
+.org/pdf/notespdf/EBRI_Notes_11-20061.pdf (ac-
+cessed 29 March 2007).
+2. G. Claxton et al., "Health Benefits in 2006: Pre-
+mium Increases Moderate, Enrollment in Con-
+sumer-Directed Health Plans Remains Modest,"
+Health Affairs 25 (2006): w476­w485 (published
+online 26 September 2006; 10.1377/hlthaff.w5
+.476).
+3. U.S. Census Bureau, "Historical Poverty Tables,"
+7 September 2007, http://www.census.gov/hhes/
+www/poverty/histpov/hstpov3.html (accessed
+23 September 2007); and P. Fronstin, "Sources of
+Health Insurance and Characteristics of the Un-
+insured: Analysis of the March 2006 Current
+Population Survey," Issue Brief no. 298 (Wash-
+ington: EBRI, October 2006).
+4. S.R. Collins et al., Squeezed: Why Rising Exposure to
+Health Care Costs Threatens the Health and Financial
+Well-Being of American Families, September 2006,
+http://www.cmwf.org/usr_doc/Collins_squeezed
+risinghltcarecosts_953.pdf (accessed 29 Septem-
+ber 2006).
+5. C. Hoffman et al., Medical Debt and Access to Health
+Care (Washington: Kaiser Commission on
+Medicaid and the Uninsured, September 2005);
+and J.H. May and P.J. Cunningham, "Tough
+Tradeoffs: Medical Bills, Family Finances, and
+Access to Care," Issue Brief no. 85, June 2004,
+http://www.hschange.org/CONTENT/689 (ac-
+cessed 29 September 2006).
+6. J.S. Banthin and D.M. Bernard, "Changes in Fi-
+nancial Burdens for Health Care: National Esti-
+mates for the Population Younger than Sixty-five
+Years, 1996 to 2003," Journal of the American Medical
+Association 296, no. 22 (2006): 2712­2719.
+7. Estimates of annual increases in health care costs
+were obtained from Centers for Medicare and
+Medicaid Services, "National Health Expendi-
+ture Data, Historical," 8 January 2007, http://
+www.cms.hhs.gov/NationalHealthExpendData/
+02_NationalHealthAccountsHistorical.asp (ac-
+cessed 23 September 2007). Estimates of annual
+increases in income were obtained from U.S.
+Census Bureau, 2007StatisticalAbstract, "Table 677:
+Money Income of Families--Median Income by
+Race and Hispanic Origin in Current and Con-
+stant (2004) Dollars: 1980 to 2004," http://www
+.census.gov/compendia/statab/tables/07s0677.xls
+(accessed 29 March 2007). Both estimates of av-
+erage annual increases do not account for general
+inflation.
+8. To construct after-tax income, we simulated fed-
+1 9 4 J a n u a r y / F e b r u a r y 2 0 0 8
+H e a l t h T r a c k i n g
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 02, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+eral and state income taxes as well as Social Se-
+curity and Medicare taxes on earnings using the
+Web-based version of TAXSIM 5.0. (National
+Bureau of Economic Research, Internet TAXSIM
+Version 5.0, at http://www.nber.org/~taxsim). In
+addition, we imposed a $100 floor for after-tax
+family income to deal with underreporting and
+cases of legitimately low or negative incomes,
+which affects only 3.3 percent of observations.
+9. J.S. Banthin and T.M. Selden. "The ABCs of Chil-
+dren's Health Care: How the Medicaid Expan-
+sionsAffected Access, Burdens, and Coverage be-
+tween 1987 and 1996," Inquiry 40, no. 2 (2003):
+133­145; T.M. Selden and J.S. Banthin, "Health
+Care Expenditure Burdens among Elderly
+Adults: 1987 and 1996," MedicalCare 41, no. 7 Supp.
+(2003): III13­III23; and D.M. Bernard, J.S.
+Banthin, and W.E. Encinosa, "Health Care Ex-
+penditure Burdens among Adults with Diabetes
+in 2001," Medical Care 44, no. 3 (2006): 210­215.
+10. C. Schoen et al., "Insured but Not Protected:
+How Many Adults Are Underinsured?" Health Af-
+fairs 24 (2005): w289­w302 (published online 14
+June 2005; 10.1377/hlthaff.w5.289).
+11. Estimates of financial burden using the 5 percent
+threshold for low-income people are available in
+an online appendix, at http://content.health
+affairs.org/cgi/content/full/27/1/188/DC1.
+12. The 2004 estimate of 17.7 percent with high bur-
+dens is lower than the estimate for 2003 (19.2
+percent) reported in an earlier study using
+MEPS: Banthin and Bernard, "Changes in Finan-
+cial Burdens for Health Care." Although the
+change between 2003 and 2004 is statistically
+significant and represents a decrease in the per-
+centage with burdens, it is likely the result of
+year-to-year fluctuations in the data rather than
+the start of a new trend. Regardless, the conclu-
+sions of this study do not change when compar-
+ing 2001 with 2003 or 2004, which shows bur-
+den levels increasing during a period of rapidly
+rising health care costs and stagnant incomes.
+13. In Exhibits 2 and 3, employment-related and
+nongroup coverage is combined because sample
+sizes for nongroup coverage among poor, low-
+income, and middle-income people are too small
+for reliable estimates. Trends for group coverage
+by income tend to be similar to overall private
+insurance coverage.
+14. We computed the average percentage paid out of
+pocket among people with an expense. Thus, the
+20 percent paid by one person was averaged with
+the 40 percent paid by another, regardless of the
+size of the total payment.
+15. G. Claxton et al., "Health Benefits in 2007: Pre-
+mium Increases Fall to an Eight-Year Low, while
+Offer Rates and Enrollment Remain Stable,"
+Health Affairs 26, no. 5 (2007): 1407­1416.
+16. J.A. Poisal et al., "Health Spending Projections
+through 2016: Modest Changes Obscure Part D's
+Impact," Health Affairs 26, no. 2 (2007): w242­
+w253 (published online 21 February 2007;
+10.1377/hlthaff.26.2.w242).
+17. Hoffman et al., Medical Debt and Access to Health
+Care; and May and Cunningham, Tough Tradeoffs.
+18. R. Kronick and T. Gilmer, "Explaining the De-
+cline in Health Insurance Coverage, 1979­1995,"
+Health Affairs 18, no. 2 (1999): 30­47.
+19. J. Alker, Premium Assistance Programs: How Are They
+Financed and Do States Save Money? (Washington:
+Kaiser Commission, October 2005).
+T r e n d s
+H E A LT H A F F A I R S ~ Vo l u m e 2 7, N u m b e r 1 1 9 5
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on November 02, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+

@@ -1,0 +1,689 @@
+Evolutionary Psychology
+www.epjournal.net ­ 2015. 13(2): 283-298
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Original Article
+Functional Flexibility in Women's Commitment-Skepticism Bias
+Christina M. Brown, Department of Psychology, Arcadia University, Glenside, PA, USA. Email:
+browncm@arcadia.edu (Corresponding author).
+Yevgeniy M. Olkhov, Department of Psychology, Arcadia University, Glenside, PA, USA.
+Abstract: If a woman overestimates her romantic partner's commitment, the cost to her
+fitness--reproduction without an investing partner--can be considerable. Error
+Management Theory predicts that women have an evolved bias to be skeptical of men's
+commitment in a relationship, which reduces the likelihood of making a costly false
+positive error. However, because error probabilities are inversely related, this commitment-
+skepticism bias simultaneously increases the likelihood of missed opportunities, or false
+negatives. False positives when gauging a partner's commitment are the more costly error
+for women, but missing an opportunity to secure a genuinely high-quality mate can also be
+quite costly. We predicted and found that women's mating cognitions are functionally
+flexible, such that women do not exhibit the commitment-skepticism bias when faced with
+behavioral evidence that a male partner is willing to commit (Study 1). This suggests that
+relationship-enhancing behaviors are one contextual cue that may lessen the bias. However,
+not all relationship-enhancing behaviors are equally diagnostic of a person's true
+commitment intent. When comparing men and women's commitment thresholds, we found
+that women require more behavioral evidence than men do to feel certain of their partner's
+commitment to them (Study 2).
+Keywords: commitment skepticism, error management, judgment, sex differences, mating,
+judgment bias
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Introduction
+Heuristics and biases tend to receive the most attention when they create judgment
+errors (Haselton and Funder, 2006). However, Haselton and Buss's (2000) Error
+Management Theory (EMT) interprets certain heuristics and biases as evidence of adaptive
+cognition and notes that their output is generally useful. EMT states that mental processes
+have evolved over time, with humans developing biases to think or respond in ways that
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -284-
+have increased reproductive success in the past. Virtually all decisions contain some degree
+of uncertainty about which choice will produce the optimal outcome for the person.
+According to EMT, decision makers faced with uncertainty exhibit adaptive biases when
+the decision is in a domain that has had recurring consequences for survival and
+reproduction in the past.
+From a signal detection framework, decision makers can commit two types of
+errors: A false positive (i.e., Type I error) is stating the presence of a stimulus when it is
+absent, whereas a false negative (i.e., Type II error) is failing to recognize the presence of a
+stimulus. According to EMT, there are certain decision-making domains that have recurred
+over evolutionary history in which the two types of errors have reliably differed in their
+cost or benefit to the individual's fitness (Haselton and Buss, 2000). Natural selection has
+shaped humans to be biased to choose the option that, if incorrect, will be the least costly
+error.
+A classic example is the predator-alarm bias (Barrett, 2005). A person who is hiking
+in the woods and hears movement in the leaves should be biased to first interpret the sound
+as a threat (a positive, or "stimulus present," response in signal detection) and react
+correspondingly (e.g., attending to the sound and behaving with caution). In this situation,
+overreacting to a benign noise (a false positive) is a less costly error to one's fitness than
+missing a real threat (a false negative). In this context, the bias toward making a positive
+response is a functional one.
+Based on EMT, Haselton and Buss (2000) propose that men and women should
+exhibit biases in mating decisions, a domain critical to reproduction yet filled with
+uncertainty. Sex differences in reproductive physiology and parental investment (e.g., Buss
+and Schmitt, 1993) create cost asymmetries in men and women's mating decisions, and
+therefore men and women should exhibit different biases when faced with uncertainty
+about a potential mate. Haselton and Buss (2000) predict that women should exhibit a
+commitment-skepticism bias in which they underestimate how committed a male partner
+will be to them, because it is more costly for women (relative to men) to reproduce with a
+partner who will abandon them than to miss an opportunity to reproduce with a partner who
+would remain committed. The former error represents a false positive, whereas the latter is
+a false negative; women should be biased toward making negative judgments (believing a
+potential mate won't be committed) because, if they are incorrect, this error would be less
+costly than a false positive.
+As for men, Haselton and Buss (2000) predict a sexual overperception bias, such
+that men will tend to overestimate a woman's sexual interest in them. Because women are
+"sexual gatekeepers" (Baumeister and Vohs, 2004), missing the opportunity to mate with a
+woman who is interested in them (a false negative) is more costly than pursuing a woman
+who will ultimately reject them (a false positive). The cost of a false positive is wasted time
+and effort courting the woman before receiving her rejection, which is much milder than
+the cost of a false negative: losing a potential opportunity for reproduction.
+Evidence for and flexibility of the commitment-skepticism bias
+There is considerable evidence for a sexual overperception bias in men (e.g.,
+Abbey, 1987; Haselton, 2003; Haselton and Buss, 2000; Henningsen and Henningsen,
+2010; Koenig, Kirkpatrick, and Ketelaar, 2007; Perilloux, Easton, and Buss, 2012),
+although it is moderated by both the perceiver's personality (Jacques-Tiura, Abbey,
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -285-
+Parkhill, and Zawacki, 2007; Perilloux et al., 2012) and the target's mate value (Koenig et
+al., 2007; Perilloux et al., 2012). There are considerably fewer studies on a commitment-
+skepticism bias in women.
+A commitment-skepticism bias is found when women's estimates of men's
+willingness to commit are significantly lower than men's estimates for themselves and for
+other men. Men's estimates for themselves might be slightly inflated as a result of strategic
+self-enhancement; likewise, men might underreport other men's commitment out of a
+desire to derogate potential rivals (Haselton and Buss, 2000). Haselton and Buss suggest
+that the "truth" is most likely somewhere between men's self-estimates and estimates for
+other men, and therefore the most compelling evidence for the commitment-skepticism bias
+is when women's estimates are below both male estimates.
+Haselton and Buss (2000) and Cyrus, Schwarz, and Hassebrauck (2011) have
+observed a commitment-skepticism bias in young women by asking women and men to
+evaluate three targets' willingness to commit in romantic relationships: themselves, typical
+men, and typical women. For example, participants indicate their agreement with questions
+such as, "Most men at my age prefer many different sex partners over getting committed to
+one partner." Young women perceive men in general as less willing to commit than men
+perceive themselves and other men (Cyrus et al., 2011; Haselton and Buss, 2000).
+Henningsen and Henningsen (2010) also observed a commitment-skepticism bias
+during actual male-female dyadic interactions. In their study, opposite-sex undergraduate
+student dyads had a 5-minute face-to-face "getting acquainted" conversation, after which
+they each reported their own and their partner's desire for a committed relationship with
+one another. Overall, women's estimates of their male partners' interest in a committed
+relationship were lower than those men's actual self-reported interest in commitment.
+However, when the women themselves were quite interested in pursuing a committed
+relationship with their partner, they no longer underestimated their partner's commitment (a
+finding to which we will later return).
+The research by Haselton and Buss (2000), Henningsen and Henningsen (2010),
+and Cyrus et al. (2011) represent the only published demonstrations of the commitment-
+skepticism bias that we were able to find, compared to the mature literature on the sexual
+overperception bias in men (in fact, see La France, Henningsen, Oates, and Shaw [2009]
+and Perilloux [2014] for a meta-analysis and review, respectively, on men's sexual
+overperception).
+Just as characteristics of both the perceiver and the target have been found to
+moderate men's sexual overperception, perceiver characteristics also moderate women's
+commitment-skepticism. Specifically, Cyrus et al. (2011) observed that the commitment-
+skepticism bias, as measured by general questions, was only present in women under the
+age of 34. The bias was absent in women who were post-menopausal and therefore did not
+face the risk of pregnancy without partner investment, which is theorized to drive the bias.
+In addition, Peterson, Carmen, and Geher (2013) recently found a positive correlation
+between women's current likelihood of conceiving a child and their perception that men
+want sex without commitment.1 Both datasets indicate that women are more cautious in
+1 This study did not include male participants, so the conclusion from this research is that high conception-
+risk women are more skeptical of men's commitment relative to low conception-risk women. We do not
+know if and to what degree their skepticism underestimated men's self-reported desire for commitment.
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -286-
+their belief that men are willing to commit when the risk of pregnancy without an investing
+partner is greatest. This suggests that the commitment-skepticism bias is "functionally
+flexible" (Schaller, Park, and Kenrick, 2007) rather than fixed.
+It is important to recall, however, that Henningsen and Henningsen (2010) found
+that women accurately estimated their male partner's commitment interest when they
+themselves were quite interested in committing to him. This could indicate simple
+projection of one's own interest onto the target of that interest (for which there is
+considerable evidence; see Koenig et al., 2007; Lenton, Bryan, Hastie, and Fischer, 2007),
+which is how the authors interpreted this finding. Alternatively, we suggest that perhaps
+those women detected a desirable quality in their partners that both increased their
+attraction and inhibited the bias. Although there is no evidence for our suggested
+interpretation, inhibiting the bias when faced with evidence of actual commitment interest
+on the man's part would in fact be quite functional, as it would prevent women from
+missing an opportunity to pursue a high-quality mate (an error that could be quite costly). If
+the commitment-skepticism bias is down-regulated in the presence of a potential mate who
+possesses desirable qualities--such as actual willingness to commit--this would be
+additional, yet novel, evidence of functional flexibility in women's mating cognitions.
+The current research
+The purpose of the current research was to test the conditional nature of the
+commitment-skepticism bias. We suggest that women's skepticism of men's commitment
+is responsive to men's behavior. First, we predict that when women receive information
+suggesting that a man is indeed committed, the commitment-skepticism bias will be
+diminished. However, this does not mean that women should be quick to interpret any
+potential sign of commitment as indisputable evidence of commitment. Instead, women
+should be discriminating in what they consider a valid sign of commitment. To this end,
+our second prediction was that women will have a higher threshold than men for accepting
+a partner's actions as evidence of commitment.
+We conducted two studies to test our hypotheses. These were preceded by a pilot
+study in which we first sought to replicate the commitment-skepticism bias with our
+particular participant population (individuals recruited via Amazon.com's Mechanical
+Turk) while using the same measure of general commitment beliefs used by other
+researchers. After establishing that the commitment-skepticism bias is indeed present in our
+population, we conducted Study 1 using the same population and the same measure to test
+whether the bias is reduced by behavioral evidence that a partner wants commitment in the
+relationship.
+Behavior can be a rich source of information about another person's intentions and
+disposition. Of course, people can also strategically change their behavior to produce a
+desired impression, but in general perceivers form fairly accurate impressions of other
+people based on their behavior (e.g., Funder, 1995; Vazire, 2010). A committed man may
+be considered a "limited resource" for which women compete with one another (Bleske and
+Shackelford, 2001), and if certain relationship-enhancing behaviors are indeed evidence of
+genuine commitment, "missing" this signal may actually become the more costly error. In
+other words, if women down-regulate their skepticism about men's commitment in the face
+of compelling evidence of commitment, this might be evidence of functional flexibility in
+cognitive biases.
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -287-
+We conducted Study 1 to test our interpretation that specific relationship-enhancing
+behaviors are a signal that reduces the commitment-skepticism bias in women, and we did
+this by selecting behaviors that were pre-tested to be seen as highly indicative of
+commitment. However, there are other, easy-to-fake behaviors that people can engage in to
+falsely convince a partner of their commitment intentions. The existence of these behaviors
+makes it maladaptive for women to relax the bias in the presence of any evidence of
+commitment. Therefore, Study 2 compared men and women's thresholds for perceiving
+commitment in a partner, and we predicted that women would require more behavioral
+evidence than men before they are certain of a partner's commitment. Collectively, the goal
+of these two studies is to show that while the commitment-skepticism bias exists, it is also
+functionally flexible, such that women do not continue to doubt their partners when
+presented with diagnostic evidence of commitment intent.
+Pilot study
+Overview
+A pilot study was first conducted to test whether the commitment-skepticism bias is
+replicated in the participant population we intended to use for Studies 1 and 2.
+Materials and Methods
+Participants
+A total of 130 participants were recruited from Amazon.com's Mechanical Turk
+(MTurk; see Buhrmester et al., 2011). MTurk is an online system in which businesses and
+researchers (called "requesters") offer a small amount of monetary compensation for
+participants (called "workers") to complete brief and simple online tasks. In all studies
+reported here, we limited our survey to participants residing in the United States.
+Participants were paid 15 cents for their time.
+Because the commitment-skepticism bias concerns heterosexual relationships, we
+only analyzed the data of participants who revealed a heterosexual orientation (by
+indicating that they are most attracted to the opposite sex). In addition, because Cyrus et al.
+(2011) found commitment-skepticism only in younger women, we used their age cut-off of
+34 or younger.2 After excluding non-heterosexual and participants older than 34, our final
+sample consisted of 82 participants (37 men, 45 women; Mage
+= 25.26; SDage
+= 4.63).
+Measures
+We used each of Cyrus et al.'s (2011) unique questions about commitment
+perceptions. Specifically, we used items 1­5 from their Study 1 and items 2­7 from their
+Study 2 (item 1 from Study 2 was redundant with item 5 from Study 1). Participants
+answered these 11 items in three blocks: in reference to the self (e.g., "I prefer many
+different sex partners over getting committed to one partner"), in reference to men in their
+age group (e.g., "A typical man at my age needs to know that a woman loves him before he
+is willing to have sex with her"), and in reference to women in their age group (e.g., "As
+2 When older participants are included in the sample, we still obtained a significant commitment-skepticism
+bias.
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -288-
+long as a woman at my age can have lots of sex without commitment, she will avoid getting
+committed to one man"). Depending on block, participants indicated the extent to which
+they thought each statement was true of themselves, men in their age group, or women in
+their age group on a scale of 1 (strongly disagree) to 7 (strongly agree).
+Participants completed each of the three commitment blocks in the same order: self,
+same-sex, and opposite-sex. The scale was reliable (women rating self  = .85; men rating
+self  = .82; women rating men  = .86; men rating men  = .83; women rating women  =
+.87; men rating women  = .88).
+Procedure
+After providing informed consent, participants indicated whether they were most
+attracted to men or women. They then completed each of the three commitment blocks,
+followed by demographic questions.
+Results and Discussion
+The commitment-skepticism hypothesis is that women will underestimate a male
+partner's commitment, relative to men's self-reported commitment and same-sex reports.
+First, women perceived less commitment in men (M = 3.04, SD = .93) than men
+perceived in other men (M = 3.50, SD = .91), t(80) = 2.23, p = .029, d = .50, and less than
+men reported for themselves (M = 5.04, SD = .92), t(80) = 9.73, p < .001, d = 2.16.
+Women's underestimation of men's commitment, relative to both men's impression of
+other men and of themselves, reflects the commitment-skepticism bias. Not surprisingly,
+men saw themselves as considerably more committed than other men, t(36) = 6.12, p <
+.001, d = 1.01, which could reflect both self-enhancement and rival derogation.
+Second, men's perception of women's commitment (M = 4.75, SD = .91) did not
+differ from women's perception of other women's commitment (M = 4.73, SD = .99), t(80)
+= .09, p = .93, d = .02. Replicating Cyrus et al. (2011), women saw themselves as more
+committed (M = 5.92, SD = .94) than men saw women, t(80) = 5.67, p < .001, d = 1.26.
+Cyrus et al. (2011, p. 11) interpret this as evidence that women also use self-enhancement
+tactics. Supporting this self-enhancement interpretation, women (like men) rated their own
+commitment significantly higher than they rated the commitment of other members of their
+sex, t(44) = 6.13, p < .001, d = .92.
+To summarize, we successfully replicated the commitment-skepticism bias using a
+sample of adults recruited from MTurk and measuring commitment with questions
+assessing general perceptions of oneself, the same sex, and the opposite sex (e.g., Cyrus et
+al., 2011).
+Study 1
+Overview
+We predicted that the commitment-skepticism bias is functionally flexible, such that
+women will not exhibit the bias when faced with diagnostic cues about a man's willingness
+to commit to his partner. To test this, we manipulated whether participants reported their
+perceptions of commitment while imagining that a romantic partner had displayed certain
+commitment-signaling behaviors. The control condition was similar to the pilot study. In
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -289-
+the behavior condition, participants were told to imagine they were evaluating a person
+who had displayed the four commitment-signaling behaviors. These behaviors were
+selected based on a second pilot study, n = 74, in which participants rated the degree of
+commitment conveyed by various relationship behaviors.
+Materials and Methods
+Participants
+A total of 261 participants were recruited from MTurk. They were paid 20 cents for
+their time. In addition to asking participants which sex they were most attracted to (as we
+did in the pilot study), we also asked participants to self-report their sexual orientation at
+the end of the study. Participants' reported attraction did not always match their reported
+sexual orientation, which could reflect bisexuality or inattentive responding. To be
+cautious, we only analyzed the data of participants who both self-reported as heterosexual
+and indicated being most attracted to the opposite sex. After excluding non-heterosexual
+participants and those over the age of 34, our final sample had 117 men and 51 women
+(Mage
+= 25.92; SDage
+= 4.63).
+Measures
+Participants rated their agreement with the same 11 statements about commitment
+perceptions (e.g., "A typical man at my age needs to know that a woman loves him before
+he is willing to have sex with her") that were used in the pilot study (from Cyrus et al.,
+2011). They rated their perceptions in three blocks, ordered as follows: opposite-sex, same-
+sex, self. Each statement was rated on a scale of 1 (strongly disagree) to 7 (strongly agree).
+In the control condition, participants were simply told, "Please answer the following
+questions [about yourself]/[based on a typical heterosexual man in your age group]/[based
+on a typical heterosexual woman in your age group]."
+Prior to seeing the commitment statements, participants in the behavior condition
+were told to imagine they were rating someone who had engaged in certain behaviors.
+Below are the instructions that participants saw in the self-block (the male version is
+displayed; pronouns were switched for female participants):
+Regardless of your current relationship status, please imagine that you are dating a
+woman and you display these behaviors:
+ You surprise her with a gift of something she once mentioned she really wanted.
+ You cancel your plans when she needs help with something.
+ You stay up late to talk to her about problems she's having, even though you
+have to wake up early.
+ You tell your friends about how great she is.
+Please answer the following questions based on this imagined version of yourself.
+For the same-sex and opposite-sex blocks, similar instructions were used. For
+example, the male same-sex instructions began: "Please imagine a typical heterosexual man
+in your age group. Imagine that this man is dating a woman and displays these behaviors:
+He surprises her with a gift of something she once mentioned she really wanted..." etc.,
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -290-
+and ended with, "Please answer the following questions based on your impression of this
+man."
+The measure of commitment perceptions was reliable (women rating self  = .88;
+men rating self  = .91; women rating men  = .96; men rating men  = .92; women rating
+women  = .88; men rating women  = .89).
+Procedure
+After providing informed consent, participants indicated their own sex and the sex
+to which they were most attracted. They were then randomly assigned to either the control
+or behavior condition. The last page of the survey contained demographic questions.
+Results
+Perceptions of men
+Does women's underestimation of men's commitment depend on whether they are
+judging the commitment of a typical man or a man who has engaged in behaviors that
+convey commitment? We conducted two 2 (sex) × 2 (condition) ANOVAs on perceived
+commitment in men. The variable of sex in the first ANOVA represented women's ratings
+of men versus men's self-ratings. In the second ANOVA, sex represented women's ratings
+of men versus men's ratings of other men.
+The first ANOVA revealed two significant main effects, which were qualified by a
+significant interaction, F(1, 164) = 19.44, p < .001, p
+2 = .11. Simple effects analyses
+showed that in the control condition, women underestimated men's commitment (M = 3.55,
+SD = 1.08) relative to men's self-ratings (M = 4.95, SD = 1.26), F(1, 164) = 25.61, p <
+.001, p
+2 = .14. However, the commitment skepticism bias did not occur in the behavior
+condition; women's perception of men (M = 5.30, SD = 1.18) did not significantly differ
+from men's self-ratings (M = 4.97, SD = 1.11), F(1, 164) = 1.41, p = .237, p
+2 = .01. In fact,
+in the behavior condition women tended to see more commitment in men's behavior than
+men reported for themselves. Analyzing the simple effects another way, men's perceptions
+of their own commitment was unaffected by condition, F(1, 164) = .01, p = .932, p
+2 < .01,
+whereas women's perception of men's commitment was significantly greater in the
+behavior condition, F(1, 164) 28.52, p < .001, p
+2 = .15. In other words, the behavior
+manipulation eliminated the commitment-skepticism bias by increasing women's
+perception of men's commitment.
+When women's underestimation was judged by comparing their perceptions of men
+to men's perceptions of other men (instead of men's self-ratings), the commitment-
+skepticism bias was not replicated. This 2 × 2 ANOVA also revealed a marginally
+significant interaction, F(1, 164) = 2.88, p = .092, p
+2 = .02, but the pattern differed from
+the significant interaction with men's self-ratings. In the control condition, women's
+perceptions of men (see previous paragraph for Ms) did not significantly differ from men's
+perceptions of other men (M = 3.47, SD = .78), F(1, 164) = .13, p = .724, p
+2 < .01.
+However, in the behavior condition, women saw men as more committed than men saw
+other men (M = 4.64, SD = 1.09), F(1, 164) = 7.53, p = .007, p
+2 = .04. Recall that the same
+pattern was observed when men's self-ratings were the referent (i.e., the first ANOVA), but
+the pattern was not significant. This hints that men may believe other men are being
+deceptive or strategic when they engage in these behaviors (to convince their partners of
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -291-
+their commitment), but believe that these behaviors indicate genuine commitment if they
+engage in these actions themselves.
+As in the pilot study, men rated themselves as significantly more committed than
+other men, t(116) = 7.47, p < .001, d = .69. If self-enhancement and rival derogation cause
+inflated self-ratings and underestimated same-sex ratings, with the true estimate of men's
+commitment lying somewhere in the middle, it could be worth comparing women's ratings
+of men to the mean of men's self and same-sex ratings. The mean score of men's self-
+rating and same-sex rating in the control condition was 4.21, and women's rating of men in
+the control condition was significantly below this mean, t(25) = -3.11, p = .005, indicating
+commitment-skepticism. In contrast, the mean of men's self and same-sex ratings in the
+behavior condition was 4.81, and women's rating of men was significantly greater than this
+mean, t(24) = 2.07, p = .049. This means that women underestimated men's commitment in
+the control condition but overestimated men's commitment intentions when judging a man
+who had engaged in relationship-enhancing behaviors. In other words, the behavior
+condition reversed the commitment-skepticism bias (see Figure 1).
+For interested readers, we also conducted the analyses with older participants
+included. These analyses replicated all significant main effects and interactions reported
+above.
+Figure 1. Men and women's ratings of men's commitment by condition
+1
+2
+3
+4
+5
+6
+7
+Women's rating of
+men
+Men's same-sex
+rating
+Men's self-rating
+Perceived Commitment
+Control
+Behavior
+Perceptions of women
+We conducted two 2 (sex) × 2 (condition) ANOVAs on perceived commitment in
+women, the first comparing men's perception of women to women's self-ratings and the
+second comparing men's perception of women to women's perceptions of other women.
+The first ANOVA revealed only a main effect of sex, F(1, 164) = 44.65, p < .001,
+p
+2 = .21, with men seeing women as less committed (M = 5.17, SD = .89) than women see
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -292-
+themselves (M = 6.12, SD = .82). This pattern was also found in the pilot study and in
+Cyrus et al.'s (2011) research.
+The second ANOVA revealed only two significant main effects. Men saw women
+as less committed than women saw other women (M = 5.56, SD = .86), F(1, 164) = 7.66, p
+= .006, p
+2 = .05. In addition, ratings of women's commitment were higher in the behavior
+condition (M = 5.46, SD = .95) than in the control condition (M = 5.12, SD = .80), F(1,
+164) = 4.36, p = .038, p
+2 = .03. The main effect of behavior is not surprising, although the
+main effect of sex reveals that men are underestimating women's commitment in this study.
+Lastly, like men, women rated themselves as significantly more committed than
+other members of their sex, t(50) = 5.42, p < .001, d = .77.
+Once again, for interested readers we repeated the analyses with older participants
+included. All significant main effects and interactions replicated in these analyses, although
+the non-significant interaction (p = .167) between women's self-ratings and men's ratings
+of women became significant, F(1, 224) = 6.51, p = .011, p
+2 = .028. This interaction
+revealed that, when older adults are included in the sample, the behavior condition
+significantly increased men's perception of women's commitment, F(1, 224) = 11.43, p =
+.001, p
+2 = .05, but it did not change women's self-ratings, F(1, 224) = .45, p = .505, p
+2 <
+.01.
+Discussion
+In the control condition--which mirrored the pilot study--we replicated the
+commitment-skepticism bias when comparing women's perception of men to men's
+perception of themselves, but not when comparing women's perception of men to men's
+perceptions of other men. However, we did replicate the commitment-skepticism bias when
+the male referent was the statistical mean of men's ratings of themselves and other men
+(which may be considered a better estimate of men's true commitment because it adjusts
+for both self-enhancement and rival derogation). Surprisingly, the behavior condition did
+not simply eliminate the bias; it completely reversed it, so women actually overestimated
+men's commitment.
+Although we interpret our data as women being sensitive to men's behavior--
+because behavior provides evidence of actual commitment intentions--it's worth noting
+that the behavior manipulation did not affect men's self-ratings of commitment. In other
+words, men's reported interest in a committed relationship was not affected by imagining
+that they had exhibited relationship-enhancing behaviors. We see two possible
+interpretations of this: First, it may be that men use these behaviors to convince their
+partners that they desire commitment, and therefore these behaviors are strategic rather
+than diagnostic. In other words, men know the behaviors are simply "for show," but
+women are convinced by them. A second, and very different, explanation is that women are
+indeed underestimating men's true commitment when they show skepticism, and therefore
+the presence or absence of relationship-enhancing behaviors may not reflect actual
+differences in a man's degree of commitment. Instead, the behaviors may reflect
+commitment that is already present. To put it in signal detection terms, women's default
+commitment-skepticism may reflect a conservative criterion that causes them to "miss" the
+presence of genuine commitment signals. Only when the signal is strengthened by the
+presence of relationship-enhancing behaviors will it meet women's high threshold for
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -293-
+detection. This means that imagining the behaviors doesn't change men's self-reported
+commitment because men already know they are committed, whereas women require those
+behaviors to relax their skepticism.
+The design of Study 1 does not allow us to test these two possible explanations, but
+it does provide compelling evidence that the commitment-skepticism bias is not rigid. Just
+as it responds to women's risk of conception (Cyrus et al., 2011), it yields when faced with
+contradictory evidence.
+But what, exactly, is considered "evidence" of commitment? Do men and women
+perceive the same relationship behaviors as equally diagnostic evidence of commitment?
+Based on EMT, we predict that women have a higher threshold than men when it comes to
+how much evidence is necessary to believe their partner is committed. In Study 1, we
+intentionally exposed participants in the behavior condition to behaviors that were pre-
+tested to be highly indicative of commitment. EMT makes predictions about decisions
+made under uncertainty, and this behavioral evidence reduces some uncertainty. Study 2
+tries to pinpoint where the criterion shift for commitment certainty occurs. We predict that
+more behavioral evidence is needed to reach women's "commitment threshold" than men's.
+Study 2
+Overview
+To compare men and women's commitment thresholds, we developed a list of
+behaviors that could be used to signal commitment. The behaviors varied in how
+"convincing" they were, with some being easy to fake. Participants read the behaviors in
+ascending order of commitment strength while imagining that the behaviors were
+performed by their romantic partner. Participants indicated at what point they would feel
+certain about their partner's commitment to them, and that point represented the
+participant's commitment threshold. We predicted that women would have a higher
+threshold for commitment certainty than men.
+Materials and Methods
+Participants
+A total of 120 participants were recruited from MTurk. After excluding non-
+heterosexual participants (using the same criteria as Study 1), participants over the age of
+34, and those who failed an attention-check measure (described below), our final sample
+had 40 men and 36 women (Mage
+= 26.14; SDage
+= 4.51). Participants received 20 cents for
+participating.
+Procedure
+After providing informed consent, participants read the following instructions:
+In this survey, please imagine that you've been dating someone for 2
+months. The following pages will each display a behavior you should imagine your
+dating partner doing. Imagine these behaviors are happening in order: First your
+partner does the behavior on page 1, then your partner does the behavior on page 2,
+after that your partner does the behavior on page 3... And so on.
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -294-
+Your task is to decide if your partner is committed to you, based on his/her
+behavior. If the first behavior does not make you certain of your partner's
+commitment, then click "no" below that behavior and proceed to the next one.
+Proceed until you feel absolutely certain that your partner is truly committed to you.
+Once you feel certain your partner is committed, click "yes."
+There is no rule for what it means to be "truly committed." Go by whatever
+feels right to you. Select the number 3 below to show that you understand these
+instructions.
+The last sentence served as a quality control measure, as participants' responses indicated
+whether they had paid attention to the instructions. We only analyzed the data of
+participants who selected the correct number.
+Following the instructions, participants saw up to nine behaviors, one presented per
+survey page. Each page would display a behavior, followed by two answer options: "Yes,
+my partner is definitely committed to me," and "No, I'm not absolutely certain of my
+partner's commitment."
+Selecting "Yes" would terminate the task, causing the survey to skip the remaining
+behaviors and proceed immediately to a final set of demographic questions. Participants'
+commitment threshold score was the number of behaviors they viewed before selecting
+"Yes." If a participant still said "No" for the ninth and final behavior, they were given a
+score of 10.
+The behaviors were selected based on a pilot test (n = 47) in which male and female
+participants recruited via MTurk were asked to list three types of commitment behaviors
+that could be performed with a romantic partner of two months. We defined commitment
+behaviors as "behaviors people could perform to convince their romantic partner that
+they're committed to that person and the relationship." The three categories were low
+commitment (defined as "behaviors you could do to make your romantic partner believe
+you're committed, when the truth is that you aren't strongly committed to your partner (i.e.,
+`easy to fake' behaviors)"), moderate commitment ("behaviors you could do to make your
+romantic partner believe you're committed, when the truth is that you're moderately
+committed to your partner"), and high commitment ("behaviors you could do to make your
+romantic partner believe you're committed, and the truth is that you're definitely strongly
+committed to your partner"). We selected behaviors that were frequently listed within a
+single category by both male and female participants. We arranged the behaviors to appear
+in ascending degrees of commitment. They were:
+1. Your partner gives you a small gift.
+2. Your partner texts you occasionally.
+3. Your partner takes you on frequent dates.
+4. Your partner changes his/her relationship status on Facebook to "in a
+relationship" with you.
+5. Your partner wants to go on a vacation with you.
+6. Your partner introduces you to his/her family.
+7. Your partner asks you to move in with him/her.
+8. Your partner proposes marriage.
+9. Your partner shares all of his/her assets with you.
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -295-
+Results and Discussion
+Women required more behaviors (M = 4.47, SD = 2.75) to be certain of a partner's
+commitment than men did (M = 3.30, SD = 2.32), t(74) = 2.01, p = .048, d = .46. The
+difference remains significant with older participants included in the sample, t(102) = 3.53,
+p = .001, d = .70. In other words, as predicted, women have a higher threshold for certainty
+of a partner's commitment than men do.
+General Discussion
+The goal of our research was to test the functional flexibility of women's
+commitment-skepticism bias. We predicted that the bias would be responsive to men's
+behavior. In Study 1, women were not skeptical of a man's commitment if that man had
+engaged in multiple commitment-signaling behaviors. We intentionally chose behaviors
+that were highly indicative of commitment, and these behaviors not only reduced the bias,
+but even reversed it. This shows the conditional nature of women's evolved mating
+cognitions, such that they shift away from negative responses (in signal detection terms)
+when faced with diagnostic evidence of commitment. However, the system would be
+flawed if it responded to any relationship-enhancing behavior as evidence of commitment.
+Therefore, in Study 2 we compared the sensitivity of this system in men and women,
+predicting that women's system would require more evidence (i.e., a stronger signal) than
+men's before switching from a negative response to a positive one. We asked participants
+to imagine their romantic partner engaging in a series of behaviors that became
+increasingly indicative of commitment over time. As predicted, women required more
+behavioral evidence to be certain of a partner's commitment than men did.
+Our theory is that the commitment-skepticism bias in women is inherently flexible;
+it will not persist in the face of contradictory evidence (i.e., evidence that a man is indeed
+committed). If the bias were to persist despite clear evidence of actual commitment
+intentions from a potential (or current) partner, this would be maladaptive for women.
+There is evidence that women see "good husbands" as a limited resource for which they
+must compete (Eichenbaum and Orbach, 1987, as cited in Bleske and Shackelford, 2001),
+and if committed men are indeed valuable, then a woman who "misses" such a partner (a
+false negative error) is facing a costly loss. Women's decision system is carefully calibrated
+to respond to evidence of commitment; the priority is to avoid false positives, but probable
+misses are also minimized. In signal detection terms, women, relative to men, require a
+stronger signal of commitment before shifting from a negative to a positive response.
+Future directions and conclusion
+Our research suggests that relationship-enhancing behaviors are one contextual cue
+that may lessen the commitment-skepticism bias. The duration of a relationship may be
+another important moderating factor. The commitment-skepticism bias is probably
+strongest during early courtship between a man and woman, at which time the likelihood of
+actual commitment on the man's part may indeed be quite low. However, as early
+acquaintance develops into a relationship, women may begin to relax their skepticism. The
+simple cue of relationship duration may be enough to reduce or even eliminate the bias,
+because the mere fact that the two are in an ongoing relationship evinces the male partner's
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -296-
+interest in a long-term connection. In this case, the current duration of the relationship may
+indeed be a valid cue of both partners' commitment intentions. It is also possible that
+duration effects will be moderated by the presence or absence of specific commitment-
+implying behaviors as well, given the results of the present research.
+It is also interesting to note that men showed some skepticism of women's
+commitment, relative to women's self-ratings, in our pilot study and Study 1. This pattern
+was also observed by Cyrus et al. (2011) and is worth investigating in future research.
+Lastly, an alternative explanation for Study 1's interaction between sex and
+behavior condition--specifically, that only women were influenced by the presence of
+commitment behavior--is that women are more accurate than men when perceiving social
+behavior. This explanation is consistent with past research showing that women decode
+interpersonal cues more accurately than men (e.g., Ambady, Hallahan, and Rosenthal,
+1995; Hall, 1984). Although this interpretation remains possible, the findings of Study 2
+support the conclusion that women's perceptions of partner commitment are more sensitive
+to behavioral cues than are men's perceptions.
+To conclude, the current research replicates the existence of a commitment-
+skepticism bias in women while also showing that the bias is responsive to men's behavior,
+with behavior being a useful signal of commitment probability. This contributes to the
+growing literature on adaptive cognition that is sensitive to contextual shifts in risks and
+opportunities (e.g., Park, Schaller, and Crandall, 2007; Schaller, 2011; Schaller et al.,
+2007).
+Received 26 August 2014; Revision submitted 22 January 2015; Accepted 19
+February 2015
+References
+Abbey, A. (1987). Misperceptions of friendly behavior as sexual interest: A survey of
+naturally occurring incidents. Psychology of Women Quarterly, 11, 173­194.
+Ambady, N., Hallahan, M., and Rosenthal, R. (1995). On judging and being judged
+accurately in zero-acquaintance situations. Journal of Personality and Social
+Psychology, 69, 518­529.
+Barrett, H. C. (2005). Adaptations to predators and prey. In D. M. Buss (Ed.), The
+handbook of evolutionary psychology (pp. 200­223). Hoboken, NJ: Wiley.
+Baumeister, R. F., and Vohs, K. D. (2004). Sexual economics: Sex as female resources for
+social exchanges in heterosexual interactions. Personality and Social Psychology
+Review, 8, 339­363.
+Buhrmester, M., Kwang, T., & Gosling, S. (2011). Amazon's Mechanical Turk: A new
+source of inexpensive, yet high-quality data? Perspectives on Psychological
+Science, 6, 3-5.
+Bleske, A. L., and Shackelford, T. K. (2001). Poaching, promiscuity, and deceit:
+Combatting mating rivalry in same-sex friendships. Personal Relationships, 8, 407­
+424.
+Buss, D. M., and Schmitt, D. P. (1993). Sexual Strategies Theory: an evolutionary
+perspective on human mating. Psychological Review, 100, 204­232.
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -297-
+Cyrus, K., Schwarz, S., and Hassebrauck, M. (2011). Systematic cognitive biases in
+courtship context: Women's commitment­skepticism as a life-history strategy?
+Evolution and Human Behavior, 32, 13­20.
+Eichenbaum, L., & Orbach, S. (1987). Between women: Love, envy, and competition in
+women's friendships. New York: Penguin Books.
+Funder, D. C. (1995). Stereotypes, base rates, and the fundamental attribution mistake: A
+content-based approach to judgmental accuracy. In Y. Lee, L. J. Jussim, and C. R.
+McCauley (Eds.), Stereotype accuracy: Toward appreciating group differences (pp.
+141­156). Washington, DC: American Psychological Association.
+Hall, J. A. (1984). Nonverbal sex differences: Communication accuracy and expressive
+styles. Baltimore, MD: John Hopkins University Press.
+Haselton, M. G. (2003). The sexual overperception bias: Evidence of a systematic bias in
+men from a survey of naturally occurring events. Journal of Research in
+Personality, 37, 34­47.
+Haselton, M. G., and Buss, D. M. (2000). Error management theory: A new perspective on
+biases in cross-sex mind reading. Journal of Personality and Social Psychology, 78,
+81­91.
+Haselton, M. G., and Funder, D. C. (2006). The evolution of accuracy and bias in social
+judgment. In M. Schaller, J. A. Simpson, and D. T. Kenrick (Eds.), Evolution and
+social psychology (pp. 15­37). Madison, CT: Psychosocial Press.
+Henningsen, D., and Henningsen, M. (2010). Testing error management theory: Exploring
+the commitment skepticism bias and the sexual overperception bias. Human
+Communication Research, 36, 618­634.
+Jacques-Tiura, A. J., Abbey, A., Parkhill, M. R., and Zawacki, T. (2007). Why do some
+men misperceive women's sexual intentions more frequently than others do? An
+application of the confluence model. Personality and Social Psychology Bulletin,
+33, 1467­1480.
+Koenig, B. L., Kirkpatrick, L. A., and Ketelaar, T. (2007). Misperception of sexual and
+romantic interests in opposite-sex friendships: Four hypotheses. Personal
+Relationships, 14, 411­429.
+La France, B. H., Henningsen, D. D., Oates, A., and Shaw, C. M. (2009). Social-sexual
+interactions? Meta-analyses of sex differences in perceptions of flirtatiousness,
+seductiveness, and promiscuousness. Communication Monographs, 76, 263­285.
+Lenton, A. P., Bryan, A., Hastie, R., and Fischer, O. (2007). We want the same thing:
+Projection in judgments of sexual intent. Personality and Social Psychology
+Bulletin, 33, 975­988.
+Park, J. H., Schaller, M., and Crandall, C. S. (2007). Pathogen-avoidance mechanisms and
+the stigmatization of obese people. Evolution and Human Behavior, 28, 410­414.
+Perilloux, C. (2014). (Mis)reading the signs: Men's perception of women's sexual interest.
+In V. A. Weekes-Shackelford and T. Shackelford (Eds.), Evolutionary perspectives
+on human sexual psychology and behavior (pp. 119­133). New York: Springer.
+Perilloux, C., Easton, J. A., and Buss, D. M. (2012). The misperception of sexual interest.
+Psychological Science, 2, 146­151.
+Peterson, A., Carmen, R., and Geher, G. (2013). Ovulatory shifts in mating
+intelligence. Journal of Social, Evolutionary, and Cultural Psychology, 7, 66­75.
+Schaller, M. (2011). The behavioral immune system and the psychology of human
+Functional flexibility in women's commitment-skepticism bias
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 13(2). 2015. -298-
+sociality. Philosophical Transactions of the Royal Society B: Biological Sciences,
+366, 3418­3426.
+Schaller, M., Park, J. H., and Kenrick, D. T. (2007). Human evolution and social cognition.
+In R. I. M. Dunbar and L. Barrett (Eds.), The Oxford handbook of evolutionary
+psychology (pp. 491­504). Oxford, UK: Oxford University Press.
+Vazire, S. (2010). Who knows what about a person? The Self-Other Knowledge
+Asymmetry (SOKA) model. Journal of Personality and Social Psychology, 98,
+281­300.
+

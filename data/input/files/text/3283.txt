@@ -1,0 +1,943 @@
+SAGE Open
+January-March 2013: 1
+­10
+© The Author(s) 2012
+DOI: 10.1177/2158244012472687
+http://sgo.sagepub.com
+Introduction
+Child sexual abuse (CSA) is a social and public health con-
+cern locally and globally (Gwirayi, 2010; Pinheiro, 2006;
+United Nations International Children's Emergency Fund
+[UNICEF], 2010; World Health Organization [WHO], 2004;
+Zink, Klesges, Stevens, & Decker, 2009). Following research
+evidence regarding the devastating consequences of CSA,
+different countries have been and continue to grapple with
+various prevention programs. Regrettably, like other aspects
+of CSA, research on prevention programs also took center
+stage in developed countries. The prevention strategies that
+have been mooted cover both proximal and distal levels in
+the child's ecology, namely, the individual, family, commu-
+nity, and societal contexts. Extant literature suggests that
+prevention programs dovetail into three main themes, which
+are justice system practices, educational programs, and out-
+reach programs. The evaluation evidence relevant to each
+category of prevention is highlighted in this presentation.
+Justice System Strategies
+Several prevention programs have been developed under
+this category. These include the strengthening of existing
+legislation and policies, offender registration, community
+notification, sentence lengthening and civil commitment,
+and enhanced detection and control. Most of these preven-
+tion programs were started in developed countries, espe-
+cially the United States, while the focus in developing
+countries, particularly in Africa, has been on harmonizing
+national laws with international laws on child protection
+(African Child Policy Forum [ACPF], 2008).
+Harmonization of National and International Laws
+Laws are the bricks and mortar of all efforts aimed at the
+realization of child rights (ACPF, 2008). Laws are believed
+to have "primary prevention" effects, because in theory the
+fear of swift, certain, and serious punishment by the justice
+system may deter the abuse before it happens (Finkelhor,
+2009). In Zimbabwe, CSA is a criminal offense and is pun-
+ishable by law. Existing pieces of legislation such as the
+Sexual Offences Act (2001) and the Domestic Violence Act
+(2006) have been harmonized with international law in an
+effort to protect children against sexual abuse. Furthermore,
+the Southern African region has made significant legal
+472687
+SGOXXX10.1177/215
+8244012472687SAGE OpenGwirayi
+2012
+1Midlands State University, Gweru, Zimbabwe
+Corresponding Author:
+Pesanayi Gwirayi, Midlands State University, Educational Foundations,
+Private Bag 9055, Gweru, N/A, Zimbabwe
+Email: pgwirayi@gmail.com
+Fighting Child Sexual Abuse: Perspectives
+of Pupils From a Developing Country
+Pesanayi Gwirayi1
+Abstract
+This study investigated secondary school pupils' views on strategies that can be used to prevent child sexual abuse (CSA).
+A survey design was adopted as the operational framework for data gathering. Data were collected from three secondary
+schools,all in the Gweru district of Zimbabwe.The sample comprised 268 secondary pupils (50% female;M age = 15.42,SD =
+1.376).Each participant was asked to write down three main strategies that can be used to fight CSA on a given questionnaire.
+The responses were then analyzed using the thematic content analysis technique.The study revealed that most pupils believed
+that CSA can be prevented through teaching them about it and also reporting to the police. Another significant finding
+was that pupils' responses tended to vary with gender and level of education.Whereas female respondents suggested that
+CSA can be fought by avoiding strangers, saying no to sexual advances, and having reliable friends, their male counterparts
+suggested teaching the community about CSA, forming new clubs, and enacting life imprisonment for perpetrators, among
+other suggestions. In terms of level of education, Form 2 participants suggested avoiding strangers, staying home at night,
+whereas their Form 4 counterparts suggested lessons for Guidance and Counseling, saying no to sexual advances, and having
+reliable friends.These findings unequivocally demonstrate the need to vigorously engage secondary school pupils in activities
+aimed at fighting CSA to safeguard their inalienable human rights.
+Keywords
+child sexual abuse, secondary school pupils, human rights, Zimbabwe
+2 SAGE Open
+achievements as shown by the harmonization of national
+laws with the Convention on the Rights of the Child (CRC;
+United Nations General Assembly, 1989) and the African
+Charter on the Rights and Welfare of the Child (Organization
+of African Unity [OAU], 1990) in most countries. With
+increased realization of the widespread assault on young
+children, especially girls, governments in the region have
+made attempts to curb the trend by enacting various sexual
+offenses acts (Beyond Inequalities, 2008).
+Despite the existence of national and international laws,
+CSA remains a serious problem, not only in Zimbabwe but
+alsoinotherdevelopinganddevelopedcountries.Accordingly,
+the efficacy of existing laws has been seriously questioned.
+Shumba (2006) believes that both local and international laws
+have failed to protect children against sexual abuse. This is
+buttressed by Briggs (2005) who reports that students have
+been sexually abused by staff in some of Australia's most
+expensive and prestigious schools and that those in boarding
+schools seem to have been particularly vulnerable. Similar
+reports have been made in different parts of the world. What
+boggles the mind is why all this is happening when laws
+against sexual abuse are in place. Several reasons have been
+proffered to explain the status quo. Referring to the situation
+in Australia, Briggs says that sex offenders are choosing
+younger victims because they know that the criminal justice
+system does not protect them. Regrettably, this characteriza-
+tion seems to be symptomatic of most countries, including
+Zimbabwe. For instance, Smith (2009) reveals that out of
+4,000 known rape cases in the country, only 500 end up in
+successful prosecutions. Similarly, inAfrica, nonexistent and/
+or weak enforcement mechanisms have been cited (ACPF,
+2008; Beyond Inequalities, 2008). As Van Niekerk (1999)
+argues, the lack of or inadequate service delivery (especially
+of legal services) from all sectors communicate to sex offend-
+ers that they can continue to abuse with impunity, and to fam-
+ilies and children that they will not be protected. Although
+existing laws are meant to safeguard children against sexual
+violence, literature suggests that they seem to have fallen
+short in doing so, both in developing and developed
+countries.
+Offender Registration
+Sex offender registration policies that allowed registries to
+become public were introduced in the United States in 2006
+(Kernsmith, Craun, & Foster, 2009). It is a prevention strategy
+that is not yet in place in Zimbabwe and other developing
+countries. According to Finkelhor (2009), the enforcement of
+sex offender registration was meant to facilitate the apprehen-
+sion of recidivistic offenders and also to prevent crime by
+deterring existing and future offenders. However, critics argue
+that such kind of registration makes it difficult for offenders
+to reintegrate into society and thus violates the rights of those
+who have already paid their debt to society, especially those
+forced to register retroactively (Finkelhor, 2009).
+In the United States, sex offender registration as a strat-
+egy seems to be popular with the general public (Kernsmith
+et al., 2009; Levenson, Brannon, Fortney, & Baker, 2007;
+Phillips, 1998). For instance, in one study, 95% of the
+respondents agreed that the name and photograph of regis-
+tered sex offenders should be available to the public
+(Levenson et al., 2007). In another study, more than 80% of
+Washington State residents believed community notification
+laws were very important (Phillips, 1998). Further evidence
+for the popularity of sex offender registration comes from a
+study with a general population sample from Massachusetts
+which found that on a scale from 1 (strongly disapprove) to
+10 (strongly approve), participants' score averaged more
+than 8 in support of public sex offender registries (Proctor,
+Badzinski, & Johnson, 2002).
+Community Notification
+Although community notification and registration are often
+implemented and studied together, community notification
+should be seen as a separate policy (Finkelhor, 2009). Two
+goals of community notification as a strategy can be dis-
+cerned. It is meant to help community members take steps
+to protect themselves against specific offenders in their
+midst as well as help law enforcement to educate the public
+about how to protect children in general (Finkelhor, 2009).
+Research evidence on the effectiveness of community
+notification is inconclusive. For instance, a study that was
+conducted in Washington State reported a drop in reoffending
+following the implementation of notification but was not able
+to disentangle the decline from the overall downward trend in
+crime and other factors (Barnoski, 2005). Evidence for the
+effectiveness of notification comes from a Minnesota study
+that reported a significant decline in sex offense recidivism
+among the highest risk offenders after a community notifica-
+tion law was implemented (Duwe & Donnay, 2008). However,
+a Wisconsin study found no effect of notification on whether
+offenders were recommitted to prison (Zevitz, 2000).
+According to Finkelhor (2009), researchers have shown that
+notification makes families more likely to take steps to pro-
+tect themselves. In addition, public opinion surveys have gen-
+erally found the public to favor notification laws (Klima &
+Lieb, 2008). Studies have documented the difficulties offend-
+ers have in finding jobs and places to live, and in avoiding
+harassment (Tewksbury, 2005), when their status is made
+known.
+Sentence Lengthening and Civil Commitment
+Advocates of this strategy believe that it helps reduce the
+number of offenders at large in the community capable of
+committing new offenses. They also believe stiffer punish-
+ments have deterrent effects. Similar sentiments were
+echoed in a South African study in which Bird and Spurr
+(2004) report that people were not satisfied with sentences
+Gwirayi 3
+given to rapists as evidenced by their clamoring for stiffer
+sentences such as the death penalty and life imprisonment.
+However, in Zimbabwe, the ineffectiveness of this strategy
+is buttressed by a bill that was recently moved in Parliament,
+proposing to castrate those accused of raping children. In
+Zimbabwe, if found guilty of rape, the perpetrator faces a
+maximum sentence of 10 years in prison (applies to survi-
+vors below 12 years), whereas the maximum sentence for
+statutory rape is 5 years in prison (survivor 12-16 years;
+Sexual Offences Act, 2001). These sentences may not be
+deterrent enough given that the survivor risks contracting
+HIV and AIDS.
+There is no research that can corroborate whether sen-
+tencing practices have an effect on sex crime (Finkelhor,
+2009). Some studies of crime in general have linked higher
+incarceration rates with decreasing crime in general (Levitt,
+2004). However, the effect is thought to result more from
+incapacitation than from deterrence (Finkelhor, 2009). It is
+not clear how much of the improvement is achieved through
+longer sentences and how much through increased appre-
+hension and incarceration of criminals (Finkelhor, 2009).
+On the basis of current evidence, the extent to which longer
+sentences and civil commitment do or can reduce overall
+risks of child molestation cannot be determined.
+Enhanced Detection and Arrest
+The most elemental thing the criminal justice system can do
+about a crime is to increase its detection and disclosure and
+the likelihood that the offender will be arrested and prose-
+cuted (Finkelhor, 2009). Disclosure can terminate abusive
+relationships, which are frequently ongoing in CSA, and
+prevent future ones. The offenders, who are caught, even if
+they are not incapacitated, are deterred through embarrass-
+ment, humiliation, and increased vigilance by members of
+their social network (Finkelhor, 2009). Other potential
+offenders may be deterred by the circulation of news that
+offenders get caught. A case in point is the use of suggestion
+boxes in Zimbabwe.
+There is no research that has been conducted to investi-
+gate whether increased law enforcement efforts to disclose,
+investigate, and arrest have a deterrent effect on sex crime
+against children (Finkelhor, 2009). For instance, it is difficult
+to disentangle the role of suggestion boxes in Zimbabwe, in
+leading to the disclosure of cases of CSA from the efforts of
+other organizations and strategies.
+According to Finkelhor (2009), the potential efficacy of
+detection and arrest is confirmed by evidence that many child
+sexual abusers offend repeatedly before getting caught, but
+thereafter have relatively low recidivism rates compared with
+other offenders. Getting caught thus plays a crucial role in
+desistance (Smallbone, Marshall, & Wortley, 2008). General
+criminology research tends to confirm that offenders are
+deterred more by an increase in the risk of getting caught than
+by an increase in the severity of the likely punishment
+(Grasmick & Bryjak, 1980).
+Educational Programs
+Although most of the educational programs are school based,
+they have also been aimed at families, teachers, youth service
+workers, and others who may be in a position to intervene
+(Goldman, 2007; Kenny, 2010; Wurtele, Moreno, & Kenny,
+2008). The primary goal of educational programs has been to
+impart skills to help children identify dangerous situations
+and prevent unwanted forms of touching and contact, and
+other ways in which offenders groom survivors, as well as to
+teach them how to refuse approaches and invitations, how to
+break off interactions, and how to summon help (Collings,
+2007; Finkelhor, 2009). Educational programs also have
+elaborate secondary goals. For instance, one has been to
+short-circuit and report ongoing abuse (Finkelhor, 2009).
+Another, most important from the prevention perspective, has
+been to mitigate the negative consequences of abuse among
+children who may have been exposed by helping them not
+feel guilty or at fault (Finkelhor, 2009; Wurtele, 2009).
+Different programs have targeted children of different ages,
+ranging from preschoolers to elementary and middle school
+children. For instance, in Zimbabwe, educational programs
+were infused into the school curriculum in the mid-1990s
+under the subject "Aids Education," which is taught from
+primary to secondary level. At primary level, child abuse is
+one of the topics in Aids Education and covers the various
+aspects of sexual abuse such as forms of touch up to sexual
+molestation. Furthermore, the Ministry of Justice, Legal and
+Parliamentary Affairs through the Victim Friendly Court
+launched a massive campaign against CSA involving both
+primary and secondary school pupils (Manzongo, 2006). In
+South Africa, Life Orientation subjects also include topics on
+CSA. In the United States, prevention programs have been
+bundled into larger safety and health education curricula
+since the late 1980s (Finkelhor, 2009).
+The involvement of parents in CSA prevention programs
+continues to receive attention due to its perceived advan-
+tages. Research shows that when parents are trained in abuse
+prevention, children receive repeated exposure to prevention
+information in the natural environment (Burgess & Wurtele,
+1998; Wurtele et al., 2008). Furthermore, discussing CSA
+with a parent might make it easier for a child to disclose to
+that parent if abuse has occurred or occurs in future. Educated
+parents would be better able to identify survivors of CSAand
+how to respond to disclosures of abuse. Even more important
+is the view that parents who have acquired information about
+the grooming process of offenders have the potential of lim-
+iting the access of potential perpetrators to their children
+(Wurtele et al., 2008). Regrettably, most of the studies that
+investigated the involvement of parents in prevention pro-
+grams were conducted in developed countries, especially the
+4 SAGE Open
+United States (Kenny, 2010; Kenny & Wurtele, 2008; Wurtele
+et al., 2008). For instance, a study that was conducted
+in Colorado in the United States by Wurtele et al. (2008)
+provides evidence that a relatively brief parent educational
+program can improve parents' knowledge and ability to talk
+with their children about personal safety. In another study that
+was carried out in Florida, Kenny (2010) establishes that at
+the 3-month follow-up, parents reported maintenance of their
+child's knowledge and continued satisfaction with the
+program.
+Given some encouraging findings and a prevention
+model that has proven successful in other youth safety areas,
+it would seem prudent to continue to pursue educational
+strategies to prevent sexual abuse (Finkelhor, 2009). Child-
+focused sexual abuse prevention programs can teach chil-
+dren to distinguish between abusive and nonabusive
+situations, increase their knowledge, and enhance their per-
+sonal safety skills (Wurtele, 2009). They can do so without
+producing negative side effects and actually have positive
+effects. There is also preliminary evidence that children are
+able to apply this information in real-life situations and that
+prevention programs have led to a reduced incidence of
+CSA cases. Clearly, child-focused personal safety programs
+play an important part in the effort to keep children safe
+from sexual abuse, but they cannot single handedly accom-
+plish CSA prevention. Although educational programs are
+in place in both developing and developed countries, studies
+that have been conducted to determine their efficacy remain
+concentrated in developed countries especially the United
+States, where they seem to have yielded considerable
+success.
+Outreach Programs
+In addition to justice system efforts to control known offend-
+ers and educational efforts directed at children, a number of
+other strategies to prevent sexual abuse have been proposed
+or implemented although on a smaller scale.
+Drawing on other community-oriented (as opposed to
+clinic or school based) primary prevention strategies in pub-
+lic health, one recent concept has proposed trying to target
+potential abusers (usually through public advertisements)
+with messages that reinforce the awareness that their behav-
+ior is wrong and harmful, and urging them to seek help, often
+through a confidential telephone hot line (Finkelhor, 2009).
+This approach appears to be prominent in Zimbabwe where
+the Department of Public Relations in the Zimbabwe
+Republic Police, and several nongovernmental organizations
+such as Child Alert, Child-Line, Girl Child Network, among
+others, often address public gatherings on the prevention of
+CSA. For instance, the Child-Line has a hot line that children
+can use to report incidents of sexual abuse.
+Some surveys have shown that overall community knowl-
+edge and attitudes about sexual abuse shift in the wake of
+campaigns (Chasan-Taber & Tabachnick, 1999). Follow-up
+studies have also shown that some offenders do contact the
+hot lines, meaning that some potential offenders at least
+attend to the publicity (Smallbone et al., 2008). It is not clear,
+however, whether the hot line calls have prevented any
+abuse.
+Goal of the Study
+Extant literature reveals that no strong scientific evidence
+points as yet in the direction of one strategy or program to
+prevent sexual abuse. Although educational programs have
+had a positive impact especially in the United States, research
+evidence on their efficacy is still equivocal. Other strategies
+for preventing sexual abuse and its consequences, such as
+community publicity efforts or outreach to potential offend-
+ers, are certainly worth exploring as well. Unfortunately,
+there is paucity in literature on the perspectives of children,
+the main beneficiaries of CSA prevention programs. A few
+Western studies that attempted to close this gap (e.g.,
+Levenson et al., 2007; Phillips, 1998; Proctor et al., 2002)
+targeted the general population. To a larger extent, the effi-
+cacy of CSA prevention programs hinges on how they are
+viewed by those whom they are intended to help. Against this
+backdrop, the goal of this study was to increase knowledge
+and provide evidence on pupils' perspectives regarding
+CSA prevention strategies. This study thus sought to close a
+gap in both extant and local literature. To this effect, it was
+therefore prudent to engage secondary school pupils in
+Gweru district of Zimbabwe to determine strategies which
+they think can be effective in protecting them against sexual
+abuse. Knowledge about pupils' perspectives will help build
+a robust evidence base that will be used to improve the qual-
+ity and efficacy of CSA prevention strategies and policies.
+Research Design
+The centrality of the research design in any research
+endeavor is highlighted by Hall (1996) who says that "the
+test question for any academic discussion which is based on
+research findings is whether the conclusions are justified by
+the research design" (p. 17). This study adopted the descrip-
+tive survey strategy because survey research has the capacity
+to collect data for describing populations that are too large to
+observe directly (Babbie & Mouton, 2005). Both quantita-
+tive and qualitative data were used. Using this design, this
+study was able to gain a cross section of the views of second-
+ary school pupils in Gweru urban district, regarding strate-
+gies that they considered could be used to protect them
+against sexual abuse.
+Participants
+The sample comprised 268 pupils attending Gweru district
+day secondary schools (50% female; M age = 15.42, SD =
+1.376). The identification of these participants was based on
+Gwirayi 5
+three premises. First, local literature shows that secondary
+school pupils are vulnerable to sexual abuse (Makoni, 2006;
+Thompson, 2009). Second, as adolescents, secondary school
+pupils are a high-risk population group as they are more
+likely to be sexually active. Third, these pupils were pre-
+ferred because they were believed to be mature enough to
+have the language to express their perspectives in English.
+Sampling Procedure
+A two-stage random sampling procedure was used. In the
+first stage, three day secondary schools were randomly
+selected from a cluster of seven in Gweru district. In the
+second stage, stratified random sampling was used to select
+Forms 2 and 4 pupils at each participating school (Marvasti,
+2004).
+Research Instruments
+In this study, the main data collection instrument was a brief
+self-administered questionnaire. Babbie and Mouton (2005)
+cite questionnaires as the most common instruments for
+data collection in survey research. In view of the sensitivity
+associated with CSA, a self-reporting questionnaire was
+used in this study because it provided greater anonymity
+thereby increasing the likelihood of obtaining information
+in a less threatening way. The questionnaire had two major
+parts. In the first part, participants were asked to indicate
+their gender and level of education. The second part was
+structured as follows: How can secondary school pupils be
+protected against sexual abuse? List down three ways that
+you think can be used in the space provided. The question-
+naire was pilot tested to 20 Form 2 and 20 Form 4 pupils at
+a secondary school that did not take part in this study, and
+was found to be able to produce data that can measure
+pupils' perspectives on strategies that can protect them
+against sexual abuse.
+Ethical Considerations
+Before collecting data, the researcher sought for permission
+from the Ministry of Education Sport and Culture, which was
+granted. In addition, the researcher also asked for informed
+consent from all the participants (Sarantakos, 2005). The
+researcher explained the purpose of the study to the partici-
+pants and allowed them to ask questions about the research
+before asking them to complete the questionnaire (Babbie &
+Mouton, 2005). It was also made clear to the participants that
+taking part in the study was voluntary, and that those who
+chose to participate were free to withdraw their participation
+at any stage if they so wished.
+Debriefing and counseling are necessary especially in
+situations where the researcher encounter leaves the partici-
+pants stressed or with serious questions (Tang, 2002). This
+had important implications for this study because it dealt
+with a very sensitive issue. In this regard, the school coun-
+selor was available during the administration of question-
+naires to provide counseling and follow-up in the event of
+any pupil showing emotional distress (Yuen, 2007). In addi-
+tion, all participants were given information pamphlets on
+Gweru-based organizations, which provide professional
+assistance on issues relating to CSA.
+Data Collection Procedure
+In this study, the self-reporting questionnaires were adminis-
+tered personally by the researcher to ensure a high response
+rate (Sarantakos, 2005). On the agreed dates with the school
+heads, and with the cooperation of the class teachers, the
+researcher distributed the questionnaires to the pupils in their
+classrooms. Data were collected during free periods to mini-
+mize interruption of other school activities. Participants were
+asked to sit separately so that they could feel free to complete
+the questionnaire without sharing their answers.
+Data Analysis
+Data were analyzed using the thematic content analysis tech-
+nique (Marvasti, 2004). This technique allowed for both
+qualitative and quantitative data that were gathered in this
+study. In addition, this technique facilitated the process of
+identifying themes that emerged in this study. Thematic con-
+tent analysis enabled the researcher to identify the reoccur-
+ring suggestions on how secondary school pupils can be
+protected against sexual abuse. Themes that emerged from
+this study were presented in tables, with percentages showing
+their distribution and popularity among the participants.
+Results
+This section presents the views of the participants regarding
+strategies that can be used to protect secondary school pupils
+against sexual abuse. Results are presented under two main
+subheadings, distinguished by gender and level of education.
+This study specifically sought to address the following
+research question:
+Research Question 1: How can secondary school
+pupils be protected against sexual abuse?
+Participants' Suggested Strategies of Fighting
+Sexual Abuse by Gender
+Participants were asked to suggest ways that they think can
+help protect secondary school pupils against sexual abuse.
+As shown in Table 1, males' and females' suggestions on
+strategies that can be used to fight CSA have similarities as
+well as differences. For instance, both male and female par-
+ticipants acknowledged that CSA can be fought by teaching
+children about it, introducing Guidance and Counseling in
+6 SAGE Open
+Table 1. Participants' Suggested CSA Prevention Strategies by Gender
+Suggested prevention strategy Males (%) Females (%)
+Schools should offer lessons on Guidance and Counseling 20.1 17.2
+Teaching children about sexual abuse in schools 54.5 70.1
+Reporting any form of sexual abuse to the police 38.1 26.1
+Girls should wear decent clothes 23.0 9.0
+Each school should have a suggestion box 17.2 11.2
+Staying home at night 9.0 13.4
+Children should always avoid talking to strangers 11.2 24.6
+Children should say no to sexual activities 17.9 26.9
+Choosing good friends 13.4 21.6
+Banning discos in schools 7.5 9.0
+Children should avoid people they do not trust 17.2 13.4
+Children must be taught not to trust anyone 8.2 10.4
+Forming new clubs where children can give each other knowledge about sexual abuse 15.7 11.9
+Children must know their rights 10.4 15.7
+Avoid walking in the bush 4.5 2.2
+Life imprisonment for perpetrators 3.7 0
+People who sexually abuse children must be hanged 2.3 6.0
+Teaching the community about CSA 5.2 0
+Making use of the media to increase awareness about CSA 3.7 7.4
+Children must move in groups when going to and coming from school 3.0 9.0
+Students should not take alcohol 3.0 8.2
+Showing children dangers of sexual activities by using pictures of people with HIV and AIDS 6.7 3.7
+School gates must be locked all the time 9.0 11.2
+Parents must teach children about sexual abuse at home 4.5 9.7
+Note: CSA = child sexual abuse.
+schools, as well as reporting any incident of sexual abuse to
+the police. However, some variations can be discerned, sug-
+gesting the interaction of gender. For example, female
+respondents suggested that CSA can be fought by avoiding
+strangers, saying no to sexual advances, and having reliable
+friends, whereas their male counterparts, although in small
+proportions, suggested teaching the community about CSA,
+forming new clubs where children can share knowledge
+about CSA, and enacting a life imprisonment sentence for
+would-be perpetrators.
+Participants' Suggested Strategies of Fighting
+CSA by Level of Education
+Findings on participants' views on ways of fighting CSA
+were also disaggregated by level of education (Table 2). By
+and large, both Form 2 and Form 4 participants share the
+premises that CSA can be fought by teaching children about
+it, and reporting any incident to the police. However, some
+variations were noted. For instance, Form 2 participants sug-
+gested avoiding strangers, staying home at night, and mov-
+ing in groups on the way to and from school, whereas those
+who were in Form 4 suggested the introduction of Guidance
+and Counseling, saying no to any sexual advances, having
+reliable friends, teaching children about their rights, and also
+teaching the community about CSA.
+Discussion
+In this study, participants were asked to suggest strategies
+that can be used to protect them against sexual abuse. It
+emerged that, by and large, the distribution of the suggested
+strategies was influenced by the gender and level of educa-
+tion of the participants. Consistent with research (Collings,
+2007; Finkelhor, 2009; Wurtele, 2009), the present study
+established that the main strategy that participants unani-
+mously believed can help protect them against sexual abuse
+is by teaching them about the social vice. Although this view
+was shared by both Forms 2 and 4 participants, there was a
+preponderance of females. However, there is paucity of lit-
+erature both in Zimbabwe and elsewhere, against which to
+compare the influence of gender in preferring to fight sexual
+abuse by teaching about it. One may be tempted to believe
+that more females than males preferred to be taught about
+sexual abuse perhaps because they are more vulnerable to
+sexual abuse as suggested by the majority of international
+literature.
+Allied to teaching children about sexual abuse, this study
+further established variations that differed with both levels of
+education and gender, but were consistent with literature.
+For instance, it emerged that Form 4 females suggested
+teaching children about their rights, choosing reliable friends,
+and saying no to sexual activities. Consistent with research,
+Gwirayi 7
+some earlier studies have also pointed out that choosing reli-
+able friends (Newcomb, Munoz, & Carmona, 2009) and say-
+ing no to sexual activities (Collings, 2007; Wurtele, 2009)
+can help in protecting children against sexual abuse.
+Similarly, a recent study that was conducted in Zimbabwe by
+Gwirayi and Shumba (2011) report that secondary school
+pupils were not aware of their rights except for education. In
+this regard, the suggestion coming from participants in this
+study has far reaching implications given that CSA in its
+various forms is a violation of their rights as enshrined by the
+CRC (United Nations General Assembly, 1989) and African
+Charter on the Rights and Welfare of Children (OAU, 1990).
+Sexual abuse is a form of violence that undermines the real-
+ization of children's rights. Arguably, it is through education
+that these adolescents can be equipped with skills to safe-
+guard their rights. As Gwirayi and Shumba opine, children's
+awareness of their rights denotes some form of empower-
+ment, which has a positive effect on the other domains of
+their lives. However, what remains difficult to interpret in
+this study is why Form 4 females were particularly apt to
+raise the issue concerning children's rights.
+Consistent with literature, participants suggested the for-
+mation of new clubs in schools as a way of fighting CSA.
+Regrettably, this idea was suggested by a small proportion of
+males. The role of peers in sharing vital information has been
+reported in earlier studies (Chaffin, Kelleher, & Hollenberg,
+1996). Consistent with the idea that adolescents need to sep-
+arate from their families and develop into autonomous indi-
+viduals, adolescents are more likely to accept feedback from
+peers than they are from adults (Chaffin et al., 1996).
+Furthermore, the study noted other variations in sugges-
+tions that were associated with Form 4 males but generally
+consistent with research. For instance, Form 4 males were
+more likely to suggest having a suggestion box at each school,
+showing children dangers of sexual activities by using pic-
+tures of people with HIV andAIDS, and that girls should wear
+decent clothes. The use of pictures with people suffering from
+HIV and AIDS is important given that research has reported
+an association between the perpetration of CSA and HIV and
+AIDS and contracting sexually transmitted infections (Lalor,
+2008; Pinheiro, 2006; WHO, 2004). This suggestion further
+illustrates respondents' awareness of the various implications
+of CSA for their health. However, male concern with girls
+wearing indecent and revealing clothes is characteristic of the
+Zimbabwean patriarchal society (Nhundu & Shumba, 2001).
+In the same vein, a study that investigated pupils' perceptions
+of sexual abuse by teachers in Zimbabwean schools reported
+that one of the reasons cited by male respondents was that girls
+wear clothes that reveal their bodies (Shumba et al., 2008).
+This mentality by male adolescents, which was also confirmed
+in this study, further buttresses the need for more education on
+issues to do with CSA.
+Table 2. Participants' Suggested CSA Prevention Strategies by Level of Education
+Suggested prevention strategy Form 2 (%) Form 4 (%)
+Schools should offer lessons on Guidance and Counseling 9.0 28.4
+Teaching children about sexual abuse in schools 60.0 65.7
+Reporting any form of sexual abuse to the police 30.6 33.6
+Girls should wear decent clothes 9.7 22.4
+Each school should have a suggestion box 11.2 17.2
+Staying home at night 14.2 8.2
+Children should always avoid talking to strangers 22.5 13.4
+Children should say no to sexual activities 13.3 31.3
+Choosing good friends 12.7 22.4
+Banning discos in schools 5.2 11.3
+Children avoid people they do not trust 14.3 16.4
+Children must be taught not to trust anyone 9.7 16.6
+Forming new clubs where children can give each other knowledge about sexual abuse 10.4 17.2
+Children must know their rights 8.2 17.9
+Avoid walking in the bush 4.5 2.2
+Life imprisonment for perpetrators 0.7 3.0
+People who sexually abuse children must be hanged 3.0 5.2
+Teaching the community about CSA 0 5.4
+Making use of the media to increase awareness about CSA 6.7 4.5
+Children must move in groups when going to and coming from school 9.7 2.2
+Students should not take alcohol 1.5 9.8
+Showing children dangers of sexual activities by using pictures of people with HIV and AIDS 3.0 7.5
+School gates must be locked all the time 14.2 6.0
+Parents must teach children about sexual abuse at home 6.0 8.2
+Note: CSA = child sexual abuse.
+8 SAGE Open
+The need to teach children about sexual abuse was further
+buttressed by responses that mainly came from Form 2
+females. They suggested that secondary school pupils can be
+protected against sexual abuse by staying home at night,
+avoiding talking to strangers, moving in groups when going
+to and coming from school, and keeping school gates locked
+all the time. Form 2 males suggested avoiding walking in the
+bush. Although by and large, participants of both genders
+and forms suggested that children must avoid people they do
+not trust, most of the suggestions implying the need for more
+education and lack of knowledge about CSA came from
+Form 2 participants. Perhaps this could have been a function
+of their cognitive development relative to their Form 4 coun-
+terparts. The above suggestions clearly show pupils' lack of
+understanding about the dynamics of CSA such as its loca-
+tion and type of perpetrators. In this regard, participants did
+not consider family members, relatives, teenagers, or even
+trusted acquaintances such as schoolteachers, as potential
+perpetrators of sexual abuse. Research is unequivocal that
+perpetrators first gain the child's trust before abusing him or
+her (Spies, 2006; Wurtele, 2009), hence CSA is a betrayal of
+trust. Thus, participants' suggestion of avoiding people they
+do not trust further supports the need for more education on
+CSAgiven that the majority of perpetrators are people known
+very well by the survivors.
+Research suggests that while child-focused sexual abuse
+prevention programs play an important part in the effort to
+keep children safe from sexual abuse, they cannot single
+handedly accomplish CSA prevention. In fact, literature
+shows that CSA prevention programs cannot be effective
+without parents (Wurtele et al., 2008). When parents are
+trained as prevention educators, their children receive
+repeated exposure to prevention information in the natural
+environment, thus providing a series of booster sessions to
+supplement other prevention efforts (Wurtele et al., 2008).
+Consistent with research, this study established the involve-
+ment of parents in the fight against CSA albeit this finding
+was reported by a small proportion of Form 4 females. In this
+regard, adolescents presumed that their parents were
+informed enough to teach them about sexual abuse, some-
+thing that should not be taken for granted.
+Furthermore, research suggests that one way of prevent-
+ing the occurrence of sexual abuse is by educating the com-
+munity at large about CSA (Petersen, Bhana, & McKay,
+2005). Unfortunately, few prevention interventions have
+been aimed at the general public (Wurtele et al., 2008). This
+finding was confirmed in this study in that only a small pro-
+portion of Form 4 males suggested involving the commu-
+nity in the fight against CSA. This is a serious omission
+given that most cases of CSA are committed at home and in
+the perpetrator's home. CSA is a social problem that affects
+the various levels of society, including the community. The
+failure to link the fight against CSA with the community
+further buttresses the need for more education on prevention
+efforts. Given that communities have been involved in
+fighting various forms of crime, they can also be reined in
+the fight against this social vice, which is a crime by both
+national and international laws.
+Finally, in this study, participants scarcely referred to jus-
+tice system strategies in their responses. Only a small propor-
+tion of males suggested an increase in jail sentences and
+capital punishment. Two interpretations can be gleaned in this
+regard. First, this finding could be a reflection of participants'
+lack of trust in the justice system strategies, which is sup-
+ported by literature suggesting that laws have failed to protect
+children against sexual abuse (Briggs, 2005; Shumba, 2006).
+Second, this finding may suggest that participants were not
+aware of justice system strategies that are there to safeguard
+them against sexual abuse. Accordingly, this finding may fur-
+ther support the need for more education on CSA prevention
+programs and policies.
+Conclusion
+This study aimed at investigating pupils' perspectives on
+strategies that can be used to protect them against CSA. It
+established that most of the CSA prevention strategies which
+participants suggested are consistent with international lit-
+erature. These include teaching children about sexual abuse,
+introducing Guidance and Counseling in schools, and
+reporting any incident of abuse to the police. However, the
+need for more education on CSA prevention programs and
+policies is predicated on the premise that little reference was
+made to parental and community involvement as well as the
+role of justice system strategies in the fight against sexual
+abuse. Contrary to extant literature, pupils' responses were
+mediated by gender and level of education, a noteworthy
+caveat in the area under investigation.
+Recommendations
+Based on the above research findings, this study makes the
+following recommendations:
+·
+· There is need to increase support toward school-
+based programs that focus on prevention of CSA
+because they are an important strategy that can
+increase the skills and confidence necessary to
+avoid sexual abuse. However, such programs
+should be differentiated according to the level of
+education of the students to cater for differences in
+cognitive development.
+·
+· This study strongly recommends active parent
+involvement in CSA prevention programs, utilizing
+a concurrent parent and child format, rather than
+targeting either parents or children alone. Simulta-
+neous education of both parents and children allows
+for increased communication about personal safety,
+and the joint participation of parent and child may
+positively affect the parent­child relationship and
+Gwirayi 9
+the ease with which families communicate about
+this sensitive issue. Educating parents about CSA
+can help dispel the myth they commonly hold about
+CSA and encourage them to provide a safer home
+environment for their children, thereby reducing the
+likelihood of victimization.
+·
+· More resources should be channeled toward the
+establishment of child protection committees in
+the various communities where children reside.
+Although these committees are believed to be in
+place, no mention was made about them in this
+study suggesting their lack of publicity, perhaps
+obscurity.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+Funding
+The author(s) received no financial support for the research and/or
+authorship of this article.
+References
+African Child Policy Forum. (2008). The African report on child
+wellbeing: How child-friendly are African governments? Addis
+Ababa, Ethiopia: Author.
+Babbie, E., & Mouton, J. (2005). The practice of social research.
+Cape Town: Oxford University Press Southern Africa.
+Barnoski, R. (2005). Sex offender sentencing in Washington State:
+Has community notification reduced recidivism rates? Olym-
+pia: Washington State Institute for Public Policy.
+Beyond Inequalities. (2008). The girl child. Available from http://
+www.sardc.net
+Bird, W., & Spurr, N. (2004). Media representations of baby rape:
+The case of "BabyTshepang." In L. M. Richter, A. Dawes, &
+C. Higson-Smith (Eds.), Sexual abuse of young children in
+Southern Africa (pp. 36-52). Cape Town, South Africa: Human
+Sciences Research Council.
+Briggs, F. (2005, March 9). Every school's worst nightmare: Child
+sexual Abuse. AW Jones Oration, The University of Adelaide,
+the Elders Hall, Adelaide.
+Burgess, E., & Wurtele, S. (1998). Enhancing parent-child com-
+munication about sexual abuse: A pilot study. Child Abuse &
+Neglect, 22, 1167-1175.
+Chaffin, M., Kelleher, K., & Hollenberg, J. (1996). Onset of physi-
+cal abuse and neglect: Psychiatric, substance abuse, and social
+risk factors from prospective community data. Child Abuse &
+Neglect, 20, 191-203.
+Chasan-Taber, L., & Tabachnick, J. (1999). Evaluation of a child
+sexual abuse prevention program. Sexual Abuse: A Journal of
+Research and Treatment, 11, 279-292.
+Collings, S. J. (2007). Emerging issues in research on school-based
+sexual abuse prevention programmes. Child Abuse Research in
+South Africa, 8, 60-68.
+Domestic Violence Act [Chapter 5; 16] Act 14/2006. Harare: Gov-
+ernment of Zimbabwe.
+Duwe, G., & Donnay, W. (2008). The impact of Megan's law on sex
+offender recidivism: The Minnesota experience. Criminology,
+46, 411-446.
+Finkelhor, D. (2009). The prevention of childhood sexual abuse.
+The Future of Children, 19(2), 169-194.
+Goldman, J. D. (2007). Primary school student-teachers' knowl-
+edge and understandings of child sexual abuse and its manda-
+tory reporting. International Journal of Educational Research,
+46, 368-381.
+Grasmick, H. G., & Bryjak, G. J. (1980). The deterrent effect of
+perceived severity of punishment. Social Forces, 59, 471-491.
+Gwirayi, P. (2010). The role of macro-systemic contexts in under-
+standing the aetiology and epidemiology of child sexual abuse
+in Southern Africa. Journal of Sustainable Development in
+Africa, 12(2), 253-268.
+Gwirayi, P., & Shumba, A. (2011). Children's rights: How much do
+Zimbabwe urban secondary school pupils? International Jour-
+nal of Children's Rights, 19, 195-204.
+Hall, V. (1996). Dancing on the ceiling: A study of women manag-
+ers in education. London, England: Paul Chapman Publishing.
+Kenny, M. C. (2010). Child sexual abuse education with ethnically
+diverse families: A preliminary analysis. Children and Youth
+Services Review, 32, 981-989.
+Kenny, M. C., & Wurtele, S. K. (2008). Preschoolers' knowledge
+of genital terminology: A comparison of English and Spanish
+speakers. American Journal of Sexuality Education, 3, 345-
+354.
+Kernsmith, P. D., Craun, S. W., & Foster, J. (2009). Public attitudes
+toward sexual offenders and sex offender registration. Journal
+of Child Sexual Abuse, 18, 290-301.
+Klima, T., & Lieb, R. (2008). Risk assessments instruments to pre-
+dict recidivism of sex Offenders: Practices in Washington State.
+Olympia: Washington State Institute for Public Policy.
+Lalor, K. (2008). Child sexual abuse and HIV transmission in sub-
+Saharan Africa. Child Abuse Review, 17, 94-107.
+Levenson, J. S., Brannon, Y. N., Fortney, T., & Baker, J. (2007).
+Public perceptions about sex offenders and community protec-
+tion policies. Analyses of Social Issues and Public Policy, 7(1),
+1-25.
+Levitt, S. D. (2004). Understanding why crime fell in the 1990s:
+Four factors that explain the decline and six that do not. Journal
+of Economic Perspectives, 18, 163-190.
+Makoni, B. (2006). Beauty pageants expose underage girls to sex-
+ual abuse. Chitungwiza, Zimbabwe: Girl Child Network.
+Manzongo, J. (2006, September 19). State launches campaign
+against child sexual abuse. The Herald. Retrieved from
+allafrica.com/stories/200609190245.html
+Marvasti, A. B. (2004). Qualitative research in sociology. London,
+England: SAGE.
+Newcomb, M. D., Munoz, D. T., & Carmona, J. V. (2009). Child
+sexual abuse consequences in community samples of Latino
+and European American adolescents. Child Abuse & Neglect,
+33, 533-544.
+10 SAGE Open
+Nhundu, T., & Shumba, A. (2001). The nature and frequency of
+reported cases of teacher perpetrated child sexual abuse in rural
+primary schools in Zimbabwe. Child Abuse & Neglect, 25,
+1517-1534.
+Organization of African Unity. (1990). African charter on the rights
+and welfare of the child (Doc. CAB/LEG/24.9/49). Retrieved
+from http://www.umn.edu/humanrts/africa/afchild.htm
+Petersen, L., Bhana, A., & McKay, M. (2005). Sexual violence
+and youth in South Africa: The need for community-based
+prevention Interventions. Child Abuse & Neglect, 29, 1233-
+1248.
+Phillips, D. M. (1998). Community notification as viewed by Wash-
+ington's citizens [Electronic version]. Olympia: Washington
+State Institute for Public Policy.
+Pinheiro, P. S. (2006). The UN Secretary General's report on
+violence against children: The way forward. New York, NY:
+United Nations.
+Proctor, J. L., Badzinski, D. M., & Johnson, M. (2002). The impact
+of media on knowledge and perceptions of Megan's law. Crimi-
+nal Justice Policy Review, 13, 356-379.
+Sarantakos, S. (2005). Social research (3rd ed.). London, England:
+Macmillan.
+Sexual Offences Act [Chapter 9:21]. Act 8/2001. Harare: Govern-
+ment of Zimbabwe.
+Shumba, A. (2006). Child abuse in schools and the law in Zim-
+babwe: Current issues and challenges in the new millennium.
+Child Abuse Research in South Africa, 7(2), 48-60.
+Shumba, A., Gwirayi, P., Shumba, J., Maphosa, C., Chireshe, R.,
+Gudyanga, E., & Makura, A. H. (2008). Pupils' perceptions of
+sexual abuse by teachers in Zimbabwe. Journal of Psychology
+in Africa, 18(2), 279-282.
+Smallbone, S., Marshall, W. L., & Wortley, R. (2008). Preventing
+child sexual abuse: Evidence, policy and practice (1st ed.).
+New York, NY: Willan Publishing.
+Smith, D. (2009). Child rape epidemic in Zimbabwe. Available
+from http://Johannesburg guardian.co.uk
+Spies, G. M. (2006). The effect of sexual abuse on a child. In G. M.
+Spies (Ed.), Sexual abuse: Dynamics, assessment and healing
+(pp. 44-58). Pretoria, South Africa: Van Schaik Publishers.
+Tang, C. S. (2002). Childhood experience of sexual abuse among
+Hong Kong Chinese college students. Child Abuse & Neglect,
+26, 23-37.
+Tewksbury, R. (2005). Collateral consequences of sex offender reg-
+istration. Journal of Contemporary Criminal Justice, 21, 67-81.
+Thompson, M. (2009). Zimbabwe girls trade sex for food. Available
+from http://news.bbc.co.uk
+United Nations General Assembly. (1989). Adoption of a Conven-
+tion on the Rights of the Child (UN Doc. A/Res/44/25). New
+York, NY: United Nations.
+United Nations International Children's Emergency Fund. (2010).
+Inequities in the fulfillment of children's rights in South Africa:
+A statistical review. Pretoria, South Africa: Author.
+Van Niekerk, J. (1999, March 16-18). Children and survival sex in
+Kwazulu-Natal. Paper presented at the National Consultative
+Conference Against the Sexual Exploitation of Children, Uni-
+versity of the Western Cape, South Africa.
+World Health Organization. (2004, August 30-September 3). Child
+sexual abuse: A Salient health emergency. In Fifty-fourth
+Session, Regional Committee for Africa, Brazzaville, Republic
+of Congo.
+Wurtele, S. K. (2009). Preventing sexual abuse of children in the
+twenty-first century: Preparing for the challenges and opportu-
+nities. Journal of Child Sexual Abuse, 18, 1-18.
+Wurtele, S. K., Moreno, T., & Kenny, M. (2008). Evaluation of a
+sexual abuse prevention workshop for parents of young chil-
+dren. Journal of Child & Adolescent Trauma, 1, 331-340.
+Yuen, C. W. (2007). Child maltreatment in Malaysia: Prevalence,
+correlates, and probable health and behavioural consequences
+(Unpublished PhD Thesis). Queensland University of Technol-
+ogy, Brisbane, Australia.
+Zevitz, R. G. (2000). Sex offender notification: Assessing the
+impact in Wisconsin (US). Washington, DC: National Institute
+of Justice.
+Zink, T., Klesges, L., Stevens, S., & Decker, P. (2009). The devel-
+opment of a sexual abuse severity score: Characteristics of
+childhood sexual abuse associated with trauma symptomatol-
+ogy, somatization, and alcohol abuse. Journal of Interpersonal
+Violence, 24, 537-546.
+Bio
+Pesanayi Gwirayi is an associate professor in sociology of educa-
+tion at the Midlands State University in Zimbabwe. His research
+interests include child maltreatment, child rights, equality of edu-
+cational opportunity, and gender issues in education.
+

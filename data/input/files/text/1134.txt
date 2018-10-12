@@ -1,0 +1,728 @@
+Cumulative Traumas and Psychosis: an Analysis of the National Comorbidity
+Survey and the British Psychiatric Morbidity Survey
+Mark Shevlin1,2, James E. Houston2, Martin J. Dorahy3,4,
+and Gary Adamson2
+2School of Psychology, University of Ulster at Magee College,
+Londonderry, Northern Ireland; 3The Trauma Resource Centre,
+The Belfast HSS Trust; 4School of Psychology, The Queen's
+University of Belfast
+Previous research has shown that traumatic life events are
+associated with a diagnosis of psychosis. Rather than focus
+on particular events, this study aimed to estimate the effect
+of cumulative traumatic experiences on psychosis. The
+study was based on 2 large community samples (The Na-
+tional Comorbidity Survey [NCS], The British Psychiatric
+Morbidity Survey [BPMS]). All analyses were conducted
+using hierarchical binary logistic regression, with psychosis
+diagnosis as the dependent variable. Background demo-
+graphic variables were included in the first block, in addi-
+tion to alcohol/drug dependence and depression. A variable
+indicating the number of traumas experienced was entered
+in the second block. Experiencing 2 or more trauma types
+significantly predicted psychosis, and there appeared to be
+a dose-response type relationship. Particular traumatic
+experiences have been implicated in the etiology of psycho-
+sis. Consistent with previous research, molestation and
+physical abuse were significant predictors of psychosis us-
+ing the NCS, whereas for the BPMS, serious injury or as-
+sault and violence in the home were statistically significant.
+This study indicated the added risk of multiple traumatic
+experiences.
+Key words: psychosis/trauma/community samples
+Introduction
+Epidemiological surveys from the United States of Amer-
+ica and Europe have consistently reported high rates of
+exposure to traumatic events and indeed the occurrence
+of multiple traumatic events for individuals.1­5 Such ev-
+idence indicates that multiple traumatic experiences are
+not uncommon, and research suggests that such cumula-
+tive trauma has a particularly detrimental impact on an
+individual's physical and mental health. Based on a large
+community sample in Finland, research suggested that
+experiencing 3 or more traumatic events significantly in-
+creased the likelihood of persistent depression compared
+with those who did not experience any traumatic events.
+The odds ratios (ORs) indicated a 6-fold increase in risk.5
+Additional research found a dose-response relationship
+between number of reported abuse types and poorer men-
+tal health in a study involving 8667 health maintenance
+organization members.6
+With reference to psychotic illnesses, there is a high
+rate of multiple trauma experiences in people with severe
+mental illness, particularly with regard to interpersonal
+violence.7 Yet, little work has sought to empirically inves-
+tigate the link between cumulative trauma and psychosis,
+despite strong evidence for the relationship between trau-
+matic experiences and psychosis.8,9 Some pertinent re-
+search has however investigated this relationship. For
+instance, a dose-response type relationship between
+childhood abuse and psychotic symptoms in adulthood
+has been reported,10 in addition to a graded relationship
+between childhood trauma and hallucinations.11 Also,
+the degree of impairment in schizophrenia spectrum dis-
+orders was found to be positively associated with the
+number of types of maltreatment being experienced.12
+In contrast, however, 1 prospective study found no sup-
+port for an association between childhood sexual abuse
+and schizophrenic disorders in adulthood. However, the
+authors noted a number of methodological limitations
+that may have decreased the probability of finding an as-
+sociation between childhood sexual abuse and mental
+disorders.13 The case for a trauma-psychosis link is how-
+ever consistently supported by research that reports
+high rates of sexual abuse in childhood, in addition to
+other traumatic experiences, within psychotic popula-
+tions.7,14,15 Indeed, in 1 study, over half of patients ad-
+mitted as a result of first-episode psychosis reported
+incidents of childhood sexual abuse.16 Furthermore, in
+a review of the case notes of 200 community patients,
+there was a significantly higher probability of having 2
+or more Diagnostic and Statistical Manual of Mental
+Disorders, Fourth Edition,17 symptoms of schizophrenia
+1To whom correspondence should be addressed; tel.: þ44-28-
+7137561, fax: þ44-28-71375493, e-mail: m.shevlin@ulster.ac.uk.
+Schizophrenia Bulletin vol. 34 no. 1 pp. 193­199, 2008
+doi:10.1093/schbul/sbm069
+Advance Access publication on June 22, 2007
+Ó The Author 2007. Published by Oxford University Press on behalf of the Maryland Psychiatric Research Center. All rights reserved.
+For permissions, please email: journals.permissions@oxfordjournals.org.
+193
+if childhood or adult sexual abuse was experienced.18
+Moreover, recent research reported significantly more
+childhood trauma (including interpersonal assaults) in
+a psychosis sample (n = 40) versus a nonpsychosis, psy-
+chiatric comparison group (n = 30). This difference was
+not present for adult traumatic experiences.19 In a recent
+analysis of the National Comorbidity Survey (NCS),
+a large representative general population sample in the
+United States of America,20 multiple traumatic experien-
+ces were found to be associated with visual, auditory, and
+tactile hallucinations, and a dose-response relationship
+was reported.21
+Following on from these empirical findings, the pur-
+pose of this research is to establish if a graded, or
+dose-response, relationship exists between the cumulative
+number of traumas experienced and the likelihood of
+a diagnosis of psychosis. The analyses are based on large
+nationally representative samples from the United States
+of America (NCS) and the United Kingdom (British
+Psychiatric Morbidity Survey [BPMS]) and focus primar-
+ily on interpersonal traumas.20,22 It was predicted that
+a dose-response association would exist between trauma
+and psychosis, with greater trauma increasing the likeli-
+hood of psychotic symptoms.
+Method
+Samples
+Two large-scale, nationally representative surveys, one
+from the United States of America, the other from the
+United Kingdom, were utilized.
+The National Comorbidity Survey. The NCS was a -
+collaborative epidemiologic investigation (1990­1992)
+based on a stratified, multi-stage, area probability sample
+of noninstitutionalized persons aged between 15 and
+54 years in the 48 coterminous states of the United States
+of America designed to study the prevalence and corre-
+lates of Diagnostic and Statistical Manual of Mental
+Disorders, Revised Third Edition, disorders.23 The initial
+survey employed a household sample of over 8000 re-
+spondents, and a subsample of the original respondents
+completed the additional NCS, Part II, that contained
+a further detailed risk factor battery and additional diag-
+noses. A full description of the NCS is available.20 Full
+data were available for 5782 participants (48% male).
+BritishPsychiatricMorbiditySurvey. The second BPMS
+in Great Britain was a 2-phase assessment of mental dis-
+orders conducted in 2000. After first-phase interviews,
+a sample of people was then selected for a second phase
+consisting of clinical interviews. The survey focused on
+adults aged 16­74 years who were recruited using a strat-
+ified multistage random probability sampling strategy.
+Interviews were successfully conducted with 8580 adults
+(45% male). Details of the survey methods are available.22
+Instruments and diagnoses
+The National Comorbidity Survey. A modified version
+of the Composite International Diagnostic Interview
+(CIDI)24 was used to assess the lifetime prevalence of
+nonaffective psychosis (a summary category made up
+of schizophrenia, schizophreniform disorder, schizoaf-
+fective disorder, delusional disorder, and atypical
+psychosis) and depression. The NCS also elicited infor-
+mation on the occurrences of traumatic events (these
+were presented to the respondent on a list and referenced
+only by number). We selected 5 questions that repre-
+sented childhood victimization, threats to physical integ-
+rity, and threats to sexual integrity. Specifically, a "yes" or
+"no" response was required to the following questions:
+1. You were seriously neglected as a child
+2. You were physically abused as a child
+3. You were seriously physically attacked or assaulted
+4. You were raped (someone had sexual intercourse with
+you when you did not want to by threatening you or
+using some degree of force)
+5. You were sexually molested (someone touched or felt
+your genitals when you did not want them to)
+No explicit age limit was stated for "childhood" events.
+A summed variable was created to represent the total
+number of traumas experienced (ranging from 0 to 5).
+British Psychiatric Morbidity Survey. A 2-phase ap-
+proach was used to assess the presence of a psychotic dis-
+order. Initially, The Psychosis Screening Questionnaire
+was used at the first interview and followed by adminis-
+tration of the Schedule for Assessment in Neuropsychi-
+atry for those who met screening criteria.25,26 Responses
+from 5 questions from the List of Threatening Experien-
+ces27 were used to represent victimization, threats to
+physical integrity, and threats to sexual integrity (these
+were presented to the respondent on a list and referenced
+only by number). Specifically, a "yes" or "no" response
+was required to the following statements:
+1. Serious illness, injury or assault to yourself
+2. Bullying
+3. Violence at work
+4. Violence in the home
+5. Sexual abuse
+Background variables
+The background variables presented in Table 1 were used
+in the analyses. For the NCS, diagnoses of depression
+and alcohol and drug dependence were all CIDI based.
+For the BPMS, the diagnosis of an alcohol problem
+was based on a score greater than 8 on the Alcohol
+Use Disorders Identification Test.28,29 The Clinical Inter-
+view Schedule Revised was used to produce specific
+M. Shevlin et al.
+194
+International Classification of Diseases, Tenth Revision,
+diagnoses of neurosis.30 The diagnosis of a depressive ep-
+isode was included as a covariate. A description of the
+algorithms used is available.22 Five questions relating
+to drug dependence were asked, and a positive response
+to any one indicated some level of drug dependence.
+Analysis
+Two analyses were conducted; one based on the NCS and
+the other based on the BPMS. All analyses were conducted
+using hierarchical binary logistic regression in SPSS 11.0.
+The dependent variable in each case was the psychosis
+diagnosis (0, no psychosis; 1, psychosis). The following
+background variables, or covariates, were used in the first
+block: sex, age, education, employment status, living ar-
+rangements,income,ethnicity,urbanicity,alcoholproblem/
+dependence, drug problem/dependence, and depression.
+The variable representing the total number of traumas
+was entered in the second block. A simple contrast was
+usedspecifyingthefirstlevel(notraumas)tobethereference
+category. All other categories of the predictor variable
+are compared with the reference category. This provides
+an estimate of the likelihood of psychosis for each number
+of traumas compared with the trauma-free group. All
+analyses used the appropriate sampling weight variable.
+Results
+Frequency distributions for traumas from the NCS
+and BPMS are presented in Table 2. The distributions
+Table 1. Details of Background Variables From the NCS and BPMS and Variable Coding Frame
+Variable NCS % BPMS %
+Sex 0--Male 48.2 0--Male 44.9
+1--Female 51.8 1--Female 55.1
+Education 1--16þ y 22.4 1--Degree 14.6
+2--13­15 y 26.3 2--Teaching, HND, nursing 7.2
+3--12 y 33.1 3--A level 13.3
+4--0­11 y 18.2 4--GCSE 34.9
+5--No qualifications 30.1
+Employment 0--Not employed 26.2 0--Unemployed or
+economically inactive
+38.1
+1--Employed 73.8 1--Working part time or full time 61.9
+Living arrangements 0--Lives alone 14.8 0--Not in a couple 40.6
+1--Does not live alone 85.2 1--In a couple 59.4
+Income 1--$0­$19 999 28.9 1--£0­£10 999 28.3
+2--$20­$34 999 25.1 2--£11­£20 999 40.9
+3--$35­$69 999 33.6 3--£21­£30 999 24.6
+4--$70 000þ 12.4 4--£31 000þ 6.3
+Ethnicity 0--Other 24.9 0--Other 6.4
+1--White 75.1 1--White 93.6
+Urbanicity 0--Nonurban 66.3 0--Semi rural/rural 34.7
+1--Urban 33.7 1--Urban 65.3
+Alcohol 0--Not alcohol dependent 85.0 0--No problem drinking 24.3
+1--Alcohol dependent 15.0 1--Problem drinking 75.7
+Drug 0--Not drug dependent 92.2 0--Not drug dependent 97.0
+1--Drug dependent 7.8 1--Drug dependent 3.0
+Depression 0--Not depressed 82.0 0--Not depressed 97.0
+1--Depressed 18.0 1--Depressed 3.0
+Note: NCS, National Comorbidity Survey; BPMS, British Psychiatric Morbidity Survey.
+Table 2. Frequency Distributions for Traumas From the NCS
+and BPMS
+Trauma--NCS Count (%) Trauma--BPMS Count (%)
+Physical assault 492 (8.4) Serious illness,
+injury or assault
+to yourself
+2393 (27.9)
+Sexually molested 416 (7.1) Bullying 1480 (17.3)
+Raped 258 (4.4) Violence in the
+home
+714 (8.3)
+Physical abuse as
+child
+246 (4.2) Sexual abuse 346 (4.0)
+Neglected as child 164 (2.8) Violence at work 325 (3.8)
+Note: Abbreviations are explained in the first footnote to Table 1.
+195
+Cumulative Traumas and Psychosis
+of cumulative traumas for both samples are presented in
+Table 3. Regarding the experience of different types of
+traumatic events, Table 3 shows increased endorsement
+for the BPMS sample. This may be due to the more `gen-
+eral' nature of the wording of the traumatic experiences in
+the BPMS, compared with the more specific wording in
+the NCS survey.
+Table 3 shows that the majority of both samples did not
+experience any traumas and the number of people who
+experienced cumulative traumas decreased as the number
+of traumas increased. A very small percentage of individ-
+uals experienced 4 or more traumas. For the BPMS, the
+overall weighted prevalence of psychosis was 0.5%, which
+was slightly lower than 0.8% for the NCS.31
+The results from the hierarchical binary logistic regres-
+sion are presented in Table 4. The addition of the variable
+representing traumas made a significant improvement in
+the model for both the NCS (block 1: v2 = 68, df = 11,
+P < .01; block 2: v2 = 93, df = 16, P < .01; Dv2 = 25,
+Ddf = 5, P < .01) and the BPMS (block 1: v2 = 158,
+df = 11, P < .01; block 2: v2 = 250, df = 16, P < .01;
+Dv2 = 92, Ddf = 5, P < .01) data. The only significant
+background variable for the NCS was depression. For
+the BPMS, significance tests showed that the diagnosis
+of psychosis is related to being male, lower educational
+attainment, unemployment, lower income, urban envi-
+ronment, and depression. These differences are likely
+to be attributable to the minor differences in the study
+protocols because the odds ratios indicate the effects
+were in the same direction and of similar magnitude.
+In order to identify which specific traumas were max-
+imally related to psychosis, the analyses were rerun with
+the 5 trauma variables being entered in the second block.
+A stepwise selection procedure was used to identify the
+most important variables. For the NCS, the variables
+representing molestation (OR 2.51; 95% confidence inter-
+val [CI] 1.17­5.42; P < .01) and childhood physical abuse
+(OR 4.20; 95% CI 1.94­9.13; P < .05) were statistically
+significant. For the BPMS, the variables representing sex-
+ual abuse (OR 5.69; 95% CI 3.22­10.06; P < .01), serious
+illness, injury or assault (OR 2.94; 95% CI 1.77­4.89;
+P < .01), and violence at home (OR 2.16; 95%
+CI 1.21­3.87; P < .05) were statistically significant.
+For both the NCS and the BPMS experiencing 1 trauma
+was not significantly associated with a diagnosis of
+Table 3. Frequency Distributions and Unadjusted Odds Ratios for Cumulative Traumas From the NCS and BPMS
+NCS BPMS
+Traumas
+Trauma Frequency
+(%)
+Psychosis Cases
+(%)
+Unadjusted OR
+(95% CI)
+Trauma Frequency
+(%)
+Psychosis Cases
+(%)
+Unadjusted OR
+(95% CI)
+0 4681 (81) 20 (48.8) -- 4858 (56.7) 14 (23.0) --
+1 798 (13.8) 8 (19.5) 2.53* (1.12­5.69) 2589 (30.2) 14 (21.8) 1.91* (1.02­3.58)
+2 197 (3.4) 5 (12.2) 6.63** (2.53­17.42) 808 (9.4) 10 (17.2) 5.05** (2.58­9.91)
+3 70 (1.2) 4 (9.8) 15.49** (5.31­45.25) 226 (2.6) 15 (25.3) 30.04** (16.21­55.67)
+4 19 (0.3) 1 (2.4) 19.16** (3.35­109.71) 80 (0.9) 5 (6.9) 25.47** (10.07­64.41)
+5 17 (0.3) 3 (7.3) 53.26** (14.55­194.98) 11 (0.1) 2 (5.7) 160.37** (53.48­481.20)
+Total 5782 41 -- 8572 60 --
+Note: Abbreviations are explained in the first footnote to Table 1. OR, odds ratio; CI, confidence interval.
+*P < .05; **P < .01.
+Table 4. Estimates of Hierarchical Binary Logistic Regression
+Predicting Psychosis Based on the NCS and BPMS
+Variable NCS, OR (95% CI) BPMS, OR (95% CI)
+Age 0.98 (0.95­1.01) 1.00 (0.98­1.01)
+Sex 0.87 (0.43­1.75) 0.61* (0.37­0.99)
+Education 1.18 (0.83­1.68) 1.31* (1.03­1.66)
+Employment 0.57 (0.28-1.14) 0.52* (0.28­0.96)
+Living
+arrangements
+0.72 (0.25­2.10) 0.68 (0.41­1.12)
+Income 0.89 (0.64­1.25) 0.49** (0.32­0.76)
+Ethnicity 0.52 (0.26­1.04) 1.03 (0.40­2.64)
+Urbanicity 1.91 (0.90­4.05) 2.65** (1.35­5.19)
+Alcohol 0.93 (0.37­2.32) 0.86 (0.49­1.50)
+Drugs 1.18 (0.35­3.90) 0.95 (0.36­2.54)
+Depression 7.14** (3.55­14.37) 4.70** (2.68­8.27)
+No traumas
+1 trauma 1.62 (0.69­3.75) 1.70 (0.86­3.33)
+2 traumas 3.37* (1.21­9.33) 4.31** (2.10­8.87)
+3 traumas 7.42* (2.34­23.47) 18.01** (8.91­36.40)
+4 traumas 7.71* (1.22­48.53) 7.91** (2.61­23.91)
+5 traumas 30.16** (7.23­125.7) 192.97** (50.58­736.18)
+Note: Abbreviations are explained in the first footnote to Table 1.
+OR, odds ratios; CI, confidence interval.
+*P < .05; **P < .01.
+196
+M. Shevlin et al.
+psychosis (see Table 4). However, experiencing more than 1
+trauma type was significantly associated with psychosis.
+For the NCS, there was an increase in the odds ratios
+as the number of traumas increased, although the differ-
+ence between the odds ratios for 3 and 4 traumas was
+small. For the BPMS, the odds ratio for 3 traumas
+was higher than that for 4 traumas. The odds ratio for
+5 traumas was the highest in both samples.
+Discussion
+The current study set out to examine if cumulative trau-
+mas were associated with greater acknowledgment of
+psychosis symptoms in 2 nationally representative sam-
+ples, one from the United States of America and the other
+from the United Kingdom. Results clearly demonstrate
+that multiple traumatic experiences were associated
+with an increased likelihood of psychosis. Although a sin-
+gle trauma type did not significantly increase the likeli-
+hood of psychosis, experiencing 2 or more types of
+trauma significantly increased the likelihood of psycho-
+sis, with dramatic increases associated with experiencing
+all trauma types. The findings pertinently demonstrate
+a dose-response relationship between trauma and psy-
+chosis in these nonclinical samples, with increases in psy-
+chosis likelihood associated with more trauma exposure.
+Prior work in representative general population samples
+had supported a link between multiple traumas and psy-
+chiatric illnesses, such as depression.5 The present results
+confirmed previous findings within the trauma and psy-
+chosis literature by using 2 large community samples and
+highlightedadose-responseeffectwithreferencetotrauma
+and the increased likelihood of psychosis. Of particular
+emphasis were interpersonal traumas, and interestingly,
+these general population samples indicate that more
+than 1 type of interpersonal trauma is required to increase
+the likelihood of reporting psychosis symptoms.
+Although the dose-response association between the
+experience of traumas and psychosis was generally evi-
+dent, the increase in the odds ratios was not entirely con-
+sistent for the BPMS. Specifically, the experience of
+3 traumatic events resulted in a higher probability of psy-
+chosis than with 4 traumatic events. Yet, with this finding
+aside, the BPMS still showed a clear dose-response effect.
+Another interesting aspect of the results was that for both
+samples, the odds ratios associated with 5 traumas were
+very high relative to those for 4 traumas. For both the
+NCS and BPMS, the odds ratios associated with 5 trau-
+mas were similar or higher than the upper 95%
+confidence interval for 4 traumas. This suggests that al-
+though the relationships appear to be generally mono-
+tonic, they are not linear due to this large increase in
+effect size for 5 traumas.
+The current study showed that for the NCS, the trau-
+mas most significantly associated to psychosis were mo-
+lestation and physical abuse as a child. This is largely
+consistent with previous research in the area.32 Based
+on the BPMS, sexual abuse was the trauma with the
+strongest association with psychosis. Serious illness, in-
+jury or assault, and violence in the home were also sta-
+tistically significant. Such associations have now been
+reported consistently using both clinical and nonclinical
+samples.18,19,33­35 The argument for a causal relationship
+has been further strengthened by the use of prospective
+studies10 or studies that do not rely on retrospective
+accounts of traumatic experiences.36 The current findings
+indicate the added risk of multiple traumas. A recent text
+provides a substantive review of the literature regarding
+the link between trauma and psychosis.37
+The central challenge for future research is identifying
+and understanding the key mechanisms, which link in-
+creased trauma with psychosis symptoms. Cognitive
+models have identified the importance of misattributions,
+misinterpretations, and beliefs about psychosomatosen-
+sory experiences in the development and maintenance
+of psychosis symptoms, such as hallucinations and delu-
+sions.38­40 With a rediscovery of the effects of trauma on
+the body and on psychological as well as somatosensory
+systems, cumulative interpersonal traumas may heighten
+psychosomatosensory activation increasing the likeli-
+hood of etiologically significant misattributions, along
+with those that have a maintenance effect.41,42 Dissocia-
+tion is another psychological variable proposed to link
+traumatic experience with especially positive psychotic
+symptoms.35,43­46 Hallucinations, for example, may be
+the consequence of a failure to integrate percepts with af-
+fective and cognitive representations of a traumatic
+event.47 More traumas would lead to more dissociation
+and therefore greater fragmentary representations of
+traumatic events, which may be experienced as hallucina-
+tions. These and other explanatory models require empir-
+ical assessment.
+Alternatively, a Traumagenic Neurodevelopmental
+model8 has been proposed that suggests early traumatic
+life events can produce physiological changes that con-
+tribute to greater vulnerability to psychosis. In particular,
+this model proposes that stressful events produce activa-
+tion of the hypothalamic-pituitary-adrenal (HPA) axis,
+which is associated with the release of glucocorticoids,
+which can subsequently impair the regulation of the
+HPA axis if exposure to traumatic experiences is pro-
+longed. Such a process has also been implicated in the
+development of posttraumatic stress disorder48
+(PTSD). This may account for the high rates of comorbid
+PTSD with psychosis,49,50 similarity of psychotic and
+PTSD symptoms51 and PTSD as a contributing factor
+in interactive models of psychosis.52,53 The limitations
+of using general population samples to infer potential
+relationships in clinical disorders, such as the psychoses,
+has been addressed elsewhere54 as has the type of meth-
+odology used here. Additionally, research has addressed
+the methodological issues associated with the reliability
+197
+Cumulative Traumas and Psychosis
+of retrospective self-report accounts of traumatic experi-
+ences and concluded that such reports are ``surprisingly
+reliable.''9(p334) Indeed,accuratehistorieshavebeenreported
+by people with schizophrenia and other psychoses.8,55­58
+Anadditionallimitationofthepresentresearchisthepossible
+underestimation of abuse. Previous research has shown that
+askingabout``abuse''asopposedtoaskingspecificquestions
+regardingabusecanleadtolowerratesofacknowledgement
+by around 50%.59 But a particular limitation of the current
+study, in light of the variables examined, is no specific age
+limit or age specificity for traumatic events. With no indica-
+tion of trauma onset or the chronology of multiple traumas,
+noconclusionscanbedrawnonthedevelopmentalimpactof
+trauma or at what point during development multiple trau-
+mas increase risk of psychosis symptom formation. In addi-
+tion,themeasureofcumulativetraumaticexperiencesusedin
+this study does not account for multiple same trauma expe-
+riencesorindividualdifferencesintheseverityofaparticular
+trauma. The analysis also assumes that the effect of the dif-
+ferent traumas is comparable.
+The current study has demonstrated the relationship
+between multiple childhood and interpersonal trauma
+types and increased likelihood of experiencing psychosis
+symptoms in 2 large, representative, general population
+samples. As well as highlighting a dose-response relation-
+shipbetweentraumatypesandpsychosis,theseresultsfur-
+therhighlighttheneedforathoroughtraumaassessmentin
+individuals with psychotic illnesses. This increases the
+likelihood that, where appropriate, interventions can be
+psychologically formulated and driven. However, there
+remainsapressingneedforagreaterempiricalunderstand-
+ing of the nature of, and difference between, psychosis
+associated with trauma and psychosis unassociated with
+trauma. Studies have tended to report trauma associated
+with a large number of psychotic individuals, but not all.
+Thus, there is no empirical foundation to suggest that
+trauma is an etiological risk factor for all psychoses. Con-
+sequently, different treatment strategies may be required
+for different psychotic presentations and etiological foun-
+dations. As this study alludes to, for some individuals,
+the impact of multiple childhood interpersonal traumas
+may be pertinent to both case formulation and treatment.
+References
+1. Frans O
+¨ , Rimmo
+¨ PA, A
+° berg L, Fredrikson M. Trauma expo-
+sure and post-traumatic stress disorder in the general popula-
+tion. Acta Psychiatr Scand. 2005;111:291­299.
+2. Kessler RC, Sonnega A, Bromet E, Hughes M, Nelson CB.
+Posttraumatic stress disorder in the National Comorbidity
+Survey. Arch Gen Psychiatry. 1995;52:1048­1060.
+3. Perkonnig A, Kessler RC, Storz S, Wittchen HU. Traumatic
+events and post-traumatic stress disorder in community: prev-
+alence, risk factors and comorbidity. Acta Psychiatr Scand.
+2000;101:46­59.
+4. Resnick HS, Kilpatrick DG, Dansky BS, Saunders BE, Best
+CL. Prevalence of civilian trauma and PTSD in a representa-
+tive national sample of women. J Consult Clin Psychol. 1993;
+61:984­991.
+5. Tanskanen A, Hintikka J, Honkalampi K, Haatainen K,
+Koivumaa-Honkanen H, Viinama
+¨ki H. Impact of multiple trau-
+matic experiences on the persistence of depressive symptoms--a
+population-based study. Nord J Psychiatry. 2004;58:459­464.
+6. Edwards VJ, Holden GW, Felitti VJ, Anda RF.
+Experiencing multiple forms of childhood maltreatment and
+adult mental health: results from the adverse childhood experi-
+ences (ACE) study. Am J Psychiatry. 2003;160:1453­1460.
+7. Mueser KT, Goodman LB, Trumbetta SL, et al. Trauma and
+post-traumatic stress disorder in severe mental illness. J Con-
+sult Clin Psychol. 1998;66:493­499.
+8. Read J, Perry BD, Moskowitz A, Connolly J. The Contribu-
+tion of early traumatic events to schizophrenia in some
+patients: a traumagenic neurodevelopmental model. Psychia-
+try. 2001;64:319­345.
+9. Read J, Van Os J, Morrison AP, Ross CA. Childhood
+trauma, psychosis and schizophrenia: a literature review
+with theoretical and clinical implications. Acta Psychiatr
+Scand. 2005;112:330­350.
+10. Janssen I, Krabbendam L, Bak M, et al. Childhood abuse as
+a risk factor for psychotic experiences. Acta Psychiatr Scand.
+2004;109:38­45.
+11. Whitfield CL, Dube SR, Felitti VJ, Anda RF. Adverse child-
+hood experiences and hallucinations. Child Abuse Negl.
+2005;29:797­810.
+12. Schenkel LS, Spaulding WD, DiLillo D, Silverstein SM. His-
+tories of childhood maltreatment in schizophrenia: relation-
+ships with premorbid functioning, symptomology, and
+cognitive deficits. Schizophr Res. 2005;76:273­286.
+13. Spataro J, Mullen P, Burgess P, Wells D, Moss A. A
+prospective study in males and females of the impact of child
+sexual abuse on mental health. Br J Psychiatry. 2004;184:
+416­421.
+14. Masters KJ. Environmental trauma in psychosis. J Am Acad
+Child Adolesc Psychiatry. 1995;34:1258.
+15. Ross CA, Joshi S. Schneiderian symptoms and childhood
+trauma in the general population. Compr Psychiatry. 1992;
+33:269­273.
+16. Greenfield SF, Stratowski SM, Tohen M, Batson S, Kolbr-
+ener ML. Childhood abuse in first-episode psychosis. Br J
+Psychiatry. 1994;164:831­834.
+17. American Psychiatric Association.Diagnostic and Statistical
+Manual of Mental Disorders (DSM-IV). 4th ed. Washington,
+DC: American Psychiatric Association; 1994.
+18. Read J, Agar K, Argyle N, Aderhold V. Sexual and physical
+abuse during childhood and adulthood as predictors of hallu-
+cinations, delusions and thought disorder. Psychol Psy-
+chother. 2003;76:1­22.
+19. Spence W, Mulholland C, Lynch G, McHugh S, Dempster
+M, Shannon C. Rates of childhood trauma in a sample of
+patients with schizophrenia as compared with a sample of
+patients with non-psychotic psychiatric diagnoses. J Trauma
+Dissociation. 2006;7:7­22.
+20. Kessler RC. The National Comorbidity Survey of the United
+States. Int Rev Psychiatry. 1994;6:365­376.
+21. Shevlin M, Dorahy MJ, Adamson G. Childhood traumas
+and hallucinations: an analysis of the National Comorbidity
+Survey. J Psychiatr Res. 2007;41:222­228.
+22. Singleton N, Bumpstead R, O'Brien M, Lee A, Meltzer H.
+Psychiatric morbidity among adults living in private house-
+holds. Int Rev Psychiatry. 2001;15:65­73.
+198
+M. Shevlin et al.
+23. American Psychiatric Association.Diagnostic and Statistical
+Manual of Mental Disorders (DSM-IIIR). 3rd ed. revised
+Washington, DC: American Psychiatric Association; 1987.
+24. World Health Organization.Composite International Diagnos-
+tic Interview (CIDI), Version 1.0. Geneva, Switzerland:
+World Health Organization; 1990.
+25. Bebbington PE, Nayani T. The Psychosis screening instru-
+ment questionnaire. Int J Methods Psychiatr Res. 1995;5:11­
+19.
+26. World Health Organization.Schedules for Clinical Assessment
+in Neuropsychiatry. Geneva, Switzerland: World Health
+Organization; 1999.
+27. Brugha T, Bebbington P, Tennant C, Hurry J. The list of
+threatening experiences: a subset of life event categories
+with considerable long-term threat. Psychol Med. 1985;15:
+189­194.
+28. Babor TF, De La Fuente RJ, Saunders J, Grant M. AUDIT:
+The Alcohol Use Disorders Identification Test: Guidelines for
+Use in Primary Health Care. Geneva, Switzerland: World
+Health Organisation; 1989.
+29. Saunders JB, Aasland OG, Babor TF, De La Fuente JR,
+Grant M. Development of the Alcohol Use Disorders Identi-
+fication Test (AUDIT): WHO collaborative project on early
+detection of persons with harmful alcohol consumption-II.
+Addiction. 1993;88:791.
+30. Lewis G, Pelosi AJ, Araya R, Dunn G. Measuring psychiatric
+disorder in the community: a standard assessment for use by
+lay interviewers. Psychol Med. 1992;22:465­486.
+31. Kendler KS, Gallagher TJ, Abelson JM, Kessler RC. Life-
+time prevalence, demographic risk factors, and diagnostic val-
+idity of nonaffective psychosis as assessed in a US community
+sample: the national comorbidity survey. Arch Gen Psychia-
+try. 1996;53:1022­1031.
+32. Shevlin M, Dorahy MJ, Adamson G. Trauma and Psychosis:
+an analysis of the National Comorbidity Survey. Am J Psy-
+chiatry. 2007;164:166­169.
+33. Bebbington PE, Bhugra D, Brugha T, et al. Psychosis, victim-
+isation and childhood disadvantage: evidence from the second
+British National Survey of Psychiatric Morbidity. Br J Psy-
+chiatry. 2004;185:220­226.
+34. Hammersley P, Dias A, Todd G, Bowen-Jones K, Reilly B,
+Bentall RP. Childhood traumas and hallucinations in bipolar
+affective disorder: preliminary investigation. Br J Psychiatry.
+2003;182:543­547.
+35. Ross CA, Anderson G, Clark P. Childhood abuse and the
+positive symptoms of schizophrenia. Hosp Community Psy-
+chiatry. 1994;45:489­491.
+36. Niemei LT, Suvisaari JM, Haukka JK, Lo
+¨nnqvist JK. Child-
+hood predictors of future psychiatric morbidity in offspring
+of mothers with psychotic disorder: results from the Helsinki
+high-risk study. Br J Psychiatry. 2005;186:108­114.
+37. Larkin W, Morrison AP. Trauma and Psychosis: New
+Directions for Theory and Therapy. London: Routledge; 2006.
+38. Bak M, Krabbendam L, Janssen I, De Graaf R, Vollebergh W,
+Van Os J. Early trauma may increase the risk for psychotic ex-
+perienced by impacting on emotional response and perception
+of control. Acta Psychiatr Scand. 2005;112:360­366.
+39. Bentall RP. The syndromes and symptoms of psychosis: or
+why you can't play twenty questions with the concept
+of schizophrenia and hope to win. In: Bentall RP, ed.
+Reconstructing Schizophrenia. London, England: Routledge;
+1990.
+40. Garety PA, Kuipers E, Fowler D, Freeman D, Bebbington
+PE. A cognitive model of the positive symptoms of psychosis.
+Psychol Med. 2001;31:189­195.
+41. Van der Kolk BA. The body keeps the score: memory and the
+evolving psychobiology of posttraumatic stress. Harv Rev
+Psychiatry. 1994;1:253­266.
+42. Van der Kolk BA, McFarlane AC, Weisaeth L. Traumatic
+stress: The Effects of Overwhelming Experience on Mind, Body
+and Society. New York, NY: Guilford Press; 1996.
+43. Kilcommons A, Morrison AP. Relationships between trauma
+and psychosis: an exploration of cognitive and dissociative
+factors. Acta Psychiatr Scand. 2005;112:351­359.
+44. Moskowitz AK, Read J, Farrelly S, Rudegeair T, Williams O.
+Are psychotic symptoms traumatic in origin and dissociative
+in kind? In: Dell PF, O'Neill J eds. Dissociation and the Dis-
+sociative Disorders: DSM-V and Beyond. Routledge: New
+York, NY; 2007.
+45. Moskowitz AK, Corstens D Auditory hallucination: psy-
+chotic symptom or dissociative experience. J Trauma Pract.
+In press.
+46. Ross CA. Schizophrenia: Innovations in Diagnosis and Treat-
+ment. New York, NY: Haworth Press Inc; 2004.
+47. Kennedy F, Clarke S, Stopa L, et al. Towards a cognitive
+model and measure of dissociation. J Behav Ther Exp Psychi-
+atry. 2004;35:25­48.
+48. Wilson JP, Keane TM. Assessing Psychological Trauma and
+PTSD. New York, NY: Guildford Press; 2004.
+49. Frame L, Morrison AP. Causes of posttraumatic stress disorder
+in psychotic patients. Arch Gen Psychiatry. 2001;58:305­306.
+50. Priebe S, Broker M, Gunkel S. Involuntary admission and
+posttraumatic stress disorder symptoms in schizophrenia
+patients. Compr Psychiatry. 1998;39:220­225.
+51. Seedat S, Stein M, Oosthuizen P, Elmsley R, Stein D. Linking
+PTSD and psychosis: a look at epidemiology, phenomenol-
+ogy, and treatment. J Nerv Ment Dis. 2003;191:675­681.
+52. Mueser KT, Rosenberg SD, Goodman LA, Trumbetta SL.
+Trauma, PTSD, and the course of severe mental illness: an
+interactive model. Schizophr Res. 2002;53:123­143.
+53. Jankowski MK, Mueser KT, Rosenberg SD. Psychosis with
+comorbid PTSD. In: Larkin W, Morrison AP, eds. Trauma
+and Psychosis: New directions for Theory and Therapy.
+London: Routledge; 2006:75­100.
+54. Hanssen MSS, Bijl RV, Vollebergh W, Van Os J. Self-
+reported psychotic experiences in the general population:
+a valid screening tool for DSM-III-R psychotic disorders?
+Acta Psychiatr Scand. 2003;10:369­377.
+55. Read J, Argyle N. Hallucinations, delusions, and thought dis-
+order among adult psychiatric inpatients with a history of
+child abuse. Psychiatr Serv. 1999;50:1467­1472.
+56. Read J, Fraser A. Abuse histories of psychiatric inpatients: to
+ask or not to ask. Psychiatr Serv. 1998;49:355­359.
+57. Read J, Ross CA. Psychological trauma and psychosis: an-
+other reason why people diagnosed schizophrenic must be of-
+fered psychological therapies. J Am Acad Psychoanal Dyn
+Psychiatry. 2003;31:247­268.
+58. Read JP, Stern AL, Wolfe J, Ouimette PC. Use of a screening
+instrument in women's health care: detecting relationships
+among victimization history, psychological distress, and med-
+ical complaints. Women Health. 1997;25:1­17.
+59. Dill DL, Chu JA, Grob MC, Eisen SV. The reliability of
+abuse history reports: a comparison of two inquiry formats.
+Compr Psychiatry. 1991;32:166­169.
+199
+Cumulative Traumas and Psychosis
+

@@ -1,0 +1,1185 @@
+BioMed Central
+Page 1 of 15
+(page number not for citation purposes)
+Environmental Health
+Open Access
+Research
+Association of urinary phthalate metabolite concentrations with
+body mass index and waist circumference: a cross-sectional study of
+NHANES data, 1999­2002
+Elizabeth E Hatch*1, Jessica W Nelson2, M Mustafa Qureshi3,
+Janice Weinberg4, Lynn L Moore3, Martha Singer3 and Thomas F Webster2
+Address: 1Department of Epidemiology, Boston University School of Public Health, 715 Albany St., Boston, MA 02118, USA, 2Department of
+Environmental Health, Boston University School of Public Heal, 715 Albany St., Boston, MA 02118, USA, 3Section of Preventive Medicine &
+Epidemiology, Boston University School of Medicine, Harrison Court (Room B04), Boston, MA 02118, USA and 4Department of Biostatistics,
+Boston University School of Public Health, 715 Albany Street, Crosstown Center-3rd Floor, Boston, MA 02118, USA
+Email: Elizabeth E Hatch* - eehatch@bu.edu; Jessica W Nelson - jwnelson@bu.edu; M Mustafa Qureshi - mustafaq@bu.edu;
+Janice Weinberg - janicew@bu.edu; Lynn L Moore - llmoore@bu.edu; Martha Singer - msinger@bu.edu; Thomas F Webster - twebster@bu.edu
+* Corresponding author
+Abstract
+Background: Although diet and activity are key factors in the obesity epidemic, laboratory studies suggest that
+endocrine disrupting chemicals may also affect obesity.
+Methods: We analyzed associations between six phthalate metabolites measured in urine and body mass index
+(BMI) and waist circumference (WC) in National Health and Nutrition Examination Survey (NHANES)
+participants aged 6­80. We included 4369 participants from NHANES 1999­2002, with data on mono-ethyl
+(MEP), mono-2-ethylhexyl (MEHP), mono-n-butyl (MBP), and mono-benzyl (MBzP) phthalate; 2286 also had data
+on mono-2-ethyl-5-hydroxyhexyl (MEHHP) and mono-2-ethyl-5-oxohexyl (MEOHP) phthalate (2001­2002).
+Using multiple regression, we computed mean BMI and WC within phthalate quartiles in eight age/gender specific
+models.
+Results: The most consistent associations were in males aged 20­59; BMI and WC increased across quartiles of
+MBzP (adjusted mean BMI = 26.7, 27.2, 28.4, 29.0, p-trend = 0.0002), and positive associations were also found
+for MEOHP, MEHHP, MEP, and MBP. In females, BMI and WC increased with MEP quartile in adolescent girls
+(adjusted mean BMI = 22.9, 23.8, 24.1, 24.7, p-trend = 0.03), and a similar but less strong pattern was seen in 20­
+59 year olds. In contrast, MEHP was inversely related to BMI in adolescent girls (adjusted mean BMI = 25.4, 23.8,
+23.4, 22.9, p-trend = 0.02) and females aged 20­59 (adjusted mean BMI = 29.9, 29.9, 27.9, 27.6, p-trend = 0.02).
+There were no important associations among children, but several inverse associations among 60­80 year olds.
+Conclusion: This exploratory, cross-sectional analysis revealed a number of interesting associations with
+different phthalate metabolites and obesity outcomes, including notable differences by gender and age subgroups.
+Effects of endocrine disruptors, such as phthalates, may depend upon endogenous hormone levels, which vary
+dramatically by age and gender. Individual phthalates also have different biologic and hormonal effects. Although
+our study has limitations, both of these factors could explain some of the variation in the observed associations.
+These preliminary data support the need for prospective studies in populations at risk for obesity.
+Published: 3 June 2008
+Environmental Health 2008, 7:27 doi:10.1186/1476-069X-7-27
+Received: 28 January 2008
+Accepted: 3 June 2008
+This article is available from: http://www.ehjournal.net/content/7/1/27
+© 2008 Hatch et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 2 of 15
+(page number not for citation purposes)
+Background
+The prevalence of obesity has increased dramatically over
+the last several decades in the United States (U.S.) and
+Europe, and more recently in developing countries [1].
+Although changes in dietary patterns and physical activity
+are undoubtedly key causal factors [2], there is growing
+interest in the possibility that endocrine disrupting chem-
+icals, such as phthalates, may affect obesity-related path-
+ways by altering hormone action or gene expression [3,4].
+Exposure to endocrine disrupting chemicals can interfere
+with synthesis, release, transport, metabolism, binding,
+action, or elimination of natural hormones. Proposed
+biologic mechanisms that could underlie an association
+between endocrine disruptors and obesity include altera-
+tions in thyroid and steroid hormone function [5,6], and
+activation of peroxisome proliferator-activated receptors
+(PPARs) [7] which play a major role in adipocyte differen-
+tiation and energy storage [8].
+Phthalates are ubiquitous industrial chemicals used as
+plasticizers, solvents, lubricants, and stabilizers in the
+manufacture of consumer products such as children's
+toys, medical equipment and medications, cosmetics, and
+food packaging [9]. The general population is exposed to
+phthalates by ingestion of food and water, dermal expo-
+sure, and inhalation of polluted air [10]. Once taken into
+the body, phthalates are quickly metabolized and excreted
+in urine and feces. Lower molecular weight phthalates,
+such as diethyl phthalate (DEP), are metabolized prima-
+rily to their hydrolytic monoesters during phase I
+biotransformation, whereas higher molecular weight
+phthalates, including di-2-ethylhexyl phthalate (DEHP),
+are further metabolized to more hydrophilic oxidative
+metabolites. Monoesters and oxidative metabolites can be
+excreted unchanged or can undergo glucuronidation in a
+phase II biotransformation to a more water soluble com-
+pound [9,10].
+Animal studies have found carcinogenic effects, testicular
+and ovarian toxicity, and hormonal, hepatic, and renal
+effects following phthalate exposure [9,11-14]. While the
+results of human studies are not entirely consistent [9],
+several have suggested anti-androgenic effects [15-17] and
+one reported thyroid function changes [18], both of
+which may play a role in obesity and fat distribution. The
+only study to directly evaluate phthalates and obesity-
+related outcomes in humans found a positive correlation
+between several phthalate metabolites and waist circum-
+ference and a measure of insulin resistance among adult
+males[19].
+The U.S. Centers for Disease Control and Prevention
+(CDC) has conducted biomonitoring on random samples
+of approximately one-third of the total National Health
+and Nutrition Examination Survey (NHANES) popula-
+tion since 1999. Over 100 environmental chemicals,
+including phthalate metabolites, have been measured in
+blood and/or urine, and are publicly available for the
+years 1999­2002 [10]. In this analysis, we examined the
+relationship between six urinary phthalate metabolites
+and body mass index (BMI) and waist circumference
+(WC) in male and female subjects, aged 6­80 years, who
+were participants in NHANES during 1999­2002. Because
+both body size and hormonal processes vary substantially
+with age and gender, we conducted stratified analyses
+within eight age/gender subgroups (6­11, 12­19, 20­59,
+and 60­80 years).
+Methods
+NHANES is a nationally representative random sample of
+the non-institutionalized U.S. civilian population selected
+using a complex multistage probability sampling design.
+Since 1999, NHANES has enrolled approximately 5000
+subjects each year. In-home interviews and physical exam-
+inations in a mobile exam unit are used to assess behavio-
+ral and physical risk factors and characteristics. NHANES
+obtained written informed consent from all participants,
+and all data are available on the NHANES website in a de-
+identified form. Details regarding questionnaires, physi-
+cal examination components, and testing procedures are
+available elsewhere [20].
+A total of 5149 participants, aged 6 and older, had phtha-
+late measurements and data on BMI and WC. We
+excluded participants who reported dialysis (n = 4), chem-
+otherapy (n = 8), insulin treatment (n = 64), pregnancy (n
+= 204), or breastfeeding (n = 39) because of associations
+with BMI or central adiposity. We also excluded 148 sub-
+jects over 80 years old as weight loss commonly occurs in
+the elderly. Finally, we excluded 313 subjects who had
+missing values on one or more covariates.
+Measurement of phthalate metabolites
+Details of laboratory methods for measuring phthalate
+metabolites are reported elsewhere [21]. Briefly, spot
+urine samples were frozen at -20°C and shipped to CDC's
+National Center for Environmental Health for analysis.
+Metabolites were measured using isotope dilution high-
+performance liquid chromatography and mass spectrom-
+etry. NHANES measured seven phthalate mono-ester
+metabolites in urine samples during 1999­2002: mono-
+ethyl phthalate (MEP), mono-(2-ethyl)-hexyl phthalate
+(MEHP), mono-benzyl phthalate (MBzP), mono-
+cyclohexyl phthalate (MCP), mono-isononyl phthalate
+(MNP), mono-n-octyl phthalate (MOP), and mono-butyl
+phthalate (MBP), which represents the sum of two iso-
+mers, mono-n-butyl and mono-isobutyl phthalate. We
+analyzed four metabolites detectable in at least 80% of the
+study population: MEP, MEHP, MBP, and MBzP. Several
+additional metabolites were measured during 2001­
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 3 of 15
+(page number not for citation purposes)
+2002. We included mono-(2-ethyl-5-hydroxyhexyl)
+phthalate (MEHHP) and mono-(2-ethyl-5-oxohexyl)
+phthalate (MEOHP), two oxidative metabolites of MEHP
+that are detected at higher levels than MEHP [22,23].
+Metabolites less than the limit of detection (LOD) were
+replaced with the LOD divided by the square root of two
+[10]. A total of 4369 observations were available for the
+analyses of MEP, MEHP, MBP, and MBzP, and 2286 sub-
+jects for the analyses of MEHHP and MEOHP.
+Anthropometric variables
+NHANES measured weight, height, and WC during the
+physical examination according to a standard protocol
+[24]. We used BMI as a measure of overall obesity and WC
+as an indicator of central adiposity, which may be more
+strongly related to health than BMI [25].
+Diet, exercise, and other potential confounding variables
+Dietary variables
+NHANES assessed diet with a 24-hour recall using a com-
+puter-assisted dietary interview. We examined the follow-
+ing dietary variables as potential confounders of the
+relation between phthalates and obesity/central obesity:
+(1) energy intake; (2) energy-adjusted macronutrient
+intakes (total fat, saturated fat, carbohydrates, and pro-
+tein); (3) grams of fiber per 1000 kilocalories; (4) daily
+servings in each of the five major U.S. Department of Agri-
+culture (USDA) Food Pyramid categories [26] (dairy, fruit,
+grains, vegetables, and meat); and (5) discretionary fat
+and added sugars as defined by the USDA Food Pyramid.
+Physical activity
+Physical activity was assessed for subjects aged 12 and
+older with a standard leisure time activity questionnaire.
+Estimated energy expenditure was derived by applying
+metabolic equivalent (MET) levels to reported frequencies
+of activities. We also investigated confounding effects of
+physical activity using other variables, including a dichot-
+omous variable for leisure time physical activity; average
+minutes/day of leisure activity; a variable which asked
+respondents whether their activity was greater, the same,
+or less than others their age; and an index which com-
+bined several leisure and non-leisure time activity varia-
+bles.
+We estimated sedentary behavior by hours spent watching
+television, playing video games, and using a computer
+outside of work. Parents provided information on their
+children's behavior during the past 24-hour time period;
+adolescents (aged 12­19) and adults reported their usual
+daily habits over the past month.
+Demographic variables
+NHANES collected data on race/ethnicity, education, and
+family income during the home interview. Education
+level was categorized as less than high school, high school
+diploma, and more than high school. We used three alter-
+native approaches to examine potential confounding
+effects of socio-economic status (SES): self-reported total
+family income; the poverty-income ratio (PIR, a ratio of
+U.S. Census-defined poverty level to family income); and
+a dichotomous indicator which combined several socioe-
+conomic variables. The indicator variable first used
+income, if available, to categorize participants as lower
+SES if their income was less than or equal to $20,000. If
+data on income were missing, education was used to clas-
+sify participants (aged 19 and older) as low SES if they had
+less than high school education. If both income and edu-
+cation were missing, evidence of food insecurity among
+parents or children (e.g., use of food stamps, insufficient
+food for parents or children) was used to classify subjects
+as low SES.
+Smoking and alcohol consumption
+Information on smoking and alcohol consumption was
+available for adults aged 20 and older. Based on informa-
+tion reported in the home interview, we classified subjects
+as current, former, or never smokers. We categorized alco-
+hol consumption habits (during the prior month) as
+none, < 1 drink per week, 1­<4 drinks per week, 4­<8
+drinks per week, or 8 or more drinks per week.
+Menopausal status and parity
+We used questions on menstrual history to categorize
+women aged 20 and older as pre- or postmenopausal.
+Women who were still having regular menstrual cycles
+(not due to hormone replacement therapy) were consid-
+ered premenopausal. We classified women as postmeno-
+pausal if they had not had a menstrual period for  12
+months or had had a hysterectomy. Women whose status
+was unclear were assigned missing values. Parity was cate-
+gorized into nulliparous, one live birth, or more than one
+live birth.
+Statistical analysis
+We carried out gender specific analyses within four age
+strata: 6­11, 12­19, 20­59, and 60­80 years. We used a
+locally weighted regression smoother (LOESS) [27] to
+examine the shape of the relationship between each
+phthalate as a continuous variable and BMI or WC. As
+these analyses did not identify natural cut-points, we used
+age/gender specific quartiles of each metabolite as the
+exposure variables in multivariate models. We also cre-
+ated quartiles based on the overall distribution of each
+phthalate in the entire population aged 6­80.
+We used multiple linear regression models to examine the
+relationship between phthalate quartiles and BMI and
+WC controlling for potential confounding variables. We
+included age, creatinine, race/ethnicity, height, and SES as
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 4 of 15
+(page number not for citation purposes)
+core covariates in all models. Age was modeled continu-
+ously in children aged 6­11 and adolescents aged 12­19,
+and categorically (by 10 year age group) in adults. As rec-
+ommended by Barr et al, we included creatinine as an
+independent variable in the model, instead of using creat-
+inine-adjusted phthalate values [28]. We included race/
+ethnicity and SES because of relationships with both
+phthalates [10,29] and BMI and WC [30,31]. As there
+were no important differences between the three SES var-
+iables described above, we selected the dichotomous var-
+iable for the final models because it had the fewest
+missing values. In general, there appeared to be very little
+confounding by the remaining variables that were evalu-
+ated. In order to simplify the presentation and interpreta-
+tion of the data, other potential confounders were
+retained in all of the models for which they were available
+if their inclusion led to meaningful changes in the expo-
+sure effect estimates (>10%) or if they were significant
+predictors in any of the age and gender subgroup models.
+Variables included in the final models were percent of cal-
+ories from total fat (<30, 30-<38, 38+), servings of dairy
+(tertiles), servings of fruits and vegetables (tertiles),
+METS/month, TV/video/computer use, smoking (aged
+20+), menopausal status, and parity (females aged 20+).
+We also ran models stratifying by menopausal status in
+women aged 20­80. Neither alcohol consumption nor
+education had meaningful effects on the phthalate esti-
+mates. Tests for trend were performed by treating phtha-
+late category as a linear predictor in the models.
+In evaluating the relationship between MEHP and the
+outcomes, we ran models that included MEHP's oxidative
+metabolites separately as covariates in addition to the
+standard model described above. Hauser [32] and Meeker
+[18] used this method to address potential individual dif-
+ferences in metabolism of DEHP. We also created a varia-
+ble for the percent of DEHP that was excreted as MEHP, as
+described by Hauser (%MEHP) [32]. This involved con-
+verting the urinary levels of MEHP, MEHHP, and MEOHP
+to nanomoles per milliliter, dividing MEHP by the sum of
+MEHP, MEHHP, and MEOHP, and multiplying by 100.
+SAS version 9.1 was used for all analyses. We used Proc
+Surveyreg to calculate adjusted mean differences in BMI
+and WC accounting for stratification by geography and
+the proportion of minority populations and clustering
+within primary sampling units. We adjusted for the cov-
+ariates representing the over-sampled subgroups rather
+than using sampling weights; this adjustment is regarded
+as a good compromise between efficiency and bias
+[33,34].
+Results
+Tables 1 and 2 present summary statistics for measures of
+obesity, exposure, and covariates by age, for females and
+males, respectively. Phthalates were detected in most par-
+ticipants; MEP and MBP were detected in greater than
+99%, MBzP and MEHHP in 98%, MEOHP in 97%, and
+MEHP in 81% of the study sample. MEP was detected at
+the highest levels in all subgroups. Females had higher
+levels of all metabolites than males. Except for MEP, levels
+of phthalates were highest in 6­11 year olds. Females had
+higher mean BMI in all age groups except children,
+whereas males had higher mean WC measurements. The
+high proportion of Hispanic and non-Hispanic black ado-
+lescents is attributable to over-sampling in that age group.
+In general, phthalate metabolites did not appear to be
+strongly related to diet. There was some evidence of a pos-
+itive trend between percent of kilocalories from total fat
+and level of MEHP and MEP. The medians for MEHP
+increased from 3.3, 3.4, 3.3, 3.6, to 3.7 g/gm creatinine
+across quintiles of dietary fat, and for MEP, from 147.5,
+153.1, 150.3, 154.3, to 163.8 g/gm creatinine. There
+were some suggestive inverse relationships between the
+level of several metabolites and the percent of kilocalories
+from carbohydrates. There did not appear to be important
+associations between phthalates and the other dietary var-
+iables.
+Phthalate metabolites were moderately or strongly corre-
+lated (Table 3). MEP had the weakest correlations
+(r<0.26­0.38) with other phthalates. MEHP was strongly
+correlated with the oxidative metabolites of DEHP,
+MEHHP and MEOHP (r = 0.68), which were highly corre-
+lated with each other (r = 0.98). MBP and MBzP were also
+strongly correlated (r = 0.72). Creatinine was weakly pos-
+itively correlated with BMI and WC (r = 0.01­0.18); corre-
+lations tended to be stronger among females than males
+except among adolescents (data not shown).
+The associations between phthalate metabolites and the
+outcomes, BMI and WC, were similar; therefore, we only
+present the results for BMI graphically. Results for both
+BMI and WC are included in Additional files 1 and 2. Fig-
+ures 1, 2, 3, 4, 5 present adjusted mean differences in BMI
+(kg/m2) with increasing quartile of phthalate exposure for
+five metabolites, separately for males and females. Results
+of trend tests are included for trends with p-values<0.15.
+The results for MEHHP and MEOHP were virtually identi-
+cal (MEOHP not shown). We found no major differences
+in the results when we used cut-points based on quartiles
+derived from the entire study population; therefore, we
+present the results for age/gender specific quartiles. We
+also found no major differences in results when we strati-
+fied by menopausal status in adult females (data not
+shown). Tables 1 and 2 present the ranges for each phtha-
+late quartile, within age and gender subgroups, and the
+regression coefficients for both BMI (kg/m2) and WC (cm)
+comparing quartiles 2­4 to quartile 1 separately by age,
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 5 of 15
+(page number not for citation purposes)
+along with 95% confidence limits (CIs) and the p-values
+for test of trend.
+Figure 1 presents results for MEP for males (top) and
+females (bottom) respectively. A positive relationship
+between MEP quartile and BMI was apparent for adult
+males (20­59 and 60­80), and for adolescent and adult
+(20­59) females. Most of the coefficients for MEP were
+positive, with the exception of adolescent males (no rela-
+tionship) and older females (an inverse relationship). For
+adolescent girls, adjusted mean BMIs were 22.9, 23.8,
+24.1, and 24.7 (p-trend = 0.03) with increasing quartile of
+metabolite concentration, and adjusted mean WCs were
+77.4, 79.7, 80.1, and 81.6 (p-trend = 0.02). The effect esti-
+mate for WC for the highest quartile of MEP was larger
+than all other variables in the fully adjusted model; the
+next largest estimates were -3.1 and -2.9 cm for the top
+two tertiles of fruit and vegetable consumption, compared
+to 4.1 and 2.7 cm for the highest two MEP quartiles com-
+pared to the lowest. The associations between MEP and
+BMI and WC in adult women were similar, but less pro-
+nounced; the adjusted mean BMIs among women aged
+20­59 by MEP quartiles were 28.9, 28.9, 29.0, and 29.8
+(p-trend = 0.14). There was some evidence for further
+effect modification by age with positive effects for 40­59
+year old females, but little evidence of an association
+among 20­39 year olds.
+Results for MBP are presented in Figure 2. There were sig-
+nificant inverse trends between MBP level and BMI and
+WC among 60­80 year olds. There were no clear trends
+among children or adolescents of either gender. The pat-
+terns in adult males and females were different, with sug-
+gestive positive trends among males for both BMI and
+WC, but inverse trends among females.
+There was a strong positive relationship between MBzP
+quartile and BMI and WC among adult males aged 20­59
+(Figure 3). The adjusted mean BMIs from quartile 1 to 4
+were 26.7, 27.2, 28.4, and 29.0 (p-trend = 0.0002). In
+contrast, there was a borderline inverse trend among 60­
+80 year old males. There were no major trends among
+females (Figure 3), although the estimates were positive
+among all age groups, except for 60­80 year olds.
+Table 1: Distribution of selected characteristics among females by age, NHANES 1999­2002, phthalate subsample
+Females
+Characteristics 6­11 yrs (n = 327) 12­19 yrs (n = 682) 20­59 yrs (n = 761) 60­80 yrs (n = 348)
+Phthalate metabolites, 1 (% above LOD2) Geometric mean (SD), g/gm creatinine
+MEP (99) 137.7 (2.8) 207.3 (3.2) 225.6 (3.3) 218.6 (3.5)
+MBP (99) 48.0 (2.3) 30.8 (2.3) 24.6 (2.3) 25.7 (2.4)
+MBzP (98) 34.4 (2.8) 17.1 (2.7) 12.8 (2.7) 11.7 (2.7)
+MEHP (81) 5.4 (2.8) 3.8 (2.9) 4.0 (2.9) 3.3 (2.9)
+MEOHP (97) 27.5 (2.4) 15.0 (2.4) 12.5 (2.7) 12.4 (2.6)
+MEHHP (98) 39.6 (2.5) 21.1 (2.6) 18.3 (2.8) 18.4 (2.7)
+Arithmetic mean (SD)
+Age (yrs) 8.6 (1.7) 15.2 (2.3) 39.5 (11.0) 68.4 (5.94)
+BMI (kg/m2) 18.5 (3.9) 24.0 (5.7) 28.9 (7.3) 29.2 (6.2)
+Waist circumference (cm) 64.2 (11.1) 80.2 (13.3) 92.8 (15.3) 97.5 (14.1)
+Height (cm) 135.3 (13.8) 160.9 (7.2) 161.8 (6.8) 158.6 (6.8)
+Creatinine (mg/dL) 109.1 (55.5) 162.0 (87.0) 124.9 (79.5) 92.5 (60.4)
+Physical activity (met equiv hrs/month) N/A 165.4 (331.5) 57.1 (118.1) 40.2 (92.7)
+Dietary intake
+% kilocalories from total fat 33.1 (7.5) 31.9 (8.8) 33.5 (10.0) 32.1 (9.5)
+Fruit & veg (servings/day) 3.5 (2.5) 4.0 (3.3) 4.1 (2.9) 4.78 (3.2)
+Dairy (servings/day) 1.8 (1.3) 1.5 (1.4) 1.3 (1.4) 1.2 (1.4)
+Column percent
+Socioeconomic status (% low) 33.9 35.5 26.7 44.5
+Race/ethnicity
+African American 33.3 30.9 19.8 18.7
+Hispanic 33.9 39.6 30.0 27.0
+Whites and others 32.7 29.5 50.2 54.3
+Television viewing (% >2.5 hrs/day) 48.9 51.6 36.4 52.9
+Smoking (% current) N/A N/A 23.3 12.9
+1 g/g creatinine
+2 level of detection
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 6 of 15
+(page number not for citation purposes)
+MEHP was inversely related to BMI and WC in adolescent
+and adult females (Figure 4). Mean BMI generally
+decreased across quartiles among adolescent girls (25.1,
+23.7, 23.0, and 23.6 from the lowest to highest quartiles
+of MEHP, p-trend = 0.02) and among 20­59 year old
+females (29.8, 30.2, 28.5, and 28.1, p-trend = 0.02).
+Results were similar among 60­80 year old females. There
+were no major trends between MEHP and either BMI or
+WC among males, except for a borderline inverse trend
+among 60­80 year old males. Results for MEHP were not
+affected by including either of the oxidative metabolites in
+the model (data not shown). The percent of DEHP
+excreted as MEHP ranged from a minimum of 0.3 to a
+maximum of 98.1%, with medians from 7.8% to 11.8%
+across the age/gender subgroups. There were no major
+trends using quartiles of %MEHP as the exposure variable,
+although most of the coefficients in both males and
+females were negative, indicating a generally inverse rela-
+tionship between higher levels of %MEHP and BMI and
+WC (data not shown).
+Figure 5 shows the results for MEHHP, one of the oxida-
+tive metabolites of MEHP. There was a positive relation-
+ship between MEHHP and BMI among 20­59 year old
+males, and a non-monotonic increase among 12­19 year
+old males (Figure 5). For MEHHP, BMI increased from
+27.1 to 28.8 between quartiles 1 and 4 (p-trend = 0.10)
+and WC increased from 95.2 to 99.8 (p-trend = 0.08)
+among 20­59 year old males. There were no important
+trends in BMI or WC among females; for 60­80 year olds
+the estimates were inverse, whereas they were positive for
+children and adolescents.
+Discussion
+This exploratory, cross-sectional analysis of six phthalate
+metabolites revealed a number of interesting associations
+with BMI and WC, including several dose-response rela-
+tionships. Once considered to be a passive organ for
+energy storage, adipose tissue is now known to be an
+active endocrine organ that secretes numerous chemical
+signals and responds to a variety of hormonal signals
+[35,36] and thus may plausibly be affected by endocrine
+disrupting chemicals. Animal evidence and limited
+human data suggest that phthalates have the potential to
+affect obesity through several different biologic mecha-
+nisms that may differ by phthalate (Table 4). These
+include anti-androgenic effects, inhibition of thyroid hor-
+mone action, and activation of PPARs [7,37]. PPAR in
+Table 2: Distribution of selected characteristics among males by age, NHANES 1999­2002, phthalate subsample
+Males
+Characteristics 6­11 yrs (n = 329) 12­19 yrs (n = 662) 20­59 yrs (n = 895) 60­80 yrs (n = 365)
+Phthalate metabolites1 (% above LOD2) Geometric mean (SD), g/gm creatinine
+MEP (99) 93.9 (2.9) 137.0 (3.5) 182.1 (4.1) 184.8 (5.5)
+MBP (99) 38.0 (2.2) 19.3 (2.2) 15.3 (2.1) 17.5 (2.5)
+MBzP (98) 34.7 (2.6) 15.7 (2.8) 10.1 (2.5) 9.5 (3.1)
+MEHP (81) 5.5 (3.1) 2.7 (3.0) 3.3 (3.2) 2.5 (2.9)
+MEOHP (97) 26.6 (2.4) 12.2 (2.8) 10.6 (2.8) 9.2 (2.7)
+MEHHP (98) 39.1 (2.4) 18.2 (2.8) 16.6 (3.0) 13.2 (2.9)
+Arithmetic mean (SD)
+Age (yrs) 8.6 (1.6) 15.4 (2.30) 38.8 (11.1) 68.7 (6.0)
+BMI (kg/m2) 18.7 (4.1) 23.6 (5.5) 27.9 (5.6) 28.1 (4.7)
+Waist circumference (cm) 65.3 (12.1) 81.8 (15.1) 97.6 (15.3) 103.6 (12.1)
+Height (cm) 135.6 (11.5) 169.3 (11.1) 175.5 (7.9) 172.2 (7.3)
+Creatinine (mg/dL) 110.2 (57.2) 176.0 (93.7) 166.8 (91.1) 132.7 (77.0)
+Physical activity (met equiv hrs/month) N/A 217.8 (295.4) 96.4 (196.1) 59.6 (141.3)
+Dietary intake
+% kilocalories from total fat 33.2 (7.3) 32.1 (7.8) 31.8 (10.0) 33.1 (9.6)
+Fruit & veg (servings/day) 3.8 (2.8) 4.1 (3.9) 5.1 (4.2) 5.0 (3.9)
+Dairy (servings/day) 2.1 (1.4) 2.0 (1.8) 1.6 (1.9) 1.4 (1.6)
+Column percent
+Socioeconomic status (% low) 35.0 35.5 27.3 35.1
+Race/ethnicity
+African American 33.7 29.5 19.7 16.7
+Hispanic 35.0 40.0 29.8 26.6
+Whites and others 31.3 30.5 50.5 56.7
+Television viewing (% >2.5 hrs/day) 53.2 56.2 43.9 48.0
+Smoking (% current) N/A N/A 31.1 16.4
+1 g/g creatinine
+2 level of detection
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 7 of 15
+(page number not for citation purposes)
+particular has been shown to play a major role in adi-
+pocyte differentiation and energy storage [8]; its? activa-
+tion promotes the differentiation of preadipose cells into
+adipocytes [37].
+Our results showed a striking difference in effect between
+males and females. The strongest positive associations
+were seen among 20­59 males for MBzP, MEHHP, and
+MEOHP. In contrast, findings among females varied by
+metabolite, with some positive associations for MEP, par-
+ticularly among adolescents, but inverse associations for
+MEHP and MBzP. Variation in the effect of phthalates by
+gender is plausible. Several phthalates, as mentioned, are
+anti-androgens; lower free testosterone levels have been
+found in males exposed to higher levels of DBP and DEHP
+[16]. Higher testosterone is associated with smaller WC
+and a better cardiovascular profile in males, whereas
+higher androgen levels in females are associated with
+higher BMI, greater risk for metabolic syndrome, and con-
+ditions such as polycystic ovarian disease [38]. Therefore,
+women with the highest levels of MEHP may have lower
+levels of androgens or a higher estrogen/androgen ratio,
+which could explain the inverse relationship between
+MEHP and BMI. Our results appear somewhat consistent
+with an anti-androgenic effect of certain phthalates,
+although additional explanations may be involved, partic-
+ularly for MEP.
+In addition to the gender differences, the associations also
+differed by age group. We found no associations between
+phthalates and body size among 6­11 year olds, even
+though this group had the highest levels of all phthalate
+metabolites except MEP. In part, this may be due to the
+smaller sample sizes in this subgroup. BMI and WC are
+also highly variable in children by age and development
+status, related in part to timing of the adiposity rebound
+[39], which could result in less ability to detect effects of
+external factors. Because metabolite levels are higher in
+children (except for MEP), the lowest quartile of exposure
+calculated by age group does not necessarily represent the
+same low exposure as in other age groups. Even so, results
+among the 6­11 year olds were substantially the same
+when exposure quartiles were based on the overall distri-
+bution of phthalates in the total study population com-
+pared to the results based on the age/gender specific
+quartiles.
+We found mixed associations among adolescents and 20­
+59 year olds. Different effects by age are plausible because
+physiology and endogenous hormone levels vary by age
+in both males and females, potentially modifying the
+effects of endocrine disruptors. The observed associations
+among 60­80 year olds were quite different. In general,
+BMI and WC declined with increasing levels of phthalate
+metabolites. These results are surprising and deserve fur-
+ther exploration. It is also possible that a physiological
+change in older people is related to both weight loss and
+altered phthalate metabolism.
+Only one prior study has evaluated the association
+between phthalates and obesity in humans. Stahlhut [19]
+also used NHANES data to evaluate the relationship
+between phthalates and WC, along with a measure of
+insulin resistance, in adult males. The authors reported
+similar, mostly positive associations between waist cir-
+cumference and several phthalates in adult males. Results
+for children, adolescents, and females were not reported.
+There were some differences in analytic approach; for
+example, Stahlhut evaluated all males aged 18 and older,
+whereas we evaluated 20­59 year olds and 60­80 year
+olds separately after noticing distinctly different associa-
+tions in the two groups. We used quartiles of exposure
+after determining that there were no clear patterns from
+smoothed regression models, whereas Stahlhut used con-
+tinuous, log transformed phthalate values, in addition to
+quintiles of exposure. There were also differences in the
+confounders that were evaluated in the two studies; in
+particular, we evaluated a larger number of dietary varia-
+bles in our models. The qualitative similarity of our results
+for adult males with those of Stahlhut et al [19] suggest
+they are reasonably robust to differences in analysis meth-
+ods. The striking differences between males and females
+revealed by our analysis significantly add to the earlier
+work and appears consistent with endocrine disruption by
+certain phthalates.
+Strengths of our study include the broad range of expo-
+sures, relatively good statistical power even within sub-
+groups, and detailed evaluation of available potential
+confounding variables. The ability to evaluate effect mod-
+ification by age and gender was critical as we saw striking
+differences in results by these variables. We tested multi-
+ple dietary factors, four different measures of physical
+activity, and three alternative measures of SES. We also
+evaluated the data using exposure quartiles based on the
+entire study population in addition to age/gender derived
+quartiles of exposure, and found that the results were not
+materially changed.
+Table 3: Spearman correlation coefficients* between phthalate
+metabolites, NHANES 1999­2002
+MEP 1 0.38 0.34 0.26 0.32 0.33
+MBP 1 0.72 0.46 0.62 0.64
+MBzP 1 0.39 0.58 0.59
+MEHP 1 0.68 0.68
+MEHHP 1 0.98
+MEOHP 1
+MEP MBP MBzP MEHP MEHHP MEOHP
+* All coefficients are significant at p < 0.001
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 8 of 15
+(page number not for citation purposes)
+Difference in Body Mass Index, by Increasing MEP Quartile and Age Group
+Figure 1
+Difference in Body Mass Index, by Increasing MEP Quartile and Age Group. Top graph displays results for males,
+bottom graph for females. All estimates are adjusted for age, race/ethnicity, creatinine, height, SES, dietary factors, TV, Mets/
+month (age 12+), smoking (age 20+), and reproductive factors (age 20+ females). Results of trend tests are included for those
+with p-values<0.15.
+Males
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4
+MEP Quartile
+BMI Difference (beta)
+p=0.03
+p=0.11
+Females
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4
+MEP Quartile
+BMI Difference (beta)
+p=0.14
+p=.03
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 9 of 15
+(page number not for citation purposes)
+Difference in Body Mass Index, by Increasing MBP Quartile and Age Group
+Figure 2
+Difference in Body Mass Index, by Increasing MBP Quartile and Age Group. Top graph displays results for males,
+bottom graph for females. All estimates are adjusted for age, race/ethnicity, creatinine, height, SES, dietary factors, TV, Mets/
+month (age 12+), smoking (age 20+), and reproductive factors (age 20+ females). Results of trend tests are included for those
+with p-values<0.15.
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4
+MBP Quartile
+BMI Difference (beta)
+Males
+p=0.11
+p=0.04
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4
+MBP Quartile
+BMI Difference (beta)
+Females
+p=0.01
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 10 of 15
+(page number not for citation purposes)
+Difference in Body Mass Index, by Increasing MBzP Quartile and Age Group
+Figure 3
+Difference in Body Mass Index, by Increasing MBzP Quartile and Age Group. Top graph displays results for males,
+bottom graph for females. All estimates are adjusted for age, race/ethnicity, creatinine, height, SES, dietary factors, TV, Mets/
+month (age 12+), smoking (age 20+), and reproductive factors (age 20+ females). Results of trend tests are included for those
+with p-values<0.15.
+Males
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4
+MBzP Quartile
+BMI Difference (beta)
+p=0.06
+p<0.001
+Females
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4
+MBzP Quartile
+BMI Difference (beta)
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 11 of 15
+(page number not for citation purposes)
+Difference in Body Mass Index, by Increasing MEHP Quartile and Age Group
+Figure 4
+Difference in Body Mass Index, by Increasing MEHP Quartile and Age Group. Top graph displays results for males,
+bottom graph for females. All estimates are adjusted for age, race/ethnicity, creatinine, height, SES, dietary factors, TV, Mets/
+month (age 12+), smoking (age 20+), and reproductive factors (age 20+ females). Results of trend tests are included for those
+with p-values<0.15.
+Males
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4
+MEHP Quartile
+BMI Difference (beta)
+p=0.08
+Females
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4
+MEHP Quartile
+BMI Difference (beta)
+p=0.02
+p=0.02
+p=0.01
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 12 of 15
+(page number not for citation purposes)
+Difference in Body Mass Index, by Increasing MEHHP Quartile and Age Group
+Figure 5
+Difference in Body Mass Index, by Increasing MEHHP Quartile and Age Group. Top graph displays results for
+males, bottom graph for females. All estimates are adjusted for age, race/ethnicity, creatinine, height, SES, dietary factors, TV,
+Mets/month (age 12+), smoking (age 20+), and reproductive factors (age 20+ females). Results of trend tests are included for
+those with p-values<0.15.
+Males
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4
+MEHHP Quartile
+BMI Difference (beta)
+p=0.13
+p=0.01
+Females
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+1 2 3 4
+MEHHP Quartile
+BMI Difference (beta)
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 13 of 15
+(page number not for citation purposes)
+Our study has several important limitations. Its cross-sec-
+tional nature precludes the ability to make any causal
+inferences about the direction of the association between
+phthalates and obesity. Although phthalates are rapidly
+metabolized and do not accumulate in adipose tissue, it is
+unknown if heavier individuals metabolize phthalates
+differently than do individuals with less body fat. Elevated
+exposures to phthalates have been reported due to use of
+certain medications [40], and it is possible that some of
+our results may be due to greater use of medications
+among heavier individuals. It is also possible that our
+results, particularly for MEP, may be due to greater use of
+lotions and cosmetics in people with a larger body surface
+area, resulting in a higher internal and excreted dose.
+However, due to the multiple environmental sources of
+DEP, this seems unlikely.
+We controlled for numerous confounding variables,
+including diet and physical activity. However, diet was
+measured using a 24-hour recall, which has limitations for
+estimating long-term dietary patterns, and physical activ-
+ity was measured over the 30 days prior to the interview,
+which may not reflect long-term patterns. Although
+NHANES collects data on a wide variety of potential con-
+founders, there may be other unknown or unmeasured
+confounders. Some of our findings may be due to chance,
+as we evaluated associations between six phthalate metab-
+olites and two outcomes in eight population sub-groups.
+Exposure to mixtures of endocrine disrupting chemicals
+may have different effects than single exposures [41]. We
+were unable to examine combined exposures to multiple
+types of chemicals because NHANES measured chemicals
+in different population samples. While this dataset does
+include measurements for multiple phthalates, it is not
+clear how these exposures should be combined when
+looking at the relationship between phthalates and body
+size. Compounds may have different and even potentially
+opposite effects, and multiple mechanisms may be
+involved. While work is being done to look at cumulative
+effects of phthalate exposure on reproductive tract devel-
+opment [42], there currently exist insufficient animal and
+human data to develop a good biologically-based expo-
+sure index for potential effects on obesity.
+Single spot-urine measurements of phthalates were used
+to estimate exposure. Phthalates are rapidly metabolized
+and excreted, and a single exposure measurement may not
+reflect long-term exposure. Exposure sources may vary
+over time based on dietary intake, use of personal care
+products, medications, and other factors. Several studies
+have evaluated the consistency of phthalate measure-
+ments over time and, in general, low to moderate correla-
+tion coefficients were found [43-45], although moderate
+to high sensitivity to classify individuals into the highest
+tertile of exposure has been reported [44]. Therefore, our
+effect estimates are likely affected by non-differential mis-
+classification and comparisons between highest and low-
+est quartiles may be biased towards the null.
+A final limitation of the study is that, due to its cross-sec-
+tional nature, we could not evaluate exposures through-
+out the life course, particularly the sensitive window of
+prenatal and neonatal development. In utero and early
+life exposures may be critical; they may permanently alter
+gene expression patterns that affect metabolic processes
+[4].
+Conclusion
+Our results are exploratory and based on cross-sectional
+data, but suggest that further research on the potential for
+phthalates to act as obesogens is warranted. We observed
+several associations between phthalate metabolites and
+BMI and WC that were not only statistically significant but
+of magnitudes of clinical relevance. Prospective studies in
+human populations are needed to evaluate prenatal and
+neonatal exposures, and to look at exposure to multiple
+endocrine disrupting chemicals.
+Abbreviations
+Body mass index: BMI; Centers for Disease Control and
+Prevention: CDC; confidence intervals: (CIs); limit of
+detection: LOD; locally weighted regression smoother:
+(LOESS); mono-ethyl phthalate: (MEP); mono-2-ethyl-
+hexyl phthalate: (MEHP); mono-n-butyl phthalate:
+Table 4: Biological Effects of Phthalates Potentially Related to Obesity
+PPAR- activation Thyroid effect Anti-androgenic effect
+DEP/MEP - [7, 46] - [47, 48] +/- [9]
+DBP/MBP +/- [7] +/- [47­51] ++ [9, 16, 52, 53]
+BBzP/MBzP + [7, 37] ++ [47­51] ++ [9, 52, 53]
+DEHP/MEHP ++ [7, 37, 46, 54, 55] +/- [18, 47­51] + [9, 16, 52, 53]
+++ strong, consistent effects
++ moderate, consistent effects
++/- inconsistent effects
+- no effect
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 14 of 15
+(page number not for citation purposes)
+(MBP); mono-benzyl phthalate: (MBzP); mono-2-ethyl-
+5-hydroxyhexyl phthalate: (MEHHP); mono-2-ethyl-5-
+oxohexyl phthalate: (MEOHP); National Health and
+Nutrition Examination Survey: (NHANES); peroxisome
+proliferator-activated receptors: (PPARs); socioeconomic
+status: (SES); United States Department of Agriculture:
+USDA; waist circumference: (WC).
+Competing interests
+The authors declare that they have no competing interests.
+Authors' contributions
+EEH conceived of, designed, and coordinated the study,
+oversaw the analysis, and prepared the manuscript. JWN
+participated in the literature review of phthalate effects,
+data analysis, and manuscript preparation. MMQ partici-
+pated in data analysis and manuscript preparation. JW
+performed statistical analysis and provided statistical
+expertise. TW and LLM participated in study design, data
+analysis, and manuscript preparation. MS participated in
+data set preparation, variable creation, and data analysis.
+All authors read and approved the final manuscript.
+Additional material
+Acknowledgements
+This study was supported by a grant from the National Institutes of Envi-
+ronmental Health Sciences, (R21ES013724). The authors would like to
+acknowledge the contributions of Lee Silkman for her thorough review of
+background literature on phthalates for this manuscript.
+References
+1. Ebbeling CB, Pawlak DB, Ludwig DS: Childhood obesity: public-
+health crisis, common sense cure. Lancet 2002, 360:473-482.
+2. Hill JO, Peters JC: Environmental contributions to the obesity
+epidemic. Science 1998, 280:1371-1374.
+3. Grun F, Blumberg B: Environmental obesogens: organotins and
+endocrine disruption via nuclear receptor signaling. Endo-
+crinology 2006, 147:S50-55.
+4. Heindel JJ: Endocrine disruptors and the obesity epidemic.
+Toxicol Sci 2003, 76:247-249.
+5. Knudsen N, Laurberg P, Rasmussen LB, Bulow I, Perrild H, Ovesen L,
+Jorgensen T: Small differences in thyroid function may be
+important for body mass index and the occurrence of obes-
+ity in the population. J Clin Endocrinol Metab 2005, 90:4019-4024.
+6. Mayes JS, Watson GH: Direct effects of sex steroid hormones
+on adipose tissues and obesity. Obes Rev 2004, 5:197-216.
+7. Hurst CH, Waxman DJ: Activation of PPARalpha and PPAR-
+gamma by environmental phthalate monoesters. Toxicol Sci
+2003, 74:297-308.
+8. Barak Y, Kim S: Genetic Manipulations of PPARs: Effects on
+Obesity and Metabolic Disease. PPAR Res 2007, 2007:12781.
+9. Hauser R, Calafat AM: Phthalates and human health. Occup Envi-
+ron Med 2005, 62:806-818.
+10. CDC (Centers for Disease Control and Prevention): Third
+National Report on Human Exposure to Environmental
+Chemicals. 2005 [http://www.cdc.gov/exposurereport/].
+11. Agency for Toxic Substances and Disease Registry (ATSDR): Toxi-
+cological profile for Di-n-butyl phthatlate (DBP). 2001 [http:/
+/www.atsdr.cdc.gov/toxprofiles/tp135.html].
+12. Agency for Toxic Substances and Disease Registry (ATSDR): Toxi-
+cological profile for Di (2-ethylhexyl) phthalate (DEHP).
+2002 [http://www.atsdr.cdc.gov/toxprofiles/tp9.html].
+13. Davis BJ, Maronpot RR, Heindel JJ: Di-(2-ethylhexyl) phthalate
+suppresses estradiol and ovulation in cycling rats. Toxicol Appl
+Pharmacol 1994, 128:216-223.
+14. Gray LE Jr, Ostby J, Furr J, Price M, Veeramachaneni DN, Parks L:
+Perinatal exposure to the phthalates DEHP, BBP, and DINP,
+but not DEP, DMP, or DOTP, alters sexual differentiation of
+the male rat. Toxicol Sci 2000, 58:350-365.
+15. Main KM, Mortensen GK, Kaleva MM, Boisen KA, Damgaard IN,
+Chellakooty M, Schmidt IM, Suomi AM, Virtanen HE, Petersen JH,
+Anderssen AM, Toppari J, Skakkebaek NE: Human breast milk
+contamination with phthalates and alterations of endog-
+enous reproductive hormones in infants three months of
+age. Environ Health Perspect 2006, 114:270-276.
+16. Pan G, Hanaoka T, Yoshimura M, Zhang S, Wang P, Tsukino H, Inoue
+K, Nakazawa H, Tsugane S, Takahashi K: Decreased serum free
+testosterone in workers exposed to high levels of di-n-butyl
+phthalate (DBP) and di-2-ethylhexyl phthalate (DEHP): a
+cross-sectional study in China. Environ Health Perspect 2006,
+114:1643-1648.
+17. Swan SH, Main KM, Liu F, Stewart SL, Kruse RL, Calafat AM, Mao CS,
+Redmon JB, Ternand CL, Sullivan S, Teague JL: Decrease in ano-
+genital distance among male infants with prenatal phthalate
+exposure. Environ Health Perspect 2005, 113:1056-1061.
+18. Meeker JD, Calafat AM, Hauser R: Di-(2-ethylhexyl) Phthalate
+Metabolites May Alter Thyroid Hormone Levels in Men. Envi-
+ron Health Perspect 2007, 115:1029-1034.
+19. Stahlhut RW, van Wijngaarden E, Dye TD, Cook S, Swan SH: Con-
+centrations of Urinary Phthalate Metabolites are Associated
+with Increased Waist Circumference and Insulin Resistance
+in Adult U.S. Males. Environ Health Perspect 2007, 115:876-882.
+20. Centers for Disease Control and Prevention (CDC).
+National Center for Health Statistics (NCHS). National
+Health and Nutrition Examination Survey Data [http://
+www.cdc.gov/nchs/about/major/nhanes/nhanes99_00.htm]
+21. Silva MJ, Barr DB, Reidy JA, Malek NA, Hodge CC, Caudill SP, Brock
+JW, Needham LL, Calafat AM: Urinary levels of seven phthalate
+metabolites in the U.S. population from the National Health
+and Nutrition Examination Survey (NHANES) 1999­2000.
+Environ Health Perspect 2004, 112:331-338.
+22. Barr DB, Silva MJ, Kato K, Reidy JA, Malek NA, Hurtz D, Sadowski M,
+Needham LL, Calafat AM: Assessing human exposure to phtha-
+lates using monoesters and their oxidized metabolites as
+biomarkers. Environ Health Perspect 2003, 111:1148-1151.
+23. Weuve J, Sanchez BN, Calafat AM, Schettler T, Green RA, Hu H,
+Hauser R: Exposure to phthalates in neonatal intensive care
+unit infants: urinary concentrations of monoesters and oxi-
+dative metabolites. Environ Health Perspect 2006, 114:1424-1431.
+24. National Center for Health Statistics (NCHS). National Health and
+Nutrition Examination Survey Data: Anthropometry Procedures
+Manual. [http://www.cdc.gov/nchs/data/nhanes/nhanes_01_02/
+body_measures_year_3.pdf]. 12/15/06
+25. Janssen I, Katzmarzyk PT, Ross R: Waist circumference and not
+body mass index explains obesity-related health risk. Am J Clin
+Nutr 2004, 79:379-384.
+Additional file 1
+Quartile ranges for 6 phthalate metabolites, and adjusted* mean differ-
+ence in BMI (kg/m2) and WC (cm) by phthalate quartile, among females
+by age group, NHANES 1999­2002.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1476-
+069X-7-27-S1.doc]
+Additional file 2
+Quartile ranges for 6 phthalate metabolites, and adjusted mean difference
+in BMI (kg/m2) and WC (cm) by phthalate quartile, among males by age
+group, NHANES 1999­2002.
+Click here for file
+[http://www.biomedcentral.com/content/supplementary/1476-
+069X-7-27-S2.doc]
+Publish with BioMed Central and every
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and publishedimmediately upon acceptance
+cited in PubMed and archived on PubMed Central
+yours -- you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+Environmental Health 2008, 7:27 http://www.ehjournal.net/content/7/1/27
+Page 15 of 15
+(page number not for citation purposes)
+26. U.S. Department of Agriculture (USDA): The Food Guide Pyra-
+mid. [http://www.nal.usda.gov/fnic/Fpyr/pmap.htm].
+27. Hastie T, Tibshirani R: Generalized Additive Models. London:
+Chapman and Hall; 1990:29-31.
+28. Barr DB, Wilder LC, Caudill SP, Gonzalez AJ, Needham LL, Pirkle JL:
+Urinary creatinine concentrations in the U.S. population:
+implications for urinary biologic monitoring measurements.
+Environ Health Perspect 2005, 113:192-200.
+29. Koo JW, Parham F, Kohn MC, Masten SA, Brock JW, Needham LL,
+Portier CJ: The association between biomarker-based expo-
+sure estimates for phthalates and demographic factors in a
+human reference population. Environ Health Perspect 2002,
+110:405-410.
+30. Ogden CL, Carroll MD, Curtin LR, McDowell MA, Tabak CJ, Flegal
+KM: Prevalence of Overweight and Obesity in the United
+States, 1999­2004. JAMA 2006, 295:1549-1555.
+31. Zhang Q, Wang Y: Socioeconomic inequality of obesity in the
+United States: do gender, age, and ethnicity matter? Social
+Science & Medicine 2004, 58:1171-1180.
+32. Hauser R, Meeker JD, Singh NP, Silva MJ, Ryan L, Duty S, Calafat AM:
+DNA damage in human sperm is related to urinary levels of
+phthalate monoester and oxidative metabolites. Hum Reprod
+2007, 22:688-695.
+33. Graubard BI, Korn EL: Analyzing health surveys for cancer-
+related objectives. J Natl Cancer Inst 1999, 91:1005-1016.
+34. Korn EL, Graubard BI: Epidemiologic studies utilizing surveys:
+accounting for the sampling design. Am J Public Health 1991,
+81:1166-1173.
+35. Ahima RS, Flier JS: Adipose tissue as an endocrine organ. Trends
+Endocrinol Metab 2000, 11:327-332.
+36. Cooke PS, Naaz A: Role of estrogens in adipocyte development
+and function. Exp Biol Med (Maywood) 2004, 229:1127-1135.
+37. Feige JN, Gelman L, Rossi D, Zoete V, Metivier R, Tudor C, Anghel
+SI, Grosdidier A, Lathion C, Engelborghs Y, Michielin O, Wahli W,
+Desvergne B: The endocrine disruptor mono-ethyl-hexyl-
+phthalate is a selective PPARgamma modulator which pro-
+motes adipogenesis. J Biol Chem 2007, 282:19152-19166.
+38. Barber TM, McCarthy MI, Wass JAH, Franks S: Obesity and poly-
+cystic ovary syndrome. Clinical Endocrinology 2006, 65:137-145.
+39. Rolland-Cachera MF, Deheeger M, Maillot M, Bellisle F: Early adi-
+posity rebound: causes and consequences for obesity in chil-
+dren and adults. Int J Obes 30:S11-S17.
+40. Hauser R, Duty S, Godfrey-Bailey L, Calafat AM: Medications as a
+source of human exposure to phthalates. Environ Health Per-
+spect 2004, 112:751-753.
+41. Kortenkamp A: Ten Years of Mixing Cocktails ­ a Review of
+Combination Effects of Endocrine Disrupting Chemicals.
+Environmental Health Perspectives 2007, 115:98-105.
+42. Howdeshell KL, Furr J, Lambright CR, Rider CV, Wilson VS, Gray LE
+Jr: Cumulative effects of dibutyl phthalate and diethylhexyl
+phthalate on male rat reproductive tract development:
+altered fetal steroid hormones and genes. Toxicol Sci 2007,
+99:190-202.
+43. Fromme H, Bolte G, Koch HM, Angerer J, Boehmer S, Drexler H,
+Mayer R, Liebl B: Occurrence and daily variation of phthalate
+metabolites in the urine of an adult population. Int J Hyg Envi-
+ron Health 2007, 210:21-33.
+44. Hauser R, Meeker JD, Park S, Silva MJ, Calafat AM: Temporal vari-
+ability of urinary phthalate metabolite levels in men of
+reproductive age. Environ Health Perspect 2004, 112:1734-1740.
+45. Hoppin JA, Brock JW, Davis BJ, Baird DD: Reproducibility of uri-
+nary phthalate metabolites in first morning urine samples.
+Environ Health Perspect 2002, 110:515-518.
+46. Bility MT, Thompson JT, McKee RH, David RM, Butala JH, Vanden
+Heuvel JP, Peters JM: Activation of mouse and human peroxi-
+some proliferator-activated receptors (PPARs) by phthalate
+monoesters. Toxicol Sci 2004, 82:170-182.
+47. Ishihara A, Nishiyama N, Sugiyama S, Yamauchi K: The effect of
+endocrine disrupting chemicals on thyroid hormone binding
+to Japanese quail transthyretin and thyroid hormone recep-
+tor. Gen Comp Endocrinol 2003, 134:36-43.
+48. Sugiyama S, Shimada N, Miyoshi H, Yamauchi K: Detection of thy-
+roid system-disrupting chemicals using in vitro and in vivo
+screening assays in Xenopus laevis. Toxicol Sci 2005, 88:367-374.
+49. Breous E, Wenzel A, Loos U: The promoter of the human
+sodium/iodide symporter responds to certain phthalate plas-
+ticisers. Mol Cell Endocrinol 2005, 244:75-78.
+50. Shimada N, Yamauchi K: Characteristics of 3,5,3'-triiodothyro-
+nine (T3)-uptake system of tadpole red blood cells: effect of
+endocrine-disrupting chemicals on cellular T3 response. J
+Endocrinol 2004, 183:627-637.
+51. Wenzel A, Franz C, Breous E, Loos U: Modulation of iodide
+uptake by dialkyl phthalate plasticisers in FRTL-5 rat thyroid
+follicular cells. Mol Cell Endocrinol 2005, 244:63-71.
+52. Fisher JS: Environmental anti-androgens and male reproduc-
+tive health: focus on phthalates and testicular dysgenesis syn-
+drome. Reproduction 2004, 127:305-315.
+53. Gray LE Jr, Wilson VS, Stoker T, Lambright C, Furr J, Noriega N,
+Howdeshell K, Ankley GT, Guillette L: Adverse effects of environ-
+mental antiandrogens and androgens on reproductive devel-
+opment in mammals. Int J Androl 2006, 29:96-104. discussion
+105­108.
+54. Lampen A, Zimnik S, Nau H: Teratogenic phthalate esters and
+metabolites activate the nuclear receptors PPARs and
+induce differentiation of F9 cells. Toxicol Appl Pharmacol 2003,
+188:14-23.
+55. Maloney EK, Waxman DJ: trans-Activation of PPARalpha and
+PPARgamma by structurally diverse environmental chemi-
+cals. Toxicol Appl Pharmacol 1999, 161:209-218.
+

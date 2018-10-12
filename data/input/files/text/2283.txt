@@ -1,0 +1,666 @@
+The principal focus of global public health efforts over the past
+several decades has been on improving child health and
+survival, and there is no question that continued investment in
+child health care provision and community development should
+remain a priority. Each year, an estimated 10.9 million children
+die before the age of 5 years, the vast majority of them from
+diarrhoeal disease, pneumonia, perinatal causes, malaria, and
+measles.1 Much of this is preventable, through intervention
+programmes focused on major childhood diseases. These have
+proved remarkably successful, at least for some diseases
+(particularly measles), over the past couple of decades. Global
+child mortality has declined from an estimated 14.6 million in
+19852 to less than 11 million currently, although the progress
+has been uneven in different populations, with only marginal
+declines in child mortality in Africa (10­20% since 1980)
+compared with elsewhere.3
+Part of the success in reducing child mortality must surely lie
+with the increased efforts to monitor child mortality levels over
+the past few decades through systematic application of direct
+and indirect methods to data on survival of children routinely
+collected in censuses and surveys. Several methodological
+advances now allow the indirect assessment of child mortality
+from direct evidence on children ever born and children
+surviving.4,5 The wealth of data on child mortality (defined as
+the risk of death between birth and age 5) for the four largest
+developing countries (India, China, Brazil, and Indonesia) is
+shown in Figure 1. From these rich data sources, it is possible to
+establish current levels of child mortality with reasonable
+certainty.
+1 Evidence and Information for Policy (GPE/EBD), World Health
+Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland.
+2 School of Population Health, The University of Queensland, Brisbane, QLD
+4006, Australia.
+Correspondence: Alan D Lopez, School of Population Health, The University
+of Queensland, Public Health Building, Herston Road, Herston, Brisbane, QLD
+4006, Australia. E-mail: a.lopez@sph.uq.edu.au
+IJE vol.33 no.4 © International Epidemiological Association 2004; all rights reserved. International Journal of Epidemiology 2004;33:710­717
+Advance Access publication 28 July 2004 doi:10.1093/ije/dyh099
+REVIEW
+Adult mortality: time for a reappraisal
+Emmanuela Gakidou,1 Margaret Hogan1 and Alan D Lopez2
+Accepted 19 December 2003
+Background In many countries, little is known about adult mortality rates. New innovations
+are necessary to develop reasonable estimates from available information. One
+readily available resource is household survey data. While birth histories
+collected in surveys have produced reasonable estimates of child mortality, the
+use of sibling survival data collected in similar household surveys has not been
+comprehensively analysed, largely because of concerns of underreporting.
+Methods This paper uses sibling survival schedules from 29 Demographic and Health Surveys
+(DHS) to generate estimates of under-5 mortality and of the summary measure
+of adult mortality 45q15--the probability of dying between ages 15 and 59. These
+are then compared with UN child and adult mortality estimates.
+Results Sibling history data collected in these household surveys seems to contain
+adequate information to estimate adult mortality rates, though there are
+problems with underreporting. The correlation coefficient between UN estimates
+and DHS estimates is 0.74 for adult mortality, indicating a strong relationship
+between the two but suggesting there may be underreporting of adult deaths in
+the survey data.
+Conclusions Further investigation is necessary to determine the usefulness of household
+survey data for the estimation of adult mortality. New survey instruments like
+the World Health Survey have incorporated questions to help correct for
+underreporting in sibling histories. Further analyses need to be carried out in
+countries where vital registration data are also available, to determine how well
+household survey data do in estimating adult mortality and whether improve-
+ments in the survey instrument adequately correct for underreporting of deaths.
+Keywords Adult mortality, household surveys, vital statistics, sibling survival
+710
+ADULT MORTALITY: TIME FOR A REAPPRAISAL 711
+Regrettably, knowledge about levels of adult mortality has
+not kept pace with these developments. Health development
+policies are, or should be, concerned with improving health and
+survival across the lifespan. As this segment of the population
+increases, with fewer children dying each year, the concept of
+preventing premature death must similarly adapt from a
+singular focus on preventing child death to a broader concern
+with preventing premature child and adult death. Yet despite
+attempts by some authors to stress the need for greater public
+health focus on adult health,6,7 it has taken the advent of a
+massive new epidemic (human immunodeficiency virus
+[HIV]/AIDS) which primarily affects young adults to galvanize
+support for adult health as a key international health priority.
+The imperative for greater international focus on improving the
+health of adults extends well beyond HIV. Recent comparative
+analyses of the leading causes of risk factor burden worldwide
+identified high blood pressure, tobacco, and alcohol among the
+top five, along with unsafe sex. Virtually all premature deaths
+and disabilities these risk factors cause occur among young and
+middle aged adults.8
+Yet, despite the large and growing importance of disease and
+injury burden among adults, in many countries there remains
+vast uncertainty about levels of adult mortality, let alone cause.
+The lack of a reliable baseline against which to monitor pro-
+gramme effectiveness is a serious impediment to effective public
+health action to reduce the main killers of young adults. In this
+paper, we outline the current state of knowledge on levels of
+adult mortality and propose new methodological approaches
+which we believe have the potential to yield plausible adult
+mortality rates from routinely collected survey data on sibling
+survival.
+Main sources of data on adult mortality
+Reliable, timely estimates of age-sex-specific death rates remain
+the cornerstone of health information systems. Undoubtedly,
+Figure 1 Data sources available for child mortality estimation in the four largest developing countries
+the most reliable source of data for calculating mortality rates is
+a functioning vital registration system which records the fact of
+death, as well as the age and sex of the decedent, for all or
+almost all deaths. Based on data provided to the WHO each year
+by countries, some 74 of the 191 (now 192) Member States in
+2000 had what might be termed complete and reliable vital
+registration systems in 2000.9 In conjunction with mid-year
+population estimates, age-specific death rates for these countries,
+covering about one-quarter of the 55.7 million deaths esti-
+mated to have occurred in that year, can be readily determined.
+WHO has categorized mortality data sources as presented in
+Table 1.9
+Incomplete vital registration and sentinel
+surveillance
+In addition to these countries with complete vital registration
+systems, virtually all other governments maintain some form of
+vital registration of births and deaths, although the coverage
+varies greatly across countries. Very few countries in Sub-
+Saharan Africa (South Africa is the notable exception) have
+estimated coverage levels for vital events of more than 50%,
+and most are well below this level. There exist demographic
+techniques5,10­12 which allow one to assess the completeness
+of registration of adult deaths based on certain assumptions
+about the stability of population growth rates and migration.
+For a further 46 countries, vital registration is considered
+sufficiently complete to permit application of these methods.
+The extent of under-registration of deaths varies considerably,
+but is typically of the order 20­25% for the Central Asian
+Republics, but much lower (5­10%) in countries such as
+Guatemala and the Republic of Korea.9 In several large
+populations including Brazil and Egypt, vital registration
+appears to be performing reasonably satisfactorily, capturing
+80­85% of all deaths. These ratios can then be applied to
+registered deaths to estimate adult mortality rates, adjusted for
+such underreporting.
+In some large populations, particularly India and China,
+complete or virtually complete vital registration is unlikely to
+be a reality for many years. However, for both of these
+populations, systems of sentinel surveillance yield remarkably
+good estimates of age-specific death rates. In India, the
+Sample Vital Registration System (SRS) covers a random sample
+of about 6 million people or about 0.6% of the population, and
+collects data on vital events in these sample populations. Esti-
+mates using the indirect demographic techniques mentioned
+above suggest levels of completeness for adult death registra-
+tion of about 85%.13 In China, a representative sample of
+145 Disease Surveillance Points (DSP) covering villages and
+urban districts provides annual mortality data on about
+10 million people, with an estimated completeness of coverage
+of about 80% (higher in urban areas).9 Systems such as these
+are also operating in Bangladesh and Tanzania, and yield reason-
+ably reliable information on about 36% of deaths occurring
+worldwide.
+Regrettably, very little is reliably known about levels of adult
+mortality for the remaining 67 Member States of WHO,
+comprising 27% of the world's population (by comparison,
+there is substantial uncertainty about child mortality in only a
+handful of countries, representing about 2% of the world's
+population). Data on parental or sibling survival have been
+collected in some surveys, but this has not been systematic, nor
+have conventional demographic techniques for analysing
+survey data on adult mortality generally yielded plausible
+results. There thus remains substantial uncertainty about levels
+of adult mortality for about half the countries of the world,
+either because there is no reliable survey evidence, or because
+methods for correcting vital registration data for incompleteness
+are essentially subjective, requiring considerable judgement as
+to the choice of data points on which to base the assessment.
+This uncertainty is appropriately reflected in country and
+global estimates of adult mortality. A convenient index for
+measuring adult mortality is the probability of dying between
+ages 15­60 or 45q15 in life table notation. Levels of risk of adult
+death at these ages vary for males from about 10% in Japan,
+Australia, and New Zealand to 60% in Southern Africa, where
+the HIV epidemic is most pronounced, and from about 5% to
+55% for females. Globally, there are an estimated 15.7 million
+deaths at ages 15­59, which by any standards must be con-
+sidered premature. But perhaps more to the point is the very
+substantial uncertainty around these estimates. In Sub-Saharan
+Africa, for example, and particularly where mortality rates from
+HIV/AIDS are high, there is extraordinary uncertainty about the
+true level of adult mortality, often as high as 30­50%.9 This
+uncertainty is unacceptable if public health programmes to
+control the leading causes of adult death are to be monitored
+appropriately. The following section of the paper outlines some
+possible methodological approaches to reducing this uncer-
+tainty by more reliably correcting for under- and mis-reporting
+of deaths.
+712 INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+Table 1 World Health Organization categorization of mortality data
+sources by region
+WHO region No. of countries
+% of
+CAT II deaths
+CAT I or III CAT IV CAT V worldwide
+AFR 2 5 32 7 19
+AMR 20 13 2 0 11
+EMR 4 5 11 2 7
+EUR 41 10 0 0 18
+SEAR 1 4 4 1 25
+WPR 6 13 8 0 20
+WORLD 74 50 57 10 100
+% of deaths 24 48 25 2
+covered
+CAT I. Complete vital statistics (coverage 95%+).
+CAT II or III. Incomplete vital statistics or sample registration and surveillance
+systems.
+CAT IV. Child mortality estimated from surveys and censuses.
+CAT V. No recent data on child or adult mortality.
+AFR. African Region.
+AMR. American Region.
+EMR. Eastern Mediterranean Region.
+EUR. European Region.
+SEAR. South East Asia Region.
+WPR. Western Pacific Region.
+Source: 10 Lopez AD, Ahmad OB, Guillot M et al. World Mortality in 2000: Life
+Tables for 191 Countries. Geneva: World Health Organization, 2002, p. 3.
+ADULT MORTALITY: TIME FOR A REAPPRAISAL 713
+Estimating adult mortality from
+household surveys
+Several indirect methods for estimating levels of adult mortality
+have been proposed, but it is difficult to validate these methods
+because there is little overlap in the types of data available for
+countries with good vital registration and those with less
+complete systems.14 Indirect methods generally rely on census
+and survey data, and include, but are not limited to:
+Deaths in the past 12 months
+A number of censuses and household surveys include questions
+on number of deaths in the household in the 12 or 24 months
+prior to the interview. This method often suffers from under-
+reporting of events and, when based on household surveys,
+does not yield large sample sizes.15,16
+The widowhood method
+This method estimates mortality rates based on the survival of
+a respondent's first husband or wife. Several problems
+accompany this method, including the exclusion of younger
+and later spouses (particularly in polygamous societies), the
+exclusion of unmarried adults,17 the difficulty of clarifying
+between ever-widowed and currently widowed,18 the likeli-
+hood that in some cases, particularly in high HIV countries, the
+mortality of spouses will be related,18 and the necessity of a
+large sample size.14,19­21
+The orphanhood method
+This method estimates mortality rates based on the survival of
+a respondent's parents.22 This method has several limitations,
+including the underreporting of deaths among parents who died
+when their children were quite young (the `adoption' effect),23
+and the necessity of a large sample for any kind of meaningful
+mortality estimate. It also does not include parents with no
+surviving children.4,14,17,22,24­25 Timaeus18 reports that several
+applications of the method have generated reasonable estimates,
+but particularly in East African countries, the estimates are much
+lower than expected, especially for young respondents.
+The sibling survivorship method
+Hill and Trussell24 first developed this method of estimating
+adult mortality from the proportion of deceased siblings of a
+survey respondent. In an effort to estimate maternal mortality,
+this method was varied slightly to become the sisterhood
+method, proposed by Graham et al.,17 and a number of studies
+have estimated maternal mortality via this method.26­32 The
+basic method for estimating adult mortality (rather than
+maternal) has not been applied as widely.17,33 While this
+method suffers from drawbacks, including the assumption that
+sibling group size does not affect survival,17 and the risks that
+respondents may not know about siblings that died before they
+were born or when they were very young,18 or that siblings
+may lose touch or be forgotten, or their vital status unknown,
+there are convincing reasons that this method is a possibility
+for estimating adult mortality. At the very least, its usefulness
+should be further explored, as this paper attempts to do. By
+limiting observations to those siblings who have reached
+adulthood, the assumption that sibling group size does not
+affect survival is more reasonable.33 Another major advantage
+of this method is that a relatively small number of respondents
+can lead to a sizeable dataset.34
+All of the methods mentioned above suffer from a similar
+drawback, that being a time reference problem. Events recorded
+could have occurred at any point during the lifetime of the
+respondent or even before the respondent was born. While dates
+and times of death are sometimes recorded, they often suffer
+from recall biases. One option is to limit the period of analysis to
+the 5 or 10 years immediately preceding the census or survey.
+While this leads to more recent estimates that are less prone to
+bias, it also greatly decreases the sample size, making it difficult
+to arrive at meaningful age- and sex-specific death rates.
+Limiting the observation period may only be an option for sibling
+survival data, as the sample sizes are usually large enough that
+analyses can be performed on a subset of the full data.
+The Demographic and Health Surveys (DHS) contain a
+maternal mortality module which can be used to estimate adult
+mortality based on sibling survivorship information. For several
+countries, the DHS collects complete sibling histories; that is,
+information on all children born to the respondent's mother,
+including the current age of living siblings, and the age at death
+and years since death of dead siblings (Macro International
+2003). Because of the inclusion of dates and ages, the sibling
+survivorship method can be extended to include sex- and age-
+specific death rates, and can also be used to attempt to limit the
+time reference to some specified period prior to the survey.
+Stanton et al.19,35 have completed two assessments of DHS
+maternal mortality indicators, a selection of which can be used
+for adult mortality estimates. Their 1997 Macro International
+report analysed data quality for 14 countries, and a later 2000
+paper analysed data for 13 countries. They conclude that the
+basic demographic variables (sex, age of living sibling, and age
+at death) are virtually complete. Stanton et al. also report that
+for age at death, none of the data-quality indicators examined
+among reported events were of lesser quality for distant periods
+than those from the most recent period.
+There are several types of recall problems associated with
+these data, including older respondents forgetting events of the
+distant past, and younger respondents not reporting on events
+that happened before they were born or when they were still
+very young.19 This results in general underreporting of mor-
+tality in the past.24,36,37
+Stanton and colleagues compare DHS adult mortality
+estimates with UN general mortality indicators and DHS child
+mortality indicators. They find that the DHS adult estimates
+are somewhat lower on average than the UN estimates, and
+reasonably consistent with child mortality estimates. Stanton
+et al. conclude that the proportion of events affected by recall
+issues is much greater than with child mortality.
+Strategies to improve information on
+adult mortality
+Of the available indirect methods, questions on survival of all
+siblings (not just sisters) has been least utilized, and may
+provide a promising method to estimate adult mortality in
+settings with poor vital registration systems. This method has
+the added advantage that if individuals gave accurate accounts
+of sibling deaths, historical information on changes in mortality
+could be derived from a simple cross-section. However, it seems
+clear that reporting methods would have to be substantially
+improved before these data were used for historical mortality
+estimation.
+This analysis uses 34 DHS with modules on sibling survival in
+the women's questionnaire. The respondents are nationally
+representative samples of women of reproductive age (usually
+15­49 years of age). Table 2 provides a list of countries, survey
+years and sample sizes where this module is available.
+These modules collect information on complete `sibling
+histories'; that is, respondents are asked about all siblings born
+to the same mother, their age (both number of years and year
+of birth), sex and vital status at the time of the interview. For
+siblings who have died, information is collected on the year and
+age at death, as well as the number of years ago the death
+occurred. This information is then used to produce person-years
+lived and number of deaths in 5-year age groups, for males and
+females separately, and for 5-year time periods, the latest of
+which is the 5 years preceding the interview year. The res-
+pondents themselves are excluded from this analysis to
+minimize selection bias, as they are selected on the basis of
+being alive.
+Death rates for each 5-year age-sex group from the DHS are
+underestimates of the true rates, mainly due to recall bias on the
+behalf of the respondents. To estimate the magnitude of the
+recall bias, the DHS death rates need to be compared with a gold
+standard or a more accurate estimate of adult mortality. Clearly,
+the main limitation in validating the DHS death rates is that
+these data exist where vital registration data are not available.
+While not a `gold standard', UN estimates can be treated as one
+basis for comparison. For their routine demographic estimation,
+the UN uses inter-censal survival, the growth­balance equation
+and the number of deaths by age and sex to estimate adult
+mortality. UN Population Division estimates of mortality by age
+and sex from 1950 to 2000 are used as comparators in this
+714 INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+Table 2 Demographic and Health Surveys (DHS) with maternal mortality module by year and sample size, and estimated 45q15 from sibling
+survival data
+UN estimate 45q15 DHS sibling survival
+Country Year Sample size Year Male Female
+Benin 1996 5491 1996 0.210 0.137
+Brazil 1996 12 612 1996 0.184 0.076
+Burkina Faso 1998 6445 1998 0.264 0.169
+Cameroon 1998 5501 1998 0.206 0.143
+Central African Republic 1995 5884 1995 0.321 0.224
+Chad 1997 7454 1997 0.163 0.121
+Cote d'Ivoire 1994 8099 1995 0.282 0.177
+Eritrea 1995 5054 1995 0.200 0.146
+Guinea 1999 6753 1995 0.194 0.142
+Indonesia 1994 28 168 1995 0.110 0.063
+Indonesia 1997 28 810 1997 0.156 0.101
+Madagascar 1997 7060 1997 0.226 0.145
+Malawi 1992 4849 1997 0.319 0.226
+Malawi 2000 13 220 1997 0.472 0.343
+Mali 1996 9704 1996 0.178 0.103
+Namibia 1992 5421 1997 0.312 0.131
+Niger 1992 6503 1997 0.185 0.105
+Nigeria 1999 7647 1995 0.139 0.084
+Peru 1996 28 951 1996 0.141 0.086
+Peru 2000 27 843 1996 0.116 0.054
+Philippines 1998 13 983 1998 0.167 0.078
+Philippines 1993 15 029 1998 0.167 0.074
+Senegal 1993 6310 1998 0.122 0.090
+Togo 1998 8569 1998 0.207 0.129
+Uganda 1995 7070 1995 0.437 0.286
+United Republic of Tanzania 1996 8120 1996 0.275 0.140
+Zambia 1996 8021 1996 0.499 0.326
+Zimbabwe 1994 6128 1995 0.310 0.189
+Zimbabwe 1999 5907 1995 0.462 0.317
+ADULT MORTALITY: TIME FOR A REAPPRAISAL 715
+analysis. Their estimates may be inaccurate for each country,
+but in this analysis we assume that across the set of countries
+the UN data provides an unbiased estimate of adult mortality.
+Figures 2 and 3 show for child and adult mortality, respectively,
+the relationship between UN estimates and estimates derived from
+the DHS sibling survival module. For children, Figure 2 shows the
+under-5 mortality rate for male and female children separately.
+The correlation coefficient between the UN and the DHS estimates
+is 0.67. For most countries the DHS estimates for child mortality
+are higher than the UN, but at high levels of mortality the UN
+suggests a higher level of child mortality than the DHS.
+Figure 3 shows the relationship between DHS and UN
+estimates for a summary index of adult mortality, 45q15, which
+refers to the probability of dying between the ages 15 and 59.
+The correlation coefficient between the two sets of estimates is
+0.74. Unlike with child mortality, for adult mortality estimates
+from the DHS are lower than the UN for all countries. The
+strong relationship between the two sets of estimates indicates
+that despite underreporting, overall sibling history data appears
+to contain useful information about levels of adult mortality.
+The main limitation of using information collected this way
+appears to be the undercounting of events of sibling death,
+which lead to age-sex specific mortality rates that are too low.
+The way forward with this type of mechanism for collecting
+information on levels of adult mortality in settings where vital
+registration systems are very poor or non-existent may be to
+improve the questionnaire design. To improve estimates derived
+from sibling histories, the questions may need modification.
+They could be expanded to collect information on covariates
+that might predict accuracy of recall, such as time of last contact
+with sibling, distance between the residences of the siblings,
+frequency of family gatherings where information on family
+members' well-being might be exchanged, etc.
+As an attempt to correct for the underreporting of deaths
+in sibling histories, the WHO recently developed the World
+Health Survey questionnaire which collects information on
+time of last contact between siblings along with the standard
+sibling survival schedule, including for each sibling of the
+respondent their name, sex, date of birth, and age at death if not
+alive (see www.who.int/whs for more information). The World
+Health Survey, fielded in 2003, will provide the opportunity to
+revise the mortality rates based on sibling histories in three
+ways. First, information on time of last contact between siblings
+can be used to censor the data. The survival status of each
+sibling will be assumed to be known with certainty only at the
+time of last contact with the respondent. Second, as some of the
+countries that are participating in the World Health Survey are
+countries with good vital registration or sample registration
+systems (like India, for example), a validation of mortality rates
+collected through household surveys will be feasible against a
+`gold standard' type of registration system. Third, the World
+Health Survey includes respondents of both sexes above the age
+of 18. It will provide the opportunity to test whether recall is
+related to the sex of the respondent, and expand information on
+recall as a function of age of the respondent, as the number
+of age groups included will be much broader than the
+reproductive age groups included in the DHS. It is hoped that
+this experience with analysis of sibling histories will then
+strengthen the basis for assessing recall bias as a function of time
+since survey, age, and sex of the respondent, and lead to tech-
+niques to correct for it.
+Household surveys provide the only way, at present, to get
+timely information on the impact of new health problems, such
+as HIV/AIDS, particularly in countries without elaborate
+monitoring systems. This adds to the reasons why it is important
+to understand the functional relationship between sibling
+history and true death rates. If techniques to correct the biases
+associated with recall of sibling death are developed, this
+relatively easy way to collect information on adult mortality can
+be used to monitor current mortality and time-trends in death
+rates. In addition, some verbal autopsy questions can be
+incorporated to attempt to determine cause of death from major
+causes. For example, if a reliable and valid verbal autopsy
+instrument existed for determining deaths due to HIV/AIDS,
+mortality from AIDS in high prevalence countries could be
+monitored using sibling history techniques. However, it must be
+recognized that adding additional modules or questions to a
+household survey translates into a need for more resources,
+more training, and perhaps dropping other relevant questions
+from the instrument.
+These methods are not precise, nor can they be given the
+quality of survey data on mortality. Yet they offer what could
+Figure 2 Relationship between Demographic and Health Survey
+(DHS) sibling survival and UN estimatesa for under-5 mortality
+a See Table 2 for reference year of DHS and UN estimates.
+Figure 3 Relationship between Demographic and Health Survey
+(DHS) sibling survival and UN 45q15 estimatesa. Males and females
+a See Table 2 for reference year of DHS and UN estimates.
+perhaps be a promising means of obtaining reasonable estimates
+of adult mortality levels for the 100 or so countries where there
+are no reliable data from routine sources. As a minimum, this
+direct evidence should greatly reduce uncertainty about adult
+death rates in developing countries and provide a baseline
+against which the impact of disease control programmes
+can be assessed. Global health policy will be poorly served if we
+are as ignorant about adult mortality in 10 years hence as we
+are today.
+Acknowledgements
+The authors wish to thank the National Institutes on Aging
+(PO1 AG17625-01) for research support.
+References
+1 Murray CJL, Lopez AD. Mortality by cause for eight regions of the
+world: Global Burden of Disease Study. Lancet 1997;349:1269­76.
+2 Lopez AD. Causes of death in industrial and developing countries:
+estimates for 1985­1990. In: Jamison DT, Mosley WH, Measham AR,
+Bobadilla JL (eds). Disease Control Priorities in Developing Countries.
+Oxford: Oxford University Press for the World Bank, 1993, pp. 35­50.
+3 Ahmad OB, Lopez AD, Inoue M. The decline in child mortality: a
+reappraisal. Bull World Health Organ 2000;78:1175­91.
+4 United Nations. Manual X: Indirect Techniques for Demographic
+Estimation. New York: United Nations, 1983.
+5 Trussell TJ. A re-estimation of the multiplying factors for the Brass
+technique for determining childhood survivorship rates. Popul Stud
+1975;29:97­108.
+6 Feachem RGA (ed.) et al. The Health of Adults in the Developing World.
+Oxford; New York; Toronto; Melbourne: Oxford University Press for
+the World Bank, 1992.
+7 Murray CJL, Lopez AD (eds). The Global Burden of Disease: a
+Comprehensive Assessment of Mortality and Disability from Diseases, Injuries,
+and Risk Factors in 1990 and Projected to 2020. Cambridge, USA: Harvard
+University Press on behalf of WHO and the World Bank, 1996.
+8 World Health Organization. Reducing Risks: Promoting Healthy Life.
+Geneva: World Health Organization, 2002.
+9 Lopez AD, Ahmad OB, Guillot M et al. World Mortality in 2000: Life
+Tables for 191 Countries. Geneva: World Health Organization, 2002.
+10 Bennett NG, Horiuchi S. Mortality estimation from registered deaths
+in less developed countries. Demography 1984;21:217­33.
+11 Hill K. Estimating census and death registration completeness. Asian
+Pac Pop Forum 1987;1:8­24.
+12 Preston SH, Coale AJ, Trussell J, Weinstein M. Estimating the
+completeness of reporting adult deaths in populations that are
+approximately stable. Popul Stud 1980;46:179­202.
+13 Bhat M. Estimating life tables for India in the 1990s. (WHO
+unpublished document, 2000).
+14 Hill K. Methods for measuring adult mortality in developing
+countries: a comparative review. Research Paper No. 01.13. 2000.
+Harvard Burden of Disease Unit; National Institute on Aging Grant
+1-PO1-AG17625. The Global Burden of Disease 2000 in Aging
+Populations.
+15 Timaeus I. Adult mortality. Demographic Change in Sub-Saharan Africa.
+National Academy of Sciences, 1993, pp. 218­35.
+16 Feeney G. The impact of HIV/AIDS on adult mortality in Zimbabwe.
+Popul Dev Rev 2001;27:771­80.
+17 Graham W, Brass W, Snow RW. Estimating maternal mortality: the
+sisterhood method. Stud Fam Plann 1989;20:125­35.
+18 Timaeus I. Measurement of adult mortality in developing countries: a
+comparative review. Popul Index 1991;57:552­68.
+19 Stanton C, Noureddine A, Hill K. An assessment of DHS maternal
+mortality indicators. Stud Fam Plann 2000;31:111­23.
+20 Singh R. Estimation of Adult Mortality from Widowhood Data for India and
+its Major States. Mumbai, India: International Institute for Population
+Sciences, 2000.
+21 Malaker CR. Estimation of adult mortality in India: 1971­81.
+Demography India 1986;15:126­36.
+22 Brass W, Hill K. Estimating Adult Mortality in Africa from Orphanhood.
+Proceedings of the International Population Conference. Liège:
+International Union for the Scientific Study of Population, 1973.
+23 Timaeus I. Estimation of adult mortality from orphanhood before and
+since marriage. Popul Stud 1991;45:455­72.
+24 Hill K, Trussell J. Further developments in indirect mortality
+estimation. Popul Stud 1977;31:313­34.
+25 Timaeus I. An assessment of methods for estimating adult mortality
+from two sets of data on maternal orphanhood. Demography
+1986;23:435­50.
+26 Shahidullah M. The sisterhood method of estimating maternal
+mortality: the Matlab experience. Stud Fam Plann 1995;26:101­06.
+716 INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+KEY MESSAGES
+· The current state of knowledge regarding levels of adult mortality is unacceptably low in many countries in the
+world.
+· The value of sibling survival data for estimating adult mortality has not been adequately studied.
+· Using data from the Demographic and Health Surveys, this paper suggests that sibling survival schedules contain
+moderate information content regarding adult mortality levels, but further study is required to help correct for
+underreporting problems.
+· Modifications to the sibling survival questionnaires, such as those incorporated in the World Health Surveys
+related to time of last contact, may lead to improvements of adult mortality estimates derived from household
+surveys.
+ADULT MORTALITY: TIME FOR A REAPPRAISAL 717
+27 Danel I, Graham W, Stupp P, Castillo P. Applying the sisterhood
+method for estimating maternal mortality to a health facility-based
+sample: a comparison with results from a household-based sample. Int
+J Epidemiol 1996;25:1017­22.
+28 Garenne M, Friedberg F. Accuracy of indirect estimates of maternal
+mortality: a simulation model. Stud Fam Plann 1997;28:132­42.
+29 Chiphangwi JD, Zamaere TP, Graham W, Duncan B, Kenyon T,
+Chinyama R. Maternal mortality in the Thyolo district of southern
+Malawi. East Afr Med J 1992;69:675­79.
+30 Wirawan DN, Linnan M. The Bali indirect maternal mortality study.
+Stud Fam Plann 1994;5:304­09.
+31 Walraven GEL, van Dongen PWJ. Assessment of maternal mortality
+in Tanzania. Br J Obstet Gynaecol 1994;101:414­17.
+32 Shiferaw T, Tessema F. Maternal mortality in rural communities of
+Illubabor, Southwestern Ethiopia: as estimated by the `sisterhood
+method'. Ethiop Med J 1993;31:239­49.
+33 Bicego G. Estimating adult mortality rates in the context of the AIDS
+epidemic in sub-Saharan Africa: analysis of DHS sibling histories.
+Health Transit Rev 1997;7(S2):7­22.
+34 Timaeus I, Graham W. Measuring adult mortality in developing coun-
+tries: a review and assessment of methods. WPS 155. 1989. Population
+and Human Resources Department: The World Bank. Policy, Planning
+and Research; Population, Health and Nutrition: Working Papers.
+35 Stanton C. DHS maternal mortality indicators: an assessment of data
+quality and implications for data use. 1997. Calverton, MD, Macro
+International. DHS Analytical Reports No. 4.
+36 Blacker JGC, Brass W. Experience of retrospective enquiries to
+determine vital rates. In: Moss L, Goldstein H (eds). The Recall Method
+in Social Surveys. London: University of London Institute of Education,
+1983, pp. 48­61.
+37 Zaba B. Measurement of Emigration Using Indirect Techniques. Liège:
+Ordina Editions for IUSSP/CELADE, 1985.
+IJE vol.33 no.4 © International Epidemiological Association 2004; all rights reserved. International Journal of Epidemiology 2004;33:717­718
+Advance Access publication 28 July 2004 doi:10.1093/ije/dyh235
+Commentary: On reappraisal of adult
+mortality
+PN Mari Bhat
+Due to the development of indirect estimation methods for
+estimating infant and child mortality from some simple
+questions asked routinely in censuses and surveys, and
+collection of detailed birth histories in some sample surveys,
+there has been marked improvement in the information on
+levels and trends in child mortality in the developing world.1
+But unfortunately, the same cannot be said about levels and
+trends in adult mortality. In recent years, the spread of the
+human immunodeficiency virus (HIV)/AIDS epidemic has
+brought the paucity of data on adult mortality into sharp focus.
+Although the United Nations does provide estimates of adult
+mortality for all the developing countries, in only about one-
+third of the countries is such information based on vital
+registration.2 The estimates derived from indirect information,
+such as on orphanhood, have been found useable in only 4% of
+the countries. For about one-third of developing countries the
+adult mortality levels are arrived at from the estimates of child
+mortality by assuming age patterns of mortality contained in
+`model' life tables. The model life tables synthesize the
+relationship between mortality rates at different ages observed
+in countries that had reliable data on age- and sex-specific
+mortality rates. Although they may be useful in approximating
+the level of adult mortality for the time periods for which
+estimates of child mortality are available, the assumed high
+correlation between the levels of adult and child mortality could
+become too restrictive when ascertaining trends, especially in
+populations affected by the HIV/AIDS epidemic.
+It is in this context that Gakidou and colleagues recommend
+collection and analysis of sibling survival data.3 It should be
+noted that there are two alternative methods of estimating adult
+mortality from this information. The `indirect' method,
+developed originally by Hill and Trussell4 and revised
+subsequently by Timæus and others,5 uses data only on the
+proportion of surviving siblings by respondent's age. The data
+collected in the maternal mortality module of the Demographic
+and Health Surveys (DHS) had additionally included data on
+current age of surviving siblings, age at death, and time period
+of those who have died. Data of this type permit the direct
+estimation of mortality rates by age for any time period in the
+past, and it is this data and the method that Gakidou and others
+discuss in their paper. The advantage of the direct method is
+that it is not affected by assumptions about the age patterns of
+fertility and mortality made in the indirect method, but could be
+sensitive to errors in the detailed data used in the estimation.
+Neither of these methods has been extensively used and hence
+Institute of Economic Growth, University Enclave, Delhi 110 007, India.
+E-mail: mari@ieg.ernet.in
+

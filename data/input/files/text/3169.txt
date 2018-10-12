@@ -1,0 +1,2643 @@
+Comparing the DSGE model
+with the factor model:
+an out-of-sample forecasting experiment
+Mu-Chun Wang
+(Johann Wolfgang Goethe University of Frankfurt)
+Discussion Paper
+Series 1: Economic Studies
+No 04/2008
+Discussion Papers represent the authors' personal opinions and do not necessarily reflect the views of the
+Deutsche Bundesbank or its staff.
+Editorial Board: Heinz Herrmann
+Thilo Liebig
+Karl-Heinz Tödter
+Deutsche Bundesbank, Wilhelm-Epstein-Strasse 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-1
+Telex within Germany 41227, telex from abroad 414431
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978-3­86558­379­6 (Printversion)
+ISBN 978-3­86558­380­2 (Internetversion)
+/0. 0
+#C I=>H E6E:G L: EJI ,! ;DG:86HIH >C 8DBE:I>I>DC L>I= ;68IDG ;DG:86HIH
+ 0: ;D8JH DC
+I=:H: ILD BD9:AH H>C8: I=:N G:EG:H:CI C>8:AN I=: ILD DEEDH>C< ;DG:86HI>C< E=>ADHDE=>:H
+
+-=: ,! BD9:A DC I=: DC: =6C9 =6H 6 HIGDC< I=:DG:I>86A :8DCDB>8 768@<GDJC9 I=:
+;68IDG BD9:A DC I=: DI=:G =6C9 >H B6>CAN 96I6 9G>K:C
+ 0: H=DL I=6I 7N >C8DGEDG6I>C<
+A6G<: >C;DGB6I>DC H:I JH>C< ;68IDG 6C6ANH>H 86C >C9::9 >BEGDK: I=: H=DGI =DG>ODC EG:
+9>8I>K: 67>A>IN 6H 8A6>B:9 7N B6CN G:H:6G8=:GH
+ -=: B>8GD ;DJC9:9 ,! BD9:A 86C
+EGDK>9: G:6HDC67A: ;DG:86HIH ;DG >CQ6I>DC :HE:8>6AAN L>I= <GDL>C< ;DG:86HI =DG>ODCH
+ -D 6
+8:GI6>C :MI:CI DJG G:HJAIH 6G: 8DCH>HI:CI L>I= I=: EG:K6>A>C< K>:L I=6I H>BEA: I>B: H:G>:H
+BD9:AH H=DJA9 7: JH:9 >C H=DGI =DG>ODC ;DG:86HI>C< 6C9 HIGJ8IJG6A BD9:AH H=DJA9 7: JH:9
+>C ADC< =DG>ODC ;DG:86HI>C<
+ )JG E6E:G 8DBE6G:9H 7DI= HI6I: D; I=: 6GI 96I6 9G>K:C 6C9
+I=:DGN 76H:9 BD9:AA>C< >C 6 G><DGDJH B6CC:G
+
+'&!" ,! BD9:AH ;68IDG BD9:AH ;DG:86HI>C< ;DG:86HI :K6AJ6I>DC
+ 
+ ""(#    
+Non-technical summary
+Recently, a growing literature has dealt with forecasting using large factor models. Typically,
+the modern factor models extract only a few components (called common factors) representing the
+overall economic activities of a large dataset. These factors can then be used to forecast some key
+economic variables. Various applications of such models in forecasting macroeconomic and financial
+variables claim that forecasts generated from factor models are superior to simple time series
+benchmark models. A totally different approach to forecast economic variables is to specify and
+estimate a dynamic stochastic general equilibrium (DSGE) model. DSGE models have recently
+become popular in terms of policy analysis because they are very useful storytelling devices due to
+their rigorous microeconomic foundations. In this paper, we put DSGE forecasts in competition with
+factor forecasts. We focus on these two models since they represent nicely the two opposing
+forecasting philosophies. The DSGE model, on the one hand, has a strong theoretical economic
+background. The factor model, on the other hand, is mainly data-driven. In addition, unrestricted
+vector autoregressive (VAR) and simple univariate autoregressive (AR) models are considered as
+benchmark models. We implement out-of-sample forecasting experiments, using the aforementioned
+models, on output growth and inflation in the US economy on a quarterly basis.
+The underlying factor forecasting model is the diffusion indexes model (DI) proposed by
+Stock and Watson (2002b). The DI model produces direct multistep forecasts without having to
+specify the dynamics of the factors explicitly. We collect, in total, 83 macroeconomic and financial
+series and use the static principle component method to extract the factors. The underlying DSGE
+model is a prototypical monetary New-Keynesian model proposed by Del Negro and Schorfheide
+(2004). The estimation of the DSGE model is carried out using the Bayesian framework.
+Regarding the informativeness of forecasts, model-based output growth forecasts are generally
+not informative for forecast horizons exceeding one year. However, inflation forecasts computed from
+the models are vastly informative at every forecast horizon. In terms of the forecasting performance
+measured in mean squared forecast errors, the factor model is, in general, superior to any other model
+in the short run. The DSGE model is able to outperform the unrestricted VAR. However, the VAR
+turns out to be an unreliable benchmark since it is, in most cases, the worst forecasting model.
+To a certain extent our results are consistent with the prevailing view that time series models
+should be used in short-horizon forecasting and structural models should be used in long-horizon
+forecasting. Our paper closes the existing gap in the literature which up to now has investigated the
+predictive ability of data-driven factor models and theoretical DSGE models separately from each
+other.
+
+ 
+
+   
+
+ 
+ 
+ 
+   
+ 
+    
+ 
+  
+ 
+  
+   
+ 
+   
+     
+  
+  !"
+  
+ 
+ 
+  
+#
+ 
+ 
+  
+ $ 
+ % &" '
+   
+ 
+ 
+   
+ (  
+ 
+ 
+
+   
+ 
+ 
+ 
+ $ 
+%
+  
+  #
+  
+  ) 
+  * 
+ %
+
+ 
+ ) 
+ *
+
+  
+      * 
+ $    %
+
+   * 
+ % 
+) 
+  
+ 
+ 
+  
+   
++  
+ 
+  
+ 
+  
+  
+  ,   
+ 
+-
+ %) 
+ 
+   $ 
+  ) 
+ *
+
+  "  
+ 
+  
+ 
+ +" 
+
+ 
+ +   
+  ! 
+
+. 
+ 
+ $   
+  
+ 
+   '#+/-( #
+ #+/-.
+ 
+ 
+ 
+  " 
+ 
+ $ 
+ ! ""     0  
+    
+
+) 
+  
+   
+ 
+ #+/-.    , 
+ " 
+ 
+ .
+) 
+ 
+  #
+ % 
+  
+"
+  %  
+ * 
+ % 
+  #+/-.  
+&   
+  
+   0
+  
+    
+ 
+   
+    
+ 
+  
+    * 
+ "
+ "
+  " 
+   #
+ #+/-.  
+  
+ + 
+ 
+
+
+  
+ ) 
+.   
+  
+  1 
+ 
+  
+  
+  + 
+ 
+
+  
+  2
+ 
+ 
+ % ,
+ #
+   
+   
+     
+ 
+  %  
+   
+%
+ '*$3(  
+ 
+  
+%
+
+ 
+   
+%  '$3( 
+  3    
+   
+0
+ 
+"  
+  * 
+ 
+ 
+ 
+ 
+ 
+   + 
+ 
+ %  
+
+ , 4+.
+ 
+ 
+ 0
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ %
+  5 
+  6
+
+#
+    
+  
+ 
+ #
+
+ 
+ 7.  '# ( % +  
+0
+  '8998( #
+ # .  "  
+  
+  
+ % 
+  
+ #! 
+
+ 
+
+  7" 
+ 
+ " 
+
+ 
+   ,  0
+ 
+ 
+  
+ :;  
+  
+ 
+ / 
+ 
+
+) 
+   
+ 
+    
+  
+ 
+ <
+" " 
+ 
+ !  
+
+   7 
+
+   #
+    #+/-.  
+ 
+ "  !"
+     = .
+& ! 
+ 
+   % # =   + 
+ '899>( #
+ +    #+/-.  
+  6
+! 
+ 
+ 
+ 
+ % 
+  
+ 
+  #+/-.  
+
+   
+ , 
+ 
+ 
+ 
+% , 5
+  
+   #
+  
+ 
+ 
+ 
+    
+
+  0
+ % 
+ 
+$   
+ 
+ 
+ 
+ 
+% ,   
+     
+ 
+ ,  
+  6 
+ 
+
+
+ * 
+ ,     
+ 
+  ?
+ 
+ 
+ * 
+      
+ 
+ 
+ 
+
+ 
+   
+  & 
+ "  ,    0 
+ 
+ 
+ 
+ #+/-.  
+ 
+ 
+2
+  
+    
+ 
+  *$3.    
+  $  
+  
+ 
+ 
+ *$3.  
+$   
+ 
+  
+  %  
+  3     
+   
+  
+  
+  
+
+   * 
+  
+ 
+ 
+  
+    
+    3  
+ 
+ %  +
+  
+
+ 
+  
+  , & 
+ "       , 2
+ 
+ " 
+ 
+       4   6 
+ 
+ 
+  + 
+    2, 
+  2
+ 
+   
+
+ * 
+ , % 
+ .
+
+  
+     
+ #+/-.  
+ 
+ 
+  % 
+ 
+    
++*0"*0/
+*0.+!1 0&+*
++." /0&*$ +!"(/
+
+
+ 68IDG 'D9:A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ (:L %:NC:H>6C ,! 'D9:A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 *! /0&)0&+* 
+
+
+ 6I6 6C9 ME:G>B:CI6A :H><C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 6I6 -G:6IB:CI 6C9 HI>B6I>DC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 68IDG 'D9:A >WJH>DC #C9:M 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ (:L %:NC:H>6C 'D9:A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ :C8=B6G@H /+ 6C9 + 'D9:A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++." /0&*$ "/1(0/ 
+
+
+ HI>B6I>DC +:HJAIH D; I=: ,! BD9:A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ #C;DGB6I>K:C:HH D; DG:86HIH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ /6G>DJH 68IDG 6C9 /+ ,E:8>P86I>DCH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ -:HI>C< :FJ6A EG:9>8I>K: 67>A>IN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ +* (1/&+*
+&/0 +# ("/
+
+ *G>DGH 6C9 EDHI:G>DG 9>HIG>7JI>DCH D; I=: ,! BD9:A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -:HI D; :FJ6A EG:9>8I>K: 67>A>IN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+&/0 +# &$1."/
+
+ !6>C &DHH >C ', H BD9:AH K:GHJH JC8DC9>I>DC6A B:6C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !6>C &DHH >C ', H # K:GHJH + 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ !6>C &DHH >C ', H ,! K:GHJH /+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DBE6G>C< I=: ,! 'D9:A L>I= I=: 68IDG 'D9:A C
+)JI D; ,6BEA: DG:86HI>C< ME:G>B:CI
+*0.+!1 0&+*
+/6G>DJH I>B: H:G>:H 6EEGD68=:H =6K: 7::C EGDEDH:9 ID ;DG:86HI :8DCDB>8 K6G>67A:H
+ DG
+6 ADC< I>B: DM $:C@>CH JC>K6G>6I: B:I=D9DAD<N =6H 7::C I=: LDG@=DGH: IDDA ;DG I=:
+;DG:86HI:GH 6C9 >I HI>AA ;G:FJ:CIAN LDG@H 6H I=: 7:C8=B6G@ ;DG:86HI>C< BD9:A
+ )C I=:
+BJAI>K6G>6I: H>9: I=: /+ 6C9 6N:H>6C /+ BD9:A EDEJA6G>O:9 7N &>II:GB6C 
+6G: 6AHD 67A: ID EGDK>9: JH:;JA ;DG:86HIH
+ "DL:K:G I=: BJAI>K6G>6I: BD9:AH INE>86AAN
+8DCI6>C DCAN 6 ;:L K6G>67A:H 9J: ID I=:>G A6G<: CJB7:G D; E6G6B:I:GH ID 7: :HI>B6I:9
+6C9 I=: G:HJAI>C< =><= :HI>B6I>DC JC8:GI6>CI>:H
+
++:8:CIAN 6 <GDL>C< CJB7:G D; E6E:GH =6K: 9:6AI L>I= ;DG:86HI>C< JH>C< ;68IDG BD9:AH
+
+,ID8@ 6C9 06IHDC 6 6> 6C9 (<  6C9 6>  =6K: A6>9 I=:DG:I>86A
+;DJC96I>DCH D; :HI>B6I>C< A6G<: H86A: HI6I>8 ;68IDG BD9:AH
+ DGC> "6AA>C &>EE> 6C9
++:>8=A>C  6C9 DGC> "6AA>C &>EE> 6C9 +:>8=A>C  9:K:ADE:9 I=: ;G6B:LDG@
+D; :HI>B6I>C< 9NC6B>8 ;68IDG BD9:AH
+ -=: ;68IDG BD9:AH IGN ID >C8DGEDG6I: 6H BJ8=
+:8DCDB>8 >C;DGB6I>DC 6H EDHH>7A: 6C9 6I I=: H6B: I>B: 6G: E6GH>BDC>DJH 7N :MIG68I>C<
+DCAN 6 ;:L ;68IDGH DJI D; 6 A6G<: 96I6 H:I
+ -=: K6G>DJH 6EEA>86I>DCH D; HJ8= BD9:AH >C
+;DG:86HI>C< B68GD:8DCDB>8 6C9 PC6C8>6A K6G>67A:H 86C 7: ;DJC9 >C ,ID8@ 6C9 06IHDC
+7 '6G8:AA>CD ,ID8@ 6C9 06IHDC  6C9 DGC> "6AA>C &>EE> 6C9 +:>8=A>C
+ 
+ -=:N 6AA 8A6>B I=6I ;DG:86HIH <:C:G6I:9 ;GDB ;68IDG BD9:AH 6G: HJE:G>DG ID I=:
+7:C8=B6G@ BD9:AH
+
+.HJ6AAN I=: HJE:G>DG>IN D; ;68IDG BD9:AH 9D8JB:CI:9 >C I=: A>I:G6IJG: >H ?JHI>P:9
+DCAN G:A6I>K: ID H>BEA: 6JIDG:<G:HH>K: BD9:AH DG HB6AA BJAI>K6G>6I: I>B: H:G>:H BD9:AH
+
+#C <:C:G6A >I >H 9>V8JAI ID :HI67A>H= G><DGDJH :8DCDB>8 ;DJC96I>DCH L>I= ;DG:86HI>C<
+BD9:AH >CKDAK>C< ;68IDGH
+ -=: :HI>B6I:9 ;68IDGH I=:BH:AK:H 86CCDI 7: >9:CI>P:9 DG :K:C
+>CI:GEG:I:9
+ #C 6 H:CH: I=: ;68IDG BD9:AH 6G: 6BDC< I=: BDHI 96I6 9G>K:C <:C:G6A ID
+HE:8>P8 6EEGD68=:H >C BD9:AA>C< :8DCDB>8 I>B: H:G>:H
+
+ IDI6AAN 9>W:G:CI BD9:AA>C< E=>ADHDE=N >H ID JH: I=:DGN 76H:9 BD9:AH ID ;DG:86HI
+# 6B I=6C@;JA ID ,6C9G6 >8@B:>:G .L: "6HHA:G '>8=:A $J>AA6G9 =G>HI>6C '6II=:H =G>HI>6C
+,8=JB68=:G 6C9 H:B>C6G E6GI>8>E6CIH 6I I=: .C>K:GH>IN D; G6C@;JGI I=: #0 >C :GA>C I=: #0" >C
+"6AA: I=: :JIH8=: JC9:H76C@ >C G6C@;JGI 6C9 I=: 
+I=  8DC;:G:C8: >C 'DCIGX6A ;DG EGDK>9>C<
+=:AE;JA 8DBB:CIH 6C9 9>H8JHH>DCH
+ # 6AHD L>H= ID I=6C@ I=: :JIH8=: JC9:H76C@ L=:G: E6GI D; I=>H
+E6E:G L6H LG>II:C ;DG >IH =DHE>I6A>IN 6C9 HJEEDGI
+ -=: DE>C>DCH :MEG:HH:9 >C I=>H E6E:G 6G: I=DH: D; I=:
+6JI=DG 6C9 9D CDI C:8:HH6G>AN G:Q:8I I=: K>:LH D; I=: :JIH8=: JC9:H76C@
+
+DGG:HEDC9:C8: ID 'J =JC 06C< ,I6I>HI>8H 6C9 8DCDB:IG>8 ':I=D9H !D:I=: .C>K:GH>IN G6C@
+;JGI !G6:;HIG
+   *    G6C@;JGI !:GB6CN
+  B6>A BJL6C<L>L>
+JC> ;G6C@;JGI
+9:
+
+
+:8DCDB>8 K6G>67A:H
+ "DL:K:G I=: HIGJ8IJG6A ;DGB :FJ6I>DC BD9:AH 9JG>C< I=: RH EGD
+K>9:9 CDIDG>DJHAN >C688JG6I: ;DG:86HIH
+ ,>C8: %N9A6C9 6C9 *G:H8DII 
+ :8DCDB>HIH
+=6K: 7:<JC ID HE:8>;N 6C9 :HI>B6I: B>8GD ;DJC9:9 9NC6B>8 HID8=6HI>8 <:C:G6A :FJ>A>7
+G>JB ,! BD9:AH
+ #C>I>6AAN CDI 8DCH>9:G:9 6H 6 ;DG:86HI>C< IDDA I=: ,! BD9:AH
+=6K: 7:8DB: EDEJA6G 6BDC< B68GD:8DCDB>HIH
+  <GDL>C< CJB7:G D; G:H:6G8=:GH 6EEAN
+6N:H>6C B:I=D9H ID :HI>B6I: I=: HIGJ8IJG6A E6G6B:I:GH D; I=: ,! BD9:AH
+ )C: D;
+I=: G:6HDCH >H I=: HIG6><=I;DGL6G9 BD9:A 8DBE6G>HDC L>I=>C I=: 6N:H>6C ;G6B:LDG@
+
+#C 699>I>DC HDB: G:H:6G8=:GH 6G<J: I=6I I=: 6N:H>6C 6EEGD68= >H HJE:G>DG ID I=: ;G:
+FJ:CI>HI 6EEGD68= A>@: !'' 6C9 B6M>BJB A>@:A>=DD9 >C H=DGI H6BEA:H
+ +:8:CIAN I=:G:
+=6K: 7::C H:G>DJH 6II:BEIH ID BDK: ,! BD9:AH >CID I=: P:A9 D; :8DCDB>8 ;DG:86HI
+>C<
+ ,B:IH 6C9 0DJI:GH  :HI>B6I:9 B:9>JB H86A: (:L %:NC:H>6C ,! BD9:AH
+L>I= 6N:H>6C 6EEGD68= 6C9 8A6>B:9 I=6I I=:>G ,! BD9:AH 86C <:C:G6I: HJE:G>DG
+;DG:86HIH 8DBE6G:9 ID JCG:HIG>8I:9 /+ L=:G:6H :A (:<GD 6C9 ,8=DG;=:>9:  6C9
+:A (:<GD ,8=DG;=:>9: ,B:IH 6C9 0DJI:GH  JH: ,! EG>DGH >C I=: 6N:H>6C
+/+ H:IJE 6C9 EGDK>9: HJEEDGI>K: G:HJAIH ;DG I=: HIGJ8IJG6A BD9:AH
+ "DL:K:G 6 G><DG
+DJH 8DBE6G>HDC D; ,! BD9:AH L>I= HDE=>H86I:9 I>B: H:G>:H BD9:AH =6H CDI 7::C N:I
+86GG>:9 DJI
+
+-=>H E6E:G >H BDI>K6I:9 7N I=: ;68I I=6I 6AI=DJ<= I=:G: 6G: HDB: 9>H8JHH>DCH 67DJI
+7DI= ;68IDG 6C9 ,! BD9:AH >C I=: A>I:G6IJG: I=:G: =6H 7::C ID DJG @CDLA:9<:
+CD 6II:BEI ID 86GGN DJI 6 ;DG:86HI>C< =DGH:G68: 7:IL::C I=:H: ILD BD9:A 8A6HH:H
+ -=:
+,! BD9:A DC I=: DC: =6C9 =6H HIGDC< I=:DG:I>86A :8DCDB>8 768@<GDJC9 6C9 >H L>9:AN
+8DCH>9:G:9 6BDC< I=:DG>HIH 6C9 8:CIG6A 76C@:GH 6H 6 JH:;JA BD9:A ;DG EDA>8N 6C6ANH>H
+ -=:
+;68IDG BD9:A DC I=: DI=:G =6C9 >H B6>CAN 96I6 9G>K:C 6C9 =6H 7::C I=: HJ7?:8I D; K6G>DJH
+>CK:HI><6I>DCH DC >IH EG:9>8I>K: 67>A>IN
+ )JG DJI D; H6BEA: ;DG:86HI>C< :ME:G>B:CIH ;D8JH
+DC I=: DJIEJI <GDLI= 6C9 EG>8: >CQ6I>DC D; I=: ., :8DCDBN
+ -D 6 8:GI6>C :MI:CI I=>H
+E6E:G >H 8ADH:AN G:A6I:9 ID I=: 6;DG:B:CI>DC:9 ;DG:86HI>C< E:G;DGB6C8: HJGK:NH 7N ,ID8@
+6C9 06IHDC 7 DGC> "6AA>C &>EE> 6C9 +:>8=A>C  6C9 ,B:IH 6C9 0DJI:GH
+ 
+ "DL:K:G I=DH: E6E:GH >CK:HI><6I: I=: EG:9>8I>K: 67>A>IN D; I=: ;68IDG 6C9 ,!
+BD9:AH >HDA6I:9 ;GDB :68= DI=:G
+ -=: B6>C 8DCIG>7JI>DC D; I=>H E6E:G >H EJII>C< I=:
+ILD HI6I: D; I=: 6GI B68GD:8DCDB:IG>8 BD9:AH >C 6 G><DGDJH DJI D; H6BEA: ;DG:86HI>C<
+8DBE6G>HDC
+ -=JH I=: G:HJAIH B><=I 7: >CI:G:HI>C< ;DG 7DI= EGD;:HH>DC6A ;DG:86HI:GH 6C9
+<:C:G6A B68GD:8DCDB>HIH
+
+-=: G:HI D; I=: E6E:G >H DG<6C>O:9 6H ;DAADL #C ,:8I>DC  L: >CIGD9J8: I=: ;DG:86HI
+>C< BD9:AH 8DCH>9:G:9 >C I=>H E6E:G
+ #C H:8I>DC  L: EG:H:CI I=: 96I6 I=: :HI>B6I>DC
+I:8=C>FJ:H 6C9 I=: 9:H><C D; I=: DJI D; H6BEA: ;DG:86HI>C< :ME:G>B:CI
+ #C ,:8I>DC  L:
+
+ ,:: ,8=DG;=:>9: 
+
+EGDK>9: :HI>B6I>DC G:HJAIH 6C9 9>H8JHH I=: DJI8DB:H D; I=: ;DG:86HI>C< :ME:G>B:CIH >C
+9:I6>A
+ ,:8I>DC  8DC8AJ9:H
+
++." /0&*$ +!"(/
+#C I=>H H:8I>DC I=: ;DG:86HI>C< BD9:AH ;DG I=: DJI D; H6BEA: ;DG:86HI>C< :ME:G>B:CIH 6G:
+EG:H:CI:9
+ >GHI I=: ;68IDG BD9:A 6C9 >IH ;DG:86HI>C< 6EEGD68= 6G: 9>H8JHH:9 7G>:QN
+
+-=:C L: EGDK>9: H=DGI 9:H8G>EI>DCH D; I=: ,! BD9:A 8DCH>9:G:9 >C I=>H E6E:G
+
+ 0+. +!"(
+,>C8: ,ID8@ 6C9 06IHDC 6 6C9 ,ID8@ 6C9 06IHDC 7 K6G>DJH ;DG:86HI>C<
+BD9:AH >CKDAK>C< ;68IDGH =6K: 7::C EGDEDH:9 >C I=: A>I:G6IJG:
+ :HE>I: 9>W:G:CI IG:6I
+B:CI D; I=: :HI>B6I>DC I:8=C>FJ:H 6C9 I=: 9NC6B>8H D; I=: JC9:GAN>C< ;68IDGH >I G:B6>CH
+>C8DC8AJH>K: L=>8= ;68IDG HE:8>P86I>DC 86C 7: G:<6G9:9 6H I=: BDHI 688JG6I: >C I:GBH
+D; ;DG:86HI>C<
+ DGC> "6AA>C &>EE> 6C9 +:>8=A>C  ,8=JB68=:G  ;DJC9 HJE
+EDGI>K: G:HJAIH ;DG I=: 9NC6B>8 DK:G I=: HI6I>8 ;68IDG BD9:AH L=:G:6H D>K>C 6C9 (<
+ G:EDGI A>IIA: 9>W:G:C8: 6BDC< I=: 8DBE:I>I>K: ;68IDG HE:8>P86I>DCH
+ #C 6 G:8:CI
+E6E:G >8@B:>:G 6C9 2>:<A:G  JH: 6 B:I6 6C6ANI>8 6EEGD68= ID 6HH:HH I=: EG:9>8
+I>K: 67>A>IN D; ;68IDG BD9:AH
+ -=:N 8DC8AJ9: I=6I I=: HI6I>8 ;68IDG HE:8>P86I>DC ;GDB
+,ID8@ 6C9 06IHDC 7 N>:A9H 7:II:G >CQ6I>DC ;DG:86HIH I=6C I=: 9NC6B>8 6EEGD68=
+;GDB DGC> "6AA>C &>EE> 6C9 +:>8=A>C  6C9 K>8: K:GH6 ;DG DJIEJI ;DG:86HIH
+ -:C
+I6I>K:AN >I H::BH I=6I I=: 8DGG:8I 8=D>8: D; ;68IDG HE:8>P86I>DC A>:H DC I=: 96I6 6I =6C9
+
+)JG >CK:HI><6I>DC G:A>:H DC I=: DG><>C6A ;68IDG BD9:A HE:8>P86I>DC 7N ,ID8@ 6C9 06IHDC
+6 6C9 ,ID8@ 6C9 06IHDC 7 L=>8= 86C 7: G:<6G9:9 6H I=: 7:C8=B6G@ ;68IDG
+BD9:A 9J: ID >IH L>9:HEG:69 6EEA>86I>DC
+
+&:I  9:CDI: I=: D7H:GK:9   K:8IDG D; HI6I>DC6GN I>B: H:G>:H 6C9 5  !
+7: I=: PGHI 9>W:G:C8: G:EG:H:CI6I>DC D; I=: # 
+ H86A6G H:G>:H !
+ -=: JC9:GAN>C< ;68IDG
+BD9:A >H
+   
+ %
+5    
+  5 
+   
+L=:G: >H I=:  + ;68IDG AD69>C< B6IG>M 6C9  >H I=: +  K:8IDG D; 8DBBDC ;68IDGH
+ -=DJ<=DJI I=>H E6E:G >H :>I=:G AD<6G>I=B>8 DJIEJI DG EG>8: H:G>:H HD I=6I I=: 9>W:G:C8:9 86C
+7: >CI:GEG:I:9 6H I=: 6HHD8>6I:9 <GDLI= G6I:H
+
+
+% >H I=:   K:8IDG D; >9>DHNC8G6I>8 H=D8@H  6C9  6G: A6< EDANCDB>6AH D; PC>I:
+DG9:G 6C9  >H I=: HID8=6HI>8 :GGDG I:GB
+ ,ID8@ 6C9 06IHDC 6 H=DL >C I=:DG:B
+
+ I=6I JC9:G B>A9 BDB:CI 8DC9>I>DCH I=: ;68IDGH 86C 7: :HI>B6I:9 8DCH>HI:CIAN JH>C<
+EG>C8>EA: 8DBEDC:CI B:I=D9
+
+FJ6I>DC 
+ A:69H ID I=: HD 86AA:9 9>G:8I BJAI>HI:E G:<G:HH>DC BD9:A 9:H8G>7:9 >C
+,ID8@ 6C9 06IHDC 7 
+5
+ 
+  
+ 
+  
+ 
+ 5 
+ 
+ 
+ 
+L=:G: 5
+ 
+>H I=: =DG>ODC HE:8>P8 <GDLI= G6I: D; !
+ -=: 6HHD8>6I:9 EG:9>8IDGH 6G: <GDLI=
+;DG:86HIH 7:IL::C 2 6C9 2 
+ ( G6I=:G I=6C ( HI:E 6=:69 ;DG:86HIH D; DC: E:G>D9 <GDLI=
+G6I:H
+ -=: BJAI>HI:E ;DG:86HIH 6G: <:C:G6I:9 ;GDB I=: =DG>ODC HE:8>P8 G:<G:HH>DC 7N
+B>C>B>O>C< I=: ( HI:E 6=:69 ;DG:86HI :GGDGH 9>G:8IAN >
+:
+ I=: JC9:GAN>C< BD9:A >H 9>W:G:CI
+>C :K:GN ;DG:86HI =DG>ODC
+ ":C8: L: 9D CDI =6K: ID HE:8>;N I=: EDI:CI>6A 9NC6B>8H D;
+I=: ;68IDGH :MEA>8>IAN
+ -=>H EGD8:9JG: A:6K:H DCAN 6 HB6AA H:I D; JCG:HIG>8I:9 E6G6B:I:GH
+ID :HI>B6I: 8DBE6G:9 L>I= ;JAAN HE:8>P:9 9NC6B>8 ;68IDG BD9:AH
+
+"3 "5*"/&*  +!"(
+DG DJG ;DG:86HI>C< :ME:G>B:CIH L: 69DEI 6 EGDIDINE>86A (:L %:NC:H>6C ,! BD9:A
+8DCH>9:G:9 >C :A (:<GD 6C9 ,8=DG;=:>9:  
+ -=: BD9:A 86C 7: G:<6G9:9 6H 6 7:C8=
+B6G@ ,! BD9:A L=>8= =6H 7::C >CK:HI><6I:9 :MI:CH>K:AN >C I=: A>I:G6IJG:
+ :A (:<GD
+6C9 ,8=DG;=:>9:  ;DG >CHI6C8: >CK:HI><6I: I=: EG:9>8I>K: 67>A>IN D; I=: BD9:A >C I=:
+6N:H>6C ,! /+ ;G6B:LDG@ 6C9 8DC8AJ9: I=6I I=: EG>DGH 9:G>K:9 ;GDB I=: I=:D
+G:I>86A ,! BD9:A 86C =:AE >BEGDK: ;DG:86HIH DK:G JCG:HIG>8I:9 /+ BD9:AH
+ #C DJG
+6C6ANH>H L: 9D CDI JH: I=: 6EEGDM>B6I:9 /+ G:EG:H:CI6I>DC D; I=: ,! BD9:A
+ #C
+HI:69 L: LDG@ L>I= I=: ;JAAN HE:8>P:9 BD9:A 9>G:8IAN
+ 0: =DE: I=6I DJG 6EEGD68= 7N
+I6@>C< I=: HIGJ8IJG6A G:HIG>8I>DCH D; I=: ,! BD9:A BDG: H:G>DJHAN H:I 8DCIG6HI L>I=
+I=: EJG: 96I6 9G>K:C ;68IDG BD9:A ;DG DJG ;DG:86HI>C< :ME:G>B:CI
+
+-=:G: >H 6 G:EG:H:CI6I>K: =DJH:=DA9 L=>8= B6M>B>O:H 6C 699>I>K: H:E6G67A: JI>A>IN
+;JC8I>DC >C 8DCHJBEI>DC G:6A BDC:N 76A6C8:H 6C9 =DJGH LDG@:9 DK:G >CPC>I: A>;:I>B:
+
+-=: =DJH:=DA9 <6>CH JI>A>IN ;GDB 8DCHJBEI>DC G:A6I>K: ID I=: A:K:A D; I:8=CDAD<N G:6A
+76A6C8:H D; BDC:N 6C9 9>HJI>A>IN ;GDB =DJGH LDG@:9
+ -=: =DJH:=DA9 :6GCH >CI:G:HI ;GDB
+=DA9>C< <DK:GCB:CI 7DC9H 6C9 G:6A EGDPIH ;GDB I=: PGBH
+ #I 6AHD G:8:>K:H L6<:H ;GDB
+HJEEAN>C< E:G;:8I :A6HI>8 A67DJG ID I=: PGBH
+ #C 699>I>DC I=: =DJH:=DA9 E6NH AJBE HJB
+I6M:H ID I=: <DK:GCB:CI
+
+-=:G: >H 6 E:G;:8IAN 8DBE:I>I>K: G:EG:H:CI6I>K: PC6A <DD9H EGD9J8:G L=>8= JH:H 6
+
+8DCI>CJJB D; >CI:GB:9>6I: <DD9H 6H ;68IDG >CEJIH 6C9 I6@:H I=: ;68IDG EG>8:H 6H <>K:C
+
+-=: >CI:GB:9>6I: <DD9 EGD9J8:GH 6G: BDCDEDA>HIH L=>8= =>G: A67DJG 6H I=: DCAN ;68
+IDG >CEJI
+ -=: EGD9J8I>DC I:8=CDAD<N EGD8:HH >H I=: H6B: ;DG 6AA >CI:GB:9>6I: <DD9
+EGD9J8:GH 6C9 QJ8IJ6I:H 6GDJC9 I=: HI:69N HI6I: <GDLI= G6I:
+ -=: CDB>C6A G><>9>I>:H
+6G: >CIGD9J8:9 >C I:GBH D; EG>8: 69?JHIB:CI 8DHIH ;DG I=: >CI:GB:9>6I: <DD9H EGD9J8:GH
+
+68= PGB B6M>B>O:H I=: EGDPIH DK:G >CPC>I: A>;:I>B: 7N 8=DDH>C< >IH A67DG >CEJIH 6C9
+EG>8:H
+
+-=: <DK:GCB:CI HE:C9H >C :68= E:G>D9 6 ;G68I>DC D; IDI6A DJIEJIH L=>8= QJ8IJ6I:H
+:MD<:CDJHAN
+ #I >HHJ:H 7DC9H 6C9 A:K>:H AJBE HJB I6M:H 6H E6GI D; I=: 7J9<:I 8DCHIG6>CI
+
+-=: BDC:I6GN 6JI=DG>IN ;DAADLH I=: HI6C96G9 -6NADG GJA: L=>8= :B7D9>:H I=: >CQ6I>DC
+I6G<:I 6C9 I=: DJIEJI <6E L>I= 6C :MD<:CDJH BDC:I6GN EDA>8N H=D8@
+ -=: ;DAADL>C<
+AD< A>C:6G>O:9 :FJ6I>DCH D; I=: BD9:A 6G: I6@:C 9>G:8IAN ;GDB :A (:<GD 6C9 ,8=DG;=:>9:
+ 
+ AA K6G>67A:H L>I= 5 6G: AD< 9:K>6I>DCH ;GDB I=:>G HI:69N HI6I: K6AJ:H
+
+
+4   
+4
+
+
+ 
+    
+  
+
+
+' 
+ 
+
+
+
+
+6
+ 
+0
+  
+ 
+4 
+'
+
+  
+
+
+ 
+  
+
+
+  
+ 
+ 
+4 
+  
+
+'  
+
+
+' 
+  
+
+6  
+
+
+6 
+  
+L=:G: 4 9:CDI:H I=: 9:IG:C9:9 DJIEJI 9>K>9:9 7N I=: CDC HI6I>DC6GN I:8=CDAD<N EGD8:HH
+ >H I=: <GDHH >CQ6I>DC G6I: D; EG>8:H 
+  >H I=: <GDHH CDB>C6A >CI:G:HI E6>9 7N =DA9>C<
+<DK:GCB:CI 7DC9H
+ ' >H 9:PC:9 6H   
+L=:G: 
+>H I=: ;G68I>DC D; DJIEJI 8DCHJB:9
+7N I=: <DK:GCB:CI
+ -=: QJ8IJ6I>DCH 6GDJC9 I=: I:8=CDAD<N <GDLI= G6I:H 6G: 9:CDI:9 6H
+6
+ DI= 6G: 6HHJB:9 ID ;DAADL 6C + 
+ EGD8:HH L>I= I=: 6HHD8>6I:9 >>9 CDGB6A >9>DHNC
+8G6I>8 H=D8@H   6C9   -=: BDC:I6GN EDA>8N H=D8@   >H 6HHJB:9 ID 7: >>9 CDGB6A
+6H L:AA
+ -=: HI6C96G9 9:K>6I>DCH D; I=: H=D8@H 6G: 9:CDI:9 6H   6C9 
+ -=: H:I
+D; 9::E E6G6B:I:GH >C8AJ9:H  L=>8= 9:CDI:H I=: >CK:GH: D; I=: >CI:GI:BEDG6A :A6HI>8>IN
+D; HJ7HI>IJI>DC >H I=: HI:69N HI6I: <GDLI= G6I: D; I:8=CDAD<N 0 >H I=: HI:69N HI6I:
+G:6A >CI:G:HI G6I: >H I=: HADE: D; I=: *=>AA>EH 8JGK: 
+
+B:6HJG:H I=: 9:<G:: D; 8:CIG6A
+76C@RH >CI:G:HI G6I: HBDDI=>C< 
+ 6C9 
+ 6G: I=: ADC< GJC ;::9768@ 8D:V8>:CIH ;GDB
+I=: I6G<:I K6AJ:H D; >CQ6I>DC 6C9 DJIEJI G:HE:8I>K:AN
+
+-=: H:I D; B:6HJG:B:CI :FJ6I>DCH 688DG9>C< ID I=: D7H:GK67A: K6G>67A:H FJ6GI:GAN
+!* <GDLI= G6I:H !  FJ6GI:GAN >CQ6I>DC G6I:H  6C9 6CCJ6A>O:9 CDB>C6A
+
+>CI:G:HI G6I:H  6G: 9:PC:9 6H
+!    
+  
+4 
+4 
+ 
+6
+   
+ 
+    
+   0 
+  
+
+L=:G: >H I=: HI:69N HI6I: >CQ6I>DC
+ &:I
+   
+
+ 
+  
+  
+
+ 
+
+      0    
+9:CDI: I=: K:8IDG D; I=: BD9:A 9::E E6G6B:I:GH ID 7: :HI>B6I:9 6C9  7: I=: 8DAA:8I>DC
+D; I=: H6BEA: D; I=: D7H:GK67A:H !   6C9 
+ -=: ;DG:86HIH <:C:G6I:9
+;GDB I=: ,! BD9:A 6G: ( HI:E 6=:69 ;DG:86HIH D; FJ6GI:G ID FJ6GI:G DJIEJI <GDLI=
+6C9 >CQ6I>DC
+ #C DG9:G ID 8DBE6G: L>I= I=: ;DG:86HIH <:C:G6I:9 ;GDB I=: ;68IDG BD9:A
+L: =6K: ID 688JBJA6I: I=: ;DG:86HIH D; I=: ,! BD9:A ID D7I6>C I=: =DG>ODC HE:8>P8
+<GDLI= G6I: ;DG:86HIH
+0 *! /0&)0&+*
+-=>H H:8I>DC 9:6AH L>I= I=: JC9:GAN>C< 96I6H:I 6C9 :HI>B6I>DC I:8=C>FJ:H D; I=: K6G>DJH
+BD9:AH >CIGD9J8:9 >C I=: EG:K>DJH H:8I>DC
+ >GHI L: 9>H8JHH I=: 96I6 H6BEA: 6C9 :M
+E:G>B:CI6A 9:H><C D; I=: DJI D; H6BEA: ;DG:86HI>C< :ME:G>B:CI
+ -=: G:HI D; I=: H:8I>DC
+EGDK>9:H 9:I6>A:9 9:H8G>EI>DCH D; :HI>B6I>DC EGD8:9JG:H D; ;68IDG BD9:AH ,! BD9:AH
+6C9 /++ BD9:AH
+
+0 *! 4,".&)"*0( "/&$*
+-=: <D6A D; I=>H G:H:6G8= E6E:G >H ID 86GGN DJI H>BJA6I:9 DJI D; H6BEA: ;DG:86HI>C< :ME:G
+>B:CIH ;DG I=: DJIEJI <GDLI= 6C9 >CQ6I>DC D; I=: ., :8DCDBN 6I 6 FJ6GI:GAN ;G:FJ:C8N
+
+-=: 96I6H:I ;DG 6AA BD9:AH HE6CH ;GDB 
+
+ ID 
+ DG I=: ;68IDG :HI>B6I>DC L:
+D7I6>C  ., :8DCDB>8 I>B: H:G>:H B:6HJG>C< DK:G6AA :8DCDB>8 68I>K>IN DC 6 FJ6GI:GAN
+76H>H ;GDB 'DD9NRH 8DCDBN 6C9 6I6HIG:6B 9K6C8:
+ 0: 6G<J: I=6I I=: 96I6H:I >H
+69B>II:9AN CDI >9:CI>86A L>I= ,ID8@ 6C9 06IHDC 7 7JI I=6I >I >H G6I=:G H>B>A6G 6H
+I=: 96I6 H:A:8I>DC 6C9 IG:6IB:CI 8ADH:AN ;DAADL I=: 96I6 9:H8G>EI>DC >C ,ID8@ 6C9 06IHDC
+7 6C9 JH:H I=: H6B: H:G>:H L=:G: 6EEA>867A:
+
+ :I6>A:9 9:H8G>EI>DCH D; I=: 96I6H:I 6G: <>K:C >C I=: 6EE:C9>M
+
+
+DG I=: :HI>B6I>DC D; I=: ,! BD9:A L: JH: FJ6GI:GAN 96I6 D7I6>C:9 ;GDB  ID
+86A8JA6I: DJIEJI <GDLI= !  6H 
+ I>B:H I=: AD<6G>I=B>8 9>W:G:C8:H D; !* !*
+,+ >AA>DCH =6>C:9  DAA6GH 
+ #CQ6I>DC  >H G:EG:H:CI:9 7N 
+ I>B:H
+I=: AD<6G>I=B>8 9>W:G:C8:H D; *# *# . AA #I:BH , 
+ 
+
+ HDJG8: &, 
+
+-=: CDB>C6A >CI:G:HI G6I:H  6G: G:EG:H:CI:9 7N I=: 6K:G6<: :W:8I>K: ;:9:G6A ;JC9H
+G6I: 9JG>C< I=: PGHI BDCI= D; :68= FJ6GI:G
+ ,DJG8: + 
+
+DG I=: DJI D; H6BEA: ;DG:86HI>C< :ME:G>B:CIH L: JH: GDAA>C< G:<G:HH>DC L>I= H6BEA:
+H>O: PM:9 6I 
+ DG:86HI =DG>ODCH JE ID 
+ FJ6GI:GH 6G: 8DCH>9:G:9
+ -=: PGHI :HI>B6I>DC
+H6BEA: HI6GIH ;GDB 
+
+ 6C9 :C9H >C 
+ HD I=6I I=: PGHI ;DG:86HI>C< 96I: >H 
+
+
+6GA>:G D7H:GK6I>DCH 6G: JH:9 ID 8DBEJI: I=: >C>I>6A <GDLI= G6I:H
+ ;I:G 6AA BD9:AH =6K:
+7::C :HI>B6I:9 I=: PGHI H:I D; DJI D; H6BEA: ;DG:86HIH >H 8DBEJI:9
+ -=:C H6BEA: G6C<:
+H=>;IH DC: HI:E ;DGL6G9 ID 
+ 
+
+ >C DG9:G ID 8DBEJI: I=: H:8DC9 H:I D; ;DG:86HIH
+
+-=: :HI>B6I>DC >H E:G;DGB:9  I>B:H ID D7I6>C 6 H:G>:H D; ;DG:86HIH ;DG :68= ;DG:86HI
+=DG>ODC 6C9 :68= BD9:A
+ -=: A6HI H6BEA: >H 
+  6C9 I=: A6HI ;DG:86HI>C< 96I:
+>H 
+
+0 ."0)"*0 *! /0&)0&+*
+ 0+. +!"( &71/&+* *!"4
+#C I:GBH D; ;68IDG :HI>B6I>DC L: ;DAADL 8ADH:AN I=: EG: :HI>B6I>DC 96I6 IG:6IB:CI 9:
+H8G>7:9 >C ,ID8@ 6C9 06IHDC 7 
+ >GHI 6AA H:G>:H >C  L=>8= 6G: CDI C:<6I>K: DG
+6AG:69N :MEG:HH:9 6H G6I:H DG E:G8:CI6<: JC>IH 6G: I6@:C AD<6G>I=B
+ -=:C I=: H:G>:H 6G:
+9>W:G:C8:9 688DG9>C< ID EG:A>B>C6GN 96I6 6C6ANH>H
+ AA >BEA:B:CI:9 96I6 IG6CH;DGB6
+I>DCH 6G: 9D8JB:CI:9 >C I=: EE:C9>M
+ >C6AAN 6AA H:G>:H 6G: 9:B:6C:9 6C9 HI6C96G9>O:9
+ID =6K: JC>I K6G>6C8:
+ -=: :HI>B6I>DC D; I=: ;DG:86HI>C< :FJ6I>DC  >CKDAK:H :HI>B6I:9
+;68IDGH L=>8= 6G: 8DBEJI:9 JH>C< I=: EG>C8>EA: 8DBEDC:CI B:I=D9
+ -=: ;DG:86HIH 6G:
+I=:C <:C:G6I:9 6H
+
+5
+  
+ 
+" 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+5   
+L=:G: 
+5
+  
+9:CDI:H I=: ( HI:E 6=:69 <GDLI= ;DG:86HIH 6I I>B:  9:PC:9 :6GA>:G 6C9
+
+ 9:CDI:H I=: K:8IDG D; + :HI>B6I:9 ;68IDGH
+ , . 6C9 + 6G: :>I=:G PM:9 DG H:A:8I:9
+L>I=  L>I=  ,   .  6C9  +  L=>8= >H K:GN H>B>A6G ID
+I=: HE:8>P86I>DCH D; ,ID8@ 6C9 06IHDC 7 L=:G: I=:N G:;:G  ID I=: 9>WJH>DC
+>C9:M ;DG:86HIH # 
+ ,ID8@ 6C9 06IHDC 6 H=DL >C I=:DG:B  I=6I JC9:G B>A9
+
+G:<JA6G>IN 8DC9>I>DCH  86C 7: :HI>B6I:9 8DCH>HI:CIAN L>I= )&,
+ DG I=: DJI D; H6BEA:
+;DG:86HI>C< :ME:G>B:CIH 5 >H G:EG:H:CI:9 7N !  6C9  6C9 5
+
+>H 86A8JA6I:9 6H
+
+ I>B:H I=: AD<6G>I=B>8 ( I= 9>W:G:C8:H D; I=: 6HHD8>6I:9 H:G>:H >C A:K:A !* 6C9
+*# 
+
+"3 "5*"/&* +!"(
+0: :HI>B6I: I=: (:L %:NC:H>6C ,! BD9:A JH>C< 6 6N:H>6C 6EEGD68=
+ ,>C8: I=:
+BD9:A =6H 7::C AD< A>C:6G>O:9 >I 86C 7: LG>II:C >C I=: HI6I: HE68: G:EG:H:CI6I>DC
+ -=:
+HNHI:B >H HDAK:9 JC9:G G6I>DC6A :ME:8I6I>DCH
+ -=: HJEEDGI D; I=: EG>DG 9>HIG>7JI>DCH
+=6H 7::C G:HIG>8I:9 HJ8= I=6I I=: JC>FJ:C:HH D; I=: HDAJI>DC >H <J6G6CI::9 I=:C I=:
+%6AB6C PAI:G >H 6EEA>:9 DC I=: HNHI:BH ID :K6AJ6I: I=: A>@:A>=DD9 ;JC8I>DC
+ -=: EDHI:G>DG
+9:CH>I>:H :HI>B6I>DC D; I=: E6G6B:I:GH >H 86GG>:9 DJI L>I= I=: '6G@DK =6>C 'DCI: 6GAD
+6A<DG>I=B '' 
+ 0: EGD8::9 L>I= 6 HA><=IAN BD9>P:9 K:GH>DC D; I=: +6C9DB 06A@
+':IGDEDA>H "6HI>C<H 6A<DG>I=B +0'" 9D8JB:CI:9 >C ,8=DG;=:>9:  
+ &:I  
+9:CDI: I=: 8DC9>I>DC6A AD< A>@:A>=DD9 ;JC8I>DC D; I=: 9::E E6G6B:I:GH 6C9  . 9:CDI:
+I=: AD< D; EG>DG 9:CH>IN
+
+
+ >C9 I=: EDHI:G>DG BD9:  6C9 ":HH>6C  D; 7N CJB:G>86A B6M>B>O>C< I=:
+  
+  . 
+
+
+ DG  E6G6AA:A 8=6>CH 9G6L I=: HI6GI>C< K6AJ: 
+;GDB  #
+ L=:G: #
+9:CDI:H I=: H86A: E6G6B:I:G D; I=: ?JBE>C< 9>HIG>7JI>DC ;DG :68= 8=6>C *
+
+
+ I HI:E ) I6@: 6 86C9>96I: 9G6L 
+;GDB 
+
+ #
+ 
+
+ 6A8JA6I: I=: 688:EI6C8: EGD767>A>IN 
+
+   . 
+ . 
+
+ L=:G:
+.   9:CDI:H I=: EDHI:G>DG 9:CH>IN
+
+
+ 88:EI I=: 86C9>96I: 9G6L 7N H:II>C< 
+
+ 
+L>I= EGD767>A>IN 
+
+
+ )I=:GL>H: H:I
+
+
+ 
+
+
+
+
+ 6A8JA6I: I=: 6K:G6<: 688:EI6C8: G6I>D 
+ 9?JHI # :K:GN / I= >I:G6I>DC 688DG9>C<
+ID #  # L=:G: 9:CDI:H I=: I6G<:I 6K:G6<: 688:EI6C8: G6I>D
+ D CDI 69?JHI
+6;I:G I=: G:EA>86I>DCH :M8::9 I=: I=G:H=DA9 
+
+
+ !D ID HI:E  JCI>A B6M>BJB >I:G6I>DC  >H G:68=:9
+
+ (DI>8: I=6I >BEA>8>IAN L: IG:6I EG>8:H 6H # 
+ H:G>:H
+ -=>H >H <>K:C 7N I=: ;68I I=6I DJG ,! BD9:A
+6HHJB:H >CQ6I>DC ID 7: HI6I>DC6GN
+
+ -=: :HI>B6I>DC 6C9 ;DG:86HI>C< D; I=: ,! BD9:AH 6G: E:G;DGB:9 L>I= BD9>P:9 K:GH>DC D; NC6G:
+
+*6GI D; I=: 6A<DG>I=B EG:H:CI:9 >C I=>H E6E:G >H 9D8JB:CI:9 >C NC6G:
+
+
+-=: 6A<DG>I=B >H 9>W:G:CI ;GDB ,8=DG;=:>9:  >C ILD G:HE:8IH
+ >GHI L: JH: 
+>C9:E:C9:CI 8=6>CH >C DG9:G ID 8DBEJI: I=: 8DCK:G<:C8: 9>6<CDHI>8 EADIH EGDEDH:9 7N
+GDD@H 6C9 !:AB6C 
+ 
+ ,:8DC9 L: 69?JHI I=: H86A: E6G6B:I:G 6JIDB6I>86AAN L>I=>C
+I=: +0'" 6A<DG>I=B H>C8: 6AA BD9:AH =6K: ID 7: G: :HI>B6I:9 H:K:G6A I>B:H 688DG9>C<
+ID I=: DJI D; H6BEA: ;DG:86HI>C< :ME:G>B:CIH
+ >C9>C< I=: 6EEGDEG>6I: H86A: E6G6B:I:G
+B6CJ6AAN ;DG I=: ?JBE>C< 9>HIG>7JI>DC ;DG :68= GDAA>C< H6BEA: >H IDD I:9>DJH 6C9 6 I>B:
+8DCHJB>C< I6H@
+ (DI>8: I=6I DJG 6A<DG>I=B 9D:H CDI K>DA6I: 6CN G:<JA6G>IN 8DC9>I>DCH
+L=>8= <J6G6CI:: I=: 8DCK:G<:C8: D; I=: '6G@DK 8=6>CH H>C8: L: DCAN JH: I=: 9G6LH L>I=
+8DCHI6CI ?JBE>C< 9>HIG>7JI>DC >
+:
+ I=: 9G6LH 7:ADL I=G:H=DA9  L>I= BDK>C< ?JBE>C<
+9>HIG>7JI>DCH 6G: 9>H86G9:9
+
+*DHI:G>DG >C;:G:C8: >H 76H:9 DC 8DB7>C6I>DCH D; I=: G:B6>C>C< 9G6LH D; 6AA E6G6AA:A
+8=6>CH
+ -D 7: EG:8>H: L: H:I   
+   
+    /   6C9  
+ -=:
+B:6C D; I=: EDHI:G>DG ;DG:86HI 9>HIG>7JI>DCH >H I6@:C 6H I=: ED>CI ;DG:86HI D; I=: G:A:K6CI
+K6G>67A:
+ -=: '' 9>6<CDHI>8H EGDEDH:9 7N GDD@H 6C9 !:AB6C 
+ H=DL I=6I 6AA
+'6G@DK 8=6>CH ;DG :68= :HI>B6I>DC H6BEA: =6K: 8DCK:G<:9 C>8:AN
+
+"* %).'/
+  *!  +!"(
+,>C8: I=: HDAJI>DC D; I=: ,! BD9:A 86C 7: 6EEGDM>B6I:9 L>I= 6 G:HIG>8I:9 /+ BD9:A
+>I >H C6IJG6A ID :HI>B6I: 6 8DGG:HEDC9>C< JCG:HIG>8I:9 /+ 6H 6 8DJCI:GE6GI >C I=: DJI
+D; H6BEA: ;DG:86HI>C< :ME:G>B:CI
+ 88DG9>C< ID DJG ,! BD9:A I=: JCG:HIG>8I:9 /+
+8DCI6>CH I=: H6B: D7H:GK:9 K6G>67A:H !   6C9 
+ 0: G:EDGI G:HJAIH ;DG
+7DI= I=: PM:9 A6< HE:8>P86I>DC 6C9 I=: >C;DGB6I>DC 8G>I:G>DC 76H:9 A6< H:A:8I>DC # 
+
+-=: =DG>ODC HE:8>P8 <GDLI= G6I: ;DG:86HIH 6G: 8DCHIGJ8I:9 >C I=: H6B: L6N 6H >C I=: 86H:
+D; I=: ,! BD9:A
+
+-=: 7:C8=B6G@ + BD9:A ;DAADLH I=: HE:8>P86I>DC D; I=: 9>G:8I BJAI>HI:E G:<G:HH>DC
+BD9:A
+5
+ 
+  
+ 
+ 5 
+   
+-=: BD9:A =6H I=: H6B: 9NC6B>8 HE:8>P86I>DC 6H DJG ;68IDG ;DG:86HI>C< BD9:A >C  
+
+-=: DCAN 9>W:G:C8: >H I=: A68@ D; ;68IDGH >C  
+ -=: A6< A:C<I= H:A:8I>DC >H 86GG>:9 DJI
+L>I= #
+
++." /0&*$ "/1(0/
+,:8I>DC  EG:H:CIH I=: PC9>C<H D; I=>H E6E:G
+ >GHI HJBB6GN G:HJAIH D; I=: ,! BD9:AH
+:HI>B6I>DC 6G: EGDK>9:9
+ -=: G:B6>C9:G D; H:8I>DC  9>H8JHH:H >C 9:I6>A I=: DJI8DB:H D;
+
+I=: B6>C DJI D; H6BEA: ;DG:86HI>C< :ME:G>B:CIH D; DJIEJI <GDLI= 6C9 >CQ6I>DC
+
+/0&)0&+* "/1(0/ +# 0%"  )+!"(
+-67A: 
+ G:EDGIH I=: EG>DGH 6C9 B:6CH D; I=: EDHI:G>DG B:6C D; I=: 9::E E6G6B:I:GH
+L>I= I=: 6HHD8>6I:9  =><=:HI EDHI:G>DG 9:CH>IN >CI:GK6A "*# ;DG I=: PGHI 6C9 A6HI
+:HI>B6I>DC H6BEA:H
+ -=: PGHI H6BEA: G6C<:9 ;GDB 
+
+ ID 
+ 6C9 86C 7: G:<6G9:9
+6H I=: EG: /DA8@:G :G6 DG !G:6I #CQ6I>DC 
+ -=: A6HI H6BEA: 
+  :C8DBE6HH:H
+I=: /DA8@:G !G::CHE6C :G6 DG I=: !G:6I 'D9:G6I>DC 
+ -=: EG>DGH 6G: K:GN H>B>A6G
+ID I=DH: ;GDB :A (:<GD 6C9 ,8=DG;=:>9:  L>I= I=: B:6CH 8:CIG:9 DC K6G>DJH
+86A>7G6I>DC :M:G8>H:H 6C9 B>8GD :HI>B6I:H
+
+-=: :HI>B6I:9 BDB:CIH D; I=: EDHI:G>DGH 6G: BDHIAN >C A>C: L>I= :HI>B6I:H G:EDGI:9 >C
+I=: A>I:G6IJG:
+ #CI:G:HI>C<AN BDHI D; I=: E6G6B:I:G :HI>B6I:H 9>W:G HJ7HI6CI>6AAN 7:IL::C
+I=: ILD H6BEA:H 6C9 G:Q:8I I=: 8=6C<: D; I=: :8DCDBN ;GDB !G:6I #CQ6I>DC ID !G:6I
+'D9:G6I>DC 
+ -=: HI:69N HI6I: <GDLI= G6I: D; I:8=CDAD<N G>H:H ;GDB 
+ ;DG I=: EG:
+/DA8@:G E:G>D9 ID 
+ ;DG I=: /DA8@:G !G::CHE6C H6BEA:
+ -=: HI:69N HI6I: >CQ6I>DC
+G6I: 9JG>C< I=: /DA8@:G !G::CHE6C E:G>D9 
+ >H DCAN BD9:G6I:AN ADL:G I=6C >C I=:
+EG: /DA8@:G E:G>D9 
+ 
+ #C I:GBH D; BDC:I6GN EDA>8N I=: :HI>B6I:9 G:HEDCH:H D; I=:
+8:CIG6A 76C@ ID 9:K>6I>DCH D; DJIEJI 6C9 >CQ6I>DC ID I=:>G I6G<:IH =6K: =6G9AN 8=6C<:9
+
+"DL:K:G I=: :HI>B6I: D; I=: >CI:G:HI G6I: HBDDI=>C< E6G6B:I:G >H HJ7HI6CI>6AAN =><=:G
+9JG>C< I=: /DA8@:G !G::CHE6C E:G>D9 ;GDB 
+ ID 
+ 
+ -=:H: G:HJAIH >C9>86I: I=6I
+I=: ., 8:CIG6A 76C@ B6N =6K: H=>;I:9 IDL6G9 6 BDG: <G69J6A BDC:I6GN EDA>8N
+
+-=: DI=:G B6?DG 9>W:G:C8:H 7:IL::C I=: ILD HJ7 E:G>D9H 6G: I=: :HI>B6I:9 KDA6I>A>I>:H
+D; I=: HIGJ8IJG6A H=D8@H
+ DBE6G:9 L>I= I=: EG: /DA8@:G E:G>D9 I=: HI6C96G9 9:K>6I>DCH
+D; 6AA HIGJ8IJG6A H=D8@H =6K: 9:8G:6H:9 8DCH>9:G67AN >C I=: A6II:G E:G>D9
+ -=: HI6C96G9
+9:K>6I>DC D; BDC:I6GN H=D8@ 9GDEH ;GDB 
+ ID 
+
+ 6C9 I=: HI6C96G9 9:K>6I>DC D; I=:
+I:8=CDAD<N H=D8@ C:6GAN =6AK:9 ;GDB 
+ ID 
+
+ -=: :HI>B6I:9 HI6C96G9 9:K>6I>DC D;
+I=: <DK:GCB:CI HE:C9>C< H=D8@ =6H 6AHD 9:8G:6H:9 ;GDB 
+ ID 
+ 
+ -=: HADE: D; I=:
+*=>AA>EH 8JGK: =6H 7:8DB: Q6II:G >C I=: H:8DC9 E:G>D9
+ .HJ6AAN >I >H 6 =>CI I=6I I=: EG>8:H
+=6K: 7:8DB: HI>8@>:G
+ (:K:GI=:A:HH I=: HADE: 8D:V8>:CI >H 6 CDCA>C:6G 8DB7>C6I>DC D;
+7DI= I=: EG>8: HI>8@>C:HH 6C9 I=: :A6HI>8>IN D; >CI:GB:9>6I: <DD9H 9:B6C9 L=>8= 86CCDI
+7: >9:CI>P:9 H:E6G6I:AN
+ -=:G:;DG: DC: H=DJA9 7: L6GN D; I=>H >CI:GEG:I6I>DC
+
+ 0: =6K: >CK:HI><6I:9 I=: H:CH>I>K>IN D; DJG G:HJAIH 7N >C8G:6H>C< I=: EG>DG HI6C96G9 9:K>6I>DCH D; I=:
+,! BD9:A 7N  E:G8:CI
+ -=: DK:G6AA G:HJAIH G:B6>C K:GN H>B>A6G
+
+
+
+*#+.)0&2"*"// +# +." /0/
+#C DG9:G ID 688:HH >C;DGB6I>K:C:HH D; ;DG:86HIH <:C:G6I:9 ;GDB I=: BD9:AH L: G:EDGI >C
+-67A:  I=: G:A6I>K: B:6C HFJ6G:9 ;DG:86HI :GGDGH 9:PC:9 6H
+0 ,  
+
+
+
+L=:G:  9:CDI:H I=: B:6C HFJ6G:9 ;DG:86HI :GGDGH <:C:G6I:9 ;GDB I=: E6GI>8JA6G
+;DG:86HI BD9:A 6C9  9:CDI:H I=: B:6C HFJ6G:9 ;DG:86HI :GGDGH L>I= I=: >C H6BEA:
+B:6C D; I=: H:G>:H 6H I=: ;DG:86HI
+ -=: K6AJ:H 86C 7: >CI:GEG:I:9 6H <6>C DG ADHH >; I=:
+H><C >H C:<6I>K: >C 1 D; I=: 8DC9>I>DC6A ;DG:86HIH 76H:9 DC I=: E6GI>8JA6G BD9:A
+G:A6I>K: ID I=: JC8DC9>I>DC6A B:6C
+ #; 6 BD9:A ;DG:86HI >H 8DCH>9:G:9 6H >C;DGB6I>K: >IH
+0 H=DJA9 7: A6G<:G I=6C O:GD
+
+><JG: 
+ H=DLH I=: 01 D; DJG DJI D; H6BEA: ;DG:86HI>C< :ME:G>B:CIH
+ -=:
+JEE:G E6C:A H=DLH I=: G:HJAIH D; DJIEJI <GDLI= ;DG:86HIH
+ -=: # BD9:A >H 67A: ID
+EGDK>9: HJ7HI6CI>6AAN >C;DGB6I>K: ;DG:86HIH JE ID ILD N:6GH 6=:69 =DG>ODC
+ I I=: DC:
+FJ6GI:G 6=:69 =DG>ODC I=: # BD9:A N>:A9H  E:G8:CI ADL:G B:6C HFJ6G:9 ;DG:86HI :GGDGH
+I=6C JC8DC9>I>DC6A ;DG:86HIH
+ I I=: DC: N:6G 6=:69 =DG>ODC I=: >BEGDK:B:CI >H :K:C
+=><=:G 6I  E:G8:CI
+ )K:G6AA I=: # BD9:A >H HJE:G>DG ID 6CN DI=:G BD9:AH 8DCH>9:G:9
+>C I=>H E6E:G
+ DBE6G:9 ID I=: H>BEA: + BD9:A I=: >BEGDK:B:CI D; I=: # BD9:A
+>H 
+ E:G8:CI 6I I=: DC: FJ6GI:G 6=:69 =DG>ODC
+ 0>I= G:<6G9 ID I=: ,! BD9:A I=:
+>BEGDK:B:CI >H :K:C =><=:G 6I  E:G8:CI
+ -=: ,! 6C9 I=: /+ BD9:A 6G: CDI 67A:
+ID EGDK>9: >C;DGB6I>K: ;DG:86HIH ;DG DJIEJI <GDLI= 6I 6AA
+ -=>H >H CDI G:6AAN HJGEG>H>C<
+<>K:C I=6I I=: DJIEJI <GDLI= >H 6 E6GI>8JA6GAN 9>V8JAI H:G>:H ID EG:9>8I
+ (:K:GI=:A:HH
+I=: G:HJAIH >C9>86I: I=6I I=: EG:K6>A>C< 6EEGD68= D; IG:6I>C< I=: JCG:HIG>8I:9 /+ BD9:A
+6H I=: 7:C8=B6G@ >H HDB:L=6I EGD7A:B6I>8 H>C8: I=: JCG:HIG>8I:9 /+ BD9:A >IH:A; >H
+DJIE:G;DGB:9 7N H>BEA: JC8DC9>I>DC6A B:6C >C I:GBH D; DJIEJI <GDLI= ;DG:86HIH
+
+-=: ADL:G E6C:A D; P<JG: 
+ H=DLH I=: G:HJAIH ;DG >CQ6I>DC ;DG:86HIH
+ (DL 6AA BD9:AH
+:M8:EI I=: /+ BD9:A 86C 8A:6GAN <:C:G6I: >C;DGB6I>K: ;DG:86HIH ;DG 6AA ;DG:86HI =DG>ODCH
+
+DG 7DI= I=: # 6C9 I=: ,! BD9:A I=: >BEGDK:B:CIH >C B:6C HFJ6G:9 ;DG:86HI
+:GGDGH 6G: DK:G  E:G8:CI JE ID DC: N:6G 6=:69 =DG>ODC
+ -=: # BD9:A 6AHD =6H 6 7:II:G
+E:G;DGB6C8: I=6C I=: ,! BD9:A L>I=>C I=>H G6C<:
+ I I=: DC: FJ6GI:G 6=:69 =DG>ODC
+I=: # BD9:A N>:A9H  E:G8:CI ADL:G B:6C HFJ6G:9 ;DG:86HI :GGDGH I=6C I=: ,! BD9:A
+
+ G>HHDC 6BE7:AA 6C9 !6A7G6>I=  6AHD G:;:G ID I=: G:A6I>K: B:6C HFJ6G:9 ;DG:86HI :GGDGH 6H
+I=: ;DG:86HI 8DCI:CI ;JC8I>DC
+
+ :I6>A:9 I67A:H D; I=: 
+ 86C 7: EGDK>9:9 JEDC G:FJ:HI
+
+ ,:: G>HHDC 6BE7:AA 6C9 !6A7G6>I=  
+
+
+
+)C I=: DI=:G =6C9 I=: ,! BD9:A =6H DK:G6AA I=: 7:HI EG:9>8I>K: 67>A>IN 7:NDC9 I=:
+DC: N:6G 6=:69 =DG>ODC
+ #I >H 67A: ID DJIE:G;DGB I=: # BD9:A 7N  E:G8:CI 6I I=: H>M
+FJ6GI:G 6=:69 =DG>ODC
+ -=: + BD9:A E:G;DGBH HDB:L=:G: >C 7:IL::C
+ #I >H LDGH: I=6C
+I=: # BD9:A 6C9 7:II:G I=6C I=: ,! BD9:A JE ID PK: FJ6GI:GH 6=:69 =DG>ODC 6C9
+I=: G:K:GH: >H I=: 86H: 6;I:GL6G9H
+ #C H=6GE 8DCIG6HI ID I=: DJIEJI <GDLI= ;DG:86HIH I=:
+/+ BD9:A >H 67A: ID <:C:G6I: 8DCH>9:G67AN >C;DGB6I>K: ;DG:86HIH JE ID ILD N:6GH 6=:69
+=DG>ODC
+ "DL:K:G >I G:B6>CH I=: LDGHI ;DG:86HI>C< BD9:A ;DG 6AA ;DG:86HI =DG>ODCH
+
+.&+1/  0+. *!  ," &6 0&+*/
+#C I=>H HJ7H:8I>DC L: EGDK>9: 8GDHH 8=:8@ L>I= I=: G:HJAIH D; 8>I:9 A>I:G6IJG: C6B:AN
+,ID8@ 6C9 06IHDC 7 ;DG I=: ;68IDG BD9:A L=:G: I=: + BD9:A >H 8DCH>9:G:9 6H
+I=: 7:C8=B6G@ 6C9 :A (:<GD 6C9 ,8=DG;=:>9:  L=:G: I=: E:G;DGB6C8: D; I=:
+,! /+ BD9:A >H 9D8JB:CI:9 JH>C< I=: JCG:HIG>8I:9 /+ BD9:A 6H I=: 7:C8=B6G@
+
+":C8: L: ;D8JH DC I=: CJB7:G D; :HI>B6I:9 ;68IDGH JH:9 >C I=: # BD9:A 6C9 I=: A6<
+A:C<I= D; I=: /+ BD9:A
+ ><JG:  H=DLH I=: <6>C >C  D; 6 9>W:G:CI CJB7:G D;
+:HI>B6I:9 ;68IDGH DK:G I=: H>BEA: + BD9:A L=:G: # 9:CDI:H I=: 6JIDB6I>8 ;68IDG
+H:A:8I>DC L>I= 6N:H>6C >C;DGB6I>DC 8G>I:G>DC 6C9 + 9:CDI:H I=: PM:9 CJB7:G D; ;68IDGH
+HE:8>P86I>DC D; I=: # BD9:A
+ #C <:C:G6A I=: G:HJAIH 6G: K:GN H>B>A6G ID I=: PC9>C<H D;
+,ID8@ 6C9 06IHDC 7 
+ #C I:GBH D; ;DG:86HI>C< DJIEJI <GDLI= DCAN 6 ;:L ;68IDGH
+6G: C::9:9 ID DJIE:G;DGB I=: 7:C8=B6G@ + BD9:A
+ -=:G: 6G: 8DCH>9:G67A: <6>CH >C I=:
+EG:9>8I>K: 67>A>IN D; I=: # BD9:A >; DC: JH:H BDG: I=6C DC: ;68IDG
+ -=: >BEGDK:B:CI
+DK:G I=: + BD9:A K6G>:H BDHIAN 6GDJC9  ;DG 6AA ;DG:86HI =DG>ODCH
+
+-=: G:HJAIH D; >CQ6I>DC ;DG:86HIH 6G: FJ>I: 9>W:G:CI ;GDB I=: DJIEJI <GDLI= ;DG:86HIH
+
+(DL JH>C< DC: ;68IDG >H I=: DCAN 86H: L=:G: I=: # BD9:A >H 67A: ID 7:6I I=: + BD9:A
+;DG 6AA ;DG:86HI =DG>ODCH
+  "><=:G CJB7:G D; ;68IDGH >C8AJ9>C< # 76H:9 H:A:8I>DC
+<:C:G6I: >C;:G>DG ;DG:86HIH ID I=: + BD9:A 7:NDC9 I=: PK: FJ6GI:GH 6=:69 =DG>ODC
+
+#CI:G:HI>C<AN I=:G: H::BH ID 7: CD 69K6CI6<: D; JH>C< # ID 6JIDB6I>86AAN 9:I:GB>C:
+I=: CJB7:G D; ;68IDGH ;DG 7DI= DJIEJI <GDLI= 6C9 >CQ6I>DC ;DG:86HIH
+
+><JG:  H=DLH I=: <6>CH D; I=: ,! BD9:A DK:G 9>W:G:CI A6< A:C<I= HE:8>P86I>DC
+D; I=: JCG:HIG>8I:9 /+ BD9:A L=:G: # 9:CDI:H 6JIDB6I>8 A6< A:C<I= H:A:8I>DC L>I=
+6N:H>6C >C;DGB6I>DC 8G>I:G>DC 6C9 E 9:CDI:H PM:9 A6< A:C<I= HE:8>P86I>DC D; I=: /+
+
+<6>C I=: G:HJAIH 6G: >C A>C: L>I= I=: 6HHD8>6I:9 G:HJAIH ;GDB :A (:<GD 6C9 ,8=DG;=:>9:
+ L=:G: 6 /+  >H JH:9 6H I=: 7:C8=B6G@
+ A:6GAN I=: ,! BD9:A >H 67A: ID
+DJIE:G;DGB I=: /+  9:8>H>K:AN >C ;DG:86HIH D; 7DI= DJIEJI <GDLI= 6C9 >CQ6I>DC
+ -=:G:
+6G: DCAN 6 ;:L D886H>DCH L=:G: I=: /+ BD9:A 86C <:C:G6I: HJE:G>DG ;DG:86HIH
+ -=:
+
+/+ 
+ N>:A9H 
+ E:G8:CI 6C9  E:G8:CI ADL:G  ;DG DJEJI <GDLI= 6I DC: FJ6GI:G
+6=:69 6C9 ILD FJ6GI:G 6=:69 =DG>ODC G:HE:8I>K:AN
+ -=: /+  =6H 6I >IH 7:HI 6I ILD
+N:6GH 6=:69 =DG>ODC ;DG DJIEJI <GDLI=  E:G8:CI ADL:G  I=6C I=: ,! BD9:A
+
+(D /+ BD9:A HE:8>P86I>DC 86C 8DBE:I: L>I= I=: ,! BD9:A >C ;DG:86HI>C< >CQ6I>DC
+;DG 6AA =DG>ODCH
+ )K:G6AA I=: EG:9>8I>K: 67>A>IN D; I=: /+ BD9:A I:C9H ID 9:I:G>DG6I:
+FJ>8@AN G:A6I>K: ID I=: ,! BD9:A 6H I=: ;DG:86HI>C< =DG>ODC <GDLH
+ "DL:K:G 6H L:
+9D8JB:CI:9 >C I=: EG:K>DJH HJ7H:8I>DC I=: /+ BD9:A >H 6C JCG:A>67A: 7:C8=B6G@ >C
+I:GBH D; >C;DGB6I>K:C:HH
+ 0: 6G<J: I=6I I=: HJEEDGI>K: G:HJAIH ;DG I=: ,! BD9:AH
+>C I=: A>I:G6IJG: B6N 7: 9J: E6GIAN ID I=: ;68I I=6I I=: JC9:GAN>C< 7:C8=B6G@ BD9:AH
+/+ 6G: :6HN ID DJIE:G;DGB
+
+"/0&*$ "-1( ,."!& 0&2" &(&05
+0: H=DL I=6I :MEAD>I>C< A6G<: 96I6H:IH L>I= I=: ;68IDG ;G6B:LDG@ 86C >C9::9 A:69 ID BDG:
+688JG6I: ;DG:86HIH I=6C >H EDHH>7A: L>I= H>BEA: I>B: H:G>:H BD9:AH
+ AHD >I H::BH I=6I
+I=: ,! BD9:A >H CDI 67A: ID 8DBE:I: L>I= I=: ;68IDG BD9:A :M8:EI ;DG ADC< =DG>ODC
+>CQ6I>DC ;DG:86HIH
+ "DL:K:G I=:G: >H 6 <:C:G6A 86K:6I D; :K6AJ6I>C< ;DG:86HI 688JG68N
+76H:9 DC :GGDG B:IG>8H HJ8=7 6H  >I >H I=: A68@ D; HI6I>HI>86A H><C>P86C8:
+ #I >H
+CDI EDHH>7A: ID B6@: G><DGDJH HI6I>HI>86A HI6I:B:CIH 7N H>BEAN ><CDG>C< I=: H6BEA>C<
+JC8:GI6>CI>:H D; HJ8= B:IG>8H
+ -D IG68: I=: HNHI:B6I>8 9>W:G:C8:H 7:IL::C 8DBE:I>C<
+;DG:86HI BD9:AH L: C::9 HI6I>HI>86A =NEDI=:H>H I:HIH
+
+>:7DA9 6C9 '6G>6CD 
+ 6C9 0:HI 
+ 9>H8JHH HDB: H><C>P86C8: I:HIH D; ;DG:
+86HI 688JG68N >C I=: A>I:G6IJG: 6C9 EG:H:CI I=:>G DLC 6HNBEIDI>8 I:HI D; :FJ6A ;DG:86HI
+688JG68N L=>8= L: G:;:G ID I=: >:7DA9 '6G>6CD 0:HI I:HI '0 I:HI 
+ &:I  7: I=:
+IDI6A CJB7:G D; ;DG:86HIH 6C9 8DCH>9:G ILD ;DG:86HI :GGDG H:G>:H 3  6C9 3 
+ -=: CJAA
+=NEDI=:H>H D; :FJ6A 688JG68N D; ILD 8DBE:I>I>K: ;DG:86HIH >H
+   ' 3  ' 3     $  
+L=:G: '  9:CDI:H 6 ADHH ;JC8I>DC 6C9 $ 9:CDI:H I=: ADHH 9>W:G:CI>6A H:G>:H
+ -=: A6G<:
+H6BEA:    I:HI HI6I>HI>8H JC9:G I=: CJAA D; :FJ6A 688JG68N >H
+ 
+ 
+$
+
+
+
+
+
+
+L=:G: $ 9:CDI:H I=: H6BEA: B:6C ADHH 9>W:G:CI>6A 6C9 &  9:CDI:H I=: HE:8IG6A 9:CH>IN
+D; I=: ADHH 9>W:G:CI>6A 6I ;G:FJ:C8N O:GD
+&  
+
+
+
+
+
+ 
+L=:G: 
+ 6G: I=: 6JID8DK6G>6C8:H D; I=: ADHH 9>W:G:CI>6A 6I 9>HEA68:B:CI 
+ #C EG68I>8:
+&  86C 7: 8DCH>HI:CIAN :HI>B6I:9 L>I= I=: " :HI>B6IDG EGDEDH:9 7N (:L:N 6C9
+0:HI 
+
+ 
+&   
+ 
+ 
+
+
+
+
+
+
+ 
+L=:G:  9:CDI:H I=: IGJC86I>DC A6< 6C9 
+ 9:CDI: I=:H H6BEA: :HI>B6I:H D; I=:
+6JID8DK6G>6C8:H
+ #C DJG E6E:G L: 8DCH>9:G FJ69G6I>8 ADHH ;JC8I>DC 6C9   ( 
+ 
+
+-=: I:HI HI6I>HI>8 G:FJ>G:H I=: A>B>I>C< K6G>6C8: D; I=: ADHH 9>W:G:CI>6AH ID 7: PC>I:
+6C9 HIG>8IAN EDH>I>K:
+ 0>I= C:HI:9 BD9:AH I=>H >H JC;DGIJC6I:AN CDI I=: 86H: L=:C 7DI=
+I=: :HI>B6I>DC H6BEA:  6C9 I=: CJB7:G D; ;DG:86HIH  <D:H ID >CPC>IN 7:86JH: >C I=>H
+86H: I=: ;DG:86HI :GGDGH 6G: JC9:G I=: CJAA =NEDI=:H>H 6HNBEIDI>86AAN I=: H6B: 6C9
+I=:G:;DG: E:G;:8IAN 8DGG:A6I:9
+ A6G@ 6C9 '8G68@:C 
+ H=DL I=6I L=:C 8DBE6G
+>C< ILD C:HI:9 ;DG:86HI>C< BD9:AH I=: '0 I:HI HI6I>HI>8H =6K: 6 CDC HI6C96G9 A>B>I>C<
+9>HIG>7JI>DC
+ "DL:K:G >C !>68DB>C> 6C9 0=>I:  I=:DG:B  >I >H 9:BDCHIG6I:9
+I=6I JC9:G I=: GDAA>C< L>C9DL G:<G:HH>DC 6C9 I6@>C< 688DJCI D; I=: :HI>B6I>DC JC8:G
+I6>CI>:H I=: A>B>I>C< 9>HIG>7JI>DC >H HI>AA HI6C96G9 CDGB6A
+ #C 699>I>DC !>68DB>C> 6C9
+0=>I:  6G<J: I=6I 7N ;D8JH>C< DC I=: :HI>B6I:9 G6I=:G I=6C I=: EDEJA6I>DC K6A
+J:H D; I=: BD9:A E6G6B:I:GH I=:>G ;G6B:LDG@ 86C 688DBBD96I: 6N:H>6C :HI>B6I>DC
+B:I=D9H
+ ":C8: L: 6G<J: I=6I I=: EGDEDH:9 I:HI HI6I>HI>8 >H HJ>I67A: ;DG DJG ;DG:86HI>C<
+:ME:G>B:CIH
+
+-67A:  EG:H:CIH I=: G:HJAIH D; I=: E6>GL>H: JC8DC9>I>DC6A :FJ6A EG:9>8I>K: 67>A>IN
+I:HIH
+ *AJH B>CJH H><CH D; I=: I:HI HI6I>HI>8H >C9>86I: I=6I I=: ;DG:86HI>C< BD9:A >C GDLH
+=6K: ADL:G =><=:G HFJ6G:9 ;DG:86HI :GGDGH >C B:6C I=6C I=: 8DGG:HEDC9>C< ;DG:86HI>C<
+BD9:A >C 8DAJBCH
+ ,IG>@>C<AN ADD@>C< 6I DJIEJI <GDLI= ;DG:86HIH I=:G: 6G: DCAN K:GN
+;:L D886H>DCH H=DL>C< H><C>P86CI 9>W:G:C8:H 7:IL::C I=: 8DBE:I>C< BD9:AH
+ -=: I:HI
+G:K:6AH I=6I DCAN I=: + BD9:A 6I DC: FJ6GI:G 6=:69 =DG>ODC >H 67A: ID DJIE:G;DGB I=:
+C6>K: B:6C H><C>P86CIAN
+ -=: ;68IDG BD9:A EGD9J8:H H><C>P86CIAN 7:II:G ;DG:86HIH I=6C
+I=: ,! 6C9 I=: /+ BD9:A 6AHD 6I DC: FJ6GI:G 6=:69 =DG>ODC
+ GDB ILD N:6GH 6=:69
+
+ 0: 6AHD IG>:9 9>W:G:CI HE:8IG6A 9:CH>IN :HI>B6IDG A>@: FJ69G6I>8 HE:8IG6A @:GC:A 6C9 6JIDB6I>8 IGJC
+86I>DC A6< H:A:8I>DC EGDEDH:9 7N C9G:LH 
+
+ 
+ )K:G6AA I=: I:HI DJI8DB:H G:B6>C K:GN H>B>A6G
+
+
+=DG>ODC DCL6G9H CD H><C>P86CI 9>W:G:C8:H 86C 7: ;DJC9 7:IL::C I=: 8DBE:I>C< BD9:AH
+
+#C I:GBH D; I=: >CQ6I>DC ;DG:86HIH I=: G:HJAIH 6G: FJ>I: 9>W:G:CI
+ (DL 6AA BD9
+:AH 6G: 67A: ID <:C:G6I: H><C>P86CI >C;DGB6I>K: ;DG:86HIH JE ID DC: N:6G 6=:69 =DG>ODC
+
+HE:8>6AAN I=: # BD9:A 9DB>C6I:H 6AA 8DBE:I>C< BD9:AH 6I DC: FJ6GI:G 6=:69 =DG>
+ODC
+ #CI:G:HI>C<AN I=: ,! BD9:A I:C9H ID DJIE:G;DGB I=: 8DBE:I>C< BD9:AH 6H I=:
+;DG:86HI>C< =DG>ODC <GDLH
+ "DL:K:G DC CD D886H>DC >H I=: ,! BD9:A H><C>P86CIAN
+HJE:G>DG ID I=: # BD9:A
+ )K:G6AA I=: JC8DC9>I>DC6A EG:9>8I>K: 67>A>IN I:HIH G:EDGI ;:L
+9>W:G:C8:H 68GDHH I=: 8DBE:I>C< ;DG:86HI>C< BD9:AH 8DCH>9:G:9 >C I=>H E6E:G
+ -=: #
+BD9:A H::BH ID 7: HJE:G>DG >C H=DGI =DG>ODC DJIEJI <GDLI= 6C9 >CQ6I>DC ;DG:86HIH
+ -=:
+,! BD9:A >H 6G<J67AN BDG: 688JG6I: >C ADC< =DG>ODC >CQ6I>DC ;DG:86HIH
+ (:K:GI=:A:HH
+>I >H 9D8JB:CI:9 I=6I I=: '0 I:HI =6H ADL EDL:G >C I=: PC>I: H6BEA: E6GI>8JA6GAN
+L=:C C:HI:9 BD9:AH 6G: >CKDAK:9
+
+
+ ":C8: I=: G:HJAIH D; I=: I:HI H=DJA9 7: G:<6G9:9 6H
+8DBEA:B:CI6GN G6I=:G I=6C 9:PC>I>K:
+
+
+ +* (1/&+*
+-=>H E6E:G 8DC9J8IH DJI D; H6BEA: ;DG:86HI>C< =DGH: G68: 7:IL::C 96I6 9G>K:C 6C9 I=:DGN
+76H:9 ;DG:86HI>C< BD9:AH L>I= A6G<: ;68IDG BD9:AH 6C9 HB6AA H86A: (:L %:NC:H>6C ,!
+BD9:AH H:GK>C< 6H I=: EGDB>C:CI HI6I: D; I=: 6GI 86C9>96I: BD9:AH
+ -=: G:HJAIH D; ;68IDG
+BD9:AH 8DCPGB PC9>C<H ;GDB K6G>DJH HJGK:NH 8A6>B>C< I=6I I=: ;68IDG BD9:AH 6G: 67A: ID
+EGDK>9: G:6HDC67A: H=DGI GJC ;DG:86HIH ;DG 7DI= DJIEJI <GDLI= 6C9 >CQ6I>DC
+ "DL:K:G
+I=: 8=D>8: D; I=: CJB7:G D; ;68IDGH 8A:6GAN B6II:GH ;DG I=: EG:9>8I>K: 67>A>IN D; ;68IDG
+BD9:AH 6AI=DJ<= =DL I=: 8DGG:8I CJB7:G D; ;68IDGH H=DJA9 7: H:A:8I:9 >H JC8A:6G H>C8:
+I=: 6JIDB6I>8 >C;DGB6I>DC 8G>I:G>DC 76H:9 EGD8:9JG: 9D:H CDI JC>;DGBAN DJIE:G;DGB I=:
+B6CJ6AAN PM:9 EGD8:9JG:
+
+-=: :HI>B6I>DC G:HJAIH D; I=: HB6AA H86A: (:L %:NC:H>6C ,! BD9:A 6G: FJ>I: HI6C
+96G9 8DBE6G:9 L>I= I=: G:A6I:9 :BE>G>86A A>I:G6IJG:
+ ,DB: @:N CDI>DCH D; I=: :8DCDB>8
+:KDAJI>DC 86C 7: 86EIJG:9 L>I= I=: GDAA>C< H6BEA: G:<G:HH>DCH D; I=: BD9:AH
+ -=: BDHI
+HJGEG>H>C< G:HJAI >H I=: HIGDC< EG:9>8I>K: 67>A>IN D; I=: ,! BD9:A >C ;DG:86HI>C< >C
+Q6I>DC >C I=: ADC< GJC
+ 0: H=DL I=6I 7N I6@>C< I=: :8DCDB>8 B:6C>C<;JA G:HIG>8I>DCH
+>BEDH:9 DC I=: ,! BD9:AH H:G>DJHAN DC: 86C HI>AA D7I6>C G:6HDC67A: ;DG:86HIH
+ -=:
+JCG:HIG>8I:9 /+ BD9:A 6H I=: 8DBBDC 7:C8=B6G@ >C 6HH:HH>C< I=: EG:9>8I>K: EDL:G
+D; ,! BD9:AH IJGCH DJI ID 7: K:GN L:6@
+ #I >H CDI 67A: ID EGDK>9: >C;DGB6I>K: ;DG:
+86HIH ;DG BDHI 86H:H
+ -=:G:;DG: L: HJ<<:HI ;JIJG: DJI D; H6BEA: ;DG:86HI>C< :ME:G>B:CIH
+>CKDAK>C< ,! BD9:AH ID >C8AJ9: BDG: G:6HDC67A: 7:C8=B6G@H
+
+
+
+ ,:: A6G@ 6C9 '8G68@:C 
+ 
+
+
+!>K:C I=: L>9: K6G>:IN D; ,! BD9:AH >C I=: A>I:G6IJG: I=>H E6E:G H=DJA9 CDI 7:
+JC9:GHIDD9 6H 6C :M=6JHI>K: G:H:6G8= >CID I=: EG:9>8I>K: 67>A>IN D; ,! BD9:AH
+ (:K
+:GI=:A:HH I=: PC9>C<H D; I=: ;DG:86HI>C< :ME:G>B:CIH 6G: HJG:AN :C8DJG6<>C< ;DG ;JGI=:G
+G:H:6G8= DC I=>H IDE>8 H>C8: I=: ,! BD9:A >H 6 K:GN JH:;JA HIDGNI:AA>C< 9:K>8: ;DG
+7DI= I=:DG>HIH 6C9 EDA>8NB6@:GH
+ #I >H >BEDGI6CI I=6I HJ8= 6 9:K>8: :M=>7>IH G:6HDC67A:
+EG:9>8I>K: 67>A>IN
+ JIJG: G:H:6G8= DC IDE>8H H=DJA9 IGN ID 9>HH:8I I=: >BE68I D; 9>W:G:CI
+HIGJ8IJG6A G:HIG>8I>DCH DC I=: EG:9>8I>K: 67>A>IN D; I=: ,! BD9:AH >C DG9:G ID 9:K:ADE
+6 9::E:G JC9:GHI6C9>C< D; I=: JC9:GAN>C< HIGJ8IJG6A :8DCDBN
+
+
+,,"*!&4
+-=>H 6EE:C9>M <>K:H 6C DK:GK>:L D; I=: 96I6H:I JH:9 ID 8DCHIGJ8I I=: ;68IDGH
+ -=: 96I6
+6G: EG:H:CI:9 >C I=: ;DAADL>C< DG9:G>C< H:G>:H CJB7:G H:G>:H BC:BDC>8 H:G>:H 9:H8G>E
+I>DC 6C9 IG6CH;DGB6I>DC 8D9:
+ -=: IG6CH;DGB6I>DC 8D9:H 6G: 
+  CD IG6CH;DGB6I>DC 
+ PGHI 9>W:G:C8:   PGHI 9>W:G:C8: D; AD<H   H:8DC9 9>W:G:C8: D; AD<H
+ AA EG>8:
+H:G>:H 6G: D7I6>C:9 ;GDB 'DD9NRH 8DCDBN 6C9 6AA DI=:G H:G>:H 6G: D7I6>C:9 ;GDB 6I6H
+IG:6B
+ -=: H:G>:H BC:BDC>8H 6C9 9:H8G>EI>DCH 6G: I6@:C 9>G:8IAN ;GDB I=: 6HHD8>6I:9
+HDJG8:H
+ -=: >CI:G:HI G6I: HEG:69H 6G: 86A8JA6I:9 JH>C< I=: 6K:G6<: ;:9:G6A ;JC9H G6I: D7
+I6>C:9 ;GDB 'DD9NRH 8DCDBN
+ -=: 677G:K>6I>DCH 6EE:6G>C< >C I=: H:G>:H 9:H8G>EI>DCH
+6G: H6H69?  H:6HDC6AAN 69?JHI:9 8JG6  8JGG:CI EG>8:H H:6HDC6AAN 69?JHI:9 KDA6 
+KDAJBC >C9:M H:6HDC6AAN 69?JHI:9
+
+Prices
+1 cpiuaa_us cpi: urban consumer - apparel, (1982-84=100, sa) 4
+2 cpiuac_us cpi: urban consumer - commodities, (1982-84=100, sa) 4
+3 cpiuad_us cpi: urban consumer - durables, (1982-84=100, sa) 4
+4 cpiuam_us cpi: urban consumer - medical care, (1982-84=100, sa) 4
+5 cpiuas_us cpi: urban consumer - services, (1982-84=100, sa) 4
+6 cpiuat_us cpi: urban consumer - transportation, (1982-84=100, sa) 4
+7 cpiul1_us cpi: urban consumer - all items less food, (1982-84=100, sa) 4
+8 cpiul2_us cpi: urban consumer - all items less shelter, (1982-84=100, sa) 4
+9 cpiul5_us cpi: urban consumer - all items less medical care, (1982-84=100, sa) 4
+10 ppisp1000_us ppi: stage of processing - crude materials, (index 1982=100, sa) 4
+11 ppisp2000_us ppi: stage of processing - intermediate materials, (index 1982=100, sa) 4
+12 ppisp3000_us ppi: stage of processing - finished goods, (index 1982=100, sa) 4
+13 ppisp3100_us ppi: stage of processing - finished consumer goods, (index 1982=100, sa) 4
+Consumption
+14 uscdtan_b pce - durables, new autos (ar) cura 3
+15 uscondurb personal consumption expenditures - durables (ar) cura 3
+16 usconndrb personal consumption expenditures - nondurables (ar) cura 3
+17 usconsrvb personal consumption expenditures - services (ar) cura 3
+18 usperconb personal consumption expenditures (ar) cura 3
+
+Employment
+19 usem21__o employed - mining vola 3
+20 usem23__o employed - construction vola 3
+21 usem42__o employed - wholesale trade vola 3
+22 usem81__o employed - otherservices vola 3
+23 usemig__o employed - government vola 3
+24 usemimd_o employed - durable goods vola 3
+25 usemip__o employed - totalprivate vola 3
+26 usemir__o employed - retail trade vola 3
+27 usemit__o employed - trade, transportation, & utilities vola 3
+28 usempallo employed - nonfarm industries total (payroll survey) vola 3
+29 usempg__o employed - goods-producing vola 3
+30 usempmano employed - manufacturing vola 3
+31 usemps__o employed - service-providing vola 3
+32 usemptoto total civilian employment vola 3
+33 ushlpwadq help wanted-proportion of labor markets w/rising want-ad vola 1
+34 usun_totq unemployment rate sadj 2
+35 usundurne average durationof unemployment (weeks) vola 1
+36 usunw14_q unemployed distribution - 5 to 14 weeks sadj 1
+37 usunw15_q unemployed distribution - 15 weeks & over sadj 1
+38 usunw26_q unemployed distribution - 15 to 26 weeks & over sadj 1
+39 usunw5__q unemployed distribution - less than 5 weeks sadj 1
+40 usvactoto index of help wanted advertising vola 3
+Housing
+41 ushbrm__o housing started - midwest (ar) vola 3
+42 ushbrn__o housing started - northeast (ar) vola 3
+43 ushbrs__o housing started - south (ar) vola 3
+44 ushbrw__o housing started - west (ar) vola 3
+45 ushouse_o new private housing units started (ar) vola 3
+Hours and earnings
+46 ushkim__o avg wkly hours -manufacturing vola 3
+47 ushxpmano avg overtime hours - manufacturing vola 3
+48 uswr23__b avg hrly earn -construction cura 4
+49 uswrim__b avg hrly earn -manufacturing cura 4
+
+Output and income
+50 usipmbuqg indl prod - business equipment vola 3
+51 usipmcogg indl prod - consumer goods vola 3
+52 usipmducg indl prod - durable consumer goods vola 3
+53 usipmfgsg industrial production - manufacturing (sic) vola 3
+54 usipmfing indl prod - final products, total vola 3
+55 usipmmatg indl prod - materials, total vola 3
+56 usipmnocg indl prod - nondurable consumer goods vola 3
+57 usipmprog indl prod - final products & nonindustrial supplies vola 3
+58 usiptot_g industrial production - total index vola 3
+59 usiumfgsq indl utilization- manufacturing (sic) sadj 1
+60 uspdispib disposable personal income (ar) cura 3
+61 uspersinb personal income (ar) cura 3
+Interest rates
+62 uscrbbaa corporate bond yield - moody's baa, seasoned issues 2
+63 uscrbyld corporate bond yield - moody's aaa, seasoned issues 2
+64 ustrb3av treasury bill secondary market rate on discount basis-3 month 2
+65 ustrcn10 treasury yield adjusted to constant maturity - 10 year 2
+66 ustrcn1_ treasury yield adjusted to constant maturity - 1 year 2
+67 ustrcn5_ treasury yield adjusted to constant maturity - 5 year 2
+68 usytb6sm treasury bill secondary market rate on discount basis-6 month 2
+69 ussfycrbyld spread uscrbyld - federal funds 1
+70 ussfycrbbaa spread uscrbbaa - federal funds 1
+71 ussfytrb3av spread ustrb3av - federal funds 1
+72 ussfyytb6sm spread usytb6sm - federal funds 1
+73 ussfytrcn1_ spread ustrcn1_ - federal funds 1
+74 ussfytrcn10 spread ustrcn10 - federal funds 1
+75 ussfytrcn5_ spread ustrcn5_ - federal funds 1
+Other
+76 usm0____b monetary base cura 4
+77 usnbrrsab nonborrowed reserves of depository institutions cura 3
+78 uspmchin chicago purchasingmanager diffusion index-inventories(sa) 1
+79 uspmchlt chicago purchasingmanager diffusion index-deliveries(sa) 1
+80 uspmchp_ chicago purchasingmanager diffusion index-prodn. (sa) sadj 1
+81 ustotrsab total reserves of depository institutions cura 3
+82 usexpgdsb exports f.a.s. cura 3
+83 uscnfbusq ism purchasing managers index (mfg survey) sadj 1
+
+"#"."* "/
+%(-) 
+
+  S":I:GDH@:96HI>8>IN 6C9 JID8DGG:A6I>DC DCH>HI:CI DK6G>6C8:
+'6IG>M HI>B6I>DC T #!  
+U
+
+! 
+   S#C;:G:CI>6A -=:DGN DG 68IDG 'D9:AH D; &6G<: >B:CH>DC T #
+! 
+ 
+U
+
+
+! 
+ %     S:I:GB>C: I=: (JB7:G D; 68IDGH >C EEGDM>B6I: 68IDG
+'D9:AH T #!  
+
+U
+
+&!,!% 
+ %     S.C9:GHI6C9>C< 6C9 DBE6G>C< 68IDG 6H:9 '68GD
+:8DCDB>8 DG:86HI T 
+#!# $!  #!  
+ 
+
+U
+
+(!))&%  $'## % 
+  #(!*   S DG:86HI>C< ,DB: &DL
+*G:9>8I67>A>IN ->B: ,:G>:H .H>C< >WJH>DC #C9>8:H T $!  !"#  
+U
+
+
+(&&")  % #$% 
+  S!:C:G6A ':I=D9H ;DG 'DC>IDG>C< DCK:G<:C8: D;
+#I:G6I>K: ,>BJA6I>DCH T $!   $##  !  ##"#"  U
+
+#("  %   ("% 
+  S-:HIH D; FJ6A DG:86HI 88JG68N 6C9
+C8DBE6HH>C< ;DG (:HI:9 'D9:AH T $!  #!" 
+ U
+
+
+
+# (&  % 
+  &( !   S*G>DGH ;GDB !:C:G6A FJ>A>7G>JB
+'D9:AH ;DG /+H T 
+#!#  %&  U
+
+# (&  
+  &( ! 
+ $*) %  &+*()   S)C I=:
+>I 6C9 DG:86HI>C< *:G;DGB6C8: D; (:L %:NC:H>6C 'D9:AH T $!  $""" 
+ ##"#"  
+U
+
+!&# 
+  %   (!%& 
+  SDBE6G>C< *G:9>8I>K: 88JG68N T $!
+  $"""   ##"#" 
+ U
+
+!"$!(  % !#(   S"DL ,J88:HH;JA 6G: NC6B>8 68IDG 'D9:AH
+6I DG:86HI>C< )JIEJI 6C9 #CQ6I>DC  ':I6 C6ANI>8 EEGD68= T ;DGI=8DB>C< >C
+$DJGC6A D; DG:86HI>C<
+
+
+&(%!   ##!%  !''! %  ! #!%   S-=: !:C:G6A>O:9 68IDG
+'D9:A #9:CI>P86I>DC 6C9 HI>B6I>DC T  %&  "  ##"#" 
+U
+
+
+  SD >C6C8>6A /6G>67A:H ":AE DG:86HI>C< #CQ6I>DC 6C9 +:6A 8I>K>IN
+>C I=: .+) G:6 T $!  #!' "  
+U
+
+  S-=: !:C:G6A>O:9 NC6B>8 68IDG 'D9:A DCH>HI:C8N 6C9 +6I:H T
+$!  #!" 
+
+ 
+U
+
+!&$!%!  %   !*   S-:HIH D; DC9>I>DC6A *G:9>8I>K: 7>A>IN T
+#!  
+U
+
+.#% 
+ % ()&** 
+  S->B: ID J>A9 6C9 <<G:<6I: AJ8IJ6I>DCH T
+#!  
+U
+
+
+!**($%  
+  S DG:86HI>C< L>I= 6N:H>6C /:8IDG JIDG:<G:HH>DCH  1:6GH D;
+ME:G>:C8: T $!  $"""   ##"#"  U
+
+(##!%&  
+ *&" %  *)&%   S'68GD:8DCDB>8 DG:86HI>C< >C
+I=: JGD G:6 DJCIGN ,E:8>P8 K:GHJH G:6 0>9: #C;DGB6I>DC T $!  
+%&  
+U
+
+-.  %  )* 
+  S ,>BEA: *DH>I>K: ,:B> :PC>I: ":I:GDH@:96HI>8
+>IN 6C9 JID8DGG:A6I>DC DCH>HI:CI DK6G>6C8: '6IG>M T #!  U
+
+ &( ! 
+   S&DHH JC8I>DC 6H:9 K6AJ6I>DC D; ,! 'D9:AH T $!
+  #!" 
+ U
+
+ +$ (   S DG:86HI>C< !:GB6C !* .H>C< AI:GC6I>K: 68IDG 'D9:AH
+6H:9 DC &6G<: 6I6H:IH T $!  !"#  
+U
+
+$*) 
+ %  &+*()   S DG:86HI>C< L>I= 6 6N:H>6C ,! 'D9:A C
+EEA>86I>DC ID I=: JGD G:6 T $!   !# #$"  
+U
+
+*&" 
+ %  *)&% 6  S DG:86HI>C< .H>C< *G>C8>E6A DBEDC:CIH ;GDB
+6 &6G<: (JB7:G D; *G:9>8IDGH T $!  # ! ##"# ""# 
+
+
+U
+
+
+7  S'68GD:8DCDB>8 DG:86HI>C< .H>C< >WJH>DC #C9:M:H T $! 
+$"""   ##"#"  
+U
+
+)*  
+  SHNBEIDI>8 #C;:G:C8: 7DJI *G:9>8I>K: 7>A>IN T #! 
+
+U
+
+
+
+-67A: 
+ *G>DGH 6C9 EDHI:G>DG 9>HIG>7JI>DCH D; I=: ,! BD9:A
+*G>DGH *G: /DA8@:G /DA8@:G !G::CHE6C
+*6G6B:I:GH >HIG>7JI>DC %"- *DHI:G>DG ':6C "*# *DHI:G>DG ':6C "*#
+AC (DGB6A 
+
+
+
+ 3
+ 
+4 
+ 3
+ 
+
+4
+AC !6BB6 
+
+
+
+ 3
+ 
+4 
+ 3
+ 
+4
+AC0 !6BB6 
+
+
+
+ 3
+
+ 
+4 
+ 3
+ 
+4
+ !6BB6 
+
+
+
+ 3
+ 
+4 
+ 3
+
+ 
+4
+!6BB6 
+
+
+
+ 3
+ 
+4 
+
+ 3
+ 
+4
+
+ !6BB6 
+
+
+
+ 3
+ 
+4 
+
+ 3
+ 
+4
+
+ !6BB6 
+ 
+ 3
+
+ 
+4 
+
+ 3
+
+ 
+
+4
+
+ :I6  
+ 3
+ 
+4 
+ 3
+ 
+4
+
+ :I6  
+ 3
+ 
+4 
+ 3
+ 
+4
+
+
+
+:I6  
+ 3
+
+ 
+4 
+ 3
+ 
+4
+ #CK
+ !6BB6 
+ 
+ 3
+ 
+4 
+
+ 3
+
+ 
+
+4
+ #CK
+ !6BB6  
+ 3
+ 
+4 
+ 3
+ 
+4
+
+
+#CK
+ !6BB6  
+ 3
+ 
+4 
+ 3
+ 
+4
+(DI: ,I9 9:CDI:H I=: EG>DG HI6C96G9 9:K>6I>DC
+
+
+-67A:  -:HI D; :FJ6A EG:9>8I>K: 67>A>IN
+)JIEJI <GDLI= #CQ6I>DC
+=
+ =
+':6C + # /+ ':6C + # /+
++ 
+ + 
+
+# 
+ 
+ # 
+ 
+
+/+ 
+
+ 
+
+
+ 
+ /+ 
+
+ 
+ 
+
+
+
+,! 
+ 
+ 
+ 
+ ,! 
+ 
+ 
+ 
+
+= =
++ 
+ + 
+
+# 
+ 
+ # 
+ 
+
+/+ 
+
+
+ 
+ 
+
+ /+ 
+ 
+ 
+
+,! 
+ 
+
+ 
+ 
+ ,! 
+
+ 
+ 
+ 
+
+= =
++ 
+
+ + 
+
+# 
+ 
+
+ # 
+ 
+
+/+ 
+
+ 
+ 
+ /+ 
+ 
+ 
+
+,! 
+ 
+
+ 
+
+ 
+
+ ,! 
+ 
+
+ 
+ 
+
+=
+ =
++ 
+ + 
+
+# 
+ 
+
+ # 
+ 
+
+
+/+ 
+
+ 
+
+ 
+
+ /+ 
+ 
+ 
+
+,! 
+ 
+ 
+ 
+ ,! 
+ 
+ 
+ 
+
+(DI: -=: :CIG>:H 6G: I:HI HI6I>HI>8H D; E6>GL>H: I:HIH D; :FJ6A EG:9>8I>K: 67>A>IN
+ C 6HI:G>H@ 9:CDI:H
+G:?:8I>DC D; I=: CJAA D; :FJ6A EG:9>8I>K: 67>A>IN 6I 
+ 
+ DJ7A: 6HI:G>H@H 9:CDI: G:?:8I>DC 6I  
+ DG
+:M6BEA: I=: PGHI :CIGN B:6CH 6I DC: FJ6GI:G 6=:69 =DG>ODC I=: + BD9:A DJIE:G;DGBH I=: JC8DC9>I>DC6A
+B:6C ;DG:86HIH ;DG DJIEJI <GDLI=
+ -=: 6HHD8>6I:9 I:HI HI6I>HI>8 >H 
+ 6C9 =:C8: H><C>P86CI 6I 
+
+
+><JG: 
+ !6>C &DHH >C ', H BD9:AH K:GHJH JC8DC9>I>DC6A B:6C
+1 2 3 4 5 6 7 8 9 10 11 12
+-0.6
+-0.4
+-0.2
+0
+0.2
+0.4
+Output Growth
+DSGE
+AR
+VAR
+DI
+1 2 3 4 5 6 7 8 9 10 11 12
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+Inflation
+
+><JG:  !6>C &DHH >C ', H # K:GHJH +
+1 2 3 4 5 6 7 8 9 10 11 12
+-0.1
+0
+0.1
+0.2
+0.3
+0.4
+Output Growth
+1 2 3 4 5 6 7 8 9 10 11 12
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0.1
+0.2
+Inflation
+BIC
+k=1
+k=2
+k=3
+k=4
+
+><JG:  !6>C &DHH >C ', H ,! K:GHJH /+
+1 2 3 4 5 6 7 8 9 10 11 12
+-0.2
+-0.1
+0
+0.1
+0.2
+0.3
+0.4
+Output Growth
+1 2 3 4 5 6 7 8 9 10 11 12
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+Inflation
+BIC
+p=1
+p=2
+p=3
+p=4
+
+27
+The following Discussion Papers have been published since 2007:
+Series 1: Economic Studies
+01 2007 The effect of FDI on job separation Sascha O. Becker
+Marc-Andreas Mündler
+02 2007 Threshold dynamics of short-term interest rates:
+empirical evidence and implications for the Theofanis Archontakis
+term structure Wolfgang Lemke
+03 2007 Price setting in the euro area: Dias, Dossche, Gautier
+some stylised facts from individual Hernando, Sabbatini
+producer price data Stahl, Vermeulen
+04 2007 Unemployment and employment protection
+in a unionized economy with search frictions Nikolai Stähler
+05 2007 End-user order flow and exchange rate dynamics S. Reitz, M. A. Schmidt
+M. P. Taylor
+06 2007 Money-based interest rate rules: C. Gerberding
+lessons from German data F. Seitz, A. Worms
+07 2007 Moral hazard and bail-out in fiscal federations: Kirsten H. Heppke-Falk
+evidence for the German Länder Guntram B. Wolff
+08 2007 An assessment of the trends in international
+price competitiveness among EMU countries Christoph Fischer
+09 2007 Reconsidering the role of monetary indicators
+for euro area inflation from a Bayesian Michael Scharnagl
+perspective using group inclusion probabilities Christian Schumacher
+10 2007 A note on the coefficient of determination in Jeong-Ryeol Kurz-Kim
+regression models with infinite-variance variables Mico Loretan
+28
+11 2007 Exchange rate dynamics in a target zone - Christian Bauer
+a heterogeneous expectations approach Paul De Grauwe, Stefan Reitz
+12 2007 Money and housing - Claus Greiber
+evidence for the euro area and the US Ralph Setzer
+13 2007 An affine macro-finance term structure model
+for the euro area Wolfgang Lemke
+14 2007 Does anticipation of government spending matter? Jörn Tenhofen
+Evidence from an expectation augmented VAR Guntram B. Wolff
+15 2007 On-the-job search and the cyclical dynamics Michael Krause
+of the labor market Thomas Lubik
+16 2007 Heterogeneous expectations, learning and
+European inflation dynamics Anke Weber
+17 2007 Does intra-firm bargaining matter for Michael Krause
+business cycle dynamics? Thomas Lubik
+18 2007 Uncertainty about perceived inflation target Kosuke Aoki
+and monetary policy Takeshi Kimura
+19 2007 The rationality and reliability of expectations
+reported by British households: micro evidence James Mitchell
+from the British household panel survey Martin Weale
+20 2007 Money in monetary policy design under
+uncertainty: the Two-Pillar Phillips Curve Günter W. Beck
+versus ECB-style cross-checking Volker Wieland
+21 2007 Corporate marginal tax rate, tax loss carryforwards
+and investment functions ­ empirical analysis
+using a large German panel data set Fred Ramb
+29
+22 2007 Volatile multinationals? Evidence from the Claudia M. Buch
+labor demand of German firms Alexander Lipponer
+23 2007 International investment positions and Michael Binder
+exchange rate dynamics: a dynamic panel analysis Christian J. Offermanns
+24 2007 Testing for contemporary fiscal policy discretion Ulf von Kalckreuth
+with real time data Guntram B. Wolff
+25 2007 Quantifying risk and uncertainty Malte Knüppel
+in macroeconomic forecasts Karl-Heinz Tödter
+26 2007 Taxing deficits to restrain government
+spending and foster capital accumulation Nikolai Stähler
+27 2007 Spill-over effects of monetary policy ­ a progress
+report on interest rate convergence in Europe Michael Flad
+28 2007 The timing and magnitude of exchange rate Hoffmann
+overshooting Sondergaard, Westelius
+29 2007 The timeless perspective vs. discretion: theory and
+monetary policy implications for an open economy Alfred V. Guender
+30 2007 International cooperation on innovation: empirical Pedro Faria
+evidence for German and Portuguese firms Tobias Schmidt
+31 2007 Simple interest rate rules with a role for money M. Scharnagl
+C. Gerberding, F. Seitz
+32 2007 Does Benford's law hold in economic Stefan Günnel
+research and forecasting? Karl-Heinz Tödter
+33 2007 The welfare effects of inflation: Karl-Heinz Tödter
+a cost-benefit perspective Bernhard Manzke
+30
+34 2007 Factor-MIDAS for now- and forecasting with
+ragged-edge data: a model comparison for Massimiliano Marcellino
+German GDP Christian Schumacher
+35 2007 Monetary policy and core inflation Michele Lenza
+01 2008 Can capacity constraints explain
+asymmetries of the business cycle? Malte Knüppel
+02 2008 Communication, decision-making and the
+optimal degree of transparency of monetary
+policy committees Anke Weber
+03 2008 The impact of thin-capitalization rules on Buettner, Overesch
+multinationals' financing and investment decisions Schreiber, Wamser
+04 2008 Comparing the DSGE model with the factor model:
+an out-of-sample forecasting experiment Mu-Chun Wang
+31
+Series 2: Banking and Financial Studies
+01 2007 Granularity adjustment for Basel II Michael B. Gordy
+Eva Lütkebohmert
+02 2007 Efficient, profitable and safe banking:
+an oxymoron? Evidence from a panel Michael Koetter
+VAR approach Daniel Porath
+03 2007 Slippery slopes of stress: ordered failure Thomas Kick
+events in German banking Michael Koetter
+04 2007 Open-end real estate funds in Germany ­ C. E. Bannier
+genesis and crisis F. Fecht, M. Tyrell
+05 2007 Diversification and the banks'
+risk-return-characteristics ­ evidence from A. Behr, A. Kamp
+loan portfolios of German banks C. Memmel, A. Pfingsten
+06 2007 How do banks adjust their capital ratios? Christoph Memmel
+Evidence from Germany Peter Raupach
+07 2007 Modelling dynamic portfolio risk using Rafael Schmidt
+risk drivers of elliptical processes Christian Schmieder
+08 2007 Time-varying contributions by the corporate bond
+and CDS markets to credit risk price discovery Niko Dötz
+09 2007 Banking consolidation and small business K. Marsch, C. Schmieder
+finance ­ empirical evidence for Germany K. Forster-van Aerssen
+10 2007 The quality of banking and regional growth Hasan, Koetter, Wedow
+11 2007 Welfare effects of financial integration Fecht, Grüner, Hartmann
+12 2007 The marketability of bank assets and managerial Falko Fecht
+rents: implications for financial stability Wolf Wagner
+32
+13 2007 Asset correlations and credit portfolio risk ­ K. Düllmann, M. Scheicher
+an empirical analysis C. Schmieder
+14 2007 Relationship lending ­ empirical evidence C. Memmel
+for Germany C. Schmieder, I. Stein
+15 2007 Creditor concentration: an empirical investigation S. Ongena, G.Tümer-Alkan
+N. von Westernhagen
+16 2007 Endogenous credit derivatives and bank behaviour Thilo Pausch
+17 2007 Profitability of Western European banking
+systems: panel evidence on structural and
+cyclical determinants Rainer Beckmann
+18 2007 Estimating probabilities of default with W. K. Härdle
+support vector machines R. A. Moro, D. Schäfer
+33
+Visiting researcher at the Deutsche Bundesbank
+The Deutsche Bundesbank in Frankfurt is looking for a visiting researcher. Among others
+under certain conditions visiting researchers have access to a wide range of data in the
+Bundesbank. They include micro data on firms and banks not available in the public.
+Visitors should prepare a research project during their stay at the Bundesbank. Candidates
+must hold a Ph D and be engaged in the field of either macroeconomics and monetary
+economics, financial markets or international economics. Proposed research projects
+should be from these fields. The visiting term will be from 3 to 6 months. Salary is
+commensurate with experience.
+Applicants are requested to send a CV, copies of recent papers, letters of reference and a
+proposal for a research project to:
+Deutsche Bundesbank
+Personalabteilung
+Wilhelm-Epstein-Str. 14
+60431 Frankfurt
+GERMANY
+

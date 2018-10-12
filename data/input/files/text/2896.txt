@@ -1,0 +1,1108 @@
+econstor
+Make Your Publications Visible.
+A Service of
+zbwLeibniz-Informationszentrum
+Wirtschaft
+Leibniz Information Centre
+for Economics
+Hebous, Shafik; Ruf, Martin; Weichenrieder, Alfons J.
+Working Paper
+The effects of taxation on the location decision of
+multinational firms: M&A vs. Greenfield investments
+CESifo working paper Public Finance, No. 3076
+Provided in Cooperation with:
+Ifo Institute ­ Leibniz Institute for Economic Research at the University of
+Munich
+Suggested Citation: Hebous, Shafik; Ruf, Martin; Weichenrieder, Alfons J. (2010) : The effects
+of taxation on the location decision of multinational firms: M&A vs. Greenfield investments,
+CESifo working paper Public Finance, No. 3076, Center for Economic Studies and Ifo Institute
+(CESifo), Munich
+This Version is available at:
+http://hdl.handle.net/10419/38940
+Standard-Nutzungsbedingungen:
+Die Dokumente auf EconStor dürfen zu eigenen wissenschaftlichen
+Zwecken und zum Privatgebrauch gespeichert und kopiert werden.
+Sie dürfen die Dokumente nicht für öffentliche oder kommerzielle
+Zwecke vervielfältigen, öffentlich ausstellen, öffentlich zugänglich
+machen, vertreiben oder anderweitig nutzen.
+Sofern die Verfasser die Dokumente unter Open-Content-Lizenzen
+(insbesondere CC-Lizenzen) zur Verfügung gestellt haben sollten,
+gelten abweichend von diesen Nutzungsbedingungen die in der dort
+genannten Lizenz gewährten Nutzungsrechte.
+Terms of use:
+Documents in EconStor may be saved and copied for your
+personal and scholarly purposes.
+You are not to copy documents for public or commercial
+purposes, to exhibit the documents publicly, to make them
+publicly available on the internet, or to distribute or otherwise
+use the documents in public.
+If the documents have been made available under an Open
+Content Licence (especially Creative Commons Licences), you
+may exercise further usage rights as specified in the indicated
+licence.
+www.econstor.eu
+The Effects of Taxation on the Location Decision
+of Multinational Firms:
+M&A vs. Greenfield Investments
+Shafik Hebous
+Martin Ruf
+Alfons Weichenrieder
+CESIFO WORKING PAPER NO. 3076
+CATEGORY 1: PUBLIC FINANCE
+JUNE 2010
+An electronic version of the paper may be downloaded
+· from the SSRN website: www.SSRN.com
+· from the RePEc website: www.RePEc.org
+· from the CESifo website:
+T
+www.CESifo-group.org/wp
+T
+CESifo Working Paper No. 3076
+The Effects of Taxation on the Location Decision
+of Multinational Firms:
+M&A vs. Greenfield Investments
+Abstract
+In this study, we estimate the impacts of differences in international tax rates on the
+probability of choosing a location for an affiliate of a multinational firm. In particular, we
+distinguish between the tax sensitivity of Greenfield and M&A investments. Based on a novel
+firm-level dataset on German outbound FDI, we find evidence that location decisions of
+M&A investments are less sensitive to differences in tax rates than location decisions of
+Greenfield investments. According to our logit estimates, and after controlling for firm and
+country-specific characteristics, the tax elasticity for Greenfield investments is negative and in
+absolute value significantly larger than that associated with M&A investments. This finding is
+consistent with a (partial) capitalisation of taxes in the acquisition price when the FDI project
+takes the form of M&A.
+JEL-Code: H25, H73, F23.
+Keywords: FDI, corporate taxation, location, M&A, Greenfield.
+Shafik Hebous
+Faculty of Economics and Business Admin.
+Goethe University Frankfurt / Germany
+hebous@wiwi.uni-frankfurt.de
+Martin Ruf
+University of Mannheim
+Germany
+martin.ruf@bwl.uni-mannheim.de
+Alfons Weichenrieder
+Goethe University Frankfurt / Germany
+a.weichenrieder@em.uni-frankfurt.de
+May 27, 2010
+We are grateful to Heinz Herrmann, Beatrix Stejskal-Passler, Alexander Lipponer and the
+research centre of Deutsche Bundesbank for the kind support. We thank Michael P. Dev-
+ereux, Carsten Eckel, Clemens Fuest, seminar participants at the Oxford Centre for Business
+Taxation, Max Planck Institute for Intellectual Property, Competition and Tax Law, and two
+anonymous referees for helpful suggestions and comments. We are indebted to the ZEW
+Mannheim especially Christoph Spengel and Christina Elschner for providing us data on the
+effective tax rates. The usual disclaimer applies.
+1 Introduction
+The role of taxation in explaining international allocation of investment has been
+a subject of immense theoretical and empirical scrutiny. Undoubtedly, several
+factors a¤ect the location decision of a multinational ...rm. The tax system
+of the potential host economy is one of these factors positioning this issue on
+the intersection of several branches of economies: public ...nance, international
+economics and international business.
+Earlier empirical studies based on aggregate ...gures on foreign direct in-
+vestment (FDI) suggest that high taxes negatively impact the 
+ow of FDI; de
+Mooij and Ederveen (2003) and Hines (1999). Recent empirical works exploit
+data at the ...rm level to estimate the e¤ects of taxes on the decision where to
+allocate the a¢ liate of the multinational ...rm. By relying on microeconomic
+data, these studies can provide information on the impact of taxes on behav-
+ioural responses of multinational ...rms to international di¤erences in taxation
+and adequately account for di¤erences across ...rms and industries. However,
+most existing empirical studies treat FDI modes as homogenous projects miss-
+ing one crucial piece of information, namely, the distinction between Mergers
+and Acquisitions (M&A) and Green...eld investment projects (new ventures).1
+In this study, we progress to account for the mode of investment in estimating
+the e¤ect of di¤erences in international tax rates on the probability of choosing a
+location for an a¢ liate of a multinational ...rm. Speci...cally, there are reasons to
+expect that the location decision of Green...eld investments is more sensitive to
+di¤erences in international tax rates than the location decision of M&A projects.
+First, if the potential M&A project is located in a high tax country, a part of
+taxes might be capitalised reducing the acquisition price. This capitalisation
+e¤ect is less pronounced in the case of a Green...eld investment and suggests that
+M&A investments should react less to high taxes than Green...eld investments
+do. Second, M&A decisions depend on the availability of appropriate targets.
+In principle, the set of potential locations for establishing a new plant might
+be larger than that of potential locations of target ...rms to be acquired. This
+may make the multinational ...rm less constrained in optimising over the location
+decision of the new venture.
+In our econometric analysis, we employ detailed ...rm-level data on German
+outbound FDI covering about 3600 ...rms in the period from 2005 to 2007. The
+valuable feature of this dataset is that since 2005 the German investor has to
+report whether a new FDI project is a Green...eld or M&A project. This enables
+us to directly identify the mode of investment at the entry. In our sample, 34
+percent of ...rms enter the host economy as a Green...eld project. The US is the
+largest receiver of new FDI entries with a share of about 11 percent of total
+German new outbound FDI projects.
+Our main ...ndings are summarised as follows. First, if we do not distin-
+guish between the modes of entry, high tax rates reduce the probability of the
+location to be chosen by a German FDI investor for its new a¢ liate. This ...nd-
+1 See Devereux (2007) for a survey.
+2
+ing is in line with results by Devereux and Gri¢ th (1998) on the location of
+US multinationals abroad. Our second ...nding however reveals that Green...eld
+investments are signi...cantly more elastic to international taxation than M&A
+investments. According to our logit estimates and after controlling for ...rm and
+country-speci...c characteristics, an increase in the statutory corporate income
+tax rate of 10 percent reduces the probability of choosing a country to host a
+Green...eld investment by about 6.4 percent. The tax elasticity for M&A in-
+vestments however, although negative, is signi...cantly smaller and only about
+3.6 percent. Our study is the ...rst to document this empirical ...nding using
+outbound microeconomic data. The notable exception linked to our study is
+Swenson (2001) who examines the composition of FDI within the US and re-
+ports that Green...eld activities are more deterred than M&A activities from
+investing in high tax states.2 The idea that the impact of taxation may depend
+on the modes of FDI traces back to Auerbach and Hassett (1991) who argue
+that tax reforms can alter the incentive of investing in acquisition of old capital
+versus investing in new capital. Becker and Fuest (2008) present a theoretical
+model of tax competition in which an increase in the tax rate raises the number
+of M&A investments and lowers the number of Green...eld investments. Huizinga
+and Voget (2009) examine the impacts of double taxation on the organisational
+structure following cross-border M&A activities. They ...nd that countries with
+high levels of international double taxation are less inclined to host the new
+parent ...rm after the merger or acquisition has occurred.3
+Recent contributions in the literature on the theory of international trade
+predict that ...rm and project-speci...c characteristics play the major role in de-
+termining the mode of entry. Nocke and Yeaple (2008) and Ra¤ et al. (2009)
+show that more productive ...rms tend to enter the foreign market as a Green...eld
+rather than M&A investment. In line with this result, Andersson and Svensson
+(1994) ...nd that high technological skills and research and development intensity
+favour Green...eld operations. Neary (2007) introduces an oligopolistic market
+structure in a general equilibrium framework and shows that ...rms acquire their
+high cost revivals. In Nocke and Yeaple (2007), ...rms involve in M&A activities
+to complement their abilities.
+From a policy perspective, our ...nding that high tax countries are less attrac-
+tive particularly for Green...eld investments suggests that high tax countries miss
+the chance of collecting additional tax revenues mainly because new Green...eld
+projects are allocated to low tax countries. Furthermore, the di¤erent impacts
+of high tax rates on the composition of FDI is also of economic interest as Green-
+...eld investments and M&A can have di¤erent implications on the host economy.
+M&A activities involve a change in the pattern of ownership rights but to a less
+extent involve international reallocation of capital or an increase in production
+capacity or labour demand. Furthermore, the pattern of productivity spillovers
+from multinational a¢ liates to domestic ...rms through knowledge spillovers and
+changing the competition structure of the host economy may di¤er between
+2 Swenson (2001) ...nds that high taxes have a positive but insigni...cant e¤ect on M&As.
+3 The inuence of taxes on the ownership of foreign a¢ liates has recently been emphasized
+by Desai and Hines (2003) and Becker and Fuest (2010).
+3
+M&A and Green...eld projects; Balsvik and Haller (2007).
+This study proceeds as follows. In section two, we present our empirical
+approach and describe the German ...rm-level FDI dataset. We report the main
+results in section three, and present a robustness analysis in section four. Finally,
+we conclude in section ...ve.
+2 Empirical methodology and data
+2.1 Investigation approach
+Our econometrical analysis is cross-sectional focusing on ...rms at the entry and
+is based on a rich literature on FDI location choice. The ...rm selects the location
+associated with the highest expected pro...t.4 Pro...t functions ( i
+) associated
+with each location i = 1; 2; : : : ; n are:
+i
+= (1 i
+)[Ri
+Ci
+] Ij
+i
+( i
+), (1)
+where j denotes either a Green...eld or a M&A investment. The variable i
+is the
+corporate tax rate in location i. Ri
+is revenue and Ci
+is the cost function which
+can depend on several factors such as: output, cost of labour, agglomeration
+and other external economies e¤ects etc. The term Ij
+i
+( i
+) captures the initial
+cost of the FDI in the case of Green...eld projects and the purchase price in the
+case of M&A projects. The optimal levels of output can be derived by solving
+the system of ...rst order conditions. Optimal pro...ts ( i
+) can be computed by
+substituting the optimal levels of output in the corresponding pro...t functions.
+Ultimately, however, our focus here is on the e¤ects of taxation on location
+decisions of M&A versus Green...eld investments.
+High taxes in the host economy lower future cash 
+ows of the cross-border
+investment in the case of M&A as well as the case of Green...eld projects. Hence,
+high taxes deter both types of FDI. However, in the case of a M&A project the
+acquisition price is a function of the tax rate. The value of a ...rm is the present
+value of the cash payo¤s that the claim holders of the ...rm receive; Healy and
+Palepu (2007). Corporate taxation reduces the value of a ...rm; Modigliani and
+Miller (1963). Consequently, a high tax rate may reduce the ...nal price paid by
+the buyer for a potential ...rm. Huizinga, Voget, and Wagner (2008) provide em-
+pirical evidence on a capitalisation e¤ect of taxes in takeover premiums. Hence,
+if part of the tax is capitalised in the purchase price then @IM&A
+i
+( i)
+@ i
+< 0. This
+capitalisation e¤ect however is expected to be smaller in the case of a Green-
+...eld investment since many mobile capital goods might be purchased at world
+prices. Thus, the capitalisation of taxes in the acquisition price suggests that
+the impact of taxes on the location decision is mitigated in the case of M&A
+investments as compared to the case of Green...eld investments.
+Empirically, we observe the binary latent variable:
+4 Since we observe a FDI decision, we focus on the decision where to invest rather than the
+decision whether to stay home or go abroad. See Marksuen (2002) for a general equilibrium
+treatment of these decisions.
+4
+yk;l
+=
+1 if k;l
+> k;i
+, i = 1; 2; : : : ; n and l 6= i
+0 otherwise
+(2)
+where the subscript k denotes ...rms. The pro...tability of location l depends
+inter alia on the statutory corporate income tax rate in location l ( l
+):
+k;l
+= + l
++ (M&Ak l
+)+ xk;l
++ k;l
+(3)
+where is an intercept, and are the coe¢ cients of interest, is the
+vector of coe¢ cients corresponding to the controls and k;l
+is a residual. To
+investigate whether or not the two modes of investment react di¤erently to
+taxes, we include the interaction term M &A* , where M &A is a dummy that
+takes the value 1 if the investment takes the form of M&A and zero if the
+investment is a Green...eld project. The multiplication of the M&A dummy
+and the tax rate is required to compute interaction e¤ects.5 The vector xk;l
+is
+a vector of alternative-speci...c controls that includes country-speci...c controls,
+i.e. controls that vary across countries but not ...rms, as well as ...rm-country
+controls that vary across countries but are ...rm speci...c. In some speci...cations,
+we also take into account industry-speci...c e¤ects.
+The probability of ...rm k choosing location l is given by:
+Pk;l
+=
+e k;l
+P
+n
+i=1
+e k;i
+(4)
+This logit model is estimated by maximum likelihood. The tax variable l
+is
+central in our analysis and its impact is expected to be negative and larger in
+absolute value for Green...eld than M&A investments. The identi...cation is based
+on cross-sectional variation in tax rates. Data on taxes are taken from Mintz
+and Weichenrieder (forthcoming). Table (1) displays the statutory corporate
+income tax rates for the countries in our sample. In 2006 for example, it exhibits
+a minimum rate of 12.5 percent in Ireland and a maximum rate of 40.7 percent
+in Japan.
+The vector xk;l
+includes several variables that are related to the probability
+of locating an a¢ liate in a host economy. (1) The previous presence of a ...rm
+in location l is captured by the number of a¢ liates already operating in the
+host economy (no: affiliates). The presence of a ...rm in an economy may
+increase the probability of selecting that economy again. (2) The total ...xed
+and intangible assets invested by the parent ...rm in location l (total assets)
+accounts for the size of the prior investment of the parent ...rm in location l.
+(3) The level of development of the host economy is captured by the GDP per
+capita (gdp capita). (4) The market size of the host economy is captured by
+5 However, the dummy M&A per se without interaction is not included in the regression
+because it does not vary across the alternatives available for a ...rm. If for example the German
+parent acquires a ...rm in a country then the dummy M&A takes the value 1 and also the
+variable y takes the value 1 for this country-...rm observation. However, the M&A dummy
+takes the value 1 also for all other country-year observations corresponding to this location
+choice (for which the variable y takes the value zero).
+5
+Table 1: Statutory corporate income tax rates, percent
+Country 2005 2006 2007 Country 2005 2006 2007
+Argentina 35 35 35 Malaysia 28 28 27
+Australia 30 30 30 Malta 35 35 35
+Austria 25 25 25 Mexico 30 29 28
+Belgium 34 34 34 Morocco 35 35 35
+Brazil 34 34 34 Netherlands 31.5 29.6 25.5
+Bulgaria 15 15 10 New Zealand 33 33 33
+Canada 34.4 34.2 34.1 Nigeria 30 30 30
+Chile 17 17 17 Norway 28 28 28
+China 33 33 33 Philippines 32 35 35
+Colombia 35 35 34 Poland 19 19 19
+Croatia 20.3 20.3 20 Portugal 27.5 27.5 25
+Czech 26 24 24 Romania 16 16 16
+Denmark 28 28 28 Russia 24 24 24
+Egypt 20 20 20 Saudi Arabia na 20 20
+Finland 26 26 26 Singapore 20 20 20
+France 33.8 33.3 33.3 Slovakia 19 19 19
+Greece 32 29 25 Slovenia 25 25 23
+Hong Kong 17.5 17.5 17.5 South Africa 37.8 36.9 36.9
+Hungary 16 16 16 Spain 35 35 32.5
+India 36.6 33.7 34 Sweden 28 28 28
+Indonesia 30 30 30 Switzerland 21.3 21.3 21.3
+Ireland 12.5 12.5 12.5 Taiwan 25 25 25
+Italy 37.3 37.3 37.3 Thailand 30 30 30
+Japan 40.7 40.7 40.7 Turkey 30 30 20
+Kenia 30 30 30 UK 30 30 30
+Korea 27.5 27.5 27.4 Ukraine 25 25 25
+Lithuania 15 15 15 USA 39 39 38.6
+Luxembourg 30.4 29.6 29.6 Venezuela 34 34 34
+its population (population). The level of development and market size both
+are expected to have positive e¤ects on the probability of entering. (5) The
+local labour market condition is captured by the labour freedom component
+of the Heritage index of economic freedom (labour freedom). This proxy is
+computed based on four factors: minimum wages, rigidity of hours, di¢ culty
+of ...ring redundant employees and cost of ...ring redundant employees.6 The
+labour freedom index is expected to be positively related to the probability of
+choosing a location l; the higher the 
+exibility of the labour market the higher
+the probability of entering the economy.7 (6) The distance between Germany
+6 See Miller and Holmes (2009) for detailed information on the Heritage index.
+7 Some studies incorporate the average wage as a proxy for the labour market situation.
+However, in most studies this variable turned out to be insigni...cant as for example in Devereux
+and Gri¢ th (1998) and Head and Mayer (2004). Furthermore, unfortunately, data on average
+6
+and the location of the FDI project (distance). The inclusion of this variable
+is in the tradition of the gravity literature. It captuers transport (trade) costs
+and may also capture investors'information on market conditions in the host
+economy. Distance is typically associated with a negative estimated coe¢ cient.
+(7) The openness of the host economy to international trade is captured by
+the ratio (importsl
++ exportsl
+)/gdpl
+(openness). This proxy may capture two
+opposite aspects. For example, the tari¤-jumping argument suggests that the
+probability of entering a relatively closed economy is rather high in order to
+get access to the market. At the same time, economies that are more open
+to international trade may be more open to international investments. (8) The
+quality of institution is captured by a corruption index (corruption). We employ
+the Corruption Perception Index of Transparency International. We rede...ne
+it such that a high value of this index indicates a high level of corruption.
+Further, we include industry dummies in some speci...cations. These dummies
+account for di¤erence across industries and potential industry-speci...c economies
+of scales considerations. All level variables are expressed in terms of natural
+logarithm. In the robustness analysis, we examine the e¤ects of the e¤ective
+tax rate and further country-speci...c characteristics such as the R&D intensity
+and the ratio of market capitalisation of listed ...rms. The reader is referred to
+the data appendix for a detailed description and the sources of the variables
+that are used in our study.
+2.2 Firm data and descriptive statistics
+The German foreign trade and payments regulation obliges all German ...rms
+and individuals investing abroad and satisfying the reporting requirements to
+report key information such as balance sheet items as well as economic sectors of
+the parent ...rm and its a¢ liates. In contrast to several ...rm-level data sources,
+a valuable feature of this dataset is the inclusion of the entire population of
+FDI ...rms rather than being exclusive to listed or "big"...rms. Since 2005, Ger-
+man investors are required to report whether a new investment is a Green...eld
+or M&A project.8 This is a novel piece of information that enables us to di-
+rectly identify the mode of entry and conduct our empirical investigation. We
+exclude from our sample banks, ...nancial and non-pro...t institutions since such
+institutions face special tax treatments.
+The data cover the years 2005, 2006 and 2007. Figure (1) displays the
+number of new entries in each year. In total, 2321 new cross-border M&A
+projects and 1306 Green...eld investments are reported. In 2005, Green...eld
+investments constitute about 35 percent of total new entries. A similar pattern
+occurs in 2006 and 2007 with a share of 36 and 38 percent respectively.
+wages are not available for many countries in our sample.
+8 The investor has to check in the reporting form one of four possible options of outbound
+FDI: (1) new entry Green...eld project, (2) new entry M&A project, (3) already existing ...rm
+(the same ...rm has been reported in the last year), or (4) ...rst time satisfying the reporting
+requirements (the ...rm existed last year but has not been reported). The ...rst two options are
+the new entrants. Further details on the reporting requirements and German FDI dataset can
+be found in Lipponer (2008).
+7
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+2005 2006 2007
+M&A Greenfield
+Figure 1: Number of new investments
+Table (2) shows that 63 percent of new entries take place in Europe. The
+geography of the new entrants reveals that the USA receives the largest share of
+the number of new entries (10.6 percent). Although 67.1 percent of entries in the
+USA are M&A investments, the USA has the second largest share of worldwide
+Green...eld entries (11.1 percent). China is the largest receiver of Green...eld
+investments with a share of about 15.9 percent of the total German Green...eld
+entries worldwide. Furthermore, table (2) shows the regional pattern of FDI
+destinations. Several countries that share a common border with Germany such
+as Austria, Switzerland, the Netherlands and Poland are among the top 10
+recipients of new FDI projects. This indicates to the widely recognised border
+e¤ect and speaks for the inclusion of a variable measuring the distance between
+Germany and the ...nal destination of the FDI project.
+In terms of the size of the new investment, ...gure (2) shows that the average
+...xed and intangible assets of a FDI project varies across the modes of entry
+and locations. For example, in 2007 the average asset ratio of a M&A project
+allocated out of Europe amounts to over 60 million Euro whereas this average
+for a M&A project within Europe is about 23 million Euro.
+Table (3) provides the means, standard deviations, 5th percentiles, and 95th
+percentiles of the variables that are used in our study according to both types
+of FDI. The ...gures are similar across both modes of investments. We report
+the coe¢ cients of correlation between the variables in table (4). The statutory
+8
+Table 2: German outbound new FDI entries, 2005-2007 (percent)
+Share in MA share MA share Green...eld share
+total new in new in worldwide in worldwide
+entry entrants MA entrants Green...eld entrants
+Europe 63 73 66.9 54.4
+Out of Europe 37 61.4 33.1 45.6
+Austria 5.4 71.0 5.6 5.0
+Belgium 2.5 84.0 3.1 1.3
+China 7.9 36.8 4.2 15.9
+France 6.4 83.3 7.8 3.4
+Italy 3.6 83.0 4.3 1.9
+Poland 3.5 59.2 2.9 4.5
+Russia 2.3 38.2 1.3 4.5
+Switzerland 4.2 77.6 4.7 3.0
+The Netherlands 4.8 76.5 5.4 3.6
+UK 8.7 86.1 10.9 3.8
+USA 10.6 67.1 10.4 11.1
+Note: The reported ...gures are shares in the total number of entries. The
+table includes only the top 10 important host economies.
+0
+10
+20
+30
+40
+50
+60
+70
+2005 2006 2007
+in Million
+non-Europe Greenfield non-Europe M&A Europe Greenfield Europe M&A
+Figure 2: Average ...xed and intangible assets
+9
+tax rate is highly positively correlated with the e¤ective average tax rate (0.94).
+The correlation between the corruption level and the statutory tax rate is very
+low.
+Table 3: Descriptive statistics
+mean sd. 5th Percentile 95th percentile
+statutory tax rate 0.27 0.06 0.16 0.37
+no. a¢ liates 0.16 0.42 0 1.09
+total assets 1.31 3.21 0 9.59
+gdp capita 9.85 0.76 8.31 10.76
+population 16.91 1.62 14.51 19.51
+openess 1.05 0.82 0.3 3.02
+distance 7.86 1.19 6.14 9.41
+labour freedom 0.65 0.16 0.4 0.95
+corruption -5.77 2.37 -2.40 -9.39
+market capitalisation 0.96 0.81 0.27 2.10
+RD / GDP 1.31 0.92 0.11 3.43
+market potential 28.86 0.64 27.40 30.13
+e¤ective tax rate 0.27 0.08 0.16 0.42
+Note: The reader is referred to the data appendix for
+detailed description of the variables.
+10
+Table 4: Correlation matrix
+stat. tax no. a¤ tot. assets gdp capi pop openess dista. lab. free. corrup. mark. capit. RD/ GDP mark. poten. e¤e. tax
+statutory tax 1
+no. a¢ liates 0.055 1
+total assets 0.052 0.888 1
+gdp capita -0.065 0.107 0.092 1
+population 0.405 0.061 0.075 -0.580 1
+openess -0.402 -0.032 -0.036 0.318 -0.526 1
+distance 0.283 -0.098 -0.098 -0.390 0.446 -0.087 1
+labour freedom -0.080 0.064 0.057 0.321 -0.012 0.257 0.133 1
+corruption 0.002 -0.093 -0.079 -0.758 0.451 -0.281 0.229 -0.478 1
+market capit. -0.008 0.023 0.020 0.342 -0.080 0.568 0.202 0.291 0.384 1
+RD/ GDP 0.243 0.114 0.113 0.590 -0.120 -0.015 -0.292 0.280 0.710 0.195 1
+market potential 0.108 0.083 0.086 0.158 0.216 0.043 -0.050 0.089 0.044 0.225 0.174 1
+e¤ective tax 0.925 0.108 0.109 0.443 0.539 -0.464 0.555 0.193 0.353 0.466 0.462 0.619 1
+11
+3 Empirical results
+Table (5) presents our main estimation results. The signs of the estimated
+coe¢ cients on country-speci...c variables provide the directions of the e¤ects of
+these variables on the odds ratio of the probability of choosing a location l. In
+columns (1) to (3) we constrain the e¤ects of taxation to be the same across
+modes of FDI. The di¤erence between column (1) and (2) is the inclusion of
+year dummies in column (2). To capture potential industry-speci...c location
+preferences, we re-estimate the benchmark model but include industry-speci...c
+dummies. The results are reported in column (3). As expected, the coe¢ cient
+on the tax rate is negative and signi...cant in all speci...cations. This ...nding is
+in line with studies that consider a similar exercise on the location decision of
+a¢ liates abroad; Buettner and Ruf (2007) and Egger et al. (2009). Also, this
+...nding is in line with results obtained from aggregate FDI 
+ow ...gures; a recent
+example is Djankov et al. (2009).
+However, such speci...cations ignore the heterogeneous modes of investment.
+In the remaining speci...cations in table (5), we allow taxation to have di¤erent
+impacts depending on the mode of investment. In columns (4) to (6) in ta-
+ble (5), the estimated coe¢ cients on the tax rate indicate a negative response
+of Green...eld investments (the reference group) to high taxes. The coe¢ cients
+in non-linear models are not equivalent to elasticities. Marginal e¤ects in non-
+linear models are conditional on all independent variables included on the model.
+We compute the corresponding elasticities and report the results in table (6).
+The estimated elasticities are very similar across speci...cations within a sam-
+ple. Therefore, we report the results for one speci...cation per sample, namely
+elasticities corresponding to the speci...cation including year-dummies but not
+industry-dummies. For example, as indicated in column (3) of table (6), we ...nd
+that an increase in the statutory corporate income tax rate of 10 percent (for
+instance from 35% to 38.5%) reduces the probability of choosing a country to
+host a Green...eld investment by 6.4 percent.
+Yet, the elasticity of the interaction term M &A reported in column (2) of
+table (6) is positive and signi...cant (0.30), but cannot be necessarily interpreted
+as a clear indication that M&A investments react less sensitively to international
+di¤erences in taxation than Green...eld investments do. As stressed in Ai and
+Norton (2003), the interpretation of the estimated elasticity of the interaction
+term in non-linear models is not straightforward. To disentangle the estimated
+tax impact on M&A investments, the full interaction e¤ect should be computed.
+The full interaction e¤ect is a function of the cross-partial derivative of the
+expected value of the dependent variable. Hence, its statistical signi...cance
+depends on the signi...cance of the whole cross-derivative, and cannot be tested
+with the usual t-test on the interaction term.
+To be sure, we compute the full interaction e¤ect as a function of the pre-
+dicted probability and the corresponding z-statistics. Figure (3) plots the re-
+sults. The interaction e¤ects are positive and signi...cant for almost all observa-
+tions con...rming the hypothesis that Green...eld investments react more strongly
+to high tax rates than M&A investments. The interaction e¤ects are insigni...-
+12
+cant for few observations in the left group of ...rms whose predicted probability
+is rather small (on the left of the lower panel of ...gure 3). In line with the
+estimated positive interaction e¤ects, column (4) of table (6) shows that the
+estimated tax elasticity of M&A investments is 0.36; i.e. only about half of the
+tax elasticity of Green...eld investments (0.64 in column 3).
+Additionally, in the remaining speci...cations in table (5) we investigate whether
+or not the control variables may have di¤erent in
+uences on the location prob-
+ability depending on the mode of entry. We concentrate the analysis on either
+the sample of Green...eld investments (columns 7 to 9) or the sample of M&A
+projects (columns 10 to 12). The corresponding elasticities are reported in table
+(6) in columns (3) and (4), respectively. According to the results, an increase in
+the corporate income tax rate of a 10 percent reduces the probability of choosing
+a country to host a Green...eld investment by about 6.4 percent. For the M&A
+sample, the coe¢ cient on the tax rate although signi...cant is rather small. For
+instance, an increase in the statutory corporate income tax rate of 10 percent
+reduces the probability of a country receiving a M&A investment by 3.6 per-
+cent. The negative M&A tax elasticity is consistent with recent studies that use
+aggregate ...gures on M&A; Di Giovanni (2005) and Coeurdacier et al. (2009).
+Thus, our results suggest that M&A investments are less discouraged to locate
+their a¢ liates in high tax economies than Green...eld investments do.
+Concerning the remaining control variables, based on the results reported in
+table (5) and the elasticities reported in table (6), the presence of a¢ liated ...rms
+and their previous year total ...xed investment in assets in a location increase
+the probability of entering this location again in all speci...cations. Additionally,
+the size (population) and the level of development of the host economy (gdp per
+capita) both have positive signi...cant e¤ects on the odds ratio of the location
+probability. Distance has a negative e¤ect as expected.9 The openness of the
+economy to international trade is a positive determinant of the location prob-
+ability of FDI in the whole sample. However, the sub-sampling indicates that
+the openness variable seems to play particularly a signi...cant role in the location
+decision of Green...eld investments. Although the labour freedom index has the
+expected positive sign in all speci...cations it is insigni...cant.10 Further, as in
+Javorcik and Wei (2009) we ...nd that a decrease in the level of corruption, as
+captured by the Transparency International index, increases the probability of
+selecting a location for an a¢ liate. However, this index loses its signi...cance in
+the Green...eld sample (columns 7 to 9). This may indicate that di¤erent modes
+of investment may accept di¤erent conditions in the host economy.
+9 Hijzen et al. (2008) examine in details the role of trade costs for M&A activities.
+10 Dewit et al. (2009) ...nd based on aggregate ...gures that the level of employment protection
+deters inward FDI ows.
+13
+Table 5: Estimation results: taxation and the location decision
+Full sample Full sample Green...eld Sample M&A Sample
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12)
+-1.56a -1.75a -1.68a -2.86a -3.08a -2.92a -2.34a -2.33a -2.04a -1.03c -1.34b -1.19b
+(.46) (.47) (.48) (.48) (.48) (.49) (.85) (.86) (.87) (.57) (.58) (.58)
+M &A 2.06a 2.07a 1.98a
+(.14) (.14) (.14)
+no: affiliates 0.41a 0.41a 0.36a 0.42a 0.42a 0.37a 0.22a 0.22a 0.24a 0.64a 0.64a 0.51a
+(.05) (.05) (.05) (.05) (.05) (.05) (.07) (.07) (.07) (.08) (.08) (.08)
+total assets 0.27a 0.27a 0.30a 0.27a 0.27a 0.30c 0.29a 0.29a 0.32a 0.25a 0.25a 0.29a
+(.00) (.00) (.00) (.00) (.00) (.00) (.01) (.01) (.01) (.01) (.01) (.01)
+gdp capita 0.63a 0.65a 0.64a 0.64a 0.66a 0.65a 0.74a 0.75a 0.71a 0.60a 0.63a 0.62a
+(.05) (.05) (.05) (.05) (.05) (.05) (.08) (.08) (.09) (.06) (.06) (.06)
+population 0.70a 0.71a 0.71a 0.70a 0.72a 0.71a 0.84a 0.84a 0.84a 0.61a 0.62a 0.61a
+(.02) (.03) (.02) (.03) (.03) (.03) (.05) (.05) (.05) (.03) (.03) (.03)
+openess 0.254a 0.258a 0.26a 0.25a 0.26a 0.26a 0.51a 0.51a 0.54a 0.02 0.03 0.02
+(.03) (.03) (.03) (.03) (.03) (.03) (.05) (.05) (.05) (.05) (.05) (.05)
+distance -0.38a -0.37a -0.35a -0.34a -0.37a -0.34a -0.29a -0.29a -0.26a -0.43a -0.42a -0.40a
+(.02) (.02) (.02) (.02) (.02) (.02) (.03) (.03) (.03) (.03) (.03) (.03)
+labour freedom 0.08 0.03 0.02 0.09 0.03 0.03 0.17 0.20 0.31 0.03 0.08 0.07
+(.17) (.15) (.17) (.17) (.17) (.17) (.29) (.29) (.30) (.21) (.20) (.21)
+corruption -0.05a -0.05a -0.05a -0.05a -0.05a -0.05a 0.01 0.01 0.01 -0.07a -0.08a -0.07a
+(.01) (.01) (.01) (.01) (.01) (.01) (.02) (.02) (.02) (.01) (.01) (.01)
+Industry dummies No No Yes No No Yes No No Yes No No Yes
+Year dummies No Yes Yes No Yes Yes No Yes Yes No Yes Yes
+No. ...rms 3627 3627 3627 3627 3627 3627 1306 1306 1306 2321 2321 2321
+No. observation 94302 94302 94302 94302 94302 94302 43328 43328 43328 50974 5097 50974
+Log likelihood -10269.8 -10264.8 -9935.1 -10145.2 -10139.1 -9826.9 -3997.7 -3996.1 -3882.5 -6050.7 -6039.2 -5740.7
+Note: a, b, and c indicate signi...cance at the level of 1, 5 and 10% respectively. Robust standard errors are reported between parentheses. All
+level variables are expressed in natural logarithm. The latent variable corresponding to the logit model is yl
+= 1 for the recipient country
+and yl
+= 0 otherwise. is the statutory corporate income tax rate. M &A is a dummy that takes the value 1 if the investment takes
+the form of M&A and zero if the investment is a Green...eld project. The reader is referred to the data appendix for detailed description of the
+variables.
+14
+Table 6: Estimated elasticities
+Elasticity Full Full Green...eld M&A
+sample sample Sample Sample
+-0.47a -0.83a -0.64a -0.36b
+(.12) (.13) (.32) (.15)
+M &A 0.30a
+(.02)
+no: affiliates 0.06a 0.06a 0.03b 0.10a
+(.00) (.00) (.01) (.01)
+total assets 0.35a 0.36a 0.39a 0.32a
+(.01) (.01) (.01) (.01)
+gdp capita 6.41a 6.49a 7.41a 6.14a
+(.50) (.50) (.86) (.65)
+population 11.95a 12.05a 14.24a 10.48a
+(.51) (.51) (.97) (.60)
+openness 0.26a 0.27a 0.54a 0.03
+(.03) (.03) (.06) (.05)
+distance -2.94a -2.89a -2.30a -3.32a
+(.17) (.17) (.26) (.23)
+labour freedom 0.02 0.02 0.13 0.051
+(.10) (.10) (.18) (.13)
+corruption -0.29a -0.28a -0.10 -0.45a
+(.08) (.08) (.13) (.10)
+Note: Note: a, b, and c indicate signi...cance at the level of 1, 5 and 10%
+respectively. Robust standard errors are reported between parentheses.
+The reported elasticities correspond to the models in columns
+(2), (5), (8) and (11) in table (5).
+15
+Figure 3: Interaction e¤ect as a function of predicted probability
+16
+4 Robustness analysis
+In this section, we extend our analysis to consider various potential issues in
+connection to the robustness of the main results. For example, high income
+economies may contain more attractive targets for acquisition than lower in-
+come economies. To address this issue, we split the sample into OECD and
+non-OECD countries, and examine the e¤ects of the corporate tax rate in both
+sub-samples. Columns (1) and (2) of table (7) present the results. The esti-
+mated coe¢ cients on the tax rate in both sub-samples are as expected negative
+while the coe¢ cients on the interaction term M &A are positive. This ...nding
+con...rms our main results presented in the previous section. The lower sensitiv-
+ity of the location decision of M&A investments to di¤erences in the tax rate
+is robust to the distinction between OECD and non-OECD countries. The es-
+timated coe¢ cient on corruption in the non-OECD sample is negative and its
+magnitude becomes larger in comparison to the results obtained from the full
+sample (table 5). This indicates that a high level of corruption, particularly in
+non-OECD host economies, reduces the likelihood of locating a new a¢ liate.
+One additional question is in relation to the size of the investment. Is the
+e¤ect of the tax rate on the decision to locate a small investment di¤erent from
+the e¤ect on the decision to locate a large investment? Based on the median of
+total ...xed and intangible assets of the new foreign investment, we distinguish
+between large and small a¢ liates. Columns (3) and (4) of table (7) display the
+estimation results obtained from both sub-samples. The results do not suggest
+systematic di¤erences between the responses of the location choice of large and
+small a¢ liates to corporate taxation.
+As one could argue that large plant expansion is of a similar margin of in-
+vestment as a Green...eld project, it is also of interest to account for potential
+e¤ects of corporate taxation on the decision on plant expansion. We exploit in-
+formation on the balance sheets of German a¢ liates abroad in order to broaden
+the de...nition of Green...eld investments in our analysis. Particularly, in addi-
+tion to new Green...eld entrants, we consider a plant expansion measured as an
+increase in the total balance sheet of an already existing FDI a¢ liate of more
+than 50 percent as a Green...eld investment. The results based upon this broad
+de...nition of Green...eld investments are reported in column (5). The added
+Green...eld projects to the sample do not alter the tax e¤ect.
+In columns (6) to (9) of table (7), we control for further country charac-
+teristics. We include in column (6) the ratio of market capitalisation of listed
+companies to GDP to capture available potential targets for acquisition. Re-
+lated to the issue of available targets, R&D considerations may trigger M&A
+activities. If high tax economies are those economies associated with high ratios
+of R&D expenditure to GDP, then the e¤ect of the tax rate may to some extent
+capture R&D opportunities. We address such a possibility by adding the R&D
+intensity in the host economy to the set of controls. The results reported in
+column (7) show that the tax e¤ect is robust to the inclusion of R&D intensity.
+In addition, one aspect that might derive the location decision of multinational
+...rms is market opportunities not only in the host economy but also in the region.
+17
+We construct a proxy for the regional market potential as the sum of the GDP
+of the countries that are located in the same geographical region. We de...ne
+geographical regions based on the United Nations statistical classi...cation. This
+market potential proxy is estimated to have a positive sign in column (8), but
+losses its signi...cance when we also include the market capitalisation measure
+and the R&D intensity (column 9).
+While various studies ...nd that the statutory corporate income tax rate has
+a high signi...cant predictive power for the location decision, as for example in
+Buettner and Ruf (2007), for further insight we examine also the impact of the
+e¤ective tax rate on the location decision. Unfortunately, data on the e¤ective
+tax rate are available only for 32 countries (mainly OECD countries). According
+to our ...ndings in column (10), the impacts of taxation on the location decision
+of FDI ...rms are very similar for both tax rate measures.
+Hence, the results of the various speci...cations presented in this section are
+reassuring that the e¤ect of corporate taxation on the location decision is sig-
+ni...cantly higher for Green...eld investments than for M&A investments.
+5 Conclusion
+The empirical ...ndings reported here contribute to our understanding of the
+role of taxation in determining the investment location decision by setting out
+reasons and providing empirical evidence why taxes matter. While most exist-
+ing studies treat FDI as homogenous projects, our results distinguish between
+the compositions of FDI: M&A versus Green...eld investments. We ...nd that an
+increase in the statutory corporate income tax rate of 10 percent reduces the
+probability of choosing a country to host a Green...eld investment by about 6.4
+percent. M&A investments however are less sensitive to di¤erences in interna-
+tional tax rates as indicated by a tax elasticity of -3.6 percent. This is consistent
+with a (partial) capitalisation of taxes in the acquisition price. Our ...ndings are
+robust to a set of various speci...cations. Since in the period of our sample all
+FDI returns are exempted from German taxation, we could not test the e¤ects
+of the home country tax system. With regard to policy implications, our ...nding
+indicates that tax reforms a¤ect the composition of FDI as tax policies seem
+to di¤erently a¤ect the decision of M&A and Green...eld projects. This ...nding
+also contributes to a growing literature on possible di¤erential implications of
+both modes of investment on the host economy.
+18
+Table 7: Robustness analysis
+OECD Non-OECD Large Small Plant Expansion Full sample
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+-4.40a -3.60a -3.76a -1.56a -3.23a -2.77a -3.54a -2.88a -3.48a
+(.71) (.91) (.62) (.66) (.40) (.50) (.58) (.49) (.59)
+M &A 1.83a 1.42a 1.21a 1.85a 1.30a 1.98a 1.91a 1.99a 1.91a
+(.18) (.31) (.20) (.20) (.12) (.14) (.15) (.14) (.15)
+no: affiliates 0.37a 0.38a 0.19a 0.18a 0.46a 0.38a 0.41a 0.36a 0.41a 0.36a
+(.07) (.14) (.07) (.07) (.05) (.05) (.06) (.05) (.06) (.06)
+total assets 0.27a 0.35a 0.30a 0.29a 0.30a 0.30a 0.29a 0.30a 0.29a 0.28a
+(.01) (.01) (.01) (.01) (.00) (.00) (.00) (.00) (.00) (.01)
+gdp capita 1.11a 0.51a 0.71a 0.63a 0.69a 0.64a 0.69a 0.61a 0.64a 1.31a
+(.12) (.10) (.07) (.07) (.04) (.05) (.05) (.05) (.06) (.12)
+population 0.79a 0.73a 0.83a 0.62a 0.75a 0.67a 0.72a 0.69a 0.68a 0.75a
+(.04) (.06) (.04) (.04) (.02) (.03) (.03) (.03) (.04) (.05)
+openess 0.13 0.29a 0.19a 0.29c 0.28a 0.17a 0.34a 0.25a 0.26a 0.31a
+(.13) (.06) (.05) (.04) (.03) (.04) (.04) (.03) (.05) (.08)
+distance -0.37a -0.42a -0.37a -0.33a -0.34a -0.35a -0.30a -0.35a -0.32a -0.11a
+(.03) (.04) (.03) (.02) (.01) (.02) (.02) (.02) (.02) (.04)
+labour freedom 0.05 -1.66a 0.40c -0.25 0.14 -0.06 -0.46c 0.01 -0.39b -0.69a
+(.21) (.50) (.24) (.22) (.15) (.18) (.17) (.17) (.20) (.24)
+corruption -0.01 -0.12a -0.01 -0.10a -0.01 -0.02 -0.03c -0.04a -0.04a -0.01
+(.01) (.03) (.02) (.02) (.01) (.02) (.01) (.01) (.01) (.01)
+market capitalisation 0.16a 0.10b
+(.03) (.05)
+RD=GDP 0.29a 0.30a
+(.03) (.03)
+market potential 0.07c 0.02
+(.04) (.04)
+effective tax -5.61a
+(.76)
+effective tax M &A 1.70a
+(.17)
+No. ...rms 2532 1095 1810 1817 5137 3616 3304 3627 3304 2831
+No. observation 32373 20957 51183 55948 141662 92450 81985 94302 81985 45015
+Log likelihood -5732.7 -2568.2 -5162.9 -5555.9 -14033.3 -9765.4 -8820.4 -9825.2 -8817.4 -6780.3
+Note: a, b, and cindicate signi...cance at the level of 1, 5 and 10% respectively. Robust standard errors are reported between parentheses. All speci...cations include
+year and industry dummies. The reader is referred to the data appendix for detailed description of the variables.
+19
+References
+[1] Ai, C., and Norton, E. C. (2003). `
+Interaction terms in logit and probit
+models, Economics Letters, vol. 80 (1), pp. 123-129.
+[2] Andersson, T. and Svensson, R. (1994). `
+Entry modes for foreign direct
+investment determined by the composition of ...rm-speci...c skills'
+, Scandi-
+navian Journal of Economics, vol. 96, pp. 551-60.
+[3] Auerbach, A J., and Hassett, K. (1991). `
+Taxation and foreign direct in-
+vestment in the United States: a reconsideration of the evidence'
+, NBER
+Working Papers Series, No. 3895.
+[4] Balsvik, R. and Haller, S. (2007): `
+Foreign ...rms and host-country produc-
+tivity: does the mode of entry matter?'
+, NHH mimeo.
+[5] Becker, J. and Fuest, C. (2010): `
+Taxing foreign pro...ts with international
+mergers and acquisitions'
+, International Economics Review, vol. 51, pp.
+171-186.
+[6] Becker, J. and Fuest, C. (2008): `
+Tax competition ­Green...eld investment
+versus mergers and acquisitions'
+, CESifo working paper No. 2247.
+[7] Buettner, T., and Ruf, M. (2007). `
+Tax incentives and the location of FDI:
+Evidence from a panel of German multinationals'
+, International Tax and
+Public Finance, vol. 14 (2), pp. 151-164.
+[8] Coeurdacier, N., Roberto, D,. and Aviat, A. (2009). `
+Cross-border mergers
+and acquisitions and European integration'
+, Economic Policy, vol. 24 (57),
+pp. 55-106.
+[9] De Mooij, R A. and Ederveen, S. (2003). `
+Taxation and foreign direct in-
+vestment: a synthesis of empirical research'
+, International Tax and Public
+Finance, vol. 10 (6), pp. 673-93.
+[10] Desai, M., and Hines, J Jr. (2003). `
+Evaluating international tax reform'
+National Tax Journal, vol. 3 (3), pp. 487-502.
+[11] Devereux, M. (2007). `
+The Impact of taxation on the location of capital,
+...rms and pro...t: a survey of empirical evidence'
+, Oxford University Centre
+of Business Taxation Working Paper, Nr. 07/02.
+[12] Devereux, M. and Gri¢ th, R. (1998). `
+Taxes and the location of production:
+evidence from a panel of US multinationals'
+, Journal of Public Economics,
+vol. 68, pp. 335-367.
+[13] Devereux, M., Elschner, C., and Spengel, C. (forthcoming). E¤ective Tax
+Rates in the EU, 1998-2007. Springer.
+20
+[14] Dewit, G., Görg, H., and Montagna, C. (2009). `
+Should I stay or should
+I go? A note on employment protection, domestic anchorage and FDI'
+,
+Review of World Economics. vol 145 (1), pp. 93-110.
+[15] Di Giovanni, J. (2005). `
+What drives capital 
+ows? the case of cross-
+border M&A activity and ...nancial deepening'
+, Journal of International
+Economics, vol. 65, pp. 127-149.
+[16] Djankov, S., Ganser, T., McLiesh, C., Ramalho, R., and Schleifer, A.
+(2009). `
+The e¤ect of corporate taxes on investment and entrepreneurship'
+,
+American Economic Journal: Macroeconomics,
+[17] Egger, P., Loretz, S., Pfa¤ermayr, M., and Winner, H. (2009). `
+Corporate
+Taxation and Multinational Activity'
+, Oxford University Centre of Business
+Taxation Working Paper, Nr. 09/04.
+[18] Head, K., and Mayer, T. (2004). `
+Market potential and the location of
+Japanese investment in the European Union'
+, Review of Economics and
+Statistics, vol. 86 (4), pp. 959-972.
+[19] Healy, P. M., and Palepu, K. (2007). Business Analysis and Valuation:
+Using Financial Statements, 4th ed. Mason, Ohio: Thomson Southwestern.
+[20] Hines, J Jr. (1999). `
+Lessons from behavioral responses to international
+taxation'
+, National Tax Journal, vol. 52 (2), pp. 305-322.
+[21] Hijzen, A., Görg, H., and Manchin, M. (2008). `
+Cross-border mergers and
+acquisitions and the role of trade costs'
+, European Economic Review, vol.
+52, pp. 849­
+866.
+[22] Huizinga, H. and Voget, J. (2009). `
+International taxation and the direction
+and volume of cross-border M&As'
+, Journal of Finance, vol. 64 (3), pp.
+1217-1249.
+[23] Huizinga, H. and Voget, J., and Wagner, W. (2008). `
+International Taxation
+and Takeover Premiums in Cross-border M&As'
+, Oxford University Centre
+of Business Taxation Working Paper, Nr. 08/26.
+[24] Javorcik, B., and Wei, S. (2009). `
+Corruption and cross-border investment
+in emerging markets: ...rm-level evidence'
+, Journal of International Money
+and Finance, vol. 28, pp. 605-624.
+[25] Lipponer, A. (2008). Micro database direct Investment ­MiDi. Deutsche
+Bundesbank, Frankfurt am Main.
+[26] Markusen, J. (2002). Multinational Firms and the Theory of International
+Trade, Cambridge: MIT Press.
+[27] Miller, T., and Holmes, K. (2009). 2009 Index of Economic Freedom, The
+Heritage Foundation and Dow Jones & company, Inc, Washington and New
+York. Available online at: www.heritage.org/index
+21
+[28] Mintz, J. and Weichenrieder, A. (forthcoming). The Indirect Side of Direct
+Investment: Multinational Company Finance and Taxation. MIT press.
+[29] Modigliani, F. and M. H. Miller (1963). `
+Corporate income taxes and the
+cost of capital: A correction'
+. American Economic Review vol. 53 (3), pp.
+433-443.
+[30] Neary, P, J. (2007). `
+Cross-border mergers as instruments of comparative
+advantage'
+, Review of Economic Studies, vol. 74, pp. 1229-1257.
+[31] Nocke, V. and Yeaple, S. (2008). `
+An assignment theory of foreign direct
+investment '
+, Review of Economic Studies, vol. 75, pp. 529-557.
+[32] Nocke, V. and Yeaple, S. (2007). `
+Cross-border mergers and acquisitions
+versus Green...eld foreign direct investment: the role of ...rm heterogeneity'
+,
+Journal of International Economics, vol. 72, (2), pp. 336-365.
+[33] Ra¤, H., Ryan, M., and Stähler, A. (2009). `
+The choice of market entry
+mode: Green...eld investment, M&A and joint venture'
+, International Re-
+view of Economics and Finance, vol. 18, pp 3-10.
+[34] Swenson, D. (2001). `
+Transaction Type and the E¤ect of Taxes on the
+Distribution of Foreign Direct Investment in the U.S'
+, in James R. Hines,
+Jr., editor, International Taxation and Multinational Activity, University
+of Chicago Press, 89-108.
+22
+Appendix: Variable De...nitions and Sources
+Variable De...nition Source
+y a dummy that takes the value 1 for the chosen host Deutsche Bundesbank
+economy and the value zero otherwise
+the statutory corporate income tax rate Mintz and Weichenrieder
+(forthcoming)
+M&A a dummy that takes the value 1 if the investment Deutsche Bundesbank
+takes the form of M&A and zero if the investment
+is a Green...eld project
+no: affiliates the logarithm of the number of a¢ liates already Deutsche Bundesbank
+operating in the host economy
+total assets the logarithm of total ...xed and intangible assets Deutsche Bundesbank
+invested by the parent ...rm in location l
+gdp capita the logarithm of gross domestic product per capita IFS of the IMF
+based on PPP of the host economy
+population the logarithm of the total number of inhabitants IFS of the IMF
+in the host economy
+openness the ratio of total trade (total imports plus total exports) IFS of the IMF
+of the host economy to gross domestic product of the
+host economy in current prices
+distance the logarithm of the distance between Germany CEPII
+(Hamburg) and the host economy
+labour freedom the logarithm of the labour freedom component of the Heritage Foundation
+Heritage index of economic freedom
+corruption the Corruption Perception Index, rede...ned such that Transparency
+a high value of this index indicates a high level of International
+corruption
+market capitalisation ratio of market capitalisation of listed companies WDI of the WB
+to gdp
+R&D=GDP the ratio of government expenditure on research UNESCO Statistics
+and development to gdp; percent
+effective tax the e¤ective average corporate income tax rate Devereux et al.
+(forthcoming)
+market potential the logarithm of the sum of GDP of countries that IFS of the IMF and
+are located in the same region. Geographical regions UN statistics
+are de...ned based on the United Nations statistical
+database available from:
+http://unstats.un.org/unsd/methods/m49/m49regin.htm#ftna
+23
+CESifo Working Paper Series
+for full list see
+T
+www.cesifo-group.org/wp
+T
+(address: Poschingerstr. 5, 81679 Munich, Germany, office@cesifo.de)
+___________________________________________________________________________
+3013 Frederick van der Ploeg and Steven Poelhekke, The Pungent Smell of "Red Herrings":
+Subsoil Assets, Rents, Volatility and the Resource Curse, April 2010
+3014 Vjollca Sadiraj, Jan Tuinstra and Frans van Winden, Identification of Voters with
+Interest Groups Improves the Electoral Chances of the Challenger, April 2010
+3015 Guglielmo Maria Caporale, Davide Ciferri and Alessandro Girardi, Time-Varying Spot
+and Futures Oil Price Dynamics, April 2010
+3016 Scott Alan Carson, Racial Differences in Body-Mass Indices for Men Imprisoned in 19th
+Century US Prisons: A Multinomial Approach, April 2010
+3017 Alessandro Fedele, Paolo M. Panteghini and Sergio Vergalli, Optimal Investment and
+Financial Strategies under Tax Rate Uncertainty, April 2010
+3018 Laurence Jacquet, Take it or Leave it: Take-up, Optimal Transfer Programs, and
+Monitoring, April 2010
+3019 Wilhelm Kohler and Jens Wrona, Offshoring Tasks, yet Creating Jobs?, April 2010
+3020 Paul De Grauwe, Top-Down versus Bottom-Up Macroeconomics, April 2010
+3021 Karl Ove Aarbu, Demand Patterns for Treatment Insurance in Norway, April 2010
+3022 Toke S. Aidt and Jayasri Dutta, Fiscal Federalism and Electoral Accountability, April
+2010
+3023 Bahram Pesaran and M. Hashem Pesaran, Conditional Volatility and Correlations of
+Weekly Returns and the VaR Analysis of 2008 Stock Market Crash, April 2010
+3024 Stefan Buehler and Dennis L. Gärtner, Making Sense of Non-Binding Retail-Price
+Recommendations, April 2010
+3025 Leonid V. Azarnert, Immigration, Fertility, and Human Capital: A Model of Economic
+Decline of the West, April 2010
+3026 Christian Bayer and Klaus Wälde, Matching and Saving in Continuous Time: Theory
+and 3026-A Matching and Saving in Continuous Time: Proofs, April 2010
+3027 Coen N. Teulings and Nick Zubanov, Is Economic Recovery a Myth? Robust
+Estimation of Impulse Responses, April 2010
+3028 Clara Graziano and Annalisa Luporini, Optimal Delegation when the Large Shareholder
+has Multiple Tasks, April 2010
+3029 Erik Snowberg and Justin Wolfers, Explaining the Favorite-Longshot Bias: Is it Risk-
+Love or Misperceptions?, April 2010
+3030 Doina Radulescu, The Effects of a Bonus Tax on Manager Compensation and Welfare,
+April 2010
+3031 Helmut Lütkepohl, Forecasting Nonlinear Aggregates and Aggregates with Time-
+varying Weights, April 2010
+3032 Silvia Rocha-Akis and Ronnie Schöb, Welfare Policy in the Presence of Unionised
+Labour and Internationally Mobile Firms, April 2010
+3033 Steven Brakman, Robert Inklaar and Charles van Marrewijk, Structural Change in
+OECD Comparative Advantage, April 2010
+3034 Dirk Schindler and Guttorm Schjelderup, Multinationals, Minority Ownership and Tax-
+Efficient Financing Structures, April 2010
+3035 Christian Lessmann and Gunther Markwardt, Decentralization and Foreign Aid
+Effectiveness: Do Aid Modality and Federal Design Matter in Poverty Alleviation?,
+April 2010
+3036 Eva Deuchert and Conny Wunsch, Evaluating Nationwide Health Interventions when
+Standard Before-After Doesn't Work: Malawi's ITN Distribution Program, April 2010
+3037 Eric A. Hanushek and Ludger Woessmann, The Economics of International Differences
+in Educational Achievement, April 2010
+3038 Frederick van der Ploeg, Aggressive Oil Extraction and Precautionary Saving: Coping
+with Volatility, April 2010
+3039 Ainura Uzagalieva, Evzen Kocenda and Antonio Menezes, Technological Imitation and
+Innovation in New European Union Markets, April 2010
+3040 Nicolas Sauter, Jan Walliser and Joachim Winter, Tax Incentives, Bequest Motives, and
+the Demand for Life Insurance: Evidence from two Natural Experiments in Germany,
+April 2010
+3041 Matthias Wrede, Multinational Capital Structure and Tax Competition, April 2010
+3042 Burkhard Heer and Alfred Maussner, A Note on the Computation of the Equity
+Premium and the Market Value of Firm Equity, April 2010
+3043 Kristiina Huttunen, Jukka Pirttilä and Roope Uusitalo, The Employment Effects of
+Low-Wage Subsidies, May 2010
+3044 Matthias Kalkuhl and Ottmar Edenhofer, Prices vs. Quantities and the Intertemporal
+Dynamics of the Climate Rent, May 2010
+3045 Bruno S. Frey and Lasse Steiner, Pay as you Go: A New Proposal for Museum Pricing,
+May 2010
+3046 Henning Bohn and Charles Stuart, Population under a Cap on Greenhouse Gas
+Emissions, May 2010
+3047 Balázs Égert and Rafal Kierzenkowski, Exports and Property Prices in France: Are they
+Connected?, May 2010
+3048 Thomas Eichner and Thorsten Upmann, Tax-Competition with Involuntary
+Unemployment, May 2010
+3049 Taiji Furusawa, Kazumi Hori and Ian Wooton, A Race beyond the Bottom: The Nature
+of Bidding for a Firm, May 2010
+3050 Xavier Vives, Competition and Stability in Banking, May 2010
+3051 Thomas Aronsson and Erkki Koskela, Redistributive Income Taxation under
+Outsourcing and Foreign Direct Investment, May 2010
+3052 Michael Melvin and Duncan Shand, Active Currency Investing and Performance
+Benchmarks, May 2010
+3053 Sören Blomquist and Laurent Simula, Marginal Deadweight Loss when the Income Tax
+is Nonlinear, May 2010
+3054 Lukas Menkhoff, Carol L. Osler and Maik Schmeling, Limit-Order Submission
+Strategies under Asymmetric Information, May 2010
+3055 M. Hashem Pesaran and Alexander Chudik, Econometric Analysis of High Dimensional
+VARs Featuring a Dominant Unit, May 2010
+3056 Rabah Arezki and Frederick van der Ploeg, Do Natural Resources Depress Income Per
+Capita?, May 2010
+3057 Joseph Plasmans and Ruslan Lukach, The Patterns of Inter-firm and Inter-industry
+Knowledge Flows in the Netherlands, May 2010
+3058 Jenny E. Ligthart and Sebastian E. V. Werner, Has the Euro Affected the Choice of
+Invoicing Currency?, May 2010
+3059 Håkan Selin, Marginal Tax Rates and Tax-Favoured Pension Savings of the Self-
+Employed ­ Evidence from Sweden, May 2010
+3060 Richard Cornes, Roger Hartley and Yuji Tamura, A New Approach to Solving
+Production-Appropriation Games with Many Heterogeneous Players, May 2010
+3061 Ronald MacDonald and Flávio Vieira, A Panel Data Investigation of Real Exchange
+Rate Misalignment and Growth, May 2010
+3062 Thomas Eichner and Rüdiger Pethig, Efficient Management of Insecure Fossil Fuel
+Imports through Taxing(!) Domestic Green Energy?, May 2010
+3063 Vít Bubák, Evzen Kocenda and Filip Zikes, Volatility Transmission in Emerging
+European Foreign Exchange Markets, May 2010
+3064 Leonid V. Azarnert, Après nous le Déluge: Fertility and the Intensity of Struggle against
+Immigration, May 2010
+3065 William E. Becker, William H. Greene and John J. Siegfried, Do Undergraduate Majors
+or Ph.D. Students Affect Faculty Size?, May 2010
+3066 Johannes Becker, Strategic Trade Policy through the Tax System, May 2010
+3067 Omer Biran and Françoise Forges, Core-stable Rings in Auctions with Independent
+Private Values, May 2010
+3068 Torben M. Andersen, Why do Scandinavians Work?, May 2010
+3069 Andrey Launov and Klaus Wälde, Estimating Incentive and Welfare Effects of Non-
+Stationary Unemployment Benefits, May 2010
+3070 Simon Gächter, Benedikt Herrmann and Christian Thöni, Culture and Cooperation, June
+2010
+3071 Mehmet Bac and Eren Inci, The Old-Boy Network and the Quality of Entrepreneurs,
+June 2010
+3072 Krisztina Molnár and Sergio Santoro, Optimal Monetary Policy when Agents are
+Learning, June 2010
+3073 Marcel Boyer and Donatella Porrini, Optimal Liability Sharing and Court Errors: An
+Exploratory Analysis, June 2010
+3074 Guglielmo Maria Caporale, Roman Matousek and Chris Stewart, EU Banks Rating
+Assignments: Is there Heterogeneity between New and Old Member Countries? June
+2010
+3075 Assaf Razin and Efraim Sadka, Fiscal and Migration Competition, June 2010
+3076 Shafik Hebous, Martin Ruf and Alfons Weichenrieder, The Effects of Taxation on the
+Location Decision of Multinational Firms: M&A vs. Greenfield Investments, June 2010
+

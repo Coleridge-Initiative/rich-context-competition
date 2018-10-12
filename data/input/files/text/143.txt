@@ -1,0 +1,1384 @@
+Discussion Paper
+Deutsche Bundesbank
+No 31/2012
+The determinants of service imports:
+the role of cost pressure and
+financial constraints
+Elena Biewen
+(Deutsche Bundesbank)
+Daniela Harsch
+(University of Tuebingen)
+Julia Spies
+(International Trade Centre)
+Discussion Papers represent the authors` personal opinions and do not
+necessarily reflect the views of the Deutsche Bundesbank or its staff.
+Editorial Board: Klaus Düllmann
+Heinz Herrmann
+Christoph Memmel
+Deutsche Bundesbank, Wilhelm-Epstein-Straße 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-0
+Telex within Germany 41227, telex from abroad 414431
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978­3­86558­861­6 (Printversion)
+ISBN 978­3­86558­862­3 (Internetversion)
+Abstract:
+This study provides evidence on how German multinational firms have restructured their
+service activities around the recent crisis. Making use of new micro-level data on service
+imports of German multinationals from 2002-2008, we assess the determinants of service
+offshoring along the extensive and intensive margins. In particular, we evaluate how
+internal frictions in terms of a sharp drop in the sales level (per employee) and external
+frictions in terms of a reduced availability of credit co-determine the likelihood and the
+extent of sourcing services from abroad. First, we find that firms are less likely to
+start to import services from abroad if they are under cost pressure. By contrast, firms
+intensify existing service imports linkages in times of a sales drop. Second, financial
+constraints, which played a major role for the goods trade during the crisis, did not have
+any significant effect on service imports. These results are in line with the argument that
+the generally observed crisis-resilience of service trade stems from increased pressures
+to save on variable costs through offshoring and from its lower dependence on external
+finance. Furthermore, and in line with our argument, we find that a decline in sales and
+labor productivity induces firms to sort into intra-firm rather than arm's-length trading.
+Keywords:
+Service Imports, Intra-Firm Trade, Arm's-Length Trade
+JEL:
+F12, F15, L13
+Non-technical summary
+The financial crisis in the years 2007-2008 and the resulting recession had a strong impact
+on international trade in goods. In contrast to the general decrease of cross-border
+activities, trade in services proved to be relatively resilient throughout the crisis. In a
+recent policy paper, Borchert and Mattoo (2012) give three possible explanations for
+the apparent different behavior of trade in services. First, they argue that the demand
+for services is less cyclical than the demand for goods. Second, trade in services is
+less dependent on external finance and therefore less susceptible to changes in credit
+availability. Third, internal cost pressure may have forced firms into the international
+outsourcing of services that were formerly conducted in-house. These arguments give
+rise to the presumption that the financial and real frictions to which firms are exposed
+affect trade in goods and trade in services differently.
+This study provides first insights into the factors that determine service imports with
+a particular focus on the role of internal cost pressure and external financial constraints.
+We use information on cross-border service transactions available in the International
+Trade in Services Statistics for Germany and combine it with information on German
+multinational firms and information on cross-country and cross-sectoral occupational
+wages. We adopt a two-step estimation approach to investigate the adjustments of
+German multinationals along the extensive margin (the probability of being a service
+importer) and the intensive margin (the level of service imports) of service imports.
+Our first-stage results are mostly in line with the vast evidence on trade in goods.
+We show that more productive firms are more likely to engage in international trade.
+Moreover, these service importing firms source from nearby countries with a high GDP
+and low wages in the sector which supplies the respective service. Furthermore, firms
+with a foreign ultimate beneficial owner are more likely to import services than firms
+with a German ultimate beneficial owner. We introduce changes in sales and sales per
+employee (labor productivity) as measures of internal frictions and find a positive impact
+on the probability of service offshoring, i.e., the probability of a firm importing services
+from abroad decreases if the firm is under cost pressure. Then, we use credit conditions
+on the capital market as a measure of external frictions. They have ­ in contrast to trade
+in goods ­ no significant impact on service trade.
+Our second-stage results differ from the results for trade in goods. We find evidence
+that both a decrease in sales and a decrease in labor productivity significantly increase
+the level of service imports. Hence, while internal cost pressures do not force firms to start
+importing services from abroad, they intensify already existing service import relations.
+Credit conditions have no significant effect on the intensity of offshoring.
+Additionally, we analyze the factors which influence the channel (intra-firm versus
+arm's-length) through which firms decide to import services. Inter alia, we find that a
+decline in domestic sales (per employee) causes firms to import services from their foreign
+affiliates than from independent suppliers. These results strengthen our hypothesis that
+internal cost pressure induces firms to import services from lower-cost foreign countries.
+Nicht-technische Zusammenfassung
+Die Finanzkrise der Jahre 2007-2008 und die daraus resultierende Rezession hatten im-
+mense Auswirkungen auf den weltweiten Handel. Im Gegensatz zum generellen Einbruch
+des Güterhandels, erwies sich der Handel mit Dienstleistungen während der Krise als rela-
+tiv robust. In einem aktuellen Forschungspapier nennen Borchert und Mattoo (2012) drei
+mögliche Gründe für die geringe Krisenanfälligkeit des Dienstleistungshandels. Als erstes
+Argument führen die Autoren an, dass die Nachfrage nach Dienstleistungen weniger kon-
+junkturabhängig als Güternachfrage sei. Zweitens sei der Handel mit Dienstleistungen
+weniger abhängig von Fremdkapital und somit auch weniger von Änderungen des Kredit-
+angebots betroffen. Drittens bestehe die Möglichkeit, dass Unternehmen in Zeiten von
+erhöhtem Kostendruck dazu neigen, Dienstleistungen, die ursprünglich unternehmensin-
+tern bereitgestellt wurden, nun ins Ausland zu verlagern. Diese Argumentation führt zu
+der Hypothese, dass sowohl finanzielle als auch reale Friktionen, mit denen Unternehmen
+konfrontiert sind, unterschiedliche Auswirkungen auf den Handel mit Dienstleistungen
+und den Handel mit Gütern haben.
+Diese Studie zeigt erstmalig die Determinanten von Dienstleistungsimporten deutscher
+multinationaler Firmen auf. Der Schwerpunkt der Untersuchung liegt dabei auf der
+Rolle von unternehmensinternem Kostendruck und veränderter Fremdkapitalbedingun-
+gen. Wir verwenden Informationen zu grenzüberschreitenden Dienstleistungstransak-
+tionen aus der internationalen Dienstleistungsstatistik für Deutschland und verknüpfen
+diese mit Informationen über deutsche multinationale Unternehmen und Informationen
+zu Lohnkosten in unterschiedlichen Ländern und Sektoren. Mit Hilfe eines zweistu-
+fige Schätzverfahrens untersuchen wir die Anpassungen deutscher multinationaler Un-
+ternehmen entlang des extensiven Rands (die Wahrscheinlichkeit, dass ein Unternehmen
+Dienstleistungen importiert) und des intensiven Rands (die Intensität der Dienstleis-
+tungsimporte).
+Die Ergebnisse der ersten Stufe unserer Schätzung entsprechen denjenigen für den
+Güterhandel. Wir zeigen, dass produktivere Unternehmen mit größerer Wahrschein-
+lichkeit Dienstleistungen importieren. Darüber hinaus importieren diese Firmen die
+Dienstleistungen aus näher liegenden Ländern mit einem hohen BIP und einem gerin-
+gen Lohnniveau in dem Wirtschaftsbereich, der die Dienstleistung bereitstellt. Die
+Wahrscheinlichkeit für Dienstleistungsimporte ist zudem höher für Unternehmen mit
+einem ausländischen Eigentümer als diejenigen mit einem deutschen Eigentümer. Als
+Maß für den internen Kostendruck wird die Veränderung des Gesamtumsatzes und des
+Umsatzes je Mitarbeiter (Arbeitsproduktivität) verwendet. Wir kommen zum Ergebnis,
+dass eine Veränderung des Umsatzes und der Arbeitsproduktivität einen positiven Ein-
+fluss auf die Wahrscheinlichkeit von Dienstleistungsimporten ausübt. Ein Unternehmen,
+das unter einem zunehmenden Kostendruck steht, importiert also mit geringerer Wahr-
+scheinlichkeit Dienstleistungen. Des Weiteren verwenden wir die Angebotsbedingungen
+auf dem Kapitalmarkt als Maß für externe Friktionen. Im Gegensatz zum Güterhandel
+haben diese keinen signifikanten Einfluss auf den Import von Dienstleistungen.
+Die Ergebnisse der zweiten Stufe der Schätzung unterscheiden sich von den Ergeb-
+n
+nissen für den Güterhandel. Sowohl ein Umsatz- als auch ein Produktivitätsrückgang
+erhöhen signifikant die Intensität der Dienstleistungsimporte. Während der interne Kos-
+tendruck also nicht dazu führt, dass Unternehmen mit Dienstleistungsimporten beginnen,
+steigert er die Intensität der bereits bestehenden Importbeziehungen. Kreditbedingungen
+haben keinen signifikanten Einfluss auf die Intensität der Dienstleistungsimporte.
+Darüber hinaus untersuchen wir die Faktoren, die die Entscheidung beeinflussen, ob
+ein Unternehmen Dienstleistungen von einem ausländischen Tochterunternehmen oder
+von einem unabhängigen Anbieter bezieht. Unter anderem zeigt sich dabei, dass bei
+einem Umsatzrückgang (je Mitarbeiter) im Inland Unternehmen bevorzugt Dienstleis-
+tungen von ihren ausländischen Töchtern (und nicht von unabhängigen Unternehmen
+im Ausland) importieren. Dies stärkt unsere Hypothese, dass Kostendruck im Inland
+dazu führt, dass Dienstleistungen verstärkt aus dem kostengünstigen Ausland bezogen
+werden.
+Contents
+1 Introduction 1
+2 Data 4
+2.1 Micro Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.2 Explanatory Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+3 Methodology 9
+4 Results 12
+4.1 Determinants of Service Offshoring . . . . . . . . . . . . . . . . . . . . . . 12
+4.2 Determinants of Service Sourcing Modes . . . . . . . . . . . . . . . . . . . 17
+4.3 Robustness Checks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+5 Conclusions 22
+References 2
+A Appendix 2
+A.1 Evolution of Service Imports . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+A.2 Classification of Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+A.3 Descriptive Statistics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+4
+1
+7
+List of Tables
+1 Determinants of Service Offshoring (Heckman Two-Step) . . . . . . . . . . 15
+2 Determinants of Service Outsourcing (Heckman) . . . . . . . . . . . . . . 1
+3 Determinants of Service Offshoring Excluding Transport (Heckman Two-
+Step) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+A.1 MiDi-ITS Match . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+A.2 Representative Occupations by Industry . . . . . . . . . . . . . . . . . . . 30
+A.3 Service Imports by Firm Type . . . . . . . . . . . . . . . . . . . . . . . . . 3
+A.4 Descriptive Statistics of the Explanatory Variables . . . . . . . . . . . . . 32
+A.5 Service Imports by Mode . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+List of Figures
+A.1 German Imports of Goods and Services . . . . . . . . . . . . . . . . . . . 27
+A.2 German Service Imports by Services Type . . . . . . . . . . . . . . . . . . 28
+8
+1
+The Determinants of Service Imports: The Role of Cost
+Pressure and Financial Constraints1
+1 Introduction
+The 2007-2008 financial crisis and the subsequent recession had an unprecedented impact
+on global economic integration. In 2009, worldwide FDI inflows fell by 39% (UNCTAD,
+2010), and the volume of world trade contracted by over 12% and therefore by more than
+world GDP (IMF, 2010). In contrast to the general collapse of cross-border activities,
+trade in services proved to be relatively resilient throughout the crisis. While German
+manufacturing goods experienced a decrease in imports by 16.5%, the contraction of
+commercial service imports by 7.7% appears comparably modest (see Figure A.1).2 This
+becomes even more apparent if one abstracts from trade-related service categories like
+transport services (see Figure A.2) which leads to the hypothesis that the determinants
+of trade in goods and trade in services differ.
+Borchert and Mattoo (2012) give three possible explanations for the apparent dif-
+ferent behavior of trade in services. First, they state that the demand for services is
+less cyclical than the demand for goods. Second, on the supply side, trade in services is
+argued to be less dependent on external finance and therefore less susceptible to changes
+in interest rates or credit conditions. Amiti and Weinstein (2009), Feenstra et al. (2011),
+and Chor and Manova (2010) demonstrate that credit conditions act as financial frictions
+1The opinions expressed in this paper are those of the authors and do not need to reflect the opinions
+of the Deutsche Bundesbank or the International Trade Centre (ITC). The authors thank Claudia Buch
+and Heinz Herrmann and participants of the 9th Bundesbank MiDi Workshop and the 1st Project
+Workshop "Europe's Global Linkages and the Impact of the Financial Crisis: Policies for Sustainable
+Trade, Capital Flows, and Migration" in Sino-German Center for Research Promotion, Beijing, for
+many helpful comments and discussions. Daniela Harsch and Julia Spies acknowledge the support of
+the Volkswagen Foundation.
+2Note that this calculation is derived from World Bank data. Using the micro-level German Inter-
+national Trade in Services (ITS) data, we calculate a 10% drop in service imports. The difference may
+result from the fact that publicly reported aggregate statistics usually include earnings and expenditures
+of the state, positions related to goods trade, import sales taxes, and ancillary services in transit trade in
+addition to the service transactions of firms. Furthermore, they contain estimates (e.g. for transactions
+below the reporting limit of e12,500) and collective reports which are excluded from the ITS data.
+Finally, we adjust for negative reports that may occur if incorrect payments or cancellations were made.
+1
+which affect trade in manufactured goods, in particular for sectors which require exten-
+sive external financing. Third, Borchert and Mattoo (2012) justify the crisis-resilience
+of cross-border service trade with the cost pressures firms have to cope with. These
+constraints may have forced firms into the international outsourcing of services that were
+formerly conducted in-house. Following this line of argumentation, the financial and real
+frictions to which firms are exposed affect trade in goods and trade in services differently.
+The increasing role of services in the global economy has given rise to a growing re-
+search interest in international services trade that has been supported by the availability
+of firm-level data in recent years. Motivated by the lack of trade models developed for
+services, researchers have started investigating the pattern of service trade and service
+traders. Supporting the applicability of trade-in-goods models, Breinlich and Criscuolo
+(2011) find that only a small fraction of UK firms are engaged in international trade
+in services (either exports or imports, or both). The authors also report important dif-
+ferences between traders and non-traders in terms of firm size, productivity and other
+characteristics. In particular, service exporters and importers are larger and more pro-
+ductive than non-traders, using more capital intensive production processes. Kelle and
+Kleinert (2010) describe international trade in services using German data for 2005.
+First, they argue that service trade is not limited to firms which are classified as service
+firms, but that firms from all industries export and import services. Second, confirming
+the reasoning of Breinlich and Criscuolo (2011), they report that the service trade of
+German firms is dominated by only a few large multinationals, which are active in many
+countries and which trade many different services. These trading patterns are very sim-
+ilar for both importers and exporters of services. Using Italian firm-level data, Federico
+and Tosti (2011) also confirm that trade in services is highly concentrated among the
+top exporters and importers. Challenging the applicability of the trade-in-goods models,
+Conti et al. (2010) find that a higher level of productivity and a higher skill intensity
+affect the performances of exporting firms in the service sector only if the geographical
+distance to their trading partners is large. Instead, the authors explain that the success of
+service traders is due to their experience in the national market and with their belonging
+2
+to national as well as international networks.3
+Since firm-level data on service trade have only recently become available, the few
+existing studies have described the pattern of service trade and service traders but have
+remained inconclusive about the factors which determine trade in services and whether
+they differ from the factors which determine trade in goods. By focusing on the analysis
+of the determinants of service imports of German multinationals, we complement the
+existing literature. We put a special emphasis on potential differences to factors that
+influence trade in manufactured goods.
+We proceed as follows: first, we investigate the factors that affect the probability of
+a firm being a service importer (extensive margin) ­ i.e. to offshore services which would
+otherwise potentially be provided by domestic service suppliers ­ and intensifying exist-
+ing linkages (intensive margin). Second, following the arguments of Borchert and Mattoo
+(2012), we analyze the effect of internal cost pressures and of disruptions in external liq-
+uidity on the supply side on both margins of cross-border service activities. Pressures to
+save (wage) costs may force firms to offshore service tasks that were previously conducted
+domestically. External liquidity constraints are supposed to play a major role for trade
+in goods but may be less relevant for trade in services. Even though financial restric-
+tions are especially important for exporters, they may also affect imports if problems
+in (pre-)financing production lead to disruptions in the supply. Third, in addition to
+the propensity and intensity of service offshoring, we study which factors influence the
+channel (in-house versus arm's-length) through which firms import services.
+We use comprehensive information on the cross-border service trade of German firms
+for 2002-2008 from the German International Trade in Services Statistics (ITS) and
+complement it with information on multinational service traders from the Micro Database
+Direct Investment (MiDi) ­ both datasets are provided by the Deutsche Bundesbank.
+Additionally, we make use of cross-country and cross-sectoral occupational wage data, as
+3See also Kelle et al. (2012) who describe the patterns of service trade and traders for Germany, and
+Walter and Dell'mour (2010) for Austria, or Temouri et al. (2010) who use a sample of German, French
+and UK firms. Biewen and Blank (2012) give firm-level evidence on international trade in services for
+Germany between 2001-2011 and analyze the contributions of the intensive and extensive margins to the
+variations in firm-level and country-level service trade.
+3
+recently collected and prepared by Harsch and Kleinert (2011), which allow us to study
+the impact of wages in much more detail than previously done in the literature.
+The rest of the paper is organized as follows: Section 2 contains the description
+of the merged ITS-MiDi data along with the explanatory variables. After explaining
+the methodology in Section 3, the results are presented in Section 4. We find evidence
+that a firm which is confronted with a decline in sales and sales per employee (labor
+productivity) is less likely to start importing services. By contrast, firms that are already
+service importers intensify existing linkages in times of cost pressures. Furthermore, firms
+facing a drop in sales and labor productivity tend to increase their imports from foreign
+affiliates rather than from independent suppliers. Credit constraints do not seem to have
+any impact on service imports. Section 5 concludes.
+2 Data
+This section describes the data that we use for our empirical analysis. We combine
+two micro datasets provided by the Deutsche Bundesbank ­ the ITS and the MiDi ­
+and complement them with information on cross-country and cross-sectoral occupational
+wages data as well as on credit constraints. After presenting the main data sources (2.1),
+we lay out in detail which explanatory variables we use (2.2).
+2.1 Micro Data
+The ITS comprises information on all service transactions between German residents
+and non-residents that surpass the threshold of e12,500. Since the reporting limit is
+rather low, the ITS covers almost the entire population of German cross-border service
+transactions. With the exception of mode 3 (commercial presence), the statistics include
+all modes of service delivery that are defined in the General Agreement on Trade in
+Services (GATS): cross-border trade (mode 1), consumption abroad (mode 2) and the
+presence of natural persons (mode 4). The dataset has recently been made available for
+research purposes for the years 2001 until 2010. In its original version, the ITS also
+4
+includes reports from public authorities and private transfers, which we remove in order
+to focus on firms' transactions. For the empirical estimations, we restrict the sample to
+the years for which our explanatory variables are available. Consequently, our sample is
+reduced to the years 2003-2008.
+The ITS reports comprehensive service trade information at the level of the individual
+transaction (for both imports and exports): the value of the transaction, the type of the
+traded service based on the classification of the Balance of Payments Statistics, the
+country of the trade partner, and the NACE Rev. 1 industrial sector of the German
+firm. While the information on the single service transaction is very detailed, the dataset
+does not provide any firm-level characteristics. Thanks to a common firm identifier, some
+firm-level information can, however, be retrieved from the MiDi.
+The MiDi covers all international capital links from and to Germany (see Hügelschäf-
+fer et al., 2009) and is available for research purposes as a panel dataset, currently cov-
+ering the time period 1996-2009. It contains information on balance sheets of foreign
+affiliates as well as their turnover and number of employees. While the report regarding
+the foreign affiliates is very detailed, the information on the German investor comprises
+only a few key variables, such as the balance sheet total, the turnover, the number of
+employees, the industry (3/4-digit NACE Rev. 1), and the legal form. Since some of
+these variables are only available from 2002 onward, we exclude all previous years.4 Be-
+cause of the changes of the reporting thresholds for indirect (or second-tier) investments
+in 2007, we limit our sample in this study to direct (or first-tier) investments.5 We also
+make use of the information on the sector and the country in which the foreign affiliates
+of the German investor operate ­ these two dimensions allow us to roughly differentiate
+between intra-firm and arm's length trade.
+Before matching the ITS and MiDi, we made a few adjustments. First, we aggregated
+4For further information on this database, see Hügelschäffer et al. (2009).
+5Since 2002, direct foreign investments (first-tier investments) have been subject to reporting require-
+ments if a German investor holds at least 10% of the shares or voting rights in a direct investment
+enterprise and if the balance sheet total of the latter exceeds e3 million. See Hügelschäffer et al. (2009)
+and Foreign Direct Investment Stock Statistics (2012) for a detailed description of reporting require-
+ments.
+5
+the individual service transactions in the ITS to the level of each firm, source country,
+service type and year. We then dropped all remaining negative import values or values
+that equal zero.6 Second, we grouped the single service categories in the ITS into eight
+larger categories and assigned each industrial sector in which a foreign affiliate is active
+according to the MiDi to a corresponding service group (see Table A.1). By doing
+this, we implicitly assume that if a multinational German parent imports a particular
+service (e.g. transport) from a certain country and at the same time has an affiliate in
+this same country which operates in a sector similar to the imported service type (e.g.
+transport), the transaction takes place between the parent and its affiliate. The described
+adjustments enabled us to match the data on several dimensions ­ the firm, the year, the
+country, and the service type (sector)7 and to broadly approximate intra-firm vs. arm's
+length trade when we investigate the channels of international sourcing.8
+Our matched sample consists of German service-importing firms that own at least
+one affiliate abroad. In 2008, the last year in the sample, out of 28,476 service importers
+only 2,701 firms also own at least one affiliate abroad. However, their joint import
+value accounts for about 59% of total service imports (see Table A.3).9 On average,
+these multinationals import more than three and a half times as much as their domestic
+counterparts. We must keep in mind that by studying the service imports of multinational
+firms only, our sample is restricted. This selectivity is, however, mitigated by the fact
+that multinational firms are the driving force of international service trade.
+2.2 Explanatory Variables
+Our main variables of interest are measures of cost pressure and liquidity constraints.
+By employing these variables, we aim at testing Borchert and Mattoo (2012)'s argument
+that services trade and goods trade react differently to internal and external frictions.
+6Negative or zero values may arise in the case of corrected or cancelled payments.
+7See also Kelle et al. (2012) for a more detailed description of the matching process.
+8Note that this procedure contains the risk of overestimating intra-firm trade. When interpreting the
+results, we will keep in mind that they are rather lower-bound estimates for the international sourcing
+of services from independent suppliers.
+9Altomonte et al. (2012) show very similar results for France. While multinational business groups
+represent only 10% of the trading firms, they account for almost 65% of exports and 62% of imports.
+6
+We assume that firms are exposed to cost pressure if they experience a decrease in
+their sales or in their sales per employee from one year to another. We calculate changes
+in sales and in sales per employee between the years t and t - 1 as
+xit
+=
+xit
+- xit-1
+0.5 (xit
++ xit-1)
+, (1)
+where xit is the mid-point growth rate of firm-level sales (salesit) or sales per em-
+ployee (prodit) of firm i. In contrast to conventional growth rates, mid-point growth rates
+bearhave the advantage of keeping observations which are 0 in t - 1 (earlier applications
+include Davis and Haltiwanger, 1992 and Buono et al., 2008).10
+In principle, lower sales or sales per employee may have two opposing effects on
+service imports. As a result of reduced sales levels, firms may limit their overall demand
+for services which would eventually result in a decrease in imports. During the financial
+crisis this decline proved, however, to be much less pronounced in services than in goods
+trade. In order to save (wage) costs, firms may shift the services they use to cheaper
+foreign countries which would then induce an increase in imports.
+Liquidity constraints are likely to have an impact on the imports of goods whose
+production requires substantial pre-financing of the employed intermediate inputs.11
+Borchert and Mattoo (2012) argue that liquidity constraints may have a lower effect
+on services imports because they bind less financial resources in their production. While
+Chor and Manova (2010) use the interbank lending rate to measure the impact of credit
+constraints on the crisis-related reduction of US imports, we use information on external
+liquidity constraints from the financial structure database of Beck et al. (1999)12 and
+employ the variable "claims on the private sector by deposit money banks and other
+financial institutions over GDP". In order to arrive at the level of aggregated loans in
+the trade partner country, we multiply the measure again with GDP. We then calculate
+the mid-point growth rate of this variable as outlined above and obtain a proxy of the
+10Note that growth rates can only be calculated for firms which have been present in the sample for
+at least two years and which have not reported zero sales for two consecutive years.
+11See for instance Chor and Manova (2010).
+12We use the 2010 updated version of the data.
+7
+evolution of the partner country's credit conditions over time.
+We complement our set of explanatory variables with other variables that have been
+suggested in previous literature. Given the lack of detailed information on inputs into
+the production of services, we use labor productivity, defined as sales per employee, as
+our productivity measure. Additionally, we take advantage of information on the foreign
+ownership status of the investing firms. Altomonte and Ottaviano (2009) argue that
+global supply chains had a non-neutral effect on the trade collapse during the financial
+crisis. On the one hand, large multinationals are financed by globally operating insti-
+tutions which were strongly hit by the crisis. Through this channel, foreign ownership
+may have a negative impact on the intensive margin of service imports. On the other
+hand, large multinationals may be more resilient to financial crises as they can alleviate
+any temporary liquidity shortages of affiliates. We include a dummy variable and test
+whether foreign ownership has an impact on a firm's service imports, in particular when
+the firm faces an internal cost pressure.
+To assess whether low wage costs in a country have induced firms to newly engage in
+or to increase their service offshoring, we use comprehensive data on sector-specific cross-
+country wages that were recently compiled by Harsch and Kleinert (2011). The data are
+based on the International Labor Organization's October Inquiry which has in its raw
+version hardly been used in the past. The by now cleaned, standardized and imputed
+dataset contains wages for up to 161 occupations from 49 industries in 112 countries
+between 1983 and 2008. As the dataset is still highly unbalanced and does not include
+wage information on the same occupations for every country in each year, we cannot take
+the median or mean wage across all occupations belonging to a certain sector. Instead,
+we select one "representative" occupation per sector, which shows the greatest country
+and year coverage within our sample (see Table A.2). The chosen occupations are all
+low-skilled.
+We estimate the probability and the level of service offshoring as gravity-type equa-
+tions. For this purpose, we take bilateral great-circle distances between the most popu-
+lated cities from CEPII. GDP is taken from the World Bank.
+8
+In addition to estimating the determinants of service offshoring, we assess the mode
+choice of global sourcing (in-house versus arm's-length). Since firms cannot choose freely
+between intra-firm and arm's-length trade, we estimate first the probability that a firm
+had previously established an affiliate in the sector from which it wants to import. We
+assume that this probability is influenced by the firm's "diversity". This variable draws
+on evidence from Kelle et al. (2012) and Breinlich and Criscuolo (2011) and captures the
+range of sectors and countries in which a firm owns affiliates. Higher diversity supposedly
+helps firms to surpass the barrier of also having an affiliate in the import sector. We
+then estimate the choice between arm's length and intra-firm imports by additionally
+controlling for the experience a firm has in a certain market. We assume that a firm
+has experience in a certain market if its ultimate owner originates from the country from
+which the firm imports. The additional variables we use for the mode choice estimations
+are both constructed from the MiDi. The descriptive statistics of all explanatory variables
+are summarized in Table A.4.
+3 Methodology
+In our main estimations, we distinguish between the extensive margin (the probability of
+service offshoring) and the intensive margin (the offshoring value). A Heckman selection
+model allows us to model the service offshoring of multinational firms as a two-stage
+process.
+In the first stage, we estimate the determinants that affect the probability of being
+a service importer by employing a simple probit model. For this purpose, we inflate
+our dataset to include all firm-country-service type-year combinations for which we have
+information on the explanatory variables. This strategy implicitly supposes that there
+is a (potentially small) fixed cost that renders importing services profitable for some
+but not for all firm-country-service type combinations.13 Hence, we use the information
+contained in the zeros to model the selection into importing services. We estimate the
+13Note that the low reporting limit of e12,500 allows us to treat zero observations as non-profitable
+strategies.
+9
+extensive margin of offshoring by using the following selection equation:
+z
+ikjt,off
+= 1Zoff
++ 2xit
++ 3creditjt
++ eikjt,off, (2)
+where
+zikjt,off
+=
+
+
+
+1 if z
+ikjt,off
+> 0
+0 otherwise,
+(3)
+and where i denotes a firm importing service type k from country j, and t denotes a
+particular year. Z
+off
+is a vector of explanatory variables of the service offshoring propen-
+sity, such as the labor productivity of the investing firm, the country- and sector-specific
+wages, GDPs and distances, and a foreign ownership dummy.14 xit is the mid-point
+growth rate of firm-level sales (salesit) or sales per employee (prodit) as calculated in
+equation (1). creditjt applies this same formula to changes in the availability of credit
+at the country-level. eikjt,off is the error term.
+In the second stage, we estimate the change in the level of service imports conditioning
+on the multinational firm being a service importer. We estimate the intensive margin of
+offshoring as
+yikjt,off
+= 1Yoff
++ 2xit
++ 3creditjt
++ 4millsikjt,off
++ uikjt,off. (4)
+The dependent variable yikjt,off (import intensity) is regressed on a vector of explana-
+tory variables Y
+off
+, the growth rate of sales (per employee) xit, the growth rate of the
+availability of credit creditjt, and on the inverse Mills ratio millsikjt,off that has been
+calculated from equation (2).15
+After the analysis of the determinants of service offshoring we proceed to the estima-
+14Here, we write Zoff
+merely for simplicity reasons. Please note that the variables are used at different
+levels, e.g. at the firm-level (productivity, foreign ownership), at the country-sector level (wages), and
+at the country-year level (GDP).
+15Consistent estimation requires either exclusion restrictions or a sufficiently non-linear Mills ratio.
+The existing literature provides little guidance on valuable exclusion restrictions. Therefore, in our case,
+Zoff
+= Yoff
+, and model identification is based solely upon the non-linearity in the functional form.
+10
+tion of the choice of a multinational firm to source services either through an affiliated
+supplier (intra-firm trade) or through an independent supplier (arm's-length trade). Since
+we know in which country and in which sector the foreign affiliates of German investors
+operate, we can broadly sort service import transactions into the two sourcing modes: a
+multinational firm is said to engage in arm's-length trade if it imports a service type from
+a country in which it does not possess an affiliate that operates in the sector to which
+the service type has been assigned. Following the same logic, it engages in intra-firm
+trade if it imports a service type from a country where it also runs an affiliate operating
+in the same sector. The admittedly broad categories ­ country and sector ­ form the
+criteria along which we sort service transactions into sourcing modes (intra-firm versus
+arm's-length service imports).16
+In order to analyze through which channel a firm imports services, we have to con-
+dition our sample on firms that have foreign affiliates in sectors corresponding to the
+imported services types. Since the decision to set up a foreign affiliate is not random,
+but depends on some systematic factors such as the fixed costs or the firm's productivity,
+firms cannot freely choose between sourcing a service from an affiliated or from an inde-
+pendent supplier. Not accounting for this sample selectivity concern would lead to biased
+regression coefficients. Hence, we apply a Heckman-type selection model similar to the
+one outlined in equations (2)-(4), but with the difference that the outcome equation is
+again a probit equation. We first estimate the likelihood that a multinational firm has
+an affiliate in the service sector k. Then, we assess the probability of outsourcing yikjt,out
+­ conditional on the firm having an affiliate in sector k. The decision to source from an
+independent or an affiliated supplier is driven by variations in firm, sector and country
+characteristics:
+yikjt,out
+= 1Yout
++ 2xit
++ 3creditjt
++ 4millsikjt,out
++ uikjt,out > 0 , (5)
+16In 2008, out of the 2,701 multinational service importers, only 266 were classified as intra-firm traders
+using the above definition. These imported, on average, an over six times greater value than arm's-length
+traders (see Table A.5).
+11
+where Yout
+is again the vector of other explanatory variables, xit the growth rate of
+sales (per employee) and creditjt the change in the availability of credit. millsikjt,out is
+the inverse Mills ratio obtained from the selection equation and uikjt,out the error term.
+4 Results
+This section presents the results of estimating the determinants of service offshoring (4.1)
+and the determinants of the mode choice for the sourcing of these services (4.2) as well
+as robustness checks (4.3).
+4.1 Determinants of Service Offshoring
+For our empirical estimations, we restrict the sample to firms for which our main variables
+of interest are available. As we calculate internal cost pressure as the change in sales
+(salesit) and in labor productivity (prodit) between t and t-1, our estimation sample
+is reduced to the years 2003-2008.
+In the first stage of the Heckman procedure, we estimate the probability of a multi-
+national firm being a service importer (extensive margin). Because firms concentrate
+their service activities on only a limited number of countries and service types, the num-
+ber of firm-year-country-service type-year combinations equal to zero by far exceeds the
+number of ones in the inflated dataset. In fact, we observe service imports for only
+0.4% of all firm-country-service type combinations. Since the high ratio of zeros results
+in extremely low marginal effects and increases the computation time substantially, we
+randomly draw a 5% sample of all zeros. In the second stage, we estimate the offshoring
+intensity (intensive margin).
+Extensive Margin
+The results of the first stage estimation are given in the upper part of Table 1. They
+show that productivity has a positive and significant effect on the probability of a firm
+importing services from abroad. The result that more productive firms are more likely to
+12
+engage in international trade is in line with the vast evidence on trade in goods.17 Table
+1 further shows that firms also tend to source from nearby countries with a high GDP
+but low wages in the sector supplying the respective service. These results are highly
+significant at the 1%-level after controlling for unobserved heterogeneity at the country-,
+sector-, service type, and year-level. Firms with a foreign ultimate beneficial owner are
+more likely to import services than firms with a German ultimate beneficial owner and
+are, hence, better able to overcome entry barriers. All these results are very robust to
+the inclusion of additional variables.
+Turning to our main variables of interest, we include internal cost pressure and ex-
+ternal liquidity constraints as explanatory variables (see Columns (3)-(8)). Both the
+growth rate of sales and the growth rate of sales per employee (labor productivity) ex-
+hibit a positive impact on the probability of service offshoring. Or, to put it differently,
+if firms experience a decline in sales or labor productivity, the likelihood that they will
+import services from abroad also decreases. Even though the costs of sourcing services
+may be lower compared with the costs of sourcing goods, it seems plausible that the
+probability of importing a service type from abroad decreases if a firm is under cost
+pressure. The effect is higher for foreign-owned firms, as the positive interaction effect
+indicates.
+We test the external finance channel measured as the mid-point growth rate of cred-
+its. In line with the argument of Borchert and Mattoo (2012), we find no evidence that
+external credit constraints are of importance for services imports. One possible explana-
+tion is that the fixed costs of service traders are well below the fixed costs involved in
+trade in goods. Consequently, the need for finance on the supply side (e.g. for financing
+the production of services) is limited and does not significantly influence the imports of
+services.
+Taken together, these results indicate that internal cost pressures are more important
+17While the literature on the (positive) link between productivity and goods exports is extensive (see,
+for instance, Bernard and Jensen (1999), Bernard et al. (2003), or Wagner (2007) for a survey of the
+existing studies), only a few studies concentrate on imports. A positive effect of productivity on firm's
+imports is found e.g. in Vogel and Wagner (2010) for German manufacturing firms in 2001-2005 (see
+also Vogel and Wagner (2010) for a literature overview regarding importing and productivity).
+13
+than the availability of external finance in determining a firm's decision to be a service
+importer.
+14
+Table 1: Determinants of Service Offshoring (Heckman Two-Step)
+1st stage results: offshoring probability (marginal effects)
+Explanatory Variables Basic salesit prodit
+prodit 0.043a 0.043a 0.043a 0.043a 0.048a 0.048a 0.048a
+(33.42) (32.87) (32.91) (32.27) (35.27) (35.33) (34.45)
+wagekjt -0.022a -0.022a -0.022a -0.025a -0.025a -0.025a -0.027a
+(-3.62) (-3.63) (-3.63) (-3.79) (-3.98) (-3.97) (-4.06)
+gdpjt 0.106a 0.106a 0.106a 0.148a 0.107a 0.108a 0.145a
+(2.80) (2.80) (2.81) (3.09) (2.80) (2.83) (2.97)
+distancej -0.051a -0.051a -0.051a -0.056a -0.051a -0.052a -0.056a
+(-7.68) (-7.70) (-7.72) (-7.31) (-7.66) (-7.69) (-7.19)
+foreignit 0.021a 0.022a 0.021a 0.023a 0.022a 0.021a 0.024a
+(4.92) (5.09) (4.95) (5.26) (5.04) (4.84) (5.27)
+salesit 0.018a 0.010b 0.018a
+(6.92) (2.16) (6.67)
+foreignit  salesit 0.014b
+(2.51)
+prodit 0.015a 0.005 0.015a
+(5.18) (1.01) (5.13)
+foreignit  prodit 0.017a
+(2.94)
+creditjt -0.045 -0.038
+(-1.43) (-1.17)
+2nd stage results: offshoring intensity
+prodit 0.520a 0.525a 0.526a 0.525a 0.545a 0.546a 0.545a
+(28.18) (28.40) (28.42) (28.5) (28.70) (28.73) (28.39)
+wagekjt -0.318a -0.319a -0.319a -0.412a -0.327a -0.326a -0.417a
+(-4.05) (-4.08) (-4.08) (-5.06) (-4.17) (-4.17) (-5.12)
+gdpjt 1.264b 1.241b 1.241b 0.877 1.302a 1.317a 0.945
+(2.54) (2.50) (2.50) (1.50) (2.62) (2.65) (1.62)
+distancej -0.250a -0.244a -0.244a -0.190b -0.249a -0.251a -0.198b
+(-3.02) (-2.96) (-2.96) (-2.08) (-3.01) (-3.04) (-2.16)
+foreignit -0.201a -0.209a -0.220a -0.201a -0.220a -0.238a -0.211a
+(-4.00) (-4.16) (-4.36) (-3.91) (-4.38) (-4.71) (-4.12)
+salesit -0.113a -0.260a -0.109a
+(-2.83) (-3.84) (-2.70)
+foreignit  salesit 0.221a
+(2.67)
+prodit -0.266a -0.455a -0.275a
+(-6.45) (-7.09) (-6.55)
+foreignit  prodit 0.314a
+(3.84)
+creditjt 0.262 0.307
+(0.64) (0.75)
+mills (lambda) 0.732a 0.695a 0.688a 0.658a 0.661a 0.668a 0.626a
+(6.81) (6.52) (6.46) (6.16) (6.40) (6.48) (6.03)
+N 50,275 50,275 50,275 47,650 48,896 48,896 46,335
+Note: The upper part of the table reports 1st stage results on the extensive margin of service imports. Results
+are obtained for a 5% random sample of all zero observations. The lower part reports 2nd stage results on the
+intensive margin conditional on the probability of offshoring. i denotes a firm in sector k in country j and in year
+t. All estimations contain country, sector, service type and year dummies. ap<0.01, b p<0.05, c p<0.1. Robust
+t statistics in parentheses.
+15
+Intensive Margin
+Next, we investigate the determinants of the level of service imports. The results are given
+in the lower part of Table 1. From the baseline model (Column 2), it becomes evident
+that a multinational firm's labor productivity positively affects service imports also in
+terms of imported values. A higher wage level in the sector and country from where the
+imports originate decreases them. This is again in line with the hypothesis that firms
+offshore service activities to save wage costs. The gravity variables, GDP and distance,
+have the expected sign and are mostly significant. Foreign ownership negatively impacts
+the intensive margin of service imports. Hence, whereas foreign ownership increases the
+likelihood of service offshoring (as indicated by the positive coefficient in the upper part
+of Table 1), it decreases its level (as indicated by the negative coefficient in the lower
+part of Table 1).
+From Column (3) onward, we add firm-level measures of cost pressure. Columns
+(3)-(5) show that a sales drop between t and t - 1 significantly increases the level of
+service imports. This effect is stronger for domestically-owned than for foreign-owned
+firms. The inclusion of a drop in labor productivity, as measured by a drop in sales
+per employee, from Column (6) onward, exhibits a similar but even stronger impact
+than the sales drop. While high internal cost pressures seem to prevent firms from
+becoming a service importer (results from the first stage of the Heckman estimation), they
+intensify already existing linkages. Reasoning in terms of Borchert and Mattoo (2012),
+a reduced sales or productivity level puts pressure on the firm to save production costs
+and eventually intensifies the import of services from foreign producers. Furthermore,
+the higher coefficient of the productivity drop variable indicates that a reduced sales
+level becomes especially problematic for firms if it is generated by an equal amount of
+employees, i.e. if the firm is not instantaneously able to adjust its workforce. Likewise,
+the interaction effect is also more pronounced. A productivity drop harms domestically-
+owned multinationals more than foreign-owned multinationals which seem to be better
+able to absorb the increased cost pressure. This latter effect is in line with the literature
+that claims a higher crisis-resilience of global value chains.
+16
+Furthermore, we do not find any evidence that a deterioration in credit conditions
+lowers service trade in a similar way as it affected trade in goods during the recent crisis
+(Columns (5) and (8)).
+4.2 Determinants of Service Sourcing Modes
+In addition to the determinants of service offshoring, we analyze which factors influence
+the mode through which firms import services. The results of estimating a two-stage
+Heckman-type selection model are summarized in Table 2.
+Surprisingly, Column (2) suggests that the probability of having an affiliate in sector
+k is not driven by the labor productivity of the multinational firm. Being diverse in the
+sense of owning affiliates in a wide range of sectors and countries does, however, help
+firms to overcome the entry barrier and makes it more likely that a multinational firm
+will buy or establish an additional affiliate in sector k. Kelle et al. (2012) use a similar
+variable as a proxy for productivity and also find that it is a strong predictor of service
+trade. Wages have the expected negative effect on the dependent variable except for the
+specification in which we control for credit constraints in the outcome equation.
+In contrast to the missing link between productivity and owning an affiliate in sector k
+in the selection equation, productivity is found to negatively impact the decision to source
+from an independent supplier in the outcome equation. Wages again exercise a negative
+influence, the coefficient being highly significant at the 1% level. Thus, the lower the
+wage costs in a sector and country from which the multinational firm imports, the higher
+the propensity that the firm will do so at arm's length. This result is in line with the
+observation that multinational firms pay wage premia which make independent suppliers
+competitive especially in low cost environments. Foreign ownership is not significant in
+any of the specifications. As expected, experience in a foreign market (defined as the
+nationality of the ultimate owner) is positively associated with the likelihood of sourcing
+through independent suppliers.
+In Columns (3)-(8), we introduce again our cost pressure variables. A positive growth
+rate of sales and labor productivity increases the probability of arm's-length importing
+17
+and, accordingly, a negative growth rate decreases it. Hence, ceteris paribus, given a
+certain sales and productivity level of the firm, a drop in these measures induces firms to
+sort into intra-firm trading. In the case of productivity, this effect is stronger for domestic
+firms as indicated by the negative interaction effect. As before, credit constraints do not
+play any role.18
+Table 2: Determinants of Service Outsourcing (Heckman)
+basic salesit prodit
+Selection equation: probability of having an affiliate in the sector (marginal effects)
+prodit 0.0030 0.0035 0.0035 0.0035 0.0034 0.0034 0.0034
+(1.13) (1.30) (1.30) (1.28) (1.27) (1.27) (1.25)
+wagekjt -0.0053c -0.0053c -0.0053c 0.0024 -0.0055c -0.0055c 0.0022
+(-1.81) (-1.80) (-1.80) (0.78) (-1.85) (-1.85) (0.72)
+diverseit 0.1384a 0.1381a 0.1381a 0.1368a 0.1385a 0.1385a 0.1372a
+(38.93) (38.71) (38.70) (37.81) (38.81) (38.78) (37.91)
+Outcome equation: outsourcing probability through arm's-length (marginal effects)
+prodit -0.0129a -0.0144a -0.0144a -0.0136a -0.0161a -0.0158a -0.0152a
+(-5.46) (-5.90) (-5.89) (-5.52) (-6.50) (-6.30 ) (-6.12)
+wagekjt -0.0294a -0.0276a -0.0277a -0.0307a -0.0277a -0.0282a -0.0307a
+(-2.90) (-2.69) (-2.69) (-2.89) (-2.66) (-2.70) (-2.86)
+foreignit -0.0110 -0.0101 -0.0099 -0.0125 -0.0141 -0.0106 -0.0167
+(-1.07) (-0.96) (-0.93) (-1.17) (-1.31) (-0.99) (-1.54)
+experienceikt 0.0567a 0.0583a 0.0583a 0.0613a 0.0651a 0.0637a 0.0681a
+(5.84) (5.89) (5.89) (6.20) (6.44) (6.32) (6.74)
+salesit 0.0281a 0.0313a 0.0276a
+(4.53) (2.70) (4.39)
+foreignit  salesit -0.0049
+(-0.37)
+prodit 0.0371a 0.0621a 0.0359a
+(5.29) (5.76) (5.09)
+foreignit  prodit -0.0410a
+(-3.03)
+creditjt 0.0735 0.0785
+(1.35) (1.42)
+ 0.833 0.820 0.819 0.813 0.811 0.808 0.803
+N 18,632 18,632 18,632 17,885 18,536 18,000 17,791
+Note: The upper part of the table reports results of the selection equation on the likelihood of owning an affiliate
+in sector k. The lower part reports results of the outcome equation on the likelihood of sourcing though an
+independent supplier conditional on the probability of having an affiliate in sector k. i denotes a firm in sector k
+in country j and in year t. All estimations contain country, sector, service type and year dummies. ap<0.01, b
+p<0.05, c p<0.1. Robust t statistics in parentheses.
+18The previous literature has shown that the decision to source from an independent supplier depends
+on the institutional quality in the source country (see, in particular, Antras and Helpman, 2008). In
+unreported estimations, we added variables capturing the quality of regulation and the level of corruption
+in a country. These variables did not have any significant effect. Results are available from the authors
+upon request.
+18
+4.3 Robustness Checks
+In Section 4.1, we estimated the service offshoring probability and intensity using the
+entire sample, i.e. we pooled all different service types together. While goods trade-
+related services, particulary transport services, were hit especially hard in the aftermath
+of the 2007-2008 financial crisis, the decline in business services proved to be moderate.
+Our descriptive statistics presented in Figure A.2 confirm this: the 2009 decrease in
+transport services measured in terms of both import values and number of importers
+was large compared to, for instance, R&D, data processing, management and personnel
+services. Therefore, the inclusion of transport services in the sample might have pushed
+the effects of internal cost pressures and external finance in the direction of goods imports.
+In what follows, we repeat the estimations for a sample from which we exclude transport
+services. We expect the determinants of service imports to differ even more from those
+of goods imports.
+Table 3 reports the results of this exercise. The results of the first stage of the
+Heckman approach differ only slightly from the results presented for the entire sample
+(Table 1). The signs do not change. The probability of offshoring increases with labor
+productivity, but the effect is ­ as expected ­ smaller compared with the sample includ-
+ing transport services. The offshoring probability decreases with higher wage costs in
+the sector and country from where the imports are sourced. These results are highly
+significant at the 1%-level. GDP and distance have the expected sign and are also signif-
+icant. Both cost pressure measures, the growth rate of sales and the growth rate of sales
+per employee (labor productivity), again exhibit a positive impact on the probability of
+service offshoring, but are mostly of smaller magnitude. In line with expectations, in
+times of decreasing sales (per employee) firms which import business services still behave
+similarly to goods importers and are less likely to start importing, but this tendency
+is lower when goods-related services are excluded. Similar to the sample including all
+service types, the coefficient of external liquidity remains insignificant. However, the sign
+changes from negative to positive.
+The results of the second stage of the Heckman estimation confirm that the intensity
+19
+of service offshoring is less responsive to labor productivity when trade in goods-related
+services is excluded (cf. Tables 1 and 3). It is more responsive to foreign ownership. The
+finding that foreign-owned investors offshore less and that this effect is stronger in the
+reduced sample underlines the particular role of transport services. The size of the wage
+coefficient remains similar in both samples.
+Most interestingly, service offshoring also proves to be more responsive to sales or
+productivity drops if the sample is limited to business services. The higher coefficient
+therefore strengthens the hypothesis that firms which experience cost pressures offshore
+more rather than less services. This reaction helps explain the absence of a collapse in
+service trade in times of recession. Again, changes in the availability of external finance
+do not influence service trade.
+20
+Table 3: Determinants of Service Offshoring Excluding Transport (Heckman Two-Step)
+1st stage results: offshoring probability (marginal effects)
+Explanatory Variables Basic salesit prodit
+prodit 0.028a 0.027a 0.027a 0.028a 0.033a 0.033a 0.033a
+(19.83) (19.56) (19.58) (19.51) (22.28) (22.34) (21.94)
+wagekjt -0.018a -0.018a -0.018a -0.021a -0.021a -0.021a -0.023a
+(-2.92) (-2.94) (-2.93) (-3.14) (-3.35) (-3.34) (-3.45)
+gdpjt 0.090b 0.090b 0.090b 0.114b 0.098b 0.099b 0.123b
+(2.31) (2.32) (2.32) (2.18) (2.48) (2.49) (2.30)
+distancej -0.041a -0.041a -0.041a -0.045a -0.043a -0.043a -0.047a
+(-6.26) (-6.28) (-6.30) (-5.57) (-6.39) (-6.43) (-5.66)
+foreignit 0.019a 0.019a 0.019a 0.020a 0.019a 0.018a 0.020a
+(4.20) (4.30) (4.19) (4.18) (4.18) (4.02) (4.12)
+salesit 0.010a 0.001 0.009a
+(6.63) (0.20) (3.43)
+foreignit  salesit 0.014b
+(2.54)
+prodit 0.015a -0.001 0.008a
+(2.94) (-0.31) (2.81)
+foreignit  prodit 0.016a
+(2.77)
+creditjt 0.014 0.019
+(0.39) (0.53)
+2nd stage results: offshoring intensity
+prodit 0.474a 0.486a 0.489a 0.489a 0.520a 0.525a 0.525a
+(20.73) (21.08) (21.18) (21.01) (21.62) (21.78) (21.61)
+wagekjt -0.318a -0.320a -0.320a -0.436a -0.332a -0.331a -0.444a
+(-3.57) (-3.60) (-3.60) (-4.70) (-3.74) (-3.73) (-4.79)
+gdpjt 1.401b 1.365b 1.366b 0.777 1.390b 1.410b 0.821
+(2.20) (2.14) (2.15) (1.02) (2.18) (2.22) (1.07)
+distancej -0.313a -0.305a -0.306a -0.213c -0.299a -0.304a -0.215c
+(-3.06) (-2.99) (-2.99) (-1.83) (-2.93) (-2.98) (-1.82)
+foreignit -0.347a -0.365a -0.369a -0.369a -0.389a -0.404a -0.392a
+(-5.28) (-5.55) (-5.61) (-5.51) (-5.93) (-6.11) (-5.88)
+salesit -0.163a -0.375a -0.169a
+(-3.48) (-4.94) (-3.55)
+foreignit  salesit 0.338a
+(3.54)
+prodit -0.294a -0.543a -0.314a
+(-6.15) (-7.60) (-6.48)
+foreignit  prodit 0.437a
+(4.71)
+creditjt 0.081 0.114
+(0.14) (0.20)
+mills (lambda) 1.103a 1.064a 1.063a 1.005a 0.990a 1.014a 0.943a
+(8.77) (8.51) (8.50) (8.07) (8.21) (8.42) (7.83)
+N 34,844 34,844 34,844 32,978 33,800 33,800 31,987
+Note: The upper part of the table reports 1st stage results on the extensive margin of service imports excluding
+transport services. Results are obtained for a 5% random sample of all zero observations. The lower part reports
+2nd stage results on the intensive margin conditional on the probability of offshoring. i denotes a firm in sector
+k in country j and in year t. All estimations contain country, sector, service type and year dummies. ap<0.01, b
+p<0.05, c p<0.1. Robust t statistics in parentheses.
+21
+5 Conclusions
+The financial crisis in the years 2007-2008 and the resulting recession had a strong impact
+on international trade in goods. In contrast to the general decrease of cross-border
+activities, trade in services proved to be relatively resilient. This has led to the hypothesis
+that the determinants of trade in goods and trade in services differ substantially. While
+the former are very well studied, little is known about the latter. Research on the factors
+that influence service trade has been conducted at the macro level. Micro level datasets
+have only recently become available, and have so far been explored with the aim of
+describing the general pattern of service trade and service traders. As a consequence,
+Borchert and Mattoo (2012)'s arguments that the greater resilience of service trade may,
+amongst others, stem from a lower dependence on external finance and from the tendency
+of firms under cost pressure to offshore services that were formerly provided domestically,
+have remained untested.
+This study has filled the gap in the literature. By combining new data on German
+service trade at the transaction level with existing data on multinational firms, we have
+studied the determinants of service imports. We have put a special emphasis on inves-
+tigating the potential differences compared with factors that influence trade in goods.
+Using a Heckman-type selection model, our first stage results indicate that firms which
+are confronted with a decline in sales and sales per employee (labor productivity) are
+less likely to become a service importer. By contrast, our second stage results suggest
+that firms which are already service importers intensify the existing linkages in times
+of internal cost pressures. Credit constraints which play an important role in trade in
+goods do not seem to have an impact on service imports. The results were strongly
+confirmed when we excluded goods trade-related services, such as transportation, from
+the estimation sample.
+Our results partly support the arguments of Borchert and Mattoo (2012): the prob-
+ability of firms becoming service importers decreases when they face internal cost pres-
+sures. This is not unexpected, but seems to be rather in line with the previous literature
+22
+on trade in goods and cannot explain the crisis-resilience of service trade. However, the
+level of service offshoring increases in the light of internal cost pressures. Both margins
+are unaffected by supply-side credit shortages. These latter results support Borchert
+and Mattoo (2012)'s hypotheses. Such findings are relevant to other researchers since
+they show that firm-level models developed for trade in goods are only partly applicable
+to trade in services. They are also of significance for policymakers. In times of cost
+pressure, firms are unlikely to replace domestic suppliers with foreign suppliers. They
+tend, however, to intensify existing relationships abroad, which may in the long run drive
+domestic firms out of the market.
+23
+References
+Altomonte, C., Mauro, F. D., Ottaviano, G., Rungi, A., Vicard, V., Jan. 2012. Global
+Value Chains During the Great Trade Collapse: a Bullwhip Effect? Working
+Paper Series 1412, European Central Bank.
+Altomonte, C., Ottaviano, G. I., 2009. Resilient to the Crisis? Global Supply Chains
+and Trade Flows. In: The Great Trade Collapse: Causes, Consequences, and
+Prospects. Richard Baldwin, Ch. 11, pp. 95­100.
+Amiti, M., Weinstein, D. E., 2009. Exports and Financial Shocks. NBER Working Papers
+15556, National Bureau of Economic Research, Inc.
+Antras, P., Helpman, E., 2008. Contractual Frictions and Global Sourcing. In: Helpman,
+E., Marin, D., Verdier, T. (Eds.), The Organization of Firms in a Global Econ-
+omy. Harvard University Press, Ch. Contractual Frictions and Global Sourcing,
+pp. 9­54.
+Beck, T., Demirguc-Kunt, A., Levine, R., 1999. A New Database on Financial Devel-
+opment and Structure. Policy Research Working Paper Series 2146, The World
+Bank.
+Bernard, A. B., Eaton, J., Jensen, J. B., Kortum, S., 2003. Plants and Productivity in
+International Trade. American Economic Review 93(4), 1268­1290.
+Bernard, A. B., Jensen, J. B., 1999. Exceptional Exporter Performance: Cause, Effect,
+or Both? Journal of International Economics 47 (1), 1­25.
+Biewen, E., Blank, S., 2012. Margins of Service Trade. Mimeo.
+Borchert, I., Mattoo, A., 2012. The Crisis-Resilience of Services Trade. Service Industries
+Journal 30 (13), 2115­2136.
+Breinlich, H., Criscuolo, C., 2011. International Trade in Services: A Portrait of Im-
+porters and Exporters. Journal of International Economics 84 (2), 188­206.
+Buono, I., Fadinger, H., Berger, S., 2008. The Micro Dynamics of Exporting: Evidence
+from French Firms. MPRA Paper 12940, University Library of Munich, Ger-
+many.
+Chor, D., Manova, K., 2010. Off the Cliff and Back? Credit Conditions and Interna-
+tional Trade during the Global Financial Crisis. NBER Working Papers 16174,
+National Bureau of Economic Research, Inc.
+Conti, G., Turco, A. L., Maggioni, D., 2010. Exporters in Services: New Evidence
+from Italian Firms. Applied Economics Quarterly (formerly: Konjunkturpolitik)
+56 (1), 73­98.
+24
+Davis, S. J., Haltiwanger, J. C., August 1992. Gross Job Creation, Gross Job Destruction,
+and Employment Reallocation. The Quarterly Journal of Economics 107 (3),
+819­63.
+Federico, S., Tosti, E., 2011. Exporters and Importers of Services: Firm-Level Evidence
+on Italy. Working paper, Preliminary version.
+Feenstra, R. C., Li, Z., Yu, M., 2011. Exports and Credit Constraints Under Incomplete
+Information: Theory and Evidence from China. NBER Working Papers 16940,
+National Bureau of Economic Research, Inc.
+Foreign Direct Investment Stock Statistics, April 2012. Special Statistical Publication
+10. Tech. rep., Deutsche Bundesbank.
+URL http://www.bundesbank.de
+Harsch, D., Kleinert, J., 2011. An Almost Ideal Wage Database Harmonizing the ILO Oc-
+tober Inquiry. IAW Discussion Papers 71, Institut für Angewandte Wirtschafts-
+forschung (IAW).
+Hügelschäffer, S., Kromer, D., Lipponer, A., November 2009. Die deutsche Statistik
+über Direktinvestitionen: Neuerungen und wissenschaftliche Nutzung. AStA
+Wirtschafts- und Sozialstatistisches Archiv 3 (3), 157­167.
+IMF, 2010. World Economic Outlook (WEO): Rebalancing Growth. Tech. rep., Inter-
+national Monetary Fund.
+Kelle, M., Kleinert, J., 2010. German Firms in Service Trade. Applied Economics Quar-
+terly (formerly: Konjunkturpolitik) 56 (1), 51­72.
+Kelle, M., Kleinert, J., Raff, H., Toubal, F., 2012. Cross-Border and Foreign-Affiliate
+Sales of Services: Evidence from German Micro-Data. CESifo Working Paper
+Series 3806, CESifo Group Munich.
+Special Statistical Publication 7, March 2009. Notes on the Coding List for the Balance
+of Payments Statistics. Tech. rep., Deutsche Bundesbank.
+URL http://www.bundesbank.de
+Temouri, Y., Vogel, A., Wagner, J., Aug. 2010. Self-Selection into Export Markets by
+Business Services Firms: Evidence from France, Germany and the United King-
+dom. IZA Discussion Papers 5147, Institute for the Study of Labor (IZA).
+UNCTAD, 2010. Global Investment Trends Monitor, No. 2. Tech. rep., Geneva.
+Vogel, A., Wagner, J., 2010. Higher Productivity in Importing German Manufacturing
+Firms: Self-Selection, Learning from Importing, or Both? Review of World
+Economics 145(4), 641­665.
+Wagner, J., 2007. Exports and Productivity: A Survey of the Evidence from Firm Level
+Data. The World Economy 30(1), 60­82.
+25
+Walter, P., Dell'mour, R., 2010. Firm-Level Analysis of International Trade in Services.
+IFC Working Papers (4).
+26
+A Appendix
+A.1 Evolution of Service Imports
+Figure A.1: German Imports of Goods and Services
+200 400 600 800
+import value in bn.
+2002 2004 2006 2008 2010
+year
+Merchandise imports Commercial service imports
+Source: own calculations, data from World Bank (2011).
+27
+Figure A.2: German Service Imports by Services Type
+0 2000 4000 6000
+0 2000 4000 6000
+0 2000 4000 6000
+0 20000 40000 60000
+0 20000 40000 60000
+0 20000 40000 60000
+2002 2004 2006 2008 2010
+2002 2004 2006 2008 2010 2002 2004 2006 2008 2010 2002 2004 2006 2008 2010
+construction transport post & telecommunications insurance
+data processing r&d management services advertising
+personnel services holding activities other services
+imports importers
+year
+Graphs by sector
+Source: own calculations, data from ITS (2011).
+28
+A.2 Classification of Services
+Table A.1: MiDi-ITS Match
+Sector MiDi (NACE Rev. 1) ITS (kza)*
+Construction 4500: Construction 570, 580: Construction Services
+Transport 6000: Land Transport, Pipelines
+6100: Water Transport
+6200: Air Transport
+6300: Supporting & Auxiliary Trans-
+port Activities, Travel Agencies
+20: Air Transport
+210, 220, 300: Sea Transport
+215, 226: Transport by Pipeline
+240, 320: Road Transport & Inland Water
+Transport
+310, 330: Miscellaneous Transport
+560: Repairs to Means of Transport
+Post & Telecommuni-
+cations
+6400: Post & Telecommunications 518: Communications Services
+591: Postal & Courier Services
+Insurance 6600: Insurance & Pension Funding,
+ex. Social Security
+400, 401, 410, 420, 440-445, 450, 451, 460:
+Insurance Transactions
+Data Processing 7200: Computer & Related Activities 513: IT Services
+R&D 7300: Research & Development 501: Artistic Copyrights
+502: Patents, Licenses & Inventions
+511: R&D Activities
+Management Services 7411: Legal Advice
+7412: Accounting, Bookkeeping & Au-
+diting Activities, Tax Consultancy
+7413: Market Research, Public Opin-
+ion Polling
+7414: Business & Management Con-
+sultancy
+516: Commercial, Organisational and Ad-
+ministrative Services
+519: Other Entrepreneurial Activities
+Advertising 7440: Advertising 540: Advertising & Fair Costs
+Personnel Services 7450: Labor Recruitment & Provision
+of Personnel
+517: Personnel Leasing
+521: Compensation of Employees
+Holding Activities 7490: Management Activities of Hold-
+ing Companies
+523: Commission Fees
+530: Subsidies to Subsidiaries
+* According to the Bundesbank coding list, see Special Statistical Publication 7 (March 2009).
+29
+Table A.2: Representative Occupations by Industry
+Occupation Industry
+Farm supervisor Agricultural production (field crops)
+Miner Coalmining
+Supervisor or general foreman Crude petroleum and natural gas production
+Miner Other mining and quarrying
+Baker (ovenman) Manufacture of bakery products
+Cloth weaver (machine) Spinning, weaving and finishing textiles
+Sewing-machine operator Manufacture of wearing apparel (except footwear)
+Shoe sewer (machine) Manufacture of footwear
+Sawmill sawyer Sawmills, planing and other wood mills
+Paper-making-machine operator (wet end) Manufacture of pulp, paper and paperboard
+Printing pressman Printing, publishing and allied industries
+Controlman Petroleum refineries
+Mixing- and blending-machine operator Manufacture of industrial chemicals
+Blast furnaceman (ore smelting) Iron and steel basic industries
+Welder Manufacture of metal products (except machinery and equipment)
+Machinery fitter-assembler Manufacture of machinery (except electrical)
+Electronic equipment assembler Manufacture of electronic equipment, machinery and supplies
+Ship plater Shipbuilding and repairing
+Wooden furniture finisher Manufacture of wooden furniture and fixtures
+Electric power lineman Electric light and power
+Building electrician Construction
+Automobile mechanic Repair of motor vehicles
+Salesperson Wholesale trade (grocery)
+Salesperson Retail trade (grocery)
+Cook Restaurants and hotels
+Automobile mechanic Passenger transport by road
+Aircraft accident fire-fighter Supporting services to air transport
+Post office counter clerk Communication
+Bank teller Banks
+Insurance agent Insurance
+Clerk of works Engineering and architectural services
+Stenographer-typist Public administration
+Technical education teacher (second level) Education services
+Professional nurse (general) Medical and dental services
+30
+A.3 Descriptive Statistics
+Table A.3: Service Imports by Firm Type
+Year No FDI, service
+imports
+FDI, service imports Total
+2002 No. of firms 26,600 2,781 29,381
+Import value 51,325.11 89,549.54 140,874.7
+Av. import value 0.43543456 2.0028975 0.86648902
+2003 No. of firms 26,737 2,651 29,388
+Import value 51,649.85 75,430.32 127,080.2
+Av. import value 0.41495822 1.6007453 0.74059497
+2004 No. of firms 25,287 2,568 27,855
+Import value 56,232.01 75,437.7 131,669.7
+Av. import value 0.47045839 1.6287612 0.79394673
+2005 No. of firms 24,287 2,544 26,831
+Import value 58,952.18 80,554.47 139,506.7
+Av. import value 0.49429575 1.6830217 0.83472939
+2006 No. of firms 24,607 2,614 27,221
+Import value 63,320.4 83,507.23 146,827.6
+Av. import value 0.52234213 1.6951308 0.86122479
+2007 No. of firms 25,412 2,638 28,050
+Import value 68,919.42 90,102.99 159,022.4
+Av. import value 0.54839843 1.8265353 0.90867872
+2008 No. of firms 25,775 2,701 28,476
+Import value 72,188.33 102,190.5 174,378.8
+Av. import value 0.5577274 2.0352208 0.97069094
+Note: own calculations. Data from ITS and MiDi. Import values are in e million.
+31
+Table A.4: Descriptive Statistics of the Explanatory Variables
+mode wagekjt prodit gdpjt distancej foreignit prodit salesit creditjt diverseit experikjt
+No service mean 1089.671 1570.081 516678 5385.606 0.48518 0.02106 -0.00528 0.13379 0 0
+Trade sd 1155.736 10854.49 1464640 4256.653 0.49979 0.58611 0.64266 0.11139 0 0
+N 31,737 31,737 31,737 31,737 31,737 30,454 31,737 29,856 0 0
+Service trade mean 1665.526 7043.814 1190226 3826.368 0.47895 0.03785 0.01866 0.11260 1.74670 0.10981
+Intra-firm sd 1338.407 124236.5 2411860 4156.653 0.49959 0.39691 0.40321 0.08913 0.90524 0.31268
+N 7,737 7,959 7,959 7,959 7,959 7,940 7,959 7,642 7,959 7,959
+Service trade mean 1712.442 9718.402 1529858 3187.068 0.56404 0.07930 0.06805 0.10911 1.55355 0.21032
+Extra-firm sd 1210.334 152852.6 2692503 3710.633 0.49591 0.42347 0.42783 0.08344 0.72685 0.40756
+N 10,579 10,579 10,579 10,579 10,579 10,502 10,579 10,152 10,579 10,579
+Total mean 1311.879 4151.215 836503 4676.142 0.50079 0.03629 0.01394 0.12513 1.63648 0.16717
+sd 1232.764 86287.63 1996462 4214.000 0.50000 0.52782 0.57080 0.10324 0.81389 0.37314
+N 50,275 50,275 50,275 50,275 50,275 48,896 50,275 47,650 18,538 18,538
+32
+Table A.5: Service Imports by Mode
+year intra-firm trade extra-firm trade total
+2002 No. of firms 280 2,501 2,781
+Import value 71,771.35 17,778.19 89,549.54
+Av. import value 4.8820727 0.59242874 2.0028975
+2003 No. of firms 289 2,362 2,651
+Import value 57,164.62 18,265.7 75,430.32
+Av. import value 3.7345412 0.57412227 1.6007453
+2004 No. of firms 281 2,287 2,568
+Import value 52,857.67 22,580.03 75,437.7
+Av. import value 3.5051507 0.72288484 1.6287612
+2005 No. of firms 264 2,280 2,544
+Import value 56,097.34 24,457.13 80,554.47
+Av. import value 3.620351 0.75559599 1.6830217
+2006 No. of firms 287 2,327 2,614
+Import value 57,739.55 25,767.68 83,507.23
+Av. import value 3.5340649 0.78261734 1.6951308
+2007 No. of firms 283 2,355 2,638
+Import value 65,904.87 24,198.12 90,102.99
+Av. import value 4.0881379 0.72866136 1.8265353
+2008 No. of firms 266 2,435 2,701
+Import value 75,572.56 26,617.91 102,190.5
+Av. import value 4.8484354 0.76877051 2.0352208
+Note: own calculations. Data from ITS and MiDi. Import values are in e million.
+33
+34
+The following Discussion Papers have been published since 2012:
+01 2012 A user cost approach to capital measurement
+in aggregate production functions Thomas A. Knetsch
+02 2012 Assessing macro-financial linkages: Gerke, Jonsson, Kliem
+a model comparison exercise Kolasa, Lafourcade, Locarno
+Makarski, McAdam
+03 2012 Executive board composition A. N. Berger
+and bank risk taking T. Kick, K. Schaeck
+04 2012 Stress testing German banks Klaus Duellmann
+against a global cost-of-capital shock Thomas Kick
+05 2012 Regulation, credit risk transfer Thilo Pausch
+with CDS, and bank lending Peter Welzel
+06 2012 Maturity shortening and market failure Felix Thierfelder
+07 2012 Towards an explanation of cross-country
+asymmetries in monetary transmission Georgios Georgiadis
+08 2012 Does Wagner's law ruin the sustainability Christoph Priesmeier
+of German public finances? Gerrit B. Koester
+09 2012 Bank regulation and stability: Gordon J. Alexander
+an examination of the Basel Alexandre M. Baptista
+market risk framework Shu Yan
+10 2012 Capital regulation, liquidity Gianni De Nicolň
+requirements and taxation Andrea Gamba
+in a dynamic model of banking Marcella Lucchetta
+11 2012 Credit portfolio modelling and Dilek Bülbül
+its effect on capital requirements Claudia Lambert
+35
+12 2012 Trend growth expectations and Mathias Hoffmann
+U.S. house prices before and after Michael U. Krause
+the crisis Thomas Laubach
+13 2012 The PHF: a comprehensive panel Ulf von Kalckreuth
+survey on household finances Martin Eisele, Julia Le Blanc
+and wealth in Germany Tobias Schmidt, Junyi Zhu
+14 2012 The effectiveness of monetary policy
+in steering money market rates during Puriya Abbassi
+the financial crisis Tobias Linzert
+15 2012 Cyclical adjustment in fiscal rules:
+some evidence on real-time bias
+for EU-15 countries Gerhard Kempkes
+16 2012 Credit risk connectivity in the Jakob Bosma
+financial industry and stabilization effects Micheal Koetter
+of government bailouts Michael Wedow
+17 2012 Determinants of bank interest margins: O. Entrop, C. Memmel
+impact of maturity transformation B. Ruprecht, M. Wilkens
+18 2012 Tax incentives and capital structure choice: Thomas Hartmann-Wendels
+evidence from Germany Ingrid Stein, Alwin Stöter
+19 2012 Competition for internal funds within
+multinational banks: Cornelia Düwel
+foreign affiliate lending in the crisis Rainer Frey
+20 2012 Fiscal deficits, financial fragility, and Markus Kirchner
+the effectiveness of government policies Sweder van Wijnbergen
+21 2012 Saving and learning: theory and evidence
+from saving for child's college Junyi Zhu
+36
+22 2012 Relationship lending in the interbank market Falk Bräuning
+and the price of liquidity Falko Fecht
+23 2012 Estimating dynamic tax revenue Gerrit B. Koester
+elasticities for Germany Christoph Priesmeier
+24 2012 Identifying time variability in stock Michael Stein, Mevlud Islami
+and interest rate dependence Jens Lindemann
+25 2012 An affine multifactor model with macro
+factors for the German term structure: Arne Halberstadt
+changing results during the recent crises Jelena Stapf
+26 2012 Determinants of the interest rate Tobias Schlüter, Ramona Busch
+pass-through of banks - Thomas Hartmann-Wendels
+evidence from German loan products Sönke Sievers
+27 2012 Early warning indicators for the German Nadya Jahn
+banking system: a macroprudential analysis Thomas Kick
+28 2012 Diversification and determinants
+of international credit portfolios: Benjamin Böninghausen
+evidence from German banks Matthias Köhler
+29 2012 Finding relevant variables
+in sparse Bayesian factor models: Sylvia Kaufmann
+economic applications and simulation results Christian Schumacher
+30 2012 Measuring option implied degree
+of distress in the US financial sector Philipp Matros
+using the entropy principle Johannes Vilsmeier
+31 2012 The determinants of service imports: Elena Biewen
+the role of cost pressure Daniela Harsch
+and financial constraints Julia Spies
+37
+The following Discussion Papers have been published since 2011:
+Series 1: Economic Studies
+01 2011 Long-run growth expectations M. Hoffmann
+and "global imbalances" M. Krause, T. Laubach
+02 2011 Robust monetary policy in a
+New Keynesian model with imperfect Rafael Gerke
+interest rate pass-through Felix Hammermann
+03 2011 The impact of fiscal policy on
+economic activity over the business cycle ­ Anja Baum
+evidence from a threshold VAR analysis Gerrit B. Koester
+04 2011 Classical time-varying FAVAR models ­ S. Eickmeier
+estimation, forecasting and structural analysis W. Lemke, M. Marcellino
+05 2011 The changing international transmission of Sandra Eickmeier
+financial shocks: evidence from a classical Wolfgang Lemke
+time-varying FAVAR Massimiliano Marcellino
+06 2011 FiMod ­ a DSGE model for Nikolai Stähler
+fiscal policy simulations Carlos Thomas
+07 2011 Portfolio holdings in the euro area ­
+home bias and the role of international, Axel Jochem
+domestic and sector-specific factors Ute Volz
+08 2011 Seasonality in house prices F. Kajuth, T. Schmidt
+09 2011 The third pillar in Europe:
+institutional factors and individual decisions Julia Le Blanc
+10 2011 In search for yield? Survey-based C. M. Buch
+evidence on bank risk taking S. Eickmeier, E. Prieto
+38
+11 2011 Fatigue in payment diaries ­
+empirical evidence from Germany Tobias Schmidt
+12 2011 Currency blocs in the 21st century Christoph Fischer
+13 2011 How informative are central bank assessments Malte Knüppel
+of macroeconomic risks? Guido Schultefrankenfeld
+14 2011 Evaluating macroeconomic risk forecasts Malte Knüppel
+Guido Schultefrankenfeld
+15 2011 Crises, rescues, and policy transmission Claudia M. Buch
+through international banks Cathérine Tahmee Koch
+Michael Koetter
+16 2011 Substitution between net and gross settlement Ben Craig
+systems ­ A concern for financial stability? Falko Fecht
+17 2011 Recent developments in quantitative models
+of sovereign default Nikolai Stähler
+18 2011 Exchange rate dynamics, expectations,
+and monetary policy Qianying Chen
+19 2011 An information economics perspective D. Hoewer
+on main bank relationships and firm R&D T. Schmidt, W. Sofka
+20 2011 Foreign demand for euro banknotes Nikolaus Bartzsch
+issued in Germany: estimation using Gerhard Rösl
+direct approaches Franz Seitz
+21 2011 Foreign demand for euro banknotes Nikolaus Bartzsch
+issued in Germany: estimation using Gerhard Rösl
+indirect approaches Franz Seitz
+39
+22 2011 Using cash to monitor liquidity ­ Ulf von Kalckreuth
+implications for payments, currency Tobias Schmidt
+demand and withdrawal behavior Helmut Stix
+23 2011 Home-field advantage or a matter of Markus Baltzer
+ambiguity aversion? Local bias among Oscar Stolper
+German individual investors Andreas Walter
+24 2011 Monetary transmission right from the start:
+on the information content of the Puriya Abbassi
+eurosystem's main refinancing operations Dieter Nautz
+25 2011 Output sensitivity of inflation in
+the euro area: indirect evidence from Annette Fröhling
+disaggregated consumer prices Kirsten Lommatzsch
+26 2011 Detecting multiple breaks in long memory: Uwe Hassler
+the case of U.S. inflation Barbara Meller
+27 2011 How do credit supply shocks propagate Sandra Eickmeier
+internationally? A GVAR approach Tim Ng
+28 2011 Reforming the labor market and
+improving competitiveness: Tim Schwarzmüller
+an analysis for Spain using FiMod Nikolai Stähler
+29 2011 Cross-border bank lending, Cornelia Düwel, Rainer Frey
+risk aversion and the financial crisis Alexander Lipponer
+30 2011 The use of tax havens in exemption Anna Gumpert
+regimes James R. Hines, Jr.
+Monika Schnitzer
+31 2011 Bank-related loan supply factors
+during the crisis: an analysis based on the
+German bank lending survey Barno Blaes
+40
+32 2011 Evaluating the calibration of multi-step-ahead
+density forecasts using raw moments Malte Knüppel
+33 2011 Optimal savings for retirement: the role of Julia Le Blanc
+individual accounts and disaster expectations Almuth Scholl
+34 2011 Transitions in the German labor market: Michael U. Krause
+structure and crisis Harald Uhlig
+35 2011 U-MIDAS: MIDAS regressions C. Foroni
+with unrestricted lag polynomials M. Marcellino, C. Schumacher
+41
+Series 2: Banking and Financial Studies
+01 2011 Contingent capital to strengthen the private
+safety net for financial institutions:
+Cocos to the rescue? George M. von Furstenberg
+02 2011 Gauging the impact of a low-interest rate Anke Kablau
+environment on German life insurers Michael Wedow
+03 2011 Do capital buffers mitigate volatility Frank Heid
+of bank lending? A simulation study Ulrich Krüger
+04 2011 The price impact of lending relationships Ingrid Stein
+05 2011 Does modeling framework matter?
+A comparative study of structural Yalin Gündüz
+and reduced-form models Marliese Uhrig-Homburg
+06 2011 Contagion at the interbank market Christoph Memmel
+with stochastic LGD Angelika Sachs, Ingrid Stein
+07 2011 The two-sided effect of financial
+globalization on output volatility Barbara Meller
+08 2011 Systemic risk contributions: Klaus Düllmann
+a credit portfolio approach Natalia Puzanova
+09 2011 The importance of qualitative risk
+assessment in banking supervision Thomas Kick
+before and during the crisis Andreas Pfingsten
+10 2011 Bank bailouts, interventions, and Lammertjan Dam
+moral hazard Michael Koetter
+11 2011 Improvements in rating models
+for the German corporate sector Till Förstemann
+42
+12 2011 The effect of the interbank network
+structure on contagion and common shocks Co-Pierre Georg
+13 2011 Banks' management of the net interest Christoph Memmel
+margin: evidence from Germany Andrea Schertler
+14 2011 A hierarchical Archimedean copula
+for portfolio credit risk modelling Natalia Puzanova
+15 2011 Credit contagion between Natalia Podlich
+financial systems Michael Wedow
+16 2011 A hierarchical model of tail dependent
+asset returns for assessing portfolio credit risk Natalia Puzanova
+17 2011 Contagion in the interbank market Christoph Memmel
+and its determinants Angelika Sachs
+18 2011 Does it pay to have friends? Social ties A. N. Berger, T. Kick
+and executive appointments in banking M. Koetter, K. Schaeck
+43
+Visiting researcher at the Deutsche Bundesbank
+The Deutsche Bundesbank in Frankfurt is looking for a visiting researcher. Among others
+under certain conditions visiting researchers have access to a wide range of data in the
+Bundesbank. They include micro data on firms and banks not available in the public.
+Visitors should prepare a research project during their stay at the Bundesbank. Candidates
+must hold a PhD and be engaged in the field of either macroeconomics and monetary
+economics, financial markets or international economics. Proposed research projects
+should be from these fields. The visiting term will be from 3 to 6 months. Salary is
+commensurate with experience.
+Applicants are requested to send a CV, copies of recent papers, letters of reference and a
+proposal for a research project to:
+Deutsche Bundesbank
+Personalabteilung
+Wilhelm-Epstein-Str. 14
+60431 Frankfurt
+GERMANY
+

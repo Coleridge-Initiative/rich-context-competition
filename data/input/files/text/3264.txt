@@ -1,0 +1,592 @@
+Article
+Adaptation-Induced Blindness
+Is Orientation-Tuned and
+Monocular
+Deborah Apthorp
+Research School of Psychology, College of Medicine, Biology &
+Environment, Australian National University, Australia;
+Research School of Computer Science, College of Engineering and
+Computer Science, Australian National University, Australia
+Scott Griffiths
+Melbourne School of Psychological Sciences, University of Melbourne,
+Australia
+David Alais
+School of Psychology, Faculty of Science, University of Sydney, Australia
+John Cass
+School of Social Sciences and Psychology, University of Western Sydney,
+Australia
+Abstract
+We examined the recently discovered phenomenon of Adaptation-Induced Blindness (AIB), in
+which highly visible gratings with gradual onset profiles become invisible after exposure to a rapidly
+flickering grating, even at very high contrasts. Using very similar stimuli to those in the original AIB
+experiment, we replicated the original effect across multiple contrast levels, with observers at
+chance in detecting the gradual onset stimuli at all contrasts. Then, using full-contrast target stimuli
+with either abrupt or gradual onsets, we tested both the orientation tuning and interocular
+transfer of AIB. If, as the original authors suggested, AIB were a high-level (perhaps parietally
+mediated) effect resulting from the `gating' of awareness, we would not expect the effects of AIB to
+be tuned to the adapting orientation, and the effect should transfer interocularly. Instead, we find
+that AIB (which was present only for the gradual onset target stimuli) is both tightly orientation-
+tuned and shows absolutely no interocular transfer, consistent with a very early cortical locus.
+Keywords
+adaptation-induced blindness, orientation tuning, awareness
+Corresponding author:
+Deborah Apthorp, Research School of Psychology, College of Medicine, Biology & Environment, Australian National
+University, ACT 2601, Australia.
+Email: deborah.apthorp@anu.edu.au
+i-Perception
+March-April 2017, 1­15
+! The Author(s) 2017
+DOI: 10.1177/2041669517698149
+journals.sagepub.com/home/ipe
+Creative Commons CC-BY: This article is distributed under the terms of the Creative Commons Attribution 3.0 License
+(http://www.creativecommons.org/licenses/by/3.0/) which permits any use, reproduction and distribution of the work without
+further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sage-
+pub.com/en-us/nam/open-access-at-sage).
+Neurons at the earliest stages of visual cortical processing respond preferentially to retinal
+image movement (De Valois, Yund, & Hepler, 1982; Hubel & Wiesel, 1962; Movshon &
+Newsome, 1996). Not only does retinal motion inform us about the relative speeds and
+trajectories of objects in our visual environment (including our own bodies), but it can
+also capture our attention (Cass, Van der Burg, & Alais, 2011), break object camouflage,
+and can even inform us about the surface properties of objects (Doerschner et al., 2011).
+Prolonged exposure to `fast' ($10 Hz) movement or flicker, however, can temporarily alter
+visual processing and cause a range of perceptual effects. Movement at a recently adapted
+retinal location appears slowed (Thompson, 1981; see Hietanen, Crowder, Price, & Ibbotson,
+2007 for an electrophysiological analogue of this effect). Under certain conditions, adaptation
+can even cause illusory reversals in perceived motion direction (Arnold, Pearce, & Marinovic,
+2014). Notably, flicker adaptation produces subsequent elevation in detection thresholds,
+most significantly when adaptor and target stimuli are similarly oriented (Campbell &
+Kulikowski, 1966; Cass, Johnson, Bex, & Alais, 2012).
+In 2010, Motoyoshi and Hayakawa introduced a compelling new illusion, Adaptation-
+Induced Blindness (AIB). Following prolonged exposure to $10Hz motion, a target grating is
+then ramped on from zero to full (or near full) contrast, with either a gradual or an abrupt
+temporal profile. The slope of this onset ramp has a profound effect on subsequent perception:
+whereas high-contrast patterns with abrupt onsets are clearly visible (although still somewhat
+affected), gradually presented patterns become temporarily `invisible'. Motoyoshi and Hayakawa
+(2010) attribute this effect to relatively high-level processes, possibly involving parietal brain
+regions, suggesting that the visual transients associated with abrupt-onset stimuli are necessary
+to prompt visual awareness of the stimuli. They further suggest that even though the `invisible'
+stimuli are not available to awareness, they can still cause low-level effects such as the tilt illusion,
+suggesting that there is some processing of the suppressed stimuli at lower levels of visual
+processing, such as primary visual cortex (V1). This study is designed to evaluate the relative
+contribution of low- and high-level visual processes to the AIB phenomenon.
+An image presented to the retina generates a cascade of neural activity throughout
+the cortex, principally via lateral geniculate nucleus (LGN) and V1. LGN neurons
+are monocular, receiving exclusive input from the ipsilateral eye. They are selective for
+parameters such as spatial frequency, temporal frequency, as well as retinal location. They
+are not orientation-selective, however. That is to say, their receptive fields are roughly isotropic
+in the orientation domain (Alonso, Usrey, & Reid, 2001; Cheong, Tailby, Solomon, & Martin,
+2013; Hubel & Wiesel, 1961; 1968; 1962). Consequently, adapting LGN neurons to a Gabor
+stimulus drifting or flickering in the alpha (8­12 Hz) range--similar to that used by Motoyoshi
+and Hayakawa (2010)--causes their subsequent responses to be strongly attenuated to an
+approximately equivalent extent across the driving orientation spectrum (Solomon, Peirce,
+Dhruv, & Lennie, 2004).
+The transmission of signals from LGN to V1 is functionally significant for several reasons.
+For example, orientation selectivity first emerges in V1 (Ferster & Miller, 2000; Hubel &
+Wiesel, 1968). While neurons in both areas respond to luminance-defined edges, only V1
+contains an abundance of highly orientation-selective cells (Ringach, Shapley, & Hawken,
+2002); most LGN cells respond equivalently to all orientations. As observed in LGN,
+profound adaptation effects are observed in V1 following prolonged exposure to flickering
+gratings (Boynton & Finney, 2003). Consistent with their orientation tuning, and unlike in
+LGN, V1 adaptation effects are orientation specific (Anderson & Burr, 1985; Blakemore &
+Nachmias, 1971; Campbell & Kulikowski, 1966; Snowden, 1991). Therefore, if AIB is
+mediated at a cortical stage of processing, reports of invisibility following adaptation to
+rapid flicker should peak at the adapting orientation.
+2 i-Perception
+Another functional change between LGN and V1 is the emergence of binocularly driven
+responses (Hubel & Wiesel, 1962). Whereas LGN neurons are driven monocularly, V1 is the first
+stage in visual processing to contain neurons which respond (in varying proportions) to both
+eyes. Because many V1 cells can be driven equally by either eye, many adaptation effects transfer
+interocularly (Bjorklund & Magnussen, 1981; Blake, Overton, & Lema-Stern, 1981; Gilinsky &
+Doherty, 1969), although some do not. For example, both Cass et al. (2012) and Baker and
+Meese (2012) reported that the loss of sensitivity following adaptation to a flickering Gabor of
+low spatial frequency ($ < 1.5 cpd) failed to transfer when adapting and testing in different eyes
+(i.e., interocularly). Intriguingly, this monocular threshold elevation effect was insensitive to
+orientation differences between adaptor and target patterns (i.e., it was purely isotropic).
+However, since the earliest levels of V1 are both orientation-selective and monocular, it is
+possible that some forms of adaptation may show both eye- and orientation-selective effects.
+Unlike early visual cortex, higher level parietal areas respond (amongst many other things) to
+the orientation of visual objects involved in behavioural interaction such as grasping (Murata,
+Gallese, Luppino, Kaseda, & Sakata, 2000) and to the slant of 3D stereoscopic surfaces
+(Shikata, Tanaka, Nakamura, Taira, & Sakata, 1996) We know of no physiological evidence,
+however, that parietal cortex is selective simply to the 2D orientation of the retinal stimulus.
+In this article, we will investigate both the orientation tuning and interocular transfer of
+AIB. Given that AIB and classical threshold elevation result from similar adaptation
+paradigms (Baker & Meese, 2012; Cass et al., 2012), we might expect to observe a similar
+pattern of results: (a) An orientation-invariant component which is specific to the adapted eye
+(i.e., failing to transfer interocularly), and therefore possibly mediated at precortical locus
+(Solomon et al., 2004); and (b) an orientation-specific component which transfers between the
+eyes, and therefore likely to be cortical in origin.
+By contrast, if AIB were a predominantly `high-level' phenomenon, possibly involving
+parietal structures and mediated by attentional gating (Motoyoshi & Hayakawa, 2010), in the
+absence of any physiological evidence suggesting that parietal cortex might be selective to
+either 2D retinal orientation or eye of origin, we reason that if AIB were mediated within
+parietal cortex (Motoyoshi & Hayakawa, 2010), we would expect it to be weakly tuned (or
+completely untuned) for orientation and to exhibit complete--or at least partial--interocular
+transfer.
+Experiment 1: AIB Across Contrast Levels
+Experiment 1 aimed to replicate Motoyoshi and Hayakawa's original (2010) findings. Key to these
+findings was that the gradually presented target stimuli were not visible even at high contrasts,
+unlike the abruptly presented stimuli, which are more similar to those used in measuring contrast
+detection thresholds (where detection typically improves as function of contrast). Thus, it was
+necessary to measure detection of target Gabors at several levels of target contrast. Using the
+method of constant stimuli, participants adapted to fast (8Hz) flicker and in a 4AFC paradigm
+(a simplified version of Motoyoshi and Hayakawa's original 8AFC paradigm) indicated the
+perceived location of a gradually on-ramped target stimulus. Target stimuli were presented at
+contrasts of 0.06, 0.09, 0.13, 0.18, 0.25, 0.35, 0.5, 0.71 and 1 (full contrast).
+Methods
+Participants. Six adults with normal or corrected-to-normal vision participated in the
+experiment. All participants, including three of the authors, were experienced
+psychophysical observers; three were nai¨ve to the purpose of the experiment.
+Apthorp et al. 3
+Stimuli and apparatus. Stimuli were programmed in MATLAB version 2015b using the
+Psychophysics Toolbox version 3.0.12 (Brainard, 1997; Pelli, 1997). Visual stimuli were
+presented on a ViewPixx custom LCD monitor with a screen resolution of 1920 Â 1080
+pixels and a vertical refresh rate of 120 Hz. The monitor was gamma-corrected to ensure
+linear luminance output and was controlled by a quad core Mac Pro computer. The ViewPixx
+monitor incorporated a digital-to-analogue converter that provided 12-bit resolution for
+measurement of low-contrast thresholds. Maximum and minimum luminances were 96.2
+and 0.1 cd/m2, and mean luminance was 48.05 cd/m2. Participants sat in a darkened room
+with their head supported by a chin rest at a distance of 41 cm from the monitor and made
+responses on a standard keyboard.
+The adaptor was a counterphasing grating composed of two superimposed sine-wave
+gratings drifting leftwards and rightwards at a speed which produced 8 Hz flicker, equal to
+the speed of the drifting gratings used by Motoyoshi and Hayakawa (2010), and was
+presented at full contrast. Counterphasing gratings were used as adaptors instead of
+drifting gratings because drifting gratings produce potentially confounding motion
+aftereffects (Pantle & Sekuler, 1969), and might reasonably be expected to induce saccades
+in the direction of the drift, thereby disrupting fixation and adaptation. The spatial frequency
+and orientation of the adaptor were kept constant at 1.5 c.p.d and 0, respectively. Each
+adaptor was enclosed in a circular aperture whose diameter subtended 3.92 of visual angle
+and was edge-blurred by a cosine ramp that transitioned from minimum to maximum over
+0.78 of visual angle.
+The target stimulus was a static Gabor (phase was randomized) with equal spatial
+frequency to the adaptors but variable contrast. The Gaussian spatial envelope of the
+target had a standard deviation of 0.65 of visual angle and was equal in diameter to the
+adaptors. The target grating ramped on and off in a temporal Gaussian window of 1,000 ms
+with a standard deviation of 200 ms, starting 1,000 ms after adaptor offset. This was jittered
+by a period of 1 to 240 ms to increase temporal uncertainty.
+The visual display comprised four virtual display windows. The counterphasing adapting
+gratings appeared within these windows, such that the centre of each adapting grating was at
+5.9 eccentricity, as in Motoyoshi and Hayakawa (2010), and appeared on a grey background
+held at mean luminance.
+Procedure. Participants pressed a key to initiate trials and were presented with four
+counterphasing adaptors, one appearing in each aperture. Adaptors were displayed for 30 s
+for the initial two trials, with 10 s ``top-ups'' for subsequent trials. Following offset of the
+adaptors, the target appeared in one of the four locations (fully randomized), and a
+spatial four-alternative forced-choice task required observers to use a standard keyboard
+to indicate in which aperture it had appeared. Before the sessions, participants were
+reminded to keep their eyes fixated on the central cross and to avoid blinking as much as
+possible. Each target contrast was presented 10 times, randomly interleaved, for two blocks,
+meaning each participant completed 20 trials per target contrast level, a total of 180 trials.
+Targets were ramped on and off in a temporal Gaussian envelope with a standard deviation
+of 200 ms.
+Participants were instructed to maintain fixation on the central fixation cross and to
+guess if they failed to observe the target. The fixation cross appeared white during
+presentation of the adaptors and grey during target onset and offset, before changing back
+to white to prompt the participant to respond. The next trial began immediately after
+response. Each of the adaptation blocks comprised 90 trials and took approximately
+40 minutes to complete.
+4 i-Perception
+Results
+Although some subjects showed slightly above-chance performance (see Figure 1(a)), on
+average, there was no difference in performance across contrast levels (in other words,
+unlike in conventional contrast adaptation experiments (Ross & Speed, 1991), there was
+no increase in detection levels at higher contrasts); F(8.40) ¼ 1.18, p ¼ .335; see Figure 1(b).
+In addition, there was no significant difference from chance performance (25% detection)
+across all the contrast levels (see Table 1). Thus, we closely replicated the results of
+Motoyoshi and Hayakawa (2010).
+Experiment 2: Interocular Transfer of AIB
+In Experiment 1, we replicated Motoyoshi and Hayakawa's basic AIB effect, ensuring that
+we tested equal numbers of trials at all contrast levels. It is clear from the results that this
+effect does not resemble classical contrast adaptation, in that the effect is equal across the
+entire range of target contrasts. Thus, we went on to test whether it differed in other ways
+from classical contrast adaptation; would it transfer between the eyes, or to target stimuli at
+different orientations from the adapting stimulus? If, as Motoyoshi and Hayakawa suggest,
+the effect is a higher level, parietal effect involving attentional gating, it should be occurring at
+levels beyond binocular combination, and so we should expect to see full interocular transfer
+and, potentially, little or no orientation tuning.
+Figure 1. Results from Experiment 1, testing detection of gradually-onset target stimuli after adaptation to
+fast (8 Hz) flicker at the full range of target contrasts. (a) individual results; (b) mean results across the six
+participants (error bars show Æ 1 standard error). As this was a 4AFC task, chance detection threshold was
+.25. There was no statistical difference from chance at any of the contrast levels, suggesting full adaptation-
+induced blindness.
+Apthorp et al. 5
+Methods
+Participants. Five adults with normal or corrected-to-normal vision participated in the
+experiment. Three participants, including two of the authors, were experienced psychophysical
+observers, whilst the remaining participants were naive to the purposes of the study.
+Apparatus and stimuli. Stimuli were programmed in MATLAB version 7.9 using the
+Psychophysics Toolbox version 3 (Brainard, 1997; Pelli, 1997). Visual stimuli were
+presented on a Sony Triniton CPD-G500 22-in. CRT monitor with a screen resolution of
+1024 Â 768 pixels and a vertical refresh rate of 100 Hz. The monitor was gamma-corrected to
+ensure linear luminance output and was controlled by a quad core Mac Pro computer
+connected to a Cambridge Research Systems Bitsþþ digital-to-analogue converter that
+provided 14-bit resolution for measurement of low-contrast thresholds. Maximum and
+minimum luminances were 67.3 and 0.26 cd/m2, and mean luminance was 33.8 cd/m2.
+Participants sat in a darkened room with their head supported by a chin rest at a distance
+of 57 cm from the monitor and made responses on a standard keyboard. Adapting and target
+stimuli were as described earlier, except that there were now separate displays for each eye
+(see Figure 2). Stimuli for this experiment were viewed through a mirror stereoscope, with
+adaptors and targets presented either to the same or to different eyes.
+Each adaptor appeared in a circular aperture whose diameter subtended 2 of visual angle
+and was edge-blurred by a cosine ramp that transitioned from minimum to maximum over
+0.78 of visual angle.
+The target stimulus was a static Gabor with equal spatial frequency to the adaptors but
+had variable orientation (0 or 90) and temporal onset. Target stimuli were equal in diameter
+to the adaptors at 2 of visual angle. As in Experiment 1, gradually onset target stimuli were
+ramped on by a temporal Gaussian with a standard deviation of 200 ms and peak amplitude
+at 1,000 ms, while abruptly onset targets were presented within a rectangular temporal
+window of 300 ms duration.
+To ensure that participants had sufficient stereoacuity to support interocular transfer
+(Mitchell & Ware, 1974; Movshon, Chambers, & Blakemore, 1972), an Optec 2500 Vision
+Tester capable of testing down to 20 seconds of arc was used to test participants' depth
+perception. Published thresholds for normal stereoacuity range from 40 to 60 seconds of
+Table 1. t-Tests Comparing Detection Thresholds to Chance (0.25)
+Across All the Contrast Levels.
+Contrast level t df p
+0.06 À0.474 5 0.656
+0.09 0.000 5 1.000
+0.13 0.684 5 0.524
+0.18 0.840 5 0.439
+0.25 0.067 5 0.949
+0.3548 0.889 5 0.415
+0.5012 0.017 5 0.987
+0.7079 0.202 5 0.848
+1 1.135 5 0.308
+Note. Student's t-test. For all tests, the hypothesis was that the population mean is
+different from 0.25 (i.e., a two-tailed hypothesis). Tests are not corrected for multiple
+comparisons.
+6 i-Perception
+arc (Adams et al., 2008; Romano, Romano, & Puklin, 1975). A mid-range cut-off of
+50 seconds of arc was chosen because substantial interocular transfer is still observed for
+this level of ability (Mitchell & Ware, 1974). All participants had better stereoacuity than the
+cut-off (M ¼ 29, SD ¼ 12.8).
+To maximise the potential for interocular transfer, participants' ocular dominance was
+determined behaviourally by a standard finger pointing measure (Coren & Kaplan, 1973).
+Each participant pointed to a coin glued to a wall and observed how far their finger appeared
+to deviate when viewing with their left eye closed compared with when their right eye was
+closed. The open eye that caused the least deviation was judged to be dominant. Using this
+method, three participants were identified as right-eye dominant and two as left-eye
+dominant. The adaptor was always presented to the dominant eye. Several studies have
+shown that this method of testing produces significantly greater magnitudes of interocular
+transfer compared with when the non-dominant eye is adapted (Howarth, Vorobyov, &
+Sengpiel, 2009; Mitchell & Ware, 1974; Mohn & Van Hof Van Duin, 1983; Movshon &
+Blakemore, 1973).
+Procedure. Observers viewed all stimuli through a mirror stereoscope with a total reflection
+path of 57 cm. Prior to the adaptation period, each eye was presented with four
+Figure 2. A schematic illustration of the procedure for Experiments 2 and 3. Observers first adjusted the
+stereoscope using the fixation squares, which then disappeared. They adapted to four counterphasing high-
+contrast gratings in one eye and were then tested either in the same or in the other eye, with gradual-onset
+or abrupt-onset target gratings. Because images were viewed through a mirror stereoscope, images on the
+left were seen by the left eye and images on the right by the right eye. Target gratings were always at full
+contrast, and the number of incorrect judgments was recorded. Responses were always 4AFC, with
+participants choosing which of four locations contained the target grating.
+Apthorp et al. 7
+fusion-locking squares of 4.5 of visual angle surrounding a central fixation cross, presented
+on a grey background of mean luminance (33.8 cd/m2). After each trial was initiated, the
+fusion squares disappeared and the adaptation stimuli appeared in the centre of the location
+of each square, which was 5.9 from the central fixation cross. See Figure 2 for a schematic
+illustration.
+Participants adapted to counterphasing stimuli presented to either the left or right eye. In
+monocular conditions, the adapting stimulus was presented to the nondominant eye. To
+maximise the potential for interocular transfer to occur, participants had their dominant
+eye adapted in the interocular conditions. This meant that the target was always presented
+to the nondominant eye, regardless of ocular condition.
+Participants pressed a key to initiate trials and were presented with four counterphasing
+adaptor gratings, one appearing in each aperture. Adaptors were displayed for 30 s for the
+initial two trials, with 5 s `top-ups' for subsequent trials (Pilot testing with 60 s initial
+adaptation and 10 s top-ups indicated that the shorter adaptation times produced identical
+results). Following offset of the adaptors, the target appeared in one of the four apertures
+(randomized), and a spatial four-alternative forced-choice task required observers to use a
+standard keyboard to indicate in which aperture the target appeared. Conditions were
+blocked by target orientation, temporal onset of the target (gradual vs. abrupt) and tested
+eye (monocular vs. interocular transfer [IOT] conditions). The order of completion was
+counterbalanced to ameliorate practice effects.
+Results
+In this experiment, we presented all the target stimuli in the 4AFC paradigm at full contrast,
+either ramped up gradually or with abrupt onset, and measured the proportion of times the
+observers failed to correctly identify the location of the target grating. Participants' subjective
+reports indicated that in many instances, the gradual onset targets were simply not seen, even
+though they were ramped up to full contrast. This is shown clearly in the data (see Figure 3);
+target disappearances are strongly orientation-specific, but interestingly, there was absolutely
+no interocular transfer of the effect. In addition, abruptly presented targets never disappeared
+(perhaps unsurprisingly, since they were at full contrast).
+In this experiment, there were significant main effects of onset type (gradual vs. abrupt),
+F(1, 4) ¼ 58.82, p ¼ .002, eye tested (monocular vs. IOT), F(1,4) ¼ 35.36, p ¼ .002, and relative
+orientation (0 vs. 90), F(1,4) ¼ 50.69, p ¼ .002. There were also significant two-way
+interactions between onset type and eye tested, F(1,4) ¼ 35.36, p ¼ .004, onset type and
+relative orientation, F(1,4) ¼ 68.48, p ¼ .001, and eye tested and relative orientation,
+F(1,4) ¼ 32.83, p ¼ .005. In addition, there was a significant three-way interaction between
+onset type, eye tested and relative orientation, F(1,4) ¼ 32.83, p ¼ .005. In summary, the only
+case in which adapting to the flickering pattern caused disappearance of the target was in the
+monocular condition where the gradually presented target was parallel to the adaptor, as can
+be clearly seen from Figure 3.
+Experiment 3: Orientation Tuning of AIB
+In this experiment, we aimed to more closely examine the orientation tuning of the AIB effect
+seen in Figure 3, where the gradual targets show a strong adaptation effect when parallel to
+the adaptor (at 0), but no adaptation at 90. Thus, we explored the space between these
+orientations, since orientation tuning of the effect was not reported in the original article.
+8 i-Perception
+Methods
+Participants, apparatus and stimuli were the same as in Experiment 2, with the difference that
+only gradual target stimuli were tested. The procedure differed only in that target stimuli were
+presented at orientations of 0, 2.5, 5, 7.5, 10, 15 and 90 from vertical. This was tested in
+both monocular and IOT conditions, counterbalanced between participants. A control
+experiment also tested detection of the targets without the adapting stimuli.
+Results
+Here, it is clear that the effect is tightly orientation tuned (see Figure 4), and is well fitted by a
+Gaussian function with a standard deviation of 7.76 and an amplitude of 37.4%.
+The fitted amplitude of the function (37.4%) is very close to the approximate percentage of
+target disappearances at 0, on average, across participants, as seen in Experiment 2. We note
+that this is also very close to the reported percentage of incorrect responses (34%) in the
+original AIB paper (Motoyoshi & Hayakawa, 2010). It should be noted that the actual
+percentage of targets not seen in our experiment (and in Motoyoshi's, in fact) would
+probably be higher, given that the 4AFC paradigm would result in a 25% guess rate, on
+average. It is important to note here that instances of disappearance were almost completely
+absent at full contrast, regardless of the relative orientation of adaptor and target. The
+implications of this will be covered in the Discussion section.
+Figure 3. Percentage of incorrect responses for full contrast target stimuli after adaptation to
+counterphasing gratings, for targets which were either 0 or 90 of relative orientation from the adapting
+stimuli, with either gradually onset (a) or abrupt (b) targets, tested either in the same eye as the adapting
+stimulus (dark grey) or in the other eye (light grey). Shaded areas $ 1 standard error, lines show standard
+deviations, and individual grey dots are individual data points. Solid lines show the means and dotted lines the
+medians. All five subjects completed all conditions.
+Apthorp et al. 9
+Discussion
+The first demonstration of AIB at the 2008 Vision Sciences Society met with astonishment.
+The audience was shown two high-contrast Gabor patches: one with an abrupt temporal
+onset profile and the other a more gradual profile. Unsurprisingly, both were trivially easy to
+detect. A flickering Gabor stimulus followed, and the audience was instructed to fixate upon
+it for about 10 seconds. This adapting stimulus was then replaced with the high-contrast
+targets. To the audience's audible surprise, only one patch was visible--the abrupt one. The
+gradual patch was completely invisible, apparently suppressed from awareness. Why had it
+disappeared? Was it a form of threshold elevation? What neural mechanisms might be
+responsible? To help understand this phenomenon, we replicated this basic effect across a
+range of very specific conditions. Experiment 1, showed that AIB effects are indeed profound,
+with gradual target detection performance plummeting to chance levels at all contrasts tested
+(0.06­1.0 contrast).
+Experiments 2 and 3 were designed to measure AIB's selectivity for orientation and its
+interocular transfer. Our results show very clearly that the AIB effect is tightly selective for
+orientation. Disappearances were common when the adaptor and target Gabors were similarly
+oriented, with performance improving monotonically out to approximately 20 of relative
+orientation, at which point performance reached ceiling (100% accuracy). That AIB should
+prove so specific in the orientation domain implies that it is mediated by a population of neurons
+with a similarly tightly tuned orientation preference. Neurons with such receptive fields are
+common in several early visual cortical areas, including areas V1, V2 and V3 (Boynton &
+Finney, 2003; Hubel & Wiesel, 1968). Exactly how early in cortical processing are the
+neurons which mediate AIB? Experiments 2 and 3 addressed this with an interocular transfer
+manipulation. While disappearances were common when adapting and testing in the same eye,
+adapting a single eye to flicker and presenting the target to the other eye afforded nearly perfect
+performance. Such a high degree of eye specificity shows that AIB is purely monocular.
+0 15 30 45 60 75 90
+0
+10
+20
+30
+40
+50
+Test orientation (degrees)
+Percent incorrect
+Interocular transfer - full contrast
+Monocular %
+IOT %
+Control %
+Gaussian fit to
+monocular data
+Figure 4. The orientation tuning of the percentage of error rates at full contrast. Red data points show
+percent of errors for stimuli presented in the same eye as the adapting stimuli; blue points show those
+presented in the unadapted eye, and green show the control stimuli presented without adaptors. The solid
+line shows a Gaussian fit to the data, fitted in ProFit Version 6.2.11, using a Leverburg-Marquardt algorithm;
+the fit was given two free parameters (amplitude and bandwidth), with a fixed mean of 0 and baseline of 0.
+Standard deviation of the fit was 7.76, with an amplitude of 37.4%.
+10 i-Perception
+From a classical view of adaptation, our finding that AIB is both orientation-tuned and
+purely monocular is surprising. It is now well established that threshold elevation, which occurs
+as a consequence of flicker adaptation, is composed of a binocular and a monocular component
+(Cass et al., 2012; Meese & Baker, 2011). The binocular component is orientation-tuned whilst
+the purely monocular component is untuned. That AIB should be both tightly orientation tuned
+and purely monocular distinguishes it, therefore, from classical adaptation-induced threshold
+elevation. It also suggests that AIB involves a subset of early cortical neurons whose receptive
+fields are both orientation specific and purely monocular. fMRI evidence indicates that both
+orientation-specific adaptation and eye of origin information is evident in early visual cortical
+areas, V1, V2 and V3 (Boynton & Finney, 2003; Schwarzkopf, Schindler, & Rees, 2010),
+although purely monocular neurons tend to be found only in V1.
+One study investigating the precise relationship between neural orientation and eye
+preference in primate V1 (Bartfeld & Grinvald, 1992) found that orientation-selective cells
+are in fact located within ocular dominance columns. Given that ocular dominance columns
+contain neurons which are both orientation tuned and ocularly specific in their response, it
+seems reasonable to speculate that AIB may therefore be mediated by these cells, located
+close to the centre of a single ocular dominance column, such as those found in V1 (Bartfeld
+& Grinvald, 1992).
+This conjecture that AIB occurs relatively early in the visual cortical process is supported
+by two visual crowding studies showing that crowding can be largely extinguished if the
+flanking stimuli which produce the crowding effect are suppressed from awareness using
+AIB (Shin & Tjan, in press; Wallis & Bex, 2011). According to Shin and Tjan (in press),
+this implies that AIB is likely to occur at a level of neural processing preceding visual
+crowding. fMRI studies indicate that crowding effects can be differentiated as early as V1
+(Anderson, Dakin, Schwarzkopf, Rees, & Greenwood, 2012). If AIB does in fact precede
+crowding, this would point to AIB being mediated at a very early stage of visual processing.
+Motoyoshi and Hayakawa's finding that an inducing tilted surround grating rendered
+invisible by AIB can still induce a tilt illusion (2010) implies that the neural process(es)
+underlying AIB are unlikely to precede those which cause the tilt illusion--an
+interpretation which is difficult to resolve if AIB occurs at a very early cortical stage. An
+alternative interpretation, not inconsistent with an early cortical locus for AIB, is that the
+mechanisms responsible for AIB and the tilt illusion operate independently. Future studies
+are necessary to examine this hypothesis.
+Motoyoshi and Hayakawa's (2010) AIB effect is undoubtedly a striking and curious
+phenomenon that remains to be fully understood. In first reporting the phenomenon, the
+authors' original conjecture was that AIB occurred relatively late in visual processing. The
+evidence presented here, however, from our orientation and interocular transfer experiments
+and complemented by related work on AIB and crowding, converge on the conclusion that
+AIB is very likely to be mediated at a very early cortical stage of visual processing.
+Data availability statement
+All raw data are available on Figshare at the following address: https://dx.doi.org/10.6084/
+m9.figshare.4487261
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or
+publication of this article.
+Apthorp et al. 11
+Funding
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/or
+publication of this article: David Alais was funded by ARC Discovery Project DP0878371, John Cass was
+funded by ARC Discovery Project DP0774697, and Deborah Apthorp was funded by NHMRC Early
+Career Fellowship APP1054726.
+References
+Adams, W. E., Leske, D. A., Hatt, S. R., Mohney, B. G., Birch, E. E., Weakley, D. R., . . . Holmes, J.
+M. (2008). Improvement in distance stereoacuity following surgery for intermittent exotropia.
+Journal of AAPOS, 12, 141­144. doi:10.1016/j.jaapos.2007.09.015
+Alonso, J.-M., Usrey, W. M., & Reid, R. C. (2001). Rules of connectivity between geniculate cells and
+simple cells in cat primary visual cortex. Journal of Neuroscience, 21, 4002­4015.
+Anderson, E. J., Dakin, S. C., Schwarzkopf, D. S., Rees, G., & Greenwood, J. A. (2012). The neural
+correlates of crowding-induced changes in appearance. Current Biology, 22, 1199­1206. doi:10.1016/
+j.cub.2012.04.063
+Anderson, S. J., & Burr, D. C. (1985). Spatial and temporal selectivity of the motion detection system.
+Vision Research, 25, 1147­1154.
+Arnold, D. H., Pearce, S. L., & Marinovic, W. (2014). Illusory motion reversals and feature tracking
+analyses of movement. Journal of Experimental Psychology: Human Perception and Performance, 40,
+938­947. doi:10.1037/a0035362
+Baker, D. H., & Meese, T. S. (2012). Interocular transfer of spatial adaptation is weak at low spatial
+frequencies. Vision Research, 63, 81­87. doi:10.1016/j.visres.2012.05.002
+Bartfeld, E., & Grinvald, A. (1992). Relationships between orientation-preference pinwheels,
+cytochrome oxidase blobs, and ocular-dominance columns in primate striate cortex. Proceedings
+of the National Academy of Sciences of the United States of America, 89, 11905­11909. doi:10.1073/
+pnas.89.24.11905
+Bjorklund, R. A., & Magnussen, S. (1981). A study of interocular transfer of spatial adaptation.
+Perception, 10, 511­518.
+Blake, R., Overton, R., & Lema-Stern, S. (1981). Interocular transfer of visual aftereffects. Journal of
+Experimental Psychology: Human Perception and Performance, 7, 367­381.
+Blakemore, C., & Nachmias, J. (1971). The orientation specificity of two visual after-effects. The Journal
+of Physiology, 213, 157­174.
+Boynton, G. M., & Finney, E. M. (2003). Orientation-specific adaptation in human visual cortex. The
+Journal of Neuroscience, 23, 8781­8787. Retrieved from http://www.jneurosci.org/cgi/content/full/
+23/25/8781
+Brainard, D. H. (1997). The psychophysics toolbox. Spatial Vision, 10, 433­436.
+Campbell, F. W., & Kulikowski, J. J. (1966). Orientational selectivity of the human visual system. The
+Journal of Physiology, 187, 437­445.
+Cass, J., Johnson, A., Bex, P. J., & Alais, D. (2012). Orientation-specificity of adaptation: Isotropic
+adaptation is purely monocular. PLoS One, 7, e47425. doi:10.1371/journal.pone.0047425
+Cass, J., Van der Burg, E., & Alais, D. (2011). Finding flicker: Critical differences in temporal frequency
+capture attention. Frontiers in Psychology, 2, 320.1­320.7. doi:10.3389/fpsyg.2011.00320
+Cheong, S. K., Tailby, C., Solomon, S. G., & Martin, P. R. (2013). Cortical-like receptive fields in the
+lateral geniculate nucleus of marmoset monkeys. Journal of Neuroscience, 33, 6864­6876.
+doi:10.1523/JNEUROSCI.5208-12.2013
+Coren, S., & Kaplan, C. P. (1973). Patterns of ocular dominance. American Journal of Optometry and
+Archives of American Academy of Optometry, 50, 283­292.
+De Valois, R. L., Yund, E. W., & Hepler, N. (1982). The orientation and direction selectivity of cells in
+macaque visual cortex. Vision Research, 22, 531­544.
+Doerschner, K., Fleming, R. W., Yilmaz, O., Schrater, P. R., Hartung, B., & Kersten, D. (2011). Visual
+motion and the perception of surface material. Current Biology, 21, 2010­2016. doi:10.1016/
+j.cub.2011.10.036
+12 i-Perception
+Ferster, D., & Miller, K. D. (2000). Neural mechanisms of orientation selectivity in the visual cortex.
+Annual Review of Neuroscience, 23, 441­471. doi:10.1146/annurev.neuro.23.1.441
+Gilinsky, A. S., & Doherty, R. S. (1969). Interocular transfer of orientational effects. Science
+(New York, NY), 164, 454­455.
+Hietanen, M. A., Crowder, N. A., Price, N. S. C., & Ibbotson, M. R. (2007). Influence of adapting
+speed on speed and contrast coding in the primary visual cortex of the cat. Journal of Physiology,
+584, 451­462. doi:10.1113/jphysiol.2007.131631
+Howarth, C. M., Vorobyov, V., & Sengpiel, F. (2009). Interocular transfer of adaptation in the primary
+visual cortex. Cerebral Cortex, 19, 1835­1843. doi:10.1093/cercor/bhn211
+Hubel, D. H., & Wiesel, T. N. (1961). Integrative action in the cat's lateral geniculate body. The Journal
+of Physiology, 155, 385­398. doi:10.1113/jphysiol.1961.sp006635
+Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction and functional architecture
+in the cat's visual cortex. The Journal of Physiology, 160, 106­154.
+Hubel, D. H., & Wiesel, T. N. (1968). Receptive fields and functional architecture of monkey striate
+cortex. The Journal of Physiology, 195, 215­243.
+Meese, T. S., & Baker, D. H. (2011). A reevaluation of achromatic spatio-temporal vision: Nonoriented
+filters are monocular, they adapt, and can be used for decision making at high flicker speeds. i-
+Perception, 2, 159­182. http://doi.org/10.1068/i0416
+Mitchell, D. E., & Ware, C. (1974). Interocular transfer of a visual after-effect in normal and stereoblind
+humans. The Journal of Physiology, 236, 707­721.
+Mohn, G., & Van Hof Van Duin, J. (1983). On the relation of stereoacuity to interocular transfer of the
+motion and the tilt aftereffects. Vision Research, 23, 1087­1096.
+Motoyoshi, I., & Hayakawa, S. (2010). Adaptation-induced blindness to sluggish stimuli. Journal of
+Vision, 10, 1­8. doi:10.1167/10.2.16
+Movshon, J. A., & Blakemore, C. (1973). Orientation specificity and spatial selectivity in human vision.
+Perception, 2, 53­60.
+Movshon, J. A., & Newsome, W. T. (1996). Visual response properties of striate cortical neurons
+projecting to area MT in macaque monkeys. Journal of Neuroscience, 16, 7733­7741.
+Movshon, J. A., Chambers, B. E., & Blakemore, C. (1972). Interocular transfer in normal humans, and
+those who lack stereopsis. Perception, 1, 483­490.
+Murata, A., Gallese, V., Luppino, G., Kaseda, M., & Sakata, H. (2000). Selectivity for the shape, size,
+and orientation of objects for grasping in neurons of monkey parietal area AIP. Journal of
+Neurophysiology, 83, 2580­2601. doi:10.1146/annurev.ne.12.030189.002113
+Pantle, A., & Sekuler, R. (1969). Contrast response of human visual mechanisms sensitive to orientation
+and direction of motion. Vision Research, 9, 397­406.
+Pelli, D. G. (1997). The VideoToolbox software for visual psychophysics: Transforming numbers into
+movies. Spatial Vision, 10, 437­442.
+Ringach, D. L., Shapley, R. M., & Hawken, M. J. (2002). Orientation selectivity in macaque V1:
+Diversity and laminar dependence. Journal of Neuroscience, 22, 5639­5651.
+Romano, P. E., Romano, J. A., & Puklin, J. E. (1975). Stereoacuity development in children with
+normal binocular single vision. American Journal of Ophthalmology, 79, 966­971.
+Ross, J., & Speed, H. D. (1991). Contrast adaptation and contrast masking in human vision.
+Proceedings of the Royal Society: Biological Sciences, 246, 61­70.
+Schwarzkopf, D. S., Schindler, A., & Rees, G. (2010). Knowing with which eye we see: Utrocular
+discrimination and eye-specific signals in human visual cortex. PLoS One, 5, e13775. doi:10.1371/
+journal.pone.0013775
+Shikata, E., Tanaka, Y., Nakamura, H., Taira, M., & Sakata, H. (1996). Selectivity of the
+parietal visual neurones in 3D orientation of surface of stereoscopic stimuli. Neuroreport, 7,
+2389­2394.
+Shin, K., & Tjan, B. (in press). Crowding, visual awareness, and their respective neural loci. Journal of
+Vision, 1­27.
+Snowden, R. J. (1991). Measurement of visual channels by contrast adaptation. Proceedings of the
+Royal Society: Biological Sciences, 246, 53­59. doi:10.1098/rspb.1991.0124
+Apthorp et al. 13
+Solomon, S. G., Peirce, J. W., Dhruv, N. T., & Lennie, P. (2004). Profound contrast adaptation early in
+the visual pathway. Neuron, 42, 155­162. doi:10.1016/S0896-6273(04)00178-3
+Thompson, P. (1981). Velocity after-effects: The effects of adaptation to moving stimuli on the
+perception of subsequently seen moving stimuli. Vision Research, 21, 337­345. doi:10.1016/0042-
+6989(81)90161-9
+Wallis, T. S. A., & Bex, P. J. (2011). Visual crowding is correlated with awareness. Current Biology, 21,
+254­258. doi:10.1016/j.cub.2011.01.011.
+Author Biographies
+Deborah Apthorp is a Research Fellow at the Australian National
+University, in a joint position between the Research School of
+Psychology and the Research School of Computer Science. Her
+labs at ANU and The Canberra Hospital are involved in research
+spanning topics from basic vision to postural sway, EEG, MRI,
+sleep, Parkinson's disease and machine learning. She completed
+her undergraduate studies at Macquarie University and her PhD
+at the University of Sydney. Prior to her research career, she was a
+professional viola player.
+Scott Griffiths is an Australian National Health and Medical
+Research Council Early Career Fellow at the University of
+Melbourne, Australia. He completed his undergraduate studies at
+PhD at the University of Sydney. His interests include muscle
+dysmorphia and eating disorders in males, and cognitive and
+affective processing biases related to these.
+David Alais is a professor of Experimental Psychology at the
+University of Sydney and runs a busy perception research
+laboratory. He is known for visual research studying how the
+brain resolves ambiguous inputs (`binocular rivalry') and for
+multisensory research examining how the brain integrates
+auditory, visual and tactile information.
+14 i-Perception
+John Cass is a senior lecturer in Experimental Psychology at
+Western Sydney University. His Vision and Multisensory
+Research lab investigates the brain mechanisms that underlie
+humans' perception of time and space, both within and across
+sensory modalities. In another life he composes and produces
+music.
+Apthorp et al. 15
+

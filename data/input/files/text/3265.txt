@@ -1,0 +1,995 @@
+SAGE Open
+January-March 2013: 1
+­10
+© The Author(s) 2013
+DOI: 10.1177/2158244013476053
+sgo.sagepub.com
+Introduction
+The highly contested U.S. Presidential election between
+George H. W. Bush and Al Gore in 2000 turned the televi-
+sion network color-coding schemes of red and blue states
+into a shorthand system for describing political differences
+throughout the United States. In 2000, blue states repre-
+sented those states which chose Democratic candidate Al
+Gore to become the next president, with red states support-
+ing Republican candidate George H. W. Bush. These terms
+have continued to be used to describe political attitudes at
+both the individual and geographic levels.1
+The focus of this article is to investigate how these terms
+have come to be used by the press since the 2000 election,
+specifically between 2004 and 2007. Although it is clear that
+these labels have become part of the political lexicon in
+many circles, it is unclear whether they define a political
+reality, a media artifact, or are simply a shortcut to describe
+political divisiveness. By illustrating how these terms were
+used over a 4-year period which included a presidential elec-
+tion, it is expected that this article can shed some light on this
+topic.
+Literature Review
+If we are to assume that the media are a persuasive force
+which has a tangible effect on political attitudes, then there
+is a need to understand how the news media are framing
+political discourse. How are writers portraying the nature of
+political divisions, and on what topics are politicians
+divided? What characterizes "red" voting behaviors and
+lifestyles in comparison with those on the "blue" end of the
+spectrum? Is America truly divided, or are the divisions
+exacerbated by political elites for their own interests? The
+media are expected to make sense of these aspects of the
+political and social landscape (Gamson, 1992), though it is
+an open question as to whether media reporting engages the
+power struggles that shape news articles, columns, and com-
+mentaries.
+A useful, and often used, concept for studying news
+reporting is frames. A frame, as defined by George Lakoff
+(2004), is a cognitive map which helps viewers to understand
+how the information is to be recognized, understood, and
+processed. Frames used within media messages are also seen
+as a tactic of persuasion, created and maintained largely by
+politicians and pundits, mediated and disseminated within
+journalism, to get the voting public to think of any given
+issue within the language of a particular political campaign
+(Luntz, 2007). Moreover, people have a tendency to accept
+only facts which fit within the framework of the discussion,
+476053
+SGOXXX10.1177/2
+158244013476053SAGE OpenGross
+2013
+1St. Bonaventure University, NY, USA
+Corresponding Author:
+Benjamin Gross, Department of Sociology, St. Bonaventure University,
+Plassmann Hall, Room A-4, St. Bonaventure, NY 14778, USA.
+Email: bgross@sbu.edu
+Color-Coding Politics: Creating Meaning
+About "Red States" and "Blue States" in U.S.
+Newspapers Between 2003 and 2007
+Benjamin Gross1
+Abstract
+During the 2000 Presidential election between George H.W.Bush andAl Gore,journalists often used the terms blue states and
+red states to describe the political landscape within the United States.This article studies the framing of these terms during the
+years 2004 through 2007. Using latent and manifest qualitative content analyses, six different news media frames were found
+in a sample of 337 newspaper articles.Two hypotheses were also tested indicating that framing patterns varied slightly by time
+period and article types. However, the argument that increased levels of political polarization in the United States have been
+created by predominantly conflict-oriented coverage may not be true.Instead,these terms became journalistic heuristics that
+were used to organize how people think about politics in a way that fit with contemporary media practices, and there is no
+single agreed upon interpretation of these terms within this reporting.
+Keywords
+politics, media frames, media effects
+2 SAGE Open XX(X)
+as frames are pervasive and critical to political discussion
+and thought which structure our ideas and reasoning (Lakoff,
+2006; Luntz, 2007). Consequently, frames structure political
+debate, and those who are able to create and maintain frames
+built about their own assumptions and worldviews will be
+able to control political discourse and the ways in which the
+general public thinks about issues (Lakoff, 2004).
+It is important to note that people are not necessarily
+impotent when dealing with frames, even those that have
+been found to be highly persuasive. For example, research
+has shown that media messages are often less persuasive
+when the receiver questions the credibility of the news
+source (Petty & Wegener, 1998), or whenever a person
+already holds strong and certain attitudes about the topic
+being discussed (Patterson, 1980). Still, frames do matter
+(Gamson & Modigliani, 1989), and political sources often
+try to provide frames--or framing tools--to reports to shape
+news stories. Political discourse consists of differing interest
+groups and competitors trying to generate interest for their
+ideas in the minds of some component of the general popula-
+tion or special interest groups (Sunstein, 2009). In a demo-
+cratic and media-saturated society (Thompson, 1995), we
+expect to find several competing discourses existing simulta-
+neously in the marketplace of ideas. Within this field, media
+consumers must sift through the overwhelming amount of
+content, and find views and assumptions that compliment
+their own value sets (Manjoo, 2008). As Gamson and
+Modigliani (1989) noted, "On most policy issues, there are
+competing packages available . . . one can view policy issues
+as, in part, a symbolic contest over which interpretation will
+prevail" (p. 2).
+Framing should not be confused with public opinion, as
+the media are multivalent (Gamson, Croteau, Hoynes, &
+Sasson, 1992). Frames are simply the ways in which report-
+ing is structured, and frames are used and created by a wide
+variety of opinion leaders, professional politicians, news
+journalists, and the general American public over time. As
+Gamson and Modigliani (1989) added, every policy issue
+has a culture, and there is an ongoing discourse that evolves
+and changes over time. Political discourse, as well as politi-
+cal frames, will change as social circumstances and political
+values also change (Gitlin, 1980). Media frames, which can
+include visuals, impact the social construction of meaning
+about political issues and candidates, and should not be
+thought of as inflexible but as relatively fluid (Barrett &
+Barrington, 2005).
+The motivation behind this study stems from the work of
+Morris Fiorina, Abrams, and Pope (2006) in their book
+Culture War? The Myth of a Polarized America. The authors
+challenge the characterization of an American public that is
+bitterly divided on major political issues. Among their find-
+ings is a claim that the U.S. public consists predominantly of
+ideological moderates who feel ambivalent on most issues,
+even on emotionally charged ones such as abortion. While
+there is a division among competing political party officials,
+the differences for the vast majority of Americans are con-
+sidered far from polemic. If anything, Fiorina and colleagues
+see most Americans' political views as becoming more simi-
+lar to one another. These points are supported by DiMaggio,
+Evans, and Bryson (1996) whose research indicates that
+most Americans can be located at a stable centrist level, rela-
+tively unaffected by the polarization of political elites on
+either side. A decade later, Baldassarri and Gelman (2008)
+argued that while politicians have taken increasingly extreme
+positions over the last few decades, most people have main-
+tained a stable and moderate political stance on a wide array
+of issues over the same time period.
+From this point of view, political polarization is thought
+to be a myth. Increasingly, the United States is described as
+"purple" at both the individual and geographic level, and the
+assertion is made that "at the individual level, most
+Americans are ideological moderates rather than extremists,
+on both economic and moral issues" (Ansolabehere, Rodden,
+& Snyder, 2006, p. 5). Fiorina and colleagues (2006) sup-
+ported this argument, claiming that each state actually con-
+tains a significant representation of both conservatives and
+liberals that can (and do) win elections at all levels of gov-
+ernment. Therefore, the color of each U.S. state is not clearly
+"red" and "blue" but some shade of purple.
+Fiorina et al. (2006) took the media to task for populariz-
+ing the idea that the United States is divided among political
+camps, stating "the prevailing media frame of a polarized
+nation is not an accurate one" (p. 66), citing that the idea of
+America being deeply divided is largely a product of the
+media. "They [the media] talk primarily to the political class
+and each other. This is not representative of what is normal"
+(Fiorina et al., 2006, p. 21) and "commentators often present
+Sociological factoids as if their electoral implications were
+self-evident" (Fiorina et al., 2006, pp. 34-35). Gronbeck and
+Wiese (2005) also found the red/blue paradigm to be a media
+oversimplification of reality; an overarching story line con-
+structed to frame public opinion while on the campaign trail.
+The concept of red and blue were terms used in an effort to
+commodify the American voter by the reporters and politi-
+cians. This was done as an attempt to simplify the voting
+public into consumable products whose properties could be
+identified, packaged, and transformed by political profes-
+sionals. Discussions about the existence of a "culture war"
+are believed to be nonsensical, and there seems to be little
+evidence that the public is now entrenched within one
+(Glaeser & Ward, 2006).
+Instead of a cultural war, it seems to be the case that indi-
+viduals, whether self-labeled as liberals or conservatives,
+tend to hold both conservative and liberal values depending
+upon the issue, and that states are not unidirectional in any
+sense (Dombrink, 2005; Fiorina et al., 2006). Baldassarri and
+Gelman (2008) found that many people neither match nor
+align their political stances consistently with any particular
+political party and also that voters often change their stances
+over time on a variety of issues. In the end, regardless of
+Gross 3
+their voting patterns, the majority of Americans can be
+viewed as experiencing a high degree of ambivalence on
+political issues. To categorize and identify entire regions of
+the country into colors based on the results of a winner-take-
+all presidential election distorts how people really feel or act
+within political contexts (Webster, 2007).
+Still, there are political scholars who suggest that there is
+a growing cultural and political divide in the United States.
+Tom Frank (2004) claimed that there has been a transforma-
+tion among American voters, who are now placing religious
+concerns ahead of economic ones, and he notes a small but
+increasing trend in levels of political polarization. Frank has
+argued that political stereotypes are being created as indi-
+viduals connect their voter preferences to their lifestyle prac-
+tices. The "latte liberal" is just one example. This constituent
+is a liberal who is positioned above the working class and
+holds no empathy for those below him or her. It is implied
+that he or she is also snobby, out-of-touch with ordinary peo-
+ple and their red-state values, and thinks that others are both
+ignorant and mysterious. In creating these kind of defini-
+tions, it is clear that one side is being defined as decent and
+noble, the other as distant and dispassionate.
+There are other researchers who argue that there is evidence
+that these divides are real. Abramowitz and Saunders (2005)
+contended that political polarization is at an all-time high in the
+United States, and is increasing. In addition, Greenberg (2004)
+contended that the bulk of theAmerican public is loyal to a spe-
+cific party, and only a small number of voters are in a position to
+be won over by some political campaign or slogan.Abramowitz
+and Saunders also note that there are major sociological differ-
+ences between red and blue states, particularly when it comes to
+religious services, opinions about abortion, and gun ownership.
+These writers believe that the news media are mirroring reality
+in their reports, accurately depicting a country suffering from a
+deep political divide.
+Research Hypotheses and Method
+It is predicted here that frameworks rise and fall in popular-
+ity over time, and that different types of article writers would
+be more or less likely to engage in inflammatory political
+rhetoric in their writing. Two specific hypotheses were
+developed and stated below.
+Hypothesis 1: The prevalence of frameworks varied
+over different time period. In particular, newspa-
+pers would be more likely to use conflict-oriented
+before the 2004 U.S. Presidential election and less
+likely afterward.
+Hypothesis 2: Frame usage patterns would differ
+by type of article writer. Specifically, editorial-
+ists would be more likely to use conflict-oriented
+frames to discuss the political landscape than would
+professional journalists.
+To study the ways in which the "red and blue" rhetoric has
+been used and framed, a sample of 337 newspaper articles
+containing the terms red state and blue state was drawn over
+a 4-year time period--2004-2007--using LexisNexis. The
+purpose was to understand what kinds of assertions and
+assumptions were being made in these articles, what issues
+were being defined as important, and how these ideas were
+being packaged for interpretation by the readers.
+Each newspaper article was coded using a variety of mani-
+fest and latent coding schemes. Articles were read by one
+researcher and then a random sample of these articles was read
+by a second individual who had been trained to use the same
+coding scheme. Intercoder reliability was found to be .80,
+which is relatively strong. In regards to the manifest codes,
+attention was given to the length of the story, the date the story
+was published, whether the story appeared on the front page,
+what section of the newspaper the article was located, where
+the newspaper was located, and whether or not the piece was
+editorial or commentary (e.g., George Will and Tom Frank).
+These manifest codes did not yield any statistically significant
+differences with regards to the framing couched within the
+red-and-blue discussions, showing coverage to be remarkably
+uniform by geographic location and time.
+The articles were also analyzed qualitatively to discover
+if there were any recurring themes and portrayals of the U.S.
+political landscape that could be captured by latent content
+analyses. While reading the articles, attention was given
+toward interpreting underlying key meanings and assump-
+tions that were being made about U.S. politics. Although
+interpretations of article content may vary from one reader to
+another, patterns began to emerge and articles clustered
+toward common themes and dimensions. The following dis-
+cussion is based on these latent analyses.
+Qualitative Frameworks:Analysis
+and Discussion
+Six identifiable frames emerged while coding the articles.
+These have been termed Call for Unity, Purple State,
+Lifestyle Stereotype, Culture War, Liberal Partisan, and How
+to Win. Each frame will be defined below. In addition, I will
+develop and apply a conceptual framework for understand-
+ing the differences between them.
+The Call for Unity frame urged people to put aside their
+differences, placing an emphasis on the need to unite the
+nation as a top priority for all Americans. Readers were
+called upon to stop focusing on what ideas separate them
+from each other and concentrate on commonalities. Authors
+using these frames suggested that it was important to put an
+end to any discussions of a cultural war. These articles are
+aimed at generating thoughts about commonalities and a
+sense of shared goals among all members of the U.S. public.
+Generally, these articles had an overall tone of civility and
+unity.
+4 SAGE Open XX(X)
+These writers implored the readers to think how they are
+being misrepresented by those who use more inflammatory
+rhetoric when describing the political sphere of the United
+States. This framework warns the readers to be on guard
+from political opportunists who would try to oversimplify
+complex political realities with labels to pursue their own
+gains. A telling quote within this framework comes from
+Barack Obama in a speech made during the 2004 Democratic
+Party convention. This quote succinctly summarizes the
+framework.
+The pundits like to slice and dice our country into red
+and blue states. Red States for Republicans, blue states
+for Democrats. But I've got news for them, too. We
+worship an awesome God in the blue states, and we
+don't like federal agents poking around in our libraries
+in the red states. We coach Little League in the blue
+states and, yes, we've got some gay friends in the red
+states. There are patriots who opposed the war in Iraq,
+and there are patriots who supported the war in Iraq.
+(DeBose, 2004, Section A, p. 6)
+It is important to note that this framework was not used as
+often as some of the more conflict-oriented frames. It
+appeared 39 times (11.6%) and was most commonly used in
+2004 (24 times). The Call for Unity was most often used dur-
+ing the 2004 Presidential election with either direct refer-
+ences to the above statement from Barack Obama within an
+article, or with voices supporting the statement within an
+editorial piece within a few days following the Democratic
+National Convention.
+In a theme similar to the Call for Unity frame, some writ-
+ers used a Purple State frame when discussing the American
+political landscape. This frame was used to contend that each
+U.S. state simultaneously contained a complex mixture of
+both red and blue voter pockets, making the discussion of red
+or blue "states" both inaccurate and oversimplified. No state
+is entirely red or blue--each state is more like a shade of
+purple, where differences are much more nuanced than a
+simple clash of blue and red opposites. Those using this
+framework would agree with Webster (2007) that categoriz-
+ing and identifying entire regions of the country with a polit-
+ical valence based solely on the results of a winner-take-all
+presidential election lacks validity.
+Although these writers often did not deny the existence of
+divisive partisan politics or polarization, they emphasized
+that there is still a great amount of both heterogeneity
+(Glaeser & Ward, 2006) and ambivalence (Fiorina et al.,
+2006) within cities, counties, individuals, and states across
+the United States in terms of political party affiliation.
+Similar to the Call for Unity frame, these writers argued that
+the current blue/red paradigm created a disconnection from
+political reality (Kuttner, 2005). According to Sandler
+(2004),
+Our nation is not red and blue, but many shades of
+purple. Even in the reddest of the red states, Utah,
+Kerry picked up 26 percent of the vote. Even in true-
+blue New York City, Bush won the support of more
+than half a million voters, presumably including for-
+mer mayors Rudy Giuliani and Ed Koch. (Section C,
+pp. 9-10)
+In addition, it was typical for those using this frame to
+accuse the experts and the media of perpetuating animosity
+among the public. As Raspberry (2004) added,
+It has become routine for reporters to look for prototypi-
+cal partisans in every fight and tell our stories through
+their irreconcilable arguments. It is a tendency that plays
+us false more often than we care to admit. We acknowl-
+edge from time to time that the red state/blue state para-
+digm we use to describe America's almost evenly split
+electorate leaves out the voters whom Senator-elect
+Barack Obama of Illinois characterized as blue people in
+red states and vice versa. The fact that, in all but the two
+states that apportion their electoral votes, a scant
+Electoral College majority is enough to turn an entire
+state red or blue tempts our analyses to these oversimpli-
+fied images--even when we know that the states are all
+varying shades of purple. (Section A, pp. 6-7)
+A common element of purple state articles after the 2004
+election was the pessimistic tones regarding the motives of
+America's political and media institutions. Readers were
+urged to avoid the manipulation of political pundits who had
+an invested interest in keeping America divided via an artifi-
+cial construction of differences. Accusations were made that
+discourse was retarding any meaningful political debates and
+distorting people's thoughts and views. These writers would
+likely agree with Gronbeck and Wiese (2005) who said that
+the creation of the red and blue labels were lazy constructs
+maintained by political professionals for the purposes of
+commodifying voters through the use of inaccurate stereo-
+types. As Landa (2006) added,
+I never cared much for the red-state, blue-state politi-
+cal composition; I thought it was lazy. When a TV
+news personality stood in front of a map and said
+"This is a red state and this is a blue state," most of us
+watching slumped on the sofa with our brains propped
+on the ottoman. It couldn't be that simple, and it
+wasn't. (Section A, pp. 7-8)
+Claims were made within this frame that the predominant
+defining characteristic among the public were feelings of
+ambivalence toward politics, not sharp ideological divides
+(Baldassarri & Gelman, 2008; DiMaggio et al., 1996; Fiorina
+et al., 2006). For example, Kuttner (2005) added that
+Gross 5
+Polls show that a majority of Americans want to keep
+abortion legal, but have serious qualms about its wide-
+spread use. As citizens, most Americans want a clean
+environment, but as consumers we are addicted to pol-
+luting cars. A majority of heterosexual Americans
+think the government should stay out of the bedrooms
+of gay adults, but still have trouble with gay marriage,
+though not necessarily domestic partnerships. Most
+Americans believe in God, but most believers are tol-
+erant of people of diverse faiths or no faith, and don't
+think the government should be in the business of
+proselytizing, much less that religion should dictate
+science. (Section A, p. 12.)
+The Purple State frame appeared 53 times (15.7%) within
+this 4-year period. It would appear that this frame was used
+mainly by those who either used it to speak of political bat-
+tlegrounds during the 2004 election, or by those who wanted
+to openly challenge the very emergence of terms such as red
+and blue after election year news coverage. Over time, the
+meaning systems transformed from an assumption that dif-
+ferences between areas were tangible toward claims that
+minimal (or no) differences existed whatsoever between
+people of various geographic areas.
+Nevertheless, writers often focused upon significant lifestyle
+patterns and markers which were seen to be the evidence of
+major social differences between those who were red-state or
+blue-state people. These writers constructed a Lifestyle
+Stereotype frame to discuss all varieties of social differences
+recognized across the nation between liberals and conserva-
+tives. Rarely did this framework talk at all about actual political
+issues, candidates, ideologies, or elections. Instead, these writ-
+ers reduced the American populous to vague caricatures which
+they assumed could be easily witnessed in everyday interac-
+tions. Their focus shifted attention toward the more mundane
+daily lifestyle patterns of the American voters. One example
+comes from Patinkin (2004), who contributed the following:
+As you can see, there are already serious red/blue ste-
+reotypes.
+People in blue states are said to spend their time eating
+sushi, wearing Birkenstocks and drinking lattes, extra
+foam, biscotti on the side. Those in Red states chew
+tobacco, drink Pabst Blue Ribbon and watch NASCAR.
+The color labels have recast the stereotypes of each
+party.
+Once, being Republican meant you cared about law
+and order while calling your broker from your Lexus
+to ask about your portfolio. Now, Republicans are red-
+state people, who are caricatured as driving around in
+pick-ups with gun-racks on the back. There are already
+serious red/blue stereotypes. (Section D, p. 1)
+Even when the writers were not attempting to speak
+seriously about actual political issues or promote
+political candidates, they consistently assumed that there were
+majordifferencesbetweenpeopleintheUnitedStates.However,
+these writers never launched any serious investigation about
+whether the assumptions regarding "red" or "blue" lifestyles or
+personality types were accurate.While seemingly not motivated
+by any political ambitions, these articles had a way of painting a
+portrait of two Americas that were strongly divided, seeing the
+differences as self-evident and unworthy of debate. Readers
+were implicitly assumed by the writers to understand that a sig-
+nificant difference in cultural values and lifestyle patterns defi-
+nitely existed within the United States. While not actively
+pursuing any political agenda, writers within this framework
+may have exacerbated differences among the population with-
+out an intention of doing so. These writers may have even used
+humor mixed with these personal stereotypes to call people to
+unity, such as was the following from Dave Barry (2004):
+Must we stereotype those who disagree with us?
+Do we truly believe that ALL red-state residents are
+ignorant racist fascist knuckle-dragging NASCAR-
+obsessed cousin-marrying roadkill-eating tobacco-
+juice-dribbling gun-fondling religious fanatic rednecks;
+or that ALL blue-state residents are godless unpatriotic
+pierced-nose Volvo-driving France-loving left-wing
+communist latte-sucking tofu-chomping holistic-wacko
+neurotic vegan weenie perverts? (Section D, p. 10)
+Even though this specific piece was openly sarcastic of the
+caricatures at the time, stereotypes of conservatives and liberals
+were ultimately developed and maintained among these articles
+across a wide array of personal beliefs, values, consumer tastes,
+and daily practices. Whether intentional or not, these examples
+consistently developed vague stereotypes about varied seg-
+ments of the U.S. populous. While some other frames down-
+played or rejected the notions of significant differences among
+the U.S. electorate, the Lifestyle Stereotype frame strived to
+illustrate virtually all conceivable ways in which the red and
+blue groups differed. It was interesting to note the variety of
+ways these articles classified the public in terms of everyday
+commodities--tastes in movies, music, literature, coffee, com-
+edy, architecture, and other arenas of personal life that most
+people would not typically think of in politicized terms.
+Overall, the Lifestyle Stereotype frame was found in 45
+articles (13.4%). These stories tended to surface slightly
+more often after 2004. In some ways, this framework is per-
+haps the most interesting because of the ways it was used to
+illustrate overlaps between personalities and politics, which
+calls into question linkages between structure and agency. It
+becomes an open question as to whether we are free to
+choose our politicians or that our politicians are given to us
+through our lifestyle choices.
+While the Lifestyle Stereotype frame often poked fun at dif-
+ferentAmerican lifestyles by reifying assumptions behind them,
+the Culture War frame made far more serious claims about sub-
+stantial political differences. Writers using this frame claimed
+6 SAGE Open XX(X)
+that there existed a sociopolitical divide so deep that there really
+were twoAmericas instead of one.As stated by political pollster
+John Zogby in an article by David Cook (2004),
+Among those who attend church or a place of worship
+at least weekly . . . 52 percent [live in] red states . . .
+34 percent in blue states . . . I have to tell you the reli-
+gion thing really just sort of blew me away. Frequent
+church-goers are dramatically more likely to live in
+red states and they vote. When you see the numbers of
+Protestants in these red states, you are always looking
+at least half of those being born-again--that is sub-
+stantial . . . Democrats have to do something about
+family values. That is a huge deficit that they have
+against Republicans. (Section A, p. 2)
+The Culture War frame projected the political left as a
+group that was out-of-touch with what people want from
+their country and demanded from the government. Writers
+often insisted that people in the blue states "just don't get it"
+when it came to the importance of religion, in particular.
+Conservative writers often pointed out that a shift in the
+political landscape had been the product of an enormous cul-
+tural shift rooted in conservative Christian moral values, and
+those who lived in the blue states were largely not even
+aware of this shift. These writers claimed that the blue-state
+liberals lost major elections because they failed to recognize
+the importance of religion in their political agendas.
+These claims were often bolstered by political polling and
+the U.S. Census Bureau data, which were often offered as
+"sociological proof" that differences between the red and
+blue states was both striking and clear. For example, the fol-
+lowing was pointed out by Carrubba (2007):
+*George Bush carried 14 of the 15 states which
+refused to ratify the Equal Rights Amendment (Illinois
+was the exception);
+*Bush carried all 10 states with the lowest per capita
+income, and the 10 states with the lowest percentage
+of the population who are college graduates;
+*John Kerry carried 9 out of 10 states with the highest
+income and educational levels (Colorado was the
+exception);
+*Bush carried all 20 states that have the highest per-
+centage of their populations belonging to Evangelical
+Protestant churches.
+*Bush carried all 10 states that still allow corporal
+punishment in the schools;
+*Bush carried 8 of the 10 states with the lowest abortion
+rates (except Maine and Vermont); while Kerry carried 8
+of the 10 states with the highest abortion rates (except
+Nevada and Florida). (Section A, pp. 3-4)
+The message and theme within the Culture War frame
+was to heed a warning call to all readers: by askingAmericans
+to wake up to the regrettable reality of bitter political divi-
+sions across the country. In addition, the writers appeared
+motivated to claim that the political right should have the
+upper hand in the political sphere, as they are the representa-
+tives of the "real" America. The Culture War frame urged
+readers to think about these differences in values to create
+meaning about political issues--to see conservative politics
+as "right" and liberal politicians or movements as "incorrect"
+or "misguided."
+Many using this frame voiced contempt for the values of
+the political left while expressing the notion that conserva-
+tive politicians were in power because Republicans were the
+ones who understood real Americans. These claims were
+often controversial and conflict-oriented even though the
+writers consistently presented the data as if the divide was
+easy to document. Many Culture War articles suggested to
+the readers that differences were deep-rooted and that com-
+promise was unlikely to be reached in the foreseeable future.
+Overall, there was a sense that those refusing to acknowl-
+edge this chasm were simply ignoring the facts.
+There were 59 articles which asserted the existence of a
+culture war (17.5%). These articles were evenly dispersed
+between election and nonelection years, suggesting that the
+topic was (and continues to be) a central point to numerous
+political authors over long periods of time. This fact seems
+consistent with the claims made by Fiorina and colleagues
+(2006) that there is a political class with a vested interest in
+continually portraying the nation as bitterly divided for the
+purposes of acquiring political capital.
+Meanwhile, the Liberal Partisan frame also argued that
+there were two different Americas. Alternatively, however,
+leftist writers dominated this framework. In response to frus-
+trations stemming from the Bush administration policies and
+culture war frames, many liberal pundits fired back, regu-
+larly making confrontational statements about conservatives
+and their politics. The Liberal Partisan frame was a place
+where the animosity Democrats held toward Republicans
+became overt and fairly easy to see. Leftist writers would
+often revert to using rhetorical language and stinging accusa-
+tions to make their points to the readers.
+The Liberal Partisan frame featured writers who openly
+challenged all notions that conservatives had a monopoly on the
+representation of everyday "real Americans." Although writers
+using this frame generally agreed with Culture War writers that
+Americans were divided along major social and moral issues,
+this particular frame was used to express open contempt toward
+conservative America and its writers. For example, the follow-
+ing article from Arends (2004) claimed that the red states were
+financially bilking the blue states, paying them back with scorn,
+intolerance, and a lack of gratitude:
+Gross 7
+The blue states remain the engine of the American
+economy. All in all they produced $5.4 trillion in goods
+and services in 2001, the last year for which reliable
+data is available . . . that's about $700 billion more than
+the red states, according to the government's Bureau of
+Economic Analysis. (Section C, p. 10)
+Political critics from the left openly resented and ques-
+tioned conservative claims of patriotism and piety, and
+accused the right of hypocrisy concerning moral values.
+While the political left was suggested to be "out-of-touch"
+and "elitist" by conservatives pundits, liberals accused con-
+servatives of warmongering, excessive rates of adultery,
+divorce, teenage pregnancy, while being opposed to improve-
+ments in education programs and gun control laws.
+Nevertheless, writers were not without their own objec-
+tives of accumulating political capital while questioning the
+moral turpitude of political opponents. Articles suggest that
+readers think about how none of the actions pursued by con-
+servative politicians were justified on either religious or
+political grounds. Readers were supposed to recognize how
+Republican policies ran contrary to what people hold as
+being "moral," "spiritual," or even "American." These con-
+tests took place on most, if not all, major political issues such
+as taxation, abortion, the war in Iraq, and so on. Similar to
+the Lifestyle Stereotype frame, these battles often overlapped
+the personal with the political, although here the arguments
+were much more serious and never intended to be humorous.
+The hypocrisy of the conservative right is examined in the
+following quote from Steinfels (2004):
+Are not moral values also at stake in decisions about
+war, in drawing lines against torture, in addressing
+poverty or in providing desperately needed housing
+and health care? It has become commonplace to note
+that for every injunction in the Bible regarding homo-
+sexuality there are hundreds, maybe thousands regard-
+ing care for the poor. (Section A, pp. 5-6)
+Overall, the Liberal Partisan frame was the most prevalent
+frame in this sample, being used in 89 articles (26.4%). This
+frame was particularly popular in the years in which the
+Republican Party held both the Presidency and the majority of
+U.S. Congressional seats, and began to decrease in popularity
+starting in 2007. It is possible that this may have reflected a
+reduction of rhetoric, frustration, hostility, and anxiety among
+liberal writers and politicians--feelings that may have been
+most salient and intense between the years 2004 to 2006.
+Finally, the How to Win frame defined was a space where
+professional writers and political experts discussed both real
+and potential political strategies in attempts to figure out
+how a candidate could win an election. Campaigns were
+compared with sporting contests, being said to be "executing
+strategies" and "scoring points," often utilizing sports meta-
+phors to describe U.S. politics as a contest or game. Writers
+using this frame liked to subdivide geographical regions by
+"figuring out what plays" in any given area, claiming that
+successful moves were analogous to "hitting a home run" or
+that opponents were "jockeying for position" to describe the
+motivations of candidate actions and policy formations.
+Moreover, this framework offered an assumption of insin-
+cerity in the motives of the politicians to readers. Another
+key assumption connoted to the readers was that major social
+differences by regions and political parties were indeed fac-
+tual and beyond question. These writers generally also
+assumed that any politician who did not acknowledge or
+address the differences did so at his or her own peril.
+Continually, it was suggested that politicians must be
+willing to "win the contest" by consistently offering what-
+ever words and phrases would "score well" with voters in an
+area, regardless of where they genuinely stood on the issue.
+Writers within this frame emphasized that professional polit-
+ical campaigns should be carefully managed, crafted, and
+tailored by candidates depending on audience characteristics
+and geographical region to gain a maximized payoff. The
+frames were full of advice, predictions, and suggestions from
+an assortment of political gurus or social scientists directed
+toward the candidates. Similar to a team coach or instructor,
+strategies regarding how a candidate should "speak to the
+people" in a particular state to get their support were voiced.
+It is not hard to imagine how anyone reading these texts
+would feel distrust for politics, skepticism about the candi-
+dates, and an overall negative feeling toward the election
+process.
+Writers using this frame attempted to outline precisely
+how these two Americas differed in terms of demographics
+and their support of specific social-political issues. Data, in
+the form of polling statistics or other facts and trends about
+the U.S. population were always offered as unquestioned
+justification for the writer's suggestions. By recognizing
+these differences and appealing to them, a candidate could
+win or lose in any given election. One example comes from
+Skiba (2004) who used demographic data to support an argu-
+ment being made about how John Kerry and George H. W.
+Bush should pursue effective campaign strategies:
+Red states have smaller percentages of younger voters,
+single voters, college graduates, liberals, Catholics
+and Jews, union members and non-prayers . . . Blue
+states have proportionally fewer Republicans, rural
+dwellers, conservatives, born-again Christians, daily
+or weekly attendees at a place of worship, local sports
+fans, gun owners, investors, military veterans and
+married voters. (Section A, p. 4)
+Overall, the How to Win frame was the third most preva-
+lent news frame in this study, trailing only the Culture War
+and Liberal Partisan frames in terms of frequency. However,
+half of these appearances were made during the 2004 U.S.
+Presidential contest. In total, How to Win was used 52 times
+8 SAGE Open XX(X)
+(15.4%). It appears that these frameworks decrease signifi-
+cantly in the absence of a major political election but are
+quite prevalent during election years.
+HypothesesTests Using Quantitative
+Analysis
+To test Hypothesis 1, articles were subdivided into three cat-
+egories depending on when the newspaper article was pub-
+lished: before the 2004 U.S. Presidential election, between
+election night 2004 and the end of the year, and in the 3 years
+following the election (2005-2007). The data should not only
+show variance in the patterns of framework prevalence, but
+the time period leading up to the election should have higher
+rates of inflammatory claims being made on the left and right,
+or high frequencies of the culture war and liberal partisan
+frames. However, that did not seem to be the case.
+Table 1 indicates small but significant findings in the rela-
+tionship between frameworks used and the time the article was
+written (2 = 23.182, p = .01; Cramer's V = .185, p = .01). The
+data suggest that seems to be a weak but significant relationship
+between frameworks depending on whether the article was
+written before the 2004 election, slightly after, or 2005 and
+beyond. For example, alternate data analysis conducted showed
+that when these time periods were condensed into years (2004,
+2005, 2006, and 2007), the findings were not found to be sig-
+nificant (2 = 14.858, p = .462; Cramer's V = .121, p = .462).
+Based on these results, the data show weak and partial
+support for Hypothesis 1, although the more conflict-ori-
+ented frameworks did not appear more frequently before the
+2004 election. However, it appears that a more appropriate
+interpretation of these data would claim that while all six
+frames appear within newspapers in a fairly consistent pat-
+tern over time, some frames may become slightly more com-
+mon than others at any given time period. This is consistent
+with Gamson and Modigliani (1989), who pointed out that
+frames shift in definition, duration, and frequency of usage
+over time in any discourse of political issues.
+Table 1. Framework Usage by Time Period
+When was article written?
+Total
+
+Between 2004 election
+and the end of 2004 2005 or later
+Before 2004
+Election
+Frame
+ Call for unity
+Count 13 15 11 39
+Expected count 11.6 19.9 7.5 39.0
+ % within when was article written? 13.0 8.7 16.9 11.6
+ How to win
+Count 7 26 19 52
+Expected count 15.4 26.5 10.0 52.0
+ % within when was article written? 7.0 15.1 29.2 15.4
+ Culture war
+Count 19 29 11 59
+Expected count 17.5 30.1 11.4 59.0
+ % within when was article written? 19.0 16.9 16.9 17.5
+ Liberal partisan
+Count 29 49 11 89
+Expected count 26.4 45.4 17.2 89.0
+ % within when was article written? 29.0 28.5 16.9 26.4
+ Purple State
+Count 19 25 9 53
+Expected count 15.7 27.1 10.2 53.0
+ % within when was article written? 19.0 14.5 13.8 15.7
+ Lifestyle stereotype
+Count 13 28 4 45
+Expected count 13.4 23.0 8.7 45.0
+ % within when was article  written? 13.0 16.3 6.2 13.4
+Total
+Count 100 172 65 337
+ Expected count 100.0 172.0 65.0 337.0
+ % within when was article written? 100.0 100.0 100.0 100.0
+Gross 9
+My second hypothesis required a classification of the
+articles where editorials were separated from others. It
+seemed plausible that editorial writers (often political pun-
+dits or members of the general public) would be more likely
+to take a less neutral stance than professional journalists,
+hence using more conflict-oriented frames. The results can
+be seen in Table 2.
+The data show that editorial writers were more likely to
+espouse democrat critiques toward the Republican Party.
+However, editorials were also less likely to describe the
+American political landscape as being immersed in the mid-
+dle of a culture war. In addition, these writers were also more
+likely to deny the existence of a red/blue dichotomy, as the
+purple state frame emerges often. As expected, articles writ-
+ten by professional journalists were more likely to adopt how
+to win frames to illustrate actual and potential political strat-
+egies. The data table also shows that journalists were slightly
+more likely to indicate that the United States was in a culture
+war. Although these findings did not show a strong
+correlation (Cramer's V = .262, p = .000), these figures do
+show significance between frame usage and article author
+type (2 = 23.186, p = .000).
+Again, the data show weak but partial support for
+Hypothesis 2, that patterns of news frames vary by type of
+author. However, these patterns did not vary in the specific
+ways that were predicted. Editorialists were more likely than
+journalists to question the existence of red or blue states,
+although numerous critiques against the Republican Party
+and "red state" politics were voiced also. Journalists, by
+comparison, would often assume that political differences by
+region were real and could be exploited by politicians. In
+addition, these news articles were an avenue to inform the
+public more specifically how different groups and areas var-
+ied in terms of political values.
+Discussion and Conclusion
+The news media in the United States have an impact on
+society that goes beyond this content analysis of newspaper
+articles, though what that impact is goes beyond most stud-
+ies. The media are multivalent (e.g., Gamson et al., 1992), as
+are its readers. Coverage reflected a wide variety of different
+viewpoints over time existing simultaneously at most points
+in time. Sweeping general statements regarding the relation-
+ship between political partisanship and the U.S. newspaper
+media are tenuous at best, and potentially misleading. There
+seems to be little evidence of any single dominant frame-
+work characterizing all news media coverage of politics.
+This suggests that the news media are not directly to blame
+for creating rapidly increasing political polarization among
+the U.S. public--if such polarization exists.
+Perhaps more disconcerting is how news stories often
+regard the motives of politicians as potentially sinister or
+manipulative; that parties and political elites use sociological
+data and polls to manipulate publics by geographical region
+to gain their support. Furthermore, it is possible that readers
+may develop negative stereotypes of their fellow Americans
+based on the development of stereotypical "red state" or
+"blue state" behaviors and beliefs. These beliefs may be
+capable of breeding a disdain for political different others
+among American public and reducing the overall civility
+toward one another in U.S. political discourse.
+Last, there did not seem to be any dominant pattern or
+frame in the coverage which would suggest that political elites
+effectively use specific rhetorical devises to uniformly pursue
+an agenda that deeply divided the nation. One could make the
+argument that political polarization is on the rise in the United
+States, but the data presented here did not support the idea that
+these cleavages are being driven by excessively conflict-ori-
+ented news coverage that ignores all contestations of whether
+the United States is really divided. It is imperative that
+researchers of the media and politics continue to keep one eye
+on the media and the other on the voting public.
+Table 2. Framework Usage--EditorialistsVersus Journalists
+Editorial?
+Total
+ No Yes
+Frame
+ Call for Unity
+Count 30 9 39
+Expected count 26.4 12.6 39.0
+ % within editorial 13.2 8.3 11.6
+ How to Win
+Count 42 10 52
+Expected count 35.2 16.8 52.0
+ % within editorial 18.4 9.2 15.4
+ Culture War
+Count 47 12 59
+Expected count 39.9 19.1 59.0
+ % within editorial 20.6 11.0 17.5
+ Liberal Partisan
+Count 47 42 89
+Expected count 60.2 28.8 89.0
+ % within editorial 20.6 38.5 26.4
+ Purple State
+Count 29 24 53
+Expected count 35.9 17.1 53.0
+ % within editorial 12.7 22.0 15.7
+ Lifestyle Stereotype
+Count 33 12 45
+Expected count 30.4 14.6 45.0
+ % within editorial 14.5 11.0 13.4
+Total
+Count 228 109 337
+ Expected count 228.0 109.0 337.0
+ % within editorial 100.0 100.0 100.0
+10 SAGE Open XX(X)
+Declaration of Conflicting Interests
+The author declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+Funding
+The author received no financial support for the research and/or
+authorship of this article.
+Note
+1. In 1980, the term blue state referred to states that supported the
+Republican Party candidate--Ronald Reagan--and red state
+denoted the states that voted for the Democratic Party can-
+didate--Jimmy Carter. Between 1984 and 2000, color-coding
+schemes varied arbitrarily by TV network. Since 2000, the net-
+works have maintained a consistent color-coding scheme of
+blue for Democrat and red for Republican (Zeller, 2004).
+References
+Abramowitz, A., & Saunders, K. L. (2005). "Why can't we all just get
+along? The reality of a polarized America. The Forum: A Journal
+of Applied Research in Contemporary Politics, 3(2), 1-24.
+Ansolabehere, S., Rodden, J., & Snyder, J. M., Jr. (2006). Purple
+America. Journal of Economic Perspectives, 20, 97-118.
+Arends, B. (2004, November 9). Blue states carry U.S. economy, if
+not its vote. The Boston Herald, Section C, p. 10.
+Baldassarri, D., & Gelman,A. (2008, January 28). Partisans without
+constraint: Political polarization and trends in American pub-
+lic opinion. Retrieved from http://ssrn.com/abstract=1010098
+Barrett, A., & Barrington, L. W. (2005). Newspaper photographs
+and voter evaluations of political candidates. Harvard Interna-
+tional Journal of Press/Politics, 3, 98-113.
+Barry, D. (2004, December 12). "Color our world with red and blue.
+The New York Times, Section D, p. 10.
+Carrubba, L. A. (2007, July 10). Red states really do differ from
+blue states. Staten Island Advance, Section A, pp. 3-4.
+Cook, D. T. (2004, January 7). John Zogby and Brad O'Leary. The
+Christian Science Monitor, Section A, p. 2.
+DeBose, B. (2004, July 28). Obama shines as keynote speaker. The
+Washington Times, Section A, p. 6.
+DiMaggio, P., Evans, J., & Bryson, B. 1996. Have Americans'
+social attitudes become more polarized? American Journal of
+Sociology, 102, 690-755.
+Dombrink, J. (2005). Red, blue, and purple. Dissent, 52(2), 87-92.
+Fiorina M. P., Abrams, S. J., & Pope, J. C. (2006). Culture war? The
+myth of a polarized America. New York, NY: Pearson Education.
+Frank, T. (2004). What's the matter with Kansas? New York, NY:
+Harry Holt.
+Gamson, W. A. (1992). Talking politics. New York, NY: Cambridge
+University Press.
+Gamson, W. A., Croteau, D., Hoynes, W., & Sasson, T. (1992).
+Media images and the social construction of reality. Annual
+Review of Sociology, 18, 373-393.
+Gamson, W. A., & Modigliani, A. (1989). Media discourse and
+public opinion on nuclear power: A constructionist approach.
+American Journal of Sociology, 95, 1-37.
+Gitlin, T. (1980). The whole world is watching. Berkeley: Univer-
+sity of California Press.
+Glaeser, E. L., & Ward, B. A. (2006). Myths and realities of Ameri-
+can political geography. Journal of Economic Perspectives, 20,
+119-144.
+Greenberg, S. B. (2004). The two Americas: Our current political
+deadlock and how to break it. New York, NY: Thomas Dunne
+Books.
+Gronbeck, B. L., & Wiese, D. R. (2005). The repersonalization of
+presidential campaigning in 2004. American Behavioral Scien-
+tist, 49, 520-534.
+Kuttner, R. (2005, August 10). Red vs. blue? Not true. The Boston
+Globe, Section A, p. 12.
+Lakoff, G. (2004). Don't think of an elephant: Know your values
+and frame the debate. White River Junction, VT: Chelsea Green
+Publishers.
+Lakoff, G. (2006). Thinking points. New York, NY: Farrar, Strauss,
+and Giroux.
+Landa, V. (2006, November 19). Those red, blue voters all over
+political map. San Antonio Express-News, Section A, pp. 7-8.
+Luntz, F. (2007). Words that work. New York, NY: Hyperion Books.
+Manjoo, F. (2008). True enough: Learning to live in a post-fact
+society. Hoboken, NJ: John Wiley.
+Patinkin, M. (2004, December 7). Whether we voted red or blue:
+We're all color-coded. The Providence Journal, Section D, p. 1.
+Patterson, T. E. (1980). The mass media election: How Americans
+choose their president. New York, NY: Praeger.
+Petty, R., & Wegener, D. T. (1998). Attitude change: Multiple roles
+for persuasion variables. In D. Gilbert, S. Fiske, & G. Lindzey
+(Eds.), The handbook of social psychology (Vol. 1, 4th ed., pp.
+323-390). Boston, MA: McGraw-Hill.
+Raspberry, W. (2004, November 17). Journalists see things in red
+and blue. Herald News, Section A, pp. 6-7.
+Sandler, L. (2004, November 14). Not red, not blue. Maybe purple?
+Milwaukee Journal-Sentinel, Section C, pp. 9-10.
+Skiba, K. M. (2004, January 7). U.S. states remain divided. Mil-
+waukee Journal-Sentinel, Section A, p. 4.
+Steinfels, P. (2004, November 6). Voters say values matter, but it's
+important to find out what reality is behind this convenient
+catchall. The New York Times, Section A, pp. 5-6.
+Sunstein, C. (2009). Going to extremes: How like minds unite and
+divide. Oxford, UK: Oxford University Press.
+Thompson, J. B. (1995). Ideology and modern culture. Stanford,
+CA: Stanford University Press.
+Webster, G. (2007). The electoral college exacerbates the red-blue
+state divide and disenfranchises ethnic minorities. American
+Psychologist, 62, 701-703.
+Zeller, T. (2004, February 8), Ideas and trends: One state, two state,
+red state, blue state. The New York Times, Section B, pp. 9-10.
+Bio
+Benjamin Gross is an assistant professor of sociology at Saint
+Bonaventure University in western New York. His research inter-
+ests include political sociology, media sociology, and social
+psychology.
+

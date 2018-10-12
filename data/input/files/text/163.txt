@@ -1,0 +1,1271 @@
+econstor
+Make Your Publications Visible.
+A Service of
+zbwLeibniz-Informationszentrum
+Wirtschaft
+Leibniz Information Centre
+for Economics
+Buch, Claudia M.; Kleinert, Jörn
+Working Paper
+Who Goes East? The Impact of Enlargement on the
+Patterns of German FDI
+IAW-Diskussionspapiere, No. 24
+Provided in Cooperation with:
+Institute for Applied Economic Research (IAW)
+Suggested Citation: Buch, Claudia M.; Kleinert, Jörn (2006) : Who Goes East? The Impact
+of Enlargement on the Patterns of German FDI, IAW-Diskussionspapiere, No. 24, Institut für
+Angewandte Wirtschaftsforschung (IAW), Tübingen
+This Version is available at:
+http://hdl.handle.net/10419/21862
+Standard-Nutzungsbedingungen:
+Die Dokumente auf EconStor dürfen zu eigenen wissenschaftlichen
+Zwecken und zum Privatgebrauch gespeichert und kopiert werden.
+Sie dürfen die Dokumente nicht für öffentliche oder kommerzielle
+Zwecke vervielfältigen, öffentlich ausstellen, öffentlich zugänglich
+machen, vertreiben oder anderweitig nutzen.
+Sofern die Verfasser die Dokumente unter Open-Content-Lizenzen
+(insbesondere CC-Lizenzen) zur Verfügung gestellt haben sollten,
+gelten abweichend von diesen Nutzungsbedingungen die in der dort
+genannten Lizenz gewährten Nutzungsrechte.
+Terms of use:
+Documents in EconStor may be saved and copied for your
+personal and scholarly purposes.
+You are not to copy documents for public or commercial
+purposes, to exhibit the documents publicly, to make them
+publicly available on the internet, or to distribute or otherwise
+use the documents in public.
+If the documents have been made available under an Open
+Content Licence (especially Creative Commons Licences), you
+may exercise further usage rights as specified in the indicated
+licence.
+www.econstor.eu
+INSTITUT FÜR
+ANGEWANDTE
+WIRTSCHAFTSFORSCHUNG
+Ob dem Himmelreich 1
+72074 Tübingen
+T:(0 70 71) 98 96-0
+F:(0 70 71) 98 96-99
+E-Mail:iaw@iaw.edu
+Internet:www.iaw.edu
+IAW-Diskussionspapiere
+Discussion Paper
+24
+Who Goes East?
+The Impact of Enlargement on
+the Patterns of German FDI
+Claudia M. Buch
+Jörn Kleinert
+March 2006
+ISSN:1617-5654
+IAW-Diskussionspapiere
+Das Institut für Angewandte Wirtschaftsforschung (IAW) Tübingen ist ein unabhängiges
+außeruniversitäres Forschungsinstitut, das am 17. Juli 1957 auf Initiative von Professor
+Dr. Hans Peter gegründet wurde. Es hat die Aufgabe, Forschungsergebnisse aus dem
+Gebiet der Wirtschafts- und Sozialwissenschaften auf Fragen der Wirtschaft anzuwenden.
+Die Tätigkeit des Instituts konzentriert sich auf empirische Wirtschaftsforschung und
+Politikberatung.
+Dieses IAW-Diskussionspapier können Sie auch von unserer IAW-Homepage
+als pdf-Datei herunterladen:
+http://www.iaw.edu/Publikationen/IAW-Diskussionspapiere
+ISSN 1617-5654
+Weitere Publikationen des IAW:
+ˇ IAW-News (erscheinen 4x jährlich)
+ˇ IAW-Report (erscheinen 2x jährlich)
+ˇ IAW-Wohnungsmonitor Baden-Württemberg (erscheint 1x jährlich kostenlos)
+ˇ IAW-Forschungsberichte
+Möchten Sie regelmäßig eine unserer Publikationen erhalten, dann wenden Sie sich
+bitte an uns:
+IAW Tübingen, Ob dem Himmelreich 1, 72074 Tübingen,
+Telefon 07071 / 98 96-0
+Fax 07071 / 98 96-99
+E-Mail: iaw@iaw.edu
+Aktuelle Informationen finden Sie auch im Internet unter: http://www.iaw.edu
+Der Inhalt der Beiträge in den IAW-Diskussionspapieren liegt in alleiniger Verantwortung der
+Autorinnen und Autoren und stellt nicht notwendigerweise die Meinung des IAW dar.
+Who Goes East?
+The Impact of Enlargement
+on the Patterns of German FDI1
+Claudia M. Buch (University of Tübingen and IAW)
+Jörn Kleinert (University of Tübingen)
+February 2006
+Abstract
+Affiliates of German firms in Eastern Europe differ from those in the rest of the world. They
+have smaller sales and they employ more labor. Labor productivity is thus lower than in
+affiliates of German firms elsewhere. Moreover, multinational activity in Eastern Europe is
+mostly unilaterally whereas, for industrialized countries, bilateral FDI linkages dominate. In
+this paper, we aim at explaining differences in the activities of German multinational firms in
+Eastern and Western Europe. Do German firms engage in different activities in Eastern and
+Western Europe, i.e. do the types of affiliates differ? Or do smaller German parent firms
+particularly benefit from enlargement, i.e. do characteristics of the parents differ in a
+systematic way?
+JEL classification: F15, F23, L23
+Keywords: Eastern enlargement, foreign direct investment, firm heterogeneity
+1 Corresponding author: Claudia M. Buch, University of Tübingen, Department of Economics, Mohlstrasse
+36, 72074 Tübingen, Germany, Phone: +49 7071 2972962, e-mail: claudia.buch@uni-tuebingen.de and
+Institute for Applied Economic Research (IAW), Tübingen. This paper has been prepared for the
+conference ,,Labor and Capital Flows in Europe Following Enlargement" in Warsaw, January 2006. The
+paper has partly been written during visits of the authors to the Research Centre of the Deutsche
+Bundesbank. The hospitality of the Bundesbank and access to its firm-level database "International Capital
+Links" (Midi) are gratefully acknowledged. The project has also benefited from financial support through
+the German Science Foundation under the project "Multinational Enterprises: New Theories and Empirical
+Evidence from German Firm-Level Data" (BU 1256/6-1). We would like to thank Farid Toubal as well as
+participants of the Warsaw-conference for most helpful comments on an earlier draft and Iryna Brammen
+for excellent research assistance. All errors are in our own responsibility.
+2
+1 Motivation
+Affiliates of German firms in Eastern Europe differ from those in the rest of the world. They
+have smaller sales, and they employ relatively more labor. Table 1 shows that the transition
+countries of Central and Eastern Europe accounted for 7% of the foreign direct investment
+(FDI) of German firms abroad at the end of 2003. Their share in the numbers of employees
+(22.7%) and in the number of affiliates (15.7%) was significantly higher. Average sales per
+affiliate are only half of the value observed for developed countries. Labor productivity is thus
+lower than in affiliates of German firms elsewhere. Moreover, multinational activity in
+Eastern Europe is mostly unilateral whereas, for industrialized countries, bilateral FDI
+linkages dominate.
+--- Insert Table 1 about here. ---
+These new patterns of integration have raised an intense public debate on the costs and
+benefits of globalization in Germany ­ just as in many other developed countries. Eastern
+enlargement is often viewed as the key trigger of small and mid-sized firms into foreign
+markets, thus exposing the German economy and German workers to a new threat of
+international competition.
+Policy discussions on the role of multinational firms in the new EU member states differ from
+those in the West. Although, as in the West, people fear adverse labor market effects of
+multinational activity, they do so for different reasons. Multinational enterprises (MNEs) may
+feel less committed to preserving employment than domestic firms, hence restructuring firms
+and laying off workers more easily. Although the overall employment effects of more MNE
+activity are likely to be positive, uncertainty and the need for a flexible adjustment of the
+labor market may increase. Also, if large foreign firms enter, this may put increased
+competitive pressure on the incumbent domestic firms.
+Two key characteristics of multinational firms are thus central to the policy debate. The first
+is the size of firms. If small and mid-sized firms start investing abroad, globalization may
+affect also those firms of the Western economies that have previously not been able to
+relocate production. For the destination countries of FDI, large rather than small entrants may
+be a concern as large entrants may increase competitive pressure.
+The second characteristic of multinational firms that is important to the policy debate is their
+labor intensity. If multinationals that invest in Eastern Europe are relatively labor intensive,
+this may have positive effects on the labor markets in the host economies, but these benefits
+may come at the expense of employment in the source countries of FDI.
+In this paper, we document and explain differences with regard to the size and the labor
+intensity of German multinationals in Eastern and Western Europe. We argue that the
+observed differences can originate from three distinct sources.
+First, foreign affiliates of multinational firms differ across countries because they perform
+different functions. If foreign affiliates are set up in order to save production costs in general
+and labor costs in particular, they are likely to be more labor intensive than their parents. If,
+however, foreign affiliates are set up in order to improve market access, differences in the
+labor intensity between the affiliate and the parent are likely to be less pronounced.
+3
+Second, differences in the size and in the labor intensity of the affiliate might reflect
+differences in parent characteristics. Recent models of multinational firm stress the impact of
+differences in productivity of the parent for the choice of entry (see, e.g., Helpman et al.
+2004). According to these models, firms self-select into different groups of multinational
+firms. The most productive firms set up production facilities abroad and sell their products on
+the foreign market. The least productive firms stay at home and service only the domestic
+market. The size of firms in each group is country-specific. Thus, according to these models,
+countries with low entry barriers would host more and on average smaller foreign affiliates.
+Third, irrespective of the purpose that a foreign affiliate serves and the productivity of the
+parent, differences in the age of affiliates may explain differences in the size of affiliates.
+Ceteris paribus, older firms tend to be larger than their younger counterparts. Finding that
+smaller affiliates are active in Eastern Europe might thus reflect the fact that multinational
+activity in Central and Eastern Europe started only in the 1990s.
+An additional reason for differences in affiliate structures could be differences in factor
+endowments across countries. Even if affiliates in different countries perform the same
+functions, their labor intensities are likely to differ if countries have different factor
+endowments. For example, a pure sales outlet in a country with low labor costs is likely to be
+more labor intensive than a pure sales outlet in a country with high labor costs. However, we
+cannot test this effect of factor endowments because we cannot isolate it from the other
+influences mentioned above.
+To explore why characteristics of German foreign affiliates in Eastern and Western Europe
+differ, we make use of a novel dataset provided by the Deutsche Bundesbank. For a couple of
+years now, the Bundesbank has provided external researchers with access to its firm-level
+database `International Capital Links', which has detailed information on the foreign affiliates
+of German firms abroad (and on affiliates of foreign firms in Germany). The data start in
+1989. Until recently, essentially no information on the German parent firms has been
+available. For the years 2002-2003, however, selected additional information has been
+provided on the German reporting firm. Hence we can use this additional information to
+obtain evidence on heterogeneity across parents.
+The focus of this paper is on German data for two interrelated reasons. First, Germany is one
+of the largest investor in Eastern Europe. Almost one third of all FDI into the region comes
+from German firms. The second and third most important investors, the Netherlands and
+Austria, follow with shares of only 14 and 9%, respectively. Hence although we focus only on
+one source country of FDI, our analysis yet captures a significant share of FDI into Eastern
+Europe. Second, in contrast to evidence for other important source countries of FDI into
+Eastern Europe, firm-level data are available for German firms. Hence, we can disentangle the
+impact of affiliate and of parent characteristics, which would not be feasible using aggregated
+data.
+This is not the first paper to study the activities of German firms in Eastern Europe. Earlier
+work has used mainly aggregated data. (For a survey of the evidence see Toubal (2004).)
+More recently, firm-level data have been used as well. First results of Becker et al. (2005) and
+Marin (2004) show that jobs in domestic and foreign plants of German firms are substitutes,
+but that total job losses through foreign direct investment are quite low. Buch et al. (2005)
+provide a detailed analysis of the determinants of German firms' foreign activities, but their
+research does not focus on differences between Eastern and Western Europe. They find that,
+overall, German FDI is mostly driven by the market access motive.
+4
+This paper differs from earlier research in two main regards. First, we focus on German FDI
+in Eastern Europe using data at different levels of aggregation. As earlier studies on German
+FDI, we use sectoral and aggregated data to obtain a broad picture of the determinants of
+multinational activity. However, these data do not allow the different determinants of affiliate
+characteristics to be disentangled. Hence the second innovation of this paper is that we use
+firm-level data to identify the factors that contribute to the systematic differences of German
+firms' foreign affiliates.
+This paper has five main parts. In the following Part 2, we briefly review the theoretical
+literature on multinational firms. We discuss the implications of models that focus on the
+different functions that foreign affiliates can serve as well as on the implications of recent
+theoretical work emphasizing heterogeneity of parents. In Part 3, we provide a set of
+descriptive statistics. These provide an intuition why the patterns of German multinationals in
+Eastern Europe differ from those in the rest of the world. In Part 4, we study these patterns in
+a regression-based framework, using data aggregated by host country, sector-level data, and
+firm-level data. Part 5 concludes. We find that German firms expand into Eastern Europe
+both, in order to improve market access and in order to reduce production costs. The
+production cost motive is somewhat more important than for FDI activity in Western Europe.
+Contrary to expectations, multinational parents that are active in Eastern Europe are larger, on
+average, than the typical German multinational. Production in Eastern Europe is also
+relatively labor intensive.
+2 Motives for Internationalization: Theoretical Background
+Exploring the different motives for the internationalization of production has been an
+important theme in the literature on multinational firms in recent years. (See for surveys
+Markusen (2002) or Barba-Navaretti and Venables (2004)). This research has stressed two
+main reasons for setting up affiliates abroad: lowering production costs and lowering costs of
+market access. Below, we review the implications of these models. We also sketch
+implications of recent theoretical models which put emphasis on differences in parent
+characteristics to endogenously derive the decision to invest in a foreign country.
+2.1 Production Costs versus Market Access
+Evidence provided in Table 1 shows that affiliates of German firms in Eastern Europe differ
+from affiliates in other countries along some key dimensions. What is it that can explain these
+differences? One possible answer to this question lies in the different purposes that foreign
+affiliates can fulfill. In the literature, two main motives for setting up affiliates abroad are
+being distinguished.
+According to the first motive for internationalization, firms internationalize production and
+become multinationals because they aim at reducing production costs. Hence these firms split
+up the production process and relocate labor intensive stages of production into countries
+richly endowed with labor. They take advantage of existing factor-price differentials between
+countries to relocate production across borders. Relocation of production takes place
+according to the comparative advantages of countries (Helpman 1984). Multinational firms
+that emerge in this framework are vertically integrated as they conduct different activities in
+5
+different locations. If factor-price considerations are behind the internationalization of
+production, we should see
+o one-directional FDI flows from capital-, management-, or human capital-rich (developed)
+countries to countries richly endowed with labor (developing countries)
+o activities of multinational firms that increase in the degree of dissimilarity in factor
+endowments between countries, and
+o multinational firms which have foreign affiliates specializing in different stages of
+production than their domestic headquarters.
+A priori, considering the differences in factor endowments between Eastern and Western
+Europe, we might expect factor-price considerations to play a more important role for the
+expansion of German firms into Eastern compared to Western Europe. However, for countries
+richly endowed with labor, there is an additional driving force of internationalization. Before
+turning to the empirical evidence, we discuss the second motive for internationalization of
+production ­ market access.
+According to the second motive for internationalization, multinationals are vehicles to
+overcome distance and to facilitate access to foreign markets (see, e.g. Krugman 1983,
+Brainard 1993, Markusen and Venables 1998, Markusen 2002). In this framework, firms have
+different channels for entering a foreign market. Each of these channels incurs different costs.
+A firm has the choice between producing at home and exporting final products to a foreign
+market (which involves variable `distance costs') and producing abroad (which involves the
+additional fixed costs of setting up a second plant in the host country).
+Firms thus face a trade off between producing abroad in order to maximize proximity to the
+customer or to concentrate production in order to exploit economies of scale. Multinational
+firms in this framework are horizontally integrated as they produce the same product in two
+plants. Parents and affiliates perform the same types of activity, and they differ only with
+respect to location. Moreover, the headquarter unit produces a so-called headquarter service,
+which embodies the specific advantage of the firm. This service can be used in both plants at
+the same time in a non-rivalry manner. If the market access motive is behind the
+internationalization of production, we should see
+o two-directional FDI flows as countries can be the home and the host of multinational
+firms at the same time
+o that activities of multinational firms increase in the degree of similarity of countries,
+and
+o multinational firms that conduct the same activities at home and abroad.
+Distinguishing between production cost and market access driven FDI is important because
+the labor market implications differ. Since FDI driven by the market access motive takes
+place on a bilateral basis and since it helps expanding output markets, labor market
+implications are positive. Source-country labor market implications of FDI that is driven by
+the production cost motive, in contrast, are more likely to be negative. This type of FDI still
+6
+helps lowering costs and thus improving the overall competitiveness, but employment of low-
+skilled workers may fall if labor-intensive stages of production are moved to foreign
+countries.
+Empirically, multinational activity is of course driven by production cost and by market
+access considerations. Hence by simply looking at a particular multinational firm, we cannot
+decide which of the two dominates. However, regression-based empirical methods help us to
+identify which of the different motives for internationalization is empirically more important.
+We will return to this issue in Part 4 below.
+2.2 Firm Heterogeneity and the Choice of Entry
+Theoretical work invoked so far helps explaining differences in affiliate structures through
+differences in the functions that these affiliates perform. The models work with the
+assumption that a representative firm exists. This assumption does not, however, square with
+the empirical evidence. Generally, the size distribution of firms is approximately log-normal
+(Cabral and Mata 2003). For foreign affiliates, the same distribution can be found (Buch et al.
+2005). UNCTAD (2001) reports a strong concentration in outward FDI among parent firms.
+Even for the United States, which have a relatively diversified structure of foreign direct
+investment, the 50 largest parent firms account for more than half of total outward FDI stocks.
+Firms are thus heterogeneous, and heterogeneity matters because large and more productive
+firms tend to expand internationally. In representative firm models, self-selection of firms into
+different groups is not an issue. Yet, self-selection might be the source of the different
+characteristics of German multinational firms' affiliates in Eastern and Western European
+countries. The heterogeneous firm model of Helpman et al. (2004), which is based on Melitz
+(2003), helps getting an intuition whether different characteristics of German firms' foreign
+affiliates mirror differences among their parents.
+In Helpman et al. (2004), foreign direct investment (FDI) is assumed to be horizontal. The
+new feature of Helpman et al. (2004) is that the model assumes heterogeneity among firms
+with respect to their productivity. In the initial period, productivity is drawn by each firm
+from a common distribution. Depending on their productivity, firms then select themselves
+into groups, which differ in their choice of whether and how to supply the foreign market.
+Selection into domestic and foreign markets depends on the fixed costs of entering each
+market. Producing and selling only domestically involves the lowest fixed costs, exporting
+involves fixed costs in an intermediate range, and investing abroad involves the highest fixed
+costs. The fixed costs of exporting can be thought of as the costs of setting up distribution
+networks. In addition, exporting to foreign countries involves (variable) iceberg transportation
+costs. Production abroad saves on these variable distance costs but involves higher fixed costs
+in the foreign country.
+Country-specific fixed costs, price levels, and market size affect affiliates' characteristics. To
+see this, assume two identical foreign countries that differ only in the fixed costs of exporting
+and of setting up a new plant. The fixed costs are sufficiently low to allow production of some
+firms in both countries. For the most productive firms, it is profitable to produce in both
+countries. For less productive firms, it is profitable to produce in the country with lower fixed
+costs and to export to the other country. Even less productive firms export to both countries
+and still less productive firms export only to the country with the lower fixed costs of
+7
+exporting. The least productive firms produce only for the home country. Whether firms are
+domestic or international, or whether they engage in exports or in FDI, thus depends on their
+productivity relative to some critical productivity levels for each activity.
+The different productivity levels determine the self-selection of firms into the different
+groups. The model also has implications for the patterns of multinational activity across
+countries. First, the smallest (least productive) firm that exports to the country with low fixed
+costs is smaller (less productive) than the least productive firm that exports to the country
+with high fixed costs. Second, more firms are active in the country with low fixed costs.
+Third, since the group of firms active in the country with low fixed costs includes smaller
+(less productive) firms, the average size (productivity level) is lower in this country. Hence
+there is a monotonic correspondence from parent productivity to affiliates' size. More
+specifically, lower average productivity translates into lower average size of affiliates in the
+country with lower fixed costs.
+The model shows that differences in the fixed costs of entry and in the productivity of the
+parent can explain differences in affiliate characteristics in Eastern and Western Europe. Since
+the opening up of Eastern Europe has lowered fixed costs of entry in these countries, it may
+have allowed small and medium-sized German firms to produce internationally. These firms
+are, according to this model, the least productive. If smaller firms are active in Eastern
+Europe, their affiliates should be smaller too. If size is positively related to capital intensity,
+the model could also explain the different characteristics of Eastern and Western European
+affiliates without reverting to different functions of foreign affiliates.
+3 Descriptive Statistics
+Affiliates of German firms in Eastern Europe are smaller on average than their Western
+counterparts, and they employ relatively more labor. Are these differences in affiliate
+structures due to the different functions that these affiliates perform? Are they due to
+differences in parent characteristics? Or are they simply due to the fact that Eastern European
+affiliates are younger? In this section, we provide descriptive statistics based on a German
+firm-level dataset which provide a first answer to these questions. A detailed description of
+the data is given in the appendix.
+3.1 Production Costs versus Market Access
+To get a first intuition of the relative importance of the market access versus the production
+cost motive for internationalization, we look at the patterns of multinational activity across
+countries, at the sector patterns of German MNE activity, and at the sector classification of
+parents and affiliates.
+As regards the patterns of multinational activity across countries, Table 2 shows that FDI into
+Eastern Europe is mostly unilateral whereas FDI among the more developed OECD countries
+is mostly bilateral. Hence there is relatively little FDI going from the Eastern European
+countries into the OECD region.
+--- Insert Table 2 about here. ---
+8
+We next look at the sector composition of German firms' foreign affiliates to analyze whether
+affiliates in Eastern and Western Europe carry out different functions. Since factor intensities
+differ across sectors, we would expect to find differences in the regional patterns of sectoral
+investment if factor endowments matter for the locational choice.
+Table 3 shows the sector composition of German parents and their foreign affiliates in Eastern
+and Western Europe. The group of Eastern European countries includes the Czech Republic,
+Estonia, Hungary, Latvia, Lithuania, Poland, the Slovak Republic, and Slovenia. The group of
+Western European countries, which we use for comparison, includes Austria, Belgium,
+Denmark, France, Italy, Luxembourg, the Netherlands, and the United Kingdom. We focus on
+this group of `core' EU countries for two reasons. First, this is a group of countries which has
+factor endowments similar to those of Germany. For these countries, we expect a dominance
+of the market access motive. Second, the countries in core Europe are in similar geographical
+proximity to Germany as the new EU member states. Hence this choice of countries reduces
+the potential selection bias which might arise from differences in geographic distance.
+--- Insert Table 3 about here. ---
+With regard to the sector of the parent, Table 3 reveals relatively small differences in the
+broad patterns of activities in Eastern and Western Europe. The manufacturing sector
+accounts for about 60-70% of the total activity. Services firms make up an additional 30-40%.
+This pattern is relatively similar for FDI stocks, affiliates' sales, and the number of
+employees. Using the capital of the affiliates as a measure of the relatively importance of
+sectors gives a different picture because of a dominance of financial services firms. These
+firms alone account for 42% of the capital of affiliates in Eastern Europe and an even higher
+66% in Western Europe. Looking at the data at a more disaggregated level, differences and
+similarities between the two regions become apparent. In terms of FDI stocks, the electricity
+sector ranks second in both regions, accounting for about 15% of total FDI stocks. However,
+the most important sector is transport equipment in the East ­ for which the production cost
+motive is likely to be important ­ and financial services in the West ­ for which the market
+access motive is likely to be important.
+With regard to the sector of the foreign affiliates, differences between the two regions become
+even more pronounced. Service sectors are much more important in Western Europe than in
+Eastern Europe with about 30% to 50% of the total. This holds regardless of what measure of
+activities we use. Again, if we look at FDI or affiliates' capital, the much greater importance
+of financial services in Western Europe drives this result. If we look at affiliates' sales, the
+wholesale sector, which is much more important in Western Europe, dominates. If we look at
+employment, wholesales and business services are more important in Western than in Eastern
+Europe. Thus, there are differences in the sector composition of the foreign affiliates,
+although not in the sector composition of the German parent firms, which might explain the
+differences in Table 1. Finally, holdings are more important to Western than for Eastern
+Europe.2
+We also compare the sector classification of the German parent firm to the classification of
+their foreign affiliates at the firm-level. Table 4 provides a breakdown of the number of
+foreign affiliates that German parent firms maintain abroad by the sector of the investing firm
+and the foreign affiliate in Eastern Europe. The sector of the foreign affiliate is listed across
+the columns, and the sector of the German parent is listed down the rows.
+2 Weichenrieder (2005) analyzes the determinants of foreign holding firms established by German parent
+firms in detail.
+9
+--- Insert Table 4 about here. ---
+The market access motive rules out foreign affiliates that conduct different activities as their
+parent firm. Thus, if the market access motive dominates, we would expect many entries on
+the diagonal or in the wholesale sector (sector 18). The production cost motive, in contrast,
+allows (although not necessitates) affiliates to be classified in a different sector. Thus, if
+affiliates and parent firm are not classified in the same sector, we can reject the market access
+motive. The converse is not true, however. If affiliate and parent are classified in the same
+sector, we cannot reject the production cost motive, because we know only the sector
+classification of firms but we know nothing about the actual activities that firms perform or
+the products they produce.
+Table 4 shows that foreign affiliates in Eastern Europe are mainly classified in the same sector
+as the parent firm. This pattern is particularly pronounced in manufacturing. For service
+activities, there is also a close correspondence of the sector of the parent and of the affiliate.
+At the same time, there is also a relatively large number of service affiliates which are owned
+by manufacturing firms. Although this type of FDI takes place in a different sector, it is likely
+to be driven by the market access motive. About two-thirds (66 %) of all affiliates are
+classified in the same sector as their parent firm. Parent firms from manufacturing own mostly
+affiliates in the same sector (62.8%) or in wholesale (22.7%). Only 9.1% of all affiliates of
+manufacturing parent are classified in a different manufacturing sector. By and large, this
+confirms evidence for all affiliates of German firms (Buch et al. 2005).
+3.2 Firm Heterogeneity and the Choice of Entry
+The descriptive statistics presented so far provide preliminary information on the functions
+that affiliates might serve in different countries. They were based on the idea that different
+motives to enter a foreign country shape the differences between the foreign affiliates of
+German multinational firms. Yet, models with heterogeneous firms suggest that the interplay
+of firm heterogeneity and country characteristics might also generate the systematic
+differences between foreign affiliates in Eastern and Western Europe that we have presented
+in Table 1.
+Differences in country-specific entry costs, price levels, and in market size yield country-
+specific critical productivity levels for the self-selection into the groups of domestic, export,
+and FDI firms.. Here, we only have information on FDI firms. To analyze whether firms' self-
+selection drives the differences of affiliates characteristics in Eastern and Western Europe, we
+thus look at the size distribution of German firms' affiliates in both regions.
+--- Insert Figure 1 about here. ---
+Figure 1 displays size distribution of all German parents, parents that own affiliates only in
+Eastern Europe, and parents that own affiliates only in Western Europe. We look at two
+criteria of firm size: sales and employment. These yield different results. While parents with
+affiliates in Western Europe are larger if size is measured in terms of parents' sales, parents
+with affiliates in Eastern Europe are larger if size is measured in terms of parents'
+employment. Applying the reasoning of Helpman et al. (2004), more productive firms are
+active in Western Europe ­ because higher productivity translates into higher sales, not higher
+employment. However, if employment is the preferable measure of size because, for instance
+10
+employment is a real measure while sales are a nominal measure, larger and thus more
+productive firms are active in Eastern Europe.
+Finding different patterns according to different size measures, we cannot explain the
+differences across affiliates solely by self-selection of parents into the different groups. Hence
+the interplay of parent firm heterogeneity and country-specific fixed costs alone cannot
+explain differences of affiliates. Instead, firms that invest in Eastern and Western Europe
+differ with regard to their labor productivity. More specifically, the firms that invest in
+Eastern Europe have lower labor productivity than those that invest in Western Europe. In the
+context of the model by Helpman et al. (2004), this result could be taken as evidence for
+lower costs of entry into Eastern European markets. However, firms that invest in Eastern and
+Western Europe as well as their affiliates abroad also differ with regard to their capital
+intensities. Such differences in technologies are ruled out by this model. Hence differences in
+factor intensities suggest that affiliates in Eastern and Western Europe perform different
+functions.
+In Table 5, we provide tests which show whether the differences in Figure 1 are statistically
+significant. It presents Kolmogorov-Smirnov tests of equality in size of parent firms than own
+affiliates in Eastern Europe and those that own affiliates in Western Europe. The tests confirm
+the results of Figure 1. Parents with affiliates in Western Europe are larger if measured in
+terms of sales and smaller if measured in terms of employment.
+--- Insert Table 5 about here. ---
+3.3 Summary of Descriptive Statistics
+Overall, we find evidence for the importance of different motives for firms to engage in
+Eastern and in Western Europe. First, FDI into Eastern Europe is mostly unilateral. Activities
+of German multinational firms in Eastern Europe are much larger than Eastern European
+firms' activities in Germany. In contrast, with Western Europe, German multinational firms'
+activities are mostly bi-directional (see Table 2 and Buch et al. 2005). Second, the sector
+composition of FDI into the two regions differs. The most important difference is the
+importance of financial services for the West and transport equipment for the East. Third, the
+parent-affiliate structure for German firms shows that many foreign affiliates in Eastern and
+Western Europe are active in the same sector as the German parent. While this pattern is
+consistent with a proximity-concentration model, stressing the market access motive, it does
+not rule out the factor-proportion model, stressing production costs motives for
+internationalization. Fourth, firm-level heterogeneity in proximity-concentration models alone
+is not sufficient to explain the differences in affiliates' characteristics. In particular, different
+measures of size yield different conclusions about average and minimum productivity of
+affiliates in both regions. In sum, while there is somewhat greater evidence for the production
+cost motive for Eastern Europe, this is not overwhelmingly so.
+4 Regression-Based Evidence
+The descriptive statistics reported above have given a first impression of the motives of
+internationalization of German firms in different regions, but the overall picture has remained
+somewhat inconclusive. In this section, we present regression-based evidence that allows
+disentangling the different motives in a multivariate framework. We start using aggregated
+11
+and sector-level data. The empirical analysis is supplemented by firm-level regressions which
+allow taking parent characteristics into account.
+4.1 Aggregated Data
+We rely on an extended gravity equation that has been used frequently in the empirical
+literature on the determinants of multinational activity. For our purposes, the key variable is a
+similarity index. Our similarity index takes values between 1 and 0, and a higher score implies
+that countries are more similar.3 The difference between the GDP per capita of Germany and
+the GDP per capita of the host country is used as a proxy for similarity in terms of skills and
+human capital. GDP per capita is highly correlated with countries' relative endowments with
+capital and, therefore, with the average capital intensity of production in a country. Since
+internationalization of activities decreases in the similarity in factor endowments if the
+production cost motive dominates, whereas internationalization increases in similarity in
+factor endowments if the market access motive dominates, a negative coefficient on this index
+is evidence in favor of the production cost motive. A positive coefficient, in contrast, is
+evidence in favor of the market access motive. The baseline equation that we estimate is
+( ) ( ) ( )
+ijt
+jt
+jt
+jt
+ijt
+Distance
+Similarity
+GDP
+FDI 
+
+
+
+ +
+
++
+
++
++
+= log
+log
+log
+3
+2
+1
+0
+where
+ijt
+FDI is foreign direct investment by sector i in country j in period t, and
+ijt
+ is an
+error term. The dependent variable, GDP and distance are given in logs, and the resulting
+coefficients can be interpreted as elasticities. A coefficient of, say, 0.6 on one of the logged
+explanatory variables (such as GDP) would imply that a 1% increase in this variables would
+trigger a 0.6% increase in the dependent variable (such as FDI).
+GDP is included to control for the size of countries, and we expect a positive sign. Distance is
+included to account for transportation and other distance-related costs, and we expect a
+negative sign.
+We use four different measures of German firms' foreign activities: the sum of FDI stocks of
+all foreign affiliates, the mean of the FDI stock of the foreign affiliates, total affiliate sales,
+and the number of foreign affiliates. The distinction between FDI and the sales of foreign
+affiliates is important because affiliates sales are a more direct measure of the actual level of
+production of foreign affiliates than FDI. Splitting up the aggregated investment volume into
+the average foreign investment per affiliate and the number of affiliates that are active abroad
+provides information on the extensive and intensive margins of the adjustment to changes in
+exogenous variables such as market size or distance costs.
+Although we have, in principle, information on the foreign activities of German firms in more
+than 200 host countries, we lack reliable time series for quite a few of these countries, mostly
+low-income countries. Therefore, the effective sample size is restricted to a little over 100
+countries, including a large number of developing countries and emerging markets.
+Estimating equation (1) gives the average effect of the exogenous variables on German
+outward FDI. We want to compare this effect with the (average) effect for a sample from
+Eastern European countries. We therefore additionally include interactions of all explanatory
+3 The index is calculated as one minus the ratio of abs (GDP per capita host ­ GDP per capita Germany) to
+max (GDP per capita host, GDP per capita Germany) .
+12
+variables with an Eastern European dummy. This dummy takes the value one if a country is a
+CEEC country and zero otherwise.
+Table 6 presents the estimates. The gravity variables GDP and distance have the expected
+positive and negative signs. Their coefficients have a size comparable to those usually found
+in the literature. For distance, the negative effect is driven by the number of affiliates. The
+mean volume of FDI, in contrast, increases in distance.
+--- Insert Table 6 about here. ---
+The most important variable for our analysis is the similarity variable. The positive coefficient
+found for the full sample points to a dominance of market access considerations.
+Moreover, our results suggest that the determinants of multinational activities do not differ
+significantly between Eastern Europe and the rest of the sample. There is only one significant
+difference for the Eastern Europe sub-sample: the interaction term effect of the similarity
+variable. This interaction term for mean FDI per affiliate is positive and significant,
+suggesting that affiliate size if measured in FDI is more strongly affected by similarity in
+Eastern Europe than the size of the average foreign affiliate.
+4.2 Sector-Level Data
+Next, we exploit the sector dimension contained in our dataset. Since sectors differ in their
+factor intensities, the motive for internationalization is likely to differ as well. Rather than
+aggregating the dependent variable for each country, we now retain the sectoral dimension of
+the data. Hence we have a panel which has a sector-country cross-section dimension. Table 7
+shows results for each of the NACE sectors separately.
+--- Insert Table 7 about here. ---
+Country size is positive and significant for all sectors, except mining, wood, electricity and
+gas. There is a significantly larger effect of GDP for Eastern European countries in a number
+of sectors.
+As regards similarity, there is a relatively distinct pattern of positive and significant
+coefficients across sectors. This, as has been argued above, would be evidence in favor of the
+market access motive for internationalization. Similarity is insignificant for three sectors
+(paper products and publishing, coke and petroleum products, non-metallic mineral products),
+and we find a significantly negative effect only for the production of transport equipment. As
+shown in Table 3, this is one of the sectors which have a significantly higher share in
+activities in Eastern Europe compared to Western Europe. As regards similarity, we find
+mostly insignificant differences of Eastern European coefficients. Thus, German firms on
+average do not pursue different internationalization strategies in the two regions. If the
+similarity coefficient for Eastern Europe differs significantly, it has the "wrong" positive sign.
+The market access motive would be even more important to Eastern Europe. In only two
+sectors, we find a significantly negative interaction term between similarity and our Eastern
+Europe dummy. These are the sectors wood products and furniture. This would be evidence in
+favor of the hypothesis that the production costs motive dominates for investment by these
+sectors in Eastern Europe.
+13
+Like the regressions using aggregated data, sector data reject significant differences of
+German multinational firms in Eastern Europe from their overall internationalization
+behavior. The market access motive dominates in almost all sectors, and it sometimes does so
+even more in Eastern Europe. This is in line with most of the evidence derived from analysis
+using aggregated data (Carr et al. 2001). According to the analyses using aggregated and
+sector data, different motives of internationalization are not the main reason for the
+differences in affiliate characteristics.
+4.3 Firm-Level Evidence
+So far, we have looked at differences in factor endowments across countries to discriminate
+between the two motives for going abroad. GDP per capita is, as was argued above, a proxy
+for the factor endowments of countries. Yet, there is a one-to-one correspondence of firm
+characteristics and factor endowments only if firms are symmetric. With heterogeneity and
+self-selection, the regression results using aggregated and sectoral data reported above thus
+provide only one part of the story. We therefore continue our analysis at the firm-level.
+We set up probit and tobit models to analyze firm-level determinants of firms that are active
+in Eastern Europe and of those that are active in Western Europe. The unit of analysis is the
+affiliate-parent pair. The dependent variable is set to one for each affiliate located in one of
+the eight countries in Eastern and Western Europe, respectively, and to zero otherwise.
+Overall, our sample comprises 12,129 pairs of German parents and their foreign affiliates.
+Data are for the year 2003 because information on the parents is contained in our dataset only
+since 2002. The number of observations used is the same in all regressions but the number of
+ones differs between the regressions analyzing Western and those analyzing Eastern European
+affiliates. Our dataset contains information on 1,378 affiliates of German firms in Eastern
+Europe and on 3,845 affiliates in Western Europe.4 Thus, about 43% of all affiliates of
+German firms worldwide in our sample are located in one of the 16 countries in the two
+regions we analyze. The tobit model is set up in a similar way. Instead of a one for an affiliate
+located in Eastern (or Western) Europe, we use its size in terms of FDI as the dependent
+variable.
+--- Insert Table 8 about here. ---
+We explain the decision to invest in Eastern or Western Europe by several firm-level
+variables, a border dummy, and a set of dummies controlling for sector-specific fixed effects.
+We include three firm-specific variables. The age of the affiliate is included to account for the
+fact that younger firms are usually smaller in size. The size of the parent firm is included as a
+proxy for the productivity of the parent. The capital intensity of the parent and of the affiliate
+are included to check whether more labor-intensive parents are more likely to invest in
+Eastern Europe, which would be an indication that the production cost motive is important.
+We expect the size of the parent firm to influence the location decision. Smaller firms are
+more likely to engage in countries close to their home country if country-specific fixed costs
+to depend on distance. Thus, we expect a negative sign for both groups. As an additional
+proxy for size, we use the number of affiliates worldwide of a given parent.
+Moreover, political discussions in Germany stress the low barriers of entry in Eastern Europe
+which allow small and medium-sized firms to relocate their production to these countries. If
+this hypothesis was true, we would expect to find that being small increases the probability of
+investing in Eastern Europe.
+4 Note that these numbers are not comparable to those in Table 1 because we consider only a subgroup of
+eight countries in each region.
+14
+However, our results provide evidence against this hypothesis. If anything, we find that the
+size of the parent has a positive impact on the probability of investing in Eastern Europe. The
+coefficient on size is negative, in contrast, for the Western European countries. Results from
+the tobit model support this finding. Hence our findings suggest that parent characteristics
+matter in the sense that larger parents tend to set up affiliates in Eastern Europe. This is in line
+with our descriptive statistics in Figure 1.
+Next, we are interested in whether capital-labor-ratios are important. If the production cost
+FDI motive dominates, we would expect firms which produce labor-intensive to be more
+prone to invest in Eastern Europe, where labor is more abundant and less expensive than in
+Germany or in Western Europe. In the Western European countries, in contrast, we would not
+expect firms to look for comparatively cheap labor. In these countries, the market access
+motive should rather dominate. Hence the capital-labor ratio of the parent firm should be
+negative in our Eastern Europe regression and insignificant for Western Europe. Although we
+find the negative sign in the Eastern Europe probit regression, the capital-labor ratio of the
+parent is not significant at the conventional levels of significance. Surprisingly, it is negative
+and significant for the Western European regression. One reason could be that the size of the
+parent and the capital-labor ratio are positively correlated.
+The capital-labor ratio of the affiliate has a negative sign for the Eastern European sample and
+a positive sign for the Western European sample. This is consistent with the expectation that
+affiliates in Eastern Europe are relatively more labor intensive. Note that our empirical
+approach does not allow discriminating whether this is due to the different functions that they
+perform or due to differences in factor endowments of countries.
+Table 9 looks uses the capital intensity of the affiliate as the dependent variable. We present
+four different specifications, using different measures for the size of the parent. Also, we
+include dummy variable for three regions, the previously used Central European countries,
+core Europe, as well as a second group of reform states, including Belarus, Bulgaria,
+Romania, Russia, and Ukraine. Results show a clear and positive link between the size of the
+parent and the capital intensity of the affiliate. We obtain the expected negative signs for the
+two groups of Central and Eastern European countries (where affiliates are more labor
+intensive) as well as a positive sign for core Europe (where affiliates are less labor intensive).
+Also, more capital intensive parents tend to have more capital intensive affiliates.
+--- Insert Table 9 about here. ---
+Returning to Table 8, we expect the age of an affiliate to affect its size. It is a long-established
+fact that older firms are larger (Evans 1987, Cabral and Mata 2003). Yet, we might have
+difficulties to find this relationship in our data for two reasons. First, we do not know the
+exact age of each affiliate since we can trace individual affiliates only since 1996. Hence we
+cannot distinguish affiliates that were established already before 1996 from those that were
+established in 1996. Second, in Eastern Europe, the nature of the privatization process might
+distort the typical relationship between age and size. In many Eastern European countries,
+large-scale privatization has gained steam only in the second half of the 1990s. This holds
+particularly for public utilities and the banking sectors, i.e. for sectors in which German firms
+are quite active (Table 3). This can explain why we find a negative correlation between size
+and age in the tobit regressions for the Eastern European sample (see Table 8). For the
+Western European sample, in contrast, we find the expected positive correlation.
+15
+Finally, we include a border dummy variable at the level of the German state, which is set at
+one if a German state and a foreign country share a border and to zero otherwise. The border
+dummy drops out of the East European probit specification because of colinearity. The border
+dummy perfectly predicts investment behavior for some East German states. To share a
+border increases the probability to invest in the neighboring country and the size of the
+establishment.
+5 Summary and Conclusions
+The size and the labor intensity of foreign affiliates in Eastern Europe are focal points of
+discussions on the risks and benefits of foreign direct investment. In the West, people fear
+adverse labor market consequences of an increasing amount of FDI into labor intensive
+foreign affiliates. These consequences might be particularly adverse if not only large firms
+relocate production but if also small and mid-sized firms start investing abroad. In the East,
+entry of foreign firms raises fears of greater labor market instability and greater competition
+for the incumbent firms.
+In this paper, we have started from the observation that characteristics of foreign affiliates of
+German firms in Eastern and Western Europe indeed differ. On average, affiliates in Eastern
+Europe are smaller and employ more labor. Interpreting these differences and drawing
+conclusions with regard to potential labor market impacts, however, requires disentangling
+three different reasons for differences in affiliate structures.
+First, affiliates in Eastern Europe might be more labor intensive than their Western
+counterparts because German firms fragment their production process and locate labor-
+intensive stages in the relatively low-wage Eastern European countries. We find that, for some
+manufacturing sectors, the production cost motive for internationalization is indeed important.
+Overall, however, regressions using aggregated data show that a large part of German FDI
+into Eastern Europe is driven by the market access motive.
+Second, differences in parent characteristics have an impact on differences in the structure of
+foreign affiliates. Contrary to expectations voiced in the public debate, we find the size of the
+parent to have a positive impact on the probability of investing in Eastern Europe. Size has a
+negative impact on the probability of investing in core Europe, in contrast. This contradicts
+the common perception that Eastern enlargement has been a key trigger of small and mid-
+sized firms into foreign markets. It is rather the larger parents that are active in Eastern
+Europe.
+Third, differences in factor intensities of the parent affect the probability of investing abroad.
+Yet, more labor intensive parents as compared to the average German multinational tend to be
+active in Eastern and Western Europe. This is in line with the public policy debate regarding
+activity in the East ­ but the finding regarding firms active in Western Europe is probably
+surprising.
+Fourth, we find that the age of the affiliate has a significant impact on its size. Older affiliates
+in Eastern Europe tend to be smaller while older affiliates in Western Europe tend to be larger
+than their younger counterparts. While the correlation between age and size in Western
+Europe meets expectations, the negative correlation in Eastern Europe is likely to be
+16
+influenced by the nature of the transformation process. The start of large-scale privatization in
+the mid-1990s may particularly affect our results.
+Overall, the aim of our paper has been to provide a detailed account of the patterns of
+specialization and investment in Eastern Europe, using firm-level data from Germany as an
+important source country of FDI. In future work, it would be interesting to cross-check these
+results with comparable datasets from other countries. Our data have also not allowed
+studying the self-selection of firms into export versus FDI firms. Having firm-level
+information on FDI and exports would be highly desirable to test implications of recent
+theoretical models more directly.
+17
+6 References
+Barba-Navaretti, G.B., and A.J. Venables (2004). Multinational Firms in the World Economy.
+Princeton: Princeton University Press.
+Becker, S.O., K. Ekholm, R. Jäckle, M-A. Mündler (2005). Location Choice and Employment
+Decisions: A Comparison of German and Swedish Multinationals. Kiel Working Paper
+1243.
+Brainard, S.L. (1993). A Simple Theory of Multinational Corporations and Trade with a
+Trade-off between Proximity and Concentration. National Bureau of Economic Research
+NBER Working Paper 4269. Cambridge MA.
+Buch, C.M., J. Kleinert and F. Toubal (2006). Where Enterprises Lead, People Follow? Links
+Between Migration and German FDI. European Economic Review (forthcoming)
+Buch, C.M., J. Kleinert, A. Lipponer, and F. Toubal (2005). Foreign Direct Investment ­
+Firm-Level Evidence. Economic Policy (20): 53­110.
+Carr, D., J. Markusen, and K. Maskus (2001). Estimating the Knowledge Capital Model of the
+Multinational Enterprise. American Economic Review 91 (3): 693­708.
+Cabral, L. and J. Mata (2003). On the Evolution of the Firm Size Distribution: Facts and
+Theory. American Economic Review 93(4): 1075­1090.
+Deutsche Bundesbank (2003). Kapitalverflechtung mit dem Ausland, Statistische
+Sonderveröffentlichung 10, Frankfurt a.M.: Deutsche Bundesbank.
+Evans, D. (1987). Test of Alternative Theories of Firm Growth. Journal of Political Economy
+95(4): 657­674.
+Fidrmuc, J. (2001). Intraindustry Trade Between the EU and the CEECs: The Evidence of the
+First Decade of Transition. Focus on Transition 1: 65­78.
+Helpman, E. (1984). A Simple Theory of International Trade with Multinational
+Corporations, Journal of Political Economy 92 (3): 451­471.
+Helpman, E., M.J. Melitz and S.R. Yeaple (2004). Export versus FDI. American Economic
+Review 94 (1): 300­316.
+Krugman, P.R. (1983). The New Theories of International Trade and the Multinational
+Enterprise, in D. Audretsch and C. Kindleberger (eds.). The Multinational Corporation in
+the 1980s, Cambridge, Mass.: MIT Press.
+Lipponer, A. (2002a). A ,,new" microdata base for German FDI, in H. Herrmann and R.
+Lipsey (eds), Foreign Direct Investment in the Real and Financial Sector of Industrial
+Countries. Berlin: Springer.
+Lipponer, A. (2002b). Mikrodatenbank Direktinvestitionsbestände: Handbuch, Deutsche
+Bundesbank, mimeo.
+Marin, D. (2004). A Nation of Poets and Thinkers - Less So with Eastern Enlargement?
+Austria and Germany. Discussion Papers in Economics 329, University of Munich,
+Department of Economics
+Markusen, J. and A. Venables (1998). Multinational Firms and the New Trade Theory,
+Journal of International Economics 46 (2): 183­203.
+Markusen, J.R. (2002). Multinational Firms and the Theory of International Trade.
+Cambridge, Mass.: MIT Press.
+18
+Melitz, M (2003). The Impact of Trade on Intra-Industry Reallocations and Aggregate
+Industry Productivity. Econometrica 71 (6): 1695­1725.
+Toubal, F. (2004). The Spatial and Sectoral Distribution of Multinational Activity in Eastern
+Europe. University of Kiel. Ph.D. Thesis.
+UNCTAD (2001). World Investment Report 2001: Promoting Linkages. New York and
+Geneva: UNCTAD.
+Weichenrieder, A. (2005). What Determines the Use of Holding Companies and Ownership
+Chains? Mimeo. University of Frankfurt.
+19
+7 Data Appendix
+The Deutsche Bundesbank has been carrying out annual full sample surveys on direct
+investment stocks pursuant to the Foreign Trade and Payments Regulation (Außenwirtschafts-
+verordnung) since 1976. The data base used in this paper was compiled solely for academic
+research purposes, and it goes back to 1989. (For details see Lipponer 2002a, 2002b, or
+Deutsche Bundesbank 2003.) Time series for individual enterprises, however, are available
+only from 1996 to 2003. For semi-aggregated data (by country or sector), data are available
+for the years 1989­2003.
+The data base contains mainly those data from the foreign affiliates' balance sheets that are
+needed to calculate direct investment stocks. The data contain only limited information about
+the reporting firm, i.e. about the German headquarters (or, in the case of FDI in Germany,
+about the foreign parent). Essentially, with regard to the German investor, information is
+restricted to the sector in which the firm is active. Similar sectoral information is available for
+the foreign affiliate. Since the year 2000, the data also contain information about the reporting
+firm such as its turnover, assets, or employment.
+In the period October 1993 through February 2002, German enterprises had to report their
+international capital links if the balance sheet total of the foreign affiliates exceeded  5
+million (for minority participation rights subject to reporting requirements). In the case of
+majority participation rights as well as branches and permanent establishments, foreign
+affiliates reported whether their balance sheet total was more than  500,000. Indirect
+participating interests had to be reported if a "dependent" foreign affiliate had a holding of
+10% or more in another enterprise. Since March 2002, a uniform reporting threshold of 3
+million euro has been in place.
+Table 1: Regional Breakdown of Activities of German MNEs, 2003
+CEECs = Central and Eastern European Countries (Albania, Belarus, Bosnia and Herzegovina, Bulgaria, Czech Republic, Croatia, Estonia, Hungary, Latvia, Lithuania,
+Macedonia, Poland, Romania, Russian Federation, Serbia and Montenegro, Slovak Republic, Slovenia, Ukraine)
+FDI
+stocks
+Affiliate sales Employees Number of
+affiliates
+FDI Affiliate sales Employees Number of
+affiliates
+( mn) ( bn) (1,000) (total) (%) (%) (%) (%)
+Total 665,839 1,352.9 4,498 22,551 100.0 100.0 100.0 100.0
+Developed Countries 574,110 1,081.8 2,753 16,189 86.2 80.0 61.2 71.8
+European Union 300,961 571.6 1,619 10,167 45.2 42.2 36.0 45.1
+United States 224,037 356.0 766 3,396 33.6 26.3 17.0 15.1
+Other 49,113 154.3 368 2,625 7.4 11.4 8.2 11.6
+Transition Countries 46,474 139.9 1,021 3,533 7.0 10.3 22.7 15.7
+CEECs 34,866 98.8 722 2,583 5.2 7.3 16.1 11.5
+China 7,278 24.4 160 566 1.1 1.8 3.5 2.5
+Other 4,330 16.7 139 384 0.7 1.2 3.1 1.7
+Developing countries 45,255 131.2 724 2,830 6.8 9.7 16.1 12.5
+Latin America 20,382 47.3 288 1,051 3.1 3.5 6.4 4.7
+Asia 20,551 68.2 331 1,395 3.1 5.0 7.4 6.2
+Other 4,322 15.8 105 384 0.6 1.2 2.3 1.7
+Source: Authors' calculations based on the database MIDI (International Capital Links) provided by the Deutsche Bundesbank.
+21
+Table 2: OECD Countries as Sources and Destinations of FDI
+CEECs includes the Czech Republic, Poland, and the Slovak Republic; Core EU includes Austria, Denmark, France, Germany, Italy, the Netherlands, and the United Kingdom; Other Europe
+includes Finland, Greece, Portugal, Sweden, and Switzerland, Oother OECD includes Australia, Canada, Japan and Korea.
+Total source = 100% Total destination = 100%
+Destination
+Source CEECs Core EU Other
+Europe
+USA Other
+OECD
+World CEECs Core EU Other
+Europe
+USA Other
+OECD
+World
+Australia n.a. 25.74 -0.02 53.65 7.78 1.65 n.a. 1.53 -0.01 5.09 1.85 2.03
+Austria 15.95 36.84 6.74 8.02 2.02 0.70 9.41 0.56 0.64 0.20 0.12 0.52
+Canada 0.20 17.37 1.34 48.83 2.86 4.23 0.12 2.43 1.17 10.90 1.60 4.77
+Czech Republic 35.20 13.48 2.50 1.95 0.21 0.29 0.62 0.01 0.01 0.00 0.00 0.02
+Denmark 1.96 25.01 11.59 17.09 5.43 0.55 2.98 0.99 2.85 1.08 0.85 1.35
+Finland 0.75 37.65 30.01 15.07 1.81 0.40 0.93 1.21 6.00 0.77 0.23 1.10
+France 1.00 30.74 5.11 25.16 9.44 3.39 10.27 8.19 8.48 10.71 10.04 9.10
+Germany 2.81 36.23 5.61 27.69 3.91 7.39 31.38 10.50 10.12 12.82 4.53 9.90
+Greece n.a. 20.98 0.03 0.00 0.00 0.14 n.a. 0.08 0.00 0.00 0.00 0.12
+Italy 1.21 39.31 8.04 11.23 1.93 1.72 5.17 4.36 5.56 1.99 0.86 3.79
+Japan n.a. 17.71 0.92 50.59 7.36 1.89 n.a. 3.04 0.99 13.86 5.04 5.86
+Korea 1.76 7.74 0.26 28.20 4.84 0.44 1.08 0.12 0.03 0.72 0.31 0.54
+Netherlands 1.97 29.86 6.71 25.89 3.50 9.84 14.10 5.53 7.74 7.66 2.59 6.33
+Poland 3.20 25.97 6.20 9.37 -0.05 0.52 0.08 0.02 0.02 0.01 0.00 0.02
+Portugal n.a. 8.56 0.18 2.63 0.30 0.31 0.49 0.09 0.01 0.05 0.01 0.37
+Slovak Republic 51.43 21.13 1.39 0.00 0.17 0.07 0.44 0.00 0.00 0.00 0.00 0.01
+Sweden n.a. 43.90 10.60 18.79 1.76 1.86 n.a. 3.33 5.00 2.28 0.53 2.59
+Switzerland 1.06 34.33 2.06 23.10 3.80 2.78 5.74 4.81 1.80 5.18 2.13 4.79
+United Kingdom 0.24 43.06 4.79 30.00 4.23 10.56 5.04 23.93 16.57 26.63 9.39 18.97
+United States n.a. 36.16 6.54 0.00 18.05 21.37 12.15 29.32 33.03 0.00 58.43 27.68
+n.a. = not available
+Source: OECD Foreign Direct Investment Statistics (2003).
+22
+Table 3: Sectoral Breakdown of Activities of German MNEs in Eastern and Western Europe, 2002
+Eastern Europe Western Europe
+Sector classified with respect to German
+parent
+Sector classified with respect to foreign
+affiliate
+Sector classified with respect to German
+parent
+Sector classified with respect to foreign
+affiliate
+FDI
+stocks
+Affiliate
+sales
+Affiliate
+employment
+Affiliate
+capital
+FDI
+stocks
+Affiliate
+sales
+Affiliate
+employment
+Affiliate
+capital
+FDI
+stocks
+Affiliate
+sales
+Affiliate
+employment
+Affiliate
+capital
+FDI stocks Affiliate
+sales
+Affiliate
+employment
+Affiliate
+capital
+( mn,%) ( bn,%) (1000,%) ( bn,%)
+(
+mn,%)
+( bn,%) (1000,%) (bn,%)
+(
+mn,%)
+( bn, %) (1000,%) (bn,%) ( mn,%) ( bn,%) (1000, %) (bn,%)
+Eastern Europe
+Total 33,519.8 96.4 657.7 139.5 33,519.8 96.4 657.7 139.5 331,078 458.4 1,234.8 2,756.1 331,078 458.4 1,234.8 2,756.1
+Manufacturing 70.6 67.8 64.9 38.4 66.7 62 66.8 34.9 59.3 62.3 57.6 23.2 19.2 35.2 44.8 6.4
+Food products 3.9 5.9 3.7 2.3 3.7 4.6 4.1 2.1 2.8 3.3 2.4 1.1 1.3 1.5 2.1 ...
+Textiles 1.2 1.3 2.9 ... ... ... 3.0 ... ... 1.3 ... ... ... ... ... ...
+Paper & publishing 1.4 1.4 1.9 ... 1.3 1.2 1.8 ... 3.4 1.4 1.8 1.3 ... ... 1.1 ...
+Chemicals 3.4 3.2 2.6 1.5 3.3 2.3 2.1 1.3 14.3 10.9 8.9 5.2 6.9 8.7 7.1 2.0
+Rubber & plastics 3.1 3.0 3.4 1.4 2.7 2.7 3.4 1.6 1.1 2.0 2.9 ... ... 1.4 2.3 ...
+Non-metallic
+minerals 5.9 3.0 3.9 2.9 6.0 3.0 4.0 2.7 2.7 1.4 2.4 ... ... 1.2 2.2 ...
+Basic metals 3.1 2.3 3.9 1.4 2.9 1.9 4.0 1.2 1.9 4.0 6.5 ... ... 2.5 4.5 ...
+Machinery 4.3 3.5 4.1 1.9 2.9 2.4 3.8 1.1 3.1 5.9 8.0 1.1 1.4 3.5 6.4 ...
+Electrical & optical
+equipment 7.4 7.0 11.4 4.6 5.8 6.2 12.5 2.7 5.2 7.1 10.8 2.4 2.8 4.5 7.0 ...
+Transport equipment 20.0 22.6 15.4 9.2 21.1 21.6 16.1 8.3 8.2 19.7 9.3 4.8 1.7 5.9 8.2 ...
+Electricity 15.4 11.9 7.4 10.6 14.3 11.8 7.3 11.2 15.2 4.1 1.7 4.7 2.0 3.8 1.8 1.2
+Construction ... 1.3 1.8 ... ... 1.2 1.6 ... ... ... 1.1 ... ... ... 1.0 ...
+Services 28.3 31.6 34.6 61.4 31.0 37.7 32.6 61.3 40.3 37.2 42.0 76.6 43.7 64.2 54.2 79.6
+Wholesale 7.6 18.6 15.1 6.3 10.3 24.8 14.7 6.6 6.7 18.5 15.6 2.7 10.5 44.7 26.8 3.9
+Transport &
+communication 7.4 5.6 7.5 8.5 7.6 6.0 8.0 9.2 5.6 8.2 11.3 5.6 1.3 8.6 11.0 1.4
+Financial services 8.3 3.8 6.8 42.0 7.4 2.8 5.8 38.8 23.5 6.4 8.5 66.4 26.8 6.2 6.0 72.3
+Business services 3.9 2.8 3.4 3.9 5.3 3.6 2.1 6.1 4.0 3.2 4.8 1.7 4.7 3.9 8.8 1.9
+Holdings n.a. n.a. n.a. n.a. 1.9 ... ... 3.6 n.a. n.a. n.a. n.a. 36.9 ... ... 13.9
+Shares below 1% of the total are not disclosed because of confidentiality reasons.
+Source: Authors' calculations based on the database MIDI (International Capital Links) provided by the Deutsche Bundesbank.
+Table 4: Number of Foreign Affiliates in Eastern Europe by the Sector of the Parent Firm and Sector of the Affiliate, 2003
+d = undisclosed for confidentiality reasons, Sectoral classification: 1 = agriculture, hunting, fishing and forestry, 2 = mining and quarrying, 3 = manufacture of food products,
+beverages and tobacco, 4 = manufacture of textiles, textile products, leather and leather products, 5 = manufacture of wood and wood products, 6 = manufacture of pulp, paper,
+paper products, publishing and printing, 7 = manufacture of coke, refined petroleum products and nuclear fuel, 8 = manufacture of chemicals, chemical products, and man-made
+fibres, 9 = manufacture of rubber and plastic products, 10 = manufacture of non-metallic mineral products, 11 = manufacture of basic metals and fabricated metal products, 12 =
+manufacture of machinery and equipment n,e,c,, 13 = manufacture of electrical and optical equipment, 14 = manufacture of transport equipment, 15 = manufacture of furniture
+and manufacturing n.e.c., 16 = electricity, gas and water supply, 17 = construction, 18 = wholesale and retail trade, repair of motor vehicles, motorcycles and personal and
+household goods, 19 = hotels and restaurants, 20 = transport, storage, and communication, 21 = financial intermediation, 22 = real estate, renting and business activities,
+consulting, 23 = education, waste management, research and development, public administration and defence and compulsory social security, 24 = holdings.
+Source: Authors' calculations based on the database MIDI (International Capital Links) provided by the Deutsche Bundesbank.
+Sector foreign affiliate
+Sector
+parent 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+1 5 3 d
+2 14 d 4 d d 3
+3 d 92 29 3
+4 35 d d d 13 d
+5 8 d d 3 5
+6 42 8 6 3
+7 7
+8 d 53 3 d d 60 d d d d
+9 d 61 d d 5 15 d
+10 8 d 102 d 3 d 4
+11 d 4 d 102 5 d 3 36 5
+12 d d 11 3 9 66 d 4 59 3
+13 d 3 4 110 10 44 7 5 d
+14 d 7 107 d 18 6 4 8 d d
+15 d 27 d
+16 d 84 d d 3 13
+17 d d d 3 27 5 4
+18 d 12 5 5 d d 3 6 12 3 18 4 6 d d 219 d d 37 4
+19 d
+20 d d 66 d 3 8
+21 d d d 125 52 d
+22 d 5 d d 8 6 8 d d d d 24 d d 7 215 7
+23 5 3 5 d d 4 d 4 5 4 d 3 d 9 d 17 21 4
+24
+Table 5: Kolmogorov-Smirnov Test of Equality: Size of Parent Firms Owning Affiliates in Eastern versus in Western Europe
+The Kolmogorov-Smirnov test (KS-test) determines whether two datasets differ significantly. The KS-test has the advantage of making no assumption about the distribution of
+data. The null hypothesis is equality of both distributions. In the first line results are presented of a one-sided test that evaluates whether parents that own affiliates only in Eastern
+Europe are smaller than parent that own affiliates only in Western European. The maximal difference in the cumulative distributions is positive, thus the null of equality is not
+rejected against the alternative hypothesis that parents owning affiliates in Eastern Europe are smaller with respect to employment. Rejected at the one percent level of
+significance is equality of both distributions against the alternative that parents with affiliates only in Western Europe are smaller with respect to employment. This result is given
+in line two. Taken together we can reject equality of both distributions at the one percent level of significance.
+Smaller group Difference p-value
+Size criteria Log employment
+Parents with affiliates only in Eastern Europe 0.0011 0.999
+Parents with affiliates only in Western Europe ­ 0.3184*** 0.000
+Combined K-S 0.3184*** 0.000
+Size criteria Log sales
+Parents with affiliates only in Eastern Europe 0.111*** 0.000
+Parents with affiliates only in Western Europe 0.000 1.000
+Combined K-S 0.111*** 0.000
+25
+Table 6: Regression Results Aggregated Data
+The baseline regression that we estimate is: log(Yit
+)=0
++ 1
+Xit
++ 2
+Xi
++ t + it
+, where Yit
+is the activity German multinationals in country i at time t, Xit
+are the time-varying
+explanatory variables for country i (GDP, similarity index, etc.), Xi
+are the time invariant explanatory variables for country i (distance), t is the time fixed effect, and it
+is the
+error term. Results reported in this Table have been obtained using the cross-sectional time-series linear model using feasible generalized least squares (XTGLS) in Stata. This
+command allows estimation in the presence of AR(1) autocorrelation within panels and cross-sectional correlation and/or heteroscedasticity across panels. Dependent variables
+(with the exception of the sales-ratio), GDP, and distance are in logs. Sales are total sales of German firms' foreign affiliates, including intra-firm sales. Data are aggregated over
+all affiliates of German firms in a particular host country. Number of affiliates is the total number of affiliates in a given host country. Data for 1995­2001; a full set of time
+dummies is included in all regressions (not reported). Absolute values of the z-statistic are given in parentheses: *, ** and *** indicates significant at the 10%, 5%, and 1%
+levels, respectively.
+Volume of FDI Mean FDI Sales of foreign affiliates Number of affiliates
+Log GDP 0.66*** 0.23*** 0.62*** 0.47***
+[16.77] [9.95] [19.41] [21.68]
+Similarity 3.03*** 0.67*** 3.48*** 2.36***
+[11.16] [4.24] [16.16] [15.50]
+Log distance ­0.17** 0.09** ­0,07 ­0.18***
+[2.42] [2.15] [1.22] [4.28]
+Log GDP * Eastern Europe ­0,12 ­0,13 0,06 0,15
+[0.42] [0.82] [0.23] [0.81]
+Similarity * Eastern Europe ­1,52 3.84* ­0,04 ­3,69
+[0.53] [1.93] [0.01] [1.22]
+Log distance * Eastern Europe 0,57 0,4 ­0,11 ­0,35
+[0.55] [0.70] [0.12] [0.54]
+Constant ­3.64*** 1.89*** ­9.56*** ­6.75***
+[3.33] [2.94] [11.07] [11.66]
+Observations 1138 1138 1159 1181
+Number of key 107 107 107 108
+26
+Table 7: Regression Results Sectoral Data
+Results reported in this Table have been obtained using an feasible generalized least squares estimator which accounts for the presence of AR(1) autocorrelation within and cross-
+sectional correlation and/or heteroscedasticity across panels. The dependent variable (sales of foreign affiliates), GDP, and distance are given in logs. Data have been aggregated
+at a sectoral level, i.e. the data set contains one entry per sector and host country per year. We use data for the years 1990­2001. Sectors are defined following NACE. All
+regressions include a full set of time dummies. Robust t-values in brackets. * significant at 10%; ** significant at 5%; *** significant at 1%.
+Agriculture Mining Food Textiles Wood Paper & printing Petroleum Chemicals Plastics
+Non-metallic
+minerals
+Log GDP 0.14* ­0.01 0.43*** 0.37*** 0.07 0.87*** 1.03*** 0.80*** 0.86*** 0.66***
+[1.84] [0.11] [10.10] [8.42] [0.63] [13.15] [13.00] [21.65] [14.89] [14.18]
+Similarity 3.90*** 4.14*** 0.64** 1.29*** 4.50*** 0.00 0.1 1.93*** 0.78*** ­0.11
+[8.10] [7.21] [2.23] [4.27] [4.74] [0.00] [0.22] [7.46] [2.58] [0.36]
+Log distance 0.87*** 0.1 ­0.83*** 0.09 0.72*** ­0.38*** ­0.21* 0.1 ­0.61*** ­0.86***
+[4.38] [0.80] [10.73] [1.29] [3.04] [4.27] [1.75] [1.44] [7.08] [11.62]
+Log GDP * Eastern Europe ­1.2 0.76*** 0.22* 0.1 0.1 0.21 0.31 0.2 0.70*** 0.55***
+[1.64] [3.98] [1.85] [0.31] [0.40] [0.62] [0.57] [1.51] [5.04] [3.24]
+Similarity * Eastern Europe 52.25* ­0.18 3.21** ­4.68 ­14.19*** ­0.37 ­11.72 0.82 ­0.94 4.51***
+[1.82] [0.04] [1.99] [0.96] [4.48] [0.04] [1.41] [0.35] [0.20] [2.62]
+Log distance * Eastern Europe 3.6 ­2.59*** ­0.77* ­0.16 0.27 ­0.73 ­0.73 ­0.56 ­2.54*** ­2.03***
+[1.59] [3.32] [1.79] [0.13] [0.31] [0.55] [0.35] [1.06] [5.78] [3.59]
+Constant ­3.37* 7.09*** 4.50*** ­1.36 ­1.89 ­11.06*** ­14.82*** ­10.86*** ­9.17*** ­1.25
+[1.70] [4.05] [4.84] [1.27] [0.76] [6.19] [7.63] [11.57] [5.91] [0.95]
+Observations 304 408 493 617 292 396 363 809 463 422
+Number of groups 42 56 56 66 38 48 47 81 53 54
+Metals Machinery
+Electrical
+machinery
+Transport
+equipment
+Other manu-
+facturing Construction Wholesale
+Transport &
+communication
+Financial
+services
+Business
+services
+Log GDP 0.70*** 0.84*** 0.74*** 1.15*** 0.29*** 0.33*** 0.75*** 0.48*** 0.64*** 0.78***
+[12.32] [17.12] [15.15] [13.16] [4.36] [5.55] [20.99] [10.54] [12.01] [18.61]
+Similarity 1.13*** 1.66*** 2.03*** ­0.94** 1.47*** 3.11*** 3.20*** 2.08*** 3.88*** 2.57***
+[3.64] [5.43] [6.66] [2.55] [4.19] [9.18] [13.95] [8.84] [11.22] [9.55]
+Log distance ­0.47*** ­0.39*** ­0.12 ­0.46*** 0.04 0.17* ­0.10* ­0.25*** ­0.16* ­0.30***
+[5.67] [5.96] [1.64] [4.76] [0.38] [1.77] [1.75] [4.38] [1.91] [4.56]
+Log GDP * Eastern Europe 0.40** ­0.25 0.25 0.28 0.47*** 0.65*** 0.41** 0.17 0.39** 0.44**
+[2.25] [1.24] [1.51] [1.44] [3.28] [7.06] [2.09] [1.02] [2.09] [2.32]
+Similarity * Eastern Europe 3.92 12.05** 5.24** ­1.15 ­5.39*** 7.35* ­4.75 ­3.77 ­9.42** ­6.54**
+[0.72] [1.99] [2.26] [0.38] [3.06] [1.67] [1.19] [1.09] [2.46] [2.16]
+Log distance * Eastern Europe ­1.58*** 0.77 ­0.89 ­0.64 ­1.39*** ­2.34*** ­1.25* ­0.62 ­1.12* ­1.35**
+[2.60] [1.03] [1.56] [0.85] [2.70] [8.64] [1.75] [1.13] [1.81] [1.98]
+Constant ­4.67*** ­9.19*** ­8.30*** ­18.74*** ­1.16 ­2.96* ­8.87*** ­1.78 ­5.85*** ­9.41***
+[2.97] [7.98] [7.28] [9.28] [0.67] [1.96] [10.25] [1.55] [4.14] [8.14]
+Observations 578 616 719 377 388 488 958 830 719 690
+Number of groups 60 60 72 52 48 60 96 94 80 79
+27
+Table 8: Regression Results Firm-Level Data
+Central and Eastern European countries = Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, the Slovak Republic, and Slovenia. Core Europe = Austria, Belgium,
+Denmark, France, Italy, Luxembourg, the Netherlands, and the United Kingdom.
+Central and Eastern European Countries Core Europe
+Probit Tobit Probit Tobit
+Turnover parent 0.00 0.01*** 0.44*** 0.37*** 0.00 ­0.01*** ­0.01 ­0.331***
+[0.82] [3.69] [2.90] [2.69] [0.91] [3.89] [0.13] [4.46]
+Log capital intensity of the parent ­0.01 0.14 ­0.01* 0.02
+[1.29] [0.66] [1.84] [0.13]
+Log capital intensity of the affiliate ­0.06*** ­3.54*** 0.07*** 1.89***
+[8.61] [9.70] [6.69] [10.27]
+Total number of affiliates of ­0.01 ­0.01 ­1.40*** ­0.48** ­0.02 ­0.02** ­0.56*** ­0.44***
+parent [1.36] [0.92] [5.69] [2.14] [1.29] [2.00] [4.14] [3.77]
+Affiliate older than 1996 ­2.18*** ­3.69*** 1.78*** 2.20***
+[4.25] [7.08] [6.33] [8.28]
+State border 27.31*** 25.07*** 0.60*** 0.58*** 11.63*** 10.15***
+[16.00] [15.72] [19.06] [19.09] [23.02] [22.27]
+Constant ­9.96 ­26.81*** ­8.25 1.70
+[1.39] [4.94] [1.42] [0.58]
+Observations 8194 7754 8269 7793 8261 7789 8269 7793
+28
+Table 9: Determinants of the Capital Intensity of the Affiliate
+The dependent variable is the capital-labor ratio of the foreign affiliate. The Table presents results of OLS regressions for the year 2003, using robust standard errors. CEEC1 =
+Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, the Slovak Republic, and Slovenia. CEEC3 = Belarus, Bulgaria, Romania, Russia, and Ukraine. Core Europe =
+Austria, Belgium, Denmark, France, Italy, Luxembourg, the Netherlands, and the United Kingdom.
+(1) (2) (3) (4)
+Turnover parent 0.05***
+[7.65]
+Assets parent 0.06***
+[7.67]
+Employment parent 0.06***
+[7.67]
+Dummy CEEC1 = 1 -0.32*** -0.30*** -0.29*** -0.30***
+[10.79] [10.66] [10.31] [10.58]
+Dummy CEEC2 = 1 -0.36*** -0.32*** -0.31*** -0.31***
+[6.38] [6.31] [6.12] [6.11]
+Dummy Core Europe = 1 0.10*** 0.10*** 0.10*** 0.09***
+[5.26] [5.63] [5.39] [5.18]
+Total number of affiliates -0.06*** -0.06*** -0.07*** 0,01
+[5.29] [5.70] [5.95] [0.87]
+Log capital-labor ratio parent 0.07*** 0 0.05*** -0,01
+[6.82] [0.62] [5.48] [1.54]
+Constant -2.82*** -0.86*** -2.67*** -0.63*
+[7.28] [2.62] [7.03] [1.89]
+Observations 6209 7241 7135 7252
+R-squared 0.08 0.08 0.08 0.07
+29
+Figure 1: Size Distributions of Foreign Affiliates of German Multinational Firms in Eastern and Western Europe, 2003
+0 .1 .2 .3
+fraction
+0 5 10 15
+ln(employment)
+Density: all Density: only Core Europe
+Density: only CEECs
+0 .1 .2 .3 .4
+fraction
+5 10 15 20
+ln(sales)
+Density: all Density: only Core Europe
+Density: only CEECs
+0 .2 .4 .6 .8 1
+fraction
+5 10 15 20
+ln(sales)
+All parents Core Europe
+CEECs
+Cumulative Distribution
+IAW-Diskussionspapiere
+Bisher erschienen:
+Nr. 1
+Das Einstiegsgeld ­ eine zielgruppenorientierte negative Einkommensteuer: Konzeption,
+Umsetzung und eine erste Zwischenbilanz nach 15 Monaten in Baden-Württemberg
+Sabine Dann / Andrea Kirchmann / Alexander Spermann / Jürgen Volkert
+Nr. 2
+Die Einkommensteuerreform 1990 als natürliches Experiment. Methodische und
+konzeptionelle Aspekte zur Schätzung der Elastizität des zu versteuernden Einkommens
+Peter Gottfried / Hannes Schellhorn
+Nr. 3
+Gut betreut in den Arbeitsmarkt? Eine mikroökonomische Evaluation der
+Mannheimer Arbeitsvermittlungsagentur
+Jürgen Jerger / Christian Pohnke / Alexander Spermann
+Nr. 4
+Das IAW-Einkommenspanel und das Mikrosimulationsmodell SIMST
+Peter Gottfried / Hannes Schellhorn
+Nr. 5
+A Microeconometric Characterisation of Household Consumption Using
+Quantile Regression
+Niels Schulze / Gerd Ronning
+Nr. 6
+Determinanten des Überlebens von Neugründungen in der baden-württembergischen
+Industrie ­ eine empirische Survivalanalyse mit amtlichen Betriebsdaten
+Harald Strotmann
+Nr. 7
+Die Baulandausweisungsumlage als ökonomisches Steuerungsinstrument einer
+nachhaltigkeitsorientierten Flächenpolitik
+Raimund Krumm
+Nr. 8
+Making Work Pay: U.S. American Models for a German Context?
+Laura Chadwick, Jürgen Volkert
+Nr. 9
+Erste Ergebnisse von vergleichenden Untersuchungen mit anonymisierten und nicht
+anonymisierten Einzeldaten am Beispiel der Kostenstrukturerhebung und der Umsatz-
+steuerstatistik
+Martin Rosemann
+Nr. 10
+Randomized Response and the Binary Probit Model
+Gerd Ronning
+Nr. 11
+Creating Firms for a New Century: Determinants of Firm Creation around 1900
+Joerg Baten
+Nr. 12
+Das fiskalische BLAU-Konzept zur Begrenzung des Siedlungsflächenwachstums
+Raimund Krumm
+Nr. 13
+Generelle Nichtdiskontierung als Bedingung für eine nachhaltige Entwicklung?
+Stefan Bayer
+Nr. 14
+Die Elastizität des zu versteuernden Einkommens. Messung und erste Ergebnisse zur
+empirischen Evidenz für die Bundesrepublik Deutschland.
+Peter Gottfried / Hannes Schellhorn
+Nr. 15
+Empirical Evidence on the Effects of Marginal Tax Rates on Income ­ The German Case
+Peter Gottfried / Hannes Schellhorn
+Nr. 16
+Shadow Economies around the World: What do we really know?
+Friedrich Schneider
+Nr. 17
+Firm Foundations in the Knowledge Intensive Business Service Sector. Results from a
+Comparative Empirical Study in Three German Regions
+Andreas Koch / Thomas Stahlecker
+Nr. 18
+The impact of functional integration and spatial proximity on the post-entry performance
+of knowledge intensive business service firms
+Andreas Koch / Harald Strotmann
+Nr. 19
+Legislative Malapportionment and the Politicization of Germany's Intergovernmental
+Transfer System
+Hans Pitlik / Friedrich Schneider / Harald Strotmann
+Nr. 20
+Implementation ökonomischer Steuerungsansätze in die Raumplanung
+Raimund Krumm
+Nr. 21
+Determinants of Innovative Activity in Newly Founded Knowledge Intensive Business
+Service Firms
+Andreas Koch / Harald Strotmann
+Nr. 22
+Impact of Opening Clauses on Bargained Wages
+Wolf Dieter Heinbach
+Nr. 23
+Hat die Einführung von Gewinnbeteiligungsmodellen kurzfristige positive
+Produktivitätswirkungen? ­ Ergebnisse eines Propensity-Score-Matching-Ansatzes
+Harald Strotmann
+Nr. 24
+Who Goes East? The Impact of Enlargement on the Pattern of German FDI
+Claudia M. Buch / Jörn Kleinert
+

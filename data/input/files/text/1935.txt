@@ -1,0 +1,934 @@
+Pediatric GFR Estimating Equations Applied to
+Adolescents in the General Population
+Jeffrey J. Fadrowski,* Alicia M. Neu,* George J. Schwartz, and Susan L. Furth§
+Summary
+Background and objectives We examined the distribution of estimated GFR (eGFR) in a healthy cohort of
+adolescents to inform clinical and research use.
+Design, setting, participants, & measurements Various creatinine-based (n  3256) and/or cystatin C­based
+(n  811) equations, including the recently developed complete and bedside equations from the Chronic
+Kidney Disease in Children (CKiD) study, were applied to U.S. adolescents 12 to 17 years of age participat-
+ing in the 1999­2002 National Health and Nutrition Examination Survey (NHANES).
+Results The median serum creatinine and cystatin C were 0.7 mg/dl and 0.83 mg/L, respectively. The dis-
+tribution of eGFR varied widely, with the median GFR ranging from a low of 96.6 ml/min per 1.73 m2
+(CKiD) to a high of 140.0 ml/min per 1.73 m2 (original Schwartz). The proportions of participants with
+eGFRs 75 ml/min per 1.73 m2 are as follows: bedside CKiD 8.9%, Counahan 6.3%, Leger 0.4%, original
+Schwartz 0%, Filler 1.3%, Grubb 3.1%, Bouvet 2.5%, CKiD 1.8%, and Zappitelli 5.6%. By any equation ex-
+amined, no group of participants with eGFR 10th percentile had an increased prevalence of comorbid
+conditions consistent with a low measured GFR.
+Conclusions Most pediatric-specific GFR estimating equations resulted in 25% to 50% of the participants
+having an eGFR 100 ml/min per 1.73 m2. However, participants with eGFR in the lower ranges did not
+have an increased prevalence of morbidities associated with chronic kidney disease. Clinical validation of
+creatinine- or cystatin C­based estimated GFRs in healthy children is needed before it is possible to screen
+the general population for chronic kidney disease.
+Clin J Am Soc Nephrol 6: 1427­1435, 2011. doi: 10.2215/CJN.06460710
+Introduction
+Accurate estimation of kidney function in children is
+important from a clinical, research, and public health
+perspective. From a clinical standpoint, the most com-
+monly used marker of kidney function, serum creat-
+inine, varies by body size, sex, and race, and given the
+wide range of maturation of skeletal muscle and
+growth observed in the pediatric population, recog-
+nition of abnormal creatinine values is more challeng-
+ing (1­4). Estimation of GFR may aid in the identifi-
+cation and management of acute and chronic kidney
+injury, including facilitation of appropriate fluid and
+medication dosing. The international epidemic of
+chronic kidney disease (CKD) in adults mandates re-
+search and public health interventions to identify
+CKD and slow its development and progression, and
+estimation of GFR is integral to these efforts (5,6).
+Likely because it is relatively rare, the prevalence of
+CKD in the general population of children and ado-
+lescents has not been extensively examined. As prior
+longitudinal studies of kidney disease progression
+have suggested that the overall rate of decline in GFR
+in adults with CKD is approximately 3 to 5 ml/min
+per year, some adults presenting with advanced CKD
+or ESRD may have developed early stages of CKD in
+childhood or adolescence (7,8). Given this, and the
+striking increased incidence of CKD risk factors such
+as hypertension and obesity in children and adoles-
+cents over the past few decades, examining GFR and
+CKD in the general pediatric population is worth-
+while (9­12).
+Serum creatinine and cystatin C are convenient
+markers of kidney function. As in adults, GFR esti-
+mating equations incorporating creatinine and/or
+cystatin C have been developed for children over the
+past 4 decades that attempt to account for the influ-
+ence of age, body size, and/or sex on these markers,
+thus improving accuracy. But the limitations of these
+equations must be recognized. First, the laboratory
+methods to determine creatinine and cystatin C have
+changed over time, and thus estimating equations
+using creatinine or cystatin C derived from a different
+laboratory method may yield different, and less accu-
+rate, results (4,13­15). Second, the equations were de-
+veloped in small groups of children, primarily with
+decreased GFR. GFR estimating equations in adults,
+*Department of
+Pediatrics, Johns
+Hopkins University
+School of Medicine,
+Baltimore, Maryland;
+Welch Center for
+Prevention,
+Epidemiology and
+Clinical Research, Johns
+Hopkins University
+School of Medicine and
+Bloomberg School of
+Public Health,
+Baltimore, Maryland;
+Department of
+Pediatrics, University of
+Rochester School of
+Medicine and Dentistry,
+Rochester, New York;
+and §Department of
+Pediatrics, University of
+Pennsylvania School of
+Medicine, Philadelphia,
+Pennsylvania
+Correspondence:
+Dr. Jeffrey J. Fadrowski,
+DM Rubenstein Child
+Health Building, Room
+3055, 200 N. Wolfe
+Street, Baltimore, MD
+21287. Phone: 410-
+955-2467; Fax: 410-
+614-3680; E-mail:
+jfadrow1@jhmi.edu
+www.cjasn.org Vol 6 June, 2011 Copyright © 2011 by the American Society of Nephrology 1427
+Article
+also primarily developed in populations with decreased
+GFR, have been shown to underestimate GFR among those
+without kidney disease (16­18). Limited studies have ex-
+amined pediatric GFR estimating equations in the general
+population (19).
+To allow for appropriate clinical and research applica-
+tion, we aimed to examine the distribution of GFRs ob-
+tained from several creatinine- and/or cystatin C­based
+pediatric GFR estimating equations in a large sample of
+adolescents from the general U.S. population included
+within the National Health and Nutrition Examination
+Survey (NHANES). Among adolescents with lower esti-
+mated GFR (eGFR), we looked for evidence of morbidities
+that are commonly associated with decreased GFR to sup-
+port a potential diagnosis of CKD.
+Materials and Methods
+Study Setting and Population
+The National Center for Health Statistics, within the
+Centers for Disease Control and Prevention (CDC), has
+been conducting the National Health and Nutrition Exam-
+ination Survey (NHANES) to assess the health and nutri-
+tional status of the adults and children in the United States
+since the 1960s. In 1999, the survey became a continuous
+program and data has been released in 2-year increments
+since 2002. NHANES uses a complex multistage sample
+design to obtain a representative sample of the U.S. civil-
+ian, noninstitutionalized population of all ages. The
+NHANES study protocols were approved by the institu-
+tional review board of the National Center for Health
+Statistics. Written informed consent was obtained from all
+participants or, if younger than 18 years, their guardians.
+Assent was obtained from those aged 7 to 17 years. The
+overall participation rate for NHANES 1999­2002 (inter-
+viewed and examined sample) was 78%.
+NHANES routinely collects serum for biochemistry
+analyses, including serum creatinine, in those aged 12
+years and older. For this analysis, we examined adoles-
+cents aged 12 to 17 years within NHANES 1999­2002
+because serum cystatin C measures were also available in
+these project years. Of the 3732 adolescents aged 12 to 17
+years in NHANES 1999­2002, 467 were missing serum
+creatinine values. Among those with serum creatinine
+measures, 29 were missing height and/or weight, resulting
+in a final creatinine subsample of 3256 adolescents. In 2006,
+stored surplus serum was used to assay cystatin C in a 25%
+random sample of participants aged 12 years and older
+and in all participants with a serum creatinine 1.2 mg/dl
+in boys and 1.0 mg/dl in girls (20). Among the 818
+participants 12 to 17 years old with serum cystatin C
+measures, 7 had missing height and/or weight, resulting
+in a final cystatin C subsample of 811. Of this subsample, 6
+boys and 2 girls had high serum creatinine as defined
+above.
+Kidney Function Measures
+Serum creatinine was measured by the modified kinetic
+Jaffe
+´ reaction using an Hitachi 917 analyzer. The assay
+range (without dilution) was 0.1 to 25.0 mg/dl. Interassay
+coefficients of variation for the assay were 4.4% and 1.1% at
+mean concentrations of 0.68 and 7.08 mg/dl, respectively.
+Recognizing the lack of standardization in measurement of
+serum creatinine in many laboratories, the National Kid-
+ney Disease Education Program (NKDEP) is attempting to
+have all laboratories standardize to a "gold standard" ref-
+erence method (14). NHANES, via the Cleveland Clinic
+Foundation laboratory, analyzes serum creatinine in stored
+serum for each 2-year data release using a Roche coupled
+enzymatic assay performed on a Roche P Module instru-
+ment. Creatinine measures from this "gold standard" en-
+zymatic assay are then compared with creatinine measures
+obtained via the traditional modified Jaffe
+´ reaction used in
+NHANES, and if a significant difference exists, a regres-
+sion is recommended to correct the NHANES creatinine.
+For 1999­2000, results of this comparison led NHANES to
+recommend a correction for serum creatinine according to
+the following equation: corrected creatinine (Y)  1.013 
+NHANES creatinine (X)  0.147 (r  0.984). No correction
+was recommended for 2001­2002 (21).
+Serum cystatin C was measured at the Cleveland Clinic
+Research Laboratory using a particle-enhanced immuno-
+nephelometric assay (PENIA, Dade Behring N Latex Cys-
+tatin C run on a Dade Behring Nephelometer II; Siemens
+Healthcare Diagnostics, Deerfield, Illinois) (22). The assay
+range was 0.23 to 7.25 mg/L. Interassay coefficients of
+variation for the assay were 5.05% and 4.87% at mean
+concentrations of 0.97 and 1.90 mg/L, respectively.
+GFR was estimated using the creatinine and/or cystatin
+C-based equations listed in Table 2 (23­31). eGFRs from the
+formulas by Leger and Bouvet et al. (ml/min) were stan-
+dardized to 1.73 m2 using body surface area determined by
+the formula of Haycock et al. (32). The "gold standard"
+GFR measurement used to develop the GFR estimating
+equations, as well as the methods of creatinine and cystatin
+C measurement, is included in this table.
+Other Variables
+Questionnaire information provided the participants'
+age, sex, race, and ethnicity. Body mass index (BMI) was
+calculated from the height and weight of each participant
+(kg/m2). BMI percentiles were calculated based on the
+CDC's BMI-for-age sex-specific growth charts and partici-
+pants were categorized as obese if their BMI was 95th
+percentile (33). Three to four BP determinations were taken
+using a mercury sphygmomanometer using a technique
+based on recommendations from the American Heart As-
+sociation (34). The average systolic BP variable was used to
+calculate BP percentiles (35). Non­first morning random
+urine samples were analyzed for creatinine (Jaffe
+´ rate re-
+action, Beckman Synchron CX3 Clinical System; Beckman
+Instruments, Brea, California) and albumin (fluorescence
+immunoassay, Sequoia-Turner model 450 Fluorometer)
+(36). Microalbuminuria and macroalbuminuria were de-
+fined as urine albumin levels exceeding 30 and 300 g/mg
+of creatinine, respectively. Anemia was defined as having
+a hemoglobin value below the 5th percentile for age and
+sex (37). Serum phosphorus was dichotomized as 5.3
+mg/dl (90th percentile for study population) versus 5.3
+mg/dl. Serum bicarbonate was dichotomized as 21
+meq/L (10th percentile for study population) versus 21
+meq/L. Heights were converted to Z-scores based on
+growth charts from the CDC (38).
+1428 Clinical Journal of the American Society of Nephrology
+Statistical Analyses
+All statistical analyses were performed using Stata sta-
+tistical software, version 9.0 (StataCorp, College Station,
+Texas). Survey commands were used to account for the
+NHANES complex sampling design and special cystatin
+C­specific sampling weights were used in all analyses
+involving cystatin C (39). The statistical significance level
+was set at   0.05. All statistical analyses were two-sided.
+Demographic and clinical characteristics were stratified
+by creatinine and cystatin C subsamples. The distributions
+of creatinine, cystatin C, and GFRs derived from the vari-
+ous estimating equations were determined. To examine for
+an increased prevalence of morbidities potentially associ-
+ated with CKD among those with lower eGFR, participants
+were dichotomized by eGFR 10th percentile versus 10th
+percentile. Tenth percentile cutoffs were specific to each
+estimating equation. Primary analyses compared the mean
+levels of BMI percentile, urinary albumin-to-creatinine ra-
+tio, and systolic BP percentile by 10th percentile eGFR
+cutoff, and secondary analyses compared prevalence of
+height Z-scores  2, anemia, elevated serum phosphorus
+(5.3 mg/dl), and decreased serum bicarbonate (21
+meq/L). Finally, mean eGFR was examined by obesity
+status, and percentile distribution of eGFR was compared
+between the entire population, obese and nonobese.
+Results
+Demographic and clinical characteristics were similar
+among the creatinine and cystatin C subsamples from
+NHANES (Table 1). Among the creatinine subsample,
+17.0% were obese, 3.9% had systolic BP 95th percentile,
+11.8% had microalbuminuria, 1.3% had macroalbuminuria,
+and 3% were anemic.
+Table 2 displays the various GFR estimating equations
+used in this analysis, the size and description of the GFR
+range of the population in which the equation was derived,
+as well as the methods of measurement for creatinine,
+cystatin C, and GFR. Table 3 shows the results of the
+application of these GFR estimating equations to the
+NHANES sample, displaying percentile distribution of cre-
+atinine, cystatin C, and eGFR in a population-based sample
+of adolescents aged 12 to 17 years. The median serum
+creatinine was 0.7 mg/dl and the median cystatin C was
+0.83 mg/L. The distribution of eGFR varied by estimating
+equation, with the median GFR ranging from a low of 96.6
+ml/min per 1.73 m2 (CKiD) to a high of 140.0 ml/min per
+1.73 m2 (original Schwartz). Less than 1% of participants
+had an eGFR of 60 ml/min per 1.73 m2. The propor-
+tions of participants with eGFRs 75 ml/min per 1.73
+m2, the reporting cutoff used by pediatric eGFR calcu-
+lators on the National Kidney Disease Education Pro-
+gram (NKDEP) Web site (40), are as follows: bedside
+CKiD 8.9%, Counahan 6.3%, Leger 0.4%, original
+Schwartz 0%, Filler 1.3%, Grubb 3.1%, Bouvet 2.5%,
+CKiD 1.8%, and Zappitelli 5.6%.
+Table 4 shows the comparison of morbidities often asso-
+ciated with CKD including mean BMI percentile, urinary
+albumin-to-creatinine ratio, and systolic BP among the
+lower tail of the eGFR distributions versus those 10th
+percentile. Few significant differences in the means of each
+variable were observed. For BMI, the bedside CKiD, Cou-
+nahan, and Leger equations had significantly higher BMI
+percentile means among those with lower GFR. There was
+a nonsignificant trend toward higher urinary albumin-to-
+creatinine ratios among those with lower eGFR by every
+equation. No significant differences were observed in sys-
+tolic BP by eGFR category. Those with eGFR 10th per-
+centile were significantly more likely to be anemic than
+those 10th percentile for all equations except by original
+Table 1. Demographic and clinical characteristics of adolescents aged 12 to 17 years, NHANES 1999­2002
+Creatinine Subsample (n  3256) Cystatin C Subsample (n  811)
+Mean age, years 14.5 (SE 0.05) 14.5 (SE 0.08)
+Girls, % 49.1 49.7
+Race/ethnicity, %
+non-Hispanic black 14.7 14.3
+Mexican 11.0 11.0
+other Hispanic 7.8 7.7
+non-Hispanic white 60.0 57.6
+other (including multiracial) 6.6 9.4
+BMI weight category, %
+underweight (5th percentile) 3.3 4.3
+healthy weight (5th to 85th percentile) 64.8 63.8
+overweight (85th to 95th percentile) 14.9 14.9
+obese (95th percentile) 17.0 16.9
+Systolic BP, %
+90th percentile 5.9 4.4
+95th percentile 3.9 2.4
+Microalbuminuria, % (n  3220) (n  799)
+30 mcg/mg creatinine 11.8 10.4
+Macroalbuminuria, % (n  3220) (n  799)
+300 mcg/mg creatinine 1.3 1.4
+Anemic, % 3.0 3.1
+NHANES, National Health and Nutrition Examination Survey; BMI, body mass index.
+Clin J Am Soc Nephrol 6: 1427­1435, June, 2011 Pediatric GFR Estimating Equations, Fadrowski et al. 1429
+Table 2. GFR estimating equations in childrena
+GFR Estimating Equation n Ageb GFRc
+Creatinine/Cystatin C
+Assay Analyzer
+GFR Measurement
+Method
+Serum creatinine based
+bedside CKiD (23) 41.3 height/creatinine 349 1 to 16 41.3 (16 to 93) Enzymatic Advia 2400 Iohexol
+Counahan et al. (24) 43 height/creatinine 108 2 to 14d 4 to 200 Modified Jaffée Technicon 51Cr-EDTA
+Leger et al. (25) 0.641 weight/creatinine 
+16.063 (height)2/creatinine
+97 0.8 to 21 100 (31 to 200) Kinetic Jaffé Hitachi 911 51Cr-EDTA
+Schwartz et al. (26, 27) 55  height/creatinine; and
+70  height/creatinine if boy
+13 years
+186 0.5 to 20 125 (0 to 220) Modified Jaffé Technicon Inulin/creatinine clearance
+Serum cystatin C based
+Filler et al. (28) 91.62 1/cystatin C1.123 536 1 to 18 103 (7 to 209) Particle-enhanced
+nephelometric
+immunoassay (PENIA)
+Behring BN ProSpec
+99mTc-DTPA
+Grubb et al. (29) 84.69 1/cystatin C1.680; and
+84.69 1/cystatin C1.680  1.384
+if age 14 years
+536f 0.3 to 93 63 (11 to 124)g;
+and 113 (37
+to 240)h
+Particle-enhanced
+turbidimetric
+immunoassay (PETIA)
+Hitachi Modular P
+Iohexol
+Serum creatinine and
+cystatin C based
+Bouvet et al. (30) 63.2 1.2/cystatin C0.56  1.09/
+creatinine0.35  weight/450.3 
+age/140.4
+100 1.4 to 22.8 95 (18 to 200) Kinetic Jaffé (Olympus
+analyzer)/PENIA
+BN-ProSpec
+51Cr-EDTA
+CKiD (23) 39.1 height/creatinine0.516 
+1.8/cystatin C0.294  30/
+BUN0.169  1.099male 
+height/1.40.188
+349 1 to 16 41.3 (16 to 93) Enzymatic Advia 2400/
+PETIA DAKO
+Iohexol
+Zappitelli et al. (31) 43.82 1/cystatin C0.635  1/
+creatinine0.547  1.35height
+103 2 to 18 74  36 Enzymatic Vitros; Ortho-
+Clinical Diagnostics/
+PENIA Behring
+Nephelometer System
+Iothalamate
+BUN, blood urea nitrogen; 51Cr-EDTA, 51-cromium edetic acid; 99mTc-DTPA, 99mTc-diethylene-triamine-pentaacetic acid; CKiD, Chronic Kidney Disease in Children.
+aHeight, m; weight, kg; creatinine, mg/dl; cystatin C, mg/L; BUN, mg/dl.
+bAge range, years.
+cGFR, ml/min per 1.73 m2 except Leger's and Bouvet's in ml/min: mean (range) presented for bedside CKiD, Leger, Filler, Bouvet, and CKiD; range presented for Counahan; median
+(range) presented for Schwartz; median (2.5th and 97.5th percentiles) presented for Grubb; mean  SD presented for Zappitelli.
+d103 children and 5 adults.
+ePlasma creatinine value corrected to account for noncreatinine chromogens.
+fn  85 for 0.3 to 17 year old category.
+g18 years old.
+h0.3 to 13 years old.
+1430 Clinical Journal of the American Society of Nephrology
+Schwartz. Similar trends were observed for bicarbonate
+and phosphorus. Those with GFRs 10th percentile esti-
+mated by the bedside CKiD, Counahan, Leger, Bouvet, and
+CKiD equations were more likely to have low bicarbonate
+than their counterparts with GFRs 10th percentile. Those
+10th percentile estimated by the original Schwartz, bed-
+side CKiD, Counahan, Leger, and CKiD formulas were
+significantly more likely to have higher phosphorus levels
+than their counterparts with GFRs 10th percentile. Fi-
+nally, no significant differences in the likelihood of having
+a height Z-score 2 were observed by the eGFR cutoff of
+the 10th percentile for any equation except for that by
+Bouvet (0% with eGFR 83.6 ml/min per 1.73 m2 had
+height Z-score  2, compared with 1.7% for those with
+GFR 83.6 ml/min per 1.73 m2, P  0.008). Therefore, by
+any equation examined, participants in the lower GFR
+group did not have an increased prevalence of comorbid
+conditions consistent with CKD.
+Although no consistent differences in mean BMI percen-
+tile were observed among those with lower compared with
+those with higher eGFR by any equation (Table 4), the
+potential effect of the high prevalence of obesity in this
+population on GFR adjusted for body surface area deserves
+further analysis. Mean GFR among the obese (BMI 95th
+percentile) and nonobese population was examined (Table 5).
+The creatinine-based equation by Leger, the cystatin
+C­based equations by Filler and Grubb, and the cystatin
+C­ and creatinine-based equation by Zappitelli show sig-
+nificantly lower mean eGFRs among the obese compared
+with those among the nonobese. To examine if obesity was
+affecting the distribution of eGFR, we compared the dis-
+tribution of eGFR in the entire population to that dichoto-
+mized as obese and nonobese using these select equations
+(Table 6). Although eGFRs tend to be lower at every per-
+centile cutoff among the obese compared with those
+among the nonobese, the difference tends to be quite small,
+particularly at the lower end of the distribution that is of
+greatest interest. It is also noted that there is minimal
+difference between the nonobese and the total population
+distributions. Thus, obesity has an effect on the eGFR
+distribution among some equations, but it does not appear
+to be playing a significant role in lowering the eGFR dis-
+tribution in the entire study population.
+Discussion
+The renal clearance of inulin has traditionally been con-
+sidered the gold standard for the evaluation of GFR in
+children and adults, and mean (SD) GFRs determined by
+this method range from 115 (24) to 117.2 (16.1) ml/min per
+1.73 m2 in young adults without kidney disease (4,41,42).
+Formal GFR measurements were not performed for those
+examined in this study, but given the rarity of CKD in the
+general population of children and as morbidities that
+commonly associate with CKD were not more prevalent
+among those with lower eGFRs, it can be safely assumed
+that most had normal kidney function. Despite this, in this
+examination of teenagers selected from the general U.S.
+population, most pediatric-specific GFR estimating equa-
+tions resulted in 25 to 50% of the participants having an
+eGFR 100 ml/min per 1.73 m2. On the basis of the normal
+variation of GFR measured by inulin in studies of healthy
+children, a portion of this population should be expected to
+have GFR in the 70 to 99 ml/min per 1.73 m2 range.
+However, the distribution observed in this study is skewed
+toward lower eGFR beyond what is expected with normal
+biologic variation. Bias of pediatric GFR estimating equa-
+tions is also possible, and two potential explanations
+should be considered: (1) serum creatinine/cystatin C lab-
+oratory methods used by NHANES differed from the
+method originally used to derive the estimating equation,
+and (2) pediatric GFR estimating equations systematically
+underestimate GFR because they were derived in children
+with CKD.
+The National Kidney Foundation's Kidney Disease Out-
+comes Quality Initiative (NKF/DOQI) Clinical Practice
+Guidelines, published in 2003, recommend that the formu-
+las by Schwartz et al. or Counahan-Barratt et al. be used to
+estimate GFR (24,26,27). Both formulas account for the
+relationship between creatinine production and muscle
+mass by using height as a surrogate. The differing con-
+stants used in these formulas highlight the significant ef-
+fect of the laboratory method for creatinine determination
+on GFR estimating equations. The original Schwartz equa-
+tion was derived using Jaffe
+´ (alkaline picrate) creatinine
+methodology, and the Counahan-Barratt using the Jaffe
+´
+reaction after serum adsorption onto an ion-exchange resin
+to remove noncreatinine chromogens (4,24,26). If the same
+Table 3. Percentile distribution of creatinine, cystatin C, and eGFR in adolescents aged 12 to 17 years, NHANES 1999 through 2002
+1st 5th 10th 25th 50th 75th 90th 95th 99th
+Serum creatinine, mg/dl 0.5 0.5 0.6 0.6 0.7 0.8 0.9 1.0 1.1
+Serum cystatin C, mg/L 0.57 0.65 0.68 0.75 0.83 0.91 1.01 1.06 1.21
+Bedside CKiD 62.9 71.1 75.6 84.4 96.6 108.8 122.1 131.6 149.1
+Counahan et al. 65.5 74.0 78.7 87.8 100.5 113.3 127.2 137.0 155.2
+Leger et al. 77.6 87.7 94.4 105.8 122.2 139.2 156.9 170.7 195.7
+Schwartz et al. 96.0 106.8 113.4 125.4 140.0 159.1 180.6 193.2 229.0
+Filler et al. 74.0 85.8 90.6 101.9 112.9 126.6 141.3 148.6 172.2
+Grubb et al. 62.3 80.6 90.7 106.3 130.1 157.1 189.1 208.4 261.7
+Bouvet et al. 72.3 79.6 83.6 92.4 104.6 116.6 128.5 134.3 150.6
+CKiD 72.9 79.5 84.1 89.5 96.6 105.6 115.1 121.3 131.6
+Zappitelli et al. 69.0 74.8 78.5 87.2 97.6 110.0 119.1 126.8 140.2
+All estimated GFRs in ml/min per 1.73 m2.
+Clin J Am Soc Nephrol 6: 1427­1435, June, 2011 Pediatric GFR Estimating Equations, Fadrowski et al. 1431
+laboratory method is used for creatinine determination, the
+difference between the constants leads to a 22% and 39%
+reduction in eGFR by the Counahan-Barratt compared
+with the Schwartz equation in adolescent females and
+males, respectively. The recently published GFR estimat-
+ing equations from the CKiD Study were derived using
+creatinines determined by an enzymatic assay that is more
+specific and sensitive than the Jaffe
+´ method (14,15,23).
+Compared with the Jaffe
+´ method, the enzymatic method
+results in lower creatinine values; hence, the lower con-
+stant in the bedside CKiD estimating equation, compared
+with the original Schwartz equation, reflects this (13).
+Differences in cystatin C assays and lack of standard
+calibrators may also affect GFR estimation and the results
+of this study. NHANES determined cystatin C using the
+Dade Behring particle-enhanced nephelometric immuno-
+assay (PENIA) method (22). The equations by Bouvet and
+CKiD used a particle-enhanced turbidimetric immunoas-
+say (PETIA) (43). Previous comparisons of these two assays
+have shown that the PETIA method provided significantly
+higher results compared with PENIA, and differences in
+sensitivity and precision have been reported (44). If a com-
+mon calibrator was used, assay results were found to be
+comparable, but currently there is no recognized agree-
+ment on calibration for clinically available cystatin C as-
+says (22,44).
+Thus, creatinine and cystatin C laboratory methodolo-
+gies vary and the coefficients of each GFR estimating equa-
+tion are critically dependent on assay methodology (4).
+This further complicates the interpretation and accuracy of
+GFRs obtained from estimating equations, and clinicians
+and researchers must be aware of such limitations when
+applying GFR estimating equations. There is currently a
+global creatinine standardization initiative that seeks to
+reduce interlaboratory variation in creatinine by referenc-
+ing all creatinine assays to isotope dilution mass spectros-
+copy (IDMS) standards (14). This may allow for the devel-
+opment of more universal GFR creatinine-based estimating
+equations in which the accuracy does not depend on the
+clinician knowing the creatinine assay of a given labora-
+tory and applying the equation that was developed using
+that assay. Standardization of cystatin C assay calibrators
+would also have obvious clinical and research benefits (45).
+As creatinine values in NHANES are traceable to enzy-
+matic methods, and the novel bedside CKiD equation was
+Table 4. Comparison of mean BMI percentile, urinary albumin-to-creatinine ratio, and systolic BP percentile among those with eGFR <10th percentile versus >10th percentile by various
+pediatric GFR estimating equations
+BMI Percentile Urinary Albumin-to-Creatinine Ratio
+(mcg/mg Creatinine) Systolic BP Percentile
+eGFR 10th
+Percentile
+eGFR 10th
+Percentile
+P eGFR 10th
+Percentile
+eGFR 10th
+Percentile
+P eGFR 10th
+Percentile
+eGFR 10th
+Percentile
+P
+Bedside CKiD 67.19 62.88 0.04 50.92 26.31 0.42 42.83 40.53 0.31
+Counahan et al. 67.19 62.88 0.04 50.92 26.31 0.42 42.83 40.53 0.31
+Leger et al. 70.05 62.56 0.002 50.92 26.32 0.42 42.81 40.53 0.34
+Schwartz et al. 64.06 63.23 0.72 53.29 26.09 0.37 40.49 40.78 0.90
+Filler et al. 61.08 64.46 0.56 46.24 27.70 0.50 49.84 40.96 0.18
+Grubb et al. 56.63 65.01 0.11 92.79 21.89 0.21 47.65 41.24 0.30
+Bouvet et al. 66.34 64.01 0.69 110.67 27.18 0.39 39.84 42.02 0.78
+CKiD 67.37 63.71 0.38 47.35 27.74 0.52 46.21 41.46 0.25
+Zappitelli et al. 69.21 63.50 0.19 43.18 28.22 0.62 47.59 41.30 0.24
+Table 5. Mean eGFR by obesity status
+Mean eGFR (ml/min per 1.73 m2)
+Obese Nonobese P
+Bedside CKiD 97.2 98.0 0.49
+Counahan et al. 101.2 102.0 0.49
+Leger et al. 121.0 124.8 0.01
+Schwartz et al. 144.1 144.1 0.96
+Filler et al. 109.2 115.6 0.01
+Grubb et al. 128.1 135.4 0.03
+Bouvet et al. 90.8 108.0 0.001
+CKiD 97.2 98.4 0.45
+Zappitelli et al. 95.0 99.7 0.01
+Obesity defined as 95th percentile for BMI.
+1432 Clinical Journal of the American Society of Nephrology
+also derived using enzymatic creatinine laboratory meth-
+ods, it would be expected that the range of eGFR using the
+CKiD equation in the NHANES population would be close
+to that expected for healthy adolescents. However, 50%
+of the cohort had an eGFR 100 ml/min per 1.73 m2, and
+there may be several possible reasons for this. First, creat-
+inine assays, particularly Jaffe
+´, are known to be less precise
+at lower levels of creatinine typical of the healthy adoles-
+cent cohort we studied, and this could potentially lead to
+measurement error in creatinine, and thus GFR estimation
+(15). Second, as described in the Materials and Methods
+section, creatinine values obtained via a modified Jaffe
+´
+reaction by NHANES are compared with values in the
+same patient measured by a gold standard IDMS assay. If
+a difference exists, a correction is recommended by
+NHANES so that the creatinine values reflect those trace-
+able to the IDMS standard, as recommended by NKDEP. A
+difference existed for the 1999­2000 NHANES cycle, and a
+correction was recommended, but not for the 2001­2002
+cycle. The correction was made via a regression equation
+(see Materials and Methods section) and resulted in serum
+creatinine values being increased for half the cohort, and
+the percentage increase varied by the creatinine value. For
+a serum creatinine of 0.6, the correction led to a 20%
+increase in serum creatinine, and for a creatinine of 1.0, the
+increase was 14%. The differential in percentage increase of
+serum creatinine based on the correction would be ex-
+pected to slightly bias toward a greater increase in creati-
+nine among those with lower creatinines, and as the me-
+dian creatinine in this cohort was 0.7 mg/dl, this must be
+considered. However, the range of serum creatinine in this
+cohort was narrow, and the differential percentage in-
+crease based on the correction was also small. To deter-
+mine if this correction was responsible for the low eGFRs
+observed among the cohort, a subanalysis stratified the
+participants in 1999­2000 (corrected creatinine) and 2001­
+2002 (no correction). The distributions were similar to each
+other, and to the combined cohort: the 5th, 50th, and 95th
+percentiles for bedside CKiD eGFR for 1999­2000 were
+71.1, 97.8, and 130.6 ml/min per 1.73 m2; for 2001­2002
+they were 71.2, 96.0, and 132.3 ml/min per 1.73 m2; and for
+1999­2002 they were 71.1, 96.6, and 131.6 ml/min per
+1.73 m2, respectively.
+Finally, adult GFR estimating equations such as the
+Modification of Diet in Renal Disease (MDRD) have been
+shown to underestimate GFR among those with higher, or
+normal, GFRs (16,17,46), and this possibility should be
+considered with pediatric GFR estimating equations, al-
+though this has not yet been examined in detail (47). Mul-
+tiple reasons have been offered to explain why GFR esti-
+mating equations developed from populations with CKD
+may underestimate measured GFR in adults without CKD.
+Creatinine measurement error, especially at lower levels of
+creatinine, must be considered as described above. Varia-
+tions in serum creatinine in those without CKD may be
+more reflective of a difference in muscle mass, growth, or
+protein intake, and possibly measurement error, rather
+than the GFR. In contrast, creatinine variations among
+those with CKD are more likely to be representative of
+changes in GFR. Thus, the magnitude of the relationship
+between creatinine and GFR may be greater among those
+with CKD compared with those without CKD (3,16,46).
+The novel Chronic Kidney Disease Epidemiology Collab-
+oration (CKD-EPI) equation was developed in adults to be
+as accurate as the MDRD equation at lower GFRs and more
+accurate at higher GFRs (48). To accomplish this, the CKD-
+EPI equation included more participants with higher
+GFRs; the CKD-EPI development data set mean GFR (SD)
+Table 6. Percentile distribution of eGFRs by select estimating equations for entire population and population dichotomized as obese and
+nonobese
+1st 5th 10th 25th 50th 75th 90th 95th 99th
+Leger et al.
+entire population 77.6 87.7 94.4 105.8 122.2 139.2 156.9 170.7 195.7
+obese 80.5 86.8 90.6 103.2 119.6 134.4 153.3 165.4 182.8
+nonobese 77.4 88.3 95.0 106.4 123.0 139.9 157.8 171.6 195.8
+Filler et al.
+entire population 74.0 85.8 90.6 101.9 112.9 126.6 141.3 148.6 172.2
+obese 72.6 80.7 88.6 97.1 107.1 119.4 130.5 141.3 151.2
+nonobese 74.7 86.7 91.6 101.9 112.9 128.5 141.3 151.2 172.2
+Grubb et al.
+entire population 62.3 80.6 90.7 106.3 130.1 157.1 189.1 208.4 261.7
+obese 67.0 80.6 83.3 103.0 125.8 147.1 170.5 185.9 248.1
+nonobese 62.3 80.6 90.7 107.0 131.4 158.0 194.3 208.4 261.7
+Bouvet et al.
+entire population 72.3 79.6 83.6 92.4 104.6 116.6 128.5 134.3 150.6
+obese 66.4 73.4 74.4 80.6 88.7 99.2 108.7 114.2 122.8
+nonobese 75.2 82.2 86.5 96.2 107.5 118.0 129.8 136.9 153.5
+Zappitelli et al.
+entire population 69.0 74.8 78.5 87.2 97.6 110.0 119.1 126.8 140.2
+obese 69.8 76.6 77.0 85.1 94.4 102.5 114.2 119.1 127.8
+nonobese 69.0 74.8 79.2 87.9 98.8 110.9 119.9 127.3 141.7
+Obesity defined as 95th percentile for BMI.
+All eGFRs in ml/min per 1.73 m2.
+Clin J Am Soc Nephrol 6: 1427­1435, June, 2011 Pediatric GFR Estimating Equations, Fadrowski et al. 1433
+was 68 (40) ml/min per 1.73 m2, compared with 39.8 (21.2)
+in the MDRD cohort (49). Additionally, a spline term is
+included in the CKD-EPI equation that accounts for a
+weaker relationship between creatinine and GFR at lower
+creatinine levels than at higher levels. It is anticipated that
+the CKD-EPI equation should lead to more accurate esti-
+mates of eGFR and the burden of CKD in the adult U.S.
+population (48). Studies including formal GFR measure-
+ment in children with normal kidney function are needed
+to confirm age- and sex-specific normative values, and
+evaluate the accuracy of current pediatric GFR estimating
+equations at higher or normal levels of GFR (50).
+Accurate estimation of GFR in children has obvious
+clinical and research benefits. This analysis underscores
+that appropriate application of pediatric estimating equa-
+tions requires an understanding of the creatinine and cys-
+tatin C laboratory methods used in a given clinical or
+research setting and the methods used to develop the
+equations. Efforts by NKDEP to standardize laboratory
+assay calibrators will help minimize the measurement vari-
+ation that affects the accuracy of all GFR estimating equa-
+tions. The novel CKiD GFR estimating equations have been
+shown to have excellent precision and accuracy at GFRs
+between 15 and 75 ml/min per 1.73 m2 (4). The precision
+and accuracy in children with higher or normal GFRs
+cannot be fully addressed in this analysis because of the
+lack of formally measured GFR. However, the low range of
+eGFR in this healthy population without evidence of CKD
+observed in this study is of interest. From a CKD screening
+standpoint, the Laboratory Working Group of NKDEP rec-
+ommends reporting eGFR values above 60 ml/min per
+1.73 m2 as "60 ml/min per 1.73 m2" in adults (14). There
+is no pediatric-specific recommendation, but the NKDEP
+eGFR calculator currently reports "75 ml/min per 1.73
+m2" for GFRs 75 using the beside CKiD equation (40). On
+the basis of this study, approximately 9% of the adolescent
+population may fall below 75 ml/min per 1.73 m2 using
+the bedside CKiD equation, and the broader clinical con-
+text should be considered while evaluating this population
+for CKD. The population-based eGFR percentiles for each
+equation provided in Table 3 may help clinicians deter-
+mine the normal range of eGFR, and thus better identify
+children at risk for loss of kidney function. However, clin-
+ical validation of eGFR in the general pediatric population
+is needed before using these equations to screen for CKD
+whenever a serum creatinine or cystatin C is obtained.
+Acknowledgments
+This work was supported by grant K23ES016514 from the National
+Institute of Environmental Health Science (Dr. Fadrowski), grant
+K24DK078737 from the National Institute of Diabetes and Digestive
+and Kidney Diseases (Dr. Furth), and grants U01DK82194 (Dr.
+Schwartz) and U01DK066174 (Dr. Furth) to the National Institute of
+Diabetes and Digestive and Kidney Diseases/National Heart, Lung
+and Blood Institute/The Eunice Kennedy Shriver National Institute
+of Child Health and Human Development-supported Chronic Kid-
+ney Disease in Children prospective cohort study.
+Disclosures
+None.
+References
+1. Hogg RJ, Furth S, Lemley KV, Portman R, Schwartz GJ,
+Coresh J, Balk E, Lau J, Levin A, Kausz AT, Eknoyan G, Levey
+AS: National Kidney Foundation's Kidney Disease Outcomes
+Quality Initiative clinical practice guidelines for chronic kid-
+ney disease in children and adolescents: Evaluation, classifi-
+cation, and stratification. Pediatrics 111: 1416­1421, 2003
+2. Schwartz GJ, Furth SL: Glomerular filtration rate measure-
+ment and estimation in chronic kidney disease. Pediatr Neph-
+rol 22: 1839­1848, 2007
+3. Stevens LA, Coresh J, Greene T, Levey AS: Assessing kidney
+function­measured and estimated glomerular filtration rate.
+N Engl J Med 354: 2473­2483, 2006
+4. Schwartz GJ, Work DF: Measurement and estimation of GFR
+in children and adolescents. Clin J Am Soc Nephrol 4: 1832­
+1843, 2009
+5. Levey AS, Andreoli SP, DuBose T, Provenzano R, Collins AJ:
+CKD: Common, harmful, and treatable­World Kidney Day
+2007. Am J Kidney Dis 49: 175­179, 2007
+6. Coresh J, Selvin E, Stevens LA, Manzi J, Kusek JW, Eggers P,
+Van Lente F, Levey AS: Prevalence of chronic kidney disease
+in the United States. JAMA 298: 2038­2047, 2007
+7. Hunsicker LG, Adler S, Caggiula A, England BK, Greene T,
+Kusek JW, Rogers NL, Teschan PE: Predictors of the progres-
+sion of renal disease in the Modification of Diet in Renal Dis-
+ease Study. Kidney Int 51: 1908­1919, 1997
+8. Wright JT Jr., Bakris G, Greene T, Agodoa LY, Appel LJ,
+Charleston J, Cheek D, Douglas-Baltimore JG, Gassman J,
+Glassock R, Hebert L, Jamerson K, Lewis J, Phillips RA, Toto
+RD, Middleton JP, Rostand SG: Effect of blood pressure low-
+ering and antihypertensive drug class on progression of hy-
+pertensive kidney disease: Results from the AASK trial. JAMA
+288: 2421­2431, 2002
+9. Din-Dzietham R, Liu Y, Bielo MV, Shamsa F: High blood
+pressure trends in children and adolescents in national sur-
+veys, 1963 to 2002. Circulation 116: 1488­1496, 2007
+10. Sorof JM, Lai D, Turner J, Poffenbarger T, Portman RJ: Over-
+weight, ethnicity, and the prevalence of hypertension in
+school-aged children. Pediatrics 113: 475­482, 2004
+11. Sorof J, Daniels S: Obesity hypertension in children: A prob-
+lem of epidemic proportions. Hypertension 40: 441­447,
+2002
+12. McNiece KL, Poffenbarger TS, Turner JL, Franco KD, Sorof
+JM, Portman RJ: Prevalence of hypertension and pre-hyper-
+tension among adolescents. J Pediatr 150: 640­644, 644.e,
+2007
+13. Srivastava T, Alon US, Althahabi R, Garg U: Impact of stan-
+dardization of creatinine methodology on the assessment of
+glomerular filtration rate in children. Pediatr Res 65: 113­
+116, 2009
+14. Myers GL, Miller WG, Coresh J, Fleming J, Greenberg N,
+Greene T, Hostetter T, Levey AS, Panteghini M, Welch M,
+Eckfeldt JH: Recommendations for improving serum creati-
+nine measurement: A report from the Laboratory Working
+Group of the National Kidney Disease Education Program.
+Clin Chem 52: 5­18, 2006
+15. Schwartz GJ, Kwong T, Erway B, Warady B, Sokoll L, Heller-
+stein S, Dharnidharka V, Furth S, Munoz A: Validation of cre-
+atinine assays utilizing HPLC and IDMS traceable standards
+in sera of children. Pediatr Nephrol 24: 113­119, 2009
+16. Poggio ED, Wang X, Greene T, Van Lente F, Hall PM: Perfor-
+mance of the modification of diet in renal disease and Cock-
+croft-Gault equations in the estimation of GFR in health and
+in chronic kidney disease. J Am Soc Nephrol 16: 459­466,
+2005
+17. Rule AD, Larson TS, Bergstralh EJ, Slezak JM, Jacobsen SJ,
+Cosio FG: Using serum creatinine to estimate glomerular fil-
+tration rate: Accuracy in good health and in chronic kidney
+disease. Ann Intern Med 141: 929­937, 2004
+18. Rule AD, Gussak HM, Pond GR, Bergstralh EJ, Stegall MD,
+Cosio FG, Larson TS: Measured and estimated GFR in healthy
+potential kidney donors. Am J Kidney Dis 43: 112­119, 2004
+19. U.S. Renal Data System, USRDS 2009 Annual Data Report:
+Atlas of Chronic Kidney Disease and End-Stage Renal Disease
+in the United States. Renal function measures in the adoles-
+1434 Clinical Journal of the American Society of Nephrology
+cent NHANES population, Vol. 1, Bethesda, MD, National
+Institutes of Health, National Institute of Diabetes and Diges-
+tive and Kidney Diseases, 2009, Chapter 2, pp 49­58
+20. Kottgen A, Selvin E, Stevens LA, Levey AS, Van Lente F,
+Coresh J: Serum cystatin C in the United States: The Third
+National Health and Nutrition Examination Survey (NHANES
+III). Am J Kidney Dis 51: 385­394, 2008
+21. National Center for Health Statistics, Centers for Disease
+Control and Prevention: NHANES 1999­2000 Data Docu-
+mentation. Lab 18-Biochemistry Profile. Available at: http://
+www.cdc.gov/nchs/data/nhanes/nhanes_99_00/lab18_doc.
+pdf. Accessed July 20, 2010
+22. Finney H, Newman DJ, Gruber W, Merle P, Price CP: Initial
+evaluation of cystatin C measurement by particle-enhanced
+immunonephelometry on the Behring nephelometer systems
+(BNA, BN II). Clin Chem 43: 1016­1022, 1997
+23. Schwartz GJ, Munoz A, Schneider MF, Mak RH, Kaskel F,
+Warady BA, Furth SL: New equations to estimate GFR in
+children with CKD. J Am Soc Nephrol 20: 629­637, 2009
+24. Counahan R, Chantler C, Ghazali S, Kirkwood B, Rose F,
+Barratt TM: Estimation of glomerular filtration rate from
+plasma creatinine concentration in children. Arch Dis Child
+51: 875­878, 1976
+25. Leger F, Bouissou F, Coulais Y, Tafani M, Chatelut E: Estima-
+tion of glomerular filtration rate in children. Pediatr Nephrol
+17: 903­907, 2002
+26. Schwartz GJ, Haycock GB, Edelmann CM Jr., Spitzer A: A
+simple estimate of glomerular filtration rate in children de-
+rived from body length and plasma creatinine. Pediatrics 58:
+259­263, 1976
+27. Schwartz GJ, Gauthier B: A simple estimate of glomerular
+filtration rate in adolescent boys. J Pediatr 106: 522­526,
+1985
+28. Filler G, Lepage N: Should the Schwartz formula for estima-
+tion of GFR be replaced by cystatin C formula? Pediatr Neph-
+rol 18: 981­985, 2003
+29. Grubb A, Nyman U, Bjork J, Lindstrom V, Rippe B, Sterner
+G, Christensson A: Simple cystatin C-based prediction equa-
+tions for glomerular filtration rate compared with the modifi-
+cation of diet in renal disease prediction equation for adults
+and the Schwartz and the Counahan-Barratt prediction equa-
+tions for children. Clin Chem 51: 1420­1431, 2005
+30. Bouvet Y, Bouissou F, Coulais Y, Seronie-Vivien S, Tafani M,
+Decramer S, Chatelut E: GFR is better estimated by consider-
+ing both serum cystatin C and creatinine levels. Pediatr
+Nephrol 21: 1299­1306, 2006
+31. Zappitelli M, Parvex P, Joseph L, Paradis G, Grey V, Lau S,
+Bell L: Derivation and validation of cystatin C-based predic-
+tion equations for GFR in children. Am J Kidney Dis 48: 221­
+230, 2006
+32. Haycock GB, Schwartz GJ, Wisotsky DH: Geometric method
+for measuring body surface area: A height-weight formula
+validated in infants, children, and adults. J Pediatr 93: 62­66,
+1978
+33. Centers for Disease Control and Prevention: About BMI for
+Children and Teens. Available at: http://www.cdc.gov/
+healthyweight/assessing/bmi/childrens_bmi/about_childrens_
+bmi.html. Accessed December 16, 2010
+34. Perloff D, Grim C, Flack J, Frohlich ED, Hill M, McDonald
+M, Morgenstern BZ: Human blood pressure determination by
+sphygmomanometry. Circulation 88: 2460­2470, 1993
+35. National High Blood Pressure Education Program Working
+Group on High Blood Pressure in Children and Adolescents.
+The fourth report on the diagnosis, evaluation, and treatment
+of high blood pressure in children and adolescents. Pediatrics
+114: 555­576, 2004
+36. Chavers BM, Simonson J, Michael AF: A solid phase fluores-
+cent immunoassay for the measurement of human urinary
+albumin. Kidney Int 25: 576­578, 1984
+37. Nathan DG, Orkin SH: Nathan and Oski's Hematology of
+Infancy and Childhood, 5th Ed., edited by Nathan DG, Orkin
+SH, Oski FA, Philadelphia, WB Saunders, 1998
+38. Centers for Disease Control and Prevention: Other Growth
+Chart Resources. Available at: http://www.cdc.gov/nccdphp/
+dnpao/growthcharts/resources/index.htm. Accessed July 20,
+2010
+39. National Center for Health Statistics, Centers for Disease Control
+and Prevention. National Health and Nutrition Examination Survey.
+1999­2000 Data documentation, codebook, and frequencies. Cys-
+tatin C (surplus sera). Available at: http://www.cdc.gov/nchs/nhanes/
+nhanes1999­2000/SSCYST_A.htm. Accessed March 8, 2011.
+40. National Kidney Disease Education Program: Laboratory Pro-
+fessionals. Estimating and Reporting GFR. Calculating Esti-
+mated GFR for Children. Available at: http://nkdep.nih.gov/
+labprofessionals/labgfr_children.htm. Accessed July 1, 2010
+41. Brodehl J, Gellissen K, Weber HP: Postnatal development of
+tubular phosphate reabsorption. Clin Nephrol 17: 163­171,
+1982
+42. Gibb DM, Dalton NR, Barratt MT: Measurement of glomeru-
+lar filtration rate in children with insulin-dependent diabetes
+mellitus. Clin Chim Acta 182: 131­139, 1989
+43. Kyhse-Andersen J, Schmidt C, Nordin G, Andersson B,
+Nilsson-Ehle P, Lindstrom V, Grubb A: Serum cystatin C, de-
+termined by a rapid, automated particle-enhanced turbidimet-
+ric method, is a better marker than serum creatinine for glo-
+merular filtration rate. Clin Chem 40: 1921­1926, 1994
+44. Newman DJ: Cystatin C. Ann Clin Biochem 39: 89­104,
+2002
+45. National Kidney Disease Education Program: Laboratory Pro-
+fessionals. Update on Cystatin C. Available at: http://www.
+nkdep.nih.gov/labprofessionals/update-cystatin-c.htm. Ac-
+cessed December 18, 2010
+46. Stevens LA, Coresh J, Feldman HI, Greene T, Lash JP, Nelson
+RG, Rahman M, Deysher AE, Zhang YL, Schmid CH, Levey
+AS: Evaluation of the modification of diet in renal disease
+study equation in a large diverse population. J Am Soc Neph-
+rol 18: 2749­2757, 2007
+47. Lemley KV: Pediatric nephrology: Estimating GFR in children:
+Schwartz redux. Nat Rev Nephrol 5: 310­311, 2009
+48. Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF 3rd,
+Feldman HI, Kusek JW, Eggers P, Van Lente F, Greene T,
+Coresh J: A new equation to estimate glomerular filtration
+rate. Ann Intern Med 150: 604­612, 2009
+49. Levey AS, Bosch JP, Lewis JB, Greene T, Rogers N, Roth D: A
+more accurate method to estimate glomerular filtration rate
+from serum creatinine: A new prediction equation. Modifica-
+tion of Diet in Renal Disease Study Group. Ann Intern Med
+130: 461­470, 1999
+50. Staples A, LeBlond R, Watkins S, Wong C, Brandt J: Valida-
+tion of the revised Schwartz estimating equation in a predom-
+inantly non-CKD population. Pediatr Nephrol 25: 2321­2326
+Received: July 29, 2010 Accepted: February 9, 2011
+Published online ahead of print. Publication date available at
+www.cjasn.org.
+Clin J Am Soc Nephrol 6: 1427­1435, June, 2011 Pediatric GFR Estimating Equations, Fadrowski et al. 1435
+

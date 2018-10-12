@@ -1,0 +1,633 @@
+SAGE Open
+July-September 2013: 1
+­7
+© The Author(s) 2013
+DOI: 10.1177/2158244013504207
+sgo.sagepub.com
+Article
+Domestic Violence as a Public Health
+Problem
+Domestic violence (typically violence against women) is
+acknowledged as a "major public health problem and viola-
+tion of women's human rights" (World Health Organization
+[WHO], 2011). The WHO Multi-country study on women's
+health and domestic violence against women (García-Moreno,
+Jansen, Ellsberg, Heise, & Watts, 2005) found that domestic
+violence is highly prevalent across cultures and represents a
+major burden to the health of women. Not only is it associated
+with immediate physical consequences (lacerations, contu-
+sions, fractures, etc.) but also with a wide range of chronic
+physical health outcomes and mental health issues, some-
+times manifesting as physical symptoms (García-Moreno
+et al., 2005). Despite this, Vine, Elliott, and Keller-Olaman
+(2010) note that it is proving difficult "to place domestic vio-
+lence on the policy and/or public health agenda" (p. 339).
+Moreover, the Director-General of the WHO has highlighted
+the need to raise awareness of domestic violence to further
+our understanding of the problem, and implement appropriate
+interventions (García-Moreno et al., 2005).
+Domestic Violence in Scotland
+Reliable prevalence rates for domestic violence are notori-
+ously difficult to obtain with systematic underreporting by
+victims and political denial often contributing to spuriously
+low figures. However, the Scottish Government acknowl-
+edges that domestic abuse1 is at an unacceptable level
+(Scottish Government, 2009), and recent statistics indicate a
+year-on-year increase in incidents of domestic abuse reported
+to the police2 between 2002 and 2003 (35,877) and 2011 and
+2012 (59,847). The majority of these incidents occurred in
+the Strathclyde Police jurisdiction,3 with the majority of vic-
+tims being female (Scottish Government, 2012). Further,
+recent media reports (e.g., BBC, 2009, 2011a, 2011b, 2011c)
+have documented an apparent increase in the number of
+domestic incidents4 reported to Strathclyde Police each time
+the two biggest football (soccer) clubs in Scotland, Glasgow
+Rangers5 and Celtic (traditionally referred to as the "Old
+Firm") play one another.
+Sport-Related Domestic Violence
+Although much of the literature on sport and domestic vio-
+lence has focused on partner abuse by male athletes (Young,
+504207
+SGOXXX10.1177/2158244013504207SAGE OpenWilliams et al.
+research-article2013
+1University of St. Andrews, UK
+2University of Cambridge, UK
+Corresponding Author:
+Damien J. Williams, School of Medicine, University of St. Andrews, North
+Haugh, St. Andrews, KY16 9TF, UK.
+Email: djw11@st-andrews.ac.uk
+Association Between Old Firm Football
+Matches and Reported Domestic
+(Violence) Incidents in Strathclyde,
+Scotland
+Damien J. Williams1, Fergus G. Neville1, Kirsty House2, and
+Peter D. Donnelly1
+Abstract
+Media reports have suggested that the number of reports of domestic violence may increase when Scotland's two largest,
+Glasgow-based football (soccer) clubs, Rangers and Celtic (traditionally referred to as the "Old Firm") play one another.
+This study considers the number of domestic (violence) incidents reported to Strathclyde Police between 2008 and 2011
+in the 24 hours following these matches, and compares it with the number reported during two appropriate comparator
+periods. There is a statistically significant increase in the number of reports following Old Firm matches compared with the
+comparator periods. This preliminary analysis confirms previous speculation concerning the association between Old Firm
+matches and reports of domestic violence, and highlights the need to better understand the factors leading to such violence
+to inform preventive interventions.
+Keywords
+Old Firm, football, sport-related violence, domestic violence, violence prevention
+2 SAGE Open
+2012), there is evidence of a link between sporting events
+and increased levels of domestic violence in wider society
+(Brimicombe & Café, 2012). Palmer (2011) discusses the
+role of the "holy trinity" (see Wenner, 1998) of sports, alco-
+hol, and hegemonic masculinity in the context of domestic
+violence. Sporting events are commonly associated with
+excessive alcohol consumption (e.g., Crawford et al., 2001).
+The disinhibiting effects of alcohol mean that certain indi-
+viduals may become more prone to impulsive behaviors
+(Klostermann & Fals-Stewart, 2006) and be driven by the
+contextualized emotional cues of a sports event to perpetrate
+domestic violence. Furthermore, Palmer (2011) indicates
+that certain aggressive team sporting events are associated
+with "increased competitive tensions and aggressive forms
+of masculinity" (p. 15). The expression of this masculine
+identity can take the form of unprovoked and often spontane-
+ous outbursts of violence both publicly and privately. Indeed,
+Radford and Hudson (2005) identify the danger to women
+(and children) of the heavily masculinist values that can hold
+together supporters of a local sport team. In addition, tele-
+vised sporting events may exacerbate the problem by pro-
+moting the expression of masculinity and alcohol
+consumption (either unrestricted at home, or in licensed
+premises where there are fewer constraints than at sporting
+venues; see Gantz, Bradley, & Wang, 2006) among a large
+number of individuals.
+Much of the work supporting the association between
+sport and domestic violence has been limited to the United
+States andAmerican football (e.g., Card & Dahl, 2011; Gantz
+et al., 2006; Nelson, 1994; White, Katz, & Scarborough,
+1992). What is more, various studies have failed to find an
+association between sport and domestic violence in different
+contexts (e.g., Braaf & Gilbert, 2007; Sachs & Chu, 2000),
+therefore questioning the reliability of the association and
+generalizability to other sports and countries. It has been rec-
+ommended that further research is required to analyze and
+interpret any possible association between sport and domes-
+tic violence (Palmer, 2011). Indeed, there is a particular pau-
+city of such research in the United Kingdom (cf. Radford &
+Hudson, 2005). One area in particular need of rigorous study
+is the relationship between Old Firm football matches and
+domestic violence.
+Old Firm and Domestic Violence
+The Old Firm fixture between Glasgow Rangers and Celtic
+has long-standing connections with conflictual political and
+religious identities (see Murray, 1984). As a consequence,
+matches between the two teams have often been blighted by
+incidents of collective violence and sectarianism (Carnochan
+& McCluskey, 2011). More recently, however, there has
+been increasing concern regarding the impact of this fixture
+on violence against women. Indeed, the fact that the First
+Minister of Scotland was questioned on the issue in the
+Scottish Parliament on March 3, 2011, highlights political
+perceptions of the severity of the issue (Scottish Parliament,
+2011). Moreover, in the same month, a Joint Action Group
+(JAG) was established "to maintain and protect the good
+reputation of Scottish football and to contribute positively to
+efforts to tackle wider social issues--in particular alcohol
+misuse, violence and bigotry" (p. 1), with a specific interest
+in "improving an understanding of the relationship between
+football and domestic abuse" (p. 4), particularly around Old
+Firm matches (JAG, 2011).
+Evidence for Old Firm­Related
+Domestic Violence
+In Scotland, concern regarding the apparent increase in the
+number of reports of domestic incidents associated with Old
+Firm matches has arisen in response to media reports based
+on Strathclyde Police data. However, there are a number of
+limitations in the analyses described in these media reports.
+First, figures for individual Old Firm matches are generated
+for the whole weekend or the day after the match. These are
+then crudely compared with those of an "average"6 weekend
+(BBC, 2011b) or an individual day after the match with the
+same day the previous week (BBC, 2011c). Both these
+approaches are limited due to insufficient data points, and the
+former is also potentially confounded due to seasonality
+effects evident in trends of domestic violence (e.g., Braaf &
+Gilbert, 2007; Farrell & Pease, 1994). To mitigate these
+issues, it is necessary to make comparisons between a greater
+number of data points with comparable time periods (e.g.,
+the same day of the week and time of day). Second, no
+attempt has been made to explore whether the association is
+simply the result of high-profile football matches being
+played in the city (and related underlying variables that could
+account for increased levels of domestic abuse), such as
+through a comparison of Old Firm matches with Scotland
+International matches played at Hampden Park in Glasgow.
+Both these occasions present an opportunity for excessive
+consumption of alcohol and the expression of hegemonic
+masculinity, which have been associated with incidents of
+sport-related domestic violence.
+This study represents a preliminary analysis of reported
+domestic incidents in the Strathclyde Police jurisdiction. A
+comparison is made between Old Firm matches and two sets
+of comparator data: non­Old Firm days, seven days after a
+match, to investigate the impact of Old Firm matches, and
+Scotland Internationals (played at Hampden Park, in
+Glasgow), to investigate the potential impact of high-profile
+football matches in the city. We hypothesize that the number
+of reported domestic incidents will be significantly higher
+for the Old Firm condition than the non­Old Firm compara-
+tor. Due to the unknown impact of high-profile football
+matches in the city, we reserve prediction as to whether the
+Old Firm condition will differ from the Scotland International
+condition, and whether this in turn will differ from non-
+Scottish International comparator days 1 week after matches.
+Williams et al. 3
+Method
+Data comprised anonymized reports of domestic incidents to
+Strathclyde Police for the period January 1, 2008, to
+December 31, 2011. This included
+Any form of physical, sexual or mental and emotional abuse
+which might amount to criminal conduct and which takes place
+within the context of a relationship . . . between partners
+(married, co-habiting, civil partnership or otherwise) or
+ex-partners. The abuse can be committed in the home or
+elsewhere. (Police Scotland, n.d.)
+In total there were 111,474 reported incidents across the 4
+years (see Table 1).
+To compare the reports of domestic incidents, four cate-
+gories of data were created.
+·
+· Old Firm: Reported incidents were calculated for the
+24 hour period following the kick-off (start of play)
+for each Old Firm match, including league (n = 17)
+and cup ties (n = 4), which were identified from the
+Scottish Premier League, Scottish Football
+Association, and Scottish Football League websites.
+·
+· Old Firm comparator: For each Old Firm match, the
+exact same 24 hour period seven days after the match
+was taken as its comparator (e.g., the Old Firm match
+played on Saturday March 29, 2008, was compared
+with data for Saturday April 5, 2008).
+·
+· Scotland International: Reported incidents were cal-
+culated for the 24 hour period following the kick-off
+for each Scotland International match, including com-
+petitive (n = 8) and friendly (n = 5) games played at
+Hampden Park in Glasgow, which were identified
+from the Scottish Football Association website.
+·
+· Scotland international comparator: For each Scotland
+International match, the exact same 24 hour period
+seven days after the match was taken as its compara-
+tor (e.g., the Scotland International match played on
+Saturday September 5, 2009, was compared with data
+for Saturday September 12, 2009).
+All dates are shown in the appendix. Although a check
+was made that there was no clash between a comparator date
+and another Old Firm match or Scotland International, no
+consideration was made for whether another football match
+was being played in Glasgow, or whether either Rangers or
+Celtic were playing other rival teams. Comparator data for
+the Old Firm match held on December 28, 2011, was unavail-
+able (the data set did not extend to 2012), and so the com-
+parator was taken as seven days prior to the match for this
+one instance.
+The count of reported domestic incidents associated with
+each data point was taken from the time of kick-off for a 24
+hour period. Thus, for an Old Firm match that kicked-off at
+12.30 p.m. on a Sunday, all reported incidents from 12.30 p.m.
+Sunday to 12.29 p.m. Monday were included. This approach
+was chosen for consistency across groups and to ensure that
+each data point passed through a 24 hour cycle. Keeping this
+time period consistent and matching each football fixture with
+a comparator taken from the same day of the week ensured that
+comparator conditions were as similar as possible (accounting
+for other background variables) to the match days (Old Firm
+and Scotland International matches). Counts were undertaken
+independently by D.J.W. and F.G.N. and any inconsistencies
+checked. Data analysis was likewise undertaken independently
+by D.J.W. and F.G.N., using SPSS version 19.
+Results
+Table 2 shows the descriptive statistics for each of the four
+conditions. It is evident from the data that for both measures
+of central tendency the Old Firm condition had the highest
+number of reports of domestic incidents, with the remaining
+three conditions having similar numbers of reports.
+Exploration of the characteristics of the data set indicated
+that there was some deviation from normality and equality of
+variance suggesting that the core assumptions for undertak-
+ing ANOVA were not met. Thus, the nonparametric equiva-
+lent independent-sample Kruskal­Wallace test was
+undertaken to compare reported domestic incidents between
+the four conditions, 2(3, N = 68) = 26.43, p < .001.
+Subsequent comparisons using an adjusted alpha (to account
+for the multiple comparisons) identified the location of the
+difference (see Figure 1).
+It was found that the median number of reported domestic
+incidents was significantly greater in the Old Firm condition,
+compared with the Old Firm comparator and both Scotland
+International conditions. Moreover, there was no statistical
+Table 1. Total Number of Reported Domestic Incidents for
+Each of the Four Study Years.
+Year Total number of reports
+2008 28,367
+2009 28,106
+2010 26,416
+2011 28,585
+Table 2. Descriptive Statistics.
+Reports of domestic incidents
+Condition N M SD Median Range
+Old Firm 21 118.48 25.02 121.00 72-164
+Old Firm comparator 21 73.29 22.01 66.00 44-133
+Scotland International 13 78.69 22.07 72.00 51-123
+Scotland International
+comparator
+13 78.38 21.21 78.38 54-117
+4 SAGE Open
+difference between the Scotland International and Scotland
+International comparator conditions. Additional compari-
+sons indicated a statistically significant difference between
+Old Firm and Scotland International comparator conditions,
+but none between Scotland International and Old Firm com-
+parator conditions.
+Discussion
+Recent data from the Scottish Government (2012) indicate
+the increasingly visible problem of domestic abuse in
+Scotland. What is more, these data indicate that the problem
+is most prevalent in the Strathclyde Police jurisdiction
+(which includes Scotland's largest city, Glasgow) and mostly
+has an effect on females. There is also mounting concern
+over an apparent increase in levels of domestic abuse associ-
+ated with Old Firm matches (see BBC, 2009, 2011a, 2011b,
+2011c; JAG, 2011). However, this link has been reported in
+the media based on crude comparisons of limited data sets.
+The aim of this initial study was to develop a robust analyti-
+cal approach to undertake a preliminary exploration of the
+association between Old Firm matches and reported domes-
+tic incidents in the Strathclyde Police area.
+The current study compared reported domestic incidents
+for the 24 hours following all 21 Old Firm matches between
+2008 and 2011, with comparator conditions. First, the num-
+ber of reported incidents associated with Old Firm matches
+was significantly greater than the number of incidents
+recorded seven days later (non­Old Firm days), thereby con-
+firming our hypothesis. Second, there was no difference in
+the number of reported incidents associated with Scotland
+International matches hosted in Glasgow and the number of
+incidents reported seven days later (when there was no
+Scotland International match). Finally, there were signifi-
+cantly more reported incidents associated with Old Firm
+matches than Scotland International matches. These findings
+suggest that there were a greater number of reported domes-
+tic incidents associated with Old Firm matches. The fact that
+there was no significant difference in the number of reported
+incidents following Scotland Internationals suggests that the
+Old Firm difference is not merely due to the presence of a
+high-profile football match in the city (and potentially the
+excessive alcohol consumption and hegemonic masculinity
+often associated with such events). The significant difference
+between the numbers of reported incidents during the 24
+hours following an Old Firm match compared with the same
+period seven days later, suggests that the effect is not a con-
+sequence of seasonality or weekday differences in domestic
+violence.
+The comparisons between the Old Firm and Old Firm
+comparator, and Scotland International and Scotland
+International comparator conditions, provide compelling
+evidence of an effect of the Old Firm matches on reports of
+domestic incidents. However, the analysis does have a num-
+ber of limitations. First, the comparison between the Old
+Firm and Scotland International conditions should be inter-
+preted with a degree of caution because there were almost
+half the number of data points in the latter, and the days and
+time cycles (i.e., start and finish times) for which reported
+incidents were calculated are not directly comparable: the
+majority of Scotland International matches were played mid-
+week during the evening, whereas the majority of the Old
+Firm matches were played on the weekend, mid-afternoon.
+Furthermore, five of the 13 Scotland Internationals were
+friendly matches compared with the competitive nature of
+each of the Old Firm matches. Although we acknowledge
+these differences as not representing a like-for-like compari-
+son, we do believe these matches still represent a useful
+comparator.
+In addition, the follow-up period of 24 hours may be too
+short to capture all associated reports of domestic incidents,
+and exclude relevant incidents reported prior to kick-off.
+However, our approach offers many advantages over the
+analytical method used in previous reports. First, an impor-
+tant consideration when inferring an association is the issue
+of temporality. With this in mind, it was felt that incidents
+reported after the start of a football match were more likely
+to be associated with that game than those that occurred prior
+to the start of the match.7 The association of reports of
+domestic incidents in the lead up to matches could, however,
+be a worthy topic for future research. What is more, our
+approach is preferable to previous analyses which examined
+whole weekends as single data points (as was the case in
+BBC, 2011b), thereby making the assumption that an inci-
+dent reported in the early hours of Saturday morning was
+relevant to an Old Firm match that was not played until mid-
+afternoon on the Sunday.
+Finally, it is acknowledged that police data may underes-
+timate the true level of domestic violence as not all incidents
+are reported. Indeed, it has been recommended that health
+data be used in violence research as it provides a more valid
+indicator of levels of violence (e.g., Florence, Shepherd,
+Figure 1. Statistical outcome of the multiple comparisons of the
+four conditions.
+Williams et al. 5
+Brennan, & Thomas, 2011), and sport-related violence spe-
+cifically (Sivarajasingam, Moore, & Shepherd, 2005).
+However, there are limitations in this approach such as cap-
+turing incidents among outpatients (see Carnochan &
+McCluskey, 2011) unless specific surveillance systems are
+set-up to collect the necessary data.8 Although our approach
+may underestimate the true impact of Old Firm matches on
+domestic violence, it nonetheless offers a conservative esti-
+mate of the severity of the problem, and any underestimation
+is likely to be consistent between our conditions.
+We echo Palmer's (2011) call for further research to inter-
+pret and understand the association between sport and
+domestic violence. In the context of the Old Firm, we advo-
+cate a mixed-methods approach. First, by undertaking a more
+thorough analysis of the available police data (i.e., the impact
+of time, location, outcome of match, and location of reported
+incident) and cross-referencing this with health data, it will
+be possible to conduct a more fine-grained analysis of the
+phenomenon. Second, future research should also involve
+the collection of primary data (including the use of qualita-
+tive methods) to further unpick the narratives of sport-related
+domestic violence. In the specific case of the Old Firm, this
+would include consideration of the traditionally antagonistic
+and politically complex nature of the fixture (see Murray,
+1984).
+In summary, this article describes an initial study, which
+concludes that there is a significant association between Old
+Firm football matches and reports of domestic incidents in the
+largest police jurisdiction in Scotland. Although our analysis
+precludes identification of the mechanism of this relationship,
+we do suggest that the Old Firm effect is not merely due to the
+presence of a high-profile football match in the city (and
+potentially the excessive alcohol consumption and expression
+of hegemonic masculinity that is often associated with such
+events), or seasonality, or weekday effects. Nonetheless, we
+acknowledge the limitations of the approach adopted and
+identify avenues for further work to better understand this
+association. It is hoped that such work will not only inform
+preventive interventions to tackle the association between
+Old Firm football matches and domestic violence, but will
+add to the literature advocating for prevention efforts to
+address sport-related domestic violence more generally.
+Appendix
+Data Points for Each Condition
+Old Firm Old Firm comparator Scotland International Scotland International comparator
+29/03/2008 05/04/2008 26/03/2008 02/04/2008
+16/04/2008 23/04/2008 20/08/2008 27/08/2008
+27/04/2008 04/05/2008 11/10/2008 18/10/2008
+31/08/2008 07/09/2008 19/11/2008 26/11/2008
+27/12/2008 03/01/2009 01/04/2009 08/04/2009
+15/02/2009 22/02/2009 05/09/2009 12/09/2009
+15/03/2009 22/03/2009 09/09/2009 16/09/2009
+09/05/2009 16/05/2009 03/03/2010 10/03/2010
+04/10/2009 11/10/2009 07/09/2010 14/09/2010
+03/01/2010 10/01/2009 12/10/2010 19/10/2010
+28/02/2010 07/03/2010 10/08/2011 17/08/2011
+04/05/2010 11/05/2010 03/09/2011 10/09/2011
+24/10/2010 31/10/2010 06/09/2011 13/09/2011
+02/01/2011 09/01/2011 
+06/02/2011 13/02/2011 
+20/02/2011 27/02/2011 
+02/03/2011 09/03/2011 
+20/03/2011 27/03/2011 
+24/04/2011 01/05/2011 
+18/09/2011 25/09/2011 
+28/12/2011a 21/12/2011a 
+aComparator match taken as 7 days prior to target (Old Firm) match.
+6 SAGE Open
+Acknowledgments
+We would like to thank Will Linden of the Scottish Violence
+Reduction Unit for providing the raw data set.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+Funding
+The author(s) disclosed receipt of the following financial support
+for the research, authorship, and/or publication of this article: The
+project was partially funded by the Scottish Funding Council
+through the Scottish School of Public Health Research.
+Notes
+1. The terms domestic violence and domestic abuse are often
+used interchangeably. Although we favor the use of the for-
+mer, we will use the latter when referred to by other authors to
+reflect any nuance in usage between the two terms.
+2. This may not be indicative of a true increase in the level of
+domestic abuse, but rather an increase in the reporting of such
+incidents.
+3. Prior to the amalgamation of the eight regional forces into
+Police Scotland from April 1, 2013, Strathclyde Police was the
+largest regional police force in Scotland, and served the city of
+Glasgow, and the neighboring areas of Argyll and Bute; East,
+North, and South Ayrshire; East and West Dunbartonshire;
+Renfrewshire; East Renfrewshire; Inverclyde; and North and
+South Lanarkshire. The Strathclyde Police jurisdiction cov-
+ered an area of 13,624 km2 with a population of approximately
+2.25 million, which is 42.5% of Scotland's population, with
+Glasgow accounting for approximately 593,000 of Strathclyde
+residents (National Records for Scotland, 2011).
+4. ThetermdomesticincidentwasexclusivelyusedbyStrathclyde
+Police when recording any report of domestic abuse (personal
+communication, Scottish Violence Reduction Unit).
+5. In 2012 Rangers went out of business and were reformed as
+"The Rangers" in the Scottish Third Division. With Celtic
+remaining in the Scottish Premier League, they are unlikely
+to play one another until 2015, unless the teams draw each
+other in a cup competition or the leagues are substantially
+restructured.
+6. An average day/weekend is reported by the media as presum-
+ably being the mean number of incidents over the course of a
+year (e.g., BBC, 2011b).
+7. It is acknowledged that there is potential for reports of domes-
+tic incidents to occur prior to kick-off, which may be associ-
+ated with factors linked to the "pre-match build-up." However,
+there is no indication of how long before kick-off would be an
+appropriate follow-up period, and many incidents during the
+24 hour cycle (necessary to control for the influence of time of
+day) would most likely be unrelated to the fixture.
+8. We argue that police data provide an important perspective
+on the problem to which the addition of health and self-report
+data will facilitate a more complete understanding.
+References
+BBC. (2009, May 7). Old Firm domestic abuse warning.
+Retrieved from http://news.bbc.co.uk/1/hi/scotland/glasgow_
+and_west/8036197.stm
+BBC. (2011a, February 21). Old Firm domestic abuse arrests.
+Retrieved from http://www.bbc.co.uk/news/uk-scotland-
+glasgow-west-12527751
+BBC. (2011b, September 19). Police record a rise in "Old Firm
+domestic abuse" cases. Retrieved from http://www.bbc.co.uk/
+news/uk-scotland-glasgow-west-14978841
+BBC. (2011c, September 16). Police warn against Old Firm-
+related domestic violence. Retrieved from http://www.bbc.
+co.uk/news/uk-scotland-glasgow-west-14945746
+Braaf, R., & Gilbert, R. (2007). Domestic violence incident
+peaks: Seasonal factors, calendar events and sporting
+matches. Retrieved November 13, 2012, from the Australian
+Domestic and Family Violence Clearinghouse website http://
+www.adfvc.unsw.edu.au/PDF%20files/Stakeholder%20
+paper_%202.pdf
+Brimicombe, A., & Café, R. (2012). Beware, win or lose: Domestic
+violence and the World Cup. Significance, 9, 32-35.
+Card, D., & Dahl, G. B. (2011). Family violence and football: The
+effect of unexpected emotional cues on violent behaviour.
+Quarterly Journal of Economics, 126, 103-143.
+Carnochan, J., & McCluskey, K. (2011). Violence, culture and
+policing in Scotland. In D. Donnelly & K. Scott (Eds.), Policing
+Scotland (2nd ed., pp. 399-424). Abingdon, UK: Routledge.
+Crawford, M., Donnelly, J., Gordon, J., MacCallum, R., MacDonald,
+I., McNeill, M., . . .West, G. (2001). An analysis of consulta-
+tions with the crowd doctors at Glasgow Celtic football club,
+season 1999­2000. British Journal of Sports Medicine, 35,
+245-249.
+Farrell, G., & Pease, P. (1994). Crime seasonality: Domestic dis-
+putes and residential burglary in Merseyside 1988­90. British
+Journal of Criminology, 34, 487-498.
+Florence, C., Shepherd, J., Brennan, I., & Thomas, S. (2011).
+Effectiveness of anonymised information sharing and use in
+health service, police, and local government partnership for
+preventing violence related-injury: Experimental study and
+time series analysis. British Medical Journal, 342, d3313.
+Gantz, W., Bradley, S. D., & Wang, Z. (2006). Televised NFL
+games, the family, and domestic violence. In A. A. Raney &
+J. Bryant (Eds.), Handbook of sports and media (pp. 365-381).
+Mahwah, NJ: Lawrence Erlbaum.
+García-Moreno, C., Jansen, H. A. F. M., Ellsberg, M., Heise, L., &
+Watts, C. (2005). Multi-country study on women's health and
+domestic violence against women. Retrieved from http://www.
+who.int/gender/violence/who_multicountry_study/en/
+Joint Action Group. (2011). Progress report: July 2011-December
+2011. Retrieved from http://www.scotland.gov.uk/Resource/
+Doc/925/0123798.pdf
+Klostermann, K. C., & Fals-Stewart, W. (2006). Intimate partner
+violence and alcohol use: Exploring the role of drinking in part-
+ner violence and its implications for intervention. Aggression
+and Violent Behavior, 11, 587-597.
+Murray, B. (1984). The Old Firm: Sectarianism, sport and society
+in Scotland. Edinburgh, UK: John Donald Publishers.
+Williams et al. 7
+National Records for Scotland (2011). Scotland's Census 2011:
+Shaping our future. Retrieved from http://www.scotlandscen-
+sus.gov.uk/en/
+Nelson, M. B. (1994). The stronger women get, the more men love
+football. New York, NY: Harcourt Brace.
+Palmer, C. (2011). Violence against women and sport: A literature
+review. Retrieved from http://www.endviolenceagainstwomen.
+org.uk/data/files/evaw_violence_against_women_and_sport_
+dr_c_palmer_july_2011.pdf
+Police Scotland. (n.d.). Domestic abuse: What is domestic abuse?
+Retrieved from http://www.scotland.police.uk/keep-safe/
+advice-for-victims-of-crime/domestic-abuse/what-is-domes-
+tic-abuse/
+Radford, J., & Hudson, E. (2005). Balls and permissions: Theorising
+the link between football and domestic violence. In T. Skinner,
+M. Hester, & E. Malos (Eds.), Researching gender violence:
+Feminist methodology in action (pp. 190-210). Devon, UK:
+Willan Publishing.
+Sachs, C. J., & Chu, L. D. (2000). The association between
+professional football games and domestic violence in Los
+Angeles County. Journal of Interpersonal Violence, 15,
+1192-1201.
+Scottish Government. (2009). Safer lives: Changed lives. A shared
+approach to tackling violence against women in Scotland.
+Retrieved from http://www.scotland.gov.uk/Resource/
+Doc/274212/0082013.pdf
+Scottish Government. (2012). Domestic abuse recorded by the
+Police in Scotland, 2010-11 and 2011-12. Retrieved from
+http://www.scotland.gov.uk/Publications/2012/10/9283/down-
+loads
+Scottish Parliament. (2011). First Minister's question time:
+Secretary of State for Scotland (meetings). Retrieved from
+http://scottish.parliament.uk/parliamentarybusiness/28862.
+aspx?r=6228
+Sivarajasingam, V., Moore, S., & Shepherd, J. P. (2005). Winning,
+losing, and violence. Injury Prevention, 11, 69-70.
+Vine, M. M., Elliott, S. J., & Keller-Olaman, S. (2010). To disrupt
+and displace: Placing domestic violence on the public health
+agenda. Critical Public health, 20, 339-355.
+Wenner, L. (1998). In search of the sports bar: Masculinity, alco-
+hol, sports, and the mediation of public space. In G. Rail (Ed.),
+Sport and postmodern times (pp. 303-332). Albany: State
+University of New York Press.
+White, G. F., Katz, J., & Scarborough, K. E. (1992). The impact of
+professional football games upon violent assaults on women.
+Violence and Victims, 7, 157-171.
+World Health Organization. (2011). Violence against women:
+Intimate partner and sexual violence against women (Fact
+sheet No. 239). Retrieved from http://www.who.int/mediacen-
+tre/factsheets/fs239/en/
+Young, K. (2012). Sport, violence and society. Abingdon, UK:
+Routledge.
+Author Biographies
+Damien J. Williams is Lecturer in Public Health Sciences in the
+School of Medicine at the University of St. Andrews. His research
+interests are in violence prevention, behavior change, and health
+promotion. He was jointly awarded the Elizabeth Russell award
+from the Faculty of Public Health for his work evaluating the
+Glasgow Community Initiative to Reduce Violence.
+Fergus G. Neville is Research Fellow in the School of Medicine at
+the University of St. Andrews. His research interests include vio-
+lence prevention, social norms and behaviour change, and crowd
+behaviour.
+Kirsty House is a medical student at the University of Cambridge,
+having completed a pre-clinical degree at the University of St.
+Andrews.
+Peter D. Donnelly is Professor of Public Health Medicine in the
+School of Medicine at the University of St. Andrews. His two main
+areas of interest are violence reduction and health systems where he
+works with researchers, practitioners, politicians, and organizations
+from around the world, including the World Health Organization
+and the Milbank Memorial Fund. He was the joint recipient of the
+Elizabeth Russell award from the Faculty of Public Health for his
+work evaluating the Glasgow Community Initiative to Reduce
+Violence.
+

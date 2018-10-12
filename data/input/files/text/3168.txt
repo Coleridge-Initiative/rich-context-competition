@@ -1,0 +1,1898 @@
+Financial integration and systemic risk
+Falko Fecht
+(Deutsche Bundesbank)
+Hans Peter Grüner
+(University of Mannheim, CEPR, London)
+Discussion Paper
+Series 2: Banking and Financial Studies
+No 11/2005
+Discussion Papers represent the authors' personal opinions and do not necessarily reflect the views of the
+Deutsche Bundesbank or its staff.
+Editorial Board: Heinz Herrmann
+Thilo Liebig
+Karl-Heinz Tödter
+Deutsche Bundesbank, Wilhelm-Epstein-Strasse 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-1
+Telex within Germany 41227, telex from abroad 414431, fax +49 69 5601071
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Reproduction permitted only if source is stated.
+ISBN 3­86558­088­2
+Abstract:
+Recent empirical studies criticize the sluggish financial integration in the euro area and
+find that only interbank money markets are fully integrated so far. This paper studies the
+optimal regional and/or sectoral integration of financial systems given that integration is
+restricted to the interbank market.
+Based on Allen and Gale (2000)'s seminal analysis of financial contagion we derive the
+interbank market structure that maximizes consumers' ex-ante expected utility, i.e. that
+optimizes the trade-off between the contagion and the diversification effect. We analyze
+the impact of various structural parameters including the underlying stochastic structure
+on this trade-off. In addition we derive the efficient design of the interbank market that
+allows for a cross-regional risk sharing between banks. We also provide a measure for
+the efficiency losses that result if financial integration is limited to an integration of the
+interbank market.
+Keywords: Interbank Market, Risk Sharing, Financial Contagion, Financial Integration
+JEL Classification: D61; E44; G10; G21
+Non technical summary
+Several recent empirical studies argue that the most integrated financial market in the
+Euro area is the unsecured money market. Due to legal, regulatory and institutional
+obstacles the integration of most other financial markets (except for the market for gov-
+ernments bonds) lags far behind the integration of the interbank market.
+This paper studies in a first step, in which cases a financial integration that is lim-
+ited to an integration of the interbank markets, can nevertheless be welfare improving.
+In doing so this first part assumes that the institutional arrangement in the interbank
+market allows for a constraint efficient risk sharing. Our study shows that an interna-
+tional integration through the interbank market is preferable, if the expected benefits
+from the international diversification overcompensate the expected costs from contagion.
+Thus while an integration of banks from economies with countervailing business cycles is
+beneficial, the interlinkage of banks that face rather similar risks is welfare reducing. In
+addition, the benefits of an international integration of the banking sector increases as the
+return on long-term investments declines. Thus our analysis suggests that an integration
+through the interbank markets is the more preferable the more mature the economies
+under considerations are and the lower their marginal product of capital therefore is.
+In the second step the paper turns to the institutional arrangement in the interbank
+market and derives the arrangement required to implement a constraint efficient cross-
+country risk sharing through the interbank market. Interestingly, the study shows that
+in order to allow for the most efficient risk sharing interbank deposits must be junior to
+other liabilities of banks and interbank debt must not be netted at any time. Thus the
+interbank market can only provide an efficient risk sharing if it also allows for financial
+contagion between banks through interbank deposits. The risk of financial contagion
+is a necessary condition to ensure that contributing to the liquidity insurance between
+banks is ex-post incentive compatible. This institutional arrangement that we prove to
+be constraint efficient is precisely the arrangement assumed in the first part of the study.
+Finally, our paper also shows under which conditions constraint efficient interbank
+deposits ­ in contrast to more complex arrangements, i.e. cross-country bank mergers ­
+do not allow to capture all benefits from an international risk sharing.
+Nicht technische Zusammenfassung
+Wie zahlreiche empirische Studien zeigen, ist der am stärksten integrierte Finanzmarkt
+im Euroraum der unbesicherte Geldmarkt. Aufgrund von rechtlichen, regulatorischen
+aber auch institutionellen Unterschieden bleibt der Integrationsgrad der meisten anderen
+Finanzmärkte (mit Ausnahme des Marktes für Staatsanleihen) weit hinter dem des Geld-
+marktes zurück.
+Das vorliegende Papier untersucht in einem ersten Schritt, unter welchen Umständen
+eine Finanzintegration, die auf den Interbankenmarkt beschränkt ist, dennoch von Vorteil
+sein kann. Dabei wird eine bestimmte institutionelle Ausgestaltung des Interbankenmar-
+kets unterstellt, die eine beschränkt effiziente Risikoteilung zuläßt. Es zeigt sich, dass eine
+grenzüberschreitende Risikoteilung über den Interbankenmarkt unter diesen Umständen
+dann wünschenswert ist, wenn der erwartete Nutzen der internationalen Diversifikation die
+erwarteten Kosten einer möglichen Ansteckung zwischen den Kreditinstituten überkom-
+pensiert. Eine Integration von Banken, die von gegenläufigen Konjunkturzyklen betroffen
+sind, ist mithin vorteilhaft. Eine Verflechtung von solchen Geldinstituten, die relativ
+ähnlichen makroökonomischen Risiken ausgesetzt sind, wirkt dagegen eher wohlfahrts-
+mindernd. Darüber hinaus zeigt die Studie aber auch, dass mit abnehmendem Ertrag
+langfristiger Investitionen der Vorteil einer Integration steigt. Eine grenzüberschreitende
+Verflechtung über den Interbankenmarkt erscheint somit insbesondere für entwickelte
+Volkswirtschaften mit vergleichsweise geringem Grenzprodukt des Kapitals vorteilhaft.
+Im zweiten Schritt untersucht das vorliegende Papier, welche institutionellen Arrange-
+ments am Geldmarkt notwendig sind, um eine möglichst effiziente Risikoteilung über
+diesen Markt implementieren zu können. Interessanterweise zeigt sich hierbei, dass eine
+effiziente Risikoteilung nur dann erreicht werden kann, wenn Interbankeinlagen gegenüber
+anderen Verbindlichkeiten der Banken nachrangig sind und Interbankenverbindlichkeiten
+nicht miteinander verrechnet werden können. Der Interbankenmarkt erlaubt somit nur
+dann eine effiziente grenzüberschreitende Liquiditätsversicherung zwischen den Kreditin-
+stituten, wenn er gleichzeitig die Möglichkeit von Ansteckungen zwischen den Banken
+nicht ausschließt. Das Risiko einer Ansteckung ist eine notwendige Bedingung um sicher-
+zustellen, dass ex-post eine Liquiditätsversicherung zwischen den Banken anreizverträglich
+ist. Diese somit als beschränkt effizient abgeleitete Ausgestaltung des Interbankenmarkets
+ist exakt diejenige, die im ersten Abschnitt dieser Studie unterstellt wird.
+Letztlich zeigt das Papier auch unter welchen Umständen die Wohlfahrtsgewinne einer
+Integration über einen beschränkt effizienten Interbankenmarkt hinter denen einer brei-
+teren Integration, wie sie beispielsweise grenzüberschreitende Bankenzusammenschlüsse
+darstellen, zurückbleiben.
+4
+Contents
+1 Introduction 1
+2 The model 3
+2.1 Depositors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.2 Investment technology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.3 The interbank market . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.4 Preferences of bank managers . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.5 Equilibrium concept . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.6 Institutional choice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3 Welfare implications of separated banks 7
+4 Welfare implications of an integrated financial system 7
+5 Optimal financial integration 9
+6 Interbank market and the implementation of the constraint efficient
+risk-sharing 10
+6.1 Payoffs of the interbank market game . . . . . . . . . . . . . . . . . . . . . 10
+6.2 Equilibrium . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+7 Alternative Market Mechanisms 15
+8 Merger 18
+9 Conclusion 19
+Appendix 20
+References 22
+Financial Integration and Systemic Risk
+1 Introduction
+The most integrated financial market in the Euro area is the interbank or money market
+and within the money market the most integrated segment is the unsecured interbank
+market.1 Besides its importance for a smooth monetary policy transmission across the
+member states a high degree of integration of this market is also beneficial under risk
+sharing considerations. An interlinked banking system within the Euro area provides an
+insurance mechanism against regional liquidity shocks. However, the flip side of the coin is
+that interbank claims bring about a risk of financial contagion, i.e. increase the systemic
+risk. The liquidity crisis of a single institute can easily spill-over to other banks if those
+financial intermediaries hold interbank deposits with the troubled bank.
+In the present paper we try to evaluate the obvious trade-off that these two effects bring
+about and analyze under which conditions the benefits of a cross-regional risk sharing
+dominate the expected costs of financial contagion. Doing so we also take into account the
+optimal institutional arrangement of the interbank market. Particularly, we show how the
+interbank market has to be designed in order to provide a means for a constraint efficient
+financial integration given the cross-regional distribution of liquidity shocks. Interestingly,
+for reasonable parameter settings we find an efficient arrangement has to allow for the
+possibility of interbank bank runs. However, we also show that using simple interbank
+arrangements does not allow to capture all benefits from a cross regional risk sharing. More
+complex arrangements, i.e. cross-country mergers, of financial institutions can improve
+the cross-country insurance against regional liquidity shocks.
+Our paper is closely related to Allen and Gale (2000) and Freixas, Parigi, and Rochet
+(2000). Like our paper both show that regional-specific liquidity shocks provide a ratio-
+nale for interlinking regionally restricted banks of a Diamond and Dybvig (1983)-type.
+Interbank deposits in the case of Allen and Gale (2000) and interbank lines of credit in
+the case of Freixas, Parigi, and Rochet (2000) enable banks to mutually insure against
+The views expressed here are those of the authors and not necessarily those of the Deutsche Bun-
+desbank. We thank seminar participants at Deutsche Bundesbank and in particular Phil Dybvig, Heinz
+Herrmann, and Julia von Borstel for helpful comments and suggestions.
+1This results is reported in several studies. It is probably most prominently emphasized in Baelen,
+Ferrando, Hördahl, Krylova, and Monnet (2004). For a comprehensive institutional analysis of the
+various segments of the Euro money market see also Hartmann, Manna, and Manzanares (2001) and for
+a description of the most recent developments in that market see European Central Bank (2005). Barros,
+Berglöf, Fulghieri, Gual, Mayer, and Vives (2005) also emphasize the disappointing degree of financial
+integration in most other financial markets in the Euro area particularly the retail financial markets.
+1
+negatively correlated regional liquidity shocks.2 However, when analyzing the structure of
+the interbank network both do not take the possibility of aggregate liquidity shocks into
+account. Thus any network that connects directly or indirectly all entities of the financial
+system provides an efficient mechanism to share the risk of liquidity shocks. In a second
+step they introduce an aggregate liquidity shock that occurs with probability zero and
+study its impact on arbitrary interbank networks. In contrast, we analyze the decision of
+banks to provide each other with interbank deposits in order to share liquidity risk taking
+the possibility of aggregate liquidity shocks and financial contagion into account. This
+permits us to derive the optimal integration decision dependent upon (i) the underlying
+stochastic structure of liquidity needs (ii) individual's risk preferences and (iii) the state
+of the technology.
+Focusing on a two-regional case we also discuss the efficiency of different interbank
+arrangement in dealing with contagion and in implementing an efficient risk sharing.
+We show that the rules concerning the seniority of household vs. interbank debt when
+liquidating a bank are crucial for the performance of the interbank market system. For a
+wide range of parameter settings the interbank market can only implement a constraint
+efficient risk sharing if interbank deposits are junior to households claims and interbank
+debt cannot be netted. But precisely these arrangements bring about the risk of contagion
+between banks. Thus implementing a constraint efficient risk through an interbank market
+is necessarily associated with the risk of financial contagion. To that extent our paper is
+also related to Leitner (2005) who argues that banks put themselves at risk of contagion
+in order to credibly commit to bail each other out.
+Moreover, using a mechanism design approach, we are able to identify further institu-
+tional improvements that are not available in a simple interbank market setup where the
+only decision a bank can make is whether to liquidate its assets with another bank or not.
+However, we will argue that these more complex mechanisms that use a larger strategy
+space essentially reflect a merged bank and not what is usually labelled an interbank
+market.
+The remainder of the paper is organized as follows: After specifying the assumptions
+section 3 derives the utility that separate banks provide depositors. In section 4 we derive
+the optimal deposit contract and the utility that an integrated financial system generates
+under the assumption that in order to share regional liquidity risks banks have to use
+2In Allen and Gale (2000) there exist four regions two of which experience a positive and two of
+which a negative liquidity shock. Aggregate liquidity demand is constant with probability one. This
+specification guarantees that there is a need for cross regional liquidity sharing and it permits to study
+financial contagion which is the main focus of their paper.
+2
+interbank deposits that are junior to households deposits. Section 5 analyzes the trade-
+off between having either a partitioned or an integrated financial systems. In section 2.3
+we show under which conditions the optimal interbank deposit contract is indeed junior to
+households' claims given the optimal deposit contract with households derived in section
+4. Finally, we derive in section 7 the optimal mechanism for risk sharing between banks.
+In section 8 we argue that this mechanism mainly reflects cross-country mergers and show
+to what extent this mechanism leads to a preferable allocation as compared to the one
+provided by junior interbank deposits. Section 9 concludes and points out some issues for
+further research.
+2 The model
+2.1 Depositors
+Consider an economy with three dates (t = 0, 1, 2) and two symmetrical regions A and
+B. Both regions contain a bank and a continuum of mass 1 of households each endowed
+with 1 unit of the single consumption good. Households are subject to a preference shock
+that realizes in t = 1 and that is not publicly observable. Ex-ante (in t = 0) households
+only know that they will be impatient (i
+= 1) with probability q. In that case they can
+only derive utility from consumption in t = 1. With probability (1 - q) they know that
+they will turn out to be patient and only want to consume in t = 2. Thus households'
+ex-ante expected utility is given by the following function
+E [U (c1
+; c2
+)] = E [i
+u (c1
+) + (1 - i
+) u (c2
+)]
+with
+u (ct
+) =
+1
+1 - 
+c1-
+t
+and  > 1.
+Given the law of large numbers the regional fraction of impatient households is
+i
+di = q.
+However, this fraction of patient consumers (i.e. the probability that a given household
+turns out to be impatient) in each region is itself subject to shocks. It can either turn
+out to be 0, 1
+2
+or 1. The probability distribution of the liquidity shocks in the two regions
+is given by the following table. Thus the probability that all households in both regions
+turn out to be patient, for instance, is given by b.
+3
+qA
+= 0 qA
+= 1
+2
+qA
+= 1
+qB
+= 0 b d e
+qB
+= 1
+2
+d a f
+qB
+= 1 e f c
+2.2 Investment technology
+There is only one direct investment technology available in the economy. This technology
+can be liquidated in t = 1 at no costs.3 However, it only pays a positive interest in t = 2:
+t = 0 t = 1 t = 2
+finished -1 0 R > 1
+liquidated -1 +1 0
+In t = 0 households can invest in the technology. Because it is not observable whether
+a particular household is patient or impatient, there is no direct insurance mechanism
+against liquidity risks available.
+Besides direct investment households can deposit their endowment at a bank. Banks
+offer deposit contracts, that specifies the promised repayment d1
+if deposits are withdrawn
+in t = 1. The residual of banks' assets in t = 2 will be repaid to households that keep
+their deposits until t = 2. There is one bank in each region. However, banking markets
+are contestable. Therefore banks are forced to offer the deposit contract that maximizes
+the expected utility of depositors.
+If a bank cannot serve all withdrawals in t = 1 all depositors (patient and impatient)
+receive the same pro-rata repayment. Thus we do not consider any kind of sequential
+service constraint. Hence we exclude expectation driven bank runs of depositors.
+2.3 The interbank market
+We analyze under which condition it is reasonable for banks in different regions to provide
+each other with interbank deposits. Interbank deposit contracts specify a repayment
+dB
+1
+; dB
+2
+contingent whether the deposits are withdrawn in t = 1 or held until t = 2.
+Interbank deposits are assumed to be subordinated to households' repayments in t =
+3Note that this simplifying assumption compared to the standard Diamond and Dybvig (1983)-model
+can be seen as a short-cut for the existence of a liquid financial market in t = 1 at which agents from other
+than the considered regions and banks from the region A and B trade liquidity against financial claims
+promising a t = 2-return R at the arbitrage free price p = 1 (see Fecht (2004) for a detailed description).
+4
+1.4 However, interbank debt is senior to households' t = 2-repayment.5 The regional
+liquidity shock is private information to the banks in the respective region. Banks cannot
+observe the liquidity shock in other regions. Thus interbank deposit contracts cannot be
+contingent on regional liquidity shocks. In order to provide a means of cross-regional risk
+sharing interbank deposit contracts have to be incentive compatible.
+Note that within each region we assume Bertrand competition among banks. This
+ensures that banks will offer contracts to depositors and choose interbank market arrange-
+ments that maximize depositors' utility.
+We make the following general assumptions about the institutional setup of this mar-
+ket:
+1. First, we assume that interbank debt is junior to households' deposits. This means
+that if a bank fails then all households' deposits (those households that wanted to
+withdraw and those that initially wanted to keep their deposits) are served first
+before any repayment is made on interbank debt. Note that this requires a gross-
+settlement of interbank debt­i.e. interbank positions cannot be netted.
+2. Next, we assume that if a bank is illiquid then depositors force the bank management
+to immediately (still within t = 1) withdraw deposits from other banks. Thus in
+case of illiquidity of one bank interbank deposits are withdrawn irrespective of the
+original decision of the bank management.
+3. Finally, we assume that depositors cannot observe whether a bank withdraws inter-
+bank deposits or not. Thus the decision of patient depositors in one region cannot
+depend on the withdrawal decision of banks analyzed here. However, it is impor-
+tant to show that in equilibrium it is preferable for patient depositors to keep their
+deposits until t = 2. This is always true for sufficiently high a.
+2.4 Preferences of bank managers
+We make the following behavioral assumption about bank managers. Given a consumer
+deposit contract D and given an interbank market contract DB bank managers choose a
+4Note that this is an optimal arrangement, because this gives banks the strongest incentive in this
+set-up to provide the other bank with liquidity. If interbank deposits were senior to households' deposits
+then banks would always draw on their interbank deposits first to provide liquidity to other banks or
+households irrespective of their liquidity shock. See section 6 for a proof of this argument.
+5Since we assume below that regional shocks are non-verifiable to non-regional banks, this is also an
+efficient arrangement.
+5
+state contingent plan for their behavior on the interbank market that maximizes expected
+utility of their non-bank customers.
+This assumption needs some further justification because, at the stage where bank
+managers observe their respective liquidity shock, they cannot contractually be forced
+to act in a certain state dependent way (i.e. withdraw deposits only in certain states).
+Contractual arrangements that align bankers' and depositors' interests do however exist.
+Consider e.g. a contract that guarantees the manager a transfer which is an increasing
+function f(·) of the sum actually paid out to an individual depositor in t = 1. In particular
+let
+f(·) =  ·
+1
+1 - 
+d1-,
+where d denote the sum paid out and  is arbitrarily small. This contract obviously aligns
+the interests of the banker and those of the depositors from the ex-ante point of view.
+2.5 Equilibrium concept
+An interbank market with a given contract DB induces a Bayesian game among bank
+managers. In this game a strategy is a state contingent plan for withdrawal decisions
+w(q) : {0, 1/2, 1}  {0, 1} .
+An equilibrium is a combination of deposit contracts and bank strategies that are
+mutually consistent and compatible with competitive banking bahavior.
+Definition 1 An equilibrium consists of
+(i) A deposit contract D = (d1
+, d2
+),
+(ii) An interbank deposit contract DB = dB
+1
+, dB
+2
+and
+(iii) bank strategies w(q) : {0, 1/2, 1}  {0, 1},
+such that
+(i) Bank strategies are a Bayesian equilibrium of the interbank market game given the
+interbank contract DB.
+(ii) The deposit contract D maximizes consumer utility given DB and the withdrawal
+behavior of all banks.
+6
+2.6 Institutional choice
+Whether or not financial institutions engage on the interbank market will depend on
+whether the equilibrium outcome yields higher utility to consumers than under financial
+separation.
+3 Welfare implications of separated banks
+Because of the contestability of the banking market a separated bank will offer the de-
+posit contract dS
+1
+that maximizes the expected utility subject to the per capita budget
+constraint. Given dS
+1
+> 1 the bank is always illiquid if q = 1. In that case the bank can
+only repay 1 to each depositor. If q = 0 the bank can finish all its projects and pay R in
+t = 2 to all depositors. Thus the contractual repayment is only important if some house-
+holds want to withdraw while others want to keep their deposits until t = 2. Only for
+q = 1
+2
+the bank actually has to pay the contracted amount d1
+to its impatient depositors.
+It immediately follows from the per capita budget constraint that the patient depositors
+receive a repayment 2R - Rd1
+in t = 2. Thus the optimal deposit contract that the bank
+can offer maximizes the expected utility function
+E US dS
+1
+= (a+d+f)
+1
+2
+u dS
+1
++
+1
+2
+u (2R - Rd1
+) +(b+d+e)u (R)+(c+e+f)u (1) .
+Since u (ct
+) = c-
+t
+it is easy to see that the optimal deposit contract solves
+1
+2
+dS
+1
+- =
+R
+2
+2R - RdS
+1
+- , (1)
+and is given by
+dS
+1
+=
+2
+R(1-)/ + 1
+. (2)
+4 Welfare implications of an integrated financial sys-
+tem
+As already emphasized in the introduction we focus on cross-regional risk-sharing over the
+interbank market in this paper, because this seems to be particularly within the Euro area
+the most integrated part of the financial systems. The interbank market allows banks to
+provide each other with interbank deposits that specify the provision of liquidity at date
+1.
+In this section we consider a potential equilibrium where (i) deposit contracts are given
+by D = (d1
+,d2
+) and (ii) interbank contracts specify that each bank has the right to either
+7
+withdraw d1
+/2 at date 1 or d2
+/2 at date 2 from the other bank.6 Since banks' liquidity
+needs are not observable for other players, the contract leads to a Bayesian game among
+banks. In what follows we will consider the strategy profile where each bank withdraws
+its deposits at date 1 if and only if the early liquidity shock has realized. In section 6 we
+will then show that this is indeed a Bayesian Nash equilibrium of the interbank market
+game.
+Depositors' equilibrium payoffs can be characterized as follows: When both regions
+are not hit by any shock, depositors realize their desired consumption levels d
+1
+at date
+1 or d
+2
+. When both regions experience a late shock, consumers get R at date 2. When
+shocks in different directions occur the levels d
+1
+or d
+2
+are realized. A liquidity crises
+occurs in case of a liquidity shortage in both regions. Moreover, if in addition d  4/3
+both banks end up being illiquid in those cases where only one region is hit by a negative
+liquidity. Finally, no cross-regional risk-sharing is possible in cases in which one region
+has no impatient depositors while a fraction of 1/2 is impatient in the other region.
+Thus, households' expected utility in an integrated financial systems is given by
+E UM dM
+1
+= (a + d + 2e)
+1
+2
+u dM
+1
++
+1
+2
+u 2R - RdM
+1
++ (b + d) u (R) + (c + 2f) u (1) .
+It is easy to see that the deposit contract that maximizes households' expected utility
+in a financial system that only implements cross-regional risk sharing over the interbank
+market is the same as in a financial system with separated banks
+dM
+1
+=
+2
+R(1-)/ + 1
+.
+Note, however, that this is only the optimal deposit contract if dM
+1
+> 4
+3
+or put differently
+if
+R > 2 
+-1 (3)
+Only for these parameter settings contagion will occur in the integrated financial system.
+If (3) does not hold then an optimally integrated financial system also provides a means
+for risk-sharing for those cases in which one region is hit by a negative liquidity shock
+while in the other region half of the households turn out to be patient. Consequently,
+6Other potential equilibria (with different levels of interbank deposits) can be ruled out since they
+would imply that withdrawals on the interbank market are either (i) not sufficient to finance additional
+liquidity needs or (ii) too large so that a withdrawal even leads to the liquidation of a bank with excess
+liquidity.
+8
+under these conditions linking the two regions does not bring about any costs. However,
+if (3) holds then the decision to integrate the two regional financial systems is non-trivial
+and is discussed in the following section.
+5 Optimal financial integration
+Obviously, it is efficient to integrate the two regions in one financial systems if for the
+optimal deposit contract d
+1
+given by (2)
+E UM (d
+1
+) > E US (d
+1
+) . (4)
+Defining
+E UG (d
+1
+) =
+1
+2 (1 - )
+2
+R(1-)/ + 1
+1-
++
+2R1/
+R(1-)/ + 1
+1-
+, (5)
+it is easy to see that (4) requires that
+e 2E UG (d
+1
+) - u (R) - u (1) > f E UG (d
+1
+) - u (1) . (6)
+The LHS of (6) are the benefits from diversification and the RHS are the costs from
+contagion. Thus if the benefits overcompensate the costs an integration of the two regions
+in one financial system is preferable.
+Obviously, (6) can be transformed in
+e u (R) - E UG (d
+1
+) < (e - f) E UG (d
+1
+) - u (1) .
+We have:
+Proposition 2 A separated financial system is always preferable if e  f. For e > f an
+integrated financial system for the two regions is preferable if
+(2e - f)
+R(1-)/ + 1
+2
+
+> (e - f) + eR1-. (7)
+Proof. Reinserting (5) in (6) and rearranging yields (7).
+More details about the optimality of different arrangements can be derived from the
+following example.
+Example 3 For  = 2 (7) can be reduced to
+(4e - 2f) R-1/2 > (2e - 3f) + (2e + f) R-1.
+9
+This holds for all
+R  1,
+(2e + f)2
+(2e - 3f)2
+.
+Thus taking (3) into account an integrated financial system ­ even though it brings about
+a risk of financial contagion ­ is preferable, if
+R  4,
+(2e + f)2
+(2e - 3f)2
+,
+and this is a non-empty set. In contrast, for
+R >
+(2e + f)2
+(2e - 3f)2
+separation is preferable if e > f.
+Accordingly an increase in the long run rate of return R makes financial separation
+more desirable. A higher rate of return R raises the cost of financial contagion because
+contagion always reduced payoffs in the regions concerned to 1.
+6 Interbank market and the implementation of the con-
+straint efficient risk-sharing
+6.1 Payoffs of the interbank market game
+In this section we analyze in detail the equilibrium behavior of banks on the interbank
+market. Given the institutional arrangement of the interbank market the state contingent
+pay-offs of both banks given their decisions to either withdraw or keep their deposits with
+the other bank are summarized in table 1 and 2.
+Because of the assumed gross settlement of interbank liabilities, both banks have
+to liquidate some of their assets in order to repay their interbank deposits even if they
+withdraw their deposits in the same period. Assume that both banks promise a repayment
+{dIB
+1
+; dIB
+2
+} = {1
+2
+d1
+; 1
+2
+d2
+} on interbank deposits. Thus in order to repay the deposits of
+bank B if bank B withdraws in t = 1 bank A has to liquidate 1
+2
+d1
+of its assets. At
+the same time bank B has to liquidate 1
+2
+d1
+of its deposits if bank A also withdraws in
+t = 1. If both banks are hit by a positive liquidity shock ({qA
+; qB
+} = {0; 0}) they are
+both able liquidate this amount without collapsing. Thus given that both banks withdraw
+10
+Table 1: State contingent repayments to depositors given banks' withdrawal decision
+{qA
+; qB
+} Prob {sA
+; sB
+} = {1; 1} 1) {sA
+; sB
+} = {0; 1}
+{0; 0} b {0; 1
+2
+(d1
++ d2
+)}; {0; 1
+2
+(d1
++ d2
+)} {0; d2
+}, {0; R - 1
+2
+(d2
+- d1
+)}
+{0; 1
+2
+} d {0; 1
+2
+d2
++ }; {d1
+; d1
+} {0; d2
+}, {d1
+; R - 1
+2
+d2
+}
+{0; 1} e {0; 1
+2
+d2
++ }; {d1
+; 0} {0; d2
+}, {d1
+; 0}
+{1
+2
+; 0} d {d1
+; d1
+}; {0; 1
+2
+d2
++ } {d1
+; d1
+}, {0; 1
+2
+d2
++ }
+{1
+2
+; 1
+2
+} a {1; 1}; {1; 1} {1; 1}; {1; 1}
+{1
+2
+; 1} f {1; 1}; {1; 0} {1; 1}; {1; 0}
+{1; 0} e {d1
+; 0}; {0; 1
+2
+d2
++ } {d1
+; 0}; {0; 1
+2
+d2
++ }
+{1; 1
+2
+} f {1; 0}; {1; 1} {1; 0}; {1; 1}
+{1; 1} c {1; 0}; {1; 0} {1; 0}; {1; 0} 5)
+1) si
+= 1 : Bank i withdraws
+({sA
+; sB
+} = {1; 1}) in this state the repayment {d1
+; d2
+} to depositors of bank A and bank
+B, respectively, is given by {0; 1
+2
+(d1
++ d2
+)}.7
+In contrast, in those states where {qA
+; qB
+} = {0; 1
+2
+} only bank A can fulfill its payment
+obligation if bank B withdraws. Because d1
+> 1 bank B is illiquid and has to serve
+households deposits first. After receiving the payment from bank A the overall liquidity
+available to bank B is given by: 1 + 1
+2
+d1
+. Thus the fractional repayment that bank A
+will receive from bank B follows from d1
++ = 1 + 1
+2
+d1
+and is (for the optimal deposit
+contract with d1
+= 2R
+R+R1/
+) given by = R1/
+R+R1/
+< 1
+2
+d1.
+Thus bank A can only repay
+R(1 - 1
+2
+d1
+) + = 1
+2
+d2
++ to its depositors.8
+Similarly, if both banks withdraw in those states with {qA
+; qB
+} = {0; 1} bank A has
+to liquidate 1
+2
+d1
+in order to fulfill its payment obligation. Bank B is illiquid has to serve
+households deposits first. Just like in the above described case only the remaining liquidity
+can be paid to bank A.
+If neither bank has a liquidity shock ({qA
+; qB
+} = {1
+2
+; 1
+2
+}) and both banks withdraw
+their interbank deposits then both banks fail. They cannot raise sufficient funds in t = 1
+by liquidating their projects to repay the impatient depositors and honor the interbank
+deposits. In that case all projects are liquidated and households deposits are served
+7Note that this follows from the fact that both banks can only store the repayment on interbank
+deposits until t = 2 when the funds are needed to repay the depositors and therefore R(1 - 1
+2
+d1
+) + 1
+2
+d1
+=
+1
+2
+(d1
++ d2
+)
+8Note that if households could observe the interbank payments and the regional liquidity shock de-
+positors in region A would run if d1
+> 1
+2
+d2
++ . Thus depositors in region A would end up with {1; 1}
+just like depositors in region B in that case.
+11
+pro-rata­i.e. each depositor receives a repayment of 1.
+The same happens if both banks withdraw their interbank deposits in all those states in
+which at least one bank has a negative liquidity shock. Both banks turn out to be illiquid
+and can only repay a pro-rata repayment of 1 to households. However, in those cases both
+banks will always fail irrespective of their decision to withdraw interbank deposits or not.
+For instance, even if in the state {qA
+; qB
+} = {1; 1
+2
+} bank A would not decide to withdraw
+it would turn out to be illiquid because of the withdrawals of households. Depositors will
+therefore still within t = 1 force bank A to withdraw its interbank deposits from bank B
+in order to raise some additional liquidity. As soon as bank A withdraws its interbank
+deposits bank B will also turn out to be illiquid. Thus in those states both banks will
+be forced to withdraw irrespective of their initial decision. Consequently, both banks will
+finally fail and repay only the pro-rata repayment 1 to each depositor.
+It is easy to see that in all those states with qA
+= 1
+2
+and qA
+= 1 bank A will always
+be illiquid if bank B withdraws. Therefore, its own decision to withdraw or not does not
+matter for the repayment to its depositors.
+In contrast, if both banks are hit by a positive liquidity shock and bank B withdraws
+while bank A keeps its interbank deposits bank A has to liquidate 1
+2
+d1
+of its investment
+to repay bank B. But because bank B is solvent bank A receives 1
+2
+d2
+in t = 2 from bank
+B. Thus bank A can repay R(1 - 1
+2
+d1
+) + 1
+2
+d2
+= d2
+. In contrast, bank B receives 1
+2
+d1
+and
+can only store this liquidity. It does not have to liquidate any investments but has to pay
+1
+2
+d2
+to bank A in t = 2. Thus bank B can repay R - 1
+2
+d2
++ 1
+2
+d1
+. In general, it is easy to
+see that if bank A has a liquidity surplus and does not withdraw its interbank deposits
+while bank B withdraws bank B will always be liquid and able to repay 1
+2
+d2
+in t = 2 to
+bank A.
+If both banks do not withdraw their interbank deposits in t = 1 ({sA
+; sB
+} = {0; 0})
+then no funds are transferred between the two banks if both stay liquid. If either bank
+fails to repay its depositors then depositors can force the bank to collect its interbank
+deposits. This happens, for instance, if {qA
+; qB
+} = {0; 1}. Because bank B is illiquid it
+will be forced to withdraw its interbank deposits. In the liquidation of bank B bank A
+can only recoup a repayment of on its interbank deposits.
+Finally, it is important to note that bank A can only survive {qA
+; qB
+} = {1
+2
+; 1
+2
+} if
+neither bank A nor bank B withdraws.
+6.2 Equilibrium
+Due to the fact that liquidity needs are not observable among banks, the interbank market
+induces a Bayesian game among banks at t = 1. A bank's strategy maps the realized
+12
+Table 2: State contingent repayments to depositors given banks' withdrawal decision
+(cont.)
+{qA
+; qB
+} Prob {sA
+; sB
+} = {1; 0} {sA
+; sB
+} = {0; 0}
+{0; 0} b {0; R - 1
+2
+(d2
+- d1
+)}, {0; d2
+} {0; R}; {0; R}
+{0; 1
+2
+} d {0; 1
+2
+d2
++ }, {d1
+; d1
+} {0; R}; {d1
+; d2
+}
+{0; 1} e {0; 1
+2
+d2
++ }; {d1
+; 0} {0; 1
+2
+d2
++ }; {d1
+; 0} 6)
+{1
+2
+; 0} d {d1
+; R - 1
+2
+d2
+}, {0; d2
+} {d1
+; d2
+}; {0; R}
+{1
+2
+; 1
+2
+} a {1; 1}; {1; 1} {d1
+; d2
+}; {d1
+; d2
+}
+{1
+2
+; 1} f {1; 1}; {1; 0} {1; 1}; {1; 0}
+{1; 0} e {d1
+; 0}, {0; d2
+} {d1
+; 0}; {0; 1
+2
+d2
++ }
+{1; 1
+2
+} f {1; 0}; {1; 1} {1; 0}; {1; 1}
+{1; 1} c {1; 0}; {1; 0} {1; 0}; {1; 0}
+liquidity demand (the fraction of early withdrawing depositors) at t = 1 into a decision
+to withdraw or to keep the interbank deposit.
+Our first main result is that indeed an interbank market with the above institutional
+features may allow for a limited extend of risk sharing. This means that negative liquidity
+shocks can be compensated by positive shocks, however, excess liquidity is not equally
+distributed among regions.
+Proposition 4 The interbank market game has a Bayesian Nash equilibrium where both
+banks withdraw at t=1 if and only if they experience an early liquidity shock. In this
+equilibrium the interbank market (i) provides an optimal risk sharing for states with op-
+posed regional liquidity shocks (ii) does not implement a cross regional risk sharing for
+states with excess aggregate liquidity (iii) causes contagion in states with aggregate liquidity
+shortages.
+Proof. Given that bank B only withdraws its interbank deposits if it is hit by a
+negative liquidity shock (qB
+= 1) we have to show that it is optimal for bank A to
+withdraw its interbank deposits in t = 1 if and only if the bank is hit by a negative
+liquidity shock (qA
+= 1). From table 1 and 2 it is easy to derive the following incentive
+compatibility constraints and verify under which conditions they hold:
+First consider qA
+= 0. Expecting that bank B only withdraws its interbank deposits
+13
+if qB
+= 0 bank A keeps its interbank deposits until t = 2 iff
+(b + d) U (0; R) + eU (0; d2
+)  (IC1)
+bU 0; R -
+1
+2
+(d2
+- d1
+) + (d + e) U 0;
+1
+2
+d2
++ .
+(IC1) always hold because R > R - 1
+2
+(d2
+- d1
+) and R > d2
+> 1
+2
+d2
++ .
+For qA
+= 1
+2
+bank A will not withdraw its interbank deposits in t = 1 iff
+(d + a) U (d1
+; d2
+) + fU (1; 1)  (IC2)
+dU d1
+; R -
+1
+2
+d2
++ (a + f) U (1; 1) .
+Since d2
+> d1
+> 1 (IC2) always holds for the optimal deposit contract that banks offer
+to households9 if R < 2/(-1). Even if R > 2/(-1) and therefore U d1
+; R - 1
+2
+d2
+>
+U (d1
+; d2
+) (IC2) always holds if a is relative to d sufficiently large that
+a [U (d1
+; d2
+) - U (1; 1)]  d U d1
+; R -
+1
+2
+d2
+- U (d1
+; d2
+))
+Finally consider qA
+= 1. Given that bank B only withdraws if qB
+= 1 the repayment
+bank A's depositors receive is independent of the decision of bank A to withdraw its
+interbank deposits or not because if the bank does not withdraw its interbank deposits
+the bank fails and will be forced by the depositors to withdraw. Thus the incentive
+compatibility constraint is given by
+eU (d1
+; 0) + (f + c) U (1; 0)  eU (d1
+; 0) + (f + c) U (1; 0) ,
+and holds with an equality.
+It is important to note that for reasonable parameter settings banks would not be able
+to implement any cross regional risk sharing using interbank deposits if those deposits
+were senior to households claims.
+If interbank deposits were senior both banks would have an incentive to withdraw their
+deposits irrespective whether or not they are actually in need for liquidity­i.e. independent
+of their respective qi
+.
+To see this note that if interbank deposits were senior bank A's incentive compatibility
+constraint to keep deposits until t = 2 if qA
+= 1
+2
+would change from (IC2) to (IC2')
+(d + a) U (d1
+; d2
+) + fU (1; 1)  dU d1
+; R -
+1
+2
+d2
++ (a + f) U (d1
+; d2
+) (IC2')
+9Remember that the optimal deposit contract that banks offer to households always implies a risk
+sharing d2
+d1
+= R1/ for integrated as well as separated financial systems given that banks cannot implement
+a cross regional risk sharing in cases of positive aggregate liquidity shocks.
+14
+which obviously does not hold for very large a and not even for R > 2/(-1) iff
+d U d1
+; R -
+1
+2
+d2
+- U (d1
+; d2
+) < f [U (d1
+; d2
+) - U (1; 1)]
+However, taking into account that it is preferable for both banks to withdraw their
+interbank deposits for qi
+= 1
+2
+the incentive compatibility constraint of bank A to keep
+their interbank deposits until t = 2 if qA
+= 0 changes to (IC1')
+bU (0; R) + (d + e) U (0; d2
+)  bU 0; R -
+1
+2
+(d2
+- d1
+) + (d + e) U (0; R) (IC1')
+Obviously, for (d + e) being sufficiently high relative to b it is also for banks that are hit
+by a positive liquidity shock preferable to withdraw their interbank deposits in t = 1.
+In contrast, if (IC2') does not hold but (IC1') then an interbank market with senior
+interbank deposits can implement some cross regional risk sharing. In that case the
+interbank market would allow for the cross regional risk sharing without bringing about
+the risk of contagion. Because if interbank deposits are senior and banks only keep their
+deposits until t = 2 if they are hit by a positive liquidity shock then there are no spill-over
+of the illiquidity of one bank to the other in those cases with {qA
+; qB
+} = 1
+2
+; 1 and 1; 1
+2
+.
+But if banks always withdraw their interbank deposits in t = 1 irrespective of their
+particular liquidity shock­because (IC2') and (IC1') do both not hold­then the interbank
+market with senior interbank debt cannot provide any cross regional risk sharing.
+7 Alternative Market Mechanisms
+So far, we took the organization of the interbank market as exogenously given. In this
+section we study whether there is an alternative interbank market mechanism that yields
+a superior outcome. We start out by assuming that consumer deposit contracts of the
+sort derived in section 4 already exist. In our setup the revelation principle holds. Hence,
+we may restrict our analysis to direct revelation mechanisms. A direct interbank market
+mechanism asks both banks for a report on their realized liquidity parameter and maps
+the tuple of reports (^
+qA
+, ^
+qB
+) into a decision x, i.e.
+x = f (^
+qA
+, ^
+qB
+) .
+The decision consists of four elements:
+· A transfer t1
+from bank 1 to bank 2 in period 1.
+· A transfer t2
+from bank 1 to bank 2 in period 2.
+15
+· A decision on the closure of each bank in period 1.
+Is is possible to improve the efficiency of the risk sharing implemented by the interbank
+market mechanism? The interbank market studied so far does not provide an efficient
+risk sharing in case of a positive liquidity shock in one region and no liquidity shock
+(qi
+= 1
+2
+) in the other region. Is it possible to improve upon that outcome? Consider
+some alternative mechanism that has the feature that (i) no bank closes when announced
+aggregate liquidity would be sufficient to honor the withdrawals in period 1 (ii) with
+opposing liquidity needs there is a sufficient transfer to the bank with high liquidity needs
+in period 1 (iii) provides efficient risk sharing in cases of a positive liquidity shock in one
+region and no liquidity shock in the other. Such a mechanism would have to fix contingent
+transfers as described in table 3.
+It is useful to highlight the fundamental role of bankruptcy in providing incentives to
+managers.
+Lemma 5 Suppose that a bank's date 2 value is constant. In order to ensure that self-
+revelation is incentive compatibility the probability of a bank closure has to increase weakly
+in the announced liquidity need for period 1.
+Proof. This follows immediately from the specification of the bank manager's prefer-
+ences.
+Table 3: Transfers implementing unconstraint efficient risk sharing
+(^
+qA
+, ^
+qB
+) 0 1
+2
+1
+0 t1
+= t2
+= 0
+0 < t1
+< 1
+2
+d
+1
+0 > t2
+> -1
+2
+d
+2
+t1
+= 1
+2
+d
+1
+t2
+= -1
+2
+d
+2
+1
+2
+0 > t1
+> -1
+2
+d
+1
+0 < t2
+< 1
+2
+d
+2
+t1
+= t2
+= 0 -
+1
+t1
+= -1
+2
+d
+1
+t2
+= 1
+2
+d
+2
+- -
+The following proposition derives the necessary properties of bankruptcy in a social
+choice function f (·) that guarantees an efficient risk sharing in case of a positive liquidity
+shock in one region and no shock in the other. It shows that the social choice function
+has to implement a closure of all banks in those cases where the reported liquidity needs
+of both banks indicate an aggregate negative liquidity shock in period 1: ^
+qA
++ ^
+qB
+ 1
+2
+.
+16
+Proposition 6 There is no mechanism that simultaneously satisfies the following condi-
+tions: (i) Bayesian incentive compatibility, (ii) efficient risk sharing in case of a positive
+liquidity shock in one region and no shock in the other (iii) the survival of one bank in
+case of a negative liquidity shock in one region and no shock in the other region.
+Proof. Consider without loss of generality bank A. In order to implement the efficient
+risk sharing bank A would have to pay a transfer 1
+2
+d
+1
+in states with (^
+qA
+, ^
+qB
+) = (0, 1).
+However, to make self-revelation incentive compatible for a bank with zero liquidity needs
+(qA
+= 0) one has to implement a transfer larger than 1
+2
+d
+1
+in case that announcements are
+(^
+qA
+, ^
+qB
+) = (1
+2
+, 1). This implies the closure of a bank with qA
+= 1
+2
+for (^
+qA
+, ^
+qB
+) = (1
+2
+, 1).
+On the other hand, to avoid that bank A reports a high liquidity need ( ^
+qA
+= 1) but
+actually has qA
+= 1
+2
+one has to close that bank for announced liquidity needs (^
+q1
+, ^
+q2
+) =
+(1, 1
+2
+).10
+Moreover, one can show that the above necessary conditions are also sufficient.
+Proposition 7 There is a mechanism that simultaneously satisfies Bayesian incentive
+compatibility and the efficient risk sharing in case of one positive liquidity shock. Under
+this mechanism no bank survives in case of an excessive aggregate liquidity need at date
+1.
+Proof. It is straightforward to verify that all IC constraints hold.
+This shows that the interbank market mechanism from section 6 is not the optimal
+mechanism. Risk sharing with an aggregate positive liquidity shock can be improved.
+However, the mechanism described in Proposition 7 cannot be implemented by an inter-
+bank market in which only contracts can be traded that prespecify a certain payment
+dB
+1
+on the funds withdrawn in t = 1 and dB
+2
+for those kept until t = 2 with some other
+bank. Even if funds can be withdrawn fractionally such a market mechanism can never
+implement the optimal mechanism, i.e. it can never implement any risk sharing in cases
+of positive liquidity shocks.
+A mechanism such as the one described in Proposition 7 would be quite complex in
+situations with more than two realizations of liquidity shocks. It would actually require
+both banks to choose a signal from a set that is as large as the set of possible realizations
+of the shock and map the tuple of announcements into an outcome. Such a mechanism
+would establish a tight relationship among two banks that we will call a merger in what
+follows.
+10Note that one other option would be to make bank A pay in cases of announced liquidity needs
+(^
+qA
+, ^
+qB
+) = (1, 1
+2
+) and close it only for announcements (^
+qA
+, ^
+qB
+) = (1, 1). However, given the budget
+constraint of banks A if it really has qA
+= 1 this means to the closure bank A at (^
+qA
+, ^
+qB
+) = (1, 1
+2
+).
+17
+8 Merger
+The maximum degree of risk sharing can be reached by a bank operating in both regions
+or by a complex mechanism such as the one described in the previous section. Such
+a contract can be viewed as a multi-regional bank that can use its assets to serve the
+withdrawal of depositors from both regions. However, given that the deposit contract
+promises dM
+1
+> 1 the bank is illiquid if the fraction of impatient depositors is 1 in both
+regions, i.e. if the aggregate fraction of early withdrawals is 1. If in addition dM
+1
+> 4
+3
+the
+bank is also illiquid in those cases where only one region is hit by a negative liquidity
+shock. Thus assuming dM
+1
+> 4
+3
+the bank can also only pay 1 to all depositors if the
+aggregate fraction of impatient depositors is 4
+3
+. Therefore, from the perspective of one
+region the costs of a multi-regional bank are that with probability f a state occurs in
+which the multi-regional bank provides a channel for contagion of a negative liquidity
+shock from the other region.
+Obviously, similar to banks that use the interbank market described in section 6 a
+multi-regional bank is beneficial in those states where the regional liquidity shocks com-
+pensate each other. In these cases the bank is not illiquid because it can repay the
+promised amount dM
+1
+to the aggregate fraction of 1
+2
+of impatient depositors. Therefore,
+in those states that occur with probability 2e multi-regional banks provide a way for an
+inter-regional risk-sharing.
+In addition, a multi-regional bank also provides a means for cross-regional risk-sharing
+in those states in which in one region 1
+2
+of the depositors turn out to be impatient while
+in the other region all households want to consume in t = 2. In these states the patient
+depositors from the first region benefit at the expense of the patient depositors from the
+other region, because the bank can finish more projects and can therefore generate the
+higher per capita t = 2-repayment: 4
+3
+- R
+3
+dM
+1
+.
+In this section we ask whether the possibility of a bank merger changes the main result
+from section 5 that financial decentralization may be superior to financial integration. In
+general the optimal deposit contract is different under a merger. Given dM
+1
+> 4
+3
+the
+expected utility of depositors is given by
+E UM dM
+1
+= (a + 2e)
+1
+2
+u dM
+1
++
+1
+2
+u 2R - RdM
+1
++ 2d
+1
+4
+u dM
+1
++
+3
+4
+u
+4
+3
+R -
+1
+3
+RdM
+1
++ bu (R) + (c + 2f) u (1)
+Taking u (ct
+) = c-
+t
+into account it follows from the first order conditions that the
+18
+optimal deposit contract solves
+(a + 2e + d)
+1
+2
+dM
+1
+- = d
+R
+2
+4
+3
+R -
+1
+3
+RdM
+1
+-
++ (a + 2e)
+R
+2
+2R - RdM
+1
+- (8)
+Comparing (8) and (1) it is easy to see that the optimality condition for the deposit
+contract offered by a multi-regional bank is identical to the one for the deposit contract
+offered by regionally separated banks if d = 0. Consequently, in that case a multi-regional
+bank will offer the same deposit contract as regionally separated banks.11 Hence we have
+Proposition 8 For d > 0 integration over the interbank market is less efficient than
+cross-regional bank mergers. However, there are risk structures (a, b, c, d, e, f) such that a
+bank merger delivers lower utility to consumers than a separated financial system.
+9 Conclusion
+In this paper we have derived the trade-off that emerges between keeping regional banking
+systems separated and integrating regional financial systems given that an integration is
+only possible using interbank deposits. We found that for most parameter values a cross-
+regional risk sharing using interbank deposits cannot be implemented without incurring
+the risk of financial contagion. Moreover, our results also show that not all benefits from
+financial integration can be realized using only an integrated interbank market. Cross-
+country mergers of banks provide a more efficient cross regional risk sharing mechanism.
+In analyzing the trade-off we have shown that an integrated financial system is more
+preferable the lower the rate of return on long-term investment. Thus our results suggest
+that it is particularly more preferable for advanced economies with a lower marginal
+productivity of capital to establish a common financial system. However, to analyze this
+issue in-depth within a growth model is one important point for further research.
+Another issue that we have to leave for further research is to extent the model to
+a multi-regional setting and analyze which properties of the cross-regional distribution
+of liquidity shocks might lead to an imperfectly integrated financial system and which
+implications this has for systemic risk.
+11As is shown in the appendix for d > 0 the deposit contract offered by a multi-regional bank will
+promise a higher repayment in t = 1. Thus for d > 0 it follows that dM
+1
+> dS
+1
+.
+19
+Appendix
+Optimal deposit contract of a multi-regional bank The optimal deposit contract
+solves
+U dM
+1
+; dM
+2
+= (a + 2e)
+1
+2
+u dM
+1
++
+1
+2
+u 2R - RdM
+1
++ 2d
+1
+4
+u dM
+1
++
+3
+4
+u
+4
+3
+R -
+1
+3
+RdM
+1
++ bu (R) + (c + 2f) u (1)
+U dN
+1
+; dN
+2
+dM
+1
+= 0
+(a + 2e)
+1
+2
+u dM
+1
+-
+R
+2
+u 2R - RdM
+1
++ 2d
+1
+4
+u dM
+1
+-
+R
+4
+u
+4
+3
+R -
+1
+3
+RdM
+1
+= 0
+(a + 2e)
+1
+2
+u dM
+1
+-
+R
+2
+u 2R - RdM
+1
++ d
+1
+2
+u dM
+1
+-
+R
+2
+u
+4
+3
+R -
+1
+3
+RdM
+1
+= 0
+(a + 2e + d)
+1
+2
+u dM
+1
+= d
+R
+2
+u
+4
+3
+R -
+1
+3
+RdM
+1
++ (a + 2e)
+R
+2
+u 2R - RdM
+1
+For u (ct
+) = c-
+t
+the optimality condition can be rewritten yielding
+(a + 2e + d)
+1
+2
+dM
+1
+- = d
+R
+2
+4
+3
+R -
+1
+3
+RdM
+1
+-
++ (a + 2e)
+R
+2
+2R - RdM
+1
+-
+Proof that dM
+1
+> dS
+1
+for d > 0
+dM
+1
+> dS
+1
+if
+(a + 2e + d)
+1
+2
+dS
+1
+- > d
+R
+2
+4
+3
+R -
+1
+3
+RdS
+1
+-
++ (a + 2e)
+R
+2
+2R - RdS
+1
+-
+Given that
+(a + 2e)
+1
+2
+dS
+1
+- = (a + 2e)
+R
+2
+2R - RdS
+1
+- (9)
+this holds if
+dS
+1
+- > R
+4
+3
+R -
+1
+3
+RdS
+1
+-
+(10)
+20
+From (9) follows that
+dS
+1
+- = R 2R - RdS
+1
+-
+Since x- is a strictly decreasing function in x (10) holds if
+2R - RdS
+1
+<
+4
+3
+R -
+1
+3
+RdS
+1
+which is obviously true for all dS
+1
+> 1.
+21
+References
+Allen, F., and D. Gale, 2000, "Financial Contagion," Journal of Political Economy, 108,
+1­33.
+Baelen, L., A. Ferrando, P. Hördahl, E. Krylova, and C. Monnet, 2004, "Measuring finan-
+cial integration in the euro area," ECB Occasional Paper 14.
+Barros, P., E. Berglöf, P. Fulghieri, J. Gual, C. Mayer, and X. Vives, 2005, "Integration
+of European banking: the way forward," Monitoring European Deregulation, CEPR.
+Diamond, D., and P. Dybvig, 1983, "Bank Runs, Deposit Insurance, and Liquidity," Jour-
+nal of Political Economy, 91, 401­419.
+European Central Bank, 2005, "Euro Money Market Study 2004," .
+Fecht, F., 2004, "On the Stability of Different Financial Systems," Journal of the European
+Economic Association, 6.
+Freixas, X., B. Parigi, and J.-C. Rochet, 2000, "Systemic Risk, Interbank Relations, and
+Liquidity Provision by the Central Bank," Journal of Money, Credit, And Banking, 32,
+611­638.
+Hartmann, P., M. Manna, and A. Manzanares, 2001, "The microstructure of the euro
+money market," Journal of International Money and Finance, 20, 895 ­ 948.
+Leitner, Y., 2005, "Financial Networks: Contagion, Commitment,and Private Sector
+Bailouts," Journal of Finance, forthcoming.
+22
+23
+The following Discussion Papers have been published since 2004:
+Series 1: Economic Studies
+1 2004 Foreign Bank Entry into Emerging Economies:
+An Empirical Assessment of the Determinants
+and Risks Predicated on German FDI Data Torsten Wezel
+2 2004 Does Co-Financing by Multilateral Development
+Banks Increase "Risky" Direct Investment in
+Emerging Markets? ­
+Evidence for German Banking FDI Torsten Wezel
+3 2004 Policy Instrument Choice and Non-Coordinated Giovanni Lombardo
+Monetary Policy in Interdependent Economies Alan Sutherland
+4 2004 Inflation Targeting Rules and Welfare
+in an Asymmetric Currency Area Giovanni Lombardo
+5 2004 FDI versus cross-border financial services: Claudia M. Buch
+The globalisation of German banks Alexander Lipponer
+6 2004 Clustering or competition? The foreign Claudia M. Buch
+investment behaviour of German banks Alexander Lipponer
+7 2004 PPP: a Disaggregated View Christoph Fischer
+8 2004 A rental-equivalence index for owner-occupied Claudia Kurz
+housing in West Germany 1985 to 1998 Johannes Hoffmann
+9 2004 The Inventory Cycle of the German Economy Thomas A. Knetsch
+10 2004 Evaluating the German Inventory Cycle
+Using Data from the Ifo Business Survey Thomas A. Knetsch
+11 2004 Real-time data and business cycle analysis
+in Germany Jörg Döpke
+24
+12 2004 Business Cycle Transmission from the US
+to Germany ­ a Structural Factor Approach Sandra Eickmeier
+13 2004 Consumption Smoothing Across States and Time: George M.
+International Insurance vs. Foreign Loans von Furstenberg
+14 2004 Real-Time Estimation of the Output Gap
+in Japan and its Usefulness for
+Inflation Forecasting and Policymaking Koichiro Kamada
+15 2004 Welfare Implications of the Design of a
+Currency Union in Case of Member Countries
+of Different Sizes and Output Persistence Rainer Frey
+16 2004 On the decision to go public: Ekkehart Boehmer
+Evidence from privately-held firms Alexander Ljungqvist
+17 2004 Who do you trust while bubbles grow and blow?
+A comparative analysis of the explanatory power
+of accounting and patent information for the Fred Ramb
+market values of German firms Markus Reitzig
+18 2004 The Economic Impact of Venture Capital Astrid Romain, Bruno
+van Pottelsberghe
+19 2004 The Determinants of Venture Capital: Astrid Romain, Bruno
+Additional Evidence van Pottelsberghe
+20 2004 Financial constraints for investors and the
+speed of adaption: Are innovators special? Ulf von Kalckreuth
+21 2004 How effective are automatic stabilisers?
+Theory and results for Germany and other Michael Scharnagl
+OECD countries Karl-Heinz Tödter
+25
+22 2004 Asset Prices in Taylor Rules: Specification, Pierre L. Siklos
+Estimation, and Policy Implications for the Thomas Werner
+ECB Martin T. Bohl
+23 2004 Financial Liberalization and Business
+Cycles: The Experience of Countries in Lúcio Vinhas
+the Baltics and Central Eastern Europe de Souza
+24 2004 Towards a Joint Characterization of
+Monetary Policy and the Dynamics of
+the Term Structure of Interest Rates Ralf Fendel
+25 2004 How the Bundesbank really conducted Christina Gerberding
+monetary policy: An analysis based on Andreas Worms
+real-time data Franz Seitz
+26 2004 Real-time Data for Norway: T. Bernhardsen, Ø. Eitrheim,
+Challenges for Monetary Policy A.S. Jore, Ø. Røisland
+27 2004 Do Consumer Confidence Indexes Help
+Forecast Consumer Spending in Real Time? Dean Croushore
+28 2004 The use of real time information in Maritta Paloviita
+Phillips curve relationships for the euro area David Mayes
+29 2004 The reliability of Canadian output Jean-Philippe Cayen
+gap estimates Simon van Norden
+30 2004 Forecast quality and simple instrument rules - Heinz Glück
+a real-time data approach Stefan P. Schleicher
+31 2004 Measurement errors in GDP and Peter Kugler
+forward-looking monetary policy: Thomas J. Jordan
+The Swiss case Carlos Lenz
+Marcel R. Savioz
+26
+32 2004 Estimating Equilibrium Real Interest Rates Todd E. Clark
+in Real Time Sharon Kozicki
+33 2004 Interest rate reaction functions for the euro area
+Evidence from panel data analysis Karsten Ruth
+34 2004 The Contribution of Rapid Financial
+Development to Asymmetric Growth of
+Manufacturing Industries: George M.
+Common Claims vs. Evidence for Poland von Furstenberg
+35 2004 Fiscal rules and monetary policy in a dynamic
+stochastic general equilibrium model Jana Kremer
+36 2004 Inflation and core money growth in the Manfred J.M. Neumann
+euro area Claus Greiber
+37 2004 Taylor rules for the euro area: the issue Dieter Gerdesmeier
+of real-time data Barbara Roffia
+38 2004 What do deficits tell us about debt?
+Empirical evidence on creative accounting Jürgen von Hagen
+with fiscal rules in the EU Guntram B. Wolff
+39 2004 Optimal lender of last resort policy Falko Fecht
+in different financial systems Marcel Tyrell
+40 2004 Expected budget deficits and interest rate swap Kirsten Heppke-Falk
+spreads - Evidence for France, Germany and Italy Felix Hüfner
+41 2004 Testing for business cycle asymmetries
+based on autoregressions with a
+Markov-switching intercept Malte Knüppel
+1 2005 Financial constraints and capacity adjustment
+in the United Kingdom ­ Evidence from a Ulf von Kalckreuth
+large panel of survey data Emma Murphy
+27
+2 2005 Common stationary and non-stationary
+factors in the euro area analyzed in a
+large-scale factor model Sandra Eickmeier
+3 2005 Financial intermediaries, markets, F. Fecht, K. Huang,
+and growth A. Martin
+4 2005 The New Keynesian Phillips Curve
+in Europe: does it fit or does it fail? Peter Tillmann
+5 2005 Taxes and the financial structure Fred Ramb
+of German inward FDI A. J. Weichenrieder
+6 2005 International diversification at home Fang Cai
+and abroad Francis E. Warnock
+7 2005 Multinational enterprises, international trade,
+and productivity growth: Firm-level evidence Wolfgang Keller
+from the United States Steven R. Yeaple
+8 2005 Location choice and employment S. O. Becker,
+decisions: a comparison of German K. Ekholm, R. Jäckle,
+and Swedish multinationals M.-A. Muendler
+9 2005 Business cycles and FDI: Claudia M. Buch
+evidence from German sectoral data Alexander Lipponer
+10 2005 Multinational firms, exclusivity, Ping Lin
+and the degree of backward linkages Kamal Saggi
+11 2005 Firm-level evidence on international Robin Brooks
+stock market comovement Marco Del Negro
+12 2005 The determinants of intra-firm trade: in search Peter Egger
+for export-import magnification effects Michael Pfaffermayr
+28
+13 2005 Foreign direct investment, spillovers and
+absorptive capacity: evidence from quantile Sourafel Girma
+regressions Holger Görg
+14 2005 Learning on the quick and cheap: gains James R. Markusen
+from trade through imported expertise Thomas F. Rutherford
+15 2005 Discriminatory auctions with seller discretion:
+evidence from German treasury auctions Jörg Rocholl
+16 2005 Consumption, wealth and business cycles: B. Hamburg,
+why is Germany different? M. Hoffmann, J. Keller
+17 2005 Tax incentives and the location of FDI: Thiess Buettner
+evidence from a panel of German multinationals Martin Ruf
+18 2005 Monetary Disequilibria and the Dieter Nautz
+Euro/Dollar Exchange Rate Karsten Ruth
+19 2005 Berechnung trendbereinigter Indikatoren für
+Deutschland mit Hilfe von Filterverfahren Stefan Stamfort
+20 2005 How synchronized are central and east
+European economies with the euro area? Sandra Eickmeier
+Evidence from a structural factor model Jörg Breitung
+21 2005 Asymptotic distribution of linear unbiased J.-R. Kurz-Kim
+estimators in the presence of heavy-tailed S.T. Rachev
+stochastic regressors and residuals G. Samorodnitsky
+22 2005 The Role of Contracting Schemes for the
+Welfare Costs of Nominal Rigidities over
+the Business Cycle Matthias Pastian
+23 2005 The cross-sectional dynamics of German J. Döpke, M. Funke
+business cycles: a bird's eye view S. Holly, S. Weber
+29
+24 2005 Forecasting German GDP using alternative Christian Schumacher
+factor models based on large datasets
+25 2005 Time-dependent or state-dependent price
+setting? ­ micro-evidence from German
+metal-working industries ­ Harald Stahl
+26 2005 Money demand and macroeconomic Claus Greiber
+uncertainty Wolfgang Lemke
+27 2005 In search of distress risk J. Y. Campbell,
+J. Hilscher, J. Szilagyi
+28 2005 Recursive robust estimation and control Lars Peter Hansen
+without commitment Thomas J. Sargent
+29 2005 Asset pricing implications of Pareto optimality N. R. Kocherlakota
+with private information Luigi Pistaferri
+30 2005 Ultra high frequency volatility estimation Y. Aït-Sahalia,
+with dependent microstructure noise P. A. Mykland, L. Zhang
+31 2005 Umstellung der deutschen VGR auf Vorjahres-
+preisbasis ­ Konzept und Konsequenzen für die
+aktuelle Wirtschaftsanalyse sowie die ökono-
+metrische Modellierung Karl-Heinz Tödter
+32 2005 Determinants of current account developments
+in the central and east European EU member
+states ­ consequences for the enlargement of Sabine Herrmann
+the euro erea Axel Jochem
+30
+Series 2: Banking and Financial Studies
+1 2004 Forecasting Credit Portfolio Risk A. Hamerle,
+T. Liebig, H. Scheule
+2 2004 Systematic Risk in Recovery Rates ­
+An Empirical Analysis of US Corporate Klaus Düllmann
+Credit Exposures Monika Trapp
+3 2004 Does capital regulation matter for bank Frank Heid
+behaviour? Evidence for German savings Daniel Porath
+banks Stéphanie Stolz
+4 2004 German bank lending during F. Heid, T. Nestmann,
+emerging market crises: B. Weder di Mauro,
+A bank level analysis N. von Westernhagen
+5 2004 How will Basel II affect bank lending to T. Liebig, D. Porath,
+emerging markets? An analysis based on B. Weder di Mauro,
+German bank level data M. Wedow
+6 2004 Estimating probabilities of default for
+German savings banks and credit cooperatives Daniel Porath
+1 2005 Measurement matters ­ Input price proxies
+and bank efficiency in Germany Michael Koetter
+2 2005 The supervisor's portfolio: the market price
+risk of German banks from 2001 to 2003 ­ Christoph Memmel
+Analysis and models for risk aggregation Carsten Wehn
+3 2005 Do banks diversify loan portfolios? Andreas Kamp
+A tentative answer based on individual Andreas Pfingsten
+bank loan portfolios Daniel Porath
+4 2005 Banks, markets, and efficiency F. Fecht, A. Martin
+31
+5 2005 The forecast ability of risk-neutral densities Ben Craig
+of foreign exchange Joachim Keller
+6 2005 Cyclical implications of minimum capital
+requirements Frank Heid
+7 2005 Banks' regulatory capital buffer and the
+business cycle: evidence for German Stéphanie Stolz
+savings and cooperative banks Michael Wedow
+8 2005 German bank lending to industrial and non-
+industrial countries: driven by fundamentals
+or different treatment? Thorsten Nestmann
+9 2005 Accounting for distress in bank mergers M. Koetter, J. Bos, F. Heid
+C. Kool, J. Kolari, D. Porath
+10 2005 The eurosystem money market auctions: Nikolaus Bartzsch
+a banking perspective Ben Craig, Falko Fecht
+11 2005 Financial integration and systemic Falko Fecht
+risk Hans Peter Grüner
+

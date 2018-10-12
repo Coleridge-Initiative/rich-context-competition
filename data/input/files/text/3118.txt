@@ -1,0 +1,856 @@
+Relationship of Walking to Mortality
+Among US Adults With Diabetes
+Edward W. Gregg, PhD; Robert B. Gerzoff, MS; Carl J. Caspersen, PhD;
+David F. Williamson, PhD; K. M. Venkat Narayan, MD
+Background: Walking is associated with reduced dia-
+betes incidence, but few studies have examined whether
+it reduces mortality among those who already have dia-
+betes.
+Objective: To estimate the association between walk-
+ing and the risk for all-cause and cardiovascular disease
+(CVD) mortality among persons with diabetes.
+Design: Prospective cohort study of a representative
+sample of the US population.
+Setting: Interviewer-administered survey in the gen-
+eral community.
+Participants: We sampled 2896 adults 18 years and older
+with diabetes as part of the 1990 and 1991 National Health
+Interview Survey.
+Main Outcome Measure: All-cause and CVD mor-
+tality for 8 years.
+Results: Compared with inactive individuals, those who
+walked at least 2 h/wk had a 39% lower all-cause mor-
+tality rate (hazard rate ratio [HRR], 0.61; 95% confi-
+dence interval [CI], 0.48-0.78; 2.8% vs 4.4% per year)
+and a 34% lower CVD mortality rate (HRR, 0.66; 95%
+CI, 0.45-0.96; 1.4% vs 2.1% per year). We controlled for
+sex, age, race, body mass index (calculated as weight in
+kilograms divided by the square of height in meters),
+smoking, and comorbid conditions. The mortality rates
+were lowest for persons who walked 3 to 4 h/wk (all-
+cause mortality HRR, 0.46; 95% CI, 0.29-0.71; CVD mor-
+tality HRR, 0.47; 95% CI, 0.24-0.91) and for those who
+reported that their walking involved moderate in-
+creases in heart and breathing rates (all-cause mortality
+HRR, 0.57; 95% CI, 0.41-0.80; CVD mortality HRR, 0.69;
+95% CI, 0.43-1.09). The protective association of physi-
+cal activity was observed for persons of varying sex, age,
+race, body mass index, diabetes duration, comorbid con-
+ditions, and physical limitations.
+Conclusions: Walking was associated with lower mor-
+tality across a diverse spectrum of adults with diabetes.
+One death per year may be preventable for every 61 people
+who could be persuaded to walk at least 2 h/wk.
+Arch Intern Med. 2003;163:1440-1447
+REGULAR PHYSICAL activity
+has been associated with re-
+duced risk for cardiovascu-
+lar disease (CVD), diabe-
+tes, and death in the general
+population.1-6 Similarly, walking and other
+forms of exercise were key components of
+lifestyle changes shown to prevent pro-
+gression to diabetes among people with
+impaired glucose tolerance.7-9 For people
+who already have diabetes, physical ac-
+tivity has been shown to improve insulin
+sensitivity, glycemic control, and CVD risk
+factors.10-12
+Less clear, however, is the impact of
+physical activity, particularly simple ac-
+tivities such as walking, on the long-term
+outcomes of people with diabetes. Only 2
+studies have examined the association of
+physical activity with the incidences of dis-
+ease and death among persons with dia-
+betes.13,14 Both studies associated physi-
+cal activity with reduced CVD or all-
+cause mortality, but they were composed
+of participants who were younger and
+likely healthier than the general diabetic
+population.
+Diabetes leads to an array of dis-
+abling complications, including visual
+impairment, peripheral and autonomic
+neuropathy, silent ischemia, cardiac ar-
+rhythmias, and an increased risk for sud-
+den death.15-17 These complications could
+make physical activity less feasible for
+people with diabetes and thereby limit its
+effects on the long-term health outcomes
+of the group as a whole. Physical activity
+also might not be as effective among people
+who have multiple comorbid conditions
+associated with diabetes.
+For editorial comment
+see page 1397
+ORIGINAL INVESTIGATION
+From the Division of Diabetes
+Translation, National Center
+for Chronic Disease Prevention
+and Health Promotion, Centers
+for Disease Control and
+Prevention, Atlanta, Ga.
+The authors have no relevant
+financial interest in this article.
+(REPRINTED) ARCH INTERN MED/VOL 163, JUNE 23, 2003 WWW.ARCHINTERNMED.COM
+1440
+©2003 American Medical Association. All rights reserved.
+Downloaded From: http://archinte.jamanetwork.com/ on 05/18/2014
+Because of these uncertainties about the effects of
+physical activity on people with diabetes, we attempted to
+determine how physical activity, particularly moderate-
+intensity activity, affects mortality risk across the full spec-
+trum of adults with diabetes. In 1990 and 1991, special sur-
+veys examined physical activity as part of the National
+Health Interview Survey (NHIS), a representative sample
+oftheUSpopulation.18,19 Afollow-upofcause-specificmor-
+tality conducted in 199720 gave us a unique opportunity
+to examine the relationship of walking and other physical
+activities to mortality risk among US adults with diabetes.
+METHODS
+STUDY DESIGN AND POPULATION
+The NHIS is an ongoing survey of the health status and behav-
+iors of the US noninstitutionalized population.18,19 The NHIS uses
+multistage probability sampling to select approximately 45000
+households and 120000 individuals each year. The overall re-
+sponse rate is approximately 95%. In this study, we used data on
+physical activity and health status collected from supplemental
+health promotion surveys conducted in 1990 and 1991 on a total
+of 84836 randomly subsampled adult respondents (41104 in a
+1990 survey and 43732 in a 1991 survey). The response rates for
+the supplements were 87% in 1990 and 92% in 1991.
+Data from 82985 (98%) of the respondents were linked
+to the National Death Index, a computer database of all deaths
+in the United States.20 In the linked sample, 3506 individuals
+reported having diabetes. Of these, we excluded 78 persons who
+had missing data on physical activity, 123 who had missing data
+on covariates, and 409 who were disabled and thus not asked
+all the physical activity questions. This left 2896 persons for
+whom we examined the association between physical activity
+levels in 1990 through 1991 and mortality during the next 8
+years.
+DIABETES AND
+HEALTH STATUS MEASUREMENTS
+In the 1990 and 1991 surveys, interviewers assessed diabetes
+status, age, race, sex, smoking, hypertension and use of anti-
+hypertensive medications, self-rated health (5-point scale rang-
+ing from excellent to poor), hospitalizations, and physician vis-
+its in the prior year. Participants also reported their height and
+weight, which were used to compute body mass index (BMI,
+calculated as weight in kilograms divided by the square of height
+in meters) and were asked whether they were trying to lose
+weight and whether they were cutting calories, attending a spe-
+cial program, or using special products to lose weight. Partici-
+pants were asked to describe activity limitations (ie, unable,
+limited, or not limited) and, if they had limitations, to identify
+the primary and secondary health conditions that led to the limi-
+tations. Using these responses, we categorized participants ac-
+cording to whether any CVD or cancer was a reported cause of
+their physical limitations. In the 1990 survey, participants were
+also asked whether they ever had a heart condition or stroke18
+and in 1991, participants were asked their age at diabetes di-
+agnosis and whether they take insulin.19
+PHYSICAL ACTIVITY ASSESSMENT
+In the 1990-1991 surveys, participants were asked how often
+they had walked for exercise during the previous 2 weeks, the
+average number of minutes they spent walking each time, and
+how much their heart and breathing rates increased (ie, no in-
+crease, small, medium, or large) while walking.18,19,21 Partici-
+pants were also asked whether they had participated in other
+sports or physical activities. Because the physical activities as-
+sessed in the 1990 and 1991 surveys varied slightly (eg, stretch-
+ing was not assessed in 1990 and calisthenics were not as-
+sessed in 1991), we limited our assessment to the 10 most
+common physical activities that were assessed in both survey
+years. Aside from walking, these activities were gardening, jog-
+ging, aerobics, cycling, swimming, weight lifting, golf, basket-
+ball, and tennis. We then calculated the total number of hours
+per week that participants spent walking and the total hours
+per week they spent doing any leisure physical activity. Occu-
+pational physical activity was only assessed in the 1990 survey
+and was not included in these analyses.
+MORTALITY ASSESSMENT
+Mortality was determined by matching the respondent to the
+National Death Index using an algorithm provided by the Na-
+tional Center for Health Statistics to determine which matches
+should be classified as deaths.20 The participants' vital status
+was available from the time of the survey (1990-1991) through
+December 31, 1997 (up to 8 years). Underlying causes of death
+were classified according to the codes of the International Clas-
+sification of Diseases, Ninth Revision.22 Deaths coded 410 to 448
+were classified as CVD deaths.
+STATISTICAL ANALYSES
+We used 2 tests and analysis of variance to compare study co-
+variates according to walking level at baseline. Age-adjusted mor-
+tality rates were standardized to the age structure of the US popu-
+lationwithdiagnoseddiabetesduringthe1990-1991surveyperiod.
+We used Cox proportional hazards regression analyses to deter-
+mine the mortality hazard rate ratio (HRR) associated with the
+numbers of hours per week they spent walking and performing
+anyleisureactivityandtheirself-perceivedwalkingintensity,while
+adjustingforpotentiallyconfoundingvariables.Multivariatemod-
+els controlled for age, race, sex, hypertension and the use of an-
+tihypertensive medications, weight loss approaches (as previ-
+ously described), number of days hospitalized, smoking (former
+and current), CVD or cancer that could be attributed to im-
+paired functioning, and the level of activity limitation in major
+daily activities. We also controlled for self-rated health because
+it is highly predictive of mortality,23 and thus may account for
+additional variation in baseline health status among physical ac-
+tivity groups.
+Because the duration of walking could vary with its in-
+tensity, we also examined the association between walking in-
+tensity and mortality, stratified by duration. Also, associations
+between walking and mortality could be explained by partici-
+pation in other types of physical activity. Thus, we conducted
+additional analyses in which we controlled for total physical
+activity and excluded persons participating in moderate- or high-
+intensity activities (5 metabolic equivalents), and reporting
+higher levels (2 h/wk) of nonwalking physical activity.
+We conducted additional analyses using the 1990 sample
+wherein we separately examined regression models to control
+for stroke and heart conditions. Similarly, we conducted analy-
+ses within the 1991 sample controlling for insulin use and time
+since diabetes diagnosis.
+We examined several potential interactions, including
+whether the relationship between walking and mortality risk was
+modified by sex, race, age, BMI, or comorbid conditions (ie, func-
+tionallimitationsassociatedwithCVDorcancer).Weappliedsur-
+vey weights to make study estimates representative of the US non-
+institutionalized adult population with diabetes. Analyses were
+conducted with SUDAAN version 7.5.4a software.24
+(REPRINTED) ARCH INTERN MED/VOL 163, JUNE 23, 2003 WWW.ARCHINTERNMED.COM
+1441
+©2003 American Medical Association. All rights reserved.
+Downloaded From: http://archinte.jamanetwork.com/ on 05/18/2014
+RESULTS
+At baseline, the mean age of the population was 58.7 years
+(range, 18-95 years). Their mean BMI was 28.4, and their
+average time since diabetes diagnosis was 11.0 years
+(Table 1). Of the total population, 16.6% were non-
+Hispanic black, 7.9% were Hispanic, and 2.6% were of
+other nonwhite race/ethnicity. When characterized by
+BMI,39.2%wereoverweight(BMI,25-29)and32.4%were
+obese (BMI, 30). In addition, 35.9% of the population
+reported using insulin, 29.1% reported heart disease, and
+45.5% reported having a limitation in daily function.
+In regard to walking, 46.0% of the population re-
+ported any walking for exercise and 20.7% reported walk-
+ing for at least 2 h/wk. Aside from walking, the most com-
+monly reported activities were gardening (25.1%), cycling
+(9.7%), weight lifting (4.0%), swimming (3.9%), aerobics
+(2.4%), jogging (2.4%), golf (2.1%), basketball (1.6%), and
+tennis (0.7%) (data not shown), and 61.8% reported per-
+formance of any leisure time physical activity.
+Compared with less active persons, those report-
+ing higher levels of walking were more likely to be men,
+to report trying to lose weight, and to have better self-
+rated health (P.05). Age, smoking prevalence, and ac-
+tivity limitations were lowest among those reporting some
+(0 to 1.9 h/wk) walking (P.01). Participants' race/
+ethnicity, BMI, time since diabetes diagnosis, insulin use,
+number of physician visits, hospitalizations, and his-
+tory of hypertension, heart disease, and stroke, and ac-
+tivity limitations related to CVD and cancer were not sig-
+nificantly associated with their baseline walking level.
+During 8.0 years of follow-up, 671 study participants died
+(3.7/100 person-years), including 316 who died of CVD
+(1.7/100 person-years).
+RELATIONSHIP BETWEEN
+PHYSICAL ACTIVITY AND MORTALITY
+Higher levels of walking and total physical activity were
+each associated with a lower incidence of all-cause and
+CVD mortality (Table 2). Compared with participants
+who reported no walking, those who walked at least 2
+h/wk had a 39% lower all-cause mortality rate (HRR, 0.61;
+95% confidence interval [CI], 0.48-0.78) and a 34% re-
+Table 1. Characteristics of the Study Population According to the Number of Hours Walked per Week*
+Variable Total
+Walking Level, h/wk
+P Value
+0 0-2 2
+No. of participants (weighted %) 2896 (100.0) 1551 (54.0) 726 (25.3) 619 (20.7)
+Women 52.5 54.1 53.6 47.1 .02
+Age, y, mean 58.7 59.8 56.7 58.3 .001
+18-44 18.0 15.8 21.7 19.1
+45-64 43.2 42.6 45.2 42.1
+65 38.8 41.6 33.1 38.8
+Race
+Non-Hispanic white 73.8 74.1 74.2 72.6 .85
+Non-Hispanic black 16.6 16.0 14.6 16.1
+Hispanic 7.9 8.5 6.3 8.4
+Other 2.6 1.4 5.0 3.1
+BMI, mean 28.4 28.5 28.5 28.0 .38
+25 28.4 27.6 26.5 32.5
+25 to 30 39.2 39.0 41.3 37.5
+30 32.4 33.4 32.2 30.0
+Years since DM diagnosis, mean§ 11.0 10.9 11.1 11.5 .72
+Insulin use 35.9 34.8 37.3 36.9 .77
+Smoking
+Current 20.1 22.8 14.9 19.6 .001
+Former 34.4 33.1 35.3 36.6 .40
+Trying to lose weight 42.2 36.8 49.9 47.0 .001
+Self-rated health (fair or worse) 38.4 42.0 36.0 31.8 .001
+Physician visits past year, mean 8.6 8.8 7.5 8.6 .15
+Any hospitalization in previous year 18.9 19.2 16.3 21.2 .11
+Hypertension 56.0 55.5 56.5 56.7 .88
+Heart disease¶ 29.1 27.7 28.7 32.8 .32
+Stroke¶ 8.7 7.8 8.1 11.4 .31
+Activity limitation 45.5 47.7 42.3 43.3 .04
+Limitation caused by CVD 13.3 13.8 12.4 13.0 .73
+Limitation caused by cancer 1.5 1.3 1.7 2.0 .55
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by the square of height in meters); CVD, cardiovascular disease; DM, diabetes
+mellitus.
+*Unless otherwise indicated, data are expressed as percentages. Percentages have been rounded and may not sum to 100.
+Indicates test for heterogeneity across groups, unless otherwise indicated.
+P values are based on comparison of non-Hispanic white subjects vs all other races.
+§Denominator is reduced (n = 1466) because this was assessed only at 1 survey year.
+Denominator is reduced (n = 1490) because this was assessed only at 1 survey year.
+¶Denominator is reduced (n = 1366) because this was assessed only at 1 survey year.
+(REPRINTED) ARCH INTERN MED/VOL 163, JUNE 23, 2003 WWW.ARCHINTERNMED.COM
+1442
+©2003 American Medical Association. All rights reserved.
+Downloaded From: http://archinte.jamanetwork.com/ on 05/18/2014
+duced CVD mortality risk (HRR, 0.66; 95% CI, 0.45-
+0.96), controlled for age, sex, race, BMI, smoking, utili-
+zation of health care services, attempts to lose weight,
+and comorbid conditions. Participants who reported at
+least 2 h/wk of total leisure-time physical activity had a
+29% lower all-cause mortality risk (HRR, 0.71; 95% CI,
+0.59-0.87) and a 24% (nonsignificantly) lower CVD mor-
+tality risk (HRR, 0.76; 95% CI, 0.57-1.03) than inactive
+participants. The associations among walking, physical
+activity, and lowered mortality were similar or slightly
+stronger when we excluded persons with disability. We
+also found similar walking-related mortality rate reduc-
+tions after we excluded deaths that occurred in the 2 years
+of follow-up (data not shown).
+The reduction in mortality corresponded to a 1.6%
+absolute difference in age-adjusted, all-cause annual mor-
+tality between those who walked at least 2 hours (2.8%)
+and those who did not walk (4.4%) and a 0.7% differ-
+ence in annual CVD mortality rates between those who
+walked at least 2 hours (1.4%) and those who did not
+walk (2.1%). Thus, among diabetic adults, one death per
+year may be preventable for every 61 people who could
+be persuaded to walk at least 2 h/wk. One CVD death
+per year may be preventable for every 145 persuaded to
+walk at least 2 h/wk.
+We found that controlling for participants' insulin
+status and disease duration using data from the 1991 sur-
+vey had little effect on the association between walking
+and mortality (data not shown). Similarly, controlling for
+heart trouble and history of stroke using the 1990 sur-
+vey sample did not alter the association between walk-
+ing and mortality. However, the CIs for these associa-
+tions were broader because these analyses relied on only
+half of the overall sample.
+WALKING DURATION AND
+INTENSITY AND MORTALITY
+We found that a greater duration of walking was asso-
+ciated with a lower all-cause mortality rate (for trend,
+P=.004) (Table 3). The greatest risk reduction was
+among those walking 3 to 3.9 h/wk (HRR, 0.46; 95% CI,
+0.29-0.71). This group had a similar reduction in CVD
+mortality risk (HRR, 0.47; 95% CI, 0.24-0.91), but we
+found no significant linear trend, and the surrounding
+point estimates were broader because of the smaller num-
+ber of CVD deaths. The association between time spent
+walking and mortality rates was similar after we ex-
+cluded deaths that occurred during the first 2 years of
+follow-up (data not shown). We also found that control-
+ling for physical activity other than walking and exclud-
+ing persons who participated in moderate or vigorous ac-
+tivities or performed greater than 2 h/wk of nonwalking
+physical activity had no appreciable effect on the asso-
+ciation between walking and mortality.
+Higher levels of perceived walking intensity were as-
+sociated with a reduced all-cause mortality rate (for trend,
+P=.006). Compared with participants who reported no
+walking, those who reported no, some, and moderate in-
+creases in heart rate or breathing rate had reductions in
+mortality rates of 5% (HRR, 0.95; 95% CI, 0.76-1.17),
+31% (HRR, 0.69; 95% CI, 0.51-0.95), and 43% (HRR, 0.57;
+95%CI,0.41-0.80),respectively.Thosewhoreportedlarge
+increases in heart rate or breathing rate did not have sig-
+nificantly reduced all-cause mortality (HRR, 0.93; 95%
+CI, 0.50-1.71), but the risk reduction was greater after
+we excluded deaths that occurred in the first 2 years of
+follow-up (HRR, 0.66; 95% CI, 0.34-1.29) (data not
+shown). Only 3% of the population reported large in-
+creases in heart rate or breathing rate with walking, and
+limited statistical power (22 deaths) was available to ex-
+amine mortality in this group.
+Associationsbetweenperceivedwalkingintensityand
+CVD mortality were weaker than for all-cause mortal-
+ity. Again, we found the greatest reductions in CVD mor-
+tality risk were among those who reported moderate in-
+creases in heart rate or breathing rate while walking,
+although the association was not statistically significant
+(HRR, 0.69; 95% CI, 0.43-1.09). Participants who re-
+ported large increases in heart rate or breathing rate had
+a nonsignificant 12% increased mortality risk (HRR, 1.12;
+95% CI, 0.45-2.78), but after excluding the first 2 years
+Table 2. Hazard Rate Ratios for All-Cause and CVD Mortality Associated With Walking and Total Physical Activity
+Among Persons With Diabetes
+Prevalence,
+%
+All-Cause Mortality CVD Mortality
+Age-Adjusted
+Rate,
+% per Year
+HRR
+(95% CI)*
+(n = 2896)
+Excluding
+Disabled Persons
+(n = 2449)
+Age-Adjusted
+Rate,
+% per Year
+HRR
+(95% CI)*
+(n = 2896)
+Excluding
+Disabled Persons
+(n = 2449)
+Walking, h/wk
+0 54.0 4.44 1.00 1.00 2.05 1.00 1.00
+0-1.9 25.3 3.89 0.93 (0.74-1.16) 0.93 (0.72-1.20) 1.89 1.01 (0.76-1.34) 0.92 (0.67-1.25)
+2 20.7 2.81 0.61 (0.48-0.78) 0.62 (0.48-0.80) 1.36 0.66 (0.45-0.96) 0.59 (0.40-0.87)
+P value for trend NA NA .001 .002 NA .08 .03
+Total physical activity, h/wk
+0 38.2 4.45 1.00 1.00 2.05 1.00 1.00
+0-1.9 25.5 4.20 0.95 (0.77-1.17) 0.89 (0.71-1.11) 1.96 0.96 (0.70-1.31) 0.81 (0.58-1.14)
+2 36.3 3.05 0.71 (0.59-0.87) 0.66 (0.54-0.82) 1.49 0.76 (0.57-1.03) 0.70 (0.51-0.94)
+P value for trend NA NA .003 .001 NA .19 .05
+Abbreviations: CI, confidence interval; CVD, cardiovascular disease; HRR, hazard rate ratio; NA, not applicable.
+*Controlled for age, sex, race, body mass index, self-rated health, smoking, weight loss approaches, hospitalizations, hypertension and use of antihypertensive
+medications, physician visits, limitations caused by CVD and cancer, and level functional limitation. All death rates are age adjusted to the US diabetic population.
+(REPRINTED) ARCH INTERN MED/VOL 163, JUNE 23, 2003 WWW.ARCHINTERNMED.COM
+1443
+©2003 American Medical Association. All rights reserved.
+Downloaded From: http://archinte.jamanetwork.com/ on 05/18/2014
+of follow-up, we found this group to have a nonsignifi-
+cant, 24% reduced mortality risk (HRR, 0.76; 95% CI,
+0.24-2.44) (data not shown).
+When we categorized individuals by combining
+time spent walking and perceived walking intensity
+(Table 4), the lowest mortality rates were for those
+who reported walking at least 2 h/wk with some
+increases in heart rate or breathing rate (HRR, 0.55;
+95% CI, 0.35-0.86) or moderate increases in heart rate
+or breathing rate (HRR, 0.44; 95% CI, 0.28-0.68).
+Large increases in heart rate or breathing rate were not
+significantly associated with mortality risk, regardless
+of the time spent walking, but again the statistical
+power was limited by the small sample size and num-
+ber of deaths (n=9).
+SUBGROUP ANALYSES
+When we stratified our analyses, the magnitude of the
+all-cause mortality risk reduction associated with
+walking at least 2 h/wk did not vary appreciably
+according to participants' sex, age, race, obesity, time
+since diabetes diagnosis, functional limitations, or
+presence of comorbid conditions. The greatest differ-
+ence in HRRs was for the comparison between those
+with (HRR, 0.72; 95% CI, 0.52-0.99) and without
+comorbid conditions (HRR, 0.52; 95% CI, 0.36-0.75)
+(Figure). However, we found no statistically signifi-
+cant interactions between physical activity level and
+any of these stratifications. Confidence intervals were
+broader and overlapped 1 in some cases, because there
+were fewer individuals in several of these strata. Also,
+we had inadequate power to assess associations with
+mortality among persons who were more likely to
+have type 1 diabetes (132 persons, or 7.4% of the 1991
+sample), but we found no difference in results when
+we excluded these persons from our analyses.
+COMMENT
+In this nationally representative sample of Americans
+with diabetes, higher levels of walking and total lei-
+Table 3. Hazard Rate Ratios for All-Cause and CVD Mortality Associated With Walking Duration and Perceived Intensity
+Among Persons With Diabetes
+Prevalence, %
+All-Cause Mortality CVD Mortality
+Age-Adjusted Rate,
+% per Year HRR (95% CI)*
+Age-Adjusted Rate,
+% per Year HRR (95% CI)*
+Walking duration, h/wk
+0 54.0 4.44 1.00 2.05 1.00
+0-0.9 12.9 4.42 1.00 (0.76-1.30) 2.26 1.16 (0.81-1.66)
+1-1.9 12.4 3.36 0.86 (0.62-1.18) 1.52 0.84 (0.53-1.31)
+2-2.9 5.7 2.70 0.61 (0.41-0.91) 1.40 0.81 (0.50-1.31)
+3-3.9 5.8 2.11 0.46 (0.29-0.71) 0.94 0.47 (0.24-0.91)
+4 9.2 3.17 0.72 (0.51-1.03) 1.30 0.67 (0.39-1.17)
+P value for trend NA NA .004 NA .20
+Perceived walking intensity
+No walking 54.5 4.44 1.00 2.05 1.00
+Increase in heart rate/breathing rate
+None 16.2 3.82 0.95 (0.76-1.17) 1.62 0.91 (0.66-1.25)
+Some 13.4 3.14 0.69 (0.51-0.95) 1.63 0.77 (0.49-1.20)
+Moderate 12.6 2.73 0.57 (0.41-0.80) 1.57 0.69 (0.43-1.09)
+Large 3.4 3.84 0.93 (0.50-1.71) 1.59 1.12 (0.45-2.78)
+P value for trend NA NA .006 NA .38
+Abbreviations: CI, confidence interval; CVD, cardiovascular disease; HRR, hazard rate ratio; NA, not applicable.
+*Controlled for age, sex, race, body mass index, self-rated health, smoking, weight loss approaches, hospitalizations, hypertension and use of antihypertensive
+medications, physician visits, limitations caused by CVD and cancer, and level of functional limitation. All death rates are age adjusted to the US diabetic
+population.
+Table 4. Hazard Rate Ratio for All-Cause and CVD Mortality
+Associated With Walking Duration and Perceived Intensity
+Among Persons With Diabetes
+Walking Duration,*
+Perceived Walking
+Intensity
+% of
+Population
+Age-Adjusted
+Rate,
+% per Year
+All-Cause
+Mortality,
+HRR (95% CI)
+0
+NA 54.5 4.44 1.00
+0-1.9
+None 8.0 4.39 1.23 (0.89-1.72)
+Some 7.7 4.35 0.83 (0.56-1.22)
+Moderate 7.5 2.91 0.70 (0.45-1.08)
+Large 2.0 4.19 0.89 (0.44-1.81)
+2
+None 8.2 3.40 0.74 (0.54-1.01)
+Some 5.7 2.37 0.55 (0.35-0.86)
+Moderate 5.1 2.52 0.44 (0.28-0.68)
+Large 1.4 3.10 0.99 (0.32-3.04)
+Abbreviations: CI, confidence interval; CVD, cardiovascular disease;
+HRR, hazard rate ratio; NA, not applicable.
+*Measured as hours per week.
+Measured as an increase in heart rate or breathing rate.
+Controlled for age, sex, race, body mass index, self-rated health,
+smoking, weight loss approaches, hospitalizations, hypertension and use of
+antihypertensive medications, physician visits, limitations caused by CVD
+and cancer, and level of functional limitation.
+(REPRINTED) ARCH INTERN MED/VOL 163, JUNE 23, 2003 WWW.ARCHINTERNMED.COM
+1444
+©2003 American Medical Association. All rights reserved.
+Downloaded From: http://archinte.jamanetwork.com/ on 05/18/2014
+sure time physical activity were associated with signifi-
+cant reductions in all-cause and CVD mortality. Spe-
+cifically, walking at least 2 h/wk was associated with a
+34% to 39% reduction in all-cause and CVD mortality
+rate, and even greater amounts of walking (ie, about
+3-4 h/wk) were associated with up to a 54% reduction
+in mortality. We also found that walking at moderate
+intensity levels was associated with the greatest reduc-
+tion in mortality rates. Overall, these findings support
+current recommendations that brisk walking on a
+regular basis is a key health behavior for persons with
+type 2 diabetes.11,12
+Our findings are also consistent with those of 2 pre-
+vious studies conducted among younger and healthier
+populations with diabetes.13,14 Among middle-aged (mean
+age, 50 years) men with type 2 diabetes in the Aerobics
+Center Longitudinal Study, physical activity was associ-
+ated with reduced all-cause mortality.13 In the Nurses'
+Health Study, moderate and vigorous physical activity
+were associated with reduced rates of overall cardiovas-
+cular events, coronary heart disease events, and ische-
+mic strokes among diabetic women aged 30 to 55 years
+who were free of CVD at baseline.14 Our study comple-
+ments these earlier studies by examining a nationally rep-
+resentative sample that was probably more diverse and
+had more comorbid conditions typical of diabetic per-
+sons. This diversity enhances the validity when making
+inferences to the overall diabetic population.
+Persons with diabetes have a high prevalence of
+microvascular and macrovascular diseases25 and func-
+tional limitations26 that could make exercise more dif-
+ficult. The complications of diabetes could also con-
+ceivably increase their risk for CVD events, falls,
+injuries, or foot ulcers.27-29 Thus, health care providers
+may be reluctant to encourage physical activity. How-
+ever, our results suggest that the effects of walking on
+longevity extend across these diverse characteristics,
+with roughly equal benefit regardless of age, sex, race,
+BMI, time since diabetes diagnosis, or presence of
+comorbid conditions and functional limitations.
+Walking could lengthen the life of people with dia-
+betes in several ways. Among people without diabetes,
+physical activity has been related to increased high-
+density lipoprotein cholesterol levels,30,31 decreased
+blood pressure,32 decreased insulin levels,33 increased
+cardiorespiratory fitness,34 and if accompanied by
+weight loss, decreased low-density lipoprotein choles-
+terol levels.30,31 Among diabetic persons, regular exer-
+cise is also associated with improved insulin sensitivity
+and glycemic control.10 These effects could help reduce
+the incidence of cardiovascular events and/or reduce
+mortality among those who already have cardiovascular
+disease.35 Finally, in the presence of multiple chronic
+diseases, exercise may forestall functional decline36,37
+and may delay death through other unexplained
+mechanisms.
+We found the lowest mortality rates among per-
+sons reporting moderate increases in perceived heart
+and breathing rates, but we found no mortality reduc-
+tion associated with large perceived increases in heart
+and breathing rates. One might conclude from this lat-
+ter observation that more intense levels of walking are
+not as beneficial for people with type 2 diabetes. How-
+ever, a large perceived increase in heart rate or breath-
+ing rate during walking might be a marker of exertional
+coronary ischemia or other undetected cardiovascular
+or pulmonary disease.2 If true, higher mortality rates
+among people with large perceived increases in heart
+rate/breathing rate could have been due to underlying
+disease rather than the intensity of exercise performed.
+This explanation is consistent with our finding that the
+amount of risk reduction associated with large per-
+ceived increases in heart rate or breathing rate was simi-
+lar to those with small or moderate increases when we
+excluded deaths that occurred during the first 2 years of
+follow-up.
+Our study has several limitations. Participants' dia-
+betes status was based on self-reports, which are highly
+sensitive and specific for previously diagnosed diabetes,
+but clearly miss individuals with undiagnosed diabe-
+tes.38 Thus, we may not be able to generalize our find-
+ings to those with undiagnosed diabetes. In addition, we
+had inadequate power to examine associations among per-
+sons who were more likely to have type 1 diabetes, and
+the long-term effects of physical activity among that sub-
+group remains unclear.
+Our analyses focused on walking because it is the
+most commonly performed and one of the safest forms
+of physical activity. However, we cannot generalize our
+findings to other specific activities or to physical activi-
+ties not included in the NHIS surveys (eg, household,
+transportation, and work-related physical activities).
+Also, because physical activity was measured by means
+of self-report during a 2-week time frame, it may not be
+representative of usual activity for all persons. However,
+physical activity surveys with a similar format and time
+frame have been shown to have high test-retest reliabil-
+ity and moderate correlations with energy expenditure
+0 0.2 0.8
+0.4 1.0
+0.6 1.2 1.4
+Men
+Women
+Aged 18-64 y
+Aged 65 y
+Nonwhite
+White
+Obese
+Nonobese
+DM Duration <10 y
+DM Duration 10 y
+No Comorbid Conditions
+Comorbid Conditions
+No Functional Limitations
+Functional Limitations
+Hazard rate ratios and 95% confidence intervals for all-cause mortality
+associated with walking for greater than 2 h/wk (vs no walking) according to
+participant characteristics. The analyses were controlled for age, sex, race,
+body mass index, self-rated health, smoking, weight loss approaches,
+hospitalizations, hypertension and the use of antihypertensive medications,
+physician visits, limitations caused by cardiovascular disease (CVD) and
+cancer, and level of functional limitation. Examination within duration of
+disease strata additionally controlled for insulin use. Comorbid conditions
+are defined as any functional limitations associated with CVD or cancer or a
+history of hospitalization during past year; limitation, as any self-reported
+limitation in major activity. DM indicates diabetes mellitus.
+(REPRINTED) ARCH INTERN MED/VOL 163, JUNE 23, 2003 WWW.ARCHINTERNMED.COM
+1445
+©2003 American Medical Association. All rights reserved.
+Downloaded From: http://archinte.jamanetwork.com/ on 05/18/2014
+using the doubly labeled water technique and to be pre-
+dictive of CVD and mortality in the general popula-
+tion.21 The reliability and validity of self-reported exer-
+cise intensity assessed in epidemiological studies is less
+clear. However, breathing and heart rate responses have
+been shown to be central cues to perceived exertion,
+which are highly correlated with actual workload in
+experimental settings.39 We also lacked detailed infor-
+mation on dietary composition, which may be associ-
+ated with physical activity and could similarly reduce
+mortality. However, our findings were not changed
+when we controlled for whether persons were trying to
+reduce calories or were enrolled in special programs to
+lose weight.
+Finally, we cannot rule out underlying health status
+as one of the factors explaining why physical activity
+was associated with decreased mortality risk. Sicker per-
+sons may have chosen not to be physically active
+because of chronic conditions or subclinical disease not
+measured by this study. However, we found that people
+reporting higher levels of walking at baseline actually
+had nonsignificantly higher levels of stroke, heart dis-
+ease, and hospitalization at baseline than those reporting
+no walking. In addition, our analyses controlled for
+variation in utilization of health care services, self-rated
+health, and functional limitations associated with
+chronic conditions, and our findings were essentially
+unchanged when we conducted analyses among a sub-
+sample who had been asked specifically about heart dis-
+ease and stroke.
+Many important questions remain about the ef-
+fects of physical activity on the long-term disease out-
+comes of people with diabetes. Although physical activ-
+ity leads to numerous physiological benefits, and although
+our findings suggest that walking increases longevity
+among patients with diabetes, the direct relationships be-
+tween physical activity and the incidence of microvas-
+cular and macrovascular complications, disability inci-
+dence, or quality of life among persons with diabetes have
+not been established. We lack data on adverse events that
+could conceivably result from physical activity, includ-
+ing hypoglycemia, foot ulcers, falls, and sudden cardiac
+death. We also lack the data needed to assess the inter-
+vening roles of factors such as glycemic control, weight
+loss, control of CVD risk factors, and specific incident
+events such as heart attack and stroke. Thus, it is impor-
+tant for future studies to clearly determine the mecha-
+nisms whereby walking and physical activity reduce mor-
+tality risk, and conduct randomized controlled trials to
+test the effects of specific types and amounts of physical
+activity on long-term health outcomes.
+The prevalence of diabetes and physical inactivity
+are both high in the United States.40,41 Our findings that
+regular walking is likely to increase longevity across a
+diverse spectrum of adults with diabetes means that suc-
+cessful efforts to increase physical activity levels of the
+US diabetic population could have broad public health
+benefits. To be successful, however, such efforts may de-
+pend on a combination of approaches, including com-
+munity-based programs, effective health promotion
+through the health care system, and environmental and
+cultural changes.
+Accepted for publication September 4, 2002.
+Corresponding author and reprints: Edward W.
+Gregg, PhD, Division of Diabetes Translation, Centers
+for Disease Control and Prevention, 4770 Buford Hwy
+NE, Mailstop K-10, Atlanta, GA 30341 (e-mail: edg7
+@cdc.gov).
+REFERENCES
+1. Paffenbarger RS Jr, Hyde RT, Wing AL, Hsieh CC. Physical activity, all-cause mor-
+tality and longevity of college alumni. N Engl J Med. 1986;314:605-613.
+2. Powell KE, Thompson PD, Caspersen CJ, Kendrick JS. Physical activity and
+the incidence of coronary heart disease. Annu Rev Public Health. 1987;8:253-
+287.
+3. Hakim AA, Petrovitch H, Burchfiel CM, et al. Effects of walking on mortality among
+nonsmoking retired men. N Engl J Med. 1998;338:94-99.
+4. Lakka TA, Laukkanen JA, Rauramaa R, et al. Cardiorespiratory fitness and the
+progression of carotid atherosclerosis in middle-aged men. Ann Intern Med. 2001;
+134:12-20.
+5. Hu FB, Sigal RJ, Rich-Edwards JW, et al. Walking compared with vigorous physi-
+cal activity and risk of type 2 diabetes in women: a prospective study. JAMA.
+1999;282:1433-1439.
+6. Helmrich SP, Ragland DR, Leung RW, Paffenbarger RS Jr. Physical activity and
+reduced occurrence of non­insulin-dependent diabetes mellitus. N Engl J Med.
+1991;325:147-152.
+7. Pan XR, Li GW, Hu YH, et al. Effects of diet and exercise in preventing NIDDM in
+people with impaired glucose tolerance: the Da Qing IGT and Diabetes Study.
+Diabetes Care. 1997;20:537-544.
+8. Tuomilehto J, Lindstrom J, Eriksson JG, et al. Prevention of type 2 diabetes melli-
+tus by changes in lifestyle among subjects with impaired glucose tolerance.
+N Engl J Med. 2001;344:1343-1350.
+9. Knowler WC, Barrett-Connor E, Fowler SE, et al (Diabetes Prevention Program
+Research Group). Reduction in the incidence of type 2 diabetes with lifestyle in-
+tervention or metformin. N Engl J Med. 2002;346:393-403.
+10. Boule NG, Haddad E, Kenny GP, Wells GA, Sigal RJ. Effects of exercise on gly-
+cemic control and body mass index in type 2 diabetes mellitus: a meta-analysis
+of controlled clinical trials. JAMA. 2001;286:1218-1227.
+11. Albright A, Franz M, Hornsby G, et al. American College of Sports Medicine po-
+sition stand: exercise and type 2 diabetes. Med Sci Sports Exerc. 2001;32:1345-
+1360.
+12. American Diabetes Association. Diabetes mellitus and exercise. Diabetes Care.
+2001;24(suppl 1):S51-S55.
+13. Wei M, Gibbons LW, Kampert JB, Nichaman MZ, Blair SN. Low cardiorespira-
+tory fitness and physical inactivity as predictors of mortality in men with type 2
+diabetes. Ann Intern Med. 2000;132:605-611.
+14. Hu FB, Stampfer MJ, Solomon C, et al. Physical activity and risk for cardiovas-
+cular events in diabetic women. Ann Intern Med. 2001;134:96-105.
+15. Nathan DM. Long-term complications of diabetes mellitus. N Engl J Med. 1993;
+328:1676-1685.
+16. Curb JD, Rodriguez BL, Burchfiel CM, Abbott RD, Chiu D, Yano K. Sudden death,
+impaired glucose tolerance, and diabetes in Japanese American men. Circula-
+tion. 1995;91:2591-2595.
+17. Diabetes Surveillance, 1997. Atlanta, Ga: US Dept Health and Human Services;
+1997.
+18. National Center for Health Statistics. 1990 National Health Interview Survey [da-
+tabase on CD-ROM]. Washington, DC: National Center for Health Statistics; 1993.
+CD-ROM series 10, No. 4.
+19. National Center for Health Statistics. 1991 National Health Interview Survey [da-
+tabase on CD-ROM]. Washington, DC: National Center for Health Statistics; 1993.
+CD-ROM series 10, No. 5.
+20. National Center for Health Statistics. National Health Interview Survey Multiple
+Cause of Death: 1986-94 Survey Years Dates of Death, 1986-1997 [database on
+CD-ROM]. Washington, DC: National Center for Health Statistics; 1999.
+21. Pereira MA, FitzGerald SJ, Gregg EW, et al. A collection of Physical Activity Ques-
+tionnaires for health-related research. Med Sci Sports Exerc. 1997;29(6, suppl):
+S1-S205.
+22. World Health Organization. International Classification of Diseases, Ninth Revi-
+sion (ICD-9). Geneva, Switzerland: World Health Organization; 1977.
+23. Idler EL, Benyamini Y. Self-rated health and mortality: a review of twenty-seven
+community studies. J Health Soc Behav. 1997;38:21-37.
+24. Shah BV, Barnwell GB, Bieler GS. SUDAAN User's Manual. Research Triangle
+Park, NC: Research Triangle Institute; 1997.
+25. Donnelly R, Emslie-Smith AM, Gardner ID, Morris AD. ABC of arterial and ve-
+(REPRINTED) ARCH INTERN MED/VOL 163, JUNE 23, 2003 WWW.ARCHINTERNMED.COM
+1446
+©2003 American Medical Association. All rights reserved.
+Downloaded From: http://archinte.jamanetwork.com/ on 05/18/2014
+nous disease: vascular complications of diabetes. BMJ. 2000;320:1062-1066.
+26. Gregg EW, Beckles GLA, Williamson DF, et al. Diabetes and physical disability
+among older U.S. adults. Diabetes Care. 2000;23:1272-1277.
+27. Albert CM, Mittleman MA, Chae CU, Lee I, Hennekens CH, Manson JE. Trigger-
+ing of sudden death from cardiac causes by vigorous exertion. N Engl J Med.
+2000;343:1355-1361.
+28. Mittleman MA, Maclure M, Tofler GH, Sherwood JB, Goldberg RJ, Muller JE, for
+the Determinants of Myocardial Infarction Onset Study Investigators. Trigger-
+ing of acute myocardial infarction by heavy physical exertion: protection against
+triggering by regular exertion. N Engl J Med. 1993;329:1677-1683.
+29. Gregg EW, Pereira MA, Caspersen CJ. Physical activity, falls, and fractures among
+older adults: a review of the epidemiologic evidence. J Am Geriatr Soc. 2000;
+48:883-893.
+30. Wood PD, Stefanick ML, Williams PT, Haskell WL. The effects on plasma lipo-
+proteins of a prudent weight-reducing diet, with or without exercise, in over-
+weight men and women. N Engl J Med. 1991;325:461-466.
+31. Stefanick ML. Physical activity for preventing and treating obesity-related dys-
+lipoproteinemias. Med Sci Sports Exerc. 1999;31(11, suppl):S609-S618.
+32. Fagard RH. Physical activity in the prevention and treatment of hypertension in
+the obese. Med Sci Sports Exerc. 1999;31(11, suppl):S624-S630.
+33. Mayer-Davis EJ, D'Agostino R Jr, Karter AJ, et al. Intensity and amount of physi-
+cal activity in relation to insulin sensitivity: the Insulin Resistance Atherosclero-
+sis Study. JAMA. 1998;279:669-674.
+34. Seals DR, Hagberg JM, Hurley BF, Ehsani AA, Holloszy JO. Endurance training
+in older men and women, I: cardiovascular responses to exercise. J Appl Physiol.
+1984;57:1024-1029.
+35. Oldridge NB, Guyatt GH, Fischer ME, Rimm AA. Cardiac rehabilitation after myo-
+cardial infarction: combined experience of randomized clinical trials. JAMA. 1988;
+260:945-950.
+36. Fiatarone MA, O'Neill EF, Ryan ND, et al. Exercise training and nutritional supple-
+mentation for physical frailty in very elderly people. N Engl J Med. 1994;330:
+1769-1775.
+37. Leveille SG, Guralnik JM, Ferrucci L, Langlois JA. Aging successfully until death
+in old age: opportunities for increasing active life expectancy. Am J Epidemiol.
+1999;149:654-664.
+38. Bowlin SJ, Morrill BD, Nafziger AN, Jenkins PL, Lewis C, Pearson TA. Validity of
+cardiovascular disease risk factors assessed by telephone survey: the Behav-
+ioral Risk Factor Survey. J Clin Epidemiol. 1993;46:561-571.
+39. Robertson RJ, Noble BJ. Perception of physical exertion: methods, mediators,
+and applications. Exerc Sport Sci Rev. 1997;25:407-452.
+40. Harris MI, Flegal KM, Cowie CC, et al. Prevalence of diabetes, impaired fasting
+glucose, and impaired glucose tolerance in US adults: the Third National Health
+and Examination Survey, 1988-1994. Diabetes Care. 1998;21:518-524.
+41. Mokdad AH, Bowman BA, Ford ES, Vinicor F, Marks JS, Koplan JP. The con-
+tinuing epidemics of obesity and diabetes in the United States. JAMA. 2001;286:
+1195-1200.
+(REPRINTED) ARCH INTERN MED/VOL 163, JUNE 23, 2003 WWW.ARCHINTERNMED.COM
+1447
+©2003 American Medical Association. All rights reserved.
+Downloaded From: http://archinte.jamanetwork.com/ on 05/18/2014
+

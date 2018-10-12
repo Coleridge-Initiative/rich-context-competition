@@ -1,0 +1,3741 @@
+Article
+A mixed methods systematic
+review of multimodal
+non-pharmacological
+interventions to improve
+cognition for people
+with dementia
+Garuth Chalfont, Christine Milligan and
+Jane Simpson
+Division of Health Research, Faculty of Health and Medicine,
+Lancaster University, Lancaster, UK
+Abstract
+Objective: Multimodal non-pharmacological interventions have been argued to have the poten-
+tial to complement current pharmacological approaches to improving quality of life for people
+living with dementia. The aim of this review was to identify, synthesise and appraise the evidence
+for the effectiveness of multimodal non-pharmacological interventions for improving cognitive
+function specifically.
+Method: After a comprehensive search strategy including grey literature, 26 studies were
+reviewed. The inclusion criteria concerned adults with a primary diagnosis of dementia.
+Studies used two or more different modes of intervention, and measured a cognitive outcome.
+Due to differences in the conceptualisations of the term `multimodal', a typology of modes and
+methods was developed to facilitate classification of candidate studies.
+Results: Twenty-one group studies and five case studies were found. Group studies used two or
+three modes of intervention and multiple methods to implement them. Interventions utilised
+were cognitive, physical, psychological and psychosocial, nutrition, fasting, gut health, sleep
+hygiene, stress reduction, detoxification, hormonal health and oxygen therapy. Five individual
+case studies were found in two separate papers. Each personalised patient treatment utilised
+in-depth assessments and prescribed up to nine different modes. In 19 (90%) of the 21 group
+comparisons, participants were reported to have cognitive improvements, stability with their
+Corresponding author:
+Garuth Chalfont, C4AR ­ Centre for Ageing Research, Division of Health Research, Faculty of Health and Medicine,
+Furness College, Room C83, Lancaster University, Lancaster LA1 4YG, UK.
+Email: g.chalfont@lancaster.ac.uk
+Dementia
+0(0) 1­45
+! The Author(s) 2018
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/1471301218795289
+journals.sagepub.com/home/dem
+dementia or a delay in their decline. The extent of these improvements in terms of meaningful
+clinical change was variable.
+Conclusion: Multimodal non-pharmacological interventions have the potential to complement
+singular therapeutic approaches by addressing multiple modifiable risk factors currently under-
+stood to contribute towards cognitive decline.
+Keywords
+dementia, cognition, non-pharmacological, multimodal, interventions, treatment, Alzheimer's disease
+Introduction
+The latest estimate of people affected by dementia worldwide is 50 million (Pickett et al.,
+2018), with a further nine million people developing dementia yearly (WHO, 2017).
+Current narratives suggest that the progression of dementia is inevitable, supported by
+the results of pharmacological trials which have been less than encouraging (Cummings,
+Morstorf, & Zhong, 2014). However, regardless of whether improvements in drug effi-
+cacy are possible, people with dementia often have other long-term conditions and so
+additional medication can cause unpleasant interactions with existing regimes. On the
+other hand, non-pharmacological interventions can provide complementary therapy,
+offering useful, versatile approaches to improve outcomes for people with dementia
+(Olazaran et al., 2010).
+Whilst a number of abilities are affected in people with dementia, its primary manifes-
+tation is through reduced cognitive ability. Global cognition is a broad term covering
+various cognitive functions including memory, executive functioning (time management,
+judgement, planning), attention (ability to direct energy to perform the task at hand, orga-
+nise tasks into a coherent logical pattern), language and communication. Cognitive inter-
+ventions (CIs) in people with dementia have been classified by Clare and Woods (2004) into
+three basic types ­ cognitive stimulation (CS), training (CT) and rehabilitation (CR).
+According to Buschert et al. (2011), training for specific cognitive functions is less useful
+for more impaired participants, but stimulation and activation of everyday functions tend to
+be more meaningful and successful. Overall, studies show evidence of small but consistent
+effects of CI in improving cognition (Alves et al., 2013). Moreover, evidence suggests that
+utilising more than one method of CI can incrementally improve cognition of people with
+dementia (Barban et al., 2016; Cotelli et al., 2014; Lee, Choi, Oh, Sohn, & Lee, 2016;
+Panerai, 2016).
+Another intervention with potential is routine physical exercise (Olazaran et al., 2010).
+Exercise increases the size of the hippocampus and improves memory in older adults
+(Erickson et al., 2011). For example, better cognitive scores, after 6 to 12 months of exercise,
+were found by Ahlskog, Geda, Graff-Radford, and Petersen (2011) who recommended
+exercise as a disease-modifying treatment. In particular, there is evidence of a beneficial
+cognitive effect of high intensity exercise interventions (Livingston et al., 2017). In a meta-
+analysis of 802 patients in 18 randomised controlled trials (RCTs) the combination of
+aerobic and non-aerobic exercise interventions (offered at both high and low frequency)
+positively influenced cognition in patients with dementia (Groot et al., 2016).
+2 Dementia 0(0)
+Another mode worthy of investigation is nutritional modification, with micronutrients,
+vitamins and antioxidants showing some evidence of attenuating disease progression (Aliev
+et al., 2013) and improving cognition through mitochondrial energy production and protein
+synthesis (Troesch, Weber, & Mohajeri, 2016). Proper nutrition is also related to AD
+through epigenetic pathways, suggesting a potential role in the prevention of late-onset
+AD and attenuation of cognitive deficits (Athanasopoulos, Karagiannis, & Tsolaki, 2016).
+As well as CIs, physical exercise and nutrition, numerous other modes can reduce the risk
+for dementia or address the symptoms. Whilst several of these are trialled in the included
+studies, more are emerging from new evidence that nearly 600 factors can potentiate the
+development of AD (Kostoff, Zhang, Ma, Porter, & Buchtel, 2017). This understanding that
+dementia is multifactorial and determined by mechanisms that interact and intervene
+throughout life (Van der Linden & Juillerat Van der Linden, 2016) has given rise to the
+emergence of multimodal approaches to prevention.
+Dementia prevention trials affirm that risk factors can be reduced when using a multi-
+modal approach, as multiple mechanisms may be necessary for clinically significant effects
+on global cognition (Ngandu et al., 2015). Indeed, activities containing more than one
+component seem to be more beneficial in reducing risk (Karp et al., 2006). These may
+exert a synergistic effect, for instance, whereby physical training guided by CT may facilitate
+the neuroplastic potential to induce beneficial cognitive effects (Bamidis et al., 2015), con-
+trolling cognitive decline and improving quality of life (QoL) (Aliev et al., 2013).
+Evidence for multimodal approaches also includes combined training for brain plasticity,
+neurogenesis in the hippocampus and a neuroprotective effect on the cerebral cortex
+(Garc
+ia-Mesa et al., 2011). For example, Curlik and Shors (2013) found that a combination
+of physical training followed by successful mental learning was more beneficial for neuronal
+recruitment and overall mental health than either activity alone. Furthermore, exercise in
+combination with dietary factors can affect molecular events related to the management of
+energy metabolism and the synaptic plasticity of cognition according to Gomez-Pinilla
+(2011). K
+obe et al. (2016) found that omega-3 fatty acid intake combined with aerobic
+exercise and CS prevented atrophy in AD-related brain regions in mild cognitive impairment
+(MCI) patients.
+Given the emergence of multimodal approaches, some reviews have already been con-
+ducted. Rodakowski, Saghafi, Butters, and Skidmore (2015) found small improvements in
+selected cognitive abilities in early stage dementia from a combination of cognitive and
+physical exercise. Law, Barnett, Yau, and Gray (2014) found significant cognitive function
+improvement in four out of five studies combining cognitive and exercise training in older
+adults with cognitive impairment. However, Rodakowski et al.'s (2015) scoping review
+looked at adults with a range of cognitive impairment. Law et al. (2014) looked only at
+exercise and CS in adults with and without cognitive impairment. Therefore, it remains to
+understand the extant evidence more comprehensively.
+Three gaps in the literature have been identified which make this review both timely and
+relevant. Firstly, whilst there is growing interest in non-pharmacological interventions for
+treating dementia, little is known about the effect of complex interventions in this popula-
+tion. Secondly, evidence exists for people with subjective cognitive impairment (SCI) and
+MCI, but evidence is lacking for measured cognitive outcomes in studies specifically for
+people living with dementia. Thirdly, whilst some reviews, such as the two above have been
+conducted which look at certain combinations of modalities, a thorough systematic review
+of all possible modality combinations has not been conducted. Consequently, this review
+Chalfont et al. 3
+provides a synthesis of the evidence for multimodal non-pharmacological interventions
+(MNPIs) for improving cognitive function for people living with dementia.
+Method
+Search strategy and screening
+A systematic search of peer-reviewed literature was performed on PubMed, PsycINFO,
+Medline, Scopus, EMBASE, Cochrane Database of Systematic Reviews, CINAHL
+and LILACS. Search terms included dementia, Alzheimer's or cognitive impairment and
+variations of multimodal, treatment, intervention, activity or programme tailored to each
+database (Online Appendix 1). Grey literature was also searched for theses, dissertations,
+policy documents and conference proceedings.
+Typology development
+Multiple terms in the evidence have been used to describe `multimodal' interventions. For
+this review, a classification system was required to determine how many modes a study
+utilised and hence, whether it was included. Drawing upon the categories of Choi and
+Twamley (2013) and Clare and Woods (2004), three initial modes were derived:
+1. Cognitive enhancement therapies (CS, CT and CR; non-invasive brain stimulation);
+2. Physical interventions (physical exercise, physical and occupational rehabilitation); and
+3. Psychological and psychosocial therapies (art, music, dance, cognitive-behavioural ther-
+apy (CBT), horticultural therapy (HT), psychotherapy, recreational activities, volunteer-
+ing, etc.).
+Seven further modes emerged from the title and abstract screening (see Table 1).
+Inclusion criteria
+All included studies met the following inclusion criteria:
+· Involved older people with a primary diagnosis of dementia;
+· At least two modes of non-pharmacological intervention;
+· Changes in cognitive function was an outcome measure;
+· Any study design or setting;
+· Studies with mixed participant groups (dementia, MCI, etc.) if subgroup analysis (e.g.,
+individuals with dementia) was available;
+· English language of any date.
+Exclusion criteria
+· Specifically addressed delirium, pain, incontinence or behavioural and psychological
+symptoms of dementia (BPSD);
+· If only two modes addressed and one of these delivered training, knowledge or support to
+care staff or family carers;
+4 Dementia 0(0)
+· One mode was pharmacological treatment. (If participants were taking stable doses of
+dementia medication prior to the study it was not excluded.)
+(A list of acronyms and abbreviations can be found in Online Appendix 4)
+Study selection
+Ninety-seven candidate studies were selected at the title/abstract stage by the first author
+(GC). The other authors (CM and JS) checked 10% of the studies, discussed and resolved
+any disagreements. Figure 1 shows the searching, screening and selection process. The team
+consulted on the modes and methods of intervention. Twenty-four papers were initially
+included (27 group or case studies) finalising the Typology at 10 modes (Table 1). See
+Online Appendix 2 for detailed descriptions of modes and methods.
+Included studies are shown in Table 2 with their modes of intervention.
+Searching the grey literature revealed increasing public and practitioner interest in the
+area of non-pharmacological treatments for dementia, including multimodal approaches.
+However, no findings from the grey literature met the inclusion criteria.
+Quality appraisal
+Given that both qualitative and quantitative studies were eligible for inclusion in the review,
+quality appraisal of the peer-reviewed literature utilised the Mixed Methods Appraisal Tool
+(MMAT), allowing for assessment of qualitative, quantitative and mixed method studies
+within one measure (Pluye et al., 2011; Souto et al., 2015). A recommended cut-off score of
+25% or less excluded lower quality papers from further analysis. At this stage, one paper
+was excluded (Jian, 1999) out of 24 reducing the total included papers to 23 (See Online
+Appendix 3: Quality Appraisal).
+Table 1. Typology of modes and methods for dementia interventions ­ Brief.
+Modes Methods
+1. Cognitive enhancement therapies (Choi & Twamley, 2013; Clare & Woods, 2004)
+a. Cognitive therapies, stimulation, rehabilitation and training (CST, ROT, RT, CR, CSPR, CT, BT, DT,
+GRT, MT)
+b. Non-invasive brain stimulation
+2. Physical
+a. Physical exercise (HIIT, AE, ST, DT)
+b. Physical and occupational rehabilitation (OT, PT, KT, IPP, PE)
+3. Psychological and psychosocial therapies
+a. Art, Music, Drama, Dance & Movement, CBT, HT, STH, PMT, Arts & Crafts, Tailored activities,
+Recreational activities, Spiritual elements, Community activities, volunteering
+4. Nutrition and diet
+5. Sleep hygiene
+6. Stress reduction ­ Meditation, etc.
+7. Detoxification ­ Sauna, etc.
+8. Hormonal health
+9. Oxygen therapy ­ Hyperbaric, Intermittent Hypoxic Training (IHT), Oxygen inhalation
+10. Traditional Chinese Medicine ­ Acupuncture, Herbs
+Chalfont et al. 5
+Data synthesis and analysis
+The included studies were found to have one predominant characteristic under which they
+could be compiled and synthesised. Ten studies in which the intervention mode was pre-
+dominantly cognitive (therapies, stimulation, rehabilitation or training) are presented in
+Table 3. Ten further studies in which the intervention was predominantly physical (exercise,
+occupation, rehabilitation or nutrition) are presented in Table 4. Finally, two case study
+papers (with a total of 5 individual case studies) in which the intervention mode was
+personalised treatment in a clinical or research setting are shown in Table 5. Study charac-
+teristics included author & year; sample, study design, intervention modes and methods,
+setting, study length, frequency and time involved.
+Participants and settings. Studies were from Korea (4), USA (4), Italy (3), Spain (3),
+Brazil (3), Germany (2), China (1), Portugal (1) and Singapore (1). Participant numbers
+in the group studies ranged from 14 (Maci et al., 2012) to 206 (Ibarria et al., 2016), with a
+mean of 58, and an age range of 54­93. Two case studies reported on five patients with
+Figure 1. Flowchart of the searching, screening and selection process.
+6 Dementia 0(0)
+Table 2. Included studies and their modes.
+Author, Year Country
+Cognitive
+therapies,
+Stimulation,
+Training &
+Rehabilitation
+Physical
+Exercise,
+Physical &
+Occupational
+Rehabilitation
+Psychological &
+Psychosocial Fasting
+Nutrition ­
+Diet
+Supplements,
+Antioxidants
+G I
+Health
+Sleep
+hygiene
+Stress
+reduction Detoxification
+Hormonal
+health
+Oxygen
+therapy
+Total
+modes
+Arkin (2007) USA    3
+Baglio et al. (2015) Italy    3
+Bredesen et al.
+(2016)*
+USA          9
+Burgener et al.
+(2008)
+USA    3
+Christofoletti
+et al. (2008)
+Brazil    3
+Coelho et al.
+(2013)
+Brazil   2
+Graessel et al.
+(2011)
+Germany    3
+Han et al. (2017) Korea    3
+Ibarria et al. (2016) Spain    3
+Kang et al. (2010) Korea    3
+Kim et al. (2016) Korea    3
+La Rue et al. (2015) USA    3
+Li and Li (2017) China   2
+Maci et al. (2012) Italy    3
+Onor et al. (2007) Italy    3
+Oswald et al. (2007) Germany    3
+Prokopov (2010)** Spain    2
+Raggi et al. (2007) Italy    3
+Serda i Ferrer and
+del Valle (2014)
+Spain    3
+Tay et al. (2016) Singapore    3
+Vicente de Sousa
+et al. (2017)
+Portugal   2
+Viola et al. (2011) Brazil    3
+Yoon et al. (2013) Korea   2
+*Contains 4 case studies; **Contains 1 case study.
+Table 3. Study characteristics ­ Cognitive.
+Study Sample
+Intervention Mode ­ Cognitive
+Therapies, Stimulation, Rehabilitation & Training
+Author &
+Year N (IG/CG) Age (IG/CG)
+Sex ­ %F
+(IG/CG) Diagnosis Study design Methods
+Other Modes
+and Methods Setting & Location
+Length &
+Frequency
+Weeks &
+Sessions
+Burgener et al.
+(2008)
+IG ¼ 24
+CG ¼ 19
+77.9 (7.9)
+76.0 (8.1)
+46%
+47%
+Early to early-middle
+stage dementia
+Repeated
+measures
+experimental,
+randomised,
+controlled
+Cognitive behavioral
+therapies (CBT)
+Physical: Taiji exercises
+Support group
+Living at home:
+Out-patient
+clinic
+CBT 90 min 2x/wk;
+Taiji 60 min 3x/wk;
+SG 90 min 2x/zwk
+540 min
+40 wks;
+CBT 80 sessions
+Taiji 120 sessions
+SG 80 sessions
+Graessel et al.
+(2011)
+IG ¼ 50
+CG ¼ 46
+Follow-up
+N ¼ 61 31/30
+84.5 Æ 4.5
+85.7 Æ 5.7
+IG 88%
+CG 78.3%
+Primary degenerative
+dementia (not VD);
+mild-mod
+Randomized, con-
+trolled, single-
+blind longitu-
+dinal study
+PP analysis
+MAKS ­ Cognitive
+stimulation therapy
+­Short spiritual element
+­ADLs practice
+­Motor stimulation exer-
+cises, creative tasks
+(work with wood,
+paper, etc.), gardening
+5 nursing homes 120 min
+6x/wk
+48 wks
+288 sessions
+Han et al.
+(2017)
+IG ¼ 32 MCI
+CG ¼ 32
+Dementia
+IG N ¼ 55 at
+follow-up
+77.13 Æ 6.58
+Dementia
+subgroup
+46.9%
+Dementia
+subgroup
+28 AZD
+3 VaD
+1 FTD
+Multi-center,
+double-blind,
+randomized,
+placebo-
+controlled (mock
+therapy MT), two
+8 wk periods
+(4 wk washout)
+crossover trial
+Multimodal Cognitive
+Enhancement Therapy
+(MCET)
+Cognitive training
+Cognitive stimulation
+Reality orientation
+Reminiscence therapy
+Physical exercise
+Music therapy
+Living at home:
+4 university
+hospital
+research
+centres
+180 min
+(30 min PE;
+30 min RO;
+30 min CT;
+30 min break &
+60 min of RT,
+CS & MT in turn)
+3x/wk
+8 wks
+24 sessions
+Crossover and
+repeat
+8 wks
+Ibarria et al.
+(2016)
+IG ¼ 206 75.88
+(Æ8.97)
+(54­93)
+150 women
+56 men
+Mild (54.2%) to
+moderate
+AD (45.8%)
+Descriptive non-
+random, no-
+control;
+Integrated
+Psychostimulation
+Programme (IPP)
+integrating Cognitive,
+Motor and Mood-related
+rehabilitation and
+stimulation for cognitive
+functions, such as
+memory, praxis,
+language, reasoning,
+etc.
+Exercise ­ Active and
+passive gymnastics,
+personal & spatial
+orientation, motor
+coordination, body
+language
+Music therapy
+Relaxation
+Occupational activities to
+maintain ADLs
+Expression & creativity
+Board games
+Caregivers involvement
+Fundaci
+o ACE
+Alzheimer
+Research
+Center and
+Memory Clinic
+8 h/day, 5x/wk,
+for 1 yr;
+M-F, 10 to 6.
+Some attended only
+3x/wk; some only
+half day.
+Estimated 3 full days,
+24 h/wk
+¼ 1440 min/wk
+The mean of time
+spent in the
+IPP
+programme
+was 10.2 mos
+(Æ3.43)
+Estimated 24 h/
+wk x 40.8
+wks ¼ 979 h
+120 sessions
+(continued)
+Table 3. Continued.
+Study Sample
+Intervention Mode ­ Cognitive
+Therapies, Stimulation, Rehabilitation & Training
+Author &
+Year N (IG/CG) Age (IG/CG)
+Sex ­ %F
+(IG/CG) Diagnosis Study design Methods
+Other Modes
+and Methods Setting & Location
+Length &
+Frequency
+Weeks &
+Sessions
+Kang et al.
+(2010)
+IG ¼ 20
+CG ¼ 18
+IG 60%
+CG 72.2% were
+65­79 yrs old
+IG 80%
+CG 100%
+Mild dementia; 23
+on Korean
+MMSE-K
+Quasi-experimen-
+tal, non-
+random con-
+trol group,
+pre­post-
+test design
+Cognitive stimulation:
+session consisting of
+activity involving
+training aides; concept
+memory training
+Exercise
+Music therapy
+Art therapy
+Horticultural therapy
+Living at home:
+Senior
+welfare centre
+180 min
+2x/wk
+9 wks
+18 sessions
+Li and Li
+(2017)
+IG ¼ 24
+CG ¼ 24
+Final analysis:
+IG ¼ 19
+CG ¼ 21
+IG 83.1
+(Æ4.1 SD)
+CG 81.8
+(Æ6.7 SD)
+IG 63.2%
+CG 76.2%
+IG
+26.3% Mild
+47.4 Moderate
+26.3 Severe dementia
+CG
+9.5% Mild
+61.9% Moderate
+28.6% Severe
+Quasi-
+experimental,
+randomised,
+controlled
+Folk recreational pro-
+gramme comprised of:
+Folk art activities including
+crafts, drawing,
+decorating and
+colouring which were
+mainly about
+Chinese tales or
+traditional festivals.
+Games ­ upper body phys-
+ical activities like fishing,
+throwing balls, ring
+toss, number finding,
+bowling
+Music activities ­ favourite
+folk songs
+Personalized training on
+daily life activity (ADLs)
+based on their func-
+tional level
+Individual activity pro-
+gramme according to
+their interest and pref-
+erence, like singing
+practice of favourite
+folk songs
+Long-term
+care facility
+40­50 min
+3x/wk;
+Individual sessions
+30 min 2x/wk
+Art ­ Tuesdays
+Games ­ Fridays
+Music ­ Sundays
+16 wks
+48 group sessions
+32 individual
+sessions
+Onor et al.
+(2007)
+IG ¼ 16
+8 patients
+and carers
+CG ¼ 16
+8 patients
+and carers
+60­80 yrs
+IG
+68 Æ 6.5
+CG
+72 Æ 5.2
+37.5% Mild-to-moderate
+AD
+Randomised,
+controlled
+pilot study
+Integrated rehabilitation
+programme:
+Reality Orientation
+Therapy
+­ Occupational Therapy:
+Activities stimulating
+implicit memory
+­ Reminiscence Therapy:
+Activities stimulating
+the memory of events
+­ Caregiver Psychoeducation
+Living at home,
+attending a
+university
+rehabilitation
+programme
+60 min group sessions
+3x week
+4 months
+Phase 1 ­ ROT
+8 wks
+24 sessions
+Phase 2 ­ 8 wks
+OT ­ 12 sessions
+RT ­ 12 sessions
+Oswald et al.
+(2007)
+Analysis sample
+after 53%
+dropouts:
+IG ¼ 64
+CG ¼ 73
+IG 83.06 (6.90)
+CG 82.7 (7.15)
+IG 87.5%
+CG 76.7%
+Dementia MMSE
+scores range
+from 16.2 to
+27.4 SISCO
+12-site
+controlled trial
+Cognitive activation ­atten-
+tion, concentration,
+speed of processing,
+storage, memory
+retrieval, maze tasks,
+Physical activation to train
+psychomotor skills
+­ 20 minutes physical
+exercise for balance,
+strength, stretching,
+12 Nursing homes 60 min/ 2x a week
+(Cognitive 20­30 min;
+Physical, psychomotor &
+relaxation 30 min)
+52 wks
+104 sessions
+(continued)
+Table 3. Continued.
+Study Sample
+Intervention Mode ­ Cognitive
+Therapies, Stimulation, Rehabilitation & Training
+Author &
+Year N (IG/CG) Age (IG/CG)
+Sex ­ %F
+(IG/CG) Diagnosis Study design Methods
+Other Modes
+and Methods Setting & Location
+Length &
+Frequency
+Weeks &
+Sessions
+digit/letter cancellation,
+memory exercises
+coordination, warm-up;
+psychomotor, tactile
+experience
+Social interaction
+Relaxation
+Raggi et al.
+(2007)
+50 76 SD 6.33
+>50% aged 71­81
+28% Admitted with
+probable AD; diag-
+nosed with mild
+(30%)
+mod (40%)
+severe (30%)
+Pre­post-test
+study
+Treatment course
+depended on
+MMSE score.
+Comprehensive rehabilita-
+tion programme
+MMSE <10: informal and
+formal ROT.
+MMSE >10 ROT integrated
+with daily computerised
+cognitive training
+Some patients and carers
+underwent support
+Psychotherapy
+Some met one-on-one with
+an Activity therapist
+Mobility deficits were
+treated with
+Physical Therapy
+Specialised
+hospital unit;
+and
+returned
+home
+MMSE <10: 45 min
+2x/day,
+7 days/wk
+MMSE >10:
+ROT 7x/wk
+OT 5x/wk
+17 mos overall
+but duration
+of the stay
+varied
+depending on
+compliance
+and clinical
+requirements.
+Mean stay in hos-
+pital was 26
+days (SD 5.52)
+Yoon et al.
+(2013)
+Two IGs:
+CA ¼ 9
+CAE ¼ 11
+77.9 Æ 7.5
+70.1 Æ 12.2
+Not given Dementia
+with MMSE scores
+ranging from 16
+to 23
+Randomized,
+two-group,
+pre­post-test
+Cognitive activity (CA)
+Memory training
+included sequential
+memory recall tasks;
+Three-back verbal
+working memory
+Cycling w exercise (CAE)
+received the same
+intervention as the CA
+group, with the addition
+of a cycling exercise
+during their cognitive
+activity session.
+Plus conventional Physical
+Therapy (PT)
+Long-term
+care facility
+CA ¼ 20 min 3x/wk
+þ PT 30 min 5x/wk
+CAE ¼ cycling
+20 min 3x/wk
+þ CA 20 min 3x/wk
+þ PT 30 min 5x/wk
+12 wks
+CA: 96 sessions
+CAE: 132 sessions
+Table 4. Study characteristics ­ Physical.
+Study Sample
+Intervention Mode ­ Physical
+Exercise, Occupation, Rehabilitation & Nutrition
+Author & Year N (IG/CG)
+Age
+(IG/CG)
+Sex ­ %F
+IG, CG Diagnosis Study design Methods Other Modes Other methods Setting & location Duration, Frequency Weeks/Sessions
+Arkin (2007) IG N ¼ 24
+CG CERAD
+N ¼ 245
+4th year
+completers
+N ¼ 4
+Mean (78.8/75.5)
+SD (8.0/7.7)
+IG ¼ 67%
+CERAD
+¼60%
+Mild to mod
+Probable AD
+(CERAD)
+Controlled, non-
+random,
+longitudinal, 4
+cohorts of
+programme
+completers;
+students run
+interventions;
+database for
+matched controls
+Elders Rehab
+Exercise ­ Aerobics (tread-
+mill, bike), stretching,
+balance & resistance
+exercises, enriched with
+memory & language
+stimulation
+Cognitive
+Psychological
+Psychosocial
+Language-enriched
+physical fitness
+w memory & lan-
+guage stimulation;
+socialising; super-
+vised volunteer
+work;
+1 exercise session per
+week supervised
+by caregivers
+University Medical
+Ctr (Wellness
+Centre); at home
+and out
+in community
+Exercise minimum
+time of 1 h, 2x/wk;
+memory training
+1x/wk;
+Volunteering
+1x/wk; total of
+300 min
+4 sessions/wk,
+10 wks x 2
+semesters
+(Spr & Fall)
+¼ 20 wks
+¼ 80
+sessions
+Christofoletti
+et al. (2008)
+IG:1 ¼ 17
+IG:2 ¼ 17
+CG ¼ 20
+70.0 Æ 1.8
+72.9 Æ 2.3
+79.4 Æ 2.0
+65%
+70%
+70%
+Mixed dementia,
+moderate
+stage
+Longitudinal
+randomised
+controlled
+IG:2 ­ only
+physiotherapy
+interventions
+CG: no motor
+intervention
+Physiotherapy ­ Individual
+sessions concentrated
+on kinesiotherapeutic
+exercises to stimulate
+strength, balance and
+. . . Cognition such as
+concentrated attention,
+recognition, immediate
+memory, working
+memory & praxis using
+bars, Bobath balls,
+elastic ribbons and
+proprioceptive
+stimulation plates
+Occupational therapy
+Physical education
+Expression
+Creativity
+Arts & crafts (picture,
+paint, draw,
+embroider)
+connect motor
+coordination with
+cognition. Walking,
+upper & lower limb
+exercises stimulate
+strength, balance,
+motor coordina-
+tion, agility,
+flexibility and
+aerobic endurance.
+Long-term psychiatric
+institution
+120 min
+5x/wk
+24 wks
+120 sessions
+Coelho et al.
+(2013)
+IG ¼ 14
+CG ¼ 13
+IG 78.0 Æ 7.3
+CG 77.1 Æ 7.4
+Not given Mild and
+moderate AD
+Non-random
+controlled
+Motor activities and cognitive tasks
+simultaneously; strength/resistance training,
+aerobic capacity, flexibility, balance, agility, and
+concomitantly cognitive activities requiring
+focused attention, planned organization of the
+answers, abstraction, motor sequencing,
+judgment, self-control behaviour and mental
+flexibility. Two sets of conditions: (i) free gait
+(single task); and (ii) gait w frontal cognitive task
+(walking and counting down: dual task).
+Motor task (bouncing
+ball, walking or
+exercise with
+weights) combined
+with a
+Cognitive task such as
+finding words
+according to
+semantic criteria
+(animals, fruits,
+University
+Department of
+Physical Education,
+Biosciences
+Institute
+60 min 3x/wk; 16 wks
+48 sessions
+(continued)
+Table 4. Continued.
+Study Sample
+Intervention Mode ­ Physical
+Exercise, Occupation, Rehabilitation & Nutrition
+Author & Year N (IG/CG)
+Age
+(IG/CG)
+Sex ­ %F
+IG, CG Diagnosis Study design Methods Other Modes Other methods Setting & location Duration, Frequency Weeks/Sessions
+people, flowers. . .)
+or reacting to sen-
+sory stimuli and
+verbal commands.
+Kim et al.
+(2016)
+IG ¼ 19
+CG ¼ 14
+81.9 Æ 7.0
+80.9 Æ 6.1
+IG 68.4%
+CG 85.7%
+Moderate
+to severe AD
+Single-blind
+6-mo RCT
+MCP group or
+KEP þ MCP group
+Physical exercise (KEP)
+Supervised exercise
+sessions: warm up,
+stretching, lower limb
+aerobics using
+TERASU-ERUGO,
+cool-down,
+relaxation, stretching
+Multicomponent
+Cognitive
+Program (MCP)
+Music therapy, art
+therapy, handicraft,
+horticulture therapy,
+recreational therapy,
+laughing therapy
+and activity therapy.
+Nursing home MCP: 60 min, 2x/day,
+5x/wk ¼ 10x/wk
+KEP: 60 min 5x/wk
+24 wks (6
+months)
+MCP: 240
+sessions
+KEP:
+120 sessions
+La Rue et al.
+(2015)
+IG ¼ 64
+N ¼ 29 at 1st
+follow-up
+92% ! 70 56% AD ¼ 42, 66%
+Non AD
+Dem
+¼ 17, 26%;
+MCI/pending
+¼ 5, 8%
+1-arm trial of a quasi-
+experimental
+design, no control;
+1st follow-up
+N ¼ 28 42 wks/11
+mos.
+N ¼ 7 in 2nd follow-up
+avg 82 wks/20 mos
+Language-Enriched Exercise
+Plus Socialization
+(LEEPS) Programme:
+combines physical exer-
+cise with cognitive-
+linguistic stimulation
+Cognitive
+Psychological
+Psychosocial
+Participant & volun-
+teer meet for exer-
+cise plus language
+stimulation and for
+a social outing or
+volunteer work
+University Wellness
+Center, at the
+person's own
+home and in
+the community
+Exercise þ Language
+session, 90 min,
+1x/wk; outing or
+volunteer work,
+1x/wk
+44 wks/11 mos.
+Exercise þ lang.
+sessions
+27.5 (9.7)
+Social/volunteer
+Sessions
+6.86 (9.14)
+Maci et al.
+(2012)
+IG ¼ 7
+CG ¼ 7
+IG 75.0 Æ 12.3
+CG 70.3 Æ 5.8
+57%
+57%
+Mild to mod AD,
+MMSE 16­24
+Pilot study, random,
+controlled, pre-test
+post-test
+GAIA: Physical activity,
+mental stimulation and
+socialisation. Physical
+exercises included mild
+intensity aerobics, exer-
+cises for balance and
+gait, eye-hand coordi-
+nation, segmental coor-
+dination, respiration
+and muscle trophism.
+All exercises were
+performed every day.
+Cognitive
+Social
+Cognitive stimulation
+activities related to
+enhancement of
+spatio-temporal
+orientation,
+memory, executive
+skills and language.
+Socialisation was
+encouraged during
+transport/intervals
+and at the end
+of the morning
+during the
+group discussion.
+University gymnasium
+and whilst travel-
+ling as a group
+enroute from
+home to gymnasi-
+um and back again
+240 min, 5x/wk:
+60 min physical activity
+60 min cognitive
+stimulation;
+30 min group
+discussion;
+60 min transport to
+and from home
+12 wks
+60 sessions
+(continued)
+Table 4. Continued.
+Study Sample
+Intervention Mode ­ Physical
+Exercise, Occupation, Rehabilitation & Nutrition
+Author & Year N (IG/CG)
+Age
+(IG/CG)
+Sex ­ %F
+IG, CG Diagnosis Study design Methods Other Modes Other methods Setting & location Duration, Frequency Weeks/Sessions
+Serda
+` i Ferrer and
+del Valle (2014)
+IG ¼ 64 Mean
+75.53 SD 6.28
+(64­87 years)
+54.69% AD
+Mild 29.69%
+Mod 31.25%
+Sev 39.06%
+Quasi-experimental,
+non-controlled,
+random (selected
+at random based
+on their clinical
+records);
+7 groups of 8­10
+participants
+grouped by
+dementia severity
+Rehabilitation Programme ­ multicomponent/
+modular therapy to rehabilitate the motor, cog-
+nitive, affective, and social dimensions. Three
+categories of tasks: physical exercise, cognitive
+re-education and psychomotor stimulation,
+with the social dimension throughout. Physical
+exercise or meaningful recreational activity is
+linked or combined with cognitive exercises so
+physical activity indirectly activates cognitive
+functions. Social cognitive training exercises
+aimed to bridge cognitive and procedural
+motor activation.
+Physical: Aerobics,
+resistance, balance,
+strength;
+Cognitive: Memory,
+attention, orienta-
+tion, language,
+symbolism,
+decision-making,
+calculation and
+comprehension.
+Psychomotor: Basic,
+perceptual and
+neuromotor
+functions.
+Relaxation & feedback
+Day hospitals in the
+Alt Emporda
+` and
+Baix Emporda
+`
+districts of
+Catalonia (Spain)
+60 min
+2x/wk
+12 mos
+80 sessions
+Tay et al. (2016) IG ¼ 39 79 Æ 6.2 years 43.6% Mild dementia
+Mixed types
+Prospective
+cohort study
+Combined cognitive stimulation and physical
+exercise programme (MINDVital) on gait
+performance under single- and dual-task
+conditions;
+(1) Multicomponent physical exercise programme
+(45 min)
+(2) Cognitive stimulation and rehabilitation
+(60 min)
+(3) Art therapy as part of the cognitive interven-
+tion to stimulate cognitive, emotional and
+interpersonal skills
+(4) Tailored individualized activities delivering
+person centred care (30 min)
+(1) Light aerobics,
+resistance, range of
+motion, balance
+training
+(2) Social and mental
+activities for spatial
+and temporal ori-
+entation, language
+and memory
+(3) Expressive techni-
+ques, art therapy,
+non-verbal expres-
+sion
+(4) Engage in an
+enjoyable activity
+such as iPAD
+games, calligraphy.
+Outpatient
+Geriatric Clinic
+180 min
+1x/wk
+8 wks cycles
+2 cycles each
+16 weeks
+16 sessions
+Vicente de Sousa
+et al. (2017)
+IG,1 ¼ 25
+CG ¼ 43
+IG,2 ¼ 11
+This 2nd IG
+NSG
+77.8 (7.2)
+NSPRG 80.0 (6.4)
+NSG
+60%
+NSPRG
+36%
+Mild to
+moderate AD
+Prospective,
+randomized con-
+trolled trial with IG
+& CG; A further IG
+Oral Nutritional
+Supplementation
+(ONS) Small volume
+high-protein energy-
+Psychomotor
+Rehabilitation
+Programme
+including a
+Targeted objectives
+consisted of: atten-
+tional tasks,
+strength, tonicity,
+Day care centre 60 min
+2x wk
+3 wks
+12 sessions
+(continued)
+Table 4. Continued.
+Study Sample
+Intervention Mode ­ Physical
+Exercise, Occupation, Rehabilitation & Nutrition
+Author & Year N (IG/CG)
+Age
+(IG/CG)
+Sex ­ %F
+IG, CG Diagnosis Study design Methods Other Modes Other methods Setting & location Duration, Frequency Weeks/Sessions
+(NSPRG) in
+the day
+centre
+was
+our focus
+CG
+65%
+performed a nutri-
+tional supplemen-
+tation psychomo-
+tor rehabilitation
+programme
+(NSPRG). This
+IG was a
+convenience
+sample with no
+control. Follow-up
+lasted 180 days.
+dense liquid ONS
+(125 mL) containing
+300 kcal/d
+12 g protein, 37.1 g carbo-
+hydrates and 11.6 g fat.
+Available in 4 flavours.
+Caregivers recorded the
+amount consumed.
+multicomponent
+modular
+therapy
+programme
+static and dynamic
+balance exercises,
+body awareness,
+spatial and tempo-
+ral restructuration,
+immediate and
+working memories
+and praxis, fine
+motor skills, and
+gross motor skills.
+Viola et al. (2011) IG ¼ 25
+CG ¼ 16 and
+their carers
+Patients:
+Avg age 75
+Caregivers:
+Mean age 51.6
+IG 64%
+CG 62%
+Mild AD
+CDR ¼ 0.5
+IG ¼ 9
+CG ¼ 7
+CDR ¼ 1.0
+IG ¼ 16
+CG ¼ 9
+Single-blind, con-
+trolled; Four inter-
+vention groups
+were formed,
+N ¼ 12 plus
+their caregivers
+Multidisciplinary cognitive
+rehabilitation pro-
+gramme; Group ses-
+sions included memory
+training, computer-
+assisted cognitive stim-
+ulation, rehabilitation
+and cognitive training
+to improve attention,
+memory, spatial and
+temporal orientation,
+and self-adaptations to
+cognitive impairment.
+Art therapy
+Occupational therapy
+Physiotherapy
+Physical training
+Speech therapy
+Cognitive stimulation
+Reading
+Logic games
+Caregiver interventions
+Expressive activities
+such as writing
+and art, painting to
+stimulate cognitive,
+emotional, and
+interpersonal skills
+through expressive
+and artistic techni-
+ques; develop
+resources and
+strategies to com-
+plete functional
+goals, train ADLs;
+improve balance,
+prevent falls;
+enhance communi-
+cation; improve
+concentration,
+rapid thinking,
+decision-
+making, etc.
+University-based
+day-hospital
+memory facility
+300 min (5 h)
+2x/wk
+12 wks
+24 sessions
+Table 5. Study characteristics ­ Personalised treatment ­ N of 1.
+Study Sample Intervention Mode ­ Personalised Treatment
+Author & Year N (IG/CG) Age (IG/CG)
+Sex ­ %F
+IG, CG Diagnosis Study design Primary method Other Modes Methods Setting & location Frequency Weeks/ Sessions
+Bredesen
+et al. (2016)
+N ¼ 4
+Case studies:
+Patient 2
+Patient 6
+Patient 7
+Patient 9
+P2 ­ 69
+P6 ­ 74
+P7 ­ 62
+P9 ­ 54
+M
+M
+M
+F
+AD type 2
+(atrophic)
+AD type 1
+(glycotoxic)
+AD type 1
+AD type 3
+Programmatic,
+personalised
+approach
+MEND Protocol ­
+Nutrition, diet,
+vitamins, supple-
+ments, herbs, fast-
+ing, antioxidants
+Responsive to subop-
+timal metabolic
+parameters; con-
+tinued optimiza-
+tion, iterative
+treatment and
+metabolic
+characterization
+Sleep
+Stress
+Exercise
+Brain
+stimulation
+Hormones
+GI health
+Toxins
+Sleep hygiene,
+stress reduc-
+tion, aerobics,
+strength train-
+ing, brain
+training, hor-
+mone therapy,
+intranasal VIP
+(vasoactive
+intestinal pep-
+tide), address
+heavy
+metal toxicity
+Laboratory/clinic
+assessment;
+Individual
+sessions;
+Lifestyle
+changes at
+home:
+Use of
+life coaches
+Variable,
+repetitive,
+ongoing;
+periodic
+consultations
+P2 ­ 24 months
+P6 ­ 9 months
+P7 ­ 10 months
+P9 ­ 3 months
+Prokopov (2010) N ¼ 1 78 yrs 100% MRI, degenerative
+changes;
+progressive
+mental deteri-
+oration; MRI
+hippocampal,
+cortical
+atrophy,
+enlarged
+volume of
+ventricles;
+typical of
+AZD-type
+dementia
+Rejuvenative
+Personalised
+treatment
+Repeated sessions of
+intermittent hyp-
+oxic training (IHT).
+Patients comfort-
+ably relax in a
+recliner, their cells
+and mitochondria
+go through multi-
+ple oscillations of
+pO2. Intermittent
+oxygen restriction
+(IOR) is a universal
+stimulus rapidly
+triggering multiple
+compensatory
+strategies that sup-
+port genome
+integrity. IHT is the
+most `engineered'
+mitochondria-tar-
+geting intervention
+among
+IOR protocols.
+Individualized
+vitamins,
+amino acids,
+microelements
+and supple-
+mentation
+consisted of
+two formulas
+of Dr Rath's
+programme:
+Vitacor
+And Epican
+Forte
+Nutritional
+adjustment
+Fasting
+Advised to eat a
+low-glycaemic-
+index, low
+carbohydrate,
+ketogenic diet,
+enriched with
+animal
+proteins &
+omega-3 fatty
+acids.
+Advised on
+fasting
+protocol: limit
+food intake to
+within 6­7
+h window to
+extend
+physiological
+night fasting
+time to 18 h
+Laboratory/clinic
+assessment;
+Individual
+sessions
+IHT 3-4x/wk
+After each
+cycle of 15 IHT
+sessions, one
+month pause,
+then repeated
+the whole cycle.
+4 cycles of IHT;
+8 mos of
+supplementa-
+tion
+programme
+dementia, aged 54­78 (Bredesen et al., 2016a; Prokopov, 2010). Participants totalled 1,178,
+of which 388 in six studies lived in long-term care (nursing home or a psychiatric hospital)
+and 790 in 16 studies lived at home, attended a day service or were hospitalised for a period
+of weeks. Two studies (Onor et al., 2007; Viola et al., 2011) also enlisted the caregivers as
+participants during the intervention.
+Pharmacology. Some participant groups were on stable doses of memantine, cholinester-
+ase inhibitors and/or antidepressants prior to, and during, the studies although no study
+declared participants to be drug-nai¨ve. Individualised treatment programmes that purported
+to address the root cause of the dementia symptoms (Bredesen et al., 2016; Prokopov,
+2010) prescribed pharmaceutical adjuncts such as bio-identical hormones to address specific
+imbalances.
+Study designs. Whilst the methodology was designed to be inclusive of qualitative and
+mixed methods studies, all studies meeting the inclusion and quality criteria were quantita-
+tive in design, but quite heterogeneous. Whilst all carried out pre­post-tests, only 11 (48%)
+were RCTs (Quality Appraisal 84%). A further five were non-randomised (QA 100%)
+and seven were quantitative descriptive (QA 100%) (see Quality Appraisal in Online
+Appendix 3). Han et al. (2017) was the only double-blind or cross-over trial. Three were
+conducted across multiple centres: Graessel et al. (2011) and Oswald, Gunzelmann, and
+Ackermann (2007) in German nursing homes, and Serda
+` i Ferrer and del Valle (2014) in
+Spanish day hospitals. For characteristics of all studies, see Tables 3 to 5.
+Intervention modes and methods. Li and Li (2017) had no cognitive mode, and Prokopov
+(2010) and Vicente de Sousa et al. (2017) had neither cognitive nor physical mode, but all
+others had both. Only four lacked a psychological, psychosocial, psychomotor, spiritual,
+caregiver or support mode. One used oxygen therapy (Prokopov, 2010) and three addressed
+diet and nutrition and/or fasting (Bredesen, 2016; Prokopov, 2010; Vicente de Sousa et al.,
+2017). Four studies termed `multicomponent' or `dual-task' combined modes simultaneous-
+ly and are shown in Table 4 spanning two columns. Methods utilised within the studies
+illustrated the creative variability of the main modes. Cognitive mode (Table 3) included
+methods such as therapies, stimulation, rehabilitation and training. Physical mode (Table 4)
+included methods such as exercise, occupation, rehabilitation and nutrition. Table 5 eluci-
+dates multiple methods found in personalised treatment interventions.
+Study duration. The length of group intervention ranged from 20 minutes (Yoon et al.,
+2013) to 8 hours (Ibarria et al., 2016). The shortest timeframe was three weeks (Vicente de
+Sousa et al., 2017), whereas Arkin (2007) continued a facilitated intervention for up to four
+years. Personalised N-of-1 treatments were followed-up through clinic visits for 24 months
+(Bredesen et al., 2016).
+Stage and type of dementia. Seven studies included participants with mild dementia, 11
+with mild to moderate, three with mild, moderate or severe and one with moderate to severe.
+Twelve studies included participants with AD whilst 10 included unspecified or mixed types
+of dementia. A study by La Rue, Felten, and Turkstra (2015) included 8% (N ¼ 5) of
+participants with MCI. The decision was taken to include this study as >90% of partic-
+ipants fit the inclusion criteria.
+Outcome measures. For cognitive assessment, multiple tools were utilised. Predominantly,
+21 studies used the MMSE (English, Korean and Chinese versions), nine used the Clinical
+Dementia Rating (CDR) and fouir used the ADAS-Cog (Cognitive subscale of the
+Alzheimer's Disease Assessment Scale) or ADAS-K (Korean version). Fourteen other
+scales were used once or twice (see Table 6 for details). Of the 21 group studies, 17 (81%)
+16 Dementia 0(0)
+Table 6. Cognitive outcomes ­ Efficacy.
+Study Country
+Cognition tools to
+diagnose for study
+inclusion, assessment
+measures to pre-
+scribe treatment
+Cognitive efficacy
+measures, global
+cognitive function,
+executive function &
+attention, memory
+Pre-test/
+Baseline
+IG mean (SD)
+CG mean (SD)
+Post-test(s)
+IG mean (SD)
+CG mean (SD)
+Control group
+activity Outcomes
+Arkin (2007) USA MMSE; CERAD (7 tests);
+structured clinical interview;
+dementia stage determined
+via CDR; WAIS-R (Picture
+Completion,
+Comprehension, and
+Similarities). Confirmatory
+diagnostic neurological exam
+by head of the University of
+Arizona, Department
+of Neurology.
+CERAD (60 Second
+Verbal Fluency
+­category animals;
+15-Item Boston
+Naming, MMSE, Sum
+of Boxes, Word List
+Memory, Word List
+Recall,
+Constructional
+Praxis, Word List
+Recognition); WAIS-
+R (Picture
+Completion,
+Comprehension,
+and Similarities)
+1 Year Completers ­
+AD Rehab:
+MMSE (N ¼ 4)
+IG 23.4 (4.0)
+CERAD
+CG MMSE
+values not given
+1 Year Completers:
+AD Rehab:
+MMSE (N ¼ 4)
+IG 20.5 (5.3)
+CERAD
+CG MMSE
+values not given
+Comparison group
+was a matched
+group from the
+CERAD database of
+untreated AD
+patients from
+1986­1994.
+Significant annual decline on MMSE
+occurred for all cohorts except 4-yr
+completers; Mean annual decline: 2.9
+points for 1-yr completers (n ¼ 24),
+2.5 for 2-yr, 2.0 for 3-yr, and 1.0 for
+4-yr. Only 42% of the CERAD group
+(n ¼ 245) had an average annual rate
+of decline of less than 3 points on
+the MMSE. This 8% difference was
+statistically significant (p ¼.02).
+There was no significant between-yr
+decline on 5 or 6 tests of global and
+cognitive functioning after 2 or more
+semesters of participation.
+Bredesen
+et al. (2016)
+USA MMSE, MoCA, MRI, FDG PET
+scan, ApoE genotype, online
+quantitative neuropsycho-
+logical testing (Brain HQ);
+extensive metabolic testing
+such as fasting insulin, hae-
+moglobin A1c, HLADR/DQ,
+C4a and TGF-b1, anti-thy-
+roglobulin antibodies, anti-
+thyroid peroxidase antibod-
+ies, homocysteine.
+MMSE, MRI, MoCA,
+FDG PET scan,
+quantitative neuro-
+psychological testing
+w Neuroquant &
+Neuroreader,
+California Verbal
+Learning Test,
+Stroop colour test,
+immediate and
+delayed recall,
+semantic knowledge,
+executive function,
+processing speed,
+MFI (phagocyto-
+sis index)
+P2 FDG PET:
+Early AD; CVLT-IIB
+3rd percentile
+P6 MMSE 23
+MFI ¼ 230
+P7 MMSE 22
+P9 MoCA 19
+P2 FDG PET:
+Early AD; CVLT-IIB
+84th percentile
+P6 MMSE 30
+MFI >1000
+P7 MMSE 29
+P9 MoCA 21
+No control group P2 ­ Marked subjective and quantitative
+neuropsychological testing improve-
+ment, decline halted; business rein-
+vigorated, a new business site was
+added (follow-up 24 mos)
+P6 ­ Subjective improvement, MMSE
+23->30; MFI >1000 (12 mos)
+P7 ­ Subjective improvement, MMSE
+22->29 (10 mos)
+P9 ­ Clear subjective improvement,
+modest objective improvement
+MoCA 19->21 (3 mos)
+(continued)
+Table 6. Continued.
+Study Country
+Cognition tools to
+diagnose for study
+inclusion, assessment
+measures to pre-
+scribe treatment
+Cognitive efficacy
+measures, global
+cognitive function,
+executive function &
+attention, memory
+Pre-test/
+Baseline
+IG mean (SD)
+CG mean (SD)
+Post-test(s)
+IG mean (SD)
+CG mean (SD)
+Control group
+activity Outcomes
+Burgener
+et al. (2008)
+USA Confirmed diagnosis of irre-
+versible dementia (AZD,
+Lewy body, vascular, frontal
+lobe, or mixed dementia); a
+score <2.0 on the CDR
+indicating an early to early-
+middle disease stage.
+MMSE; Baseline,
+20 and 40 wks.
+Baseline
+IG 24.8 (3.5)
+CG 22.9 (5.2)
+20 wks
+IG 25.2 (3.1)
+CG 22.4 (7.6)
+40 wks
+IG 25.2 (2.4)
+Attention-control
+educational pro-
+grammes; delayed
+20 wks treatment
+Treatment group showed improved
+cognitive functioning following the
+20 wks intervention; Significant dif-
+ferences in MMSE scores was evi-
+dent for treatment group subjects
+(þ0.4), whereas for control group
+subjects the scores declined over
+the first 20 wks of the interven-
+tion (À0.5).
+Christofoletti
+et al. (2008)
+Brazil MMSE, Brief Cognitive
+Screening Battery; primary
+diagnosis of dementia based
+on ICD-1011 Classification
+of Mental and Behavioral
+Disorders; Katz Activities
+Daily Living Scale
+Baseline and 6 mos ­
+MMSE, Brief
+Cognitive Screening
+Battery including the
+Semantic Verbal
+Fluency Test and the
+Clock Drawing Test.
+IG:1 MMSE
+18.7 Æ 1.7
+IG:2 MMSE
+12.7 Æ 2.1
+CG MMSE
+14.6 Æ 1.2
+IG:1 MMSE
+20.2 Æ 1.6
+IG:2 MMSE
+14.9 Æ 2.2
+CG MMSE
+14.8 Æ 1.3
+IG:2 ­ only
+physiotherapy
+CG: No motor
+intervention
+MANOVA did not indicate benefits on
+the cognitive functions between IG:1
+and CG (F ¼ 1.1, p > 0.05) and
+groups IG:2 and CG (F ¼ 1.6,
+p > 0.05). Univariate analysis indi-
+cated some benefits of IG:1 on two
+specific domains measured by the
+BCSB (F ¼ 26.5, p < 0.05; F ¼ 4.4,
+p < 0.05). Global cognition did not
+improve through treatment, but an
+attenuation in the decline was
+observed on two specific cogni-
+tive domains.
+Coelho
+et al. (2013)
+Brazil Diagnosis of AD according to
+international criteria
+Diagnostic and Statistical
+Manual of Mental Disorders
+4th edition APA; a clinical
+and neuropsychological
+evaluation carried out by a
+trained team; CDR was used
+for the classification of
+dementia severity; MMSE.
+MMSE (IG 19.5 Æ 4.1;
+CG 19.0 Æ 2.9)
+Frontal Assessment
+Battery, Clock
+Drawing Test,
+Symbol
+Search Subtest
+IG FAB total
+8.6 Æ 3.6
+CG FAB total
+9.9 Æ 3.8
+IG FAB total
+13.3 Æ 3.5
+CG FAB total
+8.6 Æ 4.4
+Kept to their same
+daily routine and
+did not participate
+in any regular or
+structured exer-
+cise programs
+Favourable effects on frontal cognitive
+function in AD patients after the
+16-wks period. Frontal Assessment
+Battery (p <.001) and Symbol
+Search Subtest (p < .001); significant
+improvements in abstraction, orga-
+nization, motor sequencing and
+attention. The control group wors-
+ened significantly in frontal cognitive
+functions, particularly in planning,
+(continued)
+Table 6. Continued.
+Study Country
+Cognition tools to
+diagnose for study
+inclusion, assessment
+measures to pre-
+scribe treatment
+Cognitive efficacy
+measures, global
+cognitive function,
+executive function &
+attention, memory
+Pre-test/
+Baseline
+IG mean (SD)
+CG mean (SD)
+Post-test(s)
+IG mean (SD)
+CG mean (SD)
+Control group
+activity Outcomes
+organization and motor sequencing.
+The control group decreased the
+scores in the Clock Drawing Test
+(p ¼.001) and increased the number
+of counting errors during the dual
+task (p ¼.008) after the
+same period.
+Graessel
+et al. (2011)
+Germany Primary degenerative
+dementia according
+to ICD-10; <24 on
+MMSE; confirmed
+by physician.
+Cognitive subscale of
+the Alzheimer's
+Disease Assessment
+Scale (ADAS-Cog);
+Baseline and 12 mos
+ADAS-Cog subscale
+IG 32.6 Æ 11.5
+CG 35.6 Æ 14.8
+12 mos
+IG 32.5 Æ 15.3
+CG 40.8 Æ 17.0
+Treatment as usual Cognitive function and the ability to
+carry out activities of daily living had
+remained stable in the intervention
+group but had decreased in the
+control patients (ADAS-Cog:
+adjusted mean difference: À7.7, 95%
+CI À14.0 to À1.4, p ¼ .018, Cohen's
+d ¼ 0.45; E-ADL test: adjusted mean
+difference: 3.6, 95% CI 0.7 to 6.4,
+p ¼.015, Cohen's d ¼ 0.50). The
+effect sizes for the intervention
+were greater in the subgroup of
+patients (n ¼ 50) with mild to mod-
+erate disease (ADAS-Cog: Cohen's
+d ¼ 0.67; E-ADL test:
+Cohen's d ¼ 0.69).
+Han
+et al. (2017)
+Korea Diagnosed with DSM-IV
+criteria; all patients had a
+Clinical Dementia Rating
+(CDR) of 0.5 or 1.
+MMSE and ADAS-Cog
+assessed treatment
+effects on cognitive
+function; all out-
+come measures
+administered at
+weeks 0, 9 and 21.
+MMSE
+20.18 Æ 4.75
+ADAS-Cog
+21.85 Æ 9.51
+MMSE
+20.89 Æ 5.36
+ADAS-Cog
+20.41 Æ 9.66 Change
+within-group: MMSE
+0.71 Æ 2.27
+ADAS-Cog
+À1.44 Æ 3.73
+MT ­ Mock Therapy:
+health videos, gym-
+nastics exercises,
+conversing,
+recreation
+In the MCET group, 58.3% and 70.0% of
+subjects showed improvement in
+MMSE (effect size ¼ 0.47, p ¼ .013)
+and ADAS-Cog scores (effect
+size ¼ 0.35, p ¼ .045), respectively,
+whereas, in the Mock Therapy
+group, significantly fewer subjects
+showed improvement.
+(continued)
+Table 6. Continued.
+Study Country
+Cognition tools to
+diagnose for study
+inclusion, assessment
+measures to pre-
+scribe treatment
+Cognitive efficacy
+measures, global
+cognitive function,
+executive function &
+attention, memory
+Pre-test/
+Baseline
+IG mean (SD)
+CG mean (SD)
+Post-test(s)
+IG mean (SD)
+CG mean (SD)
+Control group
+activity Outcomes
+For the dementia subgroup MCET
+was more beneficial than MT in
+global cognitive function measures:
+the effect between MCET versus MT
+was 0.71 Æ 2.27 versus À0.03 Æ 2.78
+for the MMSE and À1.44 Æ 3.73 vs.
+À0.21 Æ 3.92 for the ADAS-Cog.
+Ibarria
+et al. (2016)
+Spain Diagnosis of Probable or
+Possible AD according to
+the (NINCDS-ADRDA)
+criteria; mild to moderate
+severity of dementia, with a
+Clinical Dementia Rating
+(CDR) staging of 1 to 2 and
+a Global Deterioration Scale
+(GDS) staging of 4 to 5
+MMSE and ADAS-Cog
+Baseline, 3, 6, 9 and
+12 mos follow-ups
+MMSE
+19.60 (.33 SE)
+ADAS-Cog
+25.63 (.59 SE)
+MMSE
+3 mos 19.66 (.30 SE)
+6 mos 19.19 (.31 SE)
+9 mos 18.63 (.34 SE)
+12 mos 17.54
+(.35 SE)
+ADAS-Cog
+3 mos 25.48 (.58 SE)
+6 mos 26.03 (.62 SE)
+9 mos 27.18 (.60 SE)
+p <.05
+12 mos 29.19
+(.67 SE) p < .05
+No control group Patients remained cognitively stable
+(MMSE/ADAS-Cog) for at least 6
+mos and significantly worsened at 9
+and 12 mos follow-ups. The mean
+annual changes were MMSE (2.06)
+and ADAS-Cog (3.56) points. 42.7%
+of patients maintained or improved
+global cognitive scores between
+baseline and 12-mo follow-up. The
+patients who maintained cognitive
+functions were older than those
+who did not (77.5 vs. 74.7 yrs).
+Kang
+et al. (2010)
+Korea Researchers and RAs con-
+ducted cognitive function
+tests on participants and
+chose those with MMSE-
+K 23.
+Korean MMSE IG MMSE-K
+17.78 (14­23)
+CG MMSE-K
+21.42 (15­26)
+IG MMSE-K
+22.03 (17­29)
+CG MMSE-K
+16.69 (16­25)
+Change within
+group: MMSE-K
+IG 3.00 (0­7)
+CG À1.00 (À5­7)
+Dementia prevention
+education &
+consultations
+Median cognitive function score in the
+IG increased from 17 at pre-test to
+23 post-test. Cognitive function is
+greater in the control group and
+drops over time (21­16), experi-
+mental group is lower at the start
+and increases (17­23)
+Kim
+et al. (2016)
+Korea Diagnosis of AD by a
+neurologist; moderate
+to severe AD as
+ADAS-K; MMSE; CDT;
+Baseline and 6 mos
+MMSE
+IG 13.4 (Æ4.2)
+CG 16.6 (Æ4.0)
+Graph Figure 2. P 228.
+Change scores ­
+MMSE did not show
+significant
+No placebo control,
+this comparator
+group received only
+There were significant within-group
+differences for the ADAS-Cog score
+but not for the MMSE. No cognitive
+measures improved significantly
+(continued)
+Table 6. Continued.
+Study Country
+Cognition tools to
+diagnose for study
+inclusion, assessment
+measures to pre-
+scribe treatment
+Cognitive efficacy
+measures, global
+cognitive function,
+executive function &
+attention, memory
+Pre-test/
+Baseline
+IG mean (SD)
+CG mean (SD)
+Post-test(s)
+IG mean (SD)
+CG mean (SD)
+Control group
+activity Outcomes
+determined by a baseline
+MMSE score of 20
+(Post-test MMSE
+scores not given)
+improvement
+between groups
+(F ¼ 0.00, p ¼.98)
+the MCP
+(essentially 2 IGs)
+after 6 mos in the KEP þ MCP group
+compared to MCP group however
+the ADAS-Cog score was signifi-
+cantly lower between the two
+groups in secondary analysis adjust-
+ed for baseline value, age, sex, and
+education yr. ADAS-Cog score was
+significantly lower after 6 mos in the
+KEPþMCP group than in the MCP
+group (F ¼ 5.20, p ¼ .03).
+La Rue
+et al.
+(2015)
+USA Physician's diagnosis of
+ADRD or Dementia
+Questionnaire results
+consistent with probable
+ADRD and GDS ratings of
+3 (mild cognitive impairment
+to very mild dementia) or
+4 (mild dementia).
+MMSE, CERAD,
+WAIS-R, ABCD
+at baseline and 1st
+follow-up (11 mos)
+& 2nd (20 mos)
+MMSE N ¼ 28 with 1
+follow-up (11 mos):
+22.46 (5.07)
+N ¼ 7 with 2
+follow-ups:
+23.57 (4.08)
+N ¼ 28 1st follow-up:
+22.64 (5.48);
+(71% Same or
+improved)
+N ¼ 7 1st follow-up:
+25.43 (2.51)
+N ¼ 7 2nd follow-up:
+22.57 (4.79)
+No control group Participants generally remained stable
+in cognitive function through 1st
+follow-up (11 mos.) The modal
+change in the MMSE was a 1-point
+improvement, and there was no sig-
+nificant change in mean MMSE
+scores (t ¼ 0.35, df ¼ 27, p ¼.731,
+95% CI ¼ À0.99 to 1.23). N ¼ 7
+completed 2nd follow-up (avg 20
+mos) performing near baseline levels
+for cognition ­ relative stability at
+nearly 2 yrs. No statistically signifi-
+cant differences between baseline
+scores and 2nd follow-up on meas-
+ures of cognition (physical fitness, or
+well-being) (p ! .15).
+Li and Li
+(2017)
+China Screened by researchers
+using CDR >0.5 and
+MMSE (cut-off score for
+cognitive impairment was
+corrected for education:
+19 for illiterate, 22 for
+MMSE MMSE
+IG 14.58 (Æ5.59)
+CG 14.48 (Æ4.40)
+MMSE
+IG 17.00 (Æ4.03)
+CG 13.05 (Æ5.48)
+Routine care without
+any special
+intervention
+For the experimental group, the scores
+of MMSE and BI had a statistically
+significant increase after 16 wks
+(p < .01). Control group, the mean
+score of MMSE decreased signifi-
+cantly (p < .01)
+(continued)
+Table 6. Continued.
+Study Country
+Cognition tools to
+diagnose for study
+inclusion, assessment
+measures to pre-
+scribe treatment
+Cognitive efficacy
+measures, global
+cognitive function,
+executive function &
+attention, memory
+Pre-test/
+Baseline
+IG mean (SD)
+CG mean (SD)
+Post-test(s)
+IG mean (SD)
+CG mean (SD)
+Control group
+activity Outcomes
+primary education, 26
+secondary education or
+higher);
+Physician-
+diagnosed dementia
+Maci et al.
+(2012)
+Italy Diagnosis of AD made
+according to the
+diagnostic criteria
+proposed by
+NINCDS-ADRDA for
+probable or possible AD;
+Inclusion criteria: MMSE
+score 16­24 Mild to
+Moderate AD
+MMSE
+FAB ­ Frontal
+Assessment Battery
+assessing executive
+functions (values
+corrected for age
+and education);
+CDR assessing severity
+of dementia
+MMSE
+IG 17.5 Æ 2.7
+CG 18.2 Æ 2.9
+FAB IG 8.9 Æ 2.8
+FAB CG 7.9 Æ 1.9
+3 mos: MMSE
+IG 17.3 Æ 3.3
+CG 17.0 Æ 2.7
+FAB IG 9.9 Æ 3.1
+FAB CG 6.9
+Æ 1.6 p <.05
+Usual activities at
+home
+No significant changes in cognitive per-
+formances were observed; partici-
+pants submitted for 3 mos to the
+stimulation protocol exhibited a
+good stability of their cognitive
+condition; FAB scores rose 1 point
+in the IG and dropped 1 point in the
+CG. The MMSE also lowered 1.2
+points in controls who displayed a
+worsening of cognitive abilities.
+Onor et al.
+(2007)
+Italy Diagnoses according to the
+criteria of the DSM-IV and
+the NINCDS-ADRDA
+Milan Overall
+Dementia
+Assessment
+(MODA) was
+administered at
+baseline (T0) and
+after 4 months (T2)
+of rehabilitation to
+assess cogni-
+tive function.
+MMSE
+T0 ­ IG 23.12 Æ 4.15
+T0 ­ CG 20.00
+Æ 2.20
+MODA DT0­T2
+IG ­0.28 Æ 14.17
+CG ­2.08 Æ 10.72
+MMSE 2 mos/4 mos
+T1 ­ IG 23.62 Æ 4.92
+CG 21.25 Æ 3.01
+T2 ­ IG 24.37 Æ 4.30
+CG 21.25 Æ 2.76
+8 patients and 8
+caregivers in the
+control group
+received no form
+of intervention
+No within group difference in MMSE
+between T0 and T1 and between T0
+and T2. A significant difference was
+found between T1 and T2
+(t ¼ À2.393; p ¼ .048). Comparison
+between CG & IGs: no differences in
+MMSE scores. MODA results:
+Comparison between groups and D
+­ cognitive performance remained
+stationary. Multimodal programme
+had only limited efficacy, maybe due
+to short duration of the rehabilita-
+tion programme.
+Oswald et al.
+(2007)
+Germany No cognitive inclusion criteria
+for participation in the study.
+MMSE score of >10 or <10
+determined assignment to a
+SISCO SIDAM, MMSE,
+Subtests of the NAI:
+Number
+Connection Test
+IG t0
+mean s
+21.80 (5.60)
+CG
+21.53 (5.36)
+IG t12
+mean s
+21.18 (7.35)
+CG
+17.77 (9.01)
+Treatment as usual Both the MMSE and the SISCO score, a
+global measure of cognitive perfor-
+mance/impairment, indicate that the
+general cognitive status of IG
+(continued)
+Table 6. Continued.
+Study Country
+Cognition tools to
+diagnose for study
+inclusion, assessment
+measures to pre-
+scribe treatment
+Cognitive efficacy
+measures, global
+cognitive function,
+executive function &
+attention, memory
+Pre-test/
+Baseline
+IG mean (SD)
+CG mean (SD)
+Post-test(s)
+IG mean (SD)
+CG mean (SD)
+Control group
+activity Outcomes
+specific cognitive activa-
+tion programme
+ZVT-G þ Memory
+Span ZN-G; picture
+Test BT. External
+rating questionnaire
+administered to
+nursing staff on resi-
+dents cognitive per-
+formance; Baseline,
+6, 12 mos
+participants remained stable,
+whereas that of CG members dete-
+riorated significantly (p ¼.001).
+There was a significant improvement
+in memory skills that involve
+dynamic encoding (picture test) in
+the IG. Nursing staff perceived resi-
+dents to be more independent in
+everyday life and to show higher
+levels of psychological well-being and
+mental alertness.
+Prokopov
+(2010)
+Spain MRI, detailed biomedical
+history and lifestyle investi-
+gation; suffered mental
+decline for about 1 yr;
+declining memory, low
+energy, low-quality sleep;
+loss of interests/motivations;
+could no longer conduct her
+usual activities and home
+chores; could not hear
+without a hearing aid; past
+medical history of moderate
+hypertension.
+MRI, ongoing
+biomedical
+monitoring,
+lifestyle
+monitoring
+Brain magnetic
+resonance imaging
+(MRI) in February
+2008 showed
+hippocampal and
+cortical atrophy,
+enlarged volume
+of ventricles.
+MRI April 2009
+showed no
+degenerative
+changes.
+No control group Improvement in mood and vitality was
+noticeable after the first 5 IHT ses-
+sions. Gradually, the mental and
+cognitive state recovered. Patient
+reported increased energy and
+activity, better memory and cogni-
+tion, a slight weight loss, improved
+sleep, and better mood. The patient
+gradually recovered her healthy
+mental state; resumed shopping and
+cooking and began playing piano
+again, which she was not capable of
+doing the previous year. Only needs
+the hearing aid for a few hours a day,
+compared to the whole-day use
+several months before.
+Raggi et al.
+(2007)
+Italy Patients with probable AD
+(mild to severe) diagnosed
+by a senior neurologist
+(DSM-IV criteria), CDR,
+cognitive status MMSE, a
+MMSE MMSE at admission
+16.06 (SD 5.60)
+MMSE at discharge
+17.54 (SD 6.45)
+No control group The mean MMSE scores at admission
+and discharge were respectively
+16.06 and 17.54 (Wilcoxon Ranks
+Test: p ¼ .005).
+(continued)
+Table 6. Continued.
+Study Country
+Cognition tools to
+diagnose for study
+inclusion, assessment
+measures to pre-
+scribe treatment
+Cognitive efficacy
+measures, global
+cognitive function,
+executive function &
+attention, memory
+Pre-test/
+Baseline
+IG mean (SD)
+CG mean (SD)
+Post-test(s)
+IG mean (SD)
+CG mean (SD)
+Control group
+activity Outcomes
+structured medical history
+collected from the patient
+and the primary caregiver, a
+neurological examination,
+routine laboratory analyses,
+a neuropsychological assess-
+ment and neuroimaging
+studies consistent with an
+AD diagnosis. Basal assess-
+ment by a staff nurse, psy-
+chologist and education
+specialist.
+Authors contribute the beneficial
+effect to continuous stimulation,
+positive group feeling secondary to
+the programme (ROT) development,
+and socialization.
+Serda
+` i Ferrer
+and
+del Valle
+(2014)
+Spain Neuropsychological diagnosis
+of AD at any stage of the
+pathology confirmed by a
+medical practitioner based
+on the results of the MMSE
+and in accordance with
+standard international
+diagnostic criteria.
+MMSE MMSE
+14.65 (SD 5.68)
+MMSE
+13.59 (SD 6.60)
+No control group Results show a significant reduction in
+cognitive capacity (p <.001).
+Tay et al.
+(2016)
+Singapore Diagnosis of early dementia
+in accordance with the
+DSM-III-R.
+Locally validated
+Chinese Mini-Mental
+State Examination
+(CMMSE) for evalu-
+ation of cognitive
+performance at T0
+and at the end of
+each 8-wk cycle.
+CMMSE
+17.2 Æ 4.8
+CMMSE
+After MINDVital ­ 1
+19.2 Æ 3.9
+After MINDVital ­ 2
+19.0 Æ 4.1
+No control group Significant improvements in dual-task
+walking in early dementia, which may
+be contributed by improvement in
+cognitive performance, as single-task
+gait performance remained stable.
+Improvement in cognitive perfor-
+mance on CMMSE was evident fol-
+lowing the first cycle of MINDVital
+and sustained through the second
+cycle, with an estimated 0.9 point
+improvement in the CMMSE score
+(continued)
+Table 6. Continued.
+Study Country
+Cognition tools to
+diagnose for study
+inclusion, assessment
+measures to pre-
+scribe treatment
+Cognitive efficacy
+measures, global
+cognitive function,
+executive function &
+attention, memory
+Pre-test/
+Baseline
+IG mean (SD)
+CG mean (SD)
+Post-test(s)
+IG mean (SD)
+CG mean (SD)
+Control group
+activity Outcomes
+following each MINDVital cycle
+(random effects coefficient (SE) of
+MINDVital cycle on
+CMMSE ¼ þ0.90 (0.31), p ¼.003)).
+Vicente de
+Sousa
+et al. (2017)
+Portugal Outpatients with AD from
+the geriatric department
+of a psychiatric hospital
+were recruited to the IG and
+CG. A second IG recruited
+on a convenience basis from
+an AD day care center is of
+interest: NSPRG.
+Baseline psychomotor
+performance scores,
+clock drawing test
+(CDT) and MMSE;
+Follow up at 21, 90
+and 180 days
+(6 mos)
+MMSE
+NSPRG 19.3 (5.4)
+CG 20.0 (4.9)
+MMSE 21 days:
+NSPRG 18.0 (6.6)
+CG 20.0 (4.9)
+90 days:
+NSPRG 18.0 (6.6)
+CG 20.0 (4.9)
+180 days:
+NSPRG 17.6 (8.4)
+CG 20.0 (4.9)
+Standard dietetic
+advice
+Cognitive status baseline to 21 days a
+slight decrease in the MMSE score
+was observed in the NSPRG À1.2
+(3.1) and also on the 180th day of
+follow-up ­1.7 (5.1) p < .05. This
+compares to the control group
+showing no declines from baseline
+20.0 (4.9). The compliance with the
+ONS and to the psychomotor
+rehabilitation programme was
+excellent, without any refusals or
+dropouts in both intervention
+groups, the NSG and the NSPRG.
+Viola et al.
+(2011)
+Brazil Diagnoses according to
+NINCDS-ADRDA; a score
+of 0.5 or 1.0 in the CDR, a
+score of 16 or more in the
+MMSE and concomitant
+standard pharmacological
+treatment for AD (cholines-
+terase inhibitors and/or
+memantine in stable
+therapeutic doses for at
+least 3 mos).
+MMSE, Short Cognitive
+Test (SKT) pre- and
+post-treatment
+MMSE
+IG 22.6 (2.9)
+CG 23.3 (3.9)
+SKT total score
+IG 14.5 (5.4)
+CG 12.6 (5.4)
+MMSE
+IG 22.5 (3.8) p ¼.9
+CG 22.4 (2.8) p ¼.1
+SKT total score
+IG 14.6 (6.1) p ¼.9
+CG 13.8 (5.5)
+p ¼ .05
+Standard outpatient
+care with monthly
+follow-up visits to
+the memory clinic.
+Wait list for future
+intervention group
+Paired-sample t tests addressing within-
+group differences (baseline vs. end-
+point) in test scores showed that
+patients in the control group had a
+tendency for cognitive decline,
+which was indicated by a slight, but
+significant, increase in total SKT
+scores and in the attention SKT
+subscore (i.e., higher scores in the
+SKT mean worse performance).
+Conversely, patients in the experi-
+mental group remained stable with
+respect to these cognitive measures
+of attention and global performance.
+(continued)
+Table 6. Continued.
+Study Country
+Cognition tools to
+diagnose for study
+inclusion, assessment
+measures to pre-
+scribe treatment
+Cognitive efficacy
+measures, global
+cognitive function,
+executive function &
+attention, memory
+Pre-test/
+Baseline
+IG mean (SD)
+CG mean (SD)
+Post-test(s)
+IG mean (SD)
+CG mean (SD)
+Control group
+activity Outcomes
+Yoon
+et al. (2013)
+Korea MMSE-K DSF; DSB; 7MS;
+MMSE-K
+MMSE
+CAE 18.0 Æ 1.5
+CA 18.7 Æ 1.2
+(MMSE post-test
+not given)
+Within group
+post-pre
+DSF CAE À2.1 Æ 1.1
+CA À1.2 Æ 1.2
+DSB CAE À0.9 Æ 0.5
+CA À0.2 Æ 0.4
+7MST CAE 10.8 Æ 8.4
+CA 4.3 Æ 5.0
+2 group design
+(CA & CAE)
+no control
+Working memory performance (DSF,
+DSB 7MST scores) improved signifi-
+cantly in the CAE group (p <.05).
+There were significant beneficial
+effects of the therapeutic
+programme on memory
+performance in the CAE group
+compared to CA group, and
+between pre-test and post-test.
+After the 12-wks intervention, the
+CAE group showed significant
+improvement compared to the CA
+group in all the measures studied.
+ABCD: The Arizona Battery for Communication Disorders of Dementia; ADAS-Cog: Cognitive subscale of the Alzheimer's Disease Assessment Scale (scoring range 0 to 70, higher scores
+indicate greater cognitive impairment); ADAS-K: Korean version of Alzheimer's Disease Assessment Scale; BCSB: Brief Cognitive Screening Battery; CERAD: Consortium to Establish a
+Registry for Alzheimer's Disease; CDR: Clinical Dementia Rating; CDT: Clock Drawing Test; CMMSE: Chinese Mini-Mental State Examination; CVLT: California Verbal Learning Test; DSB:
+Digit Span Backward; DSF: Digit Span Forward; DSM-IV: Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition; GDS: Global Deterioration Scale; KADLS: Katz Activities
+Daily Living Scale; MDRS: Mattis Dementia Rating Scale; MFI: phagocytosis index; MMSE: Mini Mental State Examination; MMSE-K: Korean version of the Mini Mental State Examination;
+MoCA: Montreal Cognitive Assessment; MODA: Milan Overall Dementia Assessment; NAI: Neuropsychological Aging Inventory; NINCDS-ADRDA: National Institute of Neurological and
+Communicative Diseases and Stroke/Alzheimer's Disease and Related Disorders Association; SISCO SIDAM: a global measure of cognitive performance/impairment; SKT: Short Cognitive
+Test; TMT: Trail-Making Test; WAIS-R: Logical Memory subtest of the Wechsler Memory Scale ­ Revised; 7MST: 7-Minute Screening Test; SD: standard deviation (given except where `SE' is
+specified); SE: standard error.
+reported pre­post-test scores using the Mini Mental State Examination (MMSE), the
+Chinese MMSE or the 7MST (7 Minute Screening Test), and could therefore be included
+in an effect size (ES) analysis (Figure 2). Oswald et al. (2007) uniquely included a staff survey
+on residents' cognitive change. In the five case studies only three provided pre­post-test
+MMSE or similar which hindered comparison of clinical importance (Figure 4). The case
+studies in Bredesen et al. (2016) reported over 10 instruments including magnetic resonance
+imaging (MRI) and fluorodeoxyglucose (FDG)-positron emission tomography (PET) scans,
+metabolic testing, quantitative neuropsychological testing, genetic testing and a battery of
+cognitive tests. Whilst three of these case studies reported pre­post-test MMSE, one (Patient
+9) reported the Montreal Cognitive Assessment (MoCA) instead, which substituted for the
+MMSE in the ES analysis. Interestingly, all four group studies that showed clinically impor-
+tant differences used MMSE exclusively (Figure 3).
+Findings
+Eighteen group studies or case studies out of a total of 26 (69%) reported either statistically
+significant or meaningful within-group improvements in cognition (Baglio et al., 2015;
+Bredesen et al., 2016; Burgener, Yang, Gilbert, & Marsh-Yant, 2008; Christofoletti et al.,
+2008; Coelho et al., 2013; Han et al., 2017; Kang et al., 2010; Kim et al., 2016; Li & Li, 2017;
+Onor et al., 2007; Oswald et al., 2007; Prokopov, 2010; Raggi et al., 2007; Tay, Lim, Chan,
+Ali, & Chong, 2016; Yoon et al., 2013). Stability of scores or an attenuation of decline was
+reported in six group studies (Arkin, 2007; Graessel et al., 2011; Ibarria et al., 2016; La Rue
+et al., 2015; Maci et al., 2012; Viola et al., 2011). Two group studies, Serda
+` i Ferrer and del
+Figure 2. Within group effect size ­ intervention groups.
+Chalfont et al. 27
+Valle (2014) and Vicente de Sousa et al. (2017) reported no cognitive improvement and
+continual decline. Cognitive outcomes are summarised in Table 6.
+(1) What is the evidence for what works and does not work (the predictors of efficacy)?
+The ES of each intervention group was evaluated. Cohen's ES, d, was used to calculate pre­
+post comparisons (Cohen, 1988). In dementia studies the tendency is for cognition in a
+control group to decline in the absence of an intervention. Studies that report an ES between
+groups at the end of the assessment period may therefore show inflation, in part from the
+declining controls, and consequently give a misleading over-estimate of the effect of the
+specific treatment or intervention. Therefore, we first chose to examine the within-group ES
+(Figure 2) to discern which of the interventions worked, in a calculated score uninflated by
+the tendency to deteriorate in the control group. Using accepted criteria (0.2 ­ small, 0.5 ­
+medium and 0.8 ­ large) (Cohen, 1988), this analysis indicated that of the 17 studies
+suitable for ES, two studies had a large ES (Christofoletti et al., 2008; Li and Li, 2017),
+four had a medium ES (Onor et al., 2007; Raggi et al., 2007; Tay et al., 2016; Yoon et al.,
+2013) and five had a small ES (Burgener et al., 2008; Graessel et al., 2011; Han et al., 2017;
+Ibarria et al., 2016; La Rue et al., 2015). A further six studies showed a negative ES
+reflecting the disease course. Interestingly, one study which reported that, based on conven-
+tional inferential testing, `global cognition did not improve through treatment' had the
+largest ES (d ¼ 0.909) (Christofoletti et al., 2008).
+The following four group studies were excluded from this analysis for the following
+reasons. Coelho et al. (2013) used the Frontal Assessment Battery (FAB) which was
+designed to assess frontal lobe function and to distinguish frontal lobe dementia from
+AD (Slachevsky et al., 2004). Kim et al. (2016) provided a graph showing positive mean
+score change. Kang et al. (2010) provided median change scores and Baglio et al. (2015)
+provided no measures for within-group analysis.
+Of equal importance in interpreting change is the minimal clinically important difference
+(MCID) (Burback, Molnar, St John, & Man-Son-Hing, 1999), defined as the smallest
+change in an outcome that a clinician would identify as important. The ADAS-Cog is a
+70-point scale on which lowered scores indicate improvement. A change of 4 points or more
+on the ADAS-Cog scale would define a MCID for mild to moderate dementia (Huntley,
+Gould, Liu, Smith, & Howard, 2015). Again, looking specifically at the intervention group
+data, two studies reported improvement on the ADAS-Cog (Graessel et al., 2011; Han et al.,
+2017) but not clinically important.
+The MMSE is a 30-point scale on which a higher score indicates improvement and a
+change of at least 3 points is considered clinically important in North America (Burback
+et al., 1999; Qaseem et al., 2008). To assess studies with the National Institute for Health
+and Care Excellence (NICE) guidance in the UK (NICE, 2018) a Minimal Important
+Difference (MID) of 1.4 is also evaluated. Accordingly, four group studies (Christofoletti
+et al., 2008; Li & Li, 2017; Raggi et al., 2007; Tay et al., 2016) (Figure 3) reported change in
+mean MMSE above the NICE threshold of minimal important difference (Figure 3).
+However, no intervention group outcomes from the group studies reached an MID of 3
+points on the MMSE.
+These four, plus two more group studies were identified in the Effect Size analysis
+(Figure 2) as having Good or Medium efficacy. Table 7 shows these Top Six studies and
+the modes and methods they used.
+28 Dementia 0(0)
+Two case studies (Bredesen et al., 2016) (P6 and P7) reported change in mean MMSE
+above the NICE guidance on MID. Both case studies also exceeded a non-UK MID of 3
+points. A further case study (Bredesen et al., 2016), Patient 9, reported an MID on the
+MoCA which is significantly positively correlated (Stewart, O'Riley, Edelstein, & Gould,
+2012) and translatable to the MMSE for comparison (Trzepacz, Hochstetler, Wang,
+Walker, & Saykin, 2015). Patient 9 showed clinically important improvement according
+to NICE guidance (Figure 4).
+Besides the three case studies that used MMSE or MoCA in Figure 4 below, two more
+were reported in the included papers (Bredesen et al., 2016; Prokopov, 2010). When pro-
+viding personalised N-of-1 treatment, the efficacy of the multimodal interventions was
+determined by the clinician through a range of assessment indicators, including MRI,
+FDG PET scans, CVLT-IIB and numerous metabolic and neuropsychological tests.
+These reported clinically important pre­post-test results for these two patients (Table 8).
+These case studies utilised the following modes and methods (Table 9).
+(2) Does multimodal matter?
+Nine of the 11 studies showing positive cognitive ES (Figure 2) used three modes rather than
+two, indicating that more may be better. However, as well as the number of modes, the number
+of methods used to carry out the modes is multiple and diverse. For instance, Ibarria et al.
+(2016) initiated an Integral Psychostimulation Program (IPP) integrating cognitive, motor and
+mood-related rehabilitation and stimulation for cognitive functions. They also used exercise
+(active and passive gymnastics, personal & spatial orientation, motor coordination and body
+language), music therapy, relaxation, occupational activities to maintain ADLs, expression,
+creativity, board games and caregivers involvement. Also, the focus or general character of
+the intervention overall (was it largely cognitive or physical?) helped determine the effectiveness
+of the cognitive mode. For example, five out of six studies which showed a negative ES were
+predominantly physical with other modes in addition. Conversely, 8 of the 11 studies which
+showed a positive ES were predominantly cognitive with other modes in addition.
+(3) What is the evidence for different groups of people with dementia
+(early, mid or late stage)?
+Analysis of the cognitive impairment levels of participant groups did not indicate that
+interventions necessarily work any better for the least or the most impaired. In the six
+Figure 3. Evaluating group study MMSE change according to NICE guidance on MID.
+Chalfont et al. 29
+Table 7. Top Six most effective group studies.
+Study Modes and Methods Other Modes Other Methods
+Christofoletti
+et al.
+(2008)
+Brazil
+Physiotherapy ­ Individual ses-
+sions concentrated on kinesi-
+otherapeutic exercises to
+stimulate strength and bal-
+ance. Cognition such as con-
+centrated attention,
+recognition, immediate
+memory, working memory &
+praxis using bars, Bobath balls,
+elastic ribbons and proprio-
+ceptive stimulation plates
+Occupational
+therapy
+Physical educa-
+tion
+Expression
+Creativity
+Arts & crafts (picture, paint,
+draw, embroider) connect
+motor coordination with
+cognition.
+Walking, upper & lower limb
+exercises stimulate
+strength, balance, motor
+coordination, agility,
+flexibility and
+aerobic endurance.
+Li and Li
+(2017)
+China
+Folk recreational programme
+comprised of:
+Folk art activities including crafts,
+drawing, decorating and col-
+ouring which were mainly
+about Chinese tales or tradi-
+tional festivals.
+Games ­ upper body physical activities like fishing,
+throwing balls, ring toss, number finding, bowl-
+ing; Music activities ­ favourite folk songs;
+Personalized training on daily life activity (ADLs)
+based on their functional level; Individual activity
+programme according to their interest and
+preference, like singing practice of favourite
+folk songs
+Tay et al.
+(2016)
+Singapore
+Combined cognitive stimulation and physical exercise
+programme (MINDVital) on gait performance under
+single- and dual-task conditions;
+(1) Multicomponent physical exercise programme
+(45 min)
+(2) Cognitive stimulation and rehabilitation (60 min)
+(3) Art therapy as part of the cognitive intervention to
+stimulate cognitive, emotional and interpersonal
+skills
+(4) Tailored individualized activities delivering person
+centred care (30 min)
+(1) Light aerobics, resistance,
+range of motion, balance
+training
+(2) Social and mental activities
+for spatial and temporal
+orientation, language and
+memory
+(3) Expressive techniques, art
+therapy, non-verbal
+expression
+(4) Engage in an enjoyable
+activity such as iPAD
+games, calligraphy.
+Yoon et al.
+(2013)
+Korea
+Cognitive activity (CA) Memory
+training included sequential
+memory recall tasks;
+Three-back verbal
+working memory
+Cycling w exercise (CAE) received the same inter-
+vention as the CA group, with the addition of a
+cycling exercise during their cognitive activity
+session.
+Plus conventional Physical Therapy (PT)
+Onor et al.
+(2007)
+Italy
+Integrated rehabilitation
+programme: Reality
+Orientation Therapy
+­ Occupational Therapy ­ Activities stimulating
+implicit memory
+­ Reminiscence Therapy ­ Activities stimulating the
+memory of events
+­ Caregiver Psychoeducation
+Raggi et al.
+(2007)
+Italy
+Comprehensive rehabilitation
+programme
+MMSE <10: informal and formal
+ROT. MMSE >10 ROT inte-
+grated with daily computer-
+ised cognitive training
+Some patients and carers underwent support
+Psychotherapy
+Some met one-on-one with an Activity therapist
+Mobility deficits were treated with Physical Therapy
+30 Dementia 0(0)
+papers with the highest ES there was a range of dementia from mild to severe. In fact, the
+second best ES was achieved by Li and Li (2017) with a participant group that was 82%
+moderate to severe dementia in a nursing home. Arkin (2007) found that most early stage
+participants tended to improve or maintain on test scores, but occasionally a person in the
+moderate stage did also. Graessel et al. (2011) showed that in nursing homes the ESs for the
+intervention were greater in the subgroup of patients (n ¼ 50) with mild to moderate disease.
+Raggi et al.'s study (2007) of 30% mild, 40% moderate and 30% severe patients concluded
+that subjects in all stages of dementia showed some improvement from attending the treat-
+ment programme. Kim et al.'s (2016) study of nursing home residents reported improvement
+in moderate to severe AD taking physical exercise (Kohzuki Exercise Program ­ KEP) along
+with a multi-component cognitive programme (MCP), (KEP þ MCP).
+Predictably, Serda
+` i Ferrer and de Valle's (2014) study reported that the magnitude of the
+effects of the programme diminished progressively in relation to the stage of the disease.
+Indeed, the most significant and continuous reduction occurred in the dimension of patient
+cognitive capacity among day hospital patients with mild (29.69%), moderate (31.25%) or
+severe (39.06%) dementia. Hence, the staging of dementia among the participants seemed to
+have no direct bearing on the ES of the intervention group, but perhaps had more to do
+with the level of optimisation of the intervention for participants in different stages of
+dementia. Given the available study data, the potential for different types of dementia
+was inconclusive.
+(4) What are the strengths and limitations of different study designs
+used in testing these outcomes?
+The most clinically important cognitive differences were achieved in case study designs.
+Meanwhile, 7 out of 11 group studies with positive ES had a randomised design, whereby
+the mode was not chosen specifically for the individual but for the cohort generally.
+However, this did not prove detrimental to the outcomes, as a personalised approach was
+also evident in the most effective group interventions. For example, Christofoletti et al.
+(2008), Li and Li (2017), Raggi et al. (2007) and Tay et al. (2016) tailored interventions
+or individual sessions to the person with dementia, whilst Burgener et al. (2008), Ibarria
+et al. (2016), La Rue et al. (2015) and Onor et al. (2007) added components of caregiver
+involvement.
+In the design of the sessions (minutes per week, # of sessions), a roughly inverse pattern
+could be found between time and effectiveness. The time commitment required of
+Figure 4. Evaluating case study MMSE (or MoCA) change according to NICE and non-UK guidance on MID.
+Chalfont et al. 31
+participants in the six most effective studies was 24 weeks or less. Some studies requiring a
+greater time commitment were less effective. For example, Graessel et al. (2011) had the
+most sessions (288), Oswald et al. (2007) had the most weeks (52) and Ibarria et al. (2016)
+had the greatest total time commitment of 979 hours (approximated, see Table 3). Because
+of the nature of a cross-over trial, the length of wash-out period and the relatively short
+Table 8. Case studies ­ Cognitive assessments showing clinically important differences.
+Study
+Cognitive
+efficacy measures Pre-tests Post-tests Outcomes
+Bredesen
+et al.
+(2016)
+USA
+MMSE, MRI, MoCA, FDG
+PET scan, quantitative
+neuropsychological
+testing w Neuroquant &
+Neuroreader, California
+Verbal Learning Test,
+Stroop colour test,
+immediate and delayed
+recall, semantic
+knowledge, executive
+function, processing
+speed, MFI
+(phagocytosis index)
+P2: FDG PET:
+Early AD;
+CVLT-IIB
+3rd %ile
+P6: MMSE 23
+MFI ¼ 230
+P7: MMSE 22
+P9: MoCA 19
+P2: FDG
+PET: Early
+AD;
+CVLT-IIB
+84th %ile
+P6: MMSE 30
+MFI > 1000
+P7: MMSE 29
+P9: MoCA 21
+P2: Marked subjective and
+quantitative neuropsycho-
+logical testing improve-
+ment, decline halted;
+business reinvigorated, a
+new business site was
+added (follow-up 24 mos)
+P6: Subjective improvement,
+MMSE 23->30; MFI >1000
+(12 mos)
+P7: Subjective improvement,
+MMSE 22->29 (10 mos)
+P9: Clear subjective improve-
+ment, modest objective
+improvement MoCA
+19->21 (3 mos)
+Prokopov,
+(2010)
+Spain
+MRI, detailed biomedical
+history, lifestyle investi-
+gation; suffered mental
+decline for about 1 yr;
+declining memory, low
+energy, low-quality
+sleep; loss of interests/
+motivations; could no
+longer conduct her
+usual activities and
+home chores; could not
+hear without a hearing
+aid; past medical history
+of moderate
+hypertension.
+Mrs KG
+Brain magnetic
+resonance
+imaging (MRI)
+February
+2008: hippo-
+campal and
+cortical atro-
+phy, enlarged
+ventricular
+volume
+MRI April
+2009
+showed no
+degenera-
+tive
+changes.
+Improvement in mood and
+vitality was noticeable after
+the first 5 IHT sessions.
+Gradually, the mental and
+cognitive state recovered.
+Patient reported increased
+energy and activity, better
+memory and cognition, a
+slight weight loss,
+improved sleep, and better
+mood. The patient gradu-
+ally recovered her healthy
+mental state; resumed
+shopping and cooking and
+began playing piano again,
+which she was not capable
+of doing the previous year.
+Only needs the hearing aid
+for a few hours a day,
+compared to the whole-
+day use several
+months before.
+32 Dementia 0(0)
+intervention time of eight weeks in Han et al. (2017) they acknowledged that these may have
+limited the effect of the Multimodal Cognitive Enhancement Therapy (MCET). Since they
+achieved a small ES for the dementia subgroup, perhaps the overall ES was only hindered by
+the study duration, and that a longer study might have been more efficacious.
+Analysis of the settings found that three of the top four most effective studies were
+carried out in nursing homes or a long-term care hospital, whereas 83% of the studies
+with a negative ES were carried out in a day care, day hospital, university facility or research
+centre with people who attended for sessions but lived at home. One further point about
+study design, Serda
+` i Ferrer and de Valle's (2014) study suggested a mixed method design
+may be more appropriate for older participants lacking high levels of literacy.
+(5) What are the strengths and limitations of outcome measures?
+Choice of outcome measures varied across studies (see Table 1) which possibly facilitated
+statistically significant findings. Also, some screening tests, such as the MMSE have well-
+reported weaknesses (Stewart et al., 2012; Verma et al., 2015). However, there was a value to
+using well-recognised instruments as it facilitated at least some quantitative analyses
+(Figures 2 to 4). The studies were largely heterogeneous and the requirements for individual
+studies varied depending on the intervention tested. Therefore, conclusions on the relative
+merits of different measures were not possible and further work is needed specific to mul-
+tifactorial studies.
+Table 9. Case studies ­ Modes and methods.
+Study
+Personalised treatment
+intervention Other Modes Methods
+Bredesen
+et al.
+(2016)
+USA
+MEND Protocol ­ Nutrition (diet,
+vitamins, supplementation,
+herbs, antioxidants)
+Fasting
+Responsive to suboptimal meta-
+bolic parameters; continued
+optimization, iterative
+treatment and metabolic
+characterization
+Sleep
+Stress
+Exercise
+Brain stimulation
+Hormones
+GI health
+Detoxification
+Sleep hygiene, stress reduc-
+tion, aerobics, strength
+training, brain training,
+hormone therapy, intrana-
+sal vasoactive intestinal
+peptide (VIP), address
+heavy metal toxicity
+Prokopov
+(2010)
+Spain
+Repeated sessions of Intermittent
+Hypoxic Training (IHT) Patients
+comfortably relax in a recliner,
+their cells and mitochondria
+go through multiple oscilla-
+tions of pO2. Intermittent
+oxygen restriction (IOR) is a
+universal stimulus rapidly trig-
+gering multiple compensatory
+strategies that support
+genome integrity.
+Nutritional
+adjustment
+Individualized
+vitamins,
+amino acids,
+microele-
+ments and
+supplementa-
+tion
+Fasting
+Advised to eat a low-glycae-
+mic-index, low carbohy-
+drate, ketogenic diet,
+enriched with animal pro-
+teins & omega-3 fatty acids.
+Advised on fasting protocol:
+limit food intake to within
+6­7 h window to extend
+physiological night fasting
+time to 18 h
+Chalfont et al. 33
+(6) What is the evidence for theory on the likely process of change
+for each mode of intervention?
+Of the 10 modes utilised in the studies, other than those modes highlighted in the
+Introduction (i.e. exercise, especially high-intensity exercise, CS and nutrition), evidence is
+lacking for primary studies correlating efficacy of these various modes to improved cogni-
+tion for people with dementia. However, Alzheimer's disease has been shown to involve
+multiple pathophysiological factors for which physical, mental activities and exercises nor-
+malise and regulate cerebral blood flow (CBF) (Aliev et al., 2013) and promote the produc-
+tion of brain derived neurotrophic factor (BDNF) which correlates with neuroplasticity in
+the hippocampus (Colcombe et al., 2006; Erickson et al., 2011). Aerobic exercise in partic-
+ular is associated with increased neurogenesis and angiogenesis, as well as the production of
+BDNF and other growth factors involved in neuroprotection such as the promotion of cell
+survival, neurite outgrowth and synaptic plasticity (Cramer et al., 2011) and protecting
+deoxyribonucleic acid (DNA) from oxidative damage and rejuvenating the mitochondria
+(Garatachea et al., 2015). Cognitive activity has increased neuronal plasticity and cognitive
+reserve, a lack of which hastens cognitive decline in dementia (Panerai, 2016). `The changes
+we saw in fMRI support the notion that even the AD brain still has plasticity resources and
+can react to positive environmental stimuli,' said Baglio et al. (2015).
+Stress relief, meditation and relaxation lowered cortisol, decreased inflammation and
+increased BDNF. The effect of meditation caused significant changes in CBF (Khalsa,
+Amen, Hanks, Money, & Newberg, 2009). Neurotoxins such as heavy metals and mould
+have been associated with cognitive decline and subsequently removed through detoxifica-
+tion with for instance sauna or chelation (Bredesen, 2016; Shoemaker & House, 2006).
+Hormone balancing optimises thyroid function and regulates sex hormones. Sleep disturban-
+ces and disorders may disrupt neuronal pathways, impair working memory, lead to cogni-
+tive impairment and are a significant risk factor for dementia (Miller, 2015).
+Because DNA methylation, histone modifications, and microRNAs are the principal
+epigenetic mechanisms involved in AD pathophysiology, some argue that nutrition can
+prevent the onset of dementia and attenuate cognitive decline, especially if combined with
+brain exercise and physical training (Athanasopoulos et al., 2016). Dietary factors can com-
+plement the action of exercise at the cellular level of energy metabolism and synaptic plas-
+ticity (Gomez-Pinilla, 2011). Given the growing evidence base on the process of change for
+the above interventions, multimodal approaches that target several dysfunctions simulta-
+neously, and that emphasize nutritional, botanical and stimulatory therapies may offer the
+most benefit (Wollen, 2010).
+(7) What are the strengths and limitations of different evaluation tools used
+to assess the effectiveness of MNPIs on improving cognitive functioning?
+In Kim et al. (2016), nursing home participants with moderate-severe AD did not improve
+significantly after six months in the KEP þ MCP group compared to the MCP group on the
+MMSE and CDT. However, the ADAS-Cog score showed significant improvement at the
+same time point, which may relate to its greater sensitivity to detect change. The MMSE is
+widely criticised for this relative lack of ability. Indeed, Ibarria et al. (2016) also reported
+cognition as stable on the MMSE but slightly declined on the ADAS-Cog. Two studies used
+34 Dementia 0(0)
+the FAB (possible score 18, higher indicates improvement). With so much heterogeneity
+among the studies the strengths and limitations of different tools are unclear.
+(8) What is the effectiveness of different modes of delivery on the effectiveness of
+MNPIs for improving cognitive functioning for people with a diagnosis of dementia?
+Different modes may take more time to register an effect than others. For example, Vicente
+de Sousa et al. (2017) investigated a nutritional supplementation psychomotor rehabilitation
+programme (NSPRG) lasting 21 days. But cognitive benefit might require a longer inter-
+vention, as evidenced by the improved test scores found in 91% (N ¼ ?) of analysed studies
+in this review, all of which exceeded 21 days. Some of the most effective group studies
+included individualised aspects to their interventions.
+Christofoletti et al. (2008) (d ¼ 0.909) provided tailored physiotherapeutic sessions con-
+centrating on specific kinesiotherapeutic exercises that stimulated strength, balance and
+cognition. This study observed an attenuation of cognitive decline, in particular verbal
+fluency and executive function. Li and Li (2017) (d ¼ 0.497) provided 30-minute individual
+sessions twice a week according to their likes and preference, such as singing practice of
+favourite folk songs. Tay et al. (2016) (d ¼ 0.457) gave tailored individualised 30-minute
+activities. A further personalised approach was found in Raggi et al. (2007) (d ¼ 0.245)
+which illustrated a comprehensive rehabilitation programme in a specialised hospital unit.
+Although the study lasted 17 months overall, the mean stay in the hospital was only 26 days,
+beginning with a thorough investigation including neurological examination and laboratory
+analyses to inform each person's integrated, supportive and individualised treatment.
+In summary, this review found multimodal intervention research predominantly in Spain,
+Portugal, USA, Italy and Asia. Group studies commonly utilised 2­3 modes and occurred in
+long-term care, day care, clinic, hospital, university facilities or in the community. A very
+small number of case studies were found, utilising up to nine modes. Study duration varied
+from three weeks to four years and sessions lasted from 20 minutes to 8 hours. Time com-
+mitment required of participants in the six most effective studies was 24 weeks or less.
+People with all stages of dementia participated and studies occasionally involved caregivers.
+Discussion and implications
+The results of this review have important implications for dementia treatments, as 92% (24/
+26) of included studies demonstrated statistical improvement, stability or attenuation of
+decline. Studies that personalised the multimodal approach by identifying individual
+needs of participants or patients and tailoring interventions accordingly, resulted in the
+greatest ESs. These findings should encourage extensive research of complex multimodal
+interventions for dementia, including cognitive, physical or psychological therapies along-
+side novel ones such as brain stimulation (Raggi, Tasca, & Ferri, 2017), oxygen therapy,
+detoxification, stress reduction, sleep hygiene, hormonal health, fasting and nutrition. Some
+considerations have emerged:
+Length of study. A multimodal or `complex' intervention contains interacting components
+requiring specific design guidance (Craig et al., 2013). One difficulty in designing multimodal
+interventions is accounting for the varying timeframes within which different effects may
+impact individuals. Because the shortest study (Vicente) had one of the smallest ESs and
+Chalfont et al. 35
+four of the longest studies showed maintenance of cognition, we investigated whether study
+length was an indicator of ES. We found that the length of intervention was not an indicator
+of effectiveness as evidenced by the results of Raggi, Han, Tay, Li and Li and Kang, all of
+which lasted four months of less. As Vicente was predominantly a nutritional intervention,
+which also assessed the effect on cognition, it is not surprising that a short study length
+would have proved unproductive cognitively. Similarly, in the case of Onor et al. (2007),
+there was a `lack of improvement of cognitive function . . . probably due to the short dura-
+tion of the rehabilitation program' (p. 268).
+Effect size versus benefit. Reviewing multimodal studies by looking at a measurable gain in
+only one mode such as cognition, can lead to erroneous assumptions about the success of the
+research and indeed the benefits of the intervention for the participants with dementia. An
+example of this is Arkin's study (2007), which scored lowest on ES of the intervention groups.
+In spite of this, maintenance of function, or improvement on several discourse measures, was
+achieved by the programme's 11 first-year participants. This study was also successful in
+reducing the annual rate of decline between 3rd and 4th year to just 1 point, which was
+significantly less than the CERAD comparator group. Therefore, a small amount of decline
+can be a benefit when compared to rapid decline in the untreated population.
+Holistic approach. Since dementia is multifactorial in terms of the numerous risk factors
+involved, then a holistic approach to treatment would perhaps stand the best chance of
+addressing a range of symptoms. This is the premise for multimodal interventions, at least as
+they are currently designed, which cannot be unpacked to determine which element helped
+to delay or reverse cognitive decline. Positive emotions, enjoyment, creativity, belief, even
+spirituality can contribute to cognition as much as exercise and diet for example. Onor et al.
+(2007) reported that socialization itself can lead to improvements, and `programs that take a
+more holistic approach to the individual are more effective than those focusing on cognitive
+rehabilitation alone' (p. 270). Maci et al. (2012) echoed this with their integrated approach
+of CS, physical activity and socialisation to slow down affective decline and reduce
+carer burden.
+Assessment tools. Judging from the multiple tools that have been reported one might
+jump to the conclusion that many tests are administered in hopes of finding positive out-
+comes to report. However, multimodal studies require numerous tests ­ a complete battery
+for each mode. This enables more insight into the various ways the intervention might be
+helping to improve cognition. But testing can also contribute to participant burden and
+might even encourage drop-outs. There is thus a pressing need in multimodal research to
+analyse the strengths and limitations of different evaluation tools.
+Recently, Webster et al. (2017) found that cognitive measures such as the MMSE can be
+distressing and demoralising for people with dementia and their carers who preferred that
+cognition should be taken in context of previous ability. It was felt that `a larger package of
+specific measures would give a holistic view of an individual and include more detail' (p. 13)
+and that timed measures which estimate cognitive processing speed should be considered,
+along with the recommended validated measures of MMSE and ADAS-Cog. In keeping
+with this, studies reported a range of testing including CSF biomarkers, blood work, met-
+abolic analysis as well as in-depth narrative assessment. One paper (Oswald et al., 2007)
+included data from another informant, a questionnaire for nursing staff on the changes in
+cognitive and functional ability of residents.
+For future studies the use of a range of testing relevant to the population sample
+is recommended, as well as a standardised, free and widely available instrument for
+36 Dementia 0(0)
+pre­post-test assessment. For instance, the CDR global score has been recommended as a
+staging or impression of change outcome measure in future studies (Webster et al., 2017).
+The Short Cognitive Test (SKT) has also been known to be `more sensitive to subtle
+changes' than the MMSE as it is a `more comprehensive cognitive assessment battery and
+takes account processing speed and response accuracy' (Viola et al., 2011).
+Study design ­ Pharmacology and the Naturalistic. Although this review searched for,
+selected and focused on non-pharmacological approaches, the advent of disease-modifying
+drug treatments is near for preclinical and prodromal stages as disease models improve their
+ability to predict the likely course of dementia (Ritchie et al., 2017). Drug-nai¨ve patients
+with a diagnosis of dementia are practically non-existent as this review discovered.
+Therefore, the opportunity arises for collaborative interventions that combine and integrate
+pharmacology with non-pharmacological treatments as shown in Ibarria et al. (2016). So-
+called `naturalistic' studies, which follow a group of patients in an outpatient clinic over
+many months are relevant and informative to clinical practice. Bragin et al. (2012) showed
+arrest in cognitive decline for 60 months for patients with depression, dementia, physical
+disability and medical illnesses. Patients were treated with a multimodal intervention specific
+to their needs, including anti-depressants, cholinesterase inhibitors, N-methyl-D-aspartate
+(NMDA) receptor antagonists, vitamins and supplements as well as physical and cognitive
+exercises. This example strengthens the evidence base, informs clinical practice and is rele-
+vant to people living with dementia who (1) would routinely be prescribed a dementia drug,
+and (2) often have comorbidities. Such a patient consequently may benefit from a combined,
+integrative treatment model, as Bragin et al. (2012) aptly demonstrated.
+Terminology. Because innumerable descriptive terms for utilising more than one mode
+pervaded the intervention literature, an added benefit of this review was to develop the
+typology described herein. The Typology of Modes and Methods for Dementia
+Interventions (Online Appendix 2) organises them into a comprehensive and logical struc-
+ture. This typology enables a systematic evaluation of where a study sits relevant to the
+extant literature. It also facilitates multidisciplinary comparison of studies as different fields
+have their own ways of describing modes of interventions. This typology can help to classify
+research involving multimodal, multicomponent, dual-task, integrative, combined or com-
+plex interventions.
+Involving people with dementia. There are opportunities in research design and implemen-
+tation to include participants in a meaningful way. Perhaps one of the reasons why N-of-1
+interventions worked so well is the involvement of the patient, particularly by helping to
+formulate and then agree the treatment approach with the practitioner or researcher. This
+goes beyond mere consent to participate and freedom to withdraw. This is about collabo-
+rative engagement ­ co-ownership throughout the process. Another paper by Tay et al.
+(2016) went into more depth about their goal-oriented approach (Chew, Chong, Fong, &
+Tay, 2015). Cognition goals as well as goals to improve engagement and socialization;
+reduce caregiver stress; and improve physical function, behaviour and mood were set and
+61.8% of participants met them.
+Diversity of needs. Groups are complicated by the diversity of needs within them. Serda
+` i
+Ferrer and del Valle (2014) found, on the one hand, that advanced age, diverse symptoms,
+the stage of the disease and the impracticalities of working with a group led to significant
+and continuous reduction in patient cognitive status. On the other hand, they noted that the
+improvement in QoL was `decisive and groundbreaking', suggesting that `psychological
+factors may have helped mediate the relationship between exercise and QoL' (p. 197).
+Chalfont et al. 37
+Personalised approach. It is a commonly held belief across the lay population and main-
+stream media that no disease-modifying treatments for dementia exist (Webster et al., 2017).
+We have now shown that optimised and targeted interventions can help to address the
+underlying causes of cognitive decline. The role of neurotoxins, nutritional deficiencies,
+inflammation and the gut microbiome in neurodegenerative disease (Bland, 2016) can
+lead to a personalised care plan and enhanced precision of treatment decisions (Galvin,
+2017). Moreover, a person's dementia has a unique etiology which must be understood
+individually to develop personalized treatment (Pomorska & Ockene, 2017). Likewise,
+effort must also be taken to add some component of support for individuals in research
+studies. Should personalised treatments for individuals become more widespread, the learn-
+ing and application can benefit research as well as patients and residents in long term care
+(Bodai et al., 2018).
+Limitations
+The wide diversity of nomenclature in multimodal studies means our search strategy may
+not be as comprehensive or successful as intended. Interventions not described in-depth may
+have led to erroneous categorisation. Decisions about which assessment measures to include
+in order to maintain consistency but also to include as many studies as possible may have
+weakened our conclusions. Lack of response from some authors meant we had to omit some
+studies from the computational analyses.
+Conclusion
+Overall, there is some evidence that MNPIs can improve cognitive function in adults with a
+primary diagnosis of dementia by addressing multiple modifiable risk factors currently
+understood to contribute towards cognitive decline. In cases where cognitive outcomes
+were improved, the following seven research components tended to be in place:
+1. At least three modes were utilised and the methods for implementing the modes were
+multiple and diverse;
+2. The general character or focus of the intervention was on cognitive therapies, stimulation,
+training or rehabilitation, augmented with other modes such as physical, psychosocial,
+nutritional, etc.;
+3. A personalised one-to-one interaction specific to each individual was included which
+involved engagement, investigation and assessment helping to focus or fine-tune their
+intervention;
+4. Social, logistical or practical support involved caregivers or students, or a general wid-
+ening of social networks;
+5. The degree of a person's cognitive impairment was not seen as an impediment to inter-
+vention but rather was optimised for those with moderate to severe impairment to max-
+imise potential benefits;
+6. Study design and outcome measures allowed for the generation of measurable improve-
+ment and the timely and meaningful data capture of the results;
+7. Interventions leveraged recent advances in our understanding of the underlying causes of
+dementia and ways to disrupt these neurodegenerative mechanisms through nutrition,
+fasting, oxygen therapies, stress reduction, sleep hygiene and so on.
+38 Dementia 0(0)
+The aim of this review was to determine the effectiveness of MNPIs for improving cog-
+nition in people with a dementia diagnosis. As research increases in this area, healthcare
+practitioners will be more able to treat people with cognitive impairment in ways that help to
+reduce the symptoms and slow the decline by addressing the underlying causes of dementia.
+Health and social care providers need to be better informed about lifestyle medicine as an
+adjunct to existing pharmacotherapies in order to improve choices for their patients and
+service users. It is socially and economically imperative that practice does not fall behind
+emerging evidence. Current relevant findings on effective treatments may empower
+and encourage people with dementia and their carers towards personal health through
+self-care, whilst directing and stimulating research that continually improves clinical under-
+standing and therefore patient outcomes.
+Declaration of conflicting interests
+The authors declared no potential conflicts of interest with respect to the research, authorship, and/or
+publication of this article.
+Funding
+The authors disclosed receipt of the following financial support for the research, authorship, and/or
+publication of this article: the AIM Foundation.
+Supplemental Material
+Appendices are available online.
+ORCID iD
+Jane Simpson http://orcid.org/0000-0001-5071-4077
+References
+Ahlskog, J. E., Geda, Y. E., Graff-Radford, N. R., & Petersen, R. C. (2011). Physical exercise as a
+preventive or disease-modifying treatment of dementia and brain aging. Mayo Clinic Proceedings,
+86(9), 876­884. DOI: 10.4065/mcp.2011.0252.
+Aliev, G., Ashraf, G. M., Kaminsky, Y. G., Sheikh, I. A., Sudakov, S. K., Yakhno, N. N., . . .
+Bachurin, S. O. (2013). Implication of the nutritional and nonnutritional factors in the context
+of preservation of cognitive performance in patients with dementia/depression and Alzheimer dis-
+ease. American Journal of Alzheimer's Disease & Other Dementias, 28(7), 660­670. DOI: 10.1177/
+1533317513504614.
+Alves, J., Magalhaes, R., Machado, A., Goncalves, O. F., Sampaio, A., & Petrosyan, A. (2013). Non-
+pharmacological cognitive intervention for aging and dementia: Current perspectives. World
+Journal of Clinical Cases, 1(8), 233­241. DOI: 10.12998/wjcc.v1.i8.233.
+Arkin, S. M. (2007). Language-enriched exercise plus socialization slows cognitive decline in
+Alzheimer's disease. American Journal of Alzheimer's Disease & Other Dementias, 22(1), 62­77.
+DOI: 10.1177/1533317506295377.
+Athanasopoulos, D., Karagiannis, G., & Tsolaki, M. (2016). Recent findings in Alzheimer disease and
+nutrition focusing on epigenetics. Advances in Nutrition, 7, 917­927. DOI: 10.3945/an.116.012229.
+Baglio, F., Griffanti, L., Saibene, F. L., Ricci, C., Alberoni, M., Critelli, R., . . . Farina, E. (2015).
+Multistimulation group therapy in Alzheimer's disease promotes changes in brain functioning.
+Neurorehabilitation and Neural Repair, 29(1), 13­24. DOI: 10.1177/1545968314532833.
+Chalfont et al. 39
+Bamidis, P. D., Fissler, P., Papageorgiou, S. G., Zilidou, V., Konstantinidis, E. I., Billis, A. S., . . .
+Kolassa, I.-T. (2015). Gains in cognition through combined cognitive and physical training: The
+role of training dosage and severity of neurocognitive disorder. Frontiers in Aging Neuroscience, 7,
+152­152. DOI: 10.3389/fnagi.2015.00152.
+Barban, F., Annicchiarico, R., Pantelopoulos, S., Federici, A., Perri, R., Fadda, L., Caltagirone, C.
+(2016). Protecting cognition from aging and Alzheimer's disease: A computerized cognitive training
+combined with reminiscence therapy. International Journal of Geriatric Psychiatry, 31(4), 340­348.
+DOI: 10.1002/gps.4328.
+Bland, J. (2016). Mild cognitive impairment, neurodegeneration, and personalized lifestyle medicine.
+Integrative Medicine, 15(2), 12­14.
+Bodai, B. I., Nakata, T. E., Wong, W. T., Clark, D. R., Lawenda, S., Tsou, C., . . . Campbell, T. M.
+(2018). Lifestyle medicine: A brief review of its dramatic impact on health and survival. The
+Permanente Journal, 22, 17­25. DOI: 10.7812/TPP/17-025.
+Bragin, V., Chemodanova, M., Bragin, I., Dzhafarova, N., Mescher, I., Chernyavskyy, P., . . . Aliev,
+G. (2012). A 60-month follow-up of a naturalistic study of integrative treatment for real-life geri-
+atric patients with depression, dementia and multiple chronic illnesses. Open Journal of Psychiatry,
+02(02), 129­140. DOI: 10.4236/ojpsych.2012.22018.
+Bredesen, D. E. (2016). Inhalational Alzheimer's disease: An unrecognized and treatable epidemic.
+Aging (Albany NY), 8(2), 304­313.
+Bredesen, D. E., Amos, E. C., Canick, J., Ackerley, M., Raji, C., Fiala, M., & Ahdidan, J. (2016).
+Reversal of cognitive decline in Alzheimer's disease. Aging (Albany NY), 8(6), 1250­1258. DOI:
+10.18632/aging.100981.
+Burback, D., Molnar, F. J., St John, P., & Man-Son-Hing, M. (1999). Key methodological features of
+randomized controlled trials of Alzheimer's disease therapy. Minimal clinically important differ-
+ence, sample size and trial duration. Dementia and Geriatric Cognitive Disorders, 10(6), 534­540.
+DOI: 10.1159/000017201.
+Burgener, S. C., Yang, Y., Gilbert, R., & Marsh-Yant, S. (2008). The effects of a multimodal inter-
+vention on outcomes of persons with early-stage dementia. American Journal of Alzheimer's Disease
+and Other Dementias, 23(4), 382­394. DOI: 10.1177/1533317508317527.
+Buschert, V. C., Friese, U., Teipel, S. J., Schneider, P., Merensky, W., Rujescu, D., . . . Buerger, K.
+(2011). Effects of a newly developed cognitive intervention in amnestic mild cognitive impairment
+and mild Alzheimer's disease: A pilot study. Journal of Alzheimer's Disease: JAD, 25(4), 679­694.
+DOI: 10.3233/JAD-2011-100999.
+Chew, J., Chong, M.-S., Fong, Y.-L., & Tay, L. (2015). Outcomes of a multimodal cognitive and
+physical rehabilitation program for persons with mild dementia and their caregivers: A goal-
+oriented approach. Clinical Interventions in Aging, 10, 1687­1694. DOI: 10.2147/CIA.S93914.
+Choi, J., & Twamley, E. W. (2013). Cognitive rehabilitation therapies for Alzheimer's disease: A
+review of methods to improve treatment engagement and self-efficacy. Neuropsychology Review,
+23(1), 48­62. DOI: 10.1007/s11065-013-9227-4.
+Christofoletti, G., Oliani, M. M., Gobbi, S., Stella, F., Bucken Gobbi, L. T., & Renato Canineu, P.
+(2008). A controlled clinical trial on the effects of motor intervention on balance and cognition in
+institutionalized elderly patients with dementia. Clinical Rehabilitation, 22(7), 618­626. DOI:
+10.1177/0269215507086239.
+Clare, L., & Woods, R. T. (2004). Cognitive training and cognitive rehabilitation for people with early-
+stage Alzheimer's disease: A review. Neuropsychological Rehabilitation, 14(4), 385­401. DOI:
+10.1080/09602010443000074.
+Coelho, F. G., Andrade, L. P., Pedroso, R. V., Santos-Galduroz, R. F., Gobbi, S., Costa, J. L., &
+Gobbi, L. T. (2013). Multimodal exercise intervention improves frontal cognitive functions and gait
+in Alzheimer's disease: A controlled trial. Geriatrics & Gerontology International, 13(1), 198­203.
+DOI: 10.1111/j.1447-0594.2012.00887.x.
+40 Dementia 0(0)
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences. (2nd ed.). Hillsdale, NJ:
+Lawrence Erlbaum Associates.
+Colcombe, S. J., Erickson, K. I., Scalf, P. E., Kim, J. S., Prakash, R., McAuley, E., . . . Kramer, A. F.
+(2006). Aerobic exercise training increases brain volume in aging humans. The Journals of
+Gerontology Series A: Biological Sciences and Medical Sciences, 61(11), 1166­1170.
+Cotelli, M., Manenti, R., Brambilla, M., Petesi, M., Rosini, S., Ferrari, C., . . . Miniussi, C. (2014).
+Anodal tDCS during face-name associations memory training in Alzheimer's patients. Frontiers in
+Aging Neuroscience, 6. DOI: 10.3389/fnagi.2014.00038.
+Craig, P., Dieppe, P., Macintyre, S., Michie, S., Nazareth, I., & Petticrew, M. (2013). Developing and
+evaluating complex interventions: The new Medical Research Council guidance. International
+Journal of Nursing Studies, 50, 587­592. DOI: 10.1016/j.ijnurstu.2012.09.009.
+Cramer, S. C., Sur, M., Dobkin, B. H., O'Brien, C., Sanger, T. D., Trojanowski, J. Q., . . . Vinogradov,
+S. (2011). Harnessing neuroplasticity for clinical applications. Brain, 134(Pt 6), 1591­1609. DOI:
+10.1093/brain/awr039.
+Cummings, J. L., Morstorf, T., & Zhong, K. (2014). Alzheimer's disease drug-development pipeline:
+Few candidates, frequent failures. Alzheimers Research & Therapy, 6(4), 37. DOI: 10.1186/alzrt269.
+Curlik, D. M., 2nd., & Shors, T. J. (2013). Training your brain: Do mental and physical (MAP)
+training enhance cognition through the process of neurogenesis in the hippocampus?.
+Neuropharmacology, 64, 506­514. DOI: 10.1016/j.neuropharm.2012.07.027.
+Erickson, K. I., Voss, M. W., Prakash, R. S., Basak, C., Szabo, A., Chaddock, L., . . . Kramer, A. F.
+(2011). Exercise training increases size of hippocampus and improves memory. Proceedings of the
+National Academy of Sciences, 108(7), 3017. DOI: 10.1073/pnas.1015950108.
+Galvin, J. E. (2017). Prevention of Alzheimer's disease: Lessons learned and applied. Journal of the
+American Geriatrics Society, 65(10): 2128­2133. DOI: 10.1111/jgs.14997.
+Garatachea, N., Pareja-Galeano, H., Sanchis-Gomar, F., Santos-Lozano, A., Fiuza-Luces, C., Moran,
+M., & Lucia, A. (2015). Exercise attenuates the major hallmarks of aging. Rejuvenation Research,
+18(1), 57­89. DOI: 10.1089/rej.2014.1623.
+Garc
+ia-Mesa, Y., L
+opez-Ramos, J. C., Gime
+´ nez-Llort, L., Revilla, S., Guerra, R., Gruart, A., . . .
+Sanfeliu, C. (2011). Physical exercise protects against Alzheimer's disease in 3xTg-AD mice. Journal
+of Alzheimer's Disease, 24(3), 421­454. DOI: 10.3233/JAD-2011-101635.
+Gomez-Pinilla, F. (2011). The combined effects of exercise and foods in preventing neurological and
+cognitive disorders. Preventive Medicine: An International Journal Devoted to Practice and Theory,
+52(Suppl), S75­S80. DOI: 10.1016/j.ypmed.2011.01.023.
+Graessel, E., Stemmer, R., Eichenseer, B., Pickel, S., Donath, C., Kornhuber, J., & Luttenberger, K.
+(2011). Non-pharmacological, multicomponent group therapy in patients with degenerative demen-
+tia: A 12-month randomizied, controlled trial. BMC Medicine, 9, 129­129. DOI: 10.1186/1741-
+7015-9-129.
+Groot, C., Hooghiemstra, A. M., Raijmakers, P. G., van Berckel, B. N., Scheltens, P., Scherder, E. J.,
+. . . Ossenkoppele, R. (2016). The effect of physical activity on cognitive function in patients with
+dementia: A meta-analysis of randomized control trials. Ageing Research Reviews, (25), 13­23.
+DOI: 10.1016/j.arr.2015.11.005.
+Han, J. W., Lee, H., Hong, J. W., Kim, K., Kim, T., Byun, H. J., . . . Kim, K. W. (2017). Multimodal
+cognitive enhancement therapy for patients with mild cognitive impairment and mild dementia: A
+multi- center, randomized, controlled, double-blind, crossover trial. Journal of Alzheimer's Disease,
+55(2), 787­796. DOI: 10.3233/JAD-160619.
+Huntley, J. D., Gould, R. L., Liu, K., Smith, M., & Howard, R. J. (2015). Do cognitive interventions
+improve general cognition in dementia? A meta-analysis and meta-regression. BMJ Open, 5,
+e005247. DOI: 10.1136/bmjopen-2014-005247.
+Ibarria, M., Alegret, M., Valero, S., Morera, A., Guitart, M., Canabate, P., . . . Tarraga, L. (2016).
+Beneficial effects of an integrated psychostimulation program in patients with Alzheimer's disease.
+Journal of Alzheimer's Disease, 50(2), 559­566. DOI: 10.3233/jad-150455.
+Chalfont et al. 41
+Jian, G. (1999). Treatment, of 50 cases of senile dementia by acupuncture combined with inhalation of
+herbal drugs and oxygen. Journal of Traditional Chinese Medicine, 19(4), 287­289.
+Kang, H. Y., Bae, Y. S., Kim, E. H., Lee, K. S., Chae, M. J., & Ju, R. A. (2010). An integrated
+dementia intervention for Korean older adults. Journal of Psychosocial Nursing and Mental Health
+Services, 48(12), 42­50. DOI: 10.3928/02793695-20100930-01.
+Karp, A., Paillard-Borg, S., Wang, H. X., Silverstein, M., Winblad, B., & Fratiglioni, L. (2006).
+Mental, physical and social components in leisure activities equally contribute to decrease dementia
+risk. Dementia and Geriatric Cognitive Disorders, 21(2), 65­73. DOI: 10.1159/000089919.
+Khalsa, D. S., Amen, D., Hanks, C., Money, N., & Newberg, A. (2009). Cerebral blood flow changes
+during chanting meditation. Nuclear Medicine Communications, 30(12), 956­961. DOI: 10.1097/
+MNM.0b013e32832fa26c.
+Kim, M.-J., Han, C.-W., Min, K.-Y., Cho, C.-Y., Lee, C.-W., Ogawa, Y., . . . Kohzuki, M. (2016).
+Physical exercise with multicomponent cognitive intervention for older adults with Alzheimer's
+disease: A 6-month randomized controlled trial. Dementia and Geriatric Cognitive Disorders
+Extra, 6(2), 222­232. DOI: 10.1159/000446508.
+K
+obe, T., Witte, A. V., Schnelle, A., Lesemann, A., Fabian, S., Tesky, V. A., . . . Fl
+oel, A. (2016).
+Combined omega-3 fatty acids, aerobic exercise and cognitive stimulation prevents decline in gray
+matter volume of the frontal, parietal and cingulate cortex in patients with mild cognitive impair-
+ment. NeuroImage, 131, 226­238. DOI: 10.1016/j.neuroimage.2015.09.050.
+Kostoff, R. N., Zhang, Y., Ma, J., Porter, A. L., & Buchtel, H. A. (2017). Prevention and reversal of
+Alzheimer's disease. Retrieved from https://smartech.gatech.edu/handle/1853/56646
+La Rue, A., Felten, K., & Turkstra, L. (2015). Intervention of multi-modal activities for older adults
+with dementia translation to rural communities. American Journal of Alzheimer's Disease & Other
+Dementias, 30(5), 468­477. DOI: 10.1177/1533317514568888.
+Law, L. L. F., Barnett, F., Yau, M. K., & Gray, M. A. (2014). Effects of combined cognitive and
+exercise interventions on cognition in older adults with and without cognitive impairment: A sys-
+tematic review. Ageing Research Reviews, 15, 61­75. DOI: 10.1016/j.arr.2014.02.008.
+Lee, J., Choi, B. H., Oh, E., Sohn, E. H., & Lee, A. Y. (2016). Treatment of Alzheimer's disease with
+repetitive transcranial magnetic stimulation combined with cognitive training: A prospective, ran-
+domized, double-blind, placebo-controlled study. Journal of Clinical Neurology, 12(1), 57­64. DOI:
+10.3988/jcn.2016.12.1.57.
+Li, D. M., & Li, X. X. (2017). The effect of folk recreation program in improving symptoms: A study
+of Chinese elder dementia patients. International Journal of Geriatric Psychiatry, 32(8), 901­908.
+DOI: 10.1002/gps.4543.
+Livingston, G., Sommerlad, A., Orgeta, V., Costafreda, S. G., Huntley, J., Ames, D., . . . Mukadam,
+N. (2017). Dementia prevention, intervention, and care. Lancet, 390(10113), 2673­2734. DOI:
+10.1016/S0140-6736(17)31363-6.
+Maci, T., Pira, F. L., Quattrocchi, G., Nuovo, S. D., Perciavalle, V., & Zappia, M. (2012). Physical
+and cognitive stimulation in Alzheimer disease. The GAIA Project. A pilot study. American Journal
+of Alzheimer's Disease and Other Dementias, 27(2), 107­113. DOI: 10.1177/1533317512440493.
+Miller, M. A. (2015). The role of sleep and sleep disorders in the development, diagnosis, and man-
+agement of neurocognitive disorders. Frontiers in Neurology, 6: 224. DOI: 10.3389/
+fneur.2015.00224.
+Ngandu, T., Lehtisalo, J., Solomon, A., Lev
+alahti, E., Ahtiluoto, S., Antikainen, R., . . . Kivipelto, M.
+(2015). A 2 year multidomain intervention of diet, exercise, cognitive training, and vascular risk
+monitoring versus control to prevent cognitive decline in at-risk elderly people (FINGER): A rand-
+omised controlled trial. The Lancet, 385(9984), 2255­2263. DOI: 10.1016/s0140-6736(15)60461-5.
+NICE. (2018). Dementia: Assessment, management and support for people living with dementia and
+their carers. In Clinical guideline: Methods, evidence and recommendations. Retrieved from https://
+www.nice.org.uk/guidance/gid-cgwave0792/documents/full-guideline-updated: NICE
+42 Dementia 0(0)
+Olazaran, J., Reisberg, B., Clare, L., Cruz, I., Pena-Casanova, J., Del Ser, T., . . . Muniz, R. (2010).
+Nonpharmacological therapies in Alzheimer's disease: A systematic review of efficacy. Dementia
+and Geriatric Cognitive Disorders, 30(2), 161­178. DOI: 10.1159/000316119.
+Onor, M. L., Trevisiol, M., Negro, C., Signorini, A., Saina, M., & Aguglia, E. (2007). Impact of a
+multimodal rehabilitative intervention on demented patients and their caregivers. American Journal
+of Alzheimer's Disease and Other Dementias, 22(4), 261­272.
+Oswald, W. D., Gunzelmann, T., & Ackermann, A. (2007). Effects of a multimodal activation pro-
+gram (SimA-P) in residents of nursing homes. European Review of Aging and Physical Activity, 4(2),
+91­102. DOI: 10.1007/s11556-007-0025-y.
+Panerai, S. (2016). Group intensive cognitive activation in patients with major or mild neurocognitive dis-
+order. Frontiers in Behavioral Neuroscience, 10: 34. DOI: 10.3389/fnbeh.2016.00034.
+Pickett, J., Bird, C., Ballard, C., Banerjee, S., Brayne, C., Cowan, K., . . . Walton, C. (2018). A road-
+map to advance dementia research in prevention, diagnosis, intervention, and care by 2025.
+International Journal of Geriatric Psychiatry, 1­7. DOI: 10.1002/gps.4868.
+Pluye, P., Cargo. M, Robert, E., Bartlett, G., O'Cathain, A., Griffiths, F., Boardman F., Gagnon M.,
+Rousseau, M. (2011). A pilot Mixed Methods Appraisal Tool (MMAT) for systematic mixed
+studies reviews. In: Abstracts of the 19th Cochrane Colloquium; 2011, 19­22 Oct; Madrid, Spain.
+John Wiley & Sons, 2011.
+Pomorska, G., & Ockene, J. K. (2017). A general neurologist's perspective on the urgent need to apply
+resilience thinking to the prevention and treatment of Alzheimer's disease. Alzheimer's & Dementia:
+Translational Research & Clinical Interventions, 3, 498­506. DOI: 10.1016/j.trci.2017.08.001.
+Prokopov, A. F. (2010). A case of recovery from dementia following rejuvenative treatment.
+Rejuvenation Research, 13(2­3), 217­219. DOI: 10.1089/rej.2009.0947.
+Qaseem, A., Snow, V., Cross, J. T., Forciea, M. A., Hopkins, R., Shekelle, P., . . . Owens, D. K. (2008).
+Current pharmacologic treatment of dementia: A clinical practice guideline from the American
+College of Physicians and the American Academy of Family Physicians. Annals of Internal
+Medicine, 148(5), 370­378. DOI: 10.7326/0003-4819-148-5-200803040-00008.
+Raggi, A., Iannaccone, S., Marcone, A., Ginex, V., Ortelli, P., Nonis, A., . . . Cappa, S. F. (2007). The
+effects of a comprehensive rehabilitation program of Alzheimer's disease in a hospital setting.
+Behavioural Neurology, 18(1), 1­6. DOI: 10.1155/2007/782959.
+Raggi, A., Tasca, D., & Ferri, R. (2017). A brief essay on non-pharmacological treatment of
+Alzheimer's disease. Reviews in the Neurosciences, 28(6), 587­597. DOI: 10.1515/revneuro-
+2017-0002.
+Ritchie, C. W., Russ, T. C., Banerjee, S., Barber, B., Boaden, A., Fox, N. C., . . . Burns, A. (2017). The
+Edinburgh Consensus: Preparing for the advent of disease-modifying therapies for Alzheimer's
+disease. Alzheimer's Research & Therapy, 9(1), 85. DOI: 10.1186/s13195-017-0312-4.
+Rodakowski, J., Saghafi, E., Butters, M. A., & Skidmore, E. R. (2015). Non-pharmacological inter-
+ventions for adults with mild cognitive impairment and early stage dementia: An updated scoping
+review. Molecular Aspects of Medicine, 43­44, 38­53. DOI: 10.1016/j.mam.2015.06.003.
+Serda
+` I Ferrer, B. C., & del Valle, A. (2014). A rehabilitation program for Alzheimer's disease. Journal
+of Nursing Research, 22(3), 192­199. DOI: 10.1097/jnr.0000000000000046.
+Shoemaker, R. C., & House, D. E. (2006). Sick building syndrome (SBS) and exposure to water-
+damaged buildings: Time series study, clinical trial and mechanisms. Neurotoxicology and
+Teratology, 28, 573­588. DOI: 10.1016/j.ntt.2006.07.003.
+Slachevsky, A., Villalpando, J. M., Sarazin, M., Hahn-Barma, V., Pillon, B., & Dubois, B. (2004).
+Frontal assessment battery and differential diagnosis of frontotemporal dementia and Alzheimer
+disease. Archives of Neurology, 61(7), 1104­1107. DOI: 10.1001/archneur.61.7.1104.
+Souto, R. Q., Khanassov, V., Hong, Q. N., Bush, P. L., Vedel, I., & Pluye, P. (2015). Systematic mixed
+studies reviews: Updating results on the reliability and efficiency of the mixed methods appraisal
+tool. International Journal of Nursing Studies, 52(1), 500­501. DOI: 10.1016/j.ijnurstu.2014.08.010.
+Chalfont et al. 43
+Stewart, S., O'Riley, A., Edelstein, B., & Gould, C. (2012). A preliminary comparison of three cog-
+nitive screening instruments in long term care: The MMSE, SLUMS, and MoCA. Clinical
+Gerontologist, 35(1), 57­75. DOI: 10.1080/07317115.2011.626515.
+Tay, L., Lim, W. S., Chan, M., Ali, N., & Chong, M. S. (2016). A combined cognitive stimulation and
+physical exercise programme (MINDVital) in early dementia: Differential effects on single- and
+dual-task gait performance. Gerontology, 62(6), 604­610. DOI: 10.1159/000444084.
+Troesch, B., Weber, P., & Mohajeri, M. H. (2016). Potential links between impaired one-carbon
+metabolism due to polymorphisms, inadequate B-vitamin status, and the development of
+Alzheimer's disease. Nutrients, 8(12). DOI: 10.3390/nu8120803.
+Trzepacz, P. T., Hochstetler, H., Wang, S., Walker, B., & Saykin, A. J. (2015). Relationship between
+the Montreal Cognitive Assessment and Mini-mental State Examination for assessment of mild
+cognitive impairment in older adults. BMC Geriatrics, 15, 107. DOI: 10.1186/s12877-015-0103-3.
+Van der Linden, M., & Juillerat Van der Linden, A. C. (2016). A life-course and multifactorial
+approach to Alzheimer's disease: Implications for research, clinical assessment and intervention
+practices. Dementia (London), June 27. Epub ahead of print 2016. DOI: 10.1177/
+1471301216657270.
+Verma, N., Beretvas, S. N., Pascual, B., Masdeu, J. C., Markey, M. K., Alzheimer's Disease
+Neuroimaging, I. (2015). New scoring methodology improves the sensitivity of the Alzheimer's
+Disease Assessment Scale-Cognitive subscale (ADAS-Cog) in clinical trials. Alzheimer's Research &
+Therapy, 7(1), 64. DOI: 10.1186/s13195-015-0151-0.
+Vicente de Sousa, O., Soares Guerra, R., Sousa, A. S., Pais Henriques, B., Pereira Monteiro, A., &
+Freitas Amaral, T. (2017). Impact of nutritional supplementation and a psychomotor program on
+patients with Alzheimer's disease. American Journal of Alzheimer's Disease & Other Dementias,
+32(6), 329­341. DOI: 10.1177/1533317517705221.
+Viola, L. F., Nunes, P. V., Yassuda, M. S., Aprahamian, I., Santos, F. S., Santos, G. D., . . . Forlenza,
+O. V. (2011). Effects of a multidisciplinary cognitive rehabilitation program for patients with mild
+Alzheimer's disease. Clinics (Sao Paulo), 66(8), 1395­1400. DOI: 10.1590/S1807-59322011000800015.
+Webster, L., Groskreutz, D., Grinbergs-Saull, A., Howard, R., O'Brien, J. T., Mountain, G., . . .
+Livingston, G. (2017). Development of a core outcome set for disease modification trials in mild
+to moderate dementia: A systematic review, patient and public consultation and consensus recom-
+mendations. Health Technology Assessment, 21(26), 1­192. DOI: 10.3310/hta21260.
+WHO. (2017). Global action plan on the public health response to dementia 2017-2025 (Licence: CC
+BY-NC-SA 3.0 IGO). Retrieved from Geneva: http://www.who.int/mental_health/neurology/
+dementia/action_plan_2017_2025/en/
+Wollen, K. A. (2010). Alzheimer's disease: The pros and cons of pharmaceutical, nutritional, botan-
+ical, and stimulatory therapies, with a discussion of treatment strategies from the perspective of
+patients and practitioners. Alternative Medicine Review, 15(3), 223­244.
+Yoon, J. E., Lee, S. M., Lim, H. S., Kim, T. H., Jeon, J. K., & Mun, M. H. (2013). The effects of
+cognitive activity combined with active extremity exercise on balance, walking activity, memory
+level and quality of life of an older adult sample with dementia. Journal of Physical Therapy
+Science, 25(12), 1601­1604. DOI: 10.1589/jpts.25.1601.
+Garuth Chalfont (landscape architect www.chalfontdesign.com, Geography MA,
+Architecture PhD) roots his research in therapeutic nature environments. He promotes a
+holistic approach to dementia treatment in the UK, integrating `root cause' investigations
+with mainstream NHS practice. RAD:ISH (Research Addressing Dementia: Interventions
+Supporting Health) will involve neighbourhood food-growing, multimodal activities, social
+support and education to inspire awareness for emerging evidence; stimulate healing with
+lifestyle medicine; and nurture human capacity for self-care and healthy ageing.
+44 Dementia 0(0)
+Christine Milligan is a professor of Health Geography and Co-Director of Lancaster
+University Centre for Ageing Research. A social scientist, Christine has over twenty years
+experience of undertaking research in health, ageing and dementia in both national and
+international settings. In particular, her work on dementia focuses on interventions to sup-
+port and maintain the wellbeing of people with dementia and their family care-givers.
+Christine has over a hundred publications in international refereed journals, sits on the
+research grant board of the Alzheimer's Society UK and is an International Science
+Advisory Panel member for the New Zealand Government National Science Challenge
+for Ageing Well.
+Jane Simpson is a clinical and academic psychologist whose main research interest is in the
+psychological functioning and well-being of people with neurodegenerative disease. She has
+been part of the Centre for Ageing Research at Lancaster University since its inception 10
+years ago and holds an honorary professorship in clinical psychology from the University of
+Crete. She has over 100 articles published in peer-reviewed papers and holds a number of
+grants from international and national funders.
+Chalfont et al. 45
+

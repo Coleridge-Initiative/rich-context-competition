@@ -1,0 +1,1109 @@
+econstor
+Make Your Publications Visible.
+A Service of
+zbwLeibniz-Informationszentrum
+Wirtschaft
+Leibniz Information Centre
+for Economics
+Merz, Julia; Overesch, Michael; Wamser, Georg
+Working Paper
+Tax vs. Regulation Policy and the Location of
+Financial Sector FDI
+CESifo Working Paper, No. 5500
+Provided in Cooperation with:
+Ifo Institute ­ Leibniz Institute for Economic Research at the University of
+Munich
+Suggested Citation: Merz, Julia; Overesch, Michael; Wamser, Georg (2015) : Tax vs.
+Regulation Policy and the Location of Financial Sector FDI, CESifo Working Paper, No. 5500,
+Center for Economic Studies and Ifo Institute (CESifo), Munich
+This Version is available at:
+http://hdl.handle.net/10419/123140
+Standard-Nutzungsbedingungen:
+Die Dokumente auf EconStor dürfen zu eigenen wissenschaftlichen
+Zwecken und zum Privatgebrauch gespeichert und kopiert werden.
+Sie dürfen die Dokumente nicht für öffentliche oder kommerzielle
+Zwecke vervielfältigen, öffentlich ausstellen, öffentlich zugänglich
+machen, vertreiben oder anderweitig nutzen.
+Sofern die Verfasser die Dokumente unter Open-Content-Lizenzen
+(insbesondere CC-Lizenzen) zur Verfügung gestellt haben sollten,
+gelten abweichend von diesen Nutzungsbedingungen die in der dort
+genannten Lizenz gewährten Nutzungsrechte.
+Terms of use:
+Documents in EconStor may be saved and copied for your
+personal and scholarly purposes.
+You are not to copy documents for public or commercial
+purposes, to exhibit the documents publicly, to make them
+publicly available on the internet, or to distribute or otherwise
+use the documents in public.
+If the documents have been made available under an Open
+Content Licence (especially Creative Commons Licences), you
+may exercise further usage rights as specified in the indicated
+licence.
+www.econstor.eu
+Tax vs. Regulation Policy and the Location of
+Financial Sector FDI
+Julia Merz
+Michael Overesch
+Georg Wamser
+CESIFO WORKING PAPER NO. 5500
+CATEGORY 1: PUBLIC FINANCE
+SEPTEMBER 2015
+An electronic version of the paper may be downloaded
+ˇ from the SSRN website: www.SSRN.com
+ˇ from the RePEc website: www.RePEc.org
+ˇ from the CESifo website:
+T
+www.CESifo-group.org/wp
+T
+ISSN 2364-1428
+CESifo Working Paper No. 5500
+Tax vs. Regulation Policy and the Location of
+Financial Sector FDI
+Abstract
+This paper analyzes how corporate taxation and regulatory requirements affect the location of
+financial sector FDI. We use novel information on new financial services entities established by
+multinational firms in 83 host countries. We find a negative effect of host country taxes on the
+probability of choosing a particular host location. We can also confirm a significant influence of
+the regulatory environment. For example, stricter (equity) capital requirements negatively affect
+location probabilities. Our empirical approach allows us to provide new insight in how a policy
+measure of a given country affects other countries by estimating cross-country tax and
+regulation elasticities.
+JEL-Code: F300, G210, G280, H870.
+Keywords: financial sector taxation, multinational banks, corporate taxation, mixed logit model.
+Julia Merz
+University of Cologne
+Albertus-Magnus-Platz
+Germany ­ 50923 Cologne
+merz@wiso.uni-koeln.de
+Michael Overesch
+University of Cologne
+Albertus-Magnus-Platz
+Germany ­ 50923 Cologne
+overesch@wiso.uni-koeln.de
+Georg Wamser
+University of Tübingen
+Mohlstraße 36
+Germany ­ 72074 Tübingen
+georg.wamser@uni-tuebingen.de
+We thank the Research Data and Service Centre (RDSC) of the Deutsche Bundesbank for
+granting access to the MiDi database.
+1
+1. Introduction
+Foreign direct investment (FDI) of the financial sector has substantially increased during the
+last decades. For example, the share of foreign owned banks jumped from 20% in 1995 to
+34% in 2009.1 The emergence of global banks is closely related to the emergence of
+multinational companies (MNCs) whose international operations require services like lending,
+currency or cash management. Particularly after the recent financial crisis many countries
+have seen a need to restrict banks' international activities. More and more global banks, on
+the other hand, express their concerns about excessive compliance costs associated with
+stricter regulation. Some of them even reconsider their international strategies as the costs of
+being global seem to exceed the benefits thereof (see the Economist, Global banks, A world
+of pain, March 7th, 2015, p. 59-61).
+The revelations about the so-called "Luxembourg leaks" drew even more attention to
+international banking and tax issues.2 Several banks were involved in complex cross-border
+lending structures set up to avoid taxes and benefit from Luxembourg's many tax exemptions.
+In addition, some banks supported their clients in tax evasion through Luxembourg-based
+subsidiaries.3 All this has led legislators of many countries to impose new and stricter
+regulations. For example, under the US Foreign Account Tax Compliance Act (FATCA)
+passed in 2010, financial institutions all over the world are supposed to exchange information
+on American clients vis ŕ vis the US Internal Revenue Service (IRS) to make it more difficult
+for tax dodgers to hide money abroad. Another example is the OECD's (2013) action plan
+against base erosion and profit shifting (BEPS).
+1 This information is taken from Claessen and Van Horen (2012) and based on 137 countries.
+2 Among other reports, Financial Times, November 6th, 2014, http://www.ft.com/intl-/cms/s/0/c8de6734-65d0-
+11e4-898f-00144feabdc0.html#axzz3UCJyeIKz.
+3 For example, the German Commerzbank AG, cf. Financial Times February 24th 2015,
+http://www.ft.com/intl/cms/s/0/dac3b366-bc5e-11e4-a6d7-00144feab7de.html#axzz3Udg5CrZF.
+2
+Although there is broad agreement that policy action is needed, it is not clear which policy
+measures are the most effective ones or whether they are effective at all. Bank regulation has
+so far been the dominant approach to tame risky banks. For example, in response to the
+financial crisis, the Basel III agreement of September 2010 tightened capital requirement rules
+to increase equity buffers and make the banking system more resilient to shocks. The same
+goal ­ discouraging low capitalization ­ may be achieved by designing the tax system such
+that it does not reward excessive debt financing. Keen (2011) provides a theoretical analysis
+of the interaction between regulation and taxation, building on a seminal study by Weitzman
+(1974). Whereas in theory, tax and regulation policies may be considered perfect substitutes,
+practical considerations suggest that both policy instruments should be used.
+The efficiency of regulatory measures has been explored in a number of studies, especially in
+the context of risk taking (Admati et al. 2010; Hart and Zingales 2011). Several European
+countries followed suggestions by the IMF and implemented bank levies as a reaction to the
+financial crisis. Devereux et al. (2013) analyze the impact of these levies and find evidence
+that they indeed did cause an increase in capital stocks of banks. At the same time, however,
+such a levy could result in an increase of risk in a bank's assets and therefore undermine the
+benefit of additional capital (Devereux 2014). So far, only little is known how such policies
+affect the international allocation of financial sector FDI and particularly how sensitive
+MNCs' location decisions respond to tax vs. regulation policy.
+This paper contributes to the literature on the determinants of financial sector FDI in a number
+of ways. First, using data on the universe of German outbound financial services FDI, we
+consider all new location choices of German MNCs over a time span of 13 years. Second, we
+analyze the effects of tax and regulation policy using new data on 83 potential host countries.
+Third, we provide estimates on own- and cross-elasticities to learn about how a change in tax
+3
+and regulation policy of one country affects not only the probability that this country is
+chosen as a location but also how this affects the location probabilities of other countries.
+Only very few papers have studied how taxes affect financial services FDI before. A recent
+contribution by Huizinga et al. (2014) finds that banking FDI is determined by host country
+taxes. Moreover, Claessens et al. (2001) find that low host country taxes are associated with
+additional banking FDI. Evidence on regulation policy and location choices of multinational
+banks is similarly scarce. While a number of papers examine how financial sector FDI is
+affected by regulation policy (e.g., Buch and Lipponer 2007; Tsai et al. 2011), none of these
+papers has analyzed how regulation policy affects the extensive margin of foreign activity in a
+discrete choice model.
+Our analysis is based on financial services FDI data provided by Deutsche Bundesbank (the
+German central bank). This data allows us to identify new establishments of German
+multinationals all over the world during the period 2000-2012. In an average year during this
+period, about 250 new entities have been established by German MNCs in foreign countries.
+The most important host countries for financial services FDI are the US, where 760 new
+entities have been established over the whole time span considered, the UK, where we count
+524 new establishments, and the Netherlands with 251 new establishments.
+Our preferred specification ­ using a mixed logit estimation approach ­ implies a significant
+impact of tax and regulation variables on location probabilities. We find significant
+heterogeneity of tax responses. For example, if the tax is cut by 1 percent in Great Britain, the
+probability of attracting financial sector FDI increases by about 1.1 percent. In contrast, a 1
+percent tax cut in Spain increases the location probability of Spain by only 0.3 percent. If
+regulation in Canada becomes more lenient as the country reduces capital requirements by 1
+percent, the probability of attracting new financial sector entities from Germany is increased
+4
+by almost 8 percent, ceteris paribus. Thus, while our results imply a lot of heterogeneity in
+terms of estimated elasticities, a general result is that tax and regulation policy can be used to
+attract financial sector FDI.
+Our estimation approach also allows us to compute cross-elasticities that suggest interesting
+substitution patterns. For example, if Great Britain cuts its local tax rate by 1 percent, Great
+Britain will gain (see above) at the expense of other countries like China, whose location
+probability will be reduced by 0.107 percent. Such findings have policy implications, as
+uncoordinated policy action of one country imposes an externality on other countries. Hence,
+particularly regulation policy should be coordinated across countries.
+The remainder of the paper is organized as follows. Section 2 briefly introduces a generic
+theoretical framework, which our empirical analysis is based on. In Section 3 we discuss the
+determinants of financial sector FDI. Section 4 explains the empirical approach and describes
+the data. Empirical results are presented in Section 5. Section 6 concludes.
+2. The Extensive Margin of Financial Sector FDI
+Our empirical analysis is based on a theoretical concept of comparison of expected profits
+across alternatives (countries).4 Let us denote profits of a multinational firm b arising at a
+foreign financial services entity established in country j as 
+ . The asterisk indicates that 
+is a latent variable, which is not observed by the researcher. The actual choice of firm b ­ the
+location choice or extensive margin of foreign investment activity ­ is based on the maximum
+attainable profit when choosing one of j = 0,1,2,...,J potential host countries:
+
+= (0
+ , 1
+ , 2
+ , ... , 
+ ).
+4 This has been introduced by McFadden (1974) who showed that an empirical discrete choice model ­ as the
+one we are using in this paper ­ can be obtained from a theoretical model of utility comparison.
+5
+Below, we will define a binary choice indicator which takes on value one for the respective
+alternative chosen (where profits are highest), and zero for all the other alternatives not
+chosen. Thus, above equation suggests that all variables affecting 
+ will determine in which
+country a firm b is locating its foreign business. We may say that any generic variable 
+that
+positively affects profits,
+
+
+
+> 0, will make it more likely to increase the probability that b
+chooses a particular location. The potential determinants 
+affecting 
+ will be discussed in
+the following sections.
+3. Determinants of Financial Sector FDI
+Previous literature on the determinants of financial sector FDI has mainly focused on foreign
+investments of multinational banks. One part of this literature has examined which banks
+become multinational and found that the size of a bank (Focarelli and Pozollo 2001; Clarke et
+al. 2003; Buch und Lipponer 2007; Temesvary 2014a), its balance sheet health (Popov and
+Udell 2012), and its productivity (Buch et al. 2014) are particularly important determinants.
+This paper is interested in how a financial services firm chooses a location for its foreign
+activity. The following sections will present an overview on the literature that identified a
+number of host-country characteristics that seem to be important determinants for location
+decisions of multinational banks.5
+3.1 Determinants of Financial Services FDI
+Many determinants of goods trade and FDI will be similarly important in context of financial
+services FDI. First, the distance between host country and home country of a firm is
+considered to be one major driver of economic integration. While in case of goods trade
+distance is associated with transportation costs, distance seems to be important for financial
+5 In these studies, the role of policy instruments like tax and regulation policies are often neglected, however.
+6
+services as it affects the availability and quality of information. The specific business model
+of banks requires collecting and processing information on customers to provide financial
+services on competitive terms (Rajan 1992; Petersen and Rajan 2002). Thus, a lower distance
+between the home country and the host country of an investment should be favorable since
+this reduces information asymmetries between headquarters or parents and foreign entities
+(Berger et al. 2004; Liberti and Mian 2009). Several studies found empirical evidence for
+distance as an important determinant of investment locations (Focarelli and Pozzolo 2005;
+Buch and Lipponer 2007; Claessens and van Horen 2014). As more and more companies
+started to export to foreign markets and became multinational firms, financial services across
+borders became more important as well. Several studies demonstrate that foreign activities of
+banks and bilateral trade volumes between countries are positively correlated (Brealey and
+Kaplanis 1996; Yamori 1998; Buch 2000; Berger et al. 2004; Focarelli and Pozzolo 2001,
+2005). Other determinants of foreign banking relate to cultural characteristics such as
+common language, which should facilitate the successful market entry in a host country.
+Evidence suggests that cultural variables are important determinants of international banking
+(Buch 2003; Focarelli and Pozzolo 2005). Moreover, a wide range of host-country
+characteristics that affect the profitability of foreign entities should have an impact on the
+location choice of financial services firms. For example, previous studies show that market
+size and GDP per capita are associated with additional bank FDI (Yamori 1998; Buch 2000;
+Claessens et al. 2001; Cerruti et al. 2007). Focarelli and Pozzolo (2001; 2005) identify
+expected economic growth in the host country and local bank inefficiencies as additional
+determinants of location choices.
+Finally, very recent literature focuses on the effects of the financial crisis on banking sector
+FDI. Several studies find a decline in foreign activities associated with the financial crisis
+(Cetorelli and Goldberg 2009, 2011; Temesvary 2014a, 2014b). Buch et al. (2014) provide
+7
+evidence that the changing market conditions triggered by the financial crisis led banks to
+reduce their international assets. In addition, they identify policy interventions and banks'
+increasing sensitivity towards financial frictions as main drivers behind this reduction.
+3.2 Bank Regulation
+One argument often used in policy debate is that deregulation policy has been responsible for
+the rampant expansion of banking across the world (Buch 2003).6 In line with this view,
+regulatory requirements are expected to increase market entry costs and deter foreign activity
+(Lehner 2009; Tsai et al. 2011). In a similar way, if regulators impose high capital (equity)
+requirements and liquidity rules, this should unambiguously increase a bank's cost of capital
+and therefore have a negative effect on foreign activity. On the other hand, enhanced
+transparency through tight government regulation and supervision might reduce
+aforementioned information asymmetries and could even facilitate foreign activity. Buch
+(2003) argues that the effect of regulatory requirements might also differ across countries, and
+finds a limiting effect of tighter regulation on foreign activity, on average.
+Buch and Lipponer (2007) confirm a negative relationship between bank FDI and higher
+capital controls. However, a tight regulatory supervisory system in the host country does not
+necessarily limit foreign FDI. Buch and DeLong (2004) argue that the effect of information
+costs on banks' cross-border mergers is far more pronounced than the effect of regulation
+costs. Temesvary (2014a; 2014b) examines a sample of US banks and the effects of host-
+country characteristics on foreign banking activities. Her results indicate that market entry
+costs, which in her sample are associated with regulatory constraints, have a negative impact
+on banks' foreign activities. In contrast, Bertus et al. (2008) find no connection between
+foreign bank ownership and the regulatory framework in a particular country.
+6Moreover, research has been concerned in the relationship between deregulation and excessive risk taking
+(Keeley 1990; Hovakimian and Kane 2000; Admati et al. 2010; Hart and Zingales 2011).
+8
+3.3 Taxation
+Corporate income taxes reduce the return on investment available for the shareholder. In an
+international context, a foreign affiliate of a multinational firm is subject to tax in its host
+country. Therefore, a low tax at the host location is associated with higher residual income
+that can be distributed to the parent firm. The repatriation of income is then usually exempt
+from home country taxation.7 A number of studies have analyzed the influence of taxes on
+FDI (for reviews cf. De Mooij and Ederveen 2003, 2005; Feld and Heckemeyer 2011). Only
+relatively few papers analyzed how taxes affect the extensive margin of foreign activity by
+focusing on location decisions of multinational firms. These studies provide evidence that
+host country taxes exert a negative effect on location probabilities (Devereux and Griffith
+1998; Grubert and Mutti 2004; Buettner and Ruf 2007; Buettner and Wamser 2009; Barrios et
+al. 2012).
+While none of the studies mentioned above considers financial sector FDI, the findings in
+Overesch and Wamser (2009) suggest that financial sector FDI is particularly responsive to
+taxes. The study distinguishes between FDI from different industries among them financial
+services. The results show that the responses to host country taxes differ significantly across
+different business activities. Although their data does not include multinational banks, their
+estimates suggest a particularly strong effect of corporate taxes on location choices of
+subsidiaries that provide financial services within multinational firms. To the best of our
+knowledge, only two more studies have analyzed the impact of taxes on FDI of multinational
+banks. Claessens et al. (2001) find a negative relationship between host country tax rate and
+banking FDI. Huizinga et al. (2014) find that international double taxation of dividends
+reduces banking FDI. However, these studies use information about bank assets, while our
+7 Only the US and a small number of other countries consider all types of foreign income as part of taxable
+profits of the parent corporation. At the same time, these countries usually provide tax credits on taxes paid
+abroad. This system is, however, not relevant for our paper, as Germany exempts all foreign income from
+taxation in the home country.
+9
+paper focusses on the question of how taxes affect the choice among alternative locations
+when setting up a new foreign financial services entity.
+4. Empirical Approach and Data
+4.1 Mixed Logit
+We are interested in the determinants of location choices of multinational banks and
+particularly how taxes and regulation affect these choices. We base our empirical analysis on
+a mixed logit model, which is associated with a number of favorable features that are
+important with respect to the specific research goals we have in this paper. In particular, the
+two main advantages are (i) that the mixed logit allows us to learn about (realistic)
+substitution patterns across alternatives and (ii) that it allows for correlation in unobserved
+factors across alternatives (countries).
+A very intuitive interpretation of the mixed logit model is one of error components creating
+correlations among the profits for different alternatives (see Train 2009). As outlined in
+Section 2, the underlying model we have in mind when multinational firm b chooses a foreign
+location is one where the firm maximizes profits 
+ .
+Let us neglect the asterisk we used to denote latent variables and specify profits of
+multinational bank b obtained from alternative (country) j as
+
+= 
++ 
+ 
++ 
+. (1)
+The vectors 
+and 
+denote observed country-j-specific characteristics. While  is a
+vector of fixed coefficients to be estimated, 
+is a vector of random terms with zero mean,
+and 
+is assumed to be independently, identically distributed extreme value. To the extent
+that 
+and 
+are indexed by t, we allow each of these variables to depend on the
+10
+respective observables in a given year t. We will also consider that one firm may face
+different choice situations over time, but then treat coefficients 
+that enter utility as
+constant for each b. Note that we want to specifically model a choice as one where b chooses
+from alternatives, so that the focus is on cross-sectional variation in determinants. Of course,
+since 
+is indexed by multinational b, coefficients vary across firms. One of the key issues
+in specifying this model is the choice of 
+. Together with 
+, 
+defines the stochastic
+portion of profits as 
+= 
+ 
++ 
+(Train 2009). By specifying 
+, we allow for
+correlation across alternatives (countries) i and j, 8 so that (
+, 
+) = (
+ 
++
+
+)(
+ 
++ 
+) = 
+ , with  being the covariance of .
+The specific variables included in 
+and 
+are discussed in more detail below. While
+
+will capture country characteristics such as the log of a country's GDP or the
+geographical distance to Germany, the specification of 
+is important as these variables
+induce correlation over alternatives. Since we are interested in cross-country elasticities
+related to tax and bank regulation policy, 
+includes country j's tax rate and different
+measures for regulation. In the presence of profit shifting, if MNCs operate internal capital
+markets or if other intra-firm relations are important, it is highly likely that these variables
+induce correlation across alternatives' unobserved parts.9
+8 The conditional logit does not allow for correlation in the unobserved parts of 
+ , which gives rise to the so-
+called IIA (independence from irrelevant alternatives) assumption. Besides providing consistent estimates on tax
+and regulation variables, we are particularly interested in substitution patterns across countries. Hence, we need
+to relax this assumption as it would imply a proportional shifting pattern across alternatives.
+9 Another interpretation of the mixed logit model is one of a random coefficient model. It seems highly likely
+that firms respond very heterogeneously to taxes, depending on the extent to which firms can avoid taxes, for
+example.
+11
+4.2 Financial Services FDI Data
+Our empirical analysis is based on the micro-level dataset MiDi (Micro Database Direct
+Investment) provided by Deutsche Bundesbank (the German central bank). MiDi is a panel
+dataset on foreign direct investment positions of German investors. It basically records
+information about the investment object's balance sheet, some information on the type of
+investment (e.g., industry), and limited information on the investor. Particularly noteworthy is
+that German law enforces data collection of foreign activity of German investors,10 which
+enables us to observe virtually all German outbound activity.
+While MiDi reports foreign investments across all different industries, we will focus on a sub-
+sample of financial services entities of German multinationals. To be included in our dataset,
+the latter are required to have a direct participating interest in the foreign entity of more than
+50% (majority owners). However, the German headquarters do not necessarily have to
+operate in the financial sector. These restrictions leave us with 839 MNCs that establish 3,790
+new financial sector entities (between 2000 and 2012) in 83 host countries.11 The vast
+majority of foreign entities are legally independent subsidiaries (3,546 ones) only few are set
+up as branches.
+For each of the 3,790 newly established subsidiaries, we consider which location is effectively
+chosen among the 83 potential host countries. As our dependent variable we compute an
+indicator variable LOCDECbjt
+that equals 1 for the location effectively chosen and zero for the
+J-1 (82) alternative host countries not chosen. Considering the information of all location
+10 Section 26 of the Foreign Trade and Payments Act (Aussenwirtschaftsgesetz) in connection with the Foreign
+Trade and Payment Regulations (Aussenwirtschaftsverordnung).
+11 An overview is given in Table 8, see the Appendix.
+12
+choices in the financial sector between 2000 and 2012, our sample includes 309,912
+observations.12
+4.3 Tax and Regulation Data
+Regarding tax incentives we consider the statutory corporate tax rate, STRjt
+, to capture
+expected tax payments in a host country of foreign entities.13 This variable is collected by the
+authors from different sources (International Bureau of Fiscal Documentation, IBFD; tax
+surveys provided by Ernst&Young, PwC, and KPMG). Another tax variable is DTTjt
+which
+measures the total number of double taxation treaties concluded by a host country j. This
+variable is available from the United Nations Conference on Trade and Development
+(UNCTAD) and is included as a tightly-knit network of DTTs may facilitate cross-border
+capital flows of dividends, interest, and royalties, which might be important for the
+multinational bank.
+To account for host countries' regulatory framework we rely on three different variables.
+First, RATIOjt
+measures the equity ratio required in the respective host country. This variable
+was taken from several waves of a survey conducted by Barth et al. (2001).14 Since increased
+equity requirements are usually assumed to impose a cost on firms, we expect a negative
+effect on foreign activities. In our data, RATIOjt
+varies between 0.05 and 0.19. Many countries
+impose minimum equity ratios as suggested by Basel II regulation (0.08), some countries like
+Nigeria or the United Arab Emirates require significantly higher equity ratios (0.19 and 0.12).
+12 The total number of observations is not 314,570 (=3,790  83) due to missing control variables for some
+country-year pairs.
+13 Concerning Luxemburg, we assume a statutory tax rate of zero due to Luxembourg's known holding regimes
+and ruling system. However, alternative regressions in which we excluded Luxemburg confirm our results.
+14 The survey was repeated with the current 4th round being published in 2012.
+13
+The second measure we use to capture the regulatory environment is called REGjt
+.15 This
+variable is also based on an index developed by Barth et al.'s (2001) survey published by the
+World Bank.16 It consists of four components indicating the strictness of jurisdictions when
+banks engage in financial activities. To be specific, REGjt
+is defined as the sum over the four
+variables RSECjt
+, RINSjt
+, RREALjt
+, and RNONFINjt
+. Each of these variables is increasing in
+the strictness of how a country j is regulating banks' activities in securities (RSECjt
+),
+insurance (RINSjt
+), real estate (RREALjt
+), or non-financial activities (RNONFINjt
+). Strictness is
+measured by scores ranging from 1 to 4.17 Our variable REGjt
+combines all four categories
+into one measure. Higher values in REGjt
+are associated with a less attractive location for
+banks. In our data, Indonesia exhibits the highest value (16) of REGjt
+.
+Banks are not only incentivized by their own tax planning opportunities, they may also have
+good reason to establish branches and subsidiaries in locations favored by their clients.
+Therefore, in additional specifications, we add BANKSECj
+to account for the level of secrecy
+of the respective location when it comes to tax issues.18
+It may be interesting to see how regulation policy relates to tax policy. To do this, we have
+produced Figures 1 and 2. In both figures, STRj
+(averaged over all years in our sample) is
+displayed on the horizontal axis, while the measures for regulation are displayed on the
+vertical axes (RATIOj
+in Figure 1; REGj
+in Figure 2). Very surprisingly, it seems that
+regulation policy is only weakly (negatively) related to tax policy in case of RATIOj
+: higher
+taxes may allow for laxer regulation. Both figures illustrate that there is a lot of variation
+across countries in the main variables of interest for this study.
+15 Cerruti et al. (2007) and Tsai et al. (2011) use the index in a similar context.
+16 An overview on the data and survey updates can be found at http://go.worldbank.org/SNUSW978P0.
+17 A value of 1 for RSECjt
+, as an example, indicates that a full range of securities activities can be conducted
+directly by banks. The strictest value which equals 4 indicates that none of these activities can be done in either
+banks or their subsidiaries in the respective country.
+18 We use this variable only in robustness tests. The reason is that due to a poor coverage across countries, we
+lose about half of the observations compared to our basic specification.
+14
+FIGURE 1: TAX vs. regulation policy (RATIO)
+FIGURE 2: TAX vs. regulation policy (REG)
+0.06 0.08 0.10 0.12 0.14
+RATIO
+0 .1 .2 .3 .4
+STR
+RATIO Fitted values
+4 6 8
+10 12 14
+REG
+0 .1 .2 .3 .4
+STR
+REG Fitted values
+15
+4.4 Non-Tax and Non-Regulation Determinants
+In line with existing work on the determinants of FDI, we consider the following non-tax and
+non-regulation variables. First, to capture the size of the local market, we use (log)GDPjt
+.
+Second, the growth of GDP in country j, GDPgrowthjt
+, is included to capture growth
+possibilities. Both variables are taken from the World Bank's World Development Indicators.
+In addition, we use variables to control for cultural and geographical distance between
+Germany (the country of the investors) and host countries j. The geographical distance is
+denoted by (log)DISTj
+, CONTj
+and COMLANGj
+are dummy variables indicating whether host
+country j shares a common border with Germany (CONTj
+) and whether German is an official
+language in the host country (COMLANGj
+). More distant countries (in geographical distance
+and cultural distance) are expected to attract less FDI. In particular, as communication and
+information exchange is important in context of financial services FDI, we expect these
+variables to be important determinants with a negative expected sign for (log)DISTj
+; variables
+CONTj
+and COMLANGj
+should positively relate to the probability that country j is chosen. All
+latter three variables are taken from the Centre d'Études prospectives et d'Informations
+Internatinales (CEPII).
+Similar to the DTT variable as introduced above, we use the number of bilateral investment
+treaties concluded by country j, BITjt
+. Bilateral investment treaties have been shown to be an
+effective policy instrument to attract FDI as they reduce foreign market entry cost (Egger and
+Merlo 2012). BITs may be less relevant, however, in the context of financial sector FDI. The
+information on BITs is taken from UNCTAD.
+16
+5. Results
+Table 1 presents basic results from mixed logit estimations. As argued above, we specify tax
+and regulation variables as random (STRjt
+, RATIOjt
+, REGjt
+), while all other control variables
+are defined as fixed. The results show that tax and regulation responses are heterogeneous
+across firms (see also the highly significant estimates for the standard deviations), but the
+mean coefficients are estimated with the expected signs: A higher tax at location j leads to
+less financial sector FDI, stricter regulation in form of stricter capital requirements, as well as
+higher values of the regulation index are associated with less financial sector FDI. The
+estimated coefficients for the variables entering as fixed are in line with theoretical
+expectations. Only the negative estimate for GDPgrowthjt
+may seem unusual. One
+explanation for this is that more growth allows local and multinational firms to finance locally
+through their own earnings. Another explanation may be that financial sector FDI often goes
+to already developed countries which exhibit usually rather low or modest GDP growth rates.
+Less distant countries in terms of cultural distance (COMLANGj
+) between Germany and host
+country j as well as geographical distance (DISTj
+) increase the probability to be chosen as host
+country, as expected.
+Before providing some quantitative interpretations of these results, we may look at predicted
+base probabilities for a country to be chosen as a host location. Table 2 shows that the base
+probability is predicted to be relatively low (below 1 percent) for countries like Australia
+(AUS = 0.0061), Hong Kong (HKG = 0.0070) or Singapore (SGP = 0.0046), and relatively
+high for countries like the United States (USA = 0.0955), Austria (AUT = 0.0368) or Belgium
+(BEL = 0.0483). However, the country for which we predict the highest base probability is
+Great Britain, for which we estimate a base probability that exceeds 10 percent.
+17
+TABLE 1: Basic Results
+(1) (2)
+Coefficients
+specified as random: Mean SD Mean SD
+STRjt
+-5.364** 7.642** -5.081** 8.149**
+(0.461) (0.482) (0.470) (0.804)
+RATIOjt
+-55.27** 42.58** -58.07** 45.50**
+(5.90) (4.08) (5.72) (4.24)
+REGjt
+-0.107** 0.165**
+(0.015) (0.016)
+Coefficients
+specified as
+fixed:
+lnGDPjt
+0.779** 0.784**
+(0.028) (0.028)
+GDP growthjt
+-0.050** -0.052**
+(0.009) (0.009)
+lnDISTjt
+-0.529** -0.376**
+(0.032) (0.037)
+COMLANGjt
+0.833** 0.821**
+(0.074) (0.074)
+CONTIGjt
+-0.298** -0.018
+(0.066) (0.070)
+DTTjt
+0.013** 0.013**
+(0.001) (0.002)
+BITjt
+-0.009** -0.009**
+(0.001) (0.001)
+N 309,912 309,912
+Notes: Mixed logit estimates; 3,790 positive location choices. Random variables: STR is the statutory corporate tax rate of
+the subsidiary's host country. RATIO equals the minimum equity ratio required in the host country. REG is an indicator for
+restrictions in different activities. Fixed variables: lnGDP is host country GDP in logs, GDP growth indicates yearly growth
+in host country GDP. lnDIST is the distance between home country and host country in logs. COMLANG is a dummy
+variable indicating a common official language. CONTIG is a dummy variable for a common boarder. DTT and BIT equal
+the number of double tax treaties and bilateral investment treaties of the host country respectively. * and ** indicate
+significance at the 5% and 1% level. More information concerning control variables is provided in Table 6 in the Appendix.
+18
+TABLE 2: Estimated Base Probabilities for 12 Selected Countries
+Country Base Prob. Country Base Prob. Country Base Prob.
+AUS 0.0061 CHN 0.0216 IRL 0.0357
+AUT 0.0368 ESP 0.0231 RUS 0.0232
+BEL 0.0483 GBR 0.1241 SGP 0.0046
+CAN 0.0231 HKG 0.0070 USA 0.0955
+5.1 Own- and Cross-Elasticities for Changes in Tax and Regulation Variables
+Our estimation approach not only allows us to find out about how a change in a policy
+variable of country j affects the probability to locate in country j, it also allows us to find out
+about substitution elasticities across alternatives (countries). For example, we may answer
+questions of the following type: How does a 1 percent change in taxes in the US affect the
+probability to locate in the US, in Canada, or in the UK. We present estimates on own- and
+cross elasticities for a number of countries in Tables 3 and 4. Before discussing the results, let
+us look at the formal representation of how a change in the mth element of the vector of
+explanatory variables (e.g. RATIO) of one country, say j, affects the location probability of
+country i (see Train 2009). Expressed as an elasticity, the percentage change in the probability
+is given by
+
+
+
+= -
+
+
+
+ 
+()
+() = -
+  
+() [
+
+()
+
+] ().
+This representation of the change in location probability highlights that changes in
+probabilities depend on the correlation between 
+() and 
+(), which denote the choice
+probabilities over different values of  . This implies that substitution patterns crucially
+depend on the specification of explanatory variables and the assumption on the mixing
+distribution. Tables 3 and 4 present own- and cross-elasticities for STR and RATIO and the
+same selection of countries as in Table 2. The tables are organized such that each cell
+19
+provides the tax or regulation effect on a country in a row with respect to a 1 percent increase
+of STR (RATIO) of the country in a column. For example, if Singapore reduces its tax rate by
+1 percent, all other countries lose in terms of lower location probabilities. However, our
+estimation approach allows that the reduction in probability mass is heterogeneously
+distributed across countries, i.e. some countries lose more (e.g., Hong Kong) than others (e.g.,
+Belgium). The bold diagonal elements in the respective table denote own-elasticities. For
+example, if the tax is cut by 1 percent in Great Britain (GRB), the probability of attracting
+financial sector FDI increases by about 1.01 percent. Although a tax of a given country
+usually comes at the cost of other countries (one country attracts FDI at the expense of
+others), our results suggest interesting complementarities for some country-relations. For
+example, while we expect a US-tax-cut-policy to attract new financial services entities, there
+seem to be positive spillovers to other countries. In particular, countries that are associated
+with a high cultural or geographical proximity to the US (as Australia or Canada) benefit from
+lower taxes there. Such complementarities are in line with learning arguments that arise
+within multinational firm networks (Egger et al. 2014a).
+Table 4 further suggests that the responsiveness of German financial services FDI to
+regulation at the extensive margin is highly sensitive, expressed in form of elasticities. The
+estimated own-elasticities range from about 4 (RUS) to 9.2 (SGP). For example, a 1 percent
+lower capital ratio (a 1 percent lower equity requirement) imposed by Great Britain is
+estimated to increase the probability to locate there by about 5.3 percent. The estimates
+confirm that RATIO is an extremely important determinant of location choice and that
+locations with lax capital requirements are particularly attractive for German MNCs. Other
+than in case of STR, the estimated cross-elasticities are negative, irrespective of the country
+combination. Given the way how we have specified the vector of random variables, and given
+significant differences in countries' tax incentives, the finding of (some) positive tax-cross-
+20
+elasticities (and throughout negative regulation-cross-elasticities at the same time) is fully
+consistent with profit-shifting considerations. In fact, the latter explains why tax responses
+differ in the first place (Egger et al. 2014b).
+TABLE 3: Own- and Cross-Elasticities of a One-Percent Tax Cut for a Selection of Countries
+AUS AUT BEL CAN CHN ESP GBR HKG IRL RUS SGP USA
+AUS 1,148 -0,463 -0,024 -0,117 -0,318 -0,006 -0,120 -0,081 -0,030 -0,025 -0,007 0,003
+AUT -0,009 1,418 -0,048 -0,021 -0,028 -0,018 -0,206 -0,015 -0,045 -0,042 -0,010 -0,027
+BEL -0,003 -0,029 0,575 0,006 -0,013 0,015 -0,068 -0,006 -0,021 -0,019 -0,004 0,091
+CAN -0,003 -0,025 0,013 0,509 -0,015 0,018 -0,061 -0,006 -0,020 -0,016 -0,005 0,111
+CHN -0,009 -0,044 -0,036 -0,020 1,357 -0,014 -0,107 -0,007 -0,031 -0,021 -0,012 -0,056
+ESP -0,013 -0,022 0,029 0,017 -0,010 0,287 -0,039 -0,006 -0,018 -0,014 -0,005 0,145
+GBR -0,006 -0,060 -0,033 -0,014 -0,019 -0,010 1,078 -0,012 -0,036 -0,037 -0,007 -0,006
+HKG -0,013 -0,132 -0,093 -0,040 -0,037 -0,042 -0,357 1,626 -0,091 -0,082 -0,019 -0,081
+IRL -0,015 -0,122 -0,093 -0,044 -0,052 -0,040 -0,336 -0,028 1,320 -0,075 -0,019 -0,109
+RUS -0,008 -0,078 -0,057 -0,024 -0,024 -0,021 -2,360 -0,017 -0,051 1,523 -0,009 -0,043
+SGP -0,014 -0,109 -0,076 -0,042 -0,079 -0,046 -0,251 -0,023 -0,076 -0,052 1,826 -0,109
+USA 0,000 -0,008 0,040 0,023 -0,010 0,032 -0,005 -0,002 0,011 -0,006 -0,003 0,085
+TABLE 4: Own- and Cross-Elasticities of a One-Percent Lower Capital Requirement for a
+Selection of Countries
+AUS AUT BEL CAN CHN ESP GBR HKG IRL RUS SGP USA
+AUS 8,218 -0,318 -0,430 -0,211 -0,207 -0,209 -0,846 -0,058 -0,216 -0,091 -0,050 -0,749
+AUT -0,056 7,352 -0,428 -0,198 -0,143 -0,209 -1,015 -0,091 -0,283 -0,128 -0,060 -0,548
+BEL -0,060 -0,336 6,995 -0,236 -0,154 -0,250 -0,974 -0,058 -0,180 -0,100 -0,038 -0,760
+CAN -0,058 -0,306 -0,463 7,716 -0,171 -0,249 -0,901 -0,048 -0,173 -0,092 -0,039 -0,819
+CHN -0,063 -0,244 -0,335 -0,187 7,246 -0,162 -0,589 -0,042 -0,207 -0,064 -0,070 -0,880
+ESP -0,058 -0,325 -0,492 -0,251 -0,150 7,634 -0,969 -0,052 -0,160 -0,095 -0,043 -0,797
+GBR -0,052 -0,363 -0,444 -0,206 -0,117 -0,223 5,396 -0,079 -0,249 -0,130 -0,043 -0,546
+HKG -0,045 -0,392 -0,326 -1,378 -0,111 -0,148 -0,957 8,337 -0,416 -0,152 -0,082 -0,301
+IRL -0,045 -0,335 -0,276 -0,133 -0,144 -0,122 -0,846 -0,115 7,136 -0,140 -0,076 -0,326
+RUS -0,019 -0,155 -0,157 -0,072 -0,047 -0,074 -0,454 -0,042 -0,144 3,875 -0,017 -0,178
+SGP -0,062 -0,405 -0,338 -0,175 -0,286 -0,194 -0,846 -0,129 -0,434 -0,097 9,205 -0,492
+USA -0,061 -0,246 -0,447 -0,248 -0,242 -0,240 -0,707 -0,028 -0,117 -0,061 -0,032 5,352
+21
+5.2 Robustness
+Table 5 includes 2 additional robustness specifications. In column (1) we add an indicator
+variable for a high level of bank secrecy taken from the OECD (2006). Since information
+about bank secrecy is not available for all countries, we can only consider a slightly smaller
+set of locations as in Table 1. However, almost all important host countries with a significant
+number of new financial service entities are included. We find a positive effect of bank
+secrecy on financial sector location decisions.
+The second important finding is that the results for the tax rate and bank regulation variables
+are hardly affected: Table 5 still suggests a significant negative effect of a higher tax rate and
+higher capital requirement on the probability to set up a new entity in a certain country.
+Moreover, a high score for the overall level of bank regulation, indicating strict limitations, is
+again associated with a smaller probability to choose a host country.
+In specification (2) of Table 5 we analyze if all regulation components affect location choices.
+Our results suggest that location choices are particularly responsive to restrictions of
+securities transactions but also to limitations of activities outside the financial sector, while
+restrictions of insurance activities and real estate transactions do not matter. Once again, our
+findings concerning taxes and capital requirements remain quite robust.
+22
+TABLE 5: Robustness Checks
+(1) (2)
+Coefficients specified
+as random: Mean SD Mean SD
+STRjt
+-3.34** 7.35** -2.182** 5.983**
+(0.47) (0.48) (0.504) (0.391)
+RATIOjt
+-42.48** 29.17** -26.08** 22.93**
+(6.06) (4.09) (5.42) (6.82)
+REGjt
+-0.048** 0.174**
+(0.014) (0.014)
+RSECjt
+0.259** 0.460**
+(0.054) (0.069)
+RINSjt
+-0.026 0.557**
+(0.042) (0.049)
+RREALjt
+0.030 0.467**
+(0.032) (0.038)
+RNONFINjt
+-0.321** 0.048
+(0.037) (0.066)
+Coefficients specified
+as
+fixed:
+lnGDPjt
+0.865** 0.809**
+(0.032) (0.032)
+GDPgrowthjt
+-0.038** -0.054**
+(0.011) (0.012)
+lnDISTjt
+-0.734** -0.723**
+(0.050) (0.050)
+COMLANGjt
+-0.124 -0.061
+(0.096) (0.104)
+CONTIGjt
+-0.335** -0.397**
+(0.075) (0.080)
+DTTjt
+0.008** 0.010**
+(0.002) (0.002)
+BITjt
+-0.012** -0.014**
+(0.001) (0.001)
+BANKSECj
+1.461** 1.516**
+(0.101) (0.110)
+N 150,563 150,563
+Notes: Mixed logit estimates; 3,501 positive location choices. Random variables: STR is the statutory
+corporate tax rate of the subsidiary's host country. RATIO equals the minimum equity ratio required in the
+host country. REG is an indicator for restrictions in different activities. RSEC, RINS, RREAL and
+RNONFIN are components of REG. Fixed variables: lnGDP is host country GDP in logs, GDP growth
+indicates yearly growth in host country GDP. lnDIST is the distance between home country and host country
+in logs. COMLANG is a dummy variable indicating a common official language. CONTIG is a dummy
+variable for a common boarder. DTT and BIT equal the number of double tax treaties and bilateral
+investment treaties of the host country respectively. BANKSEC is a dummy variable indicating the existence
+of high bank secrecy in the host country. * and ** indicate significance at the 5% and 1% level. More
+information concerning control variables is provided in Table 6 in the Appendix.
+23
+5.3 Policy Experiments
+Based on the results in Table 1, we may estimate how countries are affected by a unilateral
+policy choice of the United States. For example, in a first experiment we estimate the losses
+measured in probability mass associated with a total abolishment of equity regulation in the
+US (RATIOUS
+= 0). Figure 3 shows that the burden of such a policy is very unevenly
+distributed across countries facing the policy externality. While some countries are heavily
+affected, the effect on many countries is hardly measurable.
+The estimates suggest that the biggest losers of the one-sided US policy action would be the
+UK (-0.08), France (-0.05), Luxembourg (-0.046), Belgium (-0.03), the Netherlands (-0.029),
+and Switzerland (-0.027). Ranking the countries according to their losses is broadly but not
+fully in line with estimated base probabilities. For example, in terms of its base probability,
+Canada is estimated as the country with the 15th highest one. At the same time, the loss in
+probability mass associated with the hypothetical US policy is ­0.0165463 and this implies
+rank 11. Given our estimation approach, this is consistent with what we would expect in
+context of policy spillovers: They are more likely to occur when countries are close to each
+other.
+FIGURE 3: Distribution of Probability Losses when RATIOUS
+=0
+-0,09
+-0,08
+-0,07
+-0,06
+-0,05
+-0,04
+-0,03
+-0,02
+-0,01
+0
+0,01
+24
+The second experiment is motivated by proposals to coordinate equity requirements and
+regulation. For this we simulate a coordinated policy action and set RATIO equal to 0.13
+(13% equity requirement is the new target ratio agreed on in Basel III for the year 2019). This
+experiment produces winners and losers. The losses (in parenthesis) of such a coordinated
+policy are often significant: Luxembourg (-0.017), Great Britain (-0.014), USA (-0.007),
+France (-0.006), Ireland (-0.006), Switzerland (-0.005). However, there are also winners. The
+countries benefiting most are Russia (+0.025), Brazil (+0.007), Bulgaria (+0.006), Turkey
+(+0.0057) and India (+0.0046). Figure 4 displays the distribution of gains and losses, with
+Luxembourg and Great Britain at the very left of the gain-and-loss distribution and Russia at
+the very right.
+FIGURE 4: Winners and Losers of a Coordinated Policy
+6. Conclusion
+We have analyzed how the location of financial sector FDI is affected by taxes and the
+regulatory environment. For the empirical analysis, we have considered novel data, covering
+the universe of German outbound financial sector FDI over a time span of 13 years. Our
+results suggest that not only regulation but also tax incentives matter for the location of
+financial sector FDI.
+-0,02
+-0,015
+-0,01
+-0,005
+0
+0,005
+0,01
+0,015
+0,02
+0,025
+0,03
+25
+Our empirical approach also computes cross-elasticities for tax incentives and regulation. We
+find that a change in tax and regulation policy of one country affects the location probabilities
+of other countries. Another important finding of our analysis is that own- as well as cross-
+elasticities are estimated to be highly heterogeneous across firms and countries. For example,
+expressed in elasticities, we find that US financial sector FDI is less responsive to tax and
+regulation policy compared to financial sector FDI in countries like Singapore or Hong Kong.
+Our findings have interesting policy implications. First, given that recent discussions in the
+context of financial sector FDI often focus on regulation policy, our results suggest that
+policymakers may place more emphasis on tax policy. Second, our findings confirm the
+expectation that the responsiveness to tax and regulation policies varies across host countries.
+Third, the result of significant externalities arising from uncoordinated policies implies that
+coordinated action, particularly in regulation policy, is needed.
+26
+Appendix
+TABLE 6: Variable Description
+Variable Definition Source
+LOCDEC Dependent variable indicating location
+decision
+Research Data and Service
+Centre (RDSC) of the
+Deutsche Bundesbank,
+Microdatabase Direct
+Investment (MiDi), 2000-
+2012 , own calculations
+lnGDP Gross domestic product of host country
+(in logs)
+World Bank: World
+Development Indicators
+(WDI) Database
+GDPgrowth Annual growth rate of gross domestic
+product of host country
+World Bank: World
+Development Indicators
+(WDI) Database
+COMLANG 0-1 dummy variable for the existence of
+a common language
+Centre d'Études
+prospecitves et
+d'Informations
+Internationales (CEPII)
+lnDIST Log of distance between home country
+and host country
+Centre d'Études
+prospecitves et
+d'Informations
+Internationales (CEPII)
+CONT 0-1 dummy variable for the existence of
+a common boarder
+Centre d'Études
+prospecitves et
+d'Informations
+Internationales (CEPII)
+DTT Number of double tax treaties United Nations Conference
+on Trade and Development
+(UNCTAD)
+BIT Number of bilateral investment treaties United Nations Conference
+on Trade and Development
+(UNCTAD)
+BANKSEC 0-1 dummy variable for the existence of
+high bank secrecy
+OECD (2006)
+STR Statutory tax rate International Bureau of
+Fiscal Documentation,
+IBFD; tax survey provided
+by Ernst&Young, PwC and
+KPMG
+RATIO Minimum equity required in host country Barth et al. (2001)
+RSEC Indicator on conditions to engage in
+securities activities
+Barth et al. (2001)
+RINS Indicator on conditions to engage in
+insurance activities
+Barth et al. (2001)
+RREAL Indicator on conditions to engage in real
+estate activities
+Barth et al. (2001)
+RNONFIN Indicator on conditions to engage in non-
+financial activites
+Barth et al. (2001)
+REG Combined indicator on conditions to
+engage in securities, insurance, real
+estate, non-financials
+Barth et al. (2001)
+27
+TABLE 7: Descriptive Statistics
+Variable Mean Standard Deviation
+LOCDEC 0.012 0.110
+lnGDP 25.781 1.717
+GDPgrowth 3.919 3.769
+COMLANG 0.049 0.216
+lnDIST 8.123 1.121
+CONT 0.098 0.297
+DTT 43.911 32.651
+BIT 39.747 27.185
+BANKSEC a) 0.259 0.438
+STR 0.266 0.094
+RATIO 0.091 0.017
+RSEC 1.660 0.797
+RINS 2.476 0.979
+RREAL 2.634 1.291
+RNONFIN 2.394 1.001
+REG 9.164 3.115
+Notes: Descriptive statistics of variables used in the empirical analysis. Number of observations is 309,912
+observations (a) 160,628 observations). LOCDEC considers location decisions of financial services entities.
+Source: Research Data and Service Centre (RDSC) of the Deutsche Bundesbank, Microdatabase Direct
+Investment (MiDi), 2000-2012, own calculations. lnGDP is host country GDP in logs, GDP growth indicates
+yearly growth in host country GDP. COMLANG is a dummy variable indicating a common official language.
+lnDIST is the distance between home country and host country in logs. CONTIG is a dummy variable for a
+common boarder. DTT and BIT equal the number of double tax treaties and bilateral investment treaties of the
+host country respectively. BANKSEC is a dummy variable indicating the existence of high bank secrecy in the
+host country. STR is the statutory corporate tax rate of the subsidiary's host country. RATIO equals the
+minimum equity ratio required in the host country. REG is an indicator for restrictions in different activities.
+RSEC, RINS, RREAL and RNONFIN are components of REG.
+28
+TABLE 8: Location Decisions
+Country Number of location decisions
+USA 760
+GB 524
+NL 251
+LUX 239
+I,F, PL, CH,AT, CAY >100
+Singapore, Canada, RUS, IRL, B, SP >50
+Malta/Hong Kong/Singapore >40
+Cyprus 10
+Source: Research Data and Service Centre (RDSC) of the Deutsche Bundesbank, Microdatabase Direct
+Investment (MiDi), 2000-2012, own calculations.
+29
+References
+Admati, A.R., DeMarzo, P.M., Hellwig, M.F. and Pfleiderer, P. (2010) Fallacies, Irrelevant
+Facts, and Myths in the Discussion of Capital Regulation: Why Bank Equity is Not
+Expensive, Stanford Graduate School of Business Research Paper, No. 2065, Stanford
+University.
+Barrios, S., Huizinga, H., Laeven, L. and Nicodčme, G. (2012). International Taxation and
+Multinational Firm Location Decisions, Journal of Public Economics 96, 946­958.
+Barth, J.R., Caprio Jr., G. and Levine, R. (2001). The Regulation and Supervision of Banks
+around the World: A New Database, Policy Research Working Paper 2588.
+Berger, A.N., Buch, C.M., DeLong, G. and DeYoung, R. (2004). Exporting Financial
+Institutions Management via Foreign Direct Investment Mergers and Acquisitions, Journal
+of International Money and Finance 23, 333­366.
+Bertus, M., Jahera Jr., J.S. and Yost, K. (2008). A Note on Foreign Bank Ownership and
+Monitoring: An International Comparison, Journal of Banking & Finance 32, 338­345.
+Buch, C.M. (2000). Information or Regulation: What Is Driving the International Activities of
+Commercial Banks?, Kiel Working Paper No. 1011.
+Buch, C.M. (2003). Information or Regulation: What Drives the International Activities of
+Commercial Banks?, Journal of Money, Credit, and Banking 35, 851­869.
+Buch, C.M. and DeLong, G. (2004). Cross-border Bank Mergers: What Lures the Rare
+Animal?, Journal of Banking & Finance 28, 2077­2102.
+Buch, C.M. and Lipponer, A. (2007). FDI versus Exports: Evidence from German Banks,
+Journal of Banking & Finance 31, 805­826.
+Buch, C.M., Neugebauer, K. and Schröder, C. (2013). Changing Forces of Gravity: How the
+Crisis Affected International Banking, Deutsche Bundesbank Discussion Paper No
+48/2013.
+Buch, C.M., Koch, C.T. and Koetter, M. (2014). Should I stay or should I go? Bank
+Productivity and Internationalization Decisions, Journal of Banking & Finance 42, 266-
+282.
+Buettner, T. and Ruf, M. (2007). Tax Incentives and the Location of FDI: Evidence from a
+Panel of German Multinationals, International Tax and Public Finance 14(2), 151-164.
+30
+Buettner, T. and Wamser, G. (2009). The Impact of Non-Profit Taxes on Foreign Direct
+Investment: Evidence from German Multinationals, International Tax and Public Finance
+16, 298-320.
+Brealey, R.A. and Kaplanis, E.C. (1996). The Determination of Foreign Banking Location,
+Journal of International Money and Finance 15, 577­597.
+Cerrutti, E., Dell'Ariccia, G. and Martínez Pería, M.S. (2007). How Banks Go Abroad:
+Branches or Subsidiaries?, Journal of Banking & Finance 31, 1669­1692.
+Cetorelli, N. and Goldberg, L.S. (2009). Globalized Banks: Lending to Emerging Markets in
+the Crisis, Federal Reserve Bank of New York Staff Reports no. 377.
+Cetorelli, N. and Goldberg, L.S. (2011). Global Banks and International Shock Transmission:
+Evidence from the Crisis, IMF Economic Review 59(1), 41­76.
+Claessens, S., Demirgüç-Kunt, A. and Huizinga, H. (2001). How Does Foreign Bank Entry
+Affect Domestic Banking Markets?, Journal of Banking & Finance 25, 891­911.
+Claessens, S. and Van Horen, N. (2012). Foreign Banks: Trends, Impact and Financial
+Stability, IMF Working Paper 12/10.
+Claessens, S. and Van Horen, N. (2014). Location Decisions of Foreign Banks and
+Competitor Remoteness, Journal of Money, Credit and Banking 46(1), 145­170.
+Clarke, G., Cull, R., Martinez Peria, M.S. and Sánchez, S.M. (2003). Foreign Bank Entry:
+Experience, Implications for Developing Economies, and Agenda for Further Research,
+The World Bank Research Observer 18(1), 25­59.
+De Mooij, R. and Everdeen, S. (2003). Taxation and Foreign Direct Investment: A Synthesis
+of Empirical Research, International Tax and Public Finance, 10(6), 673 ­ 693.
+De Mooij, R. and Everdeen, S. (2006). What a Difference Does it Make? Understanding the
+Empirical Literature on Taxation and International Capital Flows, European Economy -
+Economic Papers 261, DG ECFIN, European Commission.
+Devereux, M.P. and Griffith, R. (1998). Taxes and the Location of Production: Evidence from
+a Panel of US Multinationals, Journal of Public Economics 68, 335­367.
+Devereux, M.P., Johannesen, N. and Vella, J. (2013). Can Taxes Tame the Banks? Evidence
+from European Bank Levies, Working paper series 13/25.
+31
+Devereux, M. (2014). New Bank Taxes: Why and What Will Be the Effect, in R. de Mooij
+and G. Nicodčme (eds), Taxation and Regulation of the Financial Sector,25­ 54.
+Egger, P. and Merlo, V. (2012). BITs Bite: An Anatomy of the Impact of Bilateral Investment
+Treaties on Multinational Firms, The Scandinavian Journal of Economics 114(4), 1240­
+1266.
+Egger, P., Fahn, M., Merlo, V. and Wamser, G. (2014a). On the Genesis of Multinational
+Foreign Affiliate Networks, European Economic Review 65, 136­163.
+Egger, P., Merlo, V. and Wamser, G. (2014b). Unobserved Tax Avoidance and the Tax
+Elasticity of FDI, Journal of Economic Behavior & Organization 108, 1­18.
+Feld, L. and Heckemeyer, J. (2011). FDI and Taxation: A Meta-Study, Journal of Economic
+Surveys 25, 233­272.
+Focarelli, D. and Pozzolo, A.F. (2001). The Patterns of Cross-Border Bank Mergers and
+Shareholdings in OECD Countries, Journal of Banking & Finance 25, 2305­2337.
+Focarelli, D. and Pozzolo, A.F. (2005). Where Do Banks Expand Abroad? An Empirical
+Analysis, Journal of Business 78(6), 2435­2463.
+Grubert, H. and Mutti, J. (2004). Empirical Asymmetries in Foreign Direct Investment and
+Taxation, Journal of International Economics 62, 337 ­ 358.
+Harr, T. and Ronde, T. (2005). Branch or Subsidiary? Capital Regulation of Multinational
+Banks, Working Paper.
+Hart, O. and Zingales, L. (2011). A New Capital Regulation for Large Financial Institutions,
+American Law and Economics Review 13(2), 453­490.
+Hovakimian, A. and Kane, E.J. (2000). Effectiveness of Capital Regulation at U.S.
+Commercial Banks, 1985 to 1994, The Journal of Finance 55, 451­468.
+Huizinga, H.P., Voget, J. and Wagner, W.B. (2014). International Taxation and Cross-Border
+Banking, American Economic Journal: Economic Policy 6(2), 94­125.
+Keeley, M.C. (1990). Deposit Insurance, Risk, and Market Power in Banking, The American
+Economic Review 80(5), 1183­1200.
+Keen, M. (2011). The Taxation and Regulation of Banks, IMF Working Paper 11/206.
+Lehner, M. (2009). Entry Mode Choice of Multinational Banks, Journal of Banking &
+Finance 33, 1781­1792.
+32
+Liberti, J.M. and Mian, A.R. (2009). Estimating the Effect of Hierarchies on Information Use,
+The Review of Financial Studies 22(10), 4057­4090.
+McFadden, D. (1974). Conditional Logit Analysis of Qualitative Choice Behavior in: P.
+Zarembka (ed.), Frontiers in Econometrics, Academic Press, New York, 105­142.
+OECD (2006). Tax Co-operation: Towards a Level Playing Field, OECD Publishing.
+OECD (2013). Action Plan on Base Erosion and Profit Shifting, OECD Publishing.
+Overesch, M. and Wamser, G. (2009). Who Cares About Corporate Taxation? Asymmetric
+Tax Effects on Outbound FDI, The World Economy 32, 1657­1684.
+Petersen, M.A. and Rajan, R.G. (2002). Does Distance Still Matter? The Information
+Revolution in Small Business Lending, The Journal of Finance 57(6), 2533­2570.
+Popov, A. and Udell, G.F. (2012). Cross-Border Banking, Credit Access, and the Financial
+Crisis, Journal of International Economics 87, 147­161.
+Rajan, R.G. (1992). Insiders and Outsiders: The Choice between Informed and Arm's-length
+Debt, Journal of Finance 47, 1367­1400.
+Temesvary, J. (2014a). The Determinants of U.S. Banks' International Activities, Journal of
+Banking & Finance 44, 233­247.
+Temesvary, J. (2014b). Foreign activities of U.S. Banks since 1997: The Roles of Regulation
+and Market Conditions in Crises and Normal Times, Journal of International Money and
+Finance, 1­24.
+Train, K.E. (2009). Discrete Choice Methods with Simulation, Second Edition, Cambridge
+University Press, New York.
+Tsai, H., Chang, Y. and Hsiao, P. (2011). What Drives Foreign Expansion of the Top 100
+Multinational Banks? The Role of the Credit Reporting System, Journal of Banking &
+Finance 35, 588­605.
+Weitzman, M. (1974). Prices vs. Quantities, Review of Economic Studies 41, 477­491.
+Yamori, N. (1998). A Note on the Location Choice of Multinational Banks: The Case of
+Japanese Financial Institutions, Journal of Banking & Finance 22, 109­120.
+

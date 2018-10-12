@@ -1,0 +1,715 @@
+ARTICLE
+Television Exposure and Overweight Risk
+in Preschoolers
+Julie C. Lumeng, MD; Sahand Rahnama, BS; Danielle Appugliese, MPH;
+Niko Kaciroti, PhD; Robert H. Bradley, PhD
+Objective: To test the independent effect of television
+exposure in preschool-aged children on overweight risk.
+Design: Cross-sectional and longitudinal analysis of the
+National Institute of Child Health and Human Develop-
+ment Study of Early Child Care and Youth Develop-
+ment.
+Setting: Ten US sites.
+Participants: One thousand sixteen children selected
+via conditional random sampling.
+Main Exposure: Being awake in the room with the tele-
+vision on for 2 hours or more per day, by maternal re-
+port at age 36 months.
+Main Outcome Measures: Child overweight (body
+mass index [calculated as weight in kilograms divided by
+the square of height in meters] 95th percentile) calcu-
+lated from measured anthropometrics at ages 36 and 54
+months. Covariates tested included child sex and race; ma-
+ternal marital status, education, age, and depressive symp-
+toms; income-needs ratio, child behavior problems; Home
+Observation for Measurement of the Environment total
+score; hours per week in nonparental care; and propor-
+tion of television exposure that was educational.
+Results: At age 36 months, 5.8% of children were over-
+weight; at age 54 months, 10.0% were overweight. Expo-
+sure to 2 or more hours of television per day was associ-
+ated with an increased risk of overweight at both age 36
+months (odds ratio, 2.92; 95% confidence interval, 1.36-
+6.24) and age 54 months (odds ratio, 1.71; 95% confi-
+denceinterval,1.03-2.83)inunadjustedanalyses.Onlyma-
+ternalagealteredtheconcurrentrelationship,andtheeffect
+of television remained significant (odds ratio, 2.61; 95%
+confidence interval, 1.21-5.62). Television exposure at age
+36 months was no longer a significant predictor of over-
+weight at age 54 months when controlling for covariates.
+Conclusion: Excessive television exposure is a risk fac-
+tor for overweight in preschoolers independent of a num-
+ber of potential confounders associated with the quality
+of the home environment.
+Arch Pediatr Adolesc Med. 2006;160:417-422
+EXCESSIVE TELEVISION (TV)
+viewing has been linked to
+a variety of adverse out-
+comes in children.1,2 The re-
+lationship between TV view-
+ing and overweight risk has been more
+thoroughly described in school-aged3-10
+than in preschool-aged11-17 children, and
+only 2 studies in preschoolers control for
+important potential confounders.12,13 The
+American Academy of Pediatrics recom-
+mends that total media time be limited to
+less than 2 hours per day in children aged
+2 years and older.2 Helping families achieve
+this goal requires more information, in-
+cluding whether the relationship is con-
+founded by family characteristics that have
+not been previously controlled, such as
+overall quality of the home environment
+or maternal depressive symptoms. In ad-
+dition, the relationship in US children has
+been evaluated only in low-income
+groups,13 who watch significantly more
+television.18 It is possible that the relation-
+ship may be stronger in low-income popu-
+lations or that important confounders of
+the relationship are present to a greater de-
+gree in low-income families. Excessive tele-
+vision viewing in preschoolers may also
+simply be a marker for an understimulat-
+ing home environment, which has been in-
+dependently linked to overweight risk.19
+The present study seeks to address these
+gaps in the current literature. We inves-
+tigate the relationship between television
+exposure and overweight risk in an age
+range in which there are limited data and
+in socioeconomic strata of the United
+States in which it has not previously been
+studied in large samples. We control for
+a number of covariates that have not pre-
+viously been available and examine both
+the cross-sectional and longitudinal rela-
+tionships between television exposure and
+Author Affiliations: Center for
+Human Growth and
+Development (Drs Lumeng and
+Kaciroti and Mr Rahnama) and
+Department of Pediatrics and
+Communicable Diseases
+(Dr Lumeng), University of
+Michigan, Ann Arbor; Data
+Coordinating Center, Boston
+University, Boston, Mass
+(Ms Appugliese); and Center
+for Applied Studies in
+Education, University of
+Arkansas at Little Rock
+(Dr Bradley).
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 160, APR 2006 WWW.ARCHPEDIATRICS.COM
+417
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpedi.jamanetwork.com/ on 05/21/2014
+overweight risk. We hypothesized that a relationship be-
+tween excessive television exposure and overweight risk
+would be present both cross-sectionally and longitudi-
+nally, but that it would be confounded by markers of qual-
+ity of the home environment.
+METHODS
+The sample was composed of children and their parents en-
+rolled in the National Institute of Child Health and Human De-
+velopment Study of Early Child Care and Youth Develop-
+ment.20 This is a longitudinal study of relations between child
+behavior and development, particularly in relation to child care
+experience. Families were recruited shortly after the birth of a
+child in 1991 from 10 areas of the United States, both urban
+and rural. Details of the recruitment methods and sampling plan
+are available elsewhere.21 The initial sample included 1364 chil-
+dren and was representative of the demographics of the catch-
+ment areas from which the sample was recruited.20 We exam-
+ined the cross-sectional relationship between television exposure
+and overweight risk with data collected at age 36 months and
+the longitudinal relationship with data collected at ages 36 and
+54 months. This study was approved by the institutional re-
+view boards of all pertinent institutions.
+Ouroutcomemeasureinthecross-sectionalanalysiswasover-
+weight status at age 36 months. We evaluated 3 outcome mea-
+sures in the longitudinal analysis: overweight status at age 54
+months; incidence of new cases of overweight between the ages
+of 36 and 54 months; and change in body mass index (BMI), cal-
+culated as weight in kilograms divided by the square of height
+in meters, between the ages of 36 and 54 months.22 Height and
+weight were measured during the laboratory visits at ages 36 and
+54 months by trained research assistants.23 Body mass index was
+calculated and child overweight defined dichotomously as a BMI
+greater than or equal to the 95th percentile for age and sex based
+on National Center for Health Statistics norms.24
+Mothers reported hours of TV exposure by questionnaire
+when the child was aged 36 months, describing 2 weekdays
+(Tuesday and Wednesday) and 2 weekend days for each of the
+three 6-hour time blocks between 6 AM and midnight in 15-
+minute increments. Television exposure was defined as "being
+awake in the room when the television is on" and included both
+broadcast and cable television as well as videos.25 The mean±SD
+television exposure on weekdays (3.61±2.53 hours) and on
+weekends (3.58±2.67 hours) were correlated (r=0.75, P.001).
+We indexed average daily TV exposure by multiplying mean
+weekday exposure by 5, summing this with mean weekend ex-
+posure, and dividing by 7. Given that the American Academy
+of Pediatrics recommends less than 2 hours of media expo-
+sure per day,1,2 we dichotomized our predictor to "less than 2
+hours of television per day" vs "greater than or equal to 2 hours
+of television per day" to simplify interpretation of the results.
+Demographic data consisted of the child's sex, the child's race/
+ethnicity ("white" or "not white"), maternal marital status
+("single" vs "not"), years of maternal education, and maternal
+age. Additional characteristics hypothesized to modify an asso-
+ciation between TV exposure and overweight were often avail-
+able only for a subset of subjects and were therefore tested as
+potential covariates separately from the main analysis. Parents
+reported average hours per day in nonparental care via tele-
+phoneinterviewevery3months,andwecalculatedaveragehours
+perdayinnonparentalcarebetweentheagesof24and36months
+(n=1016). Maternal depressive symptoms were indexed with the
+Center for Epidemiologic Studies Depression scale (n=928), one
+of the most widely used and validated measures of depressive
+symptomatology, which asks respondents to self-report the fre-
+quency of 20 depressive symptoms. Potential scores range from
+0 to 60, with higher scores reflecting more depressive symp-
+toms and scores greater than 16 reflecting a high risk for a clini-
+cal diagnosis of depression.26
+The income-to-needs ratio (n=912) is the ratio of total fam-
+ily income relative to the poverty line for a family of a particu-
+lar size. A family with an income-to-needs ratio less than 1 is
+considered "poor." Child behavioral problems were indexed
+with the Child Behavior Checklist (n=1014), a 99-item rating
+scale that is the most widely used assessment of behavioral prob-
+lems in young children.27 Scores are presented as T scores that
+have a mean of 50 with a standard deviation of 15. A cut-off of
+70 is frequently used to denote clinically significant behav-
+ioral problems. The quality of the home environment was mea-
+sured by the Home Observation for Measurement of the Envi-
+ronment (HOME) (n=996), one of the most widely used indices
+of the quality and quantity of stimulation and support avail-
+able to a child in the home. Information is obtained during a
+home visit via observation and interview. It is composed of 55
+items, each of which is scored in a binary fashion (yes/no), with
+scores therefore ranging from 0 to 55 and higher scores indi-
+cating higher-quality home environments. The HOME has con-
+sistently been correlated with cognitive, language, achieve-
+ment, and social-emotional outcomes.28
+We included an index of educational TV exposure based on
+the hypothesis that educational programming is higher qual-
+ity and would therefore potentially promote healthier eating
+habits and exercise or, at a minimum, limit exposure to un-
+healthy advertising messages. Parents reported, in the same for-
+mat described earlier, exposure to 6 programs comprising a sig-
+nificant proportion of children's programming on the Public
+Broadcasting Service in the early 1990s.25 Mean±SD daily edu-
+cational TV exposure (1.70±1.68 hours) was correlated with
+average daily total TV exposure (3.59±2.50 hours) (r=0.64,
+P.001). We calculated the proportion of total daily TV ex-
+posure that was educational (n=917).
+All data analysis was performed using SAS 8.2 (SAS Insti-
+tute Inc, Cary, NC). We excluded children without data for tele-
+vision exposure (n=267) or BMI at age 36 months (n=273).
+We examined the sample included in our model (n=1016) vs
+those excluded because of missing data (n=348) and found sig-
+nificant differences. Neither average daily TV exposure nor over-
+weight prevalence at age 36 months differed significantly in those
+with and without complete data (P=.51 and P=.67, respec-
+tively). Children included in the sample compared with those
+excluded were more likely to be white (82.8% vs 73.6%, P.001)
+and had mothers who were more educated (14.4 vs 13.7 years,
+P.001). We tested the location of data collection (each of the
+10 sites) as a variable in the final model, as well as its interac-
+tion term, and found these to be nonsignificant.
+Univariate statistics were first computed to provide a descrip-
+tion of the sample of 1016 children. Then, bivariate analyses were
+performed to inform the development of the multiple logistic re-
+gression models. We analyzed all covariates by TV exposure (2
+hours per day vs 2 hours per day) using t tests for continuous
+variables and cross tabulations with 2 tests for categorical vari-
+ables. We sought to confirm the utility of the American Acad-
+emy of Pediatrics­defined cut point of fewer than 2 hours of tele-
+vision per day and therefore performed a logistic regression
+analysis evaluating the relationship between TV exposure and
+overweight risk at age 36 months by quartile of average daily TV
+exposure (with cut points at 1.75, 3.00, and 4.90 hours per day).
+All remaining analyses use TV exposure (2 hours per day vs
+2 hours per day) as the primary predictor.
+To evaluate the cross-sectional relationship between TV ex-
+posure and overweight risk at age 36 months, we first created
+a logistic regression model adjusting for the demographic co-
+variates sex; race/ethnicity; and maternal marital status, edu-
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 160, APR 2006 WWW.ARCHPEDIATRICS.COM
+418
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpedi.jamanetwork.com/ on 05/21/2014
+cation, and age simultaneously. Second, a base model was cre-
+ated using maximum likelihood ratios to derive the most
+parsimonious model with the best fit for the demographic co-
+variates (sex; race/ethnicity; and maternal marital status, edu-
+cation, and age). Doing so allowed us to limit the number of
+covariates included simultaneously in the model, thereby main-
+taining the stability of the model when the additional covari-
+ates of interest were tested. After this base model was identi-
+fied, we tested additional covariates, most of which were only
+available for a subset of the sample, each individually in the
+model as potential confounders. These were hours per day in
+nonparental care, Center for Epidemiologic Studies Depres-
+sion scale score, income-needs ratio, Child Behavior Check-
+list total score, HOME score, and proportion of TV exposure
+that was educational.
+To evaluate the longitudinal relationship between TV ex-
+posure at age 36 months and overweight risk at age 54 months,
+we repeated the analysis described earlier but with overweight
+status at age 54 months as the outcome (both with and with-
+out BMI z score at age 36 months as a covariate in the model).
+We also evaluated incidence (new cases of overweight emerg-
+ing between the ages 36 and 54 months) as an outcome. We
+evaluated change in BMI between the ages 36 and 54 months
+using multiple linear regression and the Mallows Cp crite-
+rion29 to identify the most parsimonious model for this con-
+tinuous outcome.
+We computed both unadjusted and adjusted odds ratios
+(ORs) and their corresponding 95% confidence intervals (CIs)
+from the logistic regression models. We used a P value of less
+than .05 (2-tailed) to determine statistical significance.
+RESULTS
+The sample included 1016 children. About half of the
+sample was male and 5.5% were overweight (BMI 95th
+percentile).30,31 Fewer than one third (31.7%) of chil-
+dren were exposed to less than 2 hours of TV per day. In
+bivariate analyses, 2 or more hours of television expo-
+sure per day was associated with families who were less
+likely to be white; were more likely to be headed by single
+mothers; had lower income-needs ratios, lower HOME
+scores, and a lower proportion of television exposure that
+was educational; and had less educated, younger moth-
+ers with more depressive symptoms. Children exposed
+to 2 or more hours of TV per day had more reported be-
+havior problems. Child sex and hours in nonparental care
+were not related to TV exposure (Table 1).
+TELEVISION EXPOSURE AT AGE 36 MONTHS
+AND CONCURRENT OVERWEIGHT STATUS
+Bivariate analyses showed that children who were ex-
+posed to 2 or more hours of TV per day were signifi-
+cantly more likely to be overweight than children ex-
+posed to less than 2 hours of TV per day (P=.004)
+(Table 1). We first evaluated the unadjusted risk of over-
+weight in each quartile of TV exposure in a cross-
+tabulation and found higher risk of overweight in quar-
+tiles 2 through 4 in comparison with children watching
+1.75 or fewer hours of TV per day (TV exposure in quar-
+tile 1). We found that 2.0% of those in the first quartile
+(least TV exposure) were overweight, compared with 5.6%
+in the second quartile, 5.8% in the third quartile, and 8.8%
+in the fourth quartile (greatest amount of TV expo-
+sure). We estimated this relationship in logistic regres-
+sion models. Using quartile 1 as a reference, each of the
+3 other quartiles conferred additional obesity risk in the
+unadjusted analysis (P=.02): quartile 2, OR, 2.98, 95%
+CI, 1.06-8.40; quartile 3, OR, 3.06, 95% CI, 1.10-8.55;
+and quartile 4, OR, 4.87, 95% CI, 1.81-13.06. Over-
+weight risk did not differ significantly between quartiles
+2, 3, and 4. In summary, results of the quartile analysis
+supported dichotomizing TV exposure by the American
+Academy of Pediatrics guidelines, and we proceeded with
+additional analyses using this dichotomous variable as
+the predictor in our models.
+A relationship between 2 or more hours of TV expo-
+sure per day and overweight at age 36 months was pre-
+sent in the unadjusted analysis (OR, 2.92; 95% CI, 1.36-
+6.24). In the unadjusted analyses, both maternal age and
+income-needs ratio were found to be associated with over-
+weight while maternal education and marital status ap-
+proached statistical significance (Table 2). In the ad-
+justed analysis controlling for all demographic covariates
+(sex; race; and maternal education, marital status, and
+age) simultaneously, a relationship between TV expo-
+sure and overweight at age 36 months persisted (Table 2).
+In the analysis resulting from using the maximum like-
+lihood ratio to derive the most parsimonious model, both
+watching 2 or more hours of TV per day (OR, 2.61; 95%
+CI, 1.21-5.62) and maternal age (OR, 0.95; 95% CI, 0.90-
+0.995) predicted overweight at age 36 months. We tested
+for the presence of an interaction between TV exposure
+and maternal age and it was not statistically significant,
+Table 1. Characteristics of Children by Amount
+of Television Exposure Per Day
+Characteristic
+2 Hours TV
+per Day
+(n = 322)
+2 Hours TV
+per Day
+(n = 694)
+P
+Value
+Child overweight at age 36 m, % .004
+Yes 2.5 6.9
+No 97.5 93.1
+Sex, % .23
+Male 53.7 49.7
+Female 46.3 50.3
+Race, % .001
+White 89.4 79.7
+Not white 10.6 20.3
+Maternal marital status, % .004
+Single 8.4 14.8
+Not single 91.6 85.2
+Maternal education, mean (SD), y 15.4 (2.7) 14.0 (2.3) .001
+Maternal age, mean (SD), y 29.8 (5.1) 27.8 (5.6) .001
+Income-needs ratio, mean (SD) 4.5 (4.2) 3.2 (2.6) .001
+Child Behavior Checklist total
+score, mean (SD)
+31.7 (17.2) 38.6 (18.2) .001
+Center for Epidemiologic Studies
+Depression scale score,
+mean (SD)
+8.2 (7.2) 10.4 (8.6) .001
+HOME total score, mean (SD) 43.5 (7.2) 41.0 (7.2) .001
+Time in nonparental care,
+mean (SD), h/wk
+22.0 (15.8) 22.6 (17.2) .58
+Proportion of TV exposure that
+was educational, mean (SD)
+0.60 (0.30) 0.50 (0.30) .001
+Abbreviations: HOME, Home Observation for Measurement of the
+Environment; TV, television.
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 160, APR 2006 WWW.ARCHPEDIATRICS.COM
+419
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpedi.jamanetwork.com/ on 05/21/2014
+indicating that the relationship between TV exposure and
+overweight did not differ based on maternal age. Per our
+analytic plan, we next tested each additional covariate
+(hours per day in nonparental care, maternal depressive
+symptoms, income-needs ratio, child behavior prob-
+lems, quality of the home environment, and proportion
+of TV exposure that was educational) individually in the
+model with TV exposure and maternal age. None of these
+covariates were statistically significant in these models,
+nor did they significantly alter the relationship between
+TV exposure and overweight risk at age 36 months.
+TELEVISION EXPOSURE AT AGE 36 MONTHS
+AND FUTURE OVERWEIGHT STATUS
+AT AGE 54 MONTHS
+Data regarding TV exposure at age 36 months and an-
+thropometric data at age 54 months were available for
+946 of 1016 subjects. Of these 946, 10% were over-
+weight at age 54 months. In the unadjusted analysis, 2
+or more hours of TV exposure per day predicted over-
+weight status at age 54 months (OR, 1.71; 95% CI, 1.03-
+2.83). After adjusting for demographic covariates (sex;
+race; and maternal education, marital status, and age),
+however, the main effect of TV exposure became non-
+significant. The most parsimonious model predicting over-
+weight at age 54 months created using maximum like-
+lihood ratios included only maternal education. Television
+exposure was not statistically significant in the model.
+Anthropometric data were available at both ages 36
+and 54 months for 893 children. Of the 852 children who
+were not overweight at age 36 months, 62 became over-
+weight by age 54 months. Watching 2 or more hours of
+TV per day did not predict the new onset of overweight
+at age 54 months in the unadjusted analysis (OR, 0.74;
+95% CI, 0.42-1.32), nor did it predict the change in BMI
+from ages 36 to 54 months in the unadjusted analysis
+(P=.39).
+COMMENT
+Results indicated that being awake in a room with a tele-
+vision on for 2 or more hours per day at age 36 months
+was independently associated with an increased concur-
+rent risk of overweight. To our knowledge, this study is
+the first to investigate the relationship between exces-
+sive TV exposure and childhood overweight in a pre-
+school-aged sample with geographic, ethnic, and socio-
+economicdiversitywhileanalyticallycontrollingforalarge
+number of potentially confounding factors. Children who
+watched 2 or more hours of TV per day had more be-
+havior problems and mothers with more depressive symp-
+toms as well as significantly less stimulating home en-
+vironments. Excessive TV exposure was not simply a
+marker for these factors but was a significant indepen-
+dent risk factor for childhood overweight during the pre-
+school age range. Neither spending time outside of pa-
+rental care nor watching educational TV muted the effect
+of excessive TV exposure on overweight.
+Television exposure at age 36 months did not predict
+overweight risk at age 54 months. Given prior data that
+TV exposure increases throughout childhood,18 it is un-
+likely that TV exposure in our sample decreased over time,
+although we do not have these data and cannot confirm
+this supposition. Given that maternal education was the
+most powerful predictor of overweight risk at age 54
+months, we hypothesize that other risk factors con-
+nected to socioeconomic status or maternal cognitive func-
+tioning may overwhelm the contributing effect of TV ex-
+posure. Some of these factors presumably have a
+cumulative effect over childhood and may only begin to
+overwhelm the robust effect of TV exposure as children
+age. These may include maternal feeding behaviors,32 ma-
+ternal weight status,33 family dietary choices,34 and ex-
+ercise patterns.35 Studies that have detected a longitudi-
+nal relationship between TV exposure and overweight
+Table 2. Unadjusted and Adjusted Odds Ratios for Concurrent Overweight at Age 36 Months for 1016 Children
+Covariate
+Unadjusted Adjusted*
+OR (95% CI) P Value OR (95% CI) P Value
+2 h TV exposure per day 2.92 (1.36-6.24) .006 2.64 (1.21-5.76) .01
+Sex .68
+Male 1.12 (0.65-1.92) .69 1.12 (0.65-1.94)
+Female 1.00 1.00
+Race .25
+White 0.96 (0.47-1.93) .90 1.58 (0.72-3.47)
+Not white 1.00 1.00
+Maternal education 0.89 (0.80-1.00) .05 0.99 (0.86-1.14) .93
+Maternal age 0.94 (0.89-0.98) .009 0.95 (0.89-1.01) .11
+Mother single 1.94 (1.00-3.79) .05 1.64 (0.75-3.55) .21
+Income-needs ratio 0.84 (0.74-0.96) .01 NA NA
+Child Behavior Checklist total score 1.01 (1.00-1.03) .09 NA NA
+Center for Epidemiologic Studies Depression scale score 1.01 (0.98-1.05) .42 NA NA
+HOME total score 0.97 (0.94-1.00) .08 NA NA
+Time in nonparental care 1.00 (0.98-1.01) .72 NA NA
+Proportion of TV exposure that was educational 0.92 (0.33-2.49) .86 NA NA
+Abbreviations: CI, confidence interval; HOME, Home Observation for Measurement of the Environment; NA, not applicable; OR, odds ratio; TV, television.
+*Adjusted for demographic covariates.
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 160, APR 2006 WWW.ARCHPEDIATRICS.COM
+420
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpedi.jamanetwork.com/ on 05/21/2014
+risk have also had larger sample sizes with longer fol-
+low-up than our study had.12
+Our findings on correlates of excessive TV exposure
+mirror prior work12,13,18 in that children from disadvan-
+taged environments watch more television. Despite the
+previously documented associations between behavior
+problems, TV exposure, and overweight risk,36-38 the re-
+lationship between TV exposure and overweight risk was
+not accounted for by child behavior problems. Al-
+though depression is associated with increased TV ex-
+posure39 and obesity40 in adults, and maternal depres-
+sion is associated with increased TV exposure in
+preschool-aged children,41 the relationship between ex-
+cessive TV exposure and overweight risk was not ac-
+counted for by maternal depressive symptoms. Over-
+weight risk has been associated with understimulating
+home environments in older children,19 but TV expo-
+sure is an independent risk factor for overweight in pre-
+school children, regardless of the overall quality of the
+home environment.
+The mechanism of effect of TV exposure on over-
+weight risk is undoubtedly multifactorial. Prior studies
+indicate that it appears to operate independently from
+reduced physical activity.15 Excessive TV exposure may
+instead operate through the extensive advertising mes-
+sages for unhealthy foods targeted at very young chil-
+dren42 or from a tendency of children to snack while
+watching TV. Although educational TV exposure did not
+mute the effect of excessive total TV exposure on over-
+weight risk, this may be because educational television
+in the United States does not equate with the absence of
+advertising for unhealthy foods.43 Therefore, it remains
+possible that even the limited advertising on public edu-
+cational television for children may be 1 mechanism of
+effect. Finally, our measure of TV exposure deserves com-
+ment. Being awake in the room with the television on is
+a broadly defined measure as compared with "watching
+television." Such an index is developmentally appropri-
+ate for children in this age range, given that children this
+age rarely actually sit watching the television with no other
+activity for prolonged periods of time. Our findings sug-
+gest that exposing children to TV even as "background
+noise" while they engage in other activities may in-
+crease overweight risk. It may be equally relevant in clini-
+cal practice to ask parents how often the child is in the
+presence of a TV that is "on" as it is to ask how much
+time the child spends "watching TV."
+Our study has several limitations. Our sample size of
+overweight children was relatively small; therefore, the
+power to detect some effects may have been limited. Data
+regarding physical activity, diet, or maternal obesity were
+not available, which limits our ability to evaluate poten-
+tial mechanisms of association. In addition, the cross-
+sectional nature of our analysis at age 36 months limits
+the ability to infer causation. Finally, as with many stud-
+ies of this nature, the sample with complete data in-
+cluded in our analysis differed from the sample without
+complete data and therefore our findings may not be valid
+to generalize to the reference population of the National
+Institute of Child Health and Human Development Study
+of Early Child Care and Youth Development. Although
+we tested covariates that are predictors of missingness
+in the model and they did not alter the results, it re-
+mains possible that our results would have differed had
+complete data for the entire sample been available.
+These data show a significant relationship between ex-
+posure to 2 or more hours of television per day at age 36
+months and concurrent overweight, independent of a va-
+riety of demographic factors, child behavior problems,
+maternal depressive symptoms, amount of time spent in
+nonparental care, and proportion of TV exposure that is
+educational. These results provide further support for the
+utility of discussing television exposure during the well-
+child examination in the preschool years and before. The
+longitudinal results support the need to evaluate how low
+maternal educational level may shape the preschooler's
+environment to increase overweight risk. Although re-
+duced TV exposure is a message that should be pro-
+vided to all families, broadly based prevention and in-
+tervention efforts may best be placed in disadvantaged
+populations. School-based intervention programs have
+effectively reduced TV exposure and BMI in older chil-
+dren,44,45 but to our knowledge, there are no randomized
+controlled trials assessing such interventions in preschool-
+ers. The most effective method of reaching these parents
+isapublichealthchallengewhereadditionalworkisneeded.
+Accepted for Publication: December 9, 2005.
+Correspondence: Julie C. Lumeng, MD, 300 North In-
+galls Building, 10th Floor, University of Michigan, Ann
+Arbor, MI 48109-0406 (jlumeng@umich.edu).
+Funding/Support: This study was supported by the Fel-
+low-to-Faculty Transition Award 0275040N and the Mid-
+west Affiliate Grant-in-Aid 0455563Z (J.C.L.), both from
+the American Heart Association, Dallas, Tex.
+Author Contributions: Dr Lumeng had full access to all
+the data in the study and takes responsibility for the in-
+tegrity of the data and the accuracy of the data analysis.
+Acknowledgment: We thank Kay Rhee, MD; Tiffany Car-
+dinal, BS; and Jacinta Sitto, BA, for their thoughtful re-
+view of the manuscript.
+REFERENCES
+1. Committee on Public Education. Media education. Pediatrics. 1999;104:341-342.
+2. Committee on Public Education. Children, adolescents, and television. Pediatrics.
+2001;107:423-426.
+3. Dietz WH, Gortmaker SL. Do we fatten our children at the television set? Obesity
+and television viewing in children and adolescents. Pediatrics. 1985;75:807-
+812.
+4. Obarzanek E, Schreiber GB, Crawford PB, et al. Energy intake and physical ac-
+tivity in relation to indexes of body fat: the National Heart, Lung, and Blood In-
+stitute Growth and Health Study. Am J Clin Nutr. 1994;60:15-22.
+5. Gortmaker SL, Must A, Sobol AM, Peterson K, Colditz GA, Dietz WH. Television
+viewing as a cause of increasing obesity among children in the United States,
+1986-1990. Arch Pediatr Adolesc Med. 1996;150:356-362.
+6. Kimm SY, Obarzanek E, Barton BA, et al. Race, socioeconomic status, and obe-
+sity in 9- to 10-year-old girls: the NHLBI Growth and Health Study. Ann Epidemiol.
+1996;6:266-275.
+7. Guillaume M, Lapidus L, Bjorntorp P, Lambert A. Physical activity, obesity, and
+cardiovascular risk factors in children: the Belgian Luxembourg Child Study II.
+Obes Res. 1997;5:549-556.
+8. Hancox RJ, Milne BJ, Poulton R. Association between child and adolescent tele-
+vision viewing and adult health: a longitudinal birth cohort. Lancet. 2004;364:
+257-262.
+9. Crespo CJ, Smit E, Troiano RP, Bartlett SJ, Macera CA, Andersen RE. Television
+watching, energy intake, and obesity in US children: results from the third Na-
+tional Health and Nutrition Examination Survey, 1988-1994. Arch Pediatr Ado-
+lesc Med. 2001;155:360-365.
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 160, APR 2006 WWW.ARCHPEDIATRICS.COM
+421
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpedi.jamanetwork.com/ on 05/21/2014
+10. Dowda M, Ainsworth BE, Addy CL, Saunders R, Riner W. Environmental influ-
+ences, physical activity, and weight status in 8- to 16-year-olds. Arch Pediatr
+Adolesc Med. 2001;155:711-717.
+11. Locard E, Mamelle N, Billette A, Miginiac M, Munoz F, Rey S. Risk factors for
+obesity in a five year old population: parental versus environmental factors. Int
+J Obes Relat Metab Disord. 1992;16:721-729.
+12. Reilly JJ, Armstrong J, Dorosty AR, et al. Early life risk factors for obesity in child-
+hood: cohort study. BMJ. 2005;330:1357.
+13. Dennison BA, Erb TA, Jenkins PL. Television viewing and television in bedroom
+associated with overweight risk among low-income preschool children. Pediatrics.
+2002;109:1028-1035.
+14. Durant RH, Baranowski T, Johnson M, Thompson WO. The relationship among
+television watching, physical activity, and body composition of young children.
+Pediatrics. 1994;94:449-455.
+15. Moore LL, Nguyen US, Rothman KJ, Cupples LA, Ellison RC. Preschool physical
+activity level and change in body fatness in young children: the Framingham Chil-
+dren's Study. Am J Epidemiol. 1995;142:982-988.
+16. Janz KF, Levy SM, Burns TL, Torner JC, Willing MC, Warren JJ. Fatness, physi-
+cal activity, and television viewing in children during the adiposity rebound pe-
+riod: the Iowa Bone Development Study. Prev Med. 2002;35:563-571.
+17. Sugimori H, Yoshida K, Izuno T, et al. Analysis of factors that influence body
+mass index from ages 3 to 6 years: a study based on the Toyama cohort study.
+Pediatr Int. 2004;46:302-310.
+18. Certain LK, Kahn RS. Prevalence, correlates and trajectory of television viewing
+among infants and toddlers. Pediatrics. 2002;109:634-642.
+19. Strauss RS, Knight J. Influence of the home environment on the development of
+obesity in children. Pediatrics. 1999;103:e85.
+20. NICHD Early Child Care Research Network. Nonmaternal care and family factors
+in early development: an overview of the NICHD Study of Early Child Care. J App
+Dev Psychol. 2001;22:457-492.
+21. Recruitment procedures. NICHD Study of Early Child Care Manual. Available at:
+http://secc.rti.org/. Accessed February 2, 2006.
+22. Cole TJ, Faith MS, Pietrobelli A, Heo M. What is the best measure of adiposity
+change in growing children: BMI, BMI %, BMI z-score or BMI centile? Eur J Clin
+Nutr. 2005;59:419-425.
+23. 54-month growth measures. NICHD Study of Early Child Care and Youth Devel-
+opment Operations Manual. Available at: http://secc.rti.org/. Accessed February
+2, 2006.
+24. Kuczmarski RJ, Ogden CL, Grummer-Strawn LM, Flegal KM, Guo SS, Wei R.
+CDC growth charts. Adv Data. 2000;314:1-28.
+25. NICHD Study of Early Child Care and Youth Development Television Viewing Ques-
+tionnaire, Form 38V. Available at: http://secc.rti.org/. Accessed February 2, 2006.
+26. Radloff LS. The CES-D scale: a self-report depression scale for research in the
+general population. Applied Psychol Measurement. 1977;1:385-401.
+27. Achenbach TM. Manual for the Child Behavior Checklist/2-3 and 1992 Profile.
+Burlington, Vt: University of Vermont Department of Psychiatry; 1992.
+28. Caldwell BM, Bradley RH. Home Observation for Measurement of the Environment.
+Little Rock, Ark: University of Arkansas at Little Rock, Center for Child Develop-
+ment and Education; 1984.
+29. Neter J, Kutner MH, Wasserman W, Nachtsheim CJ. Applied Linear Statistical
+Models, 4th ed. Columbus, Ohio: McGraw-Hill/Irwin; 1996.
+30. Hedley AA, Ogden CL, Johnson CL, Carroll MD, Curtin LR, Flegal KM. Preva-
+lence of overweight and obesity among US children, adolescents, and adults,
+1999-2002. JAMA. 2004;291:2847-2850.
+31. Mei Z, Scanlon KS, Grummer-Strawn LM, Freedman DS, Yip R, Trowbridge FL.
+Increasing prevalence of overweight among US low-income preschool children:
+the Centers for Disease Control and Prevention Pediatric Nutrition Surveillance,
+1983 to 1995. Pediatrics. 1998;101:e12.
+32. Baughcum AE, Powers SW, Johnson SB, et al. Maternal feeding practices and
+beliefs and their relationships to overweight in early childhood. J Dev Behav Pediatr.
+2001;22:391-408.
+33. Ball K, Crawford D. Socioeconomic status and weight change in adults: a review.
+Soc Sci Med. 2005;60:1987-2010.
+34. Drewnowski A, Specter SE. Poverty and obesity: the role of energy density and
+energy costs. Am J Clin Nutr. 2004;79:6-16.
+35. Crespo CJ, Ainsworth BE, Keteyian SJ, Heath GW, Smit E. Prevalence of physi-
+cal inactivity and its relation to social class in US adults: results from the Third
+National Health and Nutrition Examination Survey, 1988-1994. Med Sci Sports
+Exerc. 1999;31:1821-1827.
+36. Lumeng JC, Gannon K, Cabral HJ, Frank DA, Zuckerman B. Association between
+clinically meaningful behavior problems and overweight in children. Pediatrics.
+2003;112:1138-1145.
+37. Christakis DA, Zimmerman FJ, DiGiuseppe DL, McCarty CA. Early television ex-
+posure and subsequent attentional problems in children. Pediatrics. 2004;113:
+708-713.
+38. Singer MI, Slovak K, Frierson T, York P. Viewing preferences, symptoms of psy-
+chological trauma, and violent behaviors among children who watch television.
+J Am Acad Child Adolesc Psychiatry. 1998;37:1041-1048.
+39. Sidney S, Sternfeld B, Haskell WL, Jacobs DR, Chesney MA, Hulley SB. Televi-
+sion viewing and cardiovascular risk factors in young adults: the CARDIA study.
+Ann Epidemiol. 1996;6:154-159.
+40. Carpenter KM, Hasin DS, Allison DB, Faith MS. Relationships between obesity
+and DSM-IV major depressive disorder, suicide ideation, and suicide attempts: re-
+sults from a general population study. Am J Public Health. 2000;90:251-257.
+41. Burdette HL, Whitaker RC, Kahn RS, Havery-Berino J. Association of maternal
+obesity and depressive symptoms with television-viewing time in low-income
+preschool children. Arch Pediatr Adolesc Med. 2003;157:894-899.
+42. Lewis MK, Hill AJ. Food advertising on British children's television: a content
+analysis and experimental study with nine-year olds. Int J Obes Relat Metab Disord.
+1998;22:206-214.
+43. About PBS Sponsorship. Available at: http://www.pbs.org/aboutpbs/aboutpbs
+_sponsorship.html. Accessed August 25, 2005.
+44. Gortmaker SL, Peterson K, Wiecha J, et al. Reducing obesity via a school-based
+interdisciplinary intervention among youth: Planet Health. Arch Pediatr Adolesc
+Med. 1999;153:409-418.
+45. Robinson TN. Reducing children's television viewing to prevent obesity: a ran-
+domized controlled trial. JAMA. 1999;282:1561-1567.
+The Walt Disney Internet Group announced
+in early July that it is teaming up with Sprint
+todevelopalineofmobilephones,dueoutnext
+year, aimed squarely at preteen children.
+--FromTime,"YoungandWireless"byMichele
+Oreckli, August 1, 2005
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 160, APR 2006 WWW.ARCHPEDIATRICS.COM
+422
+©2006 American Medical Association. All rights reserved.
+Downloaded From: http://archpedi.jamanetwork.com/ on 05/21/2014
+

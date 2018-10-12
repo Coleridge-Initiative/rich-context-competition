@@ -1,0 +1,1216 @@
+Birditt, K.S., Tighe, L.A., Fingerman, K.L., & Zarit, S.H. (2012). Intergenerational relationship quality across three generations. The Journals of Gerontology, Series B: Psychological Sciences and Social
+Sciences, 67(5), 627­638, doi:10.1093/geronb/gbs050. Advance Access published on May 23, 2012
+© The Author 2012. Published by Oxford University Press on behalf of The Gerontological Society of America.
+All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+Received June 10, 2010; Accepted April 17, 2012
+Decision Editor: Merril Silverstein, PhD
+Birditt, K.S., Tighe, L.A., Fingerman, K.L., & Zarit, S.H. (2012). Intergenerational relationship quality across three generations. The Journals of Gerontology, Series B: Psychological Sciences and Social
+Sciences, 10.1093/geronb/gbs050
+© The Author 2012. Published by Oxford University Press on behalf of The Gerontological Society of America.
+All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+1
+Received June 10, 2010; Accepted April 17, 2012
+Decision Editor: Merril Silverstein, PhD
+PARENTS and grown children often describe feelings of
+love as well as tension with one another (Connidis &
+McMullin, 2002; Luescher & Pillemer, 1998). The intergen-
+erational stake hypothesis suggests that these feelings vary
+within families by generation with older generations report-
+ing greater positive quality and lower negative quality than
+younger generations (Bengtson & Kuypers, 1971). In con-
+trast, family systems theorists propose that transmission of
+interaction patterns across generations leads to similarities in
+emotional experience among family members (Bowen, 1978;
+Fingerman & Bermann, 2000). For example, grandparents
+who feel highly negative regarding their middle-aged chil-
+dren may in turn foster feelings of negativity between their
+middle-aged children and their grandchildren. Yet, studies
+of intergenerational relationship quality typically examine
+only one or two generations (Fingerman, Pitzer, Lefkowitz,
+Birditt, & Mroczek, 2008; Pillemer & Suitor, 2002; Pillemer
+et al., 2007) and so have not tested hypotheses about differ-
+ences or transmission across three generations of family
+members. This investigation is particularly relevant because
+relationship quality is associated with health and well-being
+and increases the likelihood that support will be available in
+times of need (Fingerman et al., 2008; Fingerman et al., 2011;
+Lowenstein, 2007; Luescher & Pillemer, 1998; Ward, 2008).
+This study extends previous literature by examining
+possible generation differences or transmission of positive
+and negative relationship quality among three generations
+of family members. We use standard nomenclature in the
+social sciences and refer to the grandparent generation as
+G1, the middle generation as G2, and the children as G3.
+Positive and Negative Qualities and the Intergenerational
+Stake Hypothesis
+Prior to the late 1990s, the solidarity and interpersonal
+conflict perspectives dominated the intergenerational
+literature; these distinct perspectives examined positive or
+negative qualities of relationships in isolation (Bengtson,
+Giarrusso, Mabry, & Silverstein, 2002). According to soli-
+darity theory, intergenerational relationships vary in levels
+of affective solidarity. That is, there is a range in positive
+feelings between parents and children, including the extent
+to which they experience feelings of love, caring, and under-
+standing in the relationship. The concept of the intergenera-
+tional stake emerged from solidarity theory suggesting that
+parents are more emotionally invested in the relationship
+than are their children (Bengtson & Kuypers, 1971). Parents
+perceive their children as continuations of themselves and
+thus perceive more positive feelings in this tie. Children
+desire greater independence from parents and are more
+invested in enhancing differences. Previous research indicates
+that older and middle-aged parents typically report greater
+Intergenerational Relationship Quality Across
+Three Generations
+Kira S. Birditt,1 Lauren A. Tighe,1 Karen L. Fingerman,2 and Steven H. Zarit3
+1Institute for Social Research, University of Michigan, Ann Arbor.
+2Human Development and Family Sciences, The University of Texas at Austin, Texas.
+3Human Development and Family Studies, Pennsylvania State University, State College.
+Objectives. Studies of intergenerational relationship quality often include one or two generations. This study exam-
+ined within-family differences and similarities or transmission of positive and negative relationship quality across three
+generations.
+Method. Participants included 633 middle-aged individuals (G2; 52% women, ages 40­60 years), 592 of their
+offspring (G3; 53% daughters; ages 18­41 years), and 337 of their parents (i.e., grandparents; G1; 69% women; ages
+59­96 years).
+Results. Multilevel models revealed differences and similarities in relationship quality across generations. The oldest
+generation (G1) reported greater positive and less negative quality relationships than the middle (G2) and the younger
+(G3) generations. There was limited evidence of transmission. Middle-aged respondents who reported more positive and
+less negative ties with their parents (G1) reported more positive and less negative ties with their own children (G3).
+Grandmother (G1) reports of more positive relationship quality were associated with G3 reports of more positive relationship
+quality with G2.
+Discussion. Findings are consistent with the intergenerational stake hypothesis and only partially consistent with the
+theory of intergenerational transmission. Overall, this study suggests that there is greater within-family variability than
+similarities in how family members feel about one another.
+Key Words: Children--Intergenerational relationship quality--Generation--parents.
+627
+BIRDITT ET AL.
+2
+investment in the tie, greater closeness, and greater positive
+relationship quality regarding their children than do their
+children (Aquilino, 1999; Shapiro, 2004) and that these
+generation differences persist over time (Giarrusso, Feng, &
+Benjamin, 2004).
+By contrast, researchers examining conflict recognize
+that the parent­child relationship often includes tensions
+and negative relationship quality (Clarke, Preston, Raksin, &
+Bengston, 1999). Negative relationship qualities include the
+extent to which parents and children get on one another's
+nerves, criticize the other, or make too many demands on
+one another. Research indicates that tensions in the rela-
+tionship are commonplace (Birditt, Miller, Fingerman, &
+Lefkowitz, 2009; Clarke et al., 1999) and that reports vary
+by generation. Consistent with the intergenerational stake,
+Aquilino (1999) found that young adult children reported
+more arguments and tensions with their parents than did
+their parents. Similarly, Fingerman (2001) found that adult
+daughters reported more conflict and negative feelings with
+mothers than did their mothers. This study examined reports
+of both positive and negative relationship quality across three
+generations. Although it appears that the intergenerational
+stake exists within the parent­child tie with regard to how
+parents and children feel about one another, it is not clear
+whether the stake also exists between ties (G1­G2 vs G2­G3)
+in the same family or whether the stake is more prominent
+in some family ties than in others.
+Intergenerational Transmission of Relationship Quality
+Family systems theory suggests that there may be simi-
+larities among generations within a family. According to
+Bowen (1978), thoughts, feelings, and behaviors are family-
+level phenomena in which all family members share a sim-
+ilar experience or reality and these experiences are passed
+down from older to younger generations (Kerr & Bowen,
+1988). Development occurs within, and is influenced by,
+the multigenerational family system (Bowen, 1978; Elder,
+1981). As a consequence, individuals replicate the early
+parent­child relationship with spouses, children, and other
+significant relationships (Fingerman & Bermann, 2000).
+These theories of transmission typically focus on how specific
+parenting behaviors are transmitted across generations. We
+extend these theoretical perspectives to examine whether
+feelings about one another (i.e., relationship quality) are
+transmitted as well. It would stand to reason that how indi-
+viduals feel about each other is communicated in some way
+(either verbally or behaviorally) and thus transmitted from
+one generation to the next. Indeed, research indicates that
+emotions are transmitted between family members via emo-
+tional contagion in the short term (Almeida, Wethington, &
+Chandler, 1999; Larson &Almeida, 1999), emotional reactions
+are transmitted from older to younger generations (Patterson,
+Bank, & Stoolmiller, 1990), and that subjective well-being
+may be transmitted from older to younger generations over
+the long term (Powdthavee & Vignoles, 2008). Research
+also shows that depression is associated across genera-
+tions from G1 and G2 to G3, which may be the result of
+emotional transmission as well as other factors including
+genetics (Grillon et al., 2005; Warner, Weissman, Mufson,
+& Wickramaratne, 1999; Weissman et al., 2005).
+The majority of work on intergenerational transmission
+of relationship qualities has focused on the transmission of
+negative and positive parenting behaviors. Overall, children
+exposed to negative parental behaviors (e.g., abusive, harsh,
+distant, rejecting) are more likely to behave in kind to their
+own children when they grow up (Brook,Whiteman, & Zheng,
+2002; Pears & Capaldi, 2001; Straus, Gelles, & Steinmetz,
+1980; Whitbeck et al., 1992). Similarly, positive aspects of
+the relationship are replicated from one generation to the
+next (Belsky, Jaffee, Sligo, Woodward, & Silva, 2005; Chen &
+Kaplan, 2001). For example, Belsky and his colleagues
+(2005) found that mothers who experienced more positive
+parenting engaged in warmer parenting with their own
+children. Parenting practices have implications for children
+throughout their development. Given the burgeoning literature
+regarding the implications of relationship qualities between
+adults and their parents for each party's well-being (Fingerman
+et al., 2008; Umberson, 1992; Ward, 2008), it is important
+to ask whether these qualities also are transmitted across
+generations.
+Yet, there are no studies to our knowledge that examine
+generation differences or intergenerational transmission of
+relationship qualities across three generations. In the pre-
+sent study, we examined intergenerational differences and
+similarities in positive and negative relationship qualities.
+Due to the cross-sectional study design, we were not able to
+specifically test transmission, but transmission is a possible
+explanation for similarities across generations. Researchers
+hypothesize that emotions are transmitted via third factors
+(e.g., shared environment, personality), directly via empathy,
+and indirectly via behavior (Westman & Vinokur, 1998).
+Other possible explanations we consider are response sets
+and bidirectional associations. For example, middle-aged
+individuals may have similar feelings regarding the older
+and the younger generations because they have similar feelings
+regarding all of their relationships. In addition, two genera-
+tions of family members may have similar reports regarding
+the middle-aged respondent because of factors associ-
+ated with the respondent. Finally, younger generations may
+have important influences on the older generations and vice
+versa.
+Differences in Intergenerational Transmission Between
+Grandmothers and Grandfathers
+We also considered the possibility that generational
+differences and/or transmission vary between G1 grand-
+mothers and grandfathers. Indeed, studies show that family
+members do not affect one another equally. Some studies
+628 BIRDITT ET AL.
+RELATIONSHIP QUALITY 3
+indicate that mothers have a greater impact on their children
+than fathers due to the greater amount of time spent with
+their children (Collins & Russel, 1991) and that adult chil-
+dren's well-being is more closely tied to the mother tie than
+the father tie (Umberson, 1992). Similarly, grandmothers
+tend to have more contact and report greater closeness
+with grandchildren than do grandfathers (Erber, 2010;
+Silverstein & Marenco, 2001). Thus, grandmothers may have
+a greater influence on the next generations' relationship
+qualities than do grandfathers.
+By contrast, in a prior study of intergenerational ties,
+qualities of relationships with fathers were more strongly
+associated with offspring's well-being than qualities of
+relationships with mothers (Fingerman et al., 2008). Chil-
+dren also respect their father's opinions more than their
+mother's opinions (Thornton, Orbuch, & Axinn, 1995). The
+present study assessed whether G1 grandmothers or grand-
+fathers had a greater impact on relationship quality of the
+G2­G3 relationship; we predicted grandmothers would have
+a greater effect than grandfathers.
+Of course, we recognize that there are many other factors
+that predict relationship quality beyond transmission between
+generations. We attempt to control for some of those factors,
+and we discuss those in the following sections.
+Other Factors Associated With Intergenerational
+Relationship Quality
+Other factors that may influence parent­child relation-
+ship quality include each party's gender, race, marital status,
+education,self-ratedhealth,neuroticism,andcontactfrequency
+between the parties. Women report more emotionally intense
+intergenerational relationships with more positive and more
+negative relationship qualities than do men (Fingerman,
+2001; Smetana, Daddis & Chuang, 2003). Research and
+theory suggest that African Americans report lower quality
+intergenerational relationships than European Americans
+(Birditt, Rott, & Fingerman, 2009; Connidis & McMullin,
+2002).
+Individuals who are married or who are better edu-
+cated also report better quality parent­child relationships
+(Fingerman, Chen, Hay, Cichy, & Lefkowitz, 2006; Pillemer &
+Suitor, 2002, 2005; Willson, Shuey, Elder, & Wickrama,
+2006). On the other hand, scoring higher in neuroticism,
+having lower self-rated health, and reporting more frequent
+contact are associated with greater negative quality relations
+(Akiyama, Antonucci, Takahashi, & Langfahl, 2003; Birditt,
+Rott et al., 2009; Fingerman et al., 2006).
+Present Study
+The present study seeks to expand our understanding of
+intergenerational relationship qualities by examining positive
+and negative relationship quality across three generations.
+We first examined whether there were differences between
+the generations in reports of relationship quality followed
+by an examination of similarities across generations. In par-
+ticular, we examined whether relationship qualities among
+the older generations (G1­G2) predict relationship qualities
+among the younger generations (G2­G3). We examined the
+effects of the grandmother and grandfather ties separately.
+According to the intergenerational stake, we predicted that
+the older generations would report greater positive and less
+negative quality relationships than the younger generations.
+Consistent with family systems theory and intergenerational
+transmission research, we expected that greater positive
+quality and negative quality in the grandparent (G1) and
+middle-aged children (G2) ties would predict greater
+positive quality and negative quality in the middle-aged
+parent (G2) and young adult children (G3) tie. We pre-
+dicted that grandmother ties would have a greater effect
+than grandfather ties on the relationship quality of the
+younger generations.
+Method
+Participants
+Middle-aged target sample (G2).--Middle-aged target
+participants were from the Family Exchanges Study, which
+included 633 mothers and fathers aged 40­60 years (302
+fathers and 331 mothers from different families) who had at
+least one child aged 18 or older and at least one living par-
+ent. Middle-aged individuals were randomly selected from
+phone lists obtained through Genesys Corporation as
+well as random digit dialing in the Philadelphia Primary
+Metropolitan Statistical Area (five counties in southeastern
+Pennsylvania and four counties in New Jersey) and stratified
+by gender and age (40­50 years; 51­60 years; Pennsylvania
+State Data Center, 2001). Participants living in Philadelphia
+County, high-density minority neighborhoods, and lower
+socioeconomic status households were oversampled result-
+ing in a total of 37% middle-aged minority participants (31%
+AfricanAmerican, 6% multiracial). See Table 1 for the sample
+description. Of the potential middle-aged participants con-
+tacted, 75% participated and all completed the interviews.
+We refer to these participants as the "target" sample because
+the additional samples of their children (G3; offspring) and
+their parents (G1; grandparents) originated from them, and
+all participants reported on their relationships with the target.
+See Table 1 for a sample description. A total of 235 targets
+had both parents alive (37%), 308 had only mothers alive,
+and 90 had only fathers alive. We refer to the G2 target's
+parents as G1 or the "grandparent" sample.
+Child and grandparent samples (G3 and G1).--Target
+middle-aged participants provided contact information for
+adult offspring (G3) and grandparents (G1). Children and
+grandparents included biological, adopted, or stepfamily
+members. Of the total available focal children aged 18 years
+and older (N = 1251), middle-aged targets provided contact
+RELATIONSHIP QUALITY 629
+BIRDITT ET AL.
+4
+information for 791 children, with 592 of the offspring
+completing interviews. Offspring ranged in age from 18 to
+41 years.
+A total of 37% targets (n = 234) had one offspring (G3)
+participate, 22% (n = 137) had two offspring participate,
+and 4% had three offspring participate. Targets with partici-
+pating offspring did not differ from targets without partici-
+pating offspring in terms of age, education, self-rated health,
+and gender. Offspring who participated were younger, had
+better self-rated health, lived closer to parents, were more
+likely to co-reside with parents, and were more likely to be
+sons than offspring who did not participate. Targets (G2)
+reported greater positive and negative quality relationships
+with offspring (G3) who participated in the study (mean
+[M] = 4.16, standard deviation [SD] = 0.73; M = 2.15, SD =
+0.87) compared with offspring not in the study (M = 3.90,
+SD = 1.02; M = 1.96, SD = 0.87, t = -5.03, p < .01; t = -3.82,
+p < .01).
+Of the total number of grandparents alive (N = 864),
+respondents provided contact information for 455 of them,
+and 337 grandparents completed interviews (234 grand-
+mothers, 103 grandfathers). Grandparents ranged in age from
+59 to 96 years. A total of 35% of targets (n = 223) had one
+grandparent (G1) who participated and 9% (n = 57) had two
+grandparents participate. Middle-aged individuals with a
+participating grandparent were younger, had better self-
+rated health, and were more likely to be women than middle-
+aged participants whose grandparents did not participate.
+Participating grandparents (G1) were younger and more
+likely to be women than nonparticipating grandparents.
+Targets reported greater feelings of positive quality regarding
+grandfathers and grandmothers who participated (M = 4.16,
+SD = 0.70; M = 4.21, SD = 0.66) than grandfathers and
+Table 1. Characteristics of the Sample
+Variable
+Middle-aged
+target
+(G2; N = 633)
+Children
+(G3; N = 592)
+Grandparents
+(G1; N = 337)
+Means and standard deviations
+Age 50.6 (4.99) 23.72 (5.07) 76.07 (6.31)
+Years of education 14.18 (2.02) 13.80 (1.89) 12.71 (2.49)
+Self-rated health 3.48 (1.07) 4.33 (0.92) 3.07 (1.12)
+Neuroticism 2.63 (0.79) 2.67 (0.78) 2.29 (0.76)
+Contact with children 5.65 (2.13) -- 5.28 (1.83)
+Contact with parents 5.07 (2.01) 6.01 (1.95) --
+Percentages
+Gender (female) 52.3 55.1 69.4
+African American 30.7 25.9 27.3
+European American 63.2 67.9 65.6
+Marital status
+Married 62.7 14.9 42.1
+Remarried 7.1 0.5 5.0
+Divorced/separated 17.7 2.2 13.4
+Widowed 2.2 0.0 36.8
+Note. Health rated from 1 (poor) to 5 (excellent). Contact frequency was
+rated: 1 (less than once a year or never), 2 (once a year), 3 (a few times a year),
+4 (monthly), 5 (a few times a month), 6 (weekly), 7 (a few times a week), or 8
+(daily).
+grandmothers who did not participate (M = 3.61, SD = 1.12;
+M = 4.02, SD = 0.86; t = -4.56, p < .01; t = -2.84, p < .01).
+There was no significant variation in negative relationship
+quality between G1 participants and nonparticipants.
+All families had target participants (G2), and 221 (35%)
+families had both G1 and G3 participants; 59 (9%) families
+had G1 participants only (no G3), and 178 (28%) families
+had G3 participants only (no G1). The remaining 175 fam-
+ilies (28%) included only target participants. It is important
+to note that the majority of families included reporters
+from at least two generations to examine within-family
+variations.
+Procedure
+Participants completed hour-long computer-assisted tele-
+phone interviews and received $30 for their time. Midlife
+target participants reported their relationship quality with
+up to three offspring over age 18 and each of their living
+parents (grandparents). Participants with more than three
+offspring (12%) reported on the child they provided the
+most support to, the child they provided the least support to,
+and a randomly selected child. The offspring and grandparents
+reported on the relationship quality with the middle-aged
+target.
+Measures
+Relationship quality.--Positive relationship qualities
+included two items: "Overall, how much does your (father/
+mother/child) love and care for you?" and "How much does
+your (father/mother/child) understand you?" Negative qual-
+ities included two items: "How much does your (father/
+mother/child) criticize you?" and "How much does your
+(father/mother/child) make demands on you?" These items
+are similar to those used in other studies of the parent­child
+tie (Silverstein, Gans, Lowenstein, Giarusso, & Bengtson,
+2010; Umberson, 1992). Participants rated the items on a
+5-point scale (1 = not at all to 5 = a great deal). We created
+mean scores of positive and negative relationship quality
+for the following reports: grandmother regarding target,
+grandfather regarding target, target regarding mother, target
+regarding father, target reports regarding each adult offspring,
+and each adult offspring reports regarding target. The
+positive and negative quality scales had moderate inter-
+nal consistency (positive  ranged from .40 to .79; negative
+ ranged from .37 to .74).Although some of the coefficients
+appear low, scales with few items often have lower reliabil-
+ity and previous research using similar relationship quality
+scales finds similar coefficients (Birditt, Fingerman, & Zarit,
+2010; Fingerman et al., 2008). Indeed, coefficient alphas
+often underestimate the reliability (Sijtsma, 2009) and they
+are influenced by the number of items as well as other fac-
+tors (e.g., duplicated items, the number of dimensions in the
+scale; Huysamen, 2006).
+630 BIRDITT ET AL.
+RELATIONSHIP QUALITY 5
+Covariates.--Covariates included gender, marital status,
+age, race, education, self-rated health, neuroticism, and contact
+frequency (Fingerman et al., 2006). Gender was coded as 0
+(women) or 1 (men). Marital status included a dichotomous
+score (0 = not married, 1 = married or remarried). We con-
+sidered whether to include a more nuanced marital status
+variable; however, the categories (e.g., widowed) varied
+widely across the generations and thus could not be considered
+in the analyses including all generations. Target respondent
+race was used for all family members and coded as 0 (not
+European American) or 1 (European American). Years of
+education included the highest grade or year of college
+completed. Participants rated their physical health from 1
+(poor) to 5 (excellent). Neuroticism included four items
+from the Midlife in the United States Study (MIDUS) in
+which participants rate how well each of four adjectives
+(moody, worrying, nervous, and calm) described them-
+selves: 1 (not all) to 5 (a lot). Calm was reverse coded, and
+all items were averaged so that higher scores represent
+greater neuroticism. The scale had moderate internal
+consistency ( = 0.66, 0.73, and 0.65 among offspring,
+middle-aged targets, and grandparents, respectively). Con-
+tact frequency included "In the past 12 months how often
+have you seen (father/mother/child) in person?" being rated
+as 1 (less than once a year or never), 2 (once a year), 3
+(a few times a year), 4 (monthly), 5 (a few times a month), 6
+(weekly), 7 (a few times a week), or 8 (daily). It is important
+to note that the contact frequency did not include phone or
+other types of contact (e.g., email, texts), which may be a
+limitation.
+Analysis strategy.--First, we calculated correlations among
+the study variables and among the family member reports of
+relationship quality. Next, because the data included multi-
+ple reports from individuals within the same family, we
+used multilevel modeling to address the issue of depen-
+dencies in the data (SAS PROC MIXED; Singer, 1998).
+These models account for the nested or clustered nature of
+the data.
+We first examined the intergenerational stake hypothesis
+by assessing generational differences in reports of relation-
+ship quality. We estimated two multilevel models assessing
+differences in positive quality and negative quality. The models
+included two random effects that allowed for correlated
+errors within families and within generation. The outcomes
+were positive and negative relationship quality, and the pre-
+dictor was family member. Family member was a combina-
+tion of generation and gender and coded as 1 = grandmother
+(G1) re: target (G2); 2 = grandfather (G1) re: target (G2);
+3 = target (G2) re: grandmother (G1); 4 = target (G2)
+re: grandfather (G1); 5 = target (G2) re: offspring (G3);
+6 = offspring (G3) re: target (G2). Covariates included
+gender, race, marital status, education, self-rated health,
+neuroticism, and contact frequency. We did not include age
+as a covariate due to the high correlation between age and
+generation (r = .83) and the possible problems with multi-
+collinearity. To examine differences between family mem-
+bers, we examined all pairwise comparisons of means with
+Tukey adjustments.
+Next, we used multilevel models to examine whether
+relationship qualities are transmitted from the grandmother
+and grandfather relationships with middle-aged target
+(G1­G2) to the target­offspring relationship (G2-G3). The
+outcomes included "middle-aged target" and "offspring
+reports" of positive and negative relationship quality, and
+these outcomes were assessed in separate models. The
+models included one random effect for family. The models
+examined the grandmother­target relationship and the
+grandfather­target relationship as separate predictors, and
+the models were estimated in two steps as follows: (a) target
+reports of grandmother or grandfather (G1) as predictors,
+(b) grandmother or grandfather reports (G1) regarding
+target (G2) as predictors. Models predicting target reports
+controlled for target reports of age, gender, race, marital
+status, education, self-rated health, neuroticism, and contact
+frequency.
+Similar models were used to examine offspring reports
+regarding targets. The models were estimated using the same
+two steps. The models controlled for race, and offspring's
+gender, age, marital status, education, self-rated health,
+neuroticism, and contact frequency. Models also controlled
+for the target reports of relationship quality regarding off-
+spring because we were interested in effects of the older
+generations on the offspring beyond the perceptions of the
+target.
+There were less than 1% missing data with regard to
+covariates and relationship quality. Multilevel models are
+ideal because families with missing data are not removed
+from the analyses, and the models are not affected by
+unbalanced data (i.e., in which some families include
+more member reports than others).
+Results
+Description of the Data
+Correlation analyses revealed that positive and negative
+quality were negatively correlated (r = -.20, p < .01). Indi-
+viduals who had more education, scored lower on neuroti-
+cism, who were men, who were European American, and
+who reported more frequent contact also reported more
+positive relationship quality. Individuals who were younger,
+who scored higher on neuroticism, who were women, who
+were unmarried, and who reported more frequent contact
+reported greater negative relationship quality.
+Correlations between family members' reports of rela-
+tionship quality revealed that target (G2) reports of grand-
+mother and grandfather (G1) were moderately correlated
+(r = .21 for positive and .07 for negative). Grandmothers'
+and grandfathers' ratings of target (G2) were not highly
+RELATIONSHIP QUALITY 631
+BIRDITT ET AL.
+6
+correlated (r = .11 for positive and -.03 for negative). Target
+(G2) and grandmother (G1) reports were moderately corre-
+lated (r = .29 for positive and .32 for negative). Target and
+grandfather reports were low to moderately correlated as
+well (r = .08 for positive, and .20 for negative). Target (G2)
+and offspring (G3) reports of one another were moderately
+correlated (r = .34 for positive and .25 for negative).
+Grandmother and grandfather reports had low to mod-
+erate correlations with target reports of offspring (grand-
+mother [positive r = -.08; negative r = .11]; grandfather
+[positive r = -.07; negative r = .12]) and offspring reports of
+target (grandmother [positive r = .13; negative r = .02];
+grandfather [positive r = .01; negative r = .18]).
+Variations Among Generations in Relationship Quality
+Our first research question pertained to the intergenera-
+tional stake and whether parents in either G1 or G2 genera-
+tion reported more positive relationship qualities and less
+Table 2. Estimated Means (M) and Standard Errors (SE) of
+Relationship Quality by Family Member
+Positive quality Negative quality
+M (SE) M (SE)
+Grandmother (G1) re: target (G2) 4.40 (0.06)a 1.72 (0.06)a
+Grandfather (G1) re: target (G2) 4.41 (0.08)a 1.64 (0.09)a
+Target (G2) re: grandmother (G1) 4.12 (0.04)b 2.13 (0.04)c
+Target (G2) re: grandfather (G1) 3.87 (0.05)c 1.85 (0.05)a
+Target (G2) re: offspring (G3) 4.01 (0.03)b,c 2.07 (0.03)c,d
+Offspring (G3) re: target (G2) 4.10 (0.04)b,d 2.26 (0.05)c,e
+Note. Means in the same column with different subscripts (a­e) were signif-
+icantly different according to pairwise comparisons with Tukey adjustments
+(p < .05).
+Table 3. Multilevel Models Examining Target Reports of Relationship Quality with Offspring (G3) as a Function of Relationship Quality in the
+G2­G1 Tie (as reported by Targets and Grandparents)
+Variable
+Positive relationship quality Negative relationship quality
+Grandmother tie Grandfather tie Grandmother tie Grandfather tie
+Step 1 Step 2 Step 1 Step 2 Step 1 Step 2 Step 1 Step 2
+Generation B SE B SE B SE B SE B SE B SE B SE B SE
+Target (G2) re:
+grandparent (G1)
+.19 .04 ** .33 .08 ** .11 .04 ** .24 .10 * .14 .03 ** .10 .05 .16 .04 ** .26 .08 **
+Grandparent (G1) re:
+target (G2)
+-.17 .07 * -.19 .11 .07 .07 -.01 .09
+Target (G2) covariates
+Age .01 .01 .01 .01 .02 .01 * .02 .01 -.01 .01 -.01 .01 -.02 .01 * -.01 .02
+Gender -.23 .06 ** -.37 .10 ** -.13 .08 -.08 .15 .05 .06 -.01 .09 -.05 .08 -.16 .15
+European American .03 .07 .12 .12 -.06 .10 -.07 .18 .07 .07 .20 .11 .15 .09 .11 .19
+Marital status -.08 .07 -.13 .12 .07 .10 .16 .18 -.01 .07 -.23 .11 * -.07 .09 -.35 .18
+Education .03 .02 * .03 .03 .01 .02 .01 .04 .05 .02 ** .06 .02 * .08 .02 ** .07 .04
+Self-rated health .02 .03 -.00 .05 .08 .04 * .06 .08 -.03 .03 -.04 .05 -.08 .04 .12 .09
+Neuroticism -.08 .04 * -.07 .07 -.10 .06 -.04 .09 .16 .04 ** .15 .06 * .22 .05 ** .28 .10 **
+Contact frequency .14 .01 ** .15 .02 ** .13 .02 ** .14 .03 ** .08 .01 ** .10 .02 ** .07 .02 ** .09 .03 **
+Variance between
+family
+.26 .03 ** .26 .05 ** .27 .04 ** .22 .08 ** .23 .03 ** .16 .05 ** .21 .04 ** .30 .09 **
+Variance within family .41 .02 ** .50 .05 ** .41 .03 ** .44 .06 ** .46 .03 ** .49 .05 ** .41 .03 ** .34 .05 **
+-2 Log likelihood 2496.8 1103.1 1497.6 481.1 2570.1 1049.0 1450.5 459.5
+Note. *p < .05. **p < .01.
+negative relationship quality than did their children. Multilevel
+models revealed that positive relationship quality varied
+among family members (F(5, 1592) = 16.66, p < .01; Table 2).
+As predicted, the oldest G1 generation reported greater
+positive quality than the middle (G2) and youngest (G3)
+generations. In particular, grandparents (G1) reported greater
+positive relationship quality with targets (G2) than targets
+reported about grandparents (G1). There was no significant
+difference between target reports of positive relationship
+quality with their offspring (G3) and their offspring reports
+(G3) of positive relationship quality with them.
+Negative relationship quality also varied among family
+members (F(5, 1594) = 19.19, p < .01; Table 2). As predicted,
+the oldest generation tended to report the lowest negative
+relationship quality followed by middle-aged targets and
+their offspring. In particular, (G1) grandmothers reported
+significantly lower negative relationship quality than (G2)
+middle-aged targets about grandmothers. Significant differ-
+ences in relationship qualities were not found for grandfa-
+thers and middle-aged targets.
+Generational differences in negative relationship qualities
+also were evident for (G2) targets and (G3) their children.
+Middle-aged targets reported lower negative relationship
+quality regarding offspring than offspring reported about
+them.
+Intergenerational Transmission of Relationship Quality
+We then examined whether the relationship quality in the
+G1­G2 relationship predicted relationship quality in the
+G2­G3 relationship. First, we examined the predictors of tar-
+get (G2) reports regarding their offspring (G3; see Table 3).
+632 BIRDITT ET AL.
+RELATIONSHIP QUALITY 7
+As predicted, targets (G2) who reported greater positive
+relations with their mother and father (i.e., G1 grandmother
+and grandfather) reported more positive relationships with
+their own children (G3). When grandparent (G1) reports
+were added in the next step, the models revealed that higher
+grandmother (G1) reports of positive quality regarding targets
+(G2) were associated with lower target (G2) reports of positive
+relationship quality regarding their own children (G3).
+The models predicting target (G2) reports of negative
+relationship quality regarding offspring (G3) revealed that,
+as hypothesized, middle-aged targets who reported greater
+negative relationships with their mothers and fathers (i.e.,
+G1 grandmothers and grandfathers) reported more negative
+relationships with their own children (G3; Table 3). Grand-
+parent (G1) reports of negative relationship quality were
+not associated with target reports (G2) regarding their
+offspring (G3).
+The next set of models examined whether the G1­G2
+relationship predicted the G2­G3 relationship as reported
+by the G3 participants (Table 4). The models examining posi-
+tive relationship quality revealed that there were no main
+effects of target reports (G2) regarding grandparents on off-
+spring reports (G3). The models that included grandparent
+reports revealed that grandmothers (G1) who reported
+greater positive relationship quality with their children
+(i.e., G2 targets) had grandchildren (G3) who reported
+more positive relationships with their middle-aged parents
+(i.e., G2 targets).
+The models examining negative relationship quality
+revealed that there were no significant associations between
+target reports regarding grandparents or grandparent reports
+and the offspring reports.
+Post hoc tests
+Because the models examining the grandparent (G1)
+reports as predictors of G2­G3 relationship quality may have
+been affected by the inclusion of target (G2) reports, we rees-
+timated the models with only grandparents (G1) as the predic-
+tors(alongwithcovariates)andfoundnoassociationsbetween
+grandparent (G1) reports and either target (G2) reports of
+children (G3) or children's (G3) reports of targets (G2).
+We were also intrigued by the negative association be-
+tween grandmother (G1) reports of positive relationship
+quality and target (G2) reports of positive relationship
+quality. The negative coefficient may imply that positive
+G2­G3 relationship quality is lower when G1 reports
+greater relationship quality than G2 (i.e., greater intergener-
+ational stake). We explored this issue further by estimating
+additional multilevel models examining the difference be-
+tween G1 and G2 reports (G1 - G2) as predictors of target
+(G2) reports and offspring (G3) reports. For positive quality,
+the difference score for grandmother and grandfather (G1)
+reports of positive relationship quality regarding target (G2)
+and middle-aged target (G2) reports regarding their parents
+(G1) was negatively associated with targets' (G2) reports of
+relationship quality regarding their children (G3; b = -.24,
+standard error [SE] = .06, p < .01; b = -.22, SE = .08, p <
+.01, respectively). This finding implies that the greater the
+difference between G1 and G2 reports (with G1 reporting
+Table 4. Multilevel Models Examining Offspring Reports (G3) of Relationship Quality with Middle-aged Targets as a Function of
+Relationship Quality in the G2­G1 Tie (as reported by Target and Grandparents)
+Positive relationship quality Negative relationship quality
+Grandmother tie Grandfather tie Grandmother tie Grandfather tie
+Step 1 Step 2 Step 1 Step 2 Step 1 Step 2 Step 1 Step 2
+Variable B SE B SE B SE B SE B SE B SE B SE B SE
+Generation
+Target (G2) re:
+grandparent (G1)
+-.07 .05 -.12 .08 .01 .04 -.05 .09 .05 .05 -.03 .10 .04 .06 -.02 .10
+Grandparent (G1) re:
+target (G2)
+.18 .07 * .07 .09 -.03 .10 .12 .09
+Target (G2) re:
+offspring (G3)
+.34 .05 ** .42 .06 ** .34 .06 ** .53 .08 ** .18 .05 ** .29 .08 ** .24 .06 ** .34 .10 **
+Offspring (G3) covariates
+Age -.01 .01 -.01 .01 -.00 .01 .02 .01 -.04 .01 ** -.04 .02 ** -.01 .01 .01 .02
+Gender .01 .02 .03 .02 -.00 .02 .02 .03 -.10 .02 ** -.10 .03 ** -.10 .03 ** -.09 .04 *
+European American .25 .08 ** .23 .10 * .23 .10 * .18 .15 .03 .10 .07 .14 .12 .12 .20 .20
+Marital status -.04 .12 -.20 .16 .06 .13 .09 .17 .01 .14 .25 .21 -.61 .17 ** -.36 .28
+Education .05 .02 * .03 .03 .05 .03 -.05 .03 -.02 .03 -.03 .04 -.05 .03 -.01 .05
+Self-rated health -.03 .04 -.00 .05 -.04 .05 .04 .07 -.00 .05 -.04 .08 .02 .06 -.06 .10
+Neuroticism -.13 .05 ** -.13 .06 * -.09 .05 -.17 .07 * .21 .06 ** .20 .08 .15 .07 * .15 .11
+Contact frequency .07 .02 ** .06 .02 ** .06 .02 ** .00 .03 .05 .02 * .01 .03 .06 .03 * .05 .04
+Variance between family .09 .04 * .15 .05 ** .11 .05 * .14 .05 ** .15 .07 * .17 .10 .00 .09 .00 .15
+Variance within family .45 .05 ** .33 .05 ** .36 .05 ** .19 .04 ** .69 .07 ** .67 .10 ** .76 .11 ** .70 .17 **
+-2 Log likelihood 1137.3 588.6 675.2 248.1 1345.1 739.0 820.6 344.5
+Note. *p < .05. **p < .01.
+RELATIONSHIP QUALITY 633
+BIRDITT ET AL.
+8
+greater positivity) the lower the quality of G2's relationship
+with their own children. There were no significant associa-
+tions between the difference scores and offspring reports of
+positive quality.
+For negative quality, there was a significant negative as-
+sociation (b = -.14, SE = .07, p < .05) between the differ-
+ence score for grandfather reports (G1) and target reports
+(G2) predicting target reports of negative relationship
+quality regarding their own children(G3). This negative as-
+sociation implies that the larger the discrepancy between
+reports (with G1 reporting more negativity than G2) the
+lower the negativity in the G2­G3 relationship. There was
+no significant association between difference scores and
+offspring reports of negative relationship quality. Overall,
+these findings suggest that the developmental stake in the
+G1­G2 relationship predicts poorer relationship quality in
+the G2­G3 relationship.
+Research indicates that the parent­child tie varies
+depending on whether adult children are living at home
+(Aquilino, 1991; Aquilino & Supple, 1991; Pillemer &
+Suitor, 1991). Sixty-five percent of targets had a least one
+adult child live at home in the past year. We conducted all
+analyses again controlling for coresidence of target with at
+least one adult offspring, and the findings were the same.
+Too few aging parents (G1) coresided with targets (G2) to
+conduct the analyses controlling for coresidence between
+the older generations.
+Finally, research indicates that the parent­child tie var-
+ies depending on whether parents are divorced, remarried,
+widowed, or married (Aquilino, 1994; Booth & Amato,
+1994; Kaufman & Uhlenberg, 1998; Rossi & Rossi, 1990;
+Umberson, 1992). We conducted all analyses again controlling
+for a four-category target marital status variable. The differ-
+ences among family members in reports of relationship
+quality were similar after controlling for marital status. Two
+important exceptions were that negative relationship quality
+no longer varied between the G2 and G3 reports of one
+another and target reports regarding their children no longer
+varied by positive grandmother reports. Thus, it appears that
+marital status accounts for some of the variations and asso-
+ciations in relationship quality in the G2­G3 relationship.
+However, the results regarding marital status should be
+interpreted with caution, given the small number of target
+individuals who were widowed (2.2%) or remarried (7.1%).
+Discussion
+This study reveals the complexity of family relationships
+across three generations. Unlike previous studies, which
+have often included two generations of families, this study
+examined positive and negative dimensions of relationship
+quality within families across three generations. Overall,
+this study suggests that there is greater within-family vari-
+ability than similarities in relationship quality. Findings are
+consistent with the intergenerational stake hypothesis and
+only partially consistent with the theory of intergenerational
+transmission.
+Generational Differences and the Intergenerational Stake
+Positive and negative quality varied across the three gen-
+erations. Consistent with the intergenerational stake and
+previous research, grandparents reported higher positive
+quality than the middle-aged targets regarding grandpar-
+ents. Interestingly, and extending the previous research, this
+study found no generation difference in reports of positive
+quality among the middle-aged targets and their offspring.
+The intergenerational stake may increase as parents and
+children grow older (Bengtson & Kuypers, 1971; Shapiro,
+2004). Older adults may experience greater investment in
+the relationship with their middle-aged offspring when their
+middle-aged offspring have the least time to invest in the tie.
+Older adults, for example, have more time due to retirement
+and may need help due to health declines whereas middle-aged
+adults often have several demanding roles (e.g., children,
+spouses, and work) causing lower positive quality among
+middle-aged children regarding their parents (Birditt, Miller
+et al., 2009).
+As predicted and also consistent with the intergenera-
+tional stake, the older generation members in families reported
+lower levels of negative relationship quality than the younger
+generations. In particular, grandmothers reported lower
+negative quality than middle-aged targets reported regarding
+grandmothers. In addition, middle-aged targets reported
+lower negative quality regarding their offspring than their
+offspring reported regarding the relationship. The genera-
+tion differences show evidence of the stake in the older
+(G1­G2) and younger (G2­G3) generation relationships in
+which parents report lower negative relationship quality
+than children. These findings contribute to the previous
+work by moving beyond the parent­child dyad and showing
+that the intergenerational stake exists with regard to negative
+relationship qualities across three generations (Aquilino,
+1999; Fingerman, 2001). Interestingly, these findings show
+evidence of the stake between grandmothers and their
+middle-aged offspring and not grandfathers and their
+offspring, which may be due to mother's greater contact and
+closeness with children than fathers (Rossi & Rossi, 1990).
+Of course, because the data are cross-sectional, it is not
+clear what factors explain the variations in relationship
+quality by generation. The generation differences may not
+be due to relationship dynamics as suggested by the inter-
+generational stake hypothesis. For example, age-related
+improvements in emotion regulation and less attention
+and memory for negative information (Carstensen, 2006;
+Labouvie-Vief, 2003) may lead grandparents to report
+better quality parent­child relationships than middle-aged
+adults and their offspring. It is also possible that cohort
+differences contribute to how people appraise intergenerational
+relationships. Older generations may feel less comfortable
+634 BIRDITT ET AL.
+RELATIONSHIP QUALITY 9
+expressing negative feelings about family relationships than
+younger generations due to experiences specific to their
+cohort such as the Great Depression.
+In addition, there is some selection bias in the reports of
+relationship quality as individuals with more positive rela-
+tionships are more likely to participate. However, partici-
+pating and nonparticipating grandparents did not vary in
+negative relationship quality, and children who participated
+were rated as more negative than nonparticipating children.
+Thus, the findings do appear to reveal actual variations
+between generations in reports that are not completely an
+artifact of who chooses to participate.
+Transmission of Relationship Quality Across Generations
+According to family systems theory, people reenact patterns
+of behaviors they learned as children in their relationships
+with spouses, children, and others (Bowen, 1978). We
+extended this theory to the concept of relationship quality
+and hypothesized that families would transmit feelings
+of positive and negative relationship quality from older
+to younger generations. The present study revealed limited
+evidence of transmission. Middle-aged individuals who
+reported better quality relationships with their mothers and
+fathers (i.e., G1 grandparents) reported better quality rela-
+tionships with their own children (G3). The more stringent
+test of transmission involved the models examining grand-
+parent reports as predictors, and we found few transmission
+effects when examining grandparent reports. This study
+revealed an association between grandmother positivity and
+the younger generations but no grandfather effects and no
+transmission effects for negative quality.
+The associations between middle-aged respondent
+reports of their parents and children may be due to trans-
+mission, but we cannot rule out other competing explana-
+tions. One obvious consideration is that factors associated
+with the target (i.e., targets report similar relationship
+quality in all their relationships) might account for simi-
+larities in relationship quality of middle-aged adults with
+grandparents and offspring. We did control for target
+factors including personality, but we may not have been
+able to rule out other explanations for similar relationship
+quality.
+Grandmother reports of positive relationship quality with
+their middle-aged children seemingly had dual effects.
+Grandmothers' higher ratings of positive relationship quality
+with their middle-aged children were associated with lower
+feelings of positivity among middle-aged targets regarding
+their offspring but greater offspring reports of positivity
+regarding the middle-aged parents. Thus, it appears that
+grandmother feelings of positivity regarding their own
+children may be transmitted to their grandchildren. This is
+consistent with research indicating that positive parenting
+practices (e.g., warm parenting) are replicated from one
+generation to the next (Belsky et al., 2005; Chen & Kaplan,
+2001). The negative association between positive grandmother
+reports and middle-aged target reports was surprising. It is
+possible that middle-aged respondents experience more
+burden from close and positive relationships with their
+mothers than do their offspring. Indeed, middle-aged adults
+are often relied on for support and provide care to multiple
+generations of family members and often provide more than
+they receive (Fingerman et al., 2011; Levitt, Guacci, &
+Weber, 1992).
+Interestingly, we also found evidence that the intergener-
+ational stake in the G1­G2 relationship may have negative
+implications for the G2­G3 relationship. Greater intergen-
+erational differences in the G1­G2 tie with G1 reporting
+greater positive quality and lower negative quality than G2
+predicted lower relationship quality in the G2­G3 relation-
+ship (as reported by G2). A larger intergenerational stake
+may indicate that there is greater disagreement in the rela-
+tionship, which may spill over into the G2­G3 relationship.
+The stake may also indicate that G1 are more demanding on
+G2, which may strain their relationships with their own
+children (G3). Indeed, Fingerman (2001) found that middle-
+aged daughters reported their mothers were intrusive and
+demanding when mothers rated the relationship as more
+important.
+Thus, with regards to transmission, we found only par-
+tial evidence. These findings indicate that there is greater
+variation between generations in relationship quality
+than there are similarities. However, before abandoning
+the idea of intergenerational transmission of relationship
+quality, it is important to recognize that limitations in the
+study design may have prevented us from finding more
+evidence of transmission. For example, the grandparents
+who participated had more positive relationships with
+targets than those who did not participate. There may be
+more transmission in families with lower positive quality
+ties. There were fewer grandfathers who participated
+than grandmothers, which may have reduced the likeli-
+hood of finding transmission effects for grandfathers. In
+addition, this study included only one set of grandpar-
+ents, and the transmission effects may occur with the
+nontarget parents.
+This study also showed that intergenerational relation-
+ship quality is associated with other important personality
+and demographic factors. Greater neuroticism was associ-
+ated with lower quality intergenerational relationships,
+which is consistent with previous research (Fingerman
+et al., 2006). Furthermore, women and individuals who had
+more contact reported greater positive and greater negative
+quality relationships (Akiyama et al., 2003; Fingerman,
+2001). There were also findings that were not consistent
+across positive and negative relationship quality. Individ-
+uals with greater education and European American indi-
+viduals reported greater positive relationship quality, which
+is consistent with previous research (Birditt, Rott et al.,
+2009). Similar to previous research, individuals who were
+RELATIONSHIP QUALITY 635
+BIRDITT ET AL.
+10
+younger and individuals who were unmarried reported
+greater negative relationship quality (Birditt et al., 2010;
+Birditt, Jackey, & Antonucci, 2009).
+Limitations and Future Directions
+There are several limitations to the present study that
+provide directions for future research. Most importantly,
+because of the cross-sectional nature of the design, we
+cannot be sure of the stability or developmental nature of
+the effects. A longitudinal study is needed to examine gen-
+eration differences and similarities over time. Furthermore,
+families in this study may not include particularly troubled
+parent­child relationships or families. We may have found
+more similarities across family member reports of relation-
+ship quality in more troublesome or abusive families. It is
+important to note, however, that participating children
+were rated as more negative than nonparticipating chil-
+dren, and there were no variations in negative relationship
+quality between participating grandparents and nonpartic-
+ipating grandparents. Another consideration is that we did
+not include retrospective assessments of early childhood
+experiences. Although colored by current feelings, these
+retrospective reports may nonetheless provide some in-
+sight about long-term relationship dynamics. We also
+know little about the mechanisms that account for varia-
+tions between family members or links among family
+members' perceptions of relationship quality. Future studies
+should consider dynamics between parents and children
+over time and examine how parents and children commu-
+nicate their feelings toward one another. Finally, partici-
+pants were asked to report on up to three children.Although
+the sample of adults who had more than three children was
+small (12%), we recognize that parents may have different
+quality relationships with those children who were not
+assessed.
+Overall, this study shows that there is substantial
+within-family variation in relationship quality and that
+generation plays an important role in those variations.
+Indeed, generation differences appear to vary depending
+on the developmental stages of the parents and children.
+We found only partial evidence that intergenerational
+relationship quality may be transmitted from older to
+younger generations of families. We hope that this
+research encourages additional studies on multiple gen-
+erations and relationship quality. These patterns of rela-
+tionship quality most likely have implications for the
+health and well-being of the individual family members
+as well as the overall well-being and functioning of entire
+families.
+Funding
+This study was supported by grants R01 AG027769 The Psychology of
+Intergenerational Transfers (K. L. Fingerman, principal investigator) and
+grant K99 AG029879 Promoting Well Being across Adulthood: The Role
+of Conflict Avoidance (K. S. Birditt, principal investigator), from the
+National Institute on Aging and a grant from the MacArthur Network on
+Transitions to Adulthood (Frank Furstenberg, Director).
+Acknowledgments
+K. S. Birditt conceptualized the article, wrote the paper, and was
+involved all phases of the Family Exchanges Study. L. Tighe assisted with
+the analyses, literature review, preparation of the tables, and the manu-
+script preparation. K. L. Fingerman is the Principal Investigator of the
+Family Exchanges Study. K. L. Fingerman and S. Zarit were involved in all
+phases of the family exchanges study and assisted with conceptualizing
+and drafting the article.
+Correspondence
+Correspondence should be addressed to Kira S. Birditt, M.S., Ph.D.,
+Institute for Social Research, University of Michigan, 426 Thompson Street,
+Ann Arbor, Michigan, 48104. E-mail: kirasb@umich.edu.
+References
+Akiyama, H., Antonucci, T., Takahashi, K., & Langfahl, E. S. (2003).
+Negative interactions in close relationships across the life span. The
+Journals of Gerontology, Series B: Psychological Sciences, 58, 70­79.
+doi:10.1093/geronb/58.2.P70
+Almeida, D. M., Wethington, E., & Chandler, A. L. (1999). Daily trans-
+mission of tensions between marital dyads and parent-child dyads.
+Journal of Marriage and Family, 61, 49­61. doi:10.2307/353882
+Aquilino, W. S. (1991). Predicting parents' experiences with coresident
+adult children. Journal of Family Issues, 12, 323­342. doi:10.1177/
+019251391012003005
+Aquilino, W. S. (1994). Later life parental divorce and widowhood: Impact
+on young adults' assessment of parent-child relations. Journal of
+Marriage and Family, 56, 908­922. doi:10.2307/353602
+Aquilino, W. (1999). Two views of one relationship: Comparing parents'
+and young adult children's reports of the quality of intergenerational
+relations. Journal of Marriage and Family, 61, 858­870. doi:10.2307/
+354008
+Aquilino, W. S., & Supple, K. R. (1991). Parent-child relations and
+parents' satisfaction with living arrangements when adult children
+live at home. Journal of Marriage and Family, 53, 13­28.
+doi:10.2307/353130
+Belsky, J., Jaffee, S., Sligo, J., Woodward, L., & Silva, P. (2005). Intergen-
+erational transmission of warm-sensitive-stimulating parenting:
+A prospective study of mothers and fathers of 3-year-olds. Child
+Development, 76, 384­396. doi:10.1111/j.1467-8624.2005.00852
+Bengston, V. L., Giarrusso, R., Mabry, J. B., & Silverstein, M. (2002).
+Solidarity, conflict, and ambivalence: Complementary or competing
+perspectives on intergenerational relationships? Journal of Marriage
+and Family, 64, 568­576. doi:10.1111/j.1741-3737.2002.00568.x
+Bengtson, V., & Kuypers, J. (1971). Generational difference and the develop-
+mental stake. International Journal of Aging and Human Development,
+2, 249­260. doi:10.2190/AG.2.4.b
+Birditt, K. S., Fingerman, K. L., & Zarit, S. (2010). Adult children's prob-
+lems and successes: Implications for intergenerational ambivalence.
+The Journals of Gerontology, Series B: Psychological Sciences, 65,
+145­153. doi:10.1093/geronb/gbp125
+Birditt, K. S., Jackey, L. M. H., & Antonucci, T. C. (2009). Longitudinal
+patterns of negative relationship quality across adulthood. The Journals
+of Gerontology, Series B: Psychological Sciences, 64, 55­64. doi:10.
+1093/geronb/gbn031
+Birditt, K., Miller, L., Fingerman, K., & Lefkowitz, E. (2009). Tensions
+in the parent and adult child relationship: Links to solidarity and
+ambivalence. Psychology and Aging, 24, 287­295. doi:10.1037/
+a0015196
+Birditt, K., Rott, L., & Fingerman, K. (2009). "If you can't say something
+nice, don't say anything at all": Coping with interpersonal tensions in
+the parent­child relationship during adulthood. Journal of Family
+Psychology, 23, 769­778. doi:10.1037/a0016486
+636 BIRDITT ET AL.
+RELATIONSHIP QUALITY 11
+Booth, A., & Amato, P. R. (1994). Parental marital quality, parental
+divorce, and relations with parents. Journal of Marriage and Family,
+56, 21­34. doi:10.2307/352698
+Bowen, M. (1978). Family therapy in clinical practice. Northvale, NJ:
+Jason Aronson Inc.
+Brook, J., Whiteman, M., & Zheng, L. (2002). Intergenerational transmission
+of risks for problem behavior. Journal of Abnormal Child Psychology,
+30, 65­76. doi:10.1023/A:1014283116104
+Carstensen, L. L. (2006). The influence of a sense of time on human devel-
+opment. Science, 312, 1913­1915. doi:10.1126/science.1127488
+Chen, Z., & Kaplan, H. B. (2001). Intergenerational transmission
+of constructive parenting. Journal of Marriage and Family, 63,
+17­31. doi:10.1111/j.1741-3737.2001.00017.x
+Clarke, E., Preston, M., Raksin, J., & Bengtson, V. L. (1999). Types of
+conflict and tensions between older parents and adult children. The
+Gerontologist, 39, 261­270. doi:10.1093/geront/39.3.261
+Collins, W., & Russel, G. (1991). Mother-child and father-child relationships
+in middle adolescence: A developmental analysis. Developmental
+Review, 11, 99­136. doi:10.1016/0273-2297(91)90004-8
+Connidis, I. A., & McMullin, J. A. (2002). Sociological ambivalence and
+family ties: A critical perspective. Journal of Marriage and Family,
+64, 558­567. doi:10.1111/j.1741-3737.2002.00558.x
+Elder, G. H., Jr. (1981). History and the family: The discovery of com-
+plexity. Journal of Marriage and Family, 43, 489­519. doi:10.
+2307/351752
+Erber, J. T. (2010). Aging and older adulthood (2nd ed.). Hoboken, NJ:
+Wiley-Blackwell.
+Fingerman, K. L. (2001). Aging mothers and their adult daughters: A study
+in mixed emotions. New York, NY: Springer.
+Fingerman, K., & Bermann, E. (2000). Applications of family systems
+theory to the study of adulthood. International Journal of Aging and
+Human Development, 51, 5­29. doi:10.2190/7TF8-WB3F-TMWG-
+TT3K
+Fingerman, K. L., Chan, W., Pitzer, L. M., Birditt, K. S., Franks, M. M., &
+Zarit, S. (2011). Who gets what and why: Help middle-aged adults
+provide to parents and grown children. The Journals of Gerontology,
+Series B: Social Science, 65, 425­433. doi:10.1093/geronb/gbq009
+Fingerman, K. L., Chen, P. C., Hay, E. L., Cichy, K. E., & Lefkowitz, E. S.
+(2006). Ambivalent reactions in the parent and offspring relationship.
+The Journals of Gerontology, Series B: Psychological Sciences, 61,
+152­160. doi:10.1093/geronb/61.3.P152
+Fingerman, K., Pitzer, L., Lefkowitz, E., Birditt, K., & Mroczek, D. (2008).
+Ambivalent relationship qualities between adults and their parents:
+Implications for the well-being of both parties. The Journals of
+Gerontology, Series B: Psychological Sciences, 63, 362­371.
+doi:10.1093/geronb/63.6.P362
+Giarrusso, R., Feng, D., & Bengston, V. L. (2004). The intergenera-
+tional stake phenomenon over twenty years. In M. Silverstein
+(Ed.), Intergenerational relations across time and place: Annual
+review of gerontology and geriatrics (pp. 55­76). New York, NY:
+Springer.
+Grillon, C., Warner, V., Hille, J., Merikangas, K. R., Bruder, G. E., Tenke,
+C. E., ... Weissman, M. M. (2005). Families at High and Low Risk
+for Depression:A Three-Generation Startle Study. Biological Psychi-
+atry, 57, 953­960. doi:10.1016/j.biopsych.2005.01.045
+Huysamen, G. K. (2006). Coefficient alpha: Unnecessarily ambiguous,
+unduly ubiquitous. SA Journal of Industrial Psychology, 32,
+34­40.
+Kaufman, G., & Uhlenberg, P. (1998). Effects of life course transitions on
+the quality of relationships between adult children and their parents.
+Journal of Marriage and Family, 60, 924­938. doi:10.2307/353635
+Kerr, M. E., & Bowen, M. (1988). Family evaluation: An approach based
+on Bowen theory. New York, NY: W. W. Norton & Co.
+Labouvie-Vief, G. (2003). Dynamic integration: Affect, cognition, and the
+self in adulthood. Current Directions in Psychological Science, 12,
+201­206. doi:10.1046/j.0963-7214.2003.01262.x
+Larson, R. W., & Almeida, D. M. (1999). Emotional transmission in the
+daily lives of families: A new paradigm for studying family
+process. Journal of Marriage and Family, 61, 5­20. doi:10.2307/
+353879
+Levitt, M. J., Guacci, N., & Weber, R. A. (1992). Intergenerational support,
+relationship quality, and well-being: A bicultural analysis. Journal of
+Family Issues, 13, 465­481. doi:10.1177/019251392013004005
+Lowenstein, A. (2007). Solidarity-conflict and ambivalence: Testing two
+conceptual frameworks and their impact on quality of life for older
+family members. The Journals of Gerontology, Series B: Social Sci-
+ences, 62, 100­107. doi:10.1093/geronb/62.2.S100
+Luescher, K., & Pillemer, K. (1998). Intergenerational ambivalence: A new
+approach to the study of parent-child relations in later life. Journal of
+Marriage and Family, 60, 413­425. doi:10.2307/353858
+Patterson, G. R., Bank, L., & Stoolmiller, M. (1990). The preadolescent's
+contributions to disrupted family process. In R. Montemayor,
+G. R. Adams, & T. P. Gullotta (Eds.), From childhood to adolescence:
+A transitional period? (pp. 107­133). Newbury Park, CA: Sage
+Publications.
+Pears, K. C., & Capaldi, D. M. (2001). Intergenerational transmission of
+abuse: A two-generational prospective study of an at-risk sample.
+Child Abuse & Neglect, 25, 1439­1461. doi:10.1016/S0145-2134
+(01)00286-1
+Pennsylvania State Data Center. (2001). Research brief: Standards for
+defining metropolitan statistical areas announced. Harrisburg, PA:
+Institute of State and Regional Affairs.
+Pillemer, K., & Suitor, J. (1991). Relationships with children and distress
+in the elderly. In K. A. Pillemer & K. McCartney (Eds.), Parent-child
+relations throughout life (pp. 163­178). Hillsdale, NJ: Lawrence
+Erlbaum.
+Pillemer, K., & Suitor, J. J. (2002). Explaining mothers' ambivalence toward
+their adult children. Journal of Marriage and Family, 64, 602­613.
+doi:10.1111/j.1741-3737.2002.00602.x
+Pillemer, K., & Suitor, J. J. (2005). Ambivalence in intergenerational rela-
+tionship over the life-course. In M. Silverstien, R. Giarruso, & V. L.
+Bengtson (Eds.), Intergenerational relations across time and place
+(pp. 1­28). New York, NY: Springer.
+Pillemer, K., Suitor, J. J., Mock, S. E., Sabir, M., Pardo, T. B., & Sechrist, J.
+(2007). Capturing the complexity of intergenerational relations:
+Exploring ambivalence within later-life families. Journal of Social
+Issues, 63, 775­791. doi:10.1111/j.1540-4560.2007.00536.x
+Powdthavee, N., & Vignoles, A. (2008). Mental health of parents and life
+satisfaction of children: A within-family analysis of intergenerational
+transmission of well-being. Social Indicators Research, 88, 397­422.
+doi:10.1007/s11205-007-9223-2
+Rossi, A., & Rossi, P. (1990). Of human bonding: Parent-child relations
+across the life course. New York, NY: Aldine de Gruyter.
+Shapiro, A. (2004). Revisiting the generation gap: Exploring the relation-
+ships of parent/adult-child dyads. International Journal of Aging and
+Human Development, 58, 127­146. doi:10.2190/EVFK-7F2X-
+KQNV-DH58
+Sijtsma, K. (2009). On the use, the misuse, and the very limited usefulness
+of Cronbach's alpha. Psychometrika, 74, 107­120. doi:10.1007/
+s11336-008-9101-0
+Silverstein, M., Gans, D., Lowenstein, A., Giarrusso, R., & Bengston, V. L.
+(2010). Older parent-child relationships in six developed nations:
+Comparisons at the intersection of affection and conflict. Journal of
+Marriage and Family, 72, 1006­1021. doi:10.1111/j.1741-3737.
+2010.00745.x
+Silverstein, M., & Marenco, A. (2001). How Americans enact the grand-
+parent role across the family life course. Journal of Family Issues, 22,
+493­522. doi:10.1177/019251301022004006
+Singer, J. D. (1998). Using SAS PROC MIXED to fit multilevel models,
+hierarchical models, and individual growth models. Journal of
+Educational and Behavioral Statistics, 23, 323­355. doi:10.3102/
+10769986023004323
+RELATIONSHIP QUALITY 637
+BIRDITT ET AL.
+12
+Smetana, J. G., Daddis, C., & Chuang, S. S. (2003). `Clean your room!'
+A longitudinal investigation of adolescent-parent conflict and con-
+flict resolution in middle-class African American families. Journal of
+Adolescent Research, 18, 631­650. doi:10.1177/0743558403254781
+Straus, M. A., Gelles, R. J., & Steinmetz, S. K. (1980). Behind closed doors:
+Violence in the American family. Garden City, NY: Doubleday.
+Thornton, A., Orbuch, T., & Axinn, W. (1995). Parent-child relationships
+during the transition to adulthood. Journal of Family Issues, 16,
+538­564. doi:10.1177/019251395016005003
+Umberson, D. (1992). Relationships between adult children and their
+parents: Psychological consequences for both generations. Journal
+of Marriage and Family, 54, 664­674. doi:10.2307/353252
+Ward, R. (2008). Multiple parent-adult child relations and well-being in
+middle and later life. The Journals of Gerontology, Series B: Social
+Sciences, 63, 239­247. doi:10.1093/geronb/63.4.S239
+Warner, V., Weissman, M. M., Mufson, L., & Wickramaratne, P. J. (1999).
+Grandparents, parents, and grandchildren at high risk for depression:
+A three-generation study. Journal of the American Academy of Child
+and Adolescent Psychiatry, 38, 289­296. doi:10.1097/00004583-
+199903000-00016
+Weissman, M. M., Wickramaratne, P., Nomura, Y., Warner, V., Verdeli, H.,
+Pilowsky, D. J., ... Bruder, G. (2005). Families at high and low risk
+for depression: A 3-Generation Study. Archives of General Psychiatry,
+62, 29­36. doi:10.1097/00004583-199903000-00016
+Westman, M., & Vinokur, A. D. (1998). Unraveling the relationship of
+distress levels within couples: Common stressors, empathic reactions,
+or crossovers via social interaction? Human Relations, 51, 137­156.
+doi:10.1177/001872679805100202
+Whitbeck, L., Hoyt, D., Simons, R., Conger, R., Elder, G., Lorenz, F., ...
+Huck, S. (1992). Intergenerational continuity of parental rejection
+and depressed affect. Journal of Personality and Social Psychology,
+63, 1036­1045. doi:10.1037//0022-3514.63.6.1036
+Willson, A. E., Shuey, K. M., Elder, G. H., & Wickrama, K. A. S. (2006).
+Ambivalence in mother-adult child relations: A dyadic analysis.
+Social Psychology Quarterly, 69, 235­252. doi:10.1177/019027
+250606900302
+638 BIRDITT ET AL.
+

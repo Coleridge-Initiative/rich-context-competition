@@ -1,0 +1,540 @@
+a Pion publication
+dx.doi.org/10.1068/i0435
+i-Perception (2011) volume 2, pages 1063 ­ 1075
+ISSN 2041-6695 perceptionweb.com/i-perception
+Effect of speed overestimation on flash-lag effect at low
+luminance
+Maryam Vaziri-Pashkam
+Vision Sciences Laboratory, Department of Psychology, Harvard University, Cambridge, MA, USA;
+e-mail: mvaziri@fas.harvard.edu
+Patrick Cavanagh
+Vision Sciences Laboratory, Department of Psychology, Harvard University, Cambridge, MA, USA; and
+Laboratoire Psychologie de la Perception, CNRS UMR 8158, Université Paris Descartes, Sorbonne Paris
+Cité, Paris, France; e-mail: patrick.cavanagh@parisdescartes.fr
+Received 12 April 2011, in revised form 7 December 2011; published online 19 December 2011
+Abstract. When a brief flash is presented at the same location as a moving object, the flash is
+perceived to lag behind the moving object to an extent that increases with the speed of the object.
+Previous studies showed that moving objects appear faster at low luminance as a result of their longer
+motion trace. Here we examine whether this faster perceived motion also affects the amount of the
+flash lag at low luminance. We first verified that speed was overestimated at low luminance with our
+stimulus. We then asked subjects to align a briefly flashed dot with the moving target. Results showed
+that the flash-lag effect increased with physical speed at both high and low luminance, but there was
+no additional increase due to the perceived increase of speed at low luminance. We suggest that
+although motion blur contributes to perceived speed, it does not contribute to the speed information
+that influences its perceived position.
+Keywords: flash lag effect, Pulfrich effect, low luminance, speed perception, position perception, motion percep-
+tion.
+1 Introduction
+Accurate perception of the position of moving objects is a challenging but critical task
+for the visual system. Avoiding obstacles while driving, hitting a ball in tennis, catching a
+moving target, all require precise localization of the moving objects. Moreover, we have to
+maintain this precision over a range of luminance levels that covers 10 orders of magnitude
+in natural settings (Land and Nilson 2002). Here we want to investigate whether changes
+of luminance affect the localization of moving objects. It is already well known that motion
+affects judgments of position (Eagleman and Sejnowski 2007; Whitney 2002) and that
+luminance affects estimates of speed (Hammett et al 2007; Vaziri Pashkam and Cavanagh
+2008); will luminance therefore affect judgments of position?
+The visual system, through specialized visual areas dedicated to the analysis of mo-
+tion (Tootell et al 1995), can extract the motion of objects independent of their position
+(Wertheimer 1912; Zeki 1991; Addams 1834); however, motion affects the perception
+of the position of moving objects (Whitney 2002). One example of such interference is
+demonstrated by the well-known flash-lag effect. When a brief flash is presented at the same
+location as a moving object, the flash is perceived to lag behind the moving object (MacKay
+1958). The underlying mechanism of this phenomenon is still controversial. Some attribute
+it to the difference in the perceptual latency of the flash and moving objects (Purushathaman
+et al 1998; Whitney and Murakami 1998), and some refer it to the extrapolation of the location
+of the moving object in the direction of motion to compensate for the delay in the neural
+response (Nijhawan 1994). In either case, stimulus properties such as speed (Wojtaj et al
+2008) and change of motion direction (Whitney and Murakami 1998; Whitney et al 2000)
+can affect the flash-lag effect. More important for the purpose of our experiment here, it
+has been shown that the magnitude of the flash-lag effect increases as the speed of motion
+1064 M Vaziri-Pashkam, P Cavanagh
+increases (Wojtaj et al 2008). We will use the flash-lag effect to examine the nature of speed
+information that influences the perception of position.
+It has been previously shown that the perceived speed of moving objects increases at
+low luminance (Hammett et al 2007; Vaziri Pashkam and Cavanagh 2008). This overestimate
+increases as a function of the speed, reaching a maximum effect of about 30% around 11 hz
+of temporal frequency. We have attributed this effect to the lengthening of the motion blur
+that occurs due to the increased visual persistence at low luminance (Di Lollo and Bischof
+1995). As an object moves faster at a given luminance, it has a longer motion trace so that
+the length of the trace can be a cue to speed. At low luminance, persistence increases so
+the motion trace for a given speed will be longer, contributing to an impression of higher
+speed. Does this speed cue contribute to all processing that depends on speed or just to the
+perception of speed itself? To determine whether the flash lag is influenced by perceived
+or actual speed, we varied both speed and luminance in our flash-lag display. In the first
+experiment, we measured the speed overestimation effect across three different speeds and
+replicated the results of our previous study but now using a linearly translating patch of
+random dots. In the second experiment, we measured the magnitude of the flash-lag effect
+with similar stimuli and found that despite a significant modulation of the flash lag by actual
+speed changes, it was not significantly modulated by the perceived speed changes created by
+different light levels.
+We also ran a control to address the effects of luminance on latencies to the moving and
+flashed stimuli. It has been previously shown that the flash-lag effect can be modulated by a
+change in the relative luminance of the flash and the moving target (Purushuthuman et al
+1998; White et al 2008). We measured the latency of the flash, using a simultaneity judgment,
+and the latency of the moving stimuli, using the Pulfrich effect (Pulfrich 1922). These control
+conditions showed that latency effects cannot account for the observed data in our main
+experiment.
+We conclude that the perceived position of a moving object is not affected by the blur cue
+that contributes to its perceived speed.
+2 Experiment one
+This experiment was designed to measure the degree of speed overestimation at low
+luminance in linearly moving patches of random dots.
+2.1 Methods
+2.1.1 Participants. Five subjects participated in this experiment. Their ages ranged between
+18 and 35. All subjects had normal or corrected-to-normal vision.
+2.1.2 Apparatus. Stimuli were generated on a Macintosh computer with Matlab 7.7 and
+Psychtoolbox software (Brainard 1997; Pelli 1997) and were presented on a CRT monitor
+(SUN microsystem, 1024x768, 120 Hz). Subjects were positioned in a dark room in front of
+the screen, while the distance between the monitor and their eyes was 57 centimeters.
+2.1.3 Stimuli. The moving stimulus consisted of 50 randomly positioned circular white dots
+that formed an illusory square of size 3.8 degrees on each side, which moved over a stationary
+random dot background consisting of 2000 dots of similar shape and size (Figure 1a). Each
+dot had a diameter of 0.2 degrees. The luminance of the dots was 88 cd/m2, and they were
+presented on a dark grey background with the luminance of 5 cd/m2. A small red fixation
+point was presented in the center of the display, and two square-shaped random dot patterns
+moved at 5.7 degrees on the top and bottom of the fixation point.
+To achieve lower luminance levels without changing contrast, half of the screen was
+covered with two layers of 1.2 log unit neutral density filters to reduce the light reaching
+Flash-lag effect at low luminance 1065
+the eyes in both light and dark areas for the display by 2.4 log units. The luminance levels
+of the dots and the background in the low luminance condition were 0.35 and 0.02cd/m2,
+respectively.
+2.1.4 Procedure. On each trial subjects had to fixate the red "+" and adjust the speed of the
+"match" random dot square until it appeared the same as that of the "target" random dot
+square. In the beginning of the trial, the target random dot pattern appeared randomly on
+one side of the screen and moved with a linear motion of constant speed until it reached
+11.4 degrees on the other side of the screen. After that the target was removed and the match
+square was presented and moved linearly in the opposite direction compared to the target
+(Figure 1b). This alternating presentation between target and match continued until the
+subjects reported the completion of the matching procedure. On each presentation, the
+starting point of the target and match was randomly jittered from 7.6 to 15.4 degrees on
+either sides of the screen. This was to ensure that the subjects did not use any information
+other than the speed of the stimuli (such as the duration of the presentation) to perform
+the match. The "match" square was initially presented at a random speed, and the subjects
+changed its speed on each repeated presentation by moving the computer mouse to the left
+or right to decrease or increase the speed respectively, and pressed the mouse button when
+they were satisfied that the speed of the match was similar to that of the "target" square. The
+speed of the target square was chosen pseudo randomly among three possible values: 9.12,
+18.24, and 27.36 degrees/second. Subjects completed four experimental blocks of 15 trials
+with 5 trials for each target speed. In two of the experimental blocks the top half of the screen,
+and in the other two the bottom half, was covered with neutral density filters to reduce the
+luminance.
+(
+a
+) (
+b
+)
+Figure 1. (a) A depiction of the moving stimuli used in all three experiments. A square-shaped patch
+of random dots moved on a stationary field of random dots. The dashed red outline shows the illusory
+borders of the stimulus and was not shown in the experiment. The red arrow shows the direction of
+motion. The red cross shows the fixation point. (b) The procedure used in the first experiment. The
+target and match stimuli were presented in alternation while the subjects used the mouse to change
+the speed of the match to be the same as the target. The dark area shows that half of the screen was
+covered with neutral density filters to reduce the luminance.
+1066 M Vaziri-Pashkam, P Cavanagh
+2.2 Results
+The speed of the match is plotted as a function of the speed of the target in Figure 2. The
+dashed line shows the veridical match (match speed = target speed), and the solid line
+demonstrates the final speed of the match stimulus. Results show that the perceived speed
+of the moving patch at low luminance is overestimated. A one-way repeated-measures
+ANOVA with target speed as the factor and the amount of speed overestimation calculated
+as the difference between the target speed and match speed as the dependant variable
+showed a significant effect of speed on the overestimation of speed at low luminance
+(F(2,6) = 27.6,p<0.01). We also ran a regression analysis with target speed as the predictor
+and matched speed as the dependant variable on each individual subject's data and then
+compared the slope values from this analysis to the slope of 1 using a one-sample t-test
+(otherwise known as a random effect analysis). Results showed a significant overestimation
+of speed: the slope of the regression line was significantly greater than 1 (slope = 1.3,
+t(4) = 7.87,p<0.01). Individually, only the speed increase at the highest speed, 27.36, was
+significantly greater than the veridical speed (t(4) = 5.98,p<0.05, corrected for multiple
+comparisons using the Bonferroni method). In conclusion, the results of this experiment
+replicate our previous findings (Vaziri Pashkam and Cavanagh 2008) with new stimulus
+parameters. We used these stimuli in the next experiment to investigate the effect of speed
+overestimation at low luminance on flash-lag effect.
+Figure 2. Results of experiment one. The final matched speed is plotted as a function of target speed.
+The dashed line shows the veridical value. Results showed that perceived speed is overestimated at low
+luminance and that this effect increases with stimulus speed. Error bars show standard error of mean.
+Flash-lag effect at low luminance 1067
+3 Experiment two
+This experiment was designed to investigate whether the overestimation of speed at low
+luminance affects the perceived position of a moving target when compared to a flashed
+reference. Using moving stimuli with different speeds and different luminance levels, we
+explored the extent to which the flash-lag effect is modulated by the perceived and real speed
+of the moving patterns. If the flash-lag effect is modulated by the perceived speed we predict
+an increase in the perceived flash-lag effect at low luminance; however, if the target speed
+that determines the flash-lag effect is not affected by the blur cue, there should be no change
+in the amount of flash-lag effect at low luminance.
+3.1 Methods
+3.1.1 Participants. Five subjects from previous experiment participated in this experiment.
+3.1.2 Apparatus. Same set up as the previous experiment was used for this experiment.
+3.1.3 Stimuli. A square-shaped patch of random dots moved on a stationary random dot
+background as in the previous experiment. The target started randomly at 7.6 degrees on one
+side of the screen and moved horizontally until it disappeared at 7.6 degrees on the opposite
+side and then reappeared again at the starting point. Each time the target patch reached the
+vertical meridian a small white square with the side of 0.76 degrees in size was flashed on the
+screen. The horizontal target trajectory was randomly presented above or below the fixation
+point at 5.7 degrees eccentricity. The flash was presented for 33.3 milliseconds (4 frames)
+along a horizontal line 3.4 degrees from fixation and on the opposite side of the fixation point
+from the target. During the four frames in which the flash was present, it was moved with
+the same velocity as the moving target. This movement was minimal, yet it was necessary to
+ensure that the physical distance between the target and flash was kept constant.
+3.1.4 Procedure. In each trial, subjects were asked to fixate on the red "+" and adjust the
+location of the flash after each trial until it was perceived to be vertically aligned with the
+target. The adjustment was made by moving the computer mouse to the left or right (Figure 3).
+The final adjusted location was registered when the subjects pressed the mouse button. The
+target was pseudo randomly selected to have one of three possible speeds (9.12, 18.24, or
+27.36 degrees/second), two possible directions (leftwards or rightwards), and two possible
+locations (below or above the fixation point). Each subject completed 4 blocks of 36 trials. In
+two of these blocks the top half of the screen was covered with 2.4 log unit neutral density
+filters and in the other two the bottom half was covered with 2.4 log unit neutral density
+filters.
+3.2 Results
+Figure 4 shows the results of the second experiment collected from all subjects. The amount
+of flash-lag effect is plotted as a function of the speed of the moving target. The solid
+red line shows the amount of flash-lag effect at high luminance, and the solid blue line
+demonstrates the amount of flash lag at low luminance. A two-way repeated-measures
+ANOVA with speed and luminance as the two factors showed a significant effect of speed
+(F(2,8) = 43.54,p<0.001) and no significant effect of luminance (F(1,4) = 3.01,p = 0.158)
+on the observed flash-lag effect and no interaction (F(2,8) = 1.5,p = 0.278). The dashed
+line shows the flash-lag effect that would be expected if the speed overestimation at low
+luminance had modulated the flash lag to the same extent as variations in the real speed. To
+calculate the expected values for each subject, we fitted a linear function to each subject's
+flash-lag data at high luminance. Then the effective speed was increased to match the
+overestimates measured at low luminance from the previous experiment. These adjusted
+speeds were then entered into the linear functions to predict the flash lag that should have
+1068 M Vaziri-Pashkam, P Cavanagh
+Figure 3. Procedure of experiment two. A random dot patch moved from one side of the screen to
+the other, and at the middle of its path a dot was flashed just above it. The subjects had to move the
+position of the dot using the computer mouse so that it appeared vertically aligned with the target.
+The red cross shows the fixation point.
+been seen at low luminance if the perceived speed determined the effect. The dashed line in
+Figure 4 shows the average of these predicted low-luminance values for all subjects. A two-
+way repeated-measures ANOVA showed a significant difference between the observed flash
+lag (solid blue line) and predicted flash lag from the perceived speed (dashed blue line) at low
+luminance (F(1,4) = 8.076,p<0.05). Moreover the predicted low-luminance flash lag (dashed
+blue line) was also significantly greater (F(1,4) = 14.195,p<0.05) than the observed flash lag
+at high luminance (solid red line). This shows that if the flash-lag effect had been modulated
+by the perceived speed, our statistical test would be able to detect the difference. A statistical
+power analysis for this comparison between the high luminance results and the predicted
+low luminance results (dashed blue line) found an observed power, , of 0.801, above the
+accepted criterion of 0.8 (Cohen 1992). This indicates that 5 subjects were sufficient for the
+effect of speed overestimation at low luminance to be significant if it had had the predicted
+strength. In conclusion, this experiment shows that the flash-lag effect is not modulated by
+changes in perceived speed at low luminance.
+4 Experiment three
+At low luminance the processing time required to perceive a visual object increases. If this
+increase in the perceptual latency at low luminance is different for the flash than for the
+moving patch, this could lead to a change in the flash-lag effect. One could claim that the
+flash lag indeed increases at low luminance due to an increase in perceived speed, but the
+differential change in the latency of the flash and the moving target could counteract it. To
+control for this, a further experiment was designed to compare the delay in the perception of
+the flash and the moving target caused by a reduction in luminance. To measure the delay of
+the flash, two dots were presented on the screen one at high and one at low luminance, and
+the subjects were asked to judge their simultaneity in time. To determine the delay in the
+perception of the moving patch, we measured the Pulfrich effect (Pulfrich 1922) on a moving
+Flash-lag effect at low luminance 1069
+Figure 4. Results of experiment two. The magnitude of the flash-lag effect is plotted as a function of
+target speed for high luminance (blue line) and low luminance (red line) stimuli. Results showed that
+reducing luminance did not significantly change the flash-lag effect. The dashed blue line shows the
+predicted flash lag if the magnitude of the lag had been modulated by the speed overestimation at low
+luminance. Both red line and blue line are significantly different from the dashed line. Error bars show
+between-subjects standard error of mean. Stars represent significant differences between the dashed
+blue lines and the red line, and the dashed blue line and the solid blue line.
+target that was presented at different luminance levels in the two eyes. The longer latency
+for the eye with low luminance generates a spatial lag of the moving target seen by that eye.
+When combined with the other eye's view, this spatial lag generates a binocular disparity that
+results in a depth percept. The amount of depth is a measure of the luminance-dependent
+delay.
+4.1 Methods
+4.1.1 Participants. Four subjects, two from the previous experiment and two new subjects,
+participated in this experiment. Their ages ranged between 18 and 35. All subjects had normal
+or corrected-to-normal vision.
+4.1.2 Apparatus. Same set up as the previous experiment was used for this experiment. For
+measuring the Pulfrich effect, a mirror and prism were used to separate the image that was
+presented to the left and right eye in order to induce stereovision.
+4.1.3 Stimuli and procedure. For comparing the delay in the perception of a flash at high and
+low luminance two flashes were presented, one above and one below the fixation point with
+the same size, eccentricity, and duration as the flashes presented in the second experiment
+(0.76 degree, 3.4 degree, and 33 ms, respectively). Half of the screen was covered with neutral
+density filters, and thus one of the flashes was presented at low and one at the high luminance
+area of the screen. Subjects were asked to change the relative timing of the two flashes until
+they were perceived to appear simultaneously on the screen. The relative timing was changed
+by moving the mouse to the left and right to change the timing of the dot below the fixation
+point to be earlier or later than the dot above the fixation point. The final match was registered
+when the subjects pressed the mouse button. Each subject completed four blocks of 10 trials.
+In two of these blocks the top half of the screen and in the other two the bottom half was
+covered with neutral density filters.
+1070 M Vaziri-Pashkam, P Cavanagh
+For comparing the delay in the perception of the moving patch of random dots at high
+and low luminance, two patches were presented, one to the left and one to the right eye on
+a background of stationary dots. The display was divided into two halves and each half of
+the display was presented to one eye using a mirror and prism. Two moving patches were
+presented to the left and right eye so that the subjects would perceive a single square moving
+above the fixation point at 5.7 degrees eccentricity. The speed of the two moving patches
+was chosen pseudo randomly from three possible speeds: 9.12, 18.24, or 27.36 degrees/s.
+The relative disparity of the two patches could be changed so that the fused patch would
+appear at different depth planes relative to the stationary background. On each trial the
+moving patch was presented at a random location in depth relative to the background, and
+the subjects were asked to change the relative depth so that the target was perceived to
+be at the same depth plane as the background. Subjects changed the depth plane of the
+target forward and backward by moving the mouse to the left and right, respectively, and
+the final match was registered when they pressed the space button on the keyboard. Each
+subject was trained on this task with equal luminance in both eyes for ten trials. In the actual
+experiment the right eye was covered with neutral density filters of 2.4 log units and each
+subject completed two blocks of 15 trials, with 5 trials for each target speed.
+4.2 Results
+Figure 5 shows the amount of the delay of the flash and moving target at low luminance
+compared with high luminance. The blue dot shows the perceptual delay of the flash at low
+luminance compared with high luminance. The red line shows the perceived delay of the
+moving target at low luminance compared with high luminance for the three target speeds.
+The delay of the moving target was calculated as:
+Delay = Ds/V (1)
+Where Ds is the final disparity between the stimuli presented to the left and right eye in
+degrees of visual angle that was required to null the depth, and V is the speed of the moving
+target in degrees/s.
+The results showed that as the speed of the stimulus increased, there was a significant
+decrease in the delay of the moving stimulus at low luminance (F(2,6) = 35.57,p<0.001)
+relative to high luminance. Consistent with these results, Nickalls (1996) has shown a decrease
+in Pulfrich effect at faster angular velocities with a rotating stimulus.
+The reason for the decrease in the latency at faster speeds is not well understood. In a
+neurophysiological study Anzai et al (2001) demonstrated that most neurons of the striate
+cortex jointly code motion and depth and that the response profile of these cells can account
+for the Pulfrich effect. One possibility is that these cells might be relatively more responsive
+(ie, have a higher firing rate and shorter response latency) to faster speeds at low luminance.
+This could be a consequence of the increasing contribution of magnocellular relative to
+parvocelluar responses at higher temporal frequencies and low luminance.
+One point that is worth noting is that even though the differential latency is the most
+widely accepted account of the Pulfrich effect, it is not the only one. Morgan (1977) has
+attempted to explain the Pulfrich effect based on the differential visual persistence and
+spatial averaging of the position information. According to this account, the position of the
+stimulus in each eye is shifted behind its actual position due to the spatial averaging of the
+actual object position and the motion smear introduces by visual persistence. An increase
+in persistence at low luminance introduces a disparity between the positions of the stimuli
+in the two eyes. The only way to reconcile this account with our data is to assume that the
+difference of the motion smear between high and low luminance is smaller at faster speeds
+Flash-lag effect at low luminance 1071
+Figure 5. Relative delay for low luminance versus high luminance stimuli as a function of speed. The
+blue dot shows the relative delay of the flashed stimulus, and the red line shows the relative delay
+of the moving stimuli for three speeds. The perceptual delay of the dim relative to bright moving
+stimuli decreased as the speed increased. The purple area above the dotted line through the relative
+dim-bright delay for the flash shows the delay values for the moving stimuli that will decrease the
+flash-lag effect, and the cyan area below the dotted line shows the delays that will increase the flash-lag
+effect. Error bars show standard error of mean.
+compared with slower speeds. We find this unlikely given that the motion blur increases at
+faster speeds, but this could be tested with further experiments.
+Regardless of the underlying mechanism, what we observe here is that the relative delay
+for the moving stimulus was similar to or less than that observed for the flash alone, showing
+that, if anything, these changes of relative latencies should have increased the flash-lag
+effect at low luminance, at least at higher speeds. However, in the second experiment, low
+luminance and the increased perceived speed did not increase the flash lag. Consequently,
+the lack of effect in Experiment 2 cannot be attributed to the change in differential latencies
+at high and low luminance. Note that from the data of the second experiment the average
+time lag of the flash relative to the moving stimulus at high luminance is approximately 23 ms.
+Therefore, if the flash-lag effect were purely determined by the time difference between the
+flash and moving stimulus, at low luminance we would have observed a significant increase
+in the magnitude of flash lag. These data suggest that the relative delays do not contribute to
+the flash lag or that some other factor has cancelled their effect.
+5 Discussion
+The first experiment showed that a linearly translating stimulus is perceived to move faster
+at low luminance than an otherwise identical stimulus at high luminance. This replicates
+earlier findings (Vaziri Pashkam and Cavanagh 2008) but importantly demonstrates that
+this effect is seen on the compact stimuli we needed for our flash-lag experiments. Our
+earlier experiments had used full-field or rotating stimuli. We also show again that the speed
+overestimation is larger at faster speeds of motion. The second experiment demonstrated
+that a standard flash-lag effect was seen with our moving patch of random dots and that
+the magnitude of the flash-lag effect increased as the speed of the moving target increased.
+1072 M Vaziri-Pashkam, P Cavanagh
+However, decreasing the luminance of the stimuli did not significantly change the magnitude
+of the flash-lag effect. Importantly, we showed that the expected change in the perceived
+speed due to low luminance was sufficient to produce a significant increase in the flash lag.
+Since it did not, we concluded that the blur cue that contributes to perceived speed does not
+contribute to the speed that determines the flash lag. In the third experiment it was shown
+that the differential change in the perceptual latency of the moving target and the flash at
+low luminance could not account for the results observed in the second experiment.
+The main finding of this series of experiments is that the flash-lag effect is independent of
+perceived speed when physical speed is held constant. This result has potential implications
+for both models of speed perception and the flash-lag effect.
+Despite the importance of speed perception for visually guided action, there are no widely
+accepted models of speed perception. Some models propose a normalization of motion
+energy by the stimulus contrast (Adelson and Bergen 1985). Hammet et al (2007) make the
+related proposal that speed is defined as the ratio of activity of the cells in magnocellular
+and parvocellular pathways. Others propose that spatiotemporal filters perform a Fourier
+analysis on the input image and extract the speed (Van Santen and Sperling 1984, 1985;
+Watson and Ahumada 1985). A number of articles have pointed out the secondary effects
+of motion, such as that motion blur can act as a cue to the direction of motion (Barlow and
+Olshausen 2004; Burr and Ross 2002; Geisler 1999), and as we have recently shown (Vaziri
+Pashkam and Cavanagh 2008), blur can also influence perceived speed. In particular, we
+(Vaziri Pashkam and Cavanagh 2008) have shown that the overestimation in the perceived
+speed at low luminance can be attributed to a longer motion blur due to an increase in the
+visual persistence at low light levels.
+Our results here demonstrated that the effects of motion on perceived position are
+not determined strictly by perceived speed. This suggests that multiple dissociable signals
+contribute to the sense of speed and that some of these cues, such as motion blur, contribute
+to perceived speed but not to the speed-related distortions in position perception such as
+the flash-lag effect.
+The underlying mechanism of flash-lag effect has been long debated in the literature.
+Here we will examine our results based on two of the most widely accepted models of flash
+lag--namely, latency difference and motion compensation.
+5.1 Latency difference
+Whitney and Murakami (1998) have suggested that the difference in the perceptual delay of a
+flash and a moving object causes the flash-lag effect. According to this account, if the time
+required for a moving object to reach perception is T, the time required for a flash to reach
+perception is longer (T + t), as moving stimuli are processed more efficiently than flashes.
+Thus, by the time the flash is perceived the moving object has moved to a new location,
+and therefore the flash is perceived to lag behind the moving object. The magnitude of this
+lag (d) will depend on the speed of moving objects (d = V  t, where V is the speed
+of motion), so with the same time difference t, an increase in speed would produce a
+larger perceived lag. According to this account, the speed of moving objects does not directly
+modulate the perceived flash lag, but it acts through the increased spatial lag seen for a
+constant temporal lag at faster speeds. In our last experiment we showed that the delay of the
+flash and the delay of the moving objects are both increased at low luminance. The amount
+of this increased delay was similar for both the flash and the moving objects at slow speeds,
+but the delay decreased as a function of speed for the moving stimulus. This would mean
+that the flash-lag effect, if it were solely a function of differential latency, should increase
+at higher speeds for the low luminance stimulus relative to the high luminance stimulus.
+Flash-lag effect at low luminance 1073
+However, we did not observe this, which means that a pure latency-based model of flash-lag
+effect cannot explain our results.
+5.2 Motion extrapolation
+Nijhawan (1994) proposed that the flash-lag effect occurs because the position of the
+moving objects is perceived ahead of their veridical position in order to compensate for
+the neural delay between the presentation of the stimulus and perception to facilitate motor
+reactions to current rather than past locations of moving objects. According to this account,
+speed dependence of the flash-lag effect is crucial, as a faster moving object needs to be
+compensated more than a slow one. In terms of this theory, our results suggest that the
+magnitude of the motion extrapolation is calculated based on motion signals that do not
+include the blur cue that increases perceived speed at low luminance. If we assume that
+the flash-lag effect reflects an attempt to maintain precise motor interactions with moving
+objects, the fact that the magnitude of the lag is modulated by the real speed rather than
+the perceived speed at low luminance supports the dissociation of perception and action
+proposed by Goodale and Milner (1992).
+5.3 Other models
+Other models have been proposed for the underlying mechanisms of flash-lag effect. Baldo
+and Klein (1995) appeal to the attention capture caused by the flash and suggest that during
+the time it takes to shift attention from the flash back to the moving object the object changes
+position and appears to precede the flash. Our results cannot speak strongly for or against
+this account, as there is no clear prediction for the effect of luminance on the speed of
+attentional shift. However, if we take into account the visual delay in the perception of the
+position of the moving objects after the attention shifts from the flash to the moving object,
+we could speculate that this model predicts an increase in the flash lag at low luminance at
+all speeds, but that is not what we observe here.
+Krekelberg and Lappe (2000) suggest that the flash-lag effect is caused by the position
+persistence of the flash and comparing the location of the moving object integrated over
+time with the last registered position of the flash. As in this model the temporal integration
+window is dissociated from and is presumed to be larger than the visible retinal persistence, it
+is hard to speculate about the predictions of this model for flash-lag effect at low luminance.
+If position persistence increases at low luminance (similar to visual persistence), then we
+would expect the flash-lag effect to increase at low luminance, but that is once again not
+observed here.
+Eagleman and Sejnowski (2007) in their "Postdiction" model of the flash-lag effect propose
+that flash resets the mechanisms of position integration and the position of the moving object
+after the flash is integrated and averaged for a period of about 80ms. This average position
+is then compared with the position of the flash, resulting in the flash-lag effect. This model
+also does not have clear predictions for the flash lag at low luminance. If the duration of the
+temporal integration after the flash changes at low luminance, we would expect a change in
+flash lag in the same direction.
+In summary, our data show that perceived location is not determined by perceived speed
+in the flash-lag effect. At low luminance the perceived speed is systematically overestimated,
+but the perceived location is not similarly affected. Among the current models of the flash-lag
+effect that make clear predictions for an effect of low luminance, none of them can fully
+account for this data. We suggest that there are multiple cues for the perception of speed,
+some of which are distorted at low luminance and others of which remain unchanged. A
+modified version of motion extrapolation model in which the extrapolation of position is
+calculated based on speed cues that are immune to luminance distortions would therefore
+be consistent with the observed flash-lag effect at low luminance.
+1074 M Vaziri-Pashkam, P Cavanagh
+Acknowledgements. This work was supported by grant EY009258 to Patrick Cavanagh from National
+Institute of Health.
+References
+Addams R, 1834 "An account of a peculiar optical phenomenon seen after having looked at a moving
+body" London and Edinburgh Philosophical Magazine and Journal of Science 5 373­374
+Adelson E H, Bergen J R, 1985 "Spatiotemporal energy models for the perception of motion" Journal
+of the Optical Society of America A 2 284­299 doi:10.1364/JOSAA.2.000284
+Anzai A, Ohzawa I, Freeman R D, 2001 "Joint-encoding of motion and depth by visual cortical
+neurons: neural basis of the Pulfrich effect" Nature Neuroscience 4 513­518
+Barlow H B, Olshausen B A, 2004 "Convergent evidence for the visual analysis of optic flow
+through anisotropic attenuation of high spatial frequencies" Journal of Vision 4 415­426
+doi:10.1167/4.6.1
+Baldo M V, Klein S A, 1995 "Extrapolation or attention shift" Nature 378 565­566 doi:10.1038/378565-
+a0
+Brainard D H, 1997 "The Psychophysics Toolbox" Spatial Vision 10 433­436 doi:10.1163/156856897-
+X00357
+Burr D C, Ross J, 2002 "Direct evidence that speedlines influence motion mechanisms" Journal of
+Neuroscience 22 8661­8664
+Cohen J, 1992 "A power primer" Psychological Bulletin 112 155­159 doi:10.1037/0033-2909.112.1.-
+155
+Di Lollo V, Bischof W F, 1995 "Inverse-intensity effect in duration of visible persistence" Psychological
+Bulletin 118 223­237 doi:10.1037/0033-2909.118.2.223
+Eagleman D M, Sejnowski T J, 2007 "Motion signals bias position judgments: A unified expla-
+nation for the flash-lag, flash-drag, flash-jump and Frohlich effects" Journal of Vision 7 1­12
+doi:10.1167/7.4.3
+Geisler W S, 1999 "Motion streaks provide a spatial code for motion direction" Nature 400 65­69
+doi:10.1038/21886
+Goodale M A, Milner A D, 1992 "Separate visual pathways for perception and action" Trends in
+Neurosciences 15 20­25 doi:10.1016/0166-2236(92)90344-8
+Hammett S T, Champion R A, Thompson P G, Morland A B, 2007 "Perceptual distortions of speed
+at low luminance: evidence inconsistent with a Bayesian account of speed encoding" Vision
+Research 47 564­568 doi:10.1016/j.visres.2006.08.013
+Krekelberg B, Lappe M, 2000 "A model of the perceived relative positions of moving objects based
+upon a slow averaging process" Vision Research 40 201­215 doi:10.1016/S0042-6989(99)00168-
+6
+Land M F, Nilsson D E, 2002 Animal eyes (New York: Oxford University Press)
+MacKay D, 1958 "Perceptual stability of a stroboscopically lit visual field containing self-luminous
+objects" Nature 181 507­508 doi:10.1038/181507a0
+Morgan M, 1977 "Differential visual persistence between the two eyes: A model for the Fertsch-
+Pulfrich effect" Journal of Experimental Psychology: Human Perception and Performance 3
+484­495 doi:10.1037/0096-1523.3.3.484
+Nickalls R W, 1996 "The influence of target angular velocity on visual latency difference
+determined using the rotating Pulfrich effect" Vision Research 36 2865­2872 doi:10.1016/0042-
+6989(96)00039-9
+Nijhawan R, 1994 "Motion extrapolation in catching" Nature 370 256­257 doi:10.1038/370256b0
+Pelli D G, 1997 "The VideoToolbox software for visual psychophysics: Transforming numbers into
+movies" Spatial Vision 10 437­442 doi:10.1163/156856897X00366
+Pulfrich C, 1922 "Die Stereoskopie im Dienste der isochromen und heterochromen Photometrie"
+Die Naturwissenschaften 10 569­574 doi:10.1007/BF01565573
+Purushothaman G, Patel S, Bedell H, Ogmen H, 1998 "Moving ahead through differential visual
+latency" Nature 396 424­424 doi:10.1038/24766
+Tootell R B, Reppas J B, Kwong K K, Malach R, Born R T, Brady T J, Rosen B R, Belliveau J W, 1995
+"Functional analysis of human MT and related visual cortical areas using magnetic resonance
+imaging" Journal of Neuroscience 15 3215­3230
+Van Santen J P, Sperling G, 1984 "Temporal covariance model of human motion perception" Journal
+of the Optical Society of America A 1 451­473 doi:10.1364/JOSAA.1.000451
+Van Santen J P, Sperling G, 1985 "Elaborated Reichardt detectors" Journal of the Optical Society of
+America A 2 300­321 doi:10.1364/JOSAA.2.000300
+Flash-lag effect at low luminance 1075
+Vaziri Pashkam M, Cavanagh P, 2008 "Apparent speed increases at low luminance" Journal of Vision
+8 1­12 doi:10.1167/8.16.9
+Watson A B, Ahumada A J, 1985 "Model of human visual-motion sensing" Journal of the Optical
+Society of America A 2 322­341 doi:10.1364/JOSAA.2.000322
+Wertheimer M, 1912 "Experimentelle Studien uber das Sehen von Bewegung. Zeitschrift fur Psy-
+chologie" 6 1 161­265
+White A, Linares D, Holcombe A, 2008 "Visuomotor timing compensates for changes in perceptual
+latency" Current Biology 18 R951-53
+Whitney D, Murakami I, 1998 "Latency difference, not spatial extrapolation" Nature Neuroscience 1
+656­657 doi:10.1038/3659
+Whitney D, Murakami I, Cavanagh P, 2000 "Illusory spatial offset of a flash relative to a moving
+stimulus is caused by differential latencies for moving and flashed stimuli" Vision Research 40
+137­149 doi:10.1016/S0042-6989(99)00166-2
+Whitney D, 2002 "The influence of visual motion on perceived position" Trends in Cognitive Sciences
+6 211­216 doi:10.1016/S1364-6613(02)01887-9
+Wojtach W, Sung K, Truong S, Purves D, 2008 "An empirical explanation of the flash-lag effect" Pro-
+ceedings of the National Academy of Sciences 105 16338­16343 doi:10.1073/pnas.0808916105
+Zeki S, 1991 "Cerebral akinetopsia (visual motion blindness): A review" Brain 114 811­824
+doi:10.1093/brain/114.2.811
+Maryam Vaziri Pashkam got her medical degree at Tehran Medical University in Iran in
+2005, after which she moved to United States to study psychology. During her graduate
+school she worked on speed perception and action at low light levels at the Vision Sciences
+Laboratory. She got her PhD in 2011 and since then has been a post-doc at Harvard
+Psychology Department investigating perceptual decision-making in human Parietal cortex
+using fMRI. She is interested in a wide range of topics in vision science, including visuo-
+motor interactions, decision-making, and attention.
+Patrick Cavanagh received a Bachelor of Engineering from McGill University in 1968. An
+interest in artificial intelligence led to a PhD in cognitive psychology from Carnegie-Mellon
+in 1972. He taught at the Université de Montréal in Psychology until 1989 and at the
+Department of Psychology at Harvard until 2007. He recently joined the faculty at the
+Université Paris Descartes.
+Copyright © 2011 M Vaziri-Pashkam, P Cavanagh
+Published under a Creative Commons Licence
+a Pion publication
+

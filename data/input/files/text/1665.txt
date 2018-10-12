@@ -1,0 +1,963 @@
+Prevalence of Early Childhood Caries Among Very Young
+Urban Boston Children Compared with US Children
+jphd_116 156..162
+Martha E. Nunn, DDS, PhD; Thomas Dietrich, DDS, MD, MPH; Harpreet K. Singh, BS, MPH;
+Michelle M. Henshaw, DDS, DPH; Nancy R. Kressin, PhD
+Abstract
+Objectives: The aims of this study were to compare prevalence of early child-
+hood caries (ECC) in 1- to 3-year-old children seeing primary-care pediatricians at
+two urban medical centers in Boston to the prevalence of ECC in similarly aged US
+children surveyed as part of the Third National Health and Nutrition Examination
+Survey (NHANES III) and to assess risk factors for ECC among this cohort of
+children compared with risk factors among similarly aged US children. Methods:
+Characteristics of 787 1- to 3-year-old children from two urban Boston medical
+centers were compared with those of 3,644 similarly aged US children surveyed as
+part of NHANES III. Demographic and social characteristics and ECC prevalence by
+putative risk factors were compared. A multiple logistic regression model was fit to
+assess putative risk factors and difference between groups simultaneously. Results:
+Race, age, previous dental visit, parents' education, and household income were
+significantly associated with ECC prevalence. Parents' place of birth was a signifi-
+cant effect modifier with lower ECC among Boston children of immigrants than
+among US children of immigrants. Conclusions: Lower ECC prevalence among
+urban Boston children of immigrant parents compared with US children of immigrant
+parents may reflect changing immigrant composition in the United States since
+NHANES III or a different immigrant composition in the Boston area compared with
+the United States. This finding reinforces the need for further research of immigrants
+in order to understand cultural practices that may affect oral health. Finally, low ECC
+prevalence among very young children reinforces the importance of early interven-
+tion in reducing ECC.
+Key Words: early childhood caries, oral health disparities
+Introduction
+Early childhood caries (ECC) is
+the most common chronic childhood
+disease (1) and is the most prevalent
+unmet health need among children
+in the United States (2,3). Untreated
+dental disease can result in pain and
+infection, impair speech, and lead to
+learning and eating problems (4).
+According to the 2000 US Surgeon
+General's report on oral health, over
+51 million hours of school are lost
+each year because of dental disease
+(5).
+Healthy People 2010 has set a
+target of reducing the proportion of
+children who have dental caries
+experience in their primary teeth to
+11 percent or less in response to the
+growing recognition of the negative
+impact of ECC on quality of life and
+overall health (1). Although ECC is
+generally first noted in primary max-
+illary incisors, it can rapidly spread to
+primary molars (6) and often leads to
+dental infection in the permanent
+dentition (7-10). Because treatment
+of ECC often requires extensive
+restorative services that necessitate
+the use of general anesthesia, treat-
+ment of a single case of ECC can cost
+up to $10,000 (11).
+Good prevalence data are lacking
+because of inconsistent definitions
+of ECC, the frequent use of specia-
+lized, unrepresentative samples (e.g.,
+dental clinic attenders), and the
+absence of very young children from
+most study samples (12,13). The
+available figures, however, clearly
+demonstrate disparities in prevalence
+of ECC: poor African-American,
+Latino, and Native American children
+have higher ECC prevalence than
+Caucasian children (14-17). A total of
+80 percent of all ECC is experienced
+by 24 percent of children, primarily
+from low-income families (3).
+Virtually all American children
+will visit a pediatrician several times
+by 3 years of age, making pediatri-
+cians ideally situated to play a vital
+role in improving the oral health of
+children. The American Academy of
+Pediatrics established a policy in
+2003 that every child should receive
+an oral health assessment (including
+caries risk assessment) by 6 months
+of age administered by a qualified
+pediatrician or pediatric health-care
+professional (18). Along with identi-
+fying general health problems and
+screening for oral health disease,
+pediatricians can advise parents on
+risk factors related to caries forma-
+tion even before a child's teeth begin
+to erupt and include anticipatory
+guidance on oral health-related
+Send correspondence and reprint requests to Dr. Martha E. Nunn, Boston University School of Dental Medicine, Department of Health Policy and
+Health Services Research, 715 Albany, 560, Boston, MA 02118. Tel.: 617-414-1156; Fax: 617-638-6381; e-mail: nunn@bu.edu. Martha E. Nunn is with
+the Department of Health Policy and Health Services Research, Boston University School of Dental Medicine, and Department of Family Medicine,
+Boston University School of Medicine. Thomas Dietrich is with the Department of Health Policy and Health Services Research, Boston University
+School of Dental Medicine, and Department of Oral Surgery, University of Birmingham. Harpreet K. Singh and Michelle M. Henshaw are with
+Department of Health Policy and Health Services Research, Boston University School of Dental Medicine. Nancy R. Kressin is with Department of
+General Internal Medicine, Boston University School of Medicine; Center for Health Quality, Outcomes, and Economic Research, Edith Nourse
+Rogers Memorial Veterans Hospital, Bedford; Department of Health Services, Boston University School of Public Health, Boston. Manuscript
+received: 7/7/08; accepted for publication: 11/8/08.
+Vol. 69, No. 3, Summer 2009
+156
+© 2008, American Association of Public Health Dentistry
+DOI: 10.1111/j.1752-7325.2008.00116.x
+topics at well-child care visits. In
+addition, a pediatric clinic is an ideal
+setting for assessing prevalence of
+ECC and its behavioral risk factors
+among very young children because
+virtually all children will visit a pedia-
+trician at some point prior to 3 years
+of age, while many will not have
+seen a dentist or dental care profes-
+sional at this young age.
+The purpose of the current study
+is to estimate ECC prevalence among
+1- to 3-year-old children sampled
+from pediatric clinics in two large
+urban medical centers and compare
+ECC prevalence among these chil-
+dren with similarly aged children
+who were surveyed as part of the
+Third National Health and Nutritional
+Examination Survey (NHANES III).
+Material and Methods
+Study Locations. Children were
+recruited from two major medical
+centers in Boston to participate in an
+ongoing intervention study of ECC,
+with one center serving as the test site
+and one center serving as the com-
+parison site. The Boston Medical
+Center (BMC) pediatric clinic was
+selected as one site to recruit patients
+because of its mission to serve under-
+served populations, including prima-
+rily African-American and Latino
+children. The hospital-based primary
+care pediatric clinical program at the
+Floating Hospital for Children is a
+component of the Tufts-New England
+Medical Center (NEMC), the other site
+selected. NEMC is located 1 mi away
+from BMC and serves a similar urban
+patient population in regard to socio-
+economic status and service to under-
+served populations, although NEMC
+sees a larger population of Asian-
+Americans. Although the clinic popu-
+lations vary in racial makeup, the
+clinics are similar in that both serve
+underserved populations, are both
+part of large university-based aca-
+demic medical centers that include
+pediatric residency training pro-
+grams, and are located in the same
+city.
+Subjects. Parents/caregivers of
+1- to 3-year-old children presenting
+for well-child visits were asked to
+participate in the study. Demo-
+graphic, socioeconomic, and behav-
+ioral information were collected from
+parents/caregivers who agreed to
+participate in the study. A brief non-
+invasive clinical examination using a
+penlight was conducted by a trained,
+calibrated dental hygienist at each of
+the two sites to assess the presence
+or absence of ECC.
+For the purpose of this study,
+only children who were at least 1
+year old were included because no
+information on oral health was avail-
+able for children younger than 12
+months from NHANES III. A total of
+787 children, 610 children from BMC
+and 177 children from NEMC, were
+included in the current study.
+All procedures, including forms
+for informed consent, for the study
+involving BMC and NEMC were
+approved by the respective Institu-
+tional Review Boards. Informed
+consent was obtained from parents
+or guardians of all children enrolled
+in the study. All procedures involved
+in the collection of data for NHANES
+III were approved by the National
+Center for Health Statistics Research
+Ethics Review Board.
+NHANES III. NHANES III is a
+survey conducted by the National
+Center for Health Statistics from 1988
+to 1994 based on a complex, multi-
+stage sample plan. It was designed to
+provide national estimates of the
+health and nutritional status of the
+United States' civilian, noninstitution-
+alized population aged 2 months
+and older. From 19,528 randomly
+selected households, 33,994 sub-
+jects were interviewed, 30,818 were
+examined in mobile examination
+centers, and 493 were examined at
+home. Examinations were performed
+by calibrated physicians and dentists,
+and extensive health, social, and
+nutritional histories were obtained by
+interviewing the subjects or their
+parents. Our analyses were restricted
+to children at least 1 year of age up
+to 50 months old, which corresponds
+to the oldest child sampled from the
+ECC study described above. All
+NHANES children included had a
+record for either nursing bottle caries
+(applies to children between 12 and
+24 months old) or a complete dental
+examination. A total of 3,644 US chil-
+dren from NHANES III were included
+for comparison with the children
+surveyed from two Boston urban
+medical centers.
+Definition of ECC. For the
+purpose of this study, ECC is defined
+to be at least one primary maxillary
+incisor with a cavitated lesion, or a
+primary maxillary incisor that is
+missing or filled because of dental
+caries. White lesions were not con-
+sidered for this study because they
+were not recorded in NHANES III.
+This definition for ECC corresponds
+to the definition for nursing bottle
+caries provided for children between
+12 and 24 months old in NHANES III.
+Statistical Analysis. Weighting
+was used to obtain population-based
+estimates of US children surveyed as
+part of NHANES III. Weights from
+NHANES III were normalized for the
+analysis in order to make the two
+groups more comparable. To make
+comparisons, children surveyed in
+the two Boston urban medical
+centers were grouped together and
+labeled "urban Boston." Frequency
+distributions for demographic and
+social variables were tabulated for
+both groups, and comparisons were
+conducted by using the chi-squared
+test of independence. Means and 95
+percent confidence intervals (CIs)
+were computed for dental variables
+[the number of primary teeth pre-
+sent, the number of restored teeth,
+the number of decayed teeth, the
+number of missing teeth, and
+number of decayed and filled teeth
+(dft) score] by group with compari-
+sons conducted by using one-way
+analysis of variance (ANOVA). In
+addition to making unadjusted com-
+parisons using one-way ANOVA,
+one-way analysis of covariance was
+used to compare dental variables
+with adjustment for age.
+ECC prevalence was tabulated for
+demographic and social variables
+with stratification by group. Com-
+parisons of prevalence between
+urban Boston children and US chil-
+dren for demographic and social
+variable were conducted by using
+logistic regression modeling with
+testing for effect modification.
+Early Childhood Caries in Boston Children 157
+To evaluate the difference in
+prevalence between urban Boston
+children and US children, a multiple
+logistic regression model was fit that
+included all putative risk factors that
+were significant at a = 0.05 level of
+significance. Testing for effect modi-
+fication was also conducted.
+Results
+Demographic and Social Vari-
+ables. The frequency distributions
+of selected demographic and social
+variables were tabulated by group
+and are presented in Table 1. The
+distribution of urban Boston children
+did not differ significantly by gender
+or Hispanic status from children in
+NHANES III. However, urban Boston
+children differed in racial composi-
+tion and age distribution from
+NHANES III with a significantly
+greater proportion of black children
+between the ages 1 and 2 years
+sampled in the urban Boston area. In
+addition, urban Boston children were
+significantly more likely to come
+from lower-income immigrant
+households with either no health
+insurance or only Medicaid than US
+children as a whole. However, the
+educational level of the parents/
+caregivers of Boston children tended
+to be greater than that of the parents/
+caregivers of US children. In addi-
+tion, Boston children were
+significantly less likely to have visited
+a dentist or to speak English at home
+than US children.
+Dental Variables. In children at
+least 2 years of age, summary statis-
+tics were calculated for the number
+of primary teeth present, the number
+of restored primary teeth, the
+number of decayed primary teeth,
+the number of missing primary teeth,
+and dft score by group (urban
+Boston children versus US children)
+and are presented in Table 2. When
+comparisons were conducted
+without adjustment for age, US chil-
+dren were found to have significantly
+more primary teeth, significantly
+more restored primary teeth, signifi-
+cantly more decayed primary teeth,
+significantly fewer missing primary
+teeth, and significantly greater dft
+score. When comparisons were con-
+ducted with adjustment for age, the
+only statistically significant difference
+detected was for missing primary
+teeth, with urban Boston children
+exhibiting significantly more missing
+primary teeth than US children do.
+ECC Prevalence. Overall ECC
+prevalence among 1- to 3-year-old
+urban Boston children was 3.0
+percent, while overall ECC preva-
+lence among 1- to 3-year-old US chil-
+dren was 6.3 percent, although this
+difference was not statistically signifi-
+cant when adjusted for age (P =
+0.158). ECC prevalence with stratifi-
+cation by group was calculated for
+selected demographic and social
+variables and is presented in Table 3.
+Overall ECC prevalence varied sig-
+nificantly by all demographic and
+social variables listed except for
+gender. In particular, greater preva-
+lence of ECC was noted among older
+children, Hispanic children, children
+Table 1
+Distribution of Demographic and Social Variables by Group
+Urban Boston (%)
+n = 787
+US children (%)
+n = 3644
+Gender (P = 0.837)
+Male 51.0 50.5
+Female 49.0 49.5
+Race (P < 0.001)
+White 25.0 78.3
+Black 66.8 17.4
+Other 8.1 4.3
+Hispanic (P = 0.156)
+Non-Hispanic 85.8 83.7
+Hispanic 14.2 16.3
+Age group (P < 0.001)
+1 year old 57.2 30.5
+2 years old 26.2 30.4
+3 years old 16.6 39.1
+Has the child ever been to the dentist?
+(P < 0.001)
+No 92.6 69.8
+Yes 7.4 30.2
+Child's health coverage (P < 0.001)
+Medicaid 57.1 28.8
+Private insurance 26.7 65.0
+No Medicaid or insurance 16.3 6.2
+Primary language spoken (P < 0.001)
+English 48.4 85.8
+Spanish 7.4 10.4
+Other 44.3 3.8
+Child's country of birth (P = 0.175)
+United States 96.9 97.7
+Other 3.1 2.3
+Parents' country of birth (P < 0.001)
+United States 37.5 80.2
+Other 62.5 19.8
+Parents' education (P < 0.001)
+Less than high school graduate 15.0 24.2
+High school graduate 36.2 33.9
+Some college 23.1 19.6
+College graduate and beyond 25.7 22.3
+Annual household income (P < 0.001)
+Less than $20,000 51.1 39.8
+$20,000 or More 48.9 60.2
+P-values are based on chi-squared test of independence. Weights from Third National Health and
+Nutrition Examination Survey were normalized.
+Journal of Public Health Dentistry
+158
+whose race was not white or black,
+children with a history of a dental
+visit, children without private health
+insurance (i.e., those with Medicaid
+or no health coverage), immigrant
+children or children of recent immi-
+grants, children of less-educated
+parents, and children from poor
+households.
+In addition to overall differences
+in ECC prevalence, significant effect
+modification was also detected for
+the difference in ECC prevalence
+between urban Boston children and
+US children for the following demo-
+graphic and social variables: a child's
+history of visiting the dentist, health
+coverage type, primary language
+spoken at home, parents' country of
+birth, and household income.
+Multiple Logistic Regression
+Analysis of ECC Prevalence. To
+further evaluate ECC prevalence in
+very young urban Boston children
+compared with that in US children, a
+multiple logistic regression model
+was fit with adjustment for putative
+confounding and effect modification
+with the final model presented in
+Table 4. Race, age, history of a child's
+visit to the dentist, parents' educa-
+tion, and annual household income
+were all significant predictors in the
+final model. In addition, parents'
+country of birth was a significant
+effect modifier. In particular, with
+adjustment for all confounding, ECC
+prevalence among urban Boston
+children whose parents were born in
+the United States was not signifi-
+cantly different from ECC prevalence
+among US children whose parents
+were born in the United States [odds
+ratio (OR) = 1.10 for US children with
+parents born in the United States
+versus urban Boston children with
+parents born in the United States]. In
+contrast, US children of immigrant
+parents were over twice the odds to
+exhibit ECC compared with US chil-
+dren of parents born in the United
+States (OR = 2.06; 95 percent CI:
+1.47-2.88), whereas urban Boston
+children of immigrant parents were
+only half the odds to exhibit ECC
+compared with urban Boston chil-
+dren of US parents (OR = 0.49; 95
+percent CI: 0.35-1.66), although this
+difference did not achieve statistical
+significance. In addition, children of
+immigrants in Boston demonstrated a
+significantly lower prevalence of ECC
+than that of children of immigrants
+throughout the United States, as rep-
+resented by NHANES III (OR = 0.21,
+95 percent CI: 0.08-0.61).
+Discussion
+When the distributions of demo-
+graphic and social characteristics of
+children sampled from two urban
+Boston medical centers were com-
+pared with those of US children, as
+represented by NHANES III, signifi-
+cant differences were detected,
+especially with respect to racial com-
+position and socioeconomic charac-
+teristics. In addition, although the
+comparison to US children was
+limited to those in the same age
+range, urban Boston children tended
+to be younger than over half of the
+children enrolled in the Boston study
+being under 2 years of age. Of par-
+ticular note, a significantly greater
+proportion of urban Boston children
+was found to be the children of
+recent immigrants compared with US
+children, with only 38 percent of
+parents of urban Boston children
+Table 2
+Summary Statistics for Dental Variables by Group (Limited to Children at Least 2 Years of Age)
+n
+Unadjusted model Adjusted model
+Mean 95% CI P* Mean 95% CI P
+No. of primary teeth
+Urban Boston 336 18.8 18.6 to 19.0 <0.001 19.1 19.0 to 19.3 0.087
+US children 2,532 19.4 19.3 to 19.4 19.3 19.2 to 19.3
+No. of restored teeth
+Urban Boston 336 0.00 -0.07 to 0.07 0.024 0.03 -0.04 to 0.11 0.190
+US children 2,532 0.09 0.06 to 0.12 0.08 0.06 to 0.11
+No. of decayed teeth
+Urban Boston 336 0.23 0.07 to 0.39 0.009 0.30 0.14 to 0.46 0.122
+US children 2,532 0.46 0.40 to 0.51 0.44 0.38 to 0.50
+No. of missing teeth
+Urban Boston 336 0.07 0.04 to 0.09 <0.001 0.07 0.04 to 0.10 <0.001
+US children 2,532 0.00 -0.01 to 0.01 0.00 -0.01 to 0.01
+dft Score
+Urban Boston 336 0.23 0.05 to 0.41 0.001 0.33 0.15 to 0.51 0.054
+US children 2,532 0.55 0.48 to 0.61 0.52 0.46 to 0.59
+No. of sealants
+Urban Boston 336 0.01 -0.02 to 0.04 0.949 0.01 -0.01 to 0.04 0.793
+US children 2,532 0.01 0.00 to 0.02 0.01 0.00 to 0.02
+* P-values are based on one-way ANOVA without adjustment for age. Weights from NHANES III were normalized.
+ P-values are based on one-way ANCOVA with adjustment for age. Weights from NHANES III were normalized.
+CI, confidence interval; dft, number of decayed and filled teeth; ANOVA, analysis of variance; ANCOVA, analysis of covariance; NHANES III, Third
+National Health and Nutrition Examination Survey.
+Early Childhood Caries in Boston Children 159
+born in the United States compared
+with 80 percent of parents of US
+children. In addition, urban Boston
+children were much less likely to
+have private health insurance than
+their US counterparts, with only 27
+percent of urban Boston children
+covered by private health insurance
+compared with 65 percent of US
+children.
+Significant differences in dental
+variables between urban Boston chil-
+dren and US children were detected
+when comparisons were made
+without adjustment. However, when
+adjustment was made for age, the
+only significant difference detected
+was for missing teeth, with urban
+Boston children having significantly
+more missing teeth than US children
+do. One reason for this difference
+may be misclassification because
+unerupted teeth may have inadvert-
+ently been recorded as missing.
+Differences in the prevalence of
+ECC among urban Boston children
+compared with US children were
+detected for a child's history of visit-
+ing the dentist, the child's type of
+health coverage, primary language
+spoken at home, parents' country of
+birth, and household income. In par-
+ticular, the prevalence of ECC among
+urban Boston children whose
+primary language was not English
+did not vary significantly from urban
+Boston children whose primary lan-
+guage was English (OR = 0.55, P =
+0.166), nor did the prevalence of
+ECC among urban Boston children of
+foreign-born parents vary signifi-
+cantly from urban Boston children of
+United States-born parents (OR =
+0.50, P = 0.093). This is in contrast to
+ECC prevalence of US children of
+foreign-born parents who had almost
+three times the odds of having ECC
+compared to US children of United
+States-born parents (OR = 2.7, P <
+0.001). Similarly, the odds of ECC
+among US children whose primary
+language spoken at home was not
+English were over three times the
+odds of ECC of US children whose
+primary language spoken at home
+was English (OR = 3.2, P < 0.001).
+These differences between urban
+Boston children surveyed for the
+current study and US children, as
+represented by NHANES III, would
+seem to indicate significant differ-
+ences in the characteristics of immi-
+grants in the urban Boston area
+compared with immigrants through-
+out the United States.
+Another characteristic where the
+ECC prevalence among urban
+Boston children varies significantly
+from US children is health insurance
+coverage. Urban Boston children
+without health insurance or who
+were on Medicaid were not signifi-
+cantly more likely to have ECC than
+urban Boston children with private
+health insurance (OR = 1.1, P =
+0.851). In contrast, US children
+without health insurance or who
+were on Medicaid were over three
+Table 3
+Distribution of Early Childhood Caries Prevalence by Group with
+Stratification by Demographic and Social Variables
+Urban Boston (%)
+n = 787
+US children (%)
+n = 3,644
+Gender (P = 0.765)
+Male 3.0 5.8
+Female 3.1 6.8
+Race (P = 0.181)
+White 3.6 5.2
+Black 2.7 8.3
+Other 4.7 17.9
+Hispanic (P = 0.438)
+Non-Hispanic 2.8 5.2
+Hispanic 4.5 11.8
+Age group (P = 0.097)
+1 year old 1.3 1.0
+2 years old 6.3 6.5
+3 years old 3.8 10.3
+Has child ever been to the dentist?
+(P = 0.006)
+No 1.7 7.6
+Yes 11.6 10.9
+Child's health coverage (P = 0.045)
+Medicaid 2.7 11.1
+Private insurance 2.9 3.6
+No medicaid or insurance 4.7 9.7
+Primary language spoken (P < 0.001)
+English 4.0 5.0
+Spanish 3.5 12.4
+Other 2.0 19.4
+Child's country of birth (P = 0.971)
+United States 3.2 6.0
+Other 0.0 20.7
+Parents' country of birth (P < 0.001)
+United States 4.4 4.9
+Other 2.3 12.3
+Parents' education (P = 0.204)
+Less than high school graduate 5.2 11.9
+High school graduate 2.9 6.6
+Some college 3.9 3.1
+College graduate and beyond 1.5 2.1
+Annual household income (P = 0.012)
+Less than $20,000 3.0 10.6
+$20,000 or More 3.1 3.4
+P-values are based on test for effect modification in logistic regression model comparing US
+children to urban Boston children. Weights from the Third National Health and Nutrition
+Examination Survey were normalized.
+Journal of Public Health Dentistry
+160
+times more likely to have ECC than
+US children with private health insur-
+ance (OR = 3.3, P < 0.001). One
+reason for this difference in ECC
+prevalence may be the larger propor-
+tion of very young children in the
+sample of urban Boston children
+compared with US children sampled
+for NHANES III where the distribu-
+tion was evenly divided among the
+age groups under investigation. This
+contention is supported by an
+increased prevalence of ECC that
+was noted for the more comprehen-
+sive definition of ECC that included
+both white lesions and cavitated
+lesions in our other work that
+described ECC prevalence in the
+BMC and the New England Medical
+Center Floating Hospital (OR = 2.02,
+P = 0.035). White lesions were not
+included in the current study
+because the operational definition of
+dental caries for NHANES III did not
+include white lesions. In other
+words, without intervention, the
+majority of these very young children
+with only white lesions would be
+expected to eventually develop cavi-
+tated lesions as they get older, which
+would then reflect the increased ECC
+prevalence among children with
+limited access to health care noted
+for US children.
+When all putative risk factors
+were considered simultaneously,
+race, age group, a child's previous
+visit to the dentist, the educational
+level of the parents, annual house-
+hold income, and US children of
+foreign-born parents were all found
+to be associated with ECC. Children
+whose race was other than black or
+white had a significantly higher
+prevalence of ECC than either white
+or black children. These results cor-
+respond to increased prevalence of
+ECC among Asian and Hispanic chil-
+dren compared with White and
+Black children reported by Shiboski
+et al. (17) Older children were also
+more likely to have ECC, as
+expected from the increased expo-
+sure of teeth in the oral cavity over
+time. Children who had previously
+visited the dentist were also more
+likely to have ECC, which supports
+a study by Huntington et al. (19),
+who noted a significantly greater
+prevalence of ECC among Hispanic
+children who had previously visited
+the dentist. Among these very young
+children, a history of visiting the
+dentist is likely related to a child's
+having already encountered dental
+problems as opposed to parents
+seeking preventive care for their
+children. Educational level of
+parents was also a significant risk
+factor for ECC with a greater preva-
+lence of ECC noted among children
+of less-educated parents, which is
+consistent with a study by Schroth
+and Moffatt (20) that reported a
+higher prevalence of ECC among
+children under 3 years of age with
+poorly educated mothers. Low
+income was also associated with
+increased odds of ECC, which is
+consistent with a study by Hallett
+and O'Rourke (21), who reported
+higher prevalence of ECC among
+lower-income households.
+A particularly interesting finding
+from the multiple logistic regression
+analysis was the difference in ECC
+prevalence among urban Boston
+children of foreign-born parents
+compared with ECC prevalence
+among US children of foreign-born
+parents. This difference may reflect
+the different composition of immi-
+grants in the Boston area compared
+with immigrants throughout the
+United States. According to a study
+by Cote et al. (22), the caries experi-
+ence of refugee children examined in
+the Boston area varied significantly
+by region of origin, with African
+children demonstrating significantly
+less caries experience than either
+children from Eastern Europe or
+US children. Reduced prevalence of
+ECC among children of foreign-born
+parents may reflect a greater concen-
+tration of these African refugees into
+the urban Boston population than of
+immigrants throughout the United
+States, as represented by NHANES
+III. In addition, following war in
+Somalia, Rwanda, and other areas of
+Africa, there is likely a much greater
+number of recent immigrants from
+Africa since NHANES III was con-
+ducted. Hence, the lower ECC preva-
+lence associated with urban Boston
+Table 4
+Multiple Logistic Regression for Early Childhood Caries
+Odds ratio
+95% confidence
+interval
+Race
+White 1.00
+Black 1.28 (0.89, 1.85)
+Other 2.97 (1.77, 4.99)
+Age group
+1 year old 1.00
+2 years old 3.26 (0.83, 12.7)
+3 years old 4.30 (1.10, 16.9)
+Has child ever been to the dentist?
+No 1.00
+Yes 1.99 (1.44, 2.76)
+Parents' education
+Less than high school graduate 1.00
+High school graduate 0.71 (0.50, 0.99)
+Some college 0.36 (0.22, 0.59)
+College graduate and beyond 0.22 (0.12, 0.41)
+Annual household income
+Less than $20,000 1.00
+$20,000 or more 0.48 (0.34, 0.68)
+Group and parents' country of birth
+Urban Boston and US birthplace 1.00
+Urban Boston and foreign birthplace 0.49 (0.35, 1.66)
+US children and US birthplace 1.10 (0.42, 2.88)
+US children and foreign birthplace 2.27 (0.85, 6.10)
+Early Childhood Caries in Boston Children 161
+children of foreign-born parents may
+also reflect the changing composition
+of immigrants into the United States
+since NHANES III was conducted.
+Conclusions
+When evaluated simultaneously,
+race, age, a child's previous dental
+visit, parents' educational level, and
+annual household income were all
+significantly associated with ECC
+prevalence in both samples.
+However, ECC prevalence among
+urban Boston children of foreign-
+born parents was significantly lower
+than ECC prevalence among US chil-
+dren of foreign-born parents. Lower
+ECC prevalence among urban Boston
+children of foreign-born parents may
+reflect the changing composition of
+immigrants into the United States
+since NHANES III was conducted or a
+different composition of immigrants
+in the Boston area compared with the
+United States as a whole. This finding
+reinforces the need for further
+research of immigrants in order to
+better understand positive and nega-
+tive cultural factors and practices that
+may affect oral health. Finally, the low
+ECC prevalence noted among very
+young urban Boston children rein-
+forces the role that primary care
+pediatricians and other pediatric
+health-care professionals may play in
+preventing ECC through early detec-
+tion and intervention.
+Acknowledgments
+The research reported here was
+supported by the Department of
+Veterans Affairs, Veterans Health
+Administration, Health Services
+Research and Development Service.
+Dr. Kressin is a Research Career
+Scientist (RCS202-0664), Department
+of Veterans Affairs, Health Services
+Research and Development Service
+at the Edith Nourse Rogers Memorial
+Veterans Hospital and was supported
+by NIH/NIDCR: U54 DE14264, K24
+DE00419, K23 DE00454.
+References
+1. US Department of Health and Human
+Services. Healthy people 2010: under-
+standing and improving health, 2nd ed.
+Washington, DC: US Government Print-
+ing Office; 2000.
+2. Newacheck PW, Hughes DC, Hung YY,
+Wong S, Stoddard JJ. The unmet health
+needs of America's children. Pediatrics.
+2000;105(4 Pt 2):989-97.
+3. Mouradian WE, Wehr E, Crall JJ. Dispari-
+ties in children's oral health and access to
+dental care. JAMA. 2000;284(20):2625-31.
+4. Edelstein BL. Disparities in oral health
+and access to care: findings of national
+surveys. Ambul Pediatr. 2002;2(2 Suppl):
+141-7.
+5. Satcher DS. Surgeon General's report on
+oral health. Public Health Rep. 2000;
+115(5):489-90.
+6. Tinalnoff N, O'Sullivan DM. Early child-
+hood caries: overview and recent find-
+ings. Pediatr Dent. 1997;19(1):12-6.
+7. Milgrom P, Weinstein P. Early childhood
+caries: a team approach to prevention
+and treatment. Seattle, WA: University of
+Washington. Continuing Dental Educa-
+tion; 1999.
+8. Johnsen DC, Schechner TG, Gersten-
+maier J. Proportional changes in caries
+patterns from early to late primary den-
+tition. J Public Health Dent. 1987;47:5-9.
+9. Kaste LM, Marianos D, Chang R, Phipps
+KR. The assessment of nursing caries and
+its relationship to high caries in the per-
+manent dentition. J Public Health Dent.
+1992;52:64-8.
+10. O'Sullivan DM, Tinanoff N. Maxillary
+anterior caries associated with increased
+caries risk in other primary teeth. J Dent
+Res. 1993;72(12):1577-80.
+11. Duperon DF. Early childhood caries: a
+continuing dilemma. J Calif Dent Assoc.
+1995;23(2):15-22.
+12. Drury TF, Horowitz AM, Ismail AI, Mae-
+rtens MP, Rozier RG, Selwitz RH. Diag-
+nosing and reporting early childhood
+caries for research purposes. A report of
+a workshop sponsored by the National
+Institute of Dental and Craniofacial
+Research, the Health Resources and Ser-
+vices Administration, and the Health Care
+Financing Administration. J Public Health
+Dent. 1999;59(3):192-7.
+13. Edelstein BL, Douglass CW. Dispelling
+the myth that 50 percent of U.S. school-
+children have never had a cavity. Public
+Health Rep. 1995;110(5):522-30.
+14. Milnes AR. Description and epidemiol-
+ogy of nursing caries. J Public Health
+Dent. 1996;56(1):38-50.
+15. Tang JM, Altman DS, Robertson DC,
+O'Sullivan DM, Douglass JM, Tinanoff N.
+Dental caries prevalence and treatment
+levels in Arizona preschool children.
+Public Health Rep. 1997;112(4):319-
+31.
+16. Barnes GP, Parker WA, Lyon TC Jr., Drum
+MA, Coleman GC. Ethnicity, location,
+age, and fluoridation factors in baby
+bottle tooth decay and caries prevalence
+of Head Start children. Public Health
+Rep. 1992;107(2):167-73.
+17. Shiboski CH, Gansky SA, Ramos-Gomez
+F, Ngo L, Isman R, Pollick HF. The asso-
+ciation of early childhood caries and
+race/ethnicity among California pre-
+school children. J Public Health Dent.
+2003;63(1):38-46.
+18. Hale KJ. American Academy of Pediatrics
+Section on Pediatric Dentistry. Oral health
+risk assessment timing and establishment
+of the dental home. Pediatrics. 2003;
+111(5 Pt 1):1113-6. [cited 10-22-2008].
+Available from: http://www.pediatrics.org/
+cgi/content/full/111/5/1113.
+19. Huntington NL, Kim IJ, Hughes CV.
+Caries-risk factors for Hispanic children
+affected by early childhood caries.
+Pediatr Dent. 2002;24(6):536-42.
+20. Schroth RJ, Moffatt ME. Determinants of
+early childhood caries (ECC) in a rural
+Manitoba community: a pilot study.
+Pediatr Dent. 2005;27(2):114-20.
+21. Hallett KB, O'Rourke PK. Social and
+behavioural determinants of early child-
+hood caries. Aust Dent J. 2003;48(1):27-
+33.
+22. Cote S, Geltman P, Nunn M, Lituri K,
+Henshaw M, Garcia RI. Dental caries of
+refugee children compared with US chil-
+dren. Pediatrics. 2004;114(6):e733-40.
+Journal of Public Health Dentistry
+162
+

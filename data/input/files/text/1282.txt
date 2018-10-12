@@ -1,0 +1,678 @@
+BioMed Central
+Page 1 of 7
+(page number not for citation purposes)
+BMC Public Health
+Open Access
+Research article
+Enforcement of underage sales laws as a predictor of daily smoking
+among adolescents ­ a national study
+Joseph R DiFranza*, Judith A Savageau and Kenneth E Fletcher
+Address: Department of Family Medicine and Community Health, 55 Lake Avenue, University of Massachusetts Medical School, Worcester,
+Massachusetts, USA
+Email: Joseph R DiFranza* - difranzj@ummhc.org; Judith A Savageau - Judith.Savageau@umassmed.edu;
+Kenneth E Fletcher - Kenneth.Fletcher@umassmed.edu
+* Corresponding author Equal contributors
+Abstract
+Background: With a goal to reduce youth smoking rates, the U.S. federal government mandated
+that states enforce laws prohibiting underage tobacco sales. Our objective was to determine if state
+compliance with tobacco sales laws is associated with a decreased risk of current daily smoking
+among adolescents.
+Methods: Data on tobacco use were obtained from a nationally representative sample of 16,244
+adolescents from the 2003 Monitoring the Future survey. The association between merchant
+compliance with the law from 1997­2003 and current daily smoking was examined using logistic
+regression while controlling for cigarette prices, state restaurant smoking policies, anti-tobacco
+media, and demographic variables.
+Results: Higher average state merchant compliance from 1997­2003 predicted lower levels of
+current daily smoking among adolescents when controlled for all other factors. The odds ratio for
+daily smoking was reduced by 2% for each 1% increase in merchant compliance. After controlling
+for price changes, media campaigns and smoking restrictions, a 20.8% reduction in the odds of
+smoking among 10th graders in 2003 was attributed to the observed improvement in merchant
+compliance between 1997 and 2003. A 47% reduction in the odds of daily smoking could be
+attributed to price increases over this period.
+Conclusion: Federally mandated enforcement efforts by states to prevent the sale of tobacco to
+minors appear to have made an important contribution to the observed decline in smoking among
+youth in the U.S. Given similar results from long-term enforcement efforts in Australia, other
+countries should be encouraged to adopt the World Health Organization Framework on Tobacco
+Control strategies to reduce the sale of tobacco to minors.
+Background
+Starting in 1987, public health advocates in the U.S. began
+to pursue a supply-side strategy to reduce smoking among
+adolescents by making it more difficult for youth to pur-
+chase tobacco [1]. Initial efforts to enforce laws that pro-
+hibit the sale of tobacco to minors occurred at the
+community level and consisted of routine inspections of
+retailers through test purchases conducted by underage
+decoys [2]. In uncontrolled studies, declines in adolescent
+smoking of 8%,[3] 26%,[4] 31%,[5] 44%[6] and 50%
+Published: 17 April 2009
+BMC Public Health 2009, 9:107 doi:10.1186/1471-2458-9-107
+Received: 16 September 2008
+Accepted: 17 April 2009
+This article is available from: http://www.biomedcentral.com/1471-2458/9/107
+© 2009 DiFranza et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+BMC Public Health 2009, 9:107 http://www.biomedcentral.com/1471-2458/9/107
+Page 2 of 7
+(page number not for citation purposes)
+[2,7] have been reported with interventions to prevent
+tobacco sales to youth. In controlled studies, communi-
+ties with strong enforcement have seen relative reductions
+in youth smoking of 28%, [8,9] 44%, [10] and in three
+studies, 50% [11-13] and 70% [14]. Seven multivariate
+studies have shown a favorable impact of youth access
+laws on adolescent smoking when controlled for price or
+other tobacco control policies [15-21].
+Following reports of substantial reductions in youth
+smoking achieved by local enforcement [2,5,6], the U.S.
+federal government enacted the Synar Amendment that
+requires states to enact and enforce laws prohibiting the
+sale of tobacco to minors [22]. Although the World
+Health Organization Framework Convention on Tobacco
+Control recommends efforts to reduce the supply of
+tobacco to youth [23], to our knowledge, extensive
+enforcement efforts have so far been adopted only in the
+U.S., Canada and Australia, and all three countries have
+observed substantial and unprecedented reductions in
+smoking among youth [13,24,25]. Additional strategies to
+reduce the availability of tobacco to minors include bans
+on cigarette vending machines and price increases
+achieved through taxation and litigation. Demand reduc-
+tion strategies for adolescents include bans on tobacco
+advertising and promotions, package warning labels, anti-
+tobacco education and mass-media programs, and efforts
+to remove smoking imagery from films.
+The impact of tobacco sales law enforcement has never
+before been evaluated in a national study, although suc-
+cessful results from a long-term regional study in Australia
+are in press [13]. Prior to the Synar Amendment going
+into effect in 1996 [26], compliance with tobacco sales
+laws was uniformly poor across the U.S. [27]. Subsequent
+to the Synar mandate, states instituted enforcement
+involving test purchases (compliance tests) and fines [28].
+Mandatory annual state progress reports document
+marked improvement in compliance in 49 states between
+1997 and 2003 [29]. Over these years, the prevalence of
+daily smoking among 10th graders fell 51% nationwide
+from 18.0% to 8.9% [30]. At the same time, states began
+to adopt clean indoor air policies [31], the tobacco indus-
+try settled a large suit and raised prices [32,33], and a
+national anti-tobacco media campaign was launched in
+2000 [34]. The purpose of this study was to determine if
+average state-level compliance from 1997 to 2003 predicts
+current daily smoking among 10th graders in 2003, while
+considering the effects of price, clean indoor air policies,
+and anti-tobacco media.
+Methods
+We studied the natural experiment resulting from geo-
+graphic variations in youth's exposure to interventions.
+Prospectively collected compliance data from 1997­2003
+was used with data on price, smoking policies, and a
+media campaign to determine the impact of each on the
+odds that a youth was a daily smoker while controlling for
+age, gender, race, Hispanic ethnicity and parental educa-
+tion.
+Population
+We used the most current data (spring of 2003) from the
+Monitoring the Future study (MTF), an annual survey con-
+ducted in compliance with human subjects protections
+[30]. Thirty-six states were included in a multi-stage pro-
+portional sampling strategy with weighting to render a
+nationally representative sample [30]. It should be noted
+that the MTF sample is not representative of states and
+state is not a cluster factor in the sample design. The sur-
+vey was completed by 16,300 10th graders (age range 15­
+17 years) reflecting a participation rate of 88%. Sociode-
+mographic information was available for state of resi-
+dence, and student-reported measures of age, gender, race,
+ethnicity, and parental education. Race was dichotomized
+as white/nonwhite and ethnicity as Hispanic/non-His-
+panic. The MTF database includes a parental education
+variable that is based on the average of maternal and
+paternal education coded into 11 levels. As the MTF data
+do not measure smoking prevalence by state, a state-level
+analysis was not possible. For each state, data concerning
+merchant compliance, cigarette prices, restaurant smok-
+ing policies, and anti-tobacco media for each year from
+1997 to 2003 were obtained.
+Outcome Variables
+Although the MTF survey also includes 8th and 12th grad-
+ers, we chose to focus on 10th graders based on the consid-
+eration that very few 8th graders purchase tobacco, and by
+the 12th grade most youth can legally purchase it [8]. We
+considered ever having tried smoking and current daily
+smoking (smoking in the previous 30 days) as outcome
+variables. Only 1% of youth purchase their first cigarette,
+so enforcement would impact ever having tried smoking
+only indirectly and we did not expect positive results [35].
+Among current smokers, those who smoked daily would
+be the most directly affected by enforcement programs
+since youth do not typically begin to purchase their own
+tobacco until they are daily smokers (smoking at least one
+cigarette per day) [8].
+State Compliance Rates
+The Synar Amendment requires states to conduct annual
+surveys to measure merchant compliance [26]. The sur-
+veys are conducted by sending underage decoys into
+stores to attempt to purchase tobacco. The surveys include
+a representative statewide sample of tobacco retailers and
+produce a compliance rate which indicates the percentage
+of merchants in compliance (with a 95% confidence inter-
+val of no more than +/- 3%). State protocols vary in
+BMC Public Health 2009, 9:107 http://www.biomedcentral.com/1471-2458/9/107
+Page 3 of 7
+(page number not for citation purposes)
+aspects that influence the measured rate of compliance
+such as the age of the youths and whether they offer proof
+of age [36-38]. The first year in which all states collected
+compliance data was 1997 [39]. Compliance data were
+obtained from the Center for Substance Abuse Prevention
+[39]. Eight compliance variables were created: 7 for the
+federal fiscal years 1997­2003, and 1 for the 7-year aver-
+age.
+Price
+The Tax Burden on Tobacco provides quarterly prices
+(including taxes), by state, adjusted for inflation to 1983
+dollars [32]. Since youths rarely purchase generic
+brands,[35] the price with generics excluded was used.
+The average price was computed for the 12 months pre-
+ceding the MTF survey in the 2nd quarter of each year.
+Eight variables were created, one for each year from 1997­
+2003, and one for the 7-year average.
+Restaurant Smoking Policies
+State restaurant smoking policy data were obtained from
+the Centers for Disease Control and Prevention [31]. Too
+few states had banned restaurant smoking by 2003, so a
+policy variable was created for each year, such that any
+statewide restriction on restaurant smoking was assigned
+a value of 1 and no restrictions, a zero. An eighth variable
+represented the 7-year average. We did not include local
+restrictions on restaurant smoking as only 1% of the
+national population were covered by such ordinances
+during the study period (compared to over 50% for state
+level regulations), and the completeness of the available
+databases could not be verified [40].
+Anti-Tobacco Media Exposure
+The American Legacy Foundation graciously shared data
+concerning expenditures in each of 200 designated market
+areas in the U.S. for their national anti-tobacco media
+campaign for each year from 2000 to 2003. Market buys
+were used as an indirect measure of exposure to the cam-
+paign. Four variables were computed representing spend-
+ing in each of the four years, plus a fifth variable, the four-
+year average.
+Statistical Analyses
+For all analyses the outcome was smoking by individual
+subjects (ever used tobacco, or daily smoking). Subjects
+were assigned values for compliance, price, policy and
+media variables based on the location of their school. Age,
+gender, race, ethnicity and parental education (demo-
+graphic variables) were forced into each logistic regression
+analysis as independent variables because these have each
+been identified as smoking risk factors in prior studies,
+because parental education is a good proxy for parental
+smoking status, and because states vary on several of these
+factors [41]. Regressions were initially run for each annual
+compliance, price, policy, and media variable individu-
+ally. The 7 annual variables for compliance, or price, or
+policy, and the 4 annual variables for media could not be
+included together because values from one year to the
+next were highly correlated and this created issues with
+multi-colinearity. For example, almost all states had the
+same restaurant smoking policy for each of the 7 years. We
+next conducted a separate regression for each multi-year
+average variable. As none of the media or policy variables
+were significant at p < 0.20 in the preceding models, they
+were not included in the final model. Thus, the final
+model included 'average compliance', 'average price' and
+the sociodemographic variables. All results were weighted
+to provide a nationally representative sample. Analyses,
+using Proc SurveyLogistic in SAS,[42] included clustering
+by school (as state was not a cluster variable in the MTF
+sampling strategy).
+Ethics
+Our analysis was exempt from ethical review as it was a
+secondary analysis of de-identified data. The MTF study is
+conducted in compliance with ethical approval from the
+University of Michigan.
+Results
+There were 16,244 subjects of whom 99.4% were between
+15 and 17 years of age (range = 10­18; mean = 15.6);
+51.4% were female; 62.8% White, 16.7% Black, 11.6%
+Hispanic and 8.9% other races. Smoking in the past 30
+days was reported by 16.7% and current daily smoking by
+8.9%.
+The proportion of subjects in states with restaurant poli-
+cies was 52.9% in 1997 and 53.8% in 2003. Between 1997
+and 2003, the population-weighted mean compliance
+rate for the 36 MTF states increased from 77.2% to 87.6%,
+the standard deviation (SD) decreased from 8.76 to 4.61,
+and the range decreased from 53.3 to 19.9, reflecting
+decreased variability between states. Over the same years,
+the population-weighted mean inflation-adjusted price
+increased from $1.27 to $2.21 in 1983 dollars, the SD
+increased from $0.17 to $0.32, and the range grew from
+$0.74 to $1.38, reflecting increasing variability.
+When average compliance, average price and average res-
+taurant policy were included in a single model, the impact
+of compliance on having ever used tobacco was not signif-
+icant (p = 0.07) even prior to adjusting for clustering, so
+subsequent analyses were limited to current daily smok-
+ing. With all demographic variables included in one
+model, the odds of current daily smoking was related to
+increased age (OR = 1.40, 95% CI: 1.28­1.56, p <
+0.0001), decreased parental education (OR = 0.96, 95%
+CI: 0.95­0.96, p < 0.0001), and white race (OR = 2.29,
+95% CI: 1.95­2.70, p < 0.0001), but not to gender or His-
+BMC Public Health 2009, 9:107 http://www.biomedcentral.com/1471-2458/9/107
+Page 4 of 7
+(page number not for citation purposes)
+panic ethnicity. The 7-year average compliance from
+1997­2003 predicted daily smoking in 2003 (OR = 0.98
+for each 1% increase in compliance, 95% CI: 0.96­0.99, p
+= 0.04). The 7-year average price was also a significant pre-
+dictor (OR = 0.49 for each dollar increase in price, 95%
+CI: 0.29­0.83, p = 0.007). Average policy and media were
+not significant predictors of daily smoking among 10th
+graders. When both compliance and price were included
+together in the final model (table 1; adjusting for age, gen-
+der, race, ethnicity and parental education), the results did
+not differ from the models that considered these variables
+separately.
+Population impact
+We performed a calculation to determine how daily
+smoking rates would have been impacted by changes in
+price and compliance that occurred from 1997 to 2003.
+The odds of current daily smoking declined by 2% for
+each 1% increase in average compliance, and declined by
+1% for each two cent increase in average price. Using state
+adolescent census data, we computed that the population-
+weighted average compliance increased by 10.4 percent-
+age points from 1997 to 2003. Given a 2% decrease in the
+risk of smoking for each 1% increase in compliance, we
+calculate that the odds of daily smoking were reduced by
+an estimated 20.8% due to improved compliance. At the
+same time, the population-weighted price increased by 94
+cents, reducing the odds of daily smoking by 47%. So it
+can be estimated that under the compliance and price
+conditions pertaining in the U.S. from 1997­2003, price
+increases had twice the impact as changes in compliance,
+but both factors likely contributed to the lower smoking
+rates observed in 2003.
+Discussion
+This analysis of national data covering 7 years indicates
+that improvements in merchant compliance that were
+measured in the U.S. from 1997­2003 as states complied
+with the Synar Amendment predicted a 20.8% reduction
+in daily smoking among 10th graders in 2003. Prior to the
+Synar Amendment, compliance with tobacco access laws
+was quite low [27]. Although a few states acted of their
+own initiative, there is no doubt that the Synar Amend-
+ment with its threat of financial penalties for states was
+the prime motivator for most states to enforce their laws
+[26,29]. This is the first study to document that the Synar
+Amendment achieved its intended effect of reducing ado-
+lescent smoking.
+The current study adds to a substantial body of evidence
+that demonstrates that improvements in merchant com-
+pliance are associated with reduced daily smoking among
+adolescents [43]. This is the first study to demonstrate an
+effect of enforcement of tobacco sales laws on a national
+level. This is important because of concerns that only iso-
+lated rural communities could be successful in this regard.
+This U.S. national study demonstrates that this approach
+can be effective across an area encompassing wide geo-
+graphical and demographic variety.
+Several early attempts to reduce youth's access to tobacco
+failed. Three studies of local ordinances found no impact
+on youths' smoking [44-46], but these concerned very
+short-lived, local interventions that failed to convince
+merchants to obey the law. Other interventions discour-
+aged smoking only among the youngest youth who have
+the most difficulty purchasing tobacco [45,47,48].
+Because the positive and negative studies implemented
+different types of intervention, the positive studies are not
+canceled out by the negative studies. With so many posi-
+tive studies as cited in the background section, there is no
+question that youth access interventions are capable of
+reducing smoking among youth. The important research
+questions concern what are the crucial components of an
+effective intervention? To date, all successful enforcement
+programs have relied upon the use of underage decoys to
+attempt to purchase tobacco [28]. No other method of
+enforcement has demonstrated effectiveness.
+Inaccuracy in the measurement of compliance results in
+misclassification of exposure status, increasing the risk of
+failing to detect a real effect. Thus, the fact that compli-
+ance checks conducted by decoys are a poor measure of
+the ability of real underage smokers to purchase
+tobacco,[49] that states used different aged youth and dif-
+ferent protocols to measure compliance, that states have
+used 14 different protocol procedures that might bias
+their surveys to produce artificially high compliance
+rates,[50] and that statewide compliance rates mask sub-
+stantial variability in the compliance rates experienced by
+youths living in different communities within a state, all
+worked to obscure the association between true compli-
+ance and youth smoking.
+We did not see an impact of compliance on ever having
+tried tobacco which declined by 28% between 1997 and
+2003, about half the decline of 51% observed for daily
+Table 1: The effect on current daily smoking of average
+compliance and price from 1997­2003 in a multiple logistic
+regression adjusting for age, gender, race, ethnicity, and parental
+education, in a U.S. national survey, 2003.
+OR* 95% CI p
+Average Compliance 1997­2003 0.98 .96­.99 0.04
+Average Price 1997­2003 0.55 .37­.90 0.02
+Age 1.38 1.2­1.6 <0.0001
+White race 2.3 1.8­2.8 <0.0001
+Parental education 0.96 .95­.97 <0.0001
+* Odds Ratios for each 1% increase in merchant compliance, for each
+$1.00 increase in inflation-adjusted price, and for each year of age.
+Average policy was not a significant predictor. Intercept -3.48, p =
+0.025.
+BMC Public Health 2009, 9:107 http://www.biomedcentral.com/1471-2458/9/107
+Page 5 of 7
+(page number not for citation purposes)
+smoking [24]. Daily smokers are more likely to purchase
+their own tobacco and would therefore be the primary tar-
+get for restrictions on tobacco sales [8]. The lower rate of
+decline in ever trying tobacco is consistent with the lack of
+an observed impact from enforcement. Novice smokers
+obtain their cigarettes by begging from friends and do not
+typically spend their own money purchasing cigarettes
+until they feel a need to smoke every day. Daily smokers
+make most tobacco purchases and win friends by supplying
+peers with cigarettes. Thwarting the sale of tobacco to youth
+affects daily smokers directly and nondaily smokers mostly
+indirectly as daily smokers become less willing to share
+when it becomes difficult for them to purchase [8,51].
+Several study limitations must be noted. The absence of evi-
+dence for an impact of the media campaign may result
+from design limitations as others have seen an impact from
+this campaign using a well-controlled prospective design
+[34]. We were unable to control for state expenditures on
+anti-tobacco programs other than Synar compliance,
+because no state dichotomizes tobacco control funding as
+Synar/nonSynar. Controlling for total state tobacco control
+funding without excluding funding for Synar compliance
+would produce an obvious confound with state compli-
+ance rates. The survey relied on self-reported tobacco use.
+Our prior studies have shown excellent reliability in self-
+reported cigarette smoking among U.S. adolescents [52].
+Further limitations were our inability to control for local
+programs or tobacco policies. The measure of media expo-
+sure did not capture local or state programs. Since this was
+a national study, it is unlikely that isolated local programs
+could have impacted the results.
+An unidentified factor associated with both merchant
+compliance rates and youth smoking rates could produce
+confounding. If anti-tobacco states were faster, or
+tobacco-growing states were slower to implement Synar,
+merchant compliance might be a proxy for attitudes
+toward smoking. A state-by-state review of factors associ-
+ated with compliance with the Synar Amendment from
+1995­2004 did not identify any sources of confounding
+[28]. Price is a barometer of state tobacco sentiment and
+the impact of compliance was absolutely unchanged
+when controlled for price.
+Important strengths of this study include the large nation-
+ally representative sample, and the long period over
+which the impact of compliance was assessed. This is
+important as several years of impaired access may be nec-
+essary before effects are evident among older adolescents
+[12]. The adjustment for price, restaurant smoking poli-
+cies, anti-tobacco media campaigns, age, gender, race, eth-
+nicity and parental education are additional strengths.
+Enforcement carries a resource cost, so it is important to
+consider whether the benefits outweigh the costs. The cost
+per year of life saved for youth access enforcement in the
+U.S. has been estimated at $660 per year of life saved (dis-
+counted at 3% annually) for a program that costs $150/
+retailer per year and results in a 10% reduction in the prev-
+alence of smoking [53]. For comparison purposes,
+Woodridge, Illinois reported an annual cost of enforce-
+ment of $16/retailer per year [53]. The actual annual cost
+to states of implementing the Synar Amendment is
+unknown even to them, [53] but if we allow for a gener-
+ous education and enforcement budget of $150/tobacco
+retailer for a state-run program, our calculated 20.8%
+reduction in the odds of current smoking equates to a cost
+of $330 per year of life saved. This compares favorably to
+the cost of colorectal cancer screening at $10,000­
+$25,000,[54] or annual mammography for women ages
+40 to 80 at $40,000 per year of life saved, all discounted
+at 3% annually [55]. For developing countries with lim-
+ited resources, enforcement of tobacco sales laws presents
+an attractive, low-cost approach to saving lives. Almost
+the entire cost of an enforcement program is labor, so in
+countries with lower labor costs than the U.S., the
+expenses will be much lower than those used for these cal-
+culations.
+Conclusion
+Our data indicate that improving merchant compliance
+with the prohibition on sales of tobacco to minors and
+increasing the price of cigarettes discourage youth smok-
+ing. Our data suggest that an absolute increase in com-
+pliance of 25 percentage points has about the same
+deterrent effect as increasing the price by $2.00 in 2006
+dollars ($1.00 in 1983 dollars). But there is no reason
+why policy makers should choose between these
+approaches, as all effective measures to reduce smoking
+among youth should be employed. The revenue gener-
+ated by a two-cent per pack tax on cigarettes would be
+sufficient to fully fund a comprehensive enforcement
+program [53]. The World Health Organization Frame-
+work Convention on Tobacco Control recommends that
+states raise prices and enforce restrictions on the sale of
+tobacco to minors [23]. Ours is the first study to demon-
+strate that such a program can be effective on a national
+level to reduce smoking.
+Competing interests
+The authors declare that they have no competing interests.
+Authors' contributions
+JRD conceived of the study, obtained funding and wrote
+the manuscript. JAS and KEF supervised the data analysis
+and contributed to editing the manuscript.
+Acknowledgements
+This project was funded by the Robert Wood Johnson Foundation, Sub-
+stance Abuse Policy Research Program. The Monitoring the Future study
+was funded by a grant from the National Institute on Drug Abuse.
+BMC Public Health 2009, 9:107 http://www.biomedcentral.com/1471-2458/9/107
+Page 6 of 7
+(page number not for citation purposes)
+References
+1. DiFranza JR, Norwood BD, Garner DW, Tye JB: Legislative efforts
+to protect children from tobacco. JAMA 1987,
+257(24):3387-3389.
+2. Jason L, Ji P, Anes M, Birkhead S: Active enforcement of cigarette
+control laws in the prevention of cigarette sales to minors.
+JAMA 1991, 266:3159-3161.
+3. Dent C, Biglan A: Relation between access to tobacco and ado-
+lescent smoking. Tobacco Control 2004, 13:334-338.
+4. DiFranza JR: Adolescents' acquisition of cigarettes through
+noncommercial sources. [comment]. Journal of Adolescent
+Health 2003, 32(5):331-332.
+5. Hinds M: Impact of a local ordinance banning tobacco sales to
+minors. Public Health Reports 1992, 107:355-358.
+6. DiFranza J, Carlson R, Caisse R: Reducing youth access to
+tobacco. Tobacco Control 1992, 1:58.
+7. Jason L, Billows W, Schnopp-Wyatt D, King C: Long-term findings
+from Woodridge in reducing illegal cigarette sales to older
+minors. Evaluation and the Health Professions 1996, 19:3-13.
+8. Forster J, Chen V, Blaine T, Perry C, Toomey T: Social exchange
+of cigarettes by youth. Tobacco Control 2003, 12:148-154.
+9. Forster J, Murray D, Wolfson M, Blaine T, Wagenaar A, Hennrikus D:
+The effects of community policies to reduce youth access to
+tobacco. American Journal of Public Health 1998, 88:1193-1198.
+10. Cummings K, Hyland A, Perla J, Giovino G: Is the prevalence of
+youth smoking affected by efforts to increase retailer com-
+pliance with a minors' access law? Nicotine Tob Res 2003,
+5:465-471.
+11. Jason L, Berk M, Schnopp-Wyatt D, Talbot B: Effects of enforce-
+ment of youth access laws on smoking prevalence. American
+Journal of Community Psychology 1999, 27:143-160.
+12. Tutt D, Bauer L, Edwards C, Cook D: Reducing adolescent smok-
+ing rates. Maintaining high retail compliance results in sub-
+stantial improvements. Health Promotion Journal of Australia 2000,
+10:20-24.
+13. Tutt D, Bauer L, DiFranza J: The impact of restricting the retail
+supply of tobacco to minors. Journal of Public Health Policy 2009 in
+press.
+14. Jason L, Pokorny S, Schoeny M: Evaluating the effects of enforce-
+ments and fines on youth smoking. Critical Public Health 2003,
+13:33-45.
+15. Lewit E, Hyland A, Kerrebrock N, Cummings K: Price, public pol-
+icy, and smoking in young people. Tobacco Control 1997, 6(suppl
+2):S17-S24.
+16. The effect of public policies and prices on youth smoking.
+ImpacTeen Research Paper Series. 8 [http://
+www.impacteen.org]
+17. Siegel M, Biener L, Rigotti N: The effect of local tobacco sales
+laws on adolescent smoking initiation. Preventive Medicine 1999,
+29:334-342.
+18. Luke D, Stamatakis K, Brownson R: State youth-access tobacco
+control policies and youth smoking behavior in the United
+States. American Journal of Preventive Medicine 2000, 19:180-187.
+19. Tauras J, O'Malley P, Johnston L: Effects of price and access laws
+on teenage smoking initiation: a national longitudinal analy-
+ses. ImpacTEEN. Research Paper Series, No. 2. 2001 [http://
+www.impacteen.org]. University of Illinois at Chicago
+20. Pokorny S, Jason L: The relation of retail tobacco availability to
+initiation and continued smoking. Journal of Clinical Child and Ado-
+lescent Psychiatry 2003, 32:193-204.
+21. Gruber J, Zinman J: Youth smoking in the United States: evi-
+dence and implications. In Risky Behavior Among Youth Edited by:
+Gruber J. Chicago: University of Chicago Press; 2001:69-120.
+22. State law regarding sale of tobacco products to individuals
+under age of 18. 106 STAT. 394. Public Law 102­321, July 10, Sec
+1926 42 USC 300x-26 1992.
+23. World Health Organization: Framework Convention on
+Tobacco Control. [http://www.who.int/fctc/en/].
+24. Johnston L, O'Malley P, Bachman J, Schulenberg J: Monitoring the
+Future: National survey results on drug use, 1975­2007. NIH
+Publication No. 08-6418A: National Institute on Drug Abuse,
+Bethesda, MD; 2008.
+25. Health Canada: Summary of Results of the 2004­05 Youth
+Smoking Survey. 2009 [http://www.hc-sc.gc.ca/hl-vs/tobac-tabac/
+research-recherche/stat/index-eng.php].
+26. Department of Health and Human Services: 45 CFR Part 96
+Tobacco regulation for substance abuse prevention and
+treatment block grants; final rule. Federal Register
+1996:1492-1509.
+27. Radecki T, Zdunich C: Tobacco sales to minors in 97 US and
+Canadian communities. Tobacco Control 1993, 2:300-305.
+28. DiFranza J: Best practices for enforcing state laws prohibiting
+the sale of tobacco to minors. J Public Health Manag Pract 2005,
+11(6):559-565.
+29. DiFranza JR, Dussault GF: The federal initiative to halt the sale
+of tobacco to children ­ the Synar Amendment, 1992­2000:
+lessons learned. Tobacco Control 2005, 14(2):93-98.
+30. Johnston L, O'Malley P, Bachman J, Schulenberg J: Monitoring the
+Future: National survey results on drug use, 1975­2003. NIH
+Publication 04-5507. Bethesda, MD: National Institute on Drug
+Abuse; 2004.
+31. CDC [http://apps.nccd.cdc.gov/StateSystem/]
+32. Orzechowski , Walker : The Tax Burden on Tobacco. Histori-
+cal Compilation. The Tax Burden on Tobacco. Arlington, VA 2003, 38:.
+33. Meier B: 46 states accept $206 billion settlement with ciga-
+rette makers. The New York Times; 1998:1.
+34. Farrelly M, Davis K, Haviland M, Messeri P, Healton C: Evidence of
+a dose-response relationship between "truth" antismoking
+ads and youth smoking prevalence. American Journal of Public
+Health 2005, 95:425-431.
+35. DiFranza J, Eddy J, Brown L, Ryan J, Bogojavlensky A: Tobacco
+acquisition and cigarette brand selection among youth.
+Tobacco Control 1994, 4:334-338.
+36. DiFranza JR: State and federal compliance with the Synar
+amendment: federal fiscal year 1997. Archives of Pediatrics & Ado-
+lescent Medicine 2000, 154(9):936-942.
+37. DiFranza JR, Savageau JA, Aisquith BF: Youth access to tobacco:
+the effects of age, gender, vending machine locks, and "it's
+the law" programs. American Journal of Public Health 1996,
+86(2):221-224.
+38. Landrine H, Klonoff E, Lang D, Alcaraz R: Use of identification
+cards by underage youth to purchase tobacco. JAMA 2001,
+285:2329.
+39. Center for Substance Abuse Prevention: Tobaccco [http://preven
+tion.samhsa.gov/tobacco/synartable_print.htm]. Accessed September
+3, 2008.
+40. Americans for Nonsmokers' Rights: Local ordinance database.
+[http://www.no-smoke.org/].
+41. DiFranza JR, Savageau JA, Fletcher K, Pbert L, O'Loughlin J, McNeill
+AD, Ockene JK, Friedman K, Hazelton J, Wood C, et al.: Suscepti-
+bility to nicotine dependence: the Development and Assess-
+ment of Nicotine Dependence in Youth-2. Pediatrics 2007,
+120:e974-e983.
+42. SAS Institute Inc: SAS for Windows v9.1. Cary, North Carolina; 2003.
+43. DiFranza J: Restricted Access to Tobacco Reduces Smoking
+Rates Among Youth. In Focus on Smoking and Health Research
+Edited by: Owing J. Hauppauge, NY: Nova Science:77-100.
+44. Rigotti N, DiFranza J, Chang Y, Tisdale T, Kemp B, Singer D: The
+effect of enforcing tobacco sales laws on youth's access to
+tobacco and smoking behavior: a controlled trial. New England
+Journal of Medicine 1997, 337:1044-1051.
+45. Staff M, March L, Brnabic A, Hort K, Alcock J, Coles S, Baxter R: Can
+non-prosecutory enforcement of public health legislation
+reduce smoking among high school students? Australian New
+Zealand Journal of Public Health 1998, 22:332-335.
+46. Baggot M, Jordan C, Wright C, Jarvis S: How easy is it for young
+people to obtain cigarettes and do test sales by trading
+standards have any effect? A survey of two schools in Gates-
+head. Child Care Health and Development 1998, 24:207-216.
+47. Altman D, Wheelis A, McFarlane M, Lee H, Fortmann S: The rela-
+tionship between tobacco access and use among adoles-
+cents: a four community study. Social Science and Medicine 1999,
+48:759-775.
+48. Ma G, Shive S, Tracy M: The effects of licensing and inspection
+enforcement to reduce tobacco sales to minors in Greater
+Philadelphia, 1994­1998. Addictive Behaviors 2001, 26:677-687.
+49. DiFranza JR, Savageau JA, Bouchard J: Is the standard compliance
+check protocol a valid measure of the accessibility of tobacco
+to underage smokers? Tobacco Control 2001, 10(3):227-232.
+50. DiFranza JR: State and federal compliance with the Synar
+Amendment: federal fiscal year 1998. [see comment].
+Archives of Pediatrics & Adolescent Medicine 2001, 155(5):572-578.
+51. DiFranza J, Coleman M: Sources of tobacco for youths in com-
+munities with vigorous enforcement of tobacco sales laws.
+Tobacco Control 2001, 10:323-328.
+Publish with BioMed Central and every
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and publishedimmediately upon acceptance
+cited in PubMed and archived on PubMed Central
+yours -- you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+BMC Public Health 2009, 9:107 http://www.biomedcentral.com/1471-2458/9/107
+Page 7 of 7
+(page number not for citation purposes)
+52. DiFranza JR, Savageau JA, Fletcher K, O'Loughlin JE, Pbert L, Ockene
+JK, McNeill AD, Hazelton J, Friedman K, Dussault G, et al.: Symp-
+toms of Tobacco Dependence After Brief Intermittent Use
+­ The Development and Assessment of Nicotine Depend-
+ence in Youth-2. Archives of Pediatrics and Adolescent Medicine 2007,
+161(7):704-710.
+53. DiFranza JR, Peck RM, Radecki TE, Savageau JA: What is the poten-
+tial cost-effectiveness of enforcing a prohibition on the sale
+of tobacco to minors?[erratum appears in Prev Med 2001
+Sep;33(3):227]. Preventive Medicine 2001, 32(2):168-174.
+54. Pignone M, Saha S, Hoerger T, Mandelblatt J: Cost-effectiveness
+analysis of colorectal cancer screening. Annals of Internal Medi-
+cine 2002, 137:96-104.
+55. Stout N, Rosenberg M, Trentham-Dietz A, Smith M, Robinson S, Fry-
+back D: Retrospective cost-effectiveness analysis of screening
+mammography. Journal of the National Cancer Institute 2006,
+98:774-782.
+Pre-publication history
+The pre-publication history for this paper can be accessed
+here:
+http://www.biomedcentral.com/1471-2458/9/107/pre
+pub
+

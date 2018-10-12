@@ -1,0 +1,1093 @@
+ORIGINAL ARTICLE
+Prenatal drug exposure and maternal and infant feeding
+behaviour
+L L LaGasse, D Messinger, B M Lester, R Seifer, E Z Tronick, C R Bauer, S Shankaran,
+H S Bada, L L Wright, V L Smeriglio, L P Finnegan, P L Maza, J Liu
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Arch Dis Child Fetal Neonatal Ed 2003;88:F391­F399
+Objective: To evaluate feeding difficulties and maternal behaviour during a feeding session with 1
+month old infants prenatally exposed to cocaine and/or opiates.
+Methods: The study is part of the maternal lifestyle study, which recruited 11 811 subjects at four
+urban hospitals, then followed 1388 from 1 to 36 months of age. Exposure to cocaine and opiates was
+determined by maternal interview and meconium assay. At the 1 month clinic visit, biological mothers
+were videotaped while bottle feeding their infants. This sample included 364 exposed to cocaine, 45
+exposed to opiates, 31 exposed to both drugs, and 588 matched comparison infants. Mothers were
+mostly black, high school educated, and on public assistance. Videotapes were coded without knowl-
+edge of exposure status for frequency, duration and quality of infant sucking, arousal, feeding prob-
+lems, and maternal feeding activity and interaction.
+Results: No cocaine effects were found on infant feeding measures, but cocaine-using mothers were
+less flexible (6.29 v 6.50), less engaged (5.77 v 6.22), and had shorter feeding sessions (638 v 683
+seconds). Opiate exposed infants showed prolonged sucking bursts (29 v 20 seconds), fewer pauses
+(1.6 v 2.2 per minute), more feeding problems (0.55 v 0.38), and increased arousal (2.59 v 2.39).
+Their mothers showed increased activity (30 v 22), independent of their infants' feeding problems.
+Conclusions: Previous concerns about feeding behaviour in cocaine exposed infants may reflect the
+quality of the feeding interaction rather than infant feeding problems related to prenatal exposure.
+However, opiate exposed infants and their mothers both contributed to increased arousal and height-
+ened feeding behaviour.
+Feeding is not only essential for growth, but is a primary
+context for interactions between infants and their moth-
+ers in early infancy.1 2 Early identification of dyads at risk
+for poor feeding offers an opportunity to intervene in the
+future health and wellbeing of the infant.1 3 4 Evaluation of
+neonatal feeding has been approached in three ways: clinical
+reports of dysfunctional sucking, objective (computer as-
+sisted) measurement of sucking patterns, and assessments of
+mother-infant interaction during feeding. Several studies
+have reported sucking or feeding problems when infants were
+prenatally exposed to cocaine or opiates,1 5­12 although these
+observations are controversial.13­15 Inconsistent findings may
+reflect a failure to account for polydrug exposure and
+sociodemographic factors,5 7­11 small sample sizes with inad-
+equate power to detect subtle effects or low
+generalisability,1 5 6 9 10 12 15 and convenience samples that are
+not representative of the larger population of drug involved
+dyads.5 9 Further, no study used methods that could evaluate
+sucking, symptoms, and mother-infant interaction in the
+same sample.5 6­15
+The purpose of this study was to test the hypotheses that
+infants exposed to cocaine and/or opiates have abnormal
+sucking patterns and increased feeding problems and that
+their mothers are less responsive than non-exposed dyads.
+One month old infants and their mothers were observed dur-
+ing a feeding session. Three aspects of feeding behaviour were
+measured: sucking pattern; infant behaviour including
+problems--for example, spitting up--and crying; and mater-
+nal behaviour including feeding related activity--for example,
+inserting or removing nipple--and interactive behaviours--
+for example, vocalisation or touches.16 The duration of the
+feeding was also measured, because the end of the session was
+determined by the mother. The hypotheses were tested with
+and without adjustment for prenatal exposure to alcohol,
+tobacco, and marijuana, birth weight, socioeconomic class,
+and site.
+METHODS
+Study design
+The study was part of the Maternal lifestyle study.17 The latter
+was conducted in four major university sites, which are part of
+the National Institute of Child Health and Human Develop-
+ment Neonatal Research Network (University of Miami, the
+University of Tennessee at Memphis, Wayne State University
+and Brown University). The study was conducted in two
+phases: I, extended through hospital discharge; II, a longitudi-
+nal study from 1 month to 36 months (postmenstrual age).
+The study was approved by the institutional review board at
+each site.
+In phase I, more than 19 000 mothers were screened post
+partum for enrollment between May 1993 and May 1995 at
+the four sites (see Bauer et al17 for details). About 11 800 of the
+eligible mother-infant dyads agreed to participate. Maternal
+exclusion criteria included: age < 18 years; identified psycho-
+sis or history of institutionalisation for retardation or
+emotional problems; language barriers that prevented her
+from giving informed consent or understanding the study.
+Infant exclusion criteria included: outborn birth; multiple
+gestation; birth weight < 501 g; gestational age > 42 weeks;
+the infant was unlikely to survive in the judgment of the
+attending doctor. A National Institute on Drug Abuse Certifi-
+cate of Confidentiality was obtained by each site, which
+ensured confidentiality of information on the subjects' drug
+use. The certificate superseded the mandatory reporting of
+illegal substance use that was in effect in the Florida and
+Rhode Island sites. The certificate was explained to the mother
+See end of article for
+authors' affiliations
+. . . . . . . . . . . . . . . . . . . . . . .
+Correspondence to:
+Dr LaGasse, Infant
+Development Center,
+79 Plain St, Providence,
+RI 02903, USA;
+linda_lagasse@brown.edu
+Accepted
+4 November 2002
+. . . . . . . . . . . . . . . . . . . . . . .
+F391
+www.archdischild.com
+group.bmj.com
+on October 11, 2012 - Published by
+fn.bmj.com
+Downloaded from
+during the recruitment, and also informed consent procedure
+including the condition that the certificate did not exclude
+reporting of evidence of child abuse or neglect. Drug exposure
+was determined by self report during a brief interview at
+recruitment and meconium toxicology with presumptive
+positive screens confirmed with gas chromatography-mass
+spectrometry. The assay consisted of an enzyme multiplied
+immunoassay technique screen for cocaine, opiates, tetra-
+hydrocannabinol, amphetamines, and phencyclidine followed
+by gas chromatography-mass spectroscopic confirmation of
+presumptive positive screens (see ElSohly et al18 and Lester et
+al19 for details). Initial screening for phencyclidine and
+amphetamine was stopped because of low prevalence.
+Phase II was a longitudinal follow up of 1388 exposed and
+comparison children between 1 month and 3 years of age. It
+included subjects from phase I with evidence of exposure and
+matched comparisons who signed a separate consent to
+participate in the follow up phase of the Maternal lifestyle
+study. The study definition of "exposure" was the same in
+phase I and II: maternal admission of cocaine or opiate use
+during this pregnancy based on the hospital interview or
+positive gas chromatography-mass spectrometric confirma-
+tion of cocaine or opiate metabolites. Opiates were included in
+the exposed group because of hospital reports indicating that
+many cocaine users were also using opiates. In phase II, "non-
+exposed" was defined as denial of cocaine or opiate use during
+this pregnancy and a negative enzyme multiplied immu-
+noassay technique screen for cocaine and opiate metabolites.
+A history of maternal alcohol, marijuana, and nicotine use
+during the pregnancy was recorded during the hospital inter-
+view and considered as background variables in both the
+exposed and non-exposed groups. Use of tranquillisers and
+barbiturates was less than 2% and occurred in both groups.
+Exclusion criteria for phase II were infant chromosomal
+abnormality or TORCH (toxoplasmosis, other, rubella, cytome-
+galovirus, herpes virus) infection confirmed before the 1
+month visit or if the mother planned to move out of the catch-
+ment area. Non-exposed infants were group matched to
+exposed infants within each centre on race, sex, and
+gestational age. The 1388 mother/infant dyads (658 in the
+exposed group and 730 in the comparison group) who came to
+the 1 month visit were enrolled in the longitudinal study. The
+uneven groups reflect the replacement of comparison subjects
+by others if they withdrew consent before the 1 month visit,
+which was not possible for the fixed population of exposed
+subjects. The 1 month visit included the feeding procedure.
+Subjects in the feeding study
+Subjects were included in this study if they were bottle fed by
+their biological mother and had a high quality videotape
+recording (n = 1028). The result was 364 exposed to cocaine,
+45 exposed to opiates, 31 exposed to both cocaine and opiates,
+and 588 comparison infants not exposed to either cocaine or
+opiates. From the original cohort of 1388, 360 subjects were
+excluded: 46 were exclusively breast feeding; 70 infants or
+mothers were unavailable; 118 sessions had technical prob-
+lems resulting in unscorable videotapes; two infants were
+more than 46 weeks of postmenstrual age at the time of the
+feeding session; 100 infants were not cared for by their
+biological mother; and 24 infants for whom information about
+their exposure to drugs during pregnancy was unavailable, as
+mothers failed to complete the interview or refused to answer
+questions about level of substance use.
+Procedure
+Mothers brought their infants to the hospital clinic at 42­46
+weeks postmenstrual age (1 month visit) for a neurobehav-
+ioural testing battery20 including videotaped bottle feeding.
+Mothers were instructed to withhold feeding if possible so
+that the infant would be ready to feed on arrival at the clinic.
+However, if the infant was sleeping or recently fed, the feeding
+procedure was postponed to later in the clinic visit. The feed-
+ing session was videotaped through one way mirrors to mini-
+mise the intrusiveness of the camera and staff. Mothers were
+instructed to feed their infants as they would at home and
+indicate when they were finished. Breast feeding mothers
+were not asked to participate. The procedure and subsequent
+scoring were developed and validated with preterm and
+growth retarded infants,16 21 and were sufficiently sensitive to
+detect subtle changes in infant and maternal behaviour after
+intervention.22
+Mothers also completed three interviews: the Maternal
+inventory of substance use (MISU),23 which is a detailed
+interview on the timing and amount of cocaine, opiates, alco-
+hol, nicotine, and marijuana use during pregnancy; socioeco-
+nomic status, which is an assessment of the Hollingshead
+index of social prestige modified for high risk families,24 and
+the Addiction severity index.25 The only question from the
+Addiction severity index used in this study was whether
+mothers had experienced depression in the preceding 30 days.
+Infants were weighed and measured by medical staff.
+Behavioural scoring
+Table 1 describes the behaviours that were scored from the
+videotaped feeding session, and the resulting 13 summary
+scores were used as dependent variables. In accordance with
+published methods,16 22 research assistants masked to expo-
+sure status coded the first 15 minutes of each feeding session
+for maternal feeding behaviour ("activity" in table 1), mater-
+nal interactive behaviour ("stimulation" in table 1), infant
+sucking (sucking pattern in table 1), feeding problems
+("problems" in table 1), and infant crying ("crying" in table
+1). All behaviours were frequency counts except for infant
+sucking, in which case the duration of sucking bursts was
+coded. A sucking burst was defined as continuous sucking
+without a pause of more than two seconds.26 After observing
+the entire feeding session regardless of duration, coders com-
+pleted rating scales that evaluated the level of maternal inter-
+action ("engagement" in table 1), maternal flexibility to her
+infants' feeding cues ("flexibility" in table 1), infant feeding
+competence ("competence" in table 1), infant's predominant
+state or arousal level27 ("arousal" in table 1), and the duration
+of the feeding session ("session" in table 1).
+Six coders were trained to reliability on an initial set of 10
+videotapes prepared by two "gold standard" coders, coding 10
+additional tapes as an initial reliability check. Individual tapes
+were randomly selected twice a month for continuing reliabil-
+ity checks across coders. Discrepancies between coders were
+resolved by conferencing and consensus. The  statistic on the
+duration of infant sucking was 0.84, and percentage
+agreement on the onset and offset of sucking bursts was 68%
+and 69%, respectively. Intraclass correlations calculated on the
+summary scores described below ranged from 0.67 (infant
+competence) to 0.97 (caretaker activities).
+The 13 summary scores in table 1 were based on published
+methods16 with the following exceptions: we measured the
+duration of sucking bursts, the interburst interval, and
+duration of the session for greater specificity of the sucking
+pattern, and we generated two summary scores from the
+seven maternal scales to distinguish feeding related (flexibil-
+ity) from interactive (engagement) behaviour. No subjects
+with short or long feeding sessions were excluded, but
+frequency data were adjusted for length of the feeding session
+if less than 15 minutes. Data loss occurred for infant summary
+scores relevant to sucking pattern and arousal if the infant's
+mouth or face was obscured (< 5%). Data loss for engagement
+occurred when the mother never spoke to the child, as this
+summary score evaluates the quality rather than the quantity
+of interaction (2%). Data loss for interburst interval occurred
+when there was only a single sucking burst during the feeding
+F392 LaGasse, Messinger, Lester, et al
+www.archdischild.com
+group.bmj.com
+on October 11, 2012 - Published by
+fn.bmj.com
+Downloaded from
+session (< 4%). There was no association between prenatal
+exposure to cocaine or opiates and data loss in these summary
+scores.
+Statistical analysis
+t Tests and 2 statistics were used to compare the cocaine
+and/or opiate exposed and comparison groups on medical and
+other characteristics. The 13 dependent measures in table 1
+were tested with four sets of analyses. Analysis 1 was a two
+way analysis of variance testing two factors: any cocaine
+exposure (exposed/non-exposed) and any opiate exposure
+(exposed/non-exposed). The analysis of variance (type III sum
+of squares) tests each factor after adjustment for the other.
+The cocaine by opiate interaction was included in the model
+only if it was significant. This approach yielded tests of expo-
+sure effects in the primary analysis, avoiding post hoc analysis
+on the primary study questions. Analysis 2 was a two way
+analysis of variance testing cocaine and opiate effects after
+adjustment for covariates described below. Analysis 3 was a
+univariate analysis of heavy cocaine exposure, some cocaine
+exposure, and no exposure. Heavy cocaine exposure was
+defined as at least three days a week during the first
+trimester.28 Any other cocaine exposure was considered some
+exposure. These analyses were conducted on a subset of sub-
+jects (873 of 1028) who admitted cocaine use on the MISU
+and who did not use opiates during pregnancy based on initial
+hospital interview, toxicology, or self report on the MISU. Opi-
+ate users were excluded because opiate use could co-occur
+with heavy, some, or no cocaine use and potentially confound
+level of cocaine exposure effects. Analysis 4 was a one way
+analysis of variance testing the three levels of cocaine
+exposure groups after adjustment for covariates described
+below. Student's Newman-Keuls tests were used for post hoc
+analysis of significant effects for level of cocaine exposure.
+Covariates
+In analyses 2 and 4, covariates were included either because of
+relevance to drug-using populations--for example, socioeco-
+nomic status, birth weight, polydrug use--or because they
+met the following statistical criteria: the variable correlated
+with both drug exposure and feeding behaviour (p < 0.05),
+and did not correlate highly with other covariates (Pearson
+r < 0.70).29­32 The variables in tables 2 and 3 were examined for
+possible inclusion as covariates because feeding behaviour has
+been associated with maternal age,2 33 depression,34 35 low
+income,2 socioeconomic status,33 maternal education,2 33 parity
+(primiparous versus multiparous),2 33 race,1 2 infant's age,36 and
+birth weight.2 33 The maternal and infant characteristics that
+met the criteria and were used in the adjusted analyses
+included: socioeconomic status,24 birth weight, conceptional
+age (gestational + chronological age), maternal age, race, site,
+and other drug use.
+Covariates for other drug use
+The pattern of drug use reported by the mother on the MISU
+was used to generate covariates for alcohol, marijuana, and
+tobacco by averaging use per day over the three trimesters of
+pregnancy. The average for each drug use variable was reduced
+to three categories of exposure (heavy, some, and none). Cut
+offs for heavy exposure were based on published thresholds
+for medical as well as neurobehavioural outcome.28 37 For alco-
+hol, heavy exposure was > 0.5 oz of absolute alcohol a day
+(one standard drink). For marijuana, heavy exposure was
+defined as > 0.5 joints a day. For tobacco, heavy exposure was
+defined as > 10 cigarettes a day. Each three category drug
+variable was used to construct two covariates that tested
+threshold effects: (a) the contrast between heavy and some/no
+exposure; (b) the contrast between some and no exposure. For
+example, if the contrast between some and no exposure was
+significant but not the contrast between heavy and some/no
+exposure, the interpretation would be that the threshold for
+the effect is at the cut off for some exposure and there is no
+additional effect for heavy exposure. This approach eliminated
+the need for post hoc analysis. A separate covariate was
+included for any occurrence of binge drinking (more than five
+drinks at one time during pregnancy). Thus, other drug use
+was measured by seven covariates (two for each drug and the
+binge measure).
+RESULTS
+Characteristics of the exposed and non-exposed infants
+and their mothers
+Table 2 gives the characteristics of infants exposed to cocaine
+and/or opiates and comparison infants. Cocaine exposed
+Table 1 Feeding behaviour summary scores
+Dependent measure Description
+Sucking pattern
+Sucking burst Mean duration (s) of sucking bursts defined as continuous sucking without a pause >2 s
+Interburst interval Mean duration (s) between sucking bursts (>2 s pause between sucks) while the nipple was in the infant's mouth
+Proportion sucking Proportion of the feeding session during which infant was sucking
+Bursts per minute Number of sucking bursts per minute
+Infant behaviour
+Problems Frequency of feeding problems. Summed proportion (adjusted for length of feed and multiplied by 100) of refusal and rejection of
+the nipple, dribbling milk, hiccoughs, spitting up, and coughs
+Crying Frequency of crying (continuous cries were coded every 2 s). Proportion of the session (multiplied by 100) when infant was crying
+Competence Average of three nine-point scales: appropriateness of state for feeding, ease of feeding, and infant's responsiveness ( = 0.62).
+High scores indicate greater competence
+Arousal Predominant state or level of arousal of the infant rating scale along a four-point scale: sleeping, drowsy, alert, fussy/crying (state
+definitions of the Brazelton scale)
+Maternal behaviour
+Activity Frequency of maternal feeding activity. Summed proportion (adjusted for length of feed and multiplied by 100) of stimulates
+rooting, inserts nipple, stimulates sucking with the bottle, removes nipple, burps infant, wipes mouth, jiggles the infant, repositions
+the infant, and checks amount taken
+Stimulation Frequency of maternal stimulation or interactive behaviour. Summed proportion (adjusted for length of feed and multiplied by 100)
+of vocalisations, and stroking/caressing and kissing the infant
+Engagement Rating of level of engagement with her infant. Average of four nine-point scales including quality of attentiveness, quality of
+physical contact, delight in baby, and quality of vocalisation ( = 0.79). High scores indicate greater engagement
+Flexibility Rating of maternal flexibility to infants' feeding cues. Average of three nine-point scales including determination of amount, degree
+of confidence, and appropriateness of behaviour ( = 0.69). High scores indicate greater flexibility/low scores indicate more
+maternal control of the feeding session
+Session Duration (s) of coded feeding session up to 15 minutes
+Prenatal drug exposure F393
+www.archdischild.com
+group.bmj.com
+on October 11, 2012 - Published by
+fn.bmj.com
+Downloaded from
+infants were about 4 days younger at the time of assessment
+by both chronological and conceptional age (p = 0.008 and
+p = 0.001 respectively). There were no significant differences
+between the groups for gestational age (range 22­42 weeks),
+weight (range 520­4440 g), length, and head circumference at
+birth, Apgar scores, and sex. All infants were feeding in room
+air during the feeding session.
+Table 3 gives maternal characteristics. Most study partici-
+pants were black, unmarried, Medicaid recipients with two
+thirds of the sample falling below the federal poverty line, and
+high school educated. Mothers who used cocaine were more
+likely to be low socioeconomic status (p = 0.001), older
+(p = 0.001), unmarried (p = 0.001), a Medicaid recipient
+(p = 0.001), below the poverty line (p = 0.001), less educated
+(p < 0.001), without prenatal care (p < 0.001), depressed
+(p = 0.038), and multiparous (p = 0.001) than mothers in the
+comparison group. Opiate-using mothers were more likely to
+be older (p = 0.001), white (p = 0.001), and above the poverty
+line (p = 0.001) than the comparison group.
+Cocaine exposure
+Table 4 shows the means for the study groups and results of
+analysis 1 (unadjusted) and analysis 2 (adjusted for covari-
+ates). The adjusted marginal means from analysis 2 are
+presented for the main effects of cocaine exposure and opiate
+exposure. There were no significant differences between
+cocaine exposed and non-exposed infants in measures of
+sucking pattern (sucking burst, interburst interval, proportion
+of sucking, and bursts per minute), feeding competence, feed-
+ing problems, crying, and level of arousal. However, mothers of
+cocaine exposed infants showed less engagement (unad-
+justed, p = 0 .003; adjusted, p = 0 .004), and less flexibility
+(unadjusted, p = 0.022; adjusted, p = 0.024), and had a
+shorter feeding session (unadjusted, p = 0 .001; adjusted,
+p = 0.010) than mothers of non-exposed infants.
+Opiate exposure
+Opiate exposed infants showed longer sucking bursts (unad-
+justed, p = 0 .044; adjusted, p = 0 .004), fewer bursts per
+minute (unadjusted, p = 0.001; adjusted p = 0.001), more
+feeding problems (unadjusted, p = 0.031; adjusted
+p = 0.028), and higher arousal (unadjusted, p = 0.002;
+adjusted, p = 0.021) than non-exposed infants. Mothers of
+opiate exposed infants showed more feeding activity (unad-
+justed, p = 0 .001; adjusted, p = 0.001) than mothers of non-
+exposed infants. Increased stimulation (unadjusted,
+p = 0.003) and less maternal flexibility (unadjusted,
+p = 0.017) were found in the analysis without covariates, but
+these effects were not significant when adjusted for covariates
+(p > 0.05 in both cases).
+The findings of longer and fewer sucking bursts, increased
+problems and arousal in opiate exposed infants, and more
+activity by their mothers raise the possibility that maternal
+behaviour may account for infant behaviour rather than
+opiate exposure per se. To test this hypothesis, infant
+measures that showed significant opiate effects were reana-
+lysed with adjustment for maternal activity in the context of
+the other covariates. The main effects for opiate exposure on
+the duration of sucking bursts (p = 0.018) and bursts per
+minute (p = 0.042) were maintained, but the opiate effects on
+Table 2 Characteristics of cocaine/opiate exposed and comparison groups
+Cocaine Opiate
+Exposed
+(n=395)
+Non-exposed
+(n=633) p Value
+Exposed
+(n=76)
+Non-exposed
+(n=952) p Value
+Chronological age (weeks) 6.59 (3.26) 7.18 (3.49) 0.008 6.76 (3.62) 6.97 (3.40) 0.609
+Conceptional age (weeks) 42.98 (2.33) 43.54 (2.09) 0.001 43.51 (2.13) 43.31 (2.20) 0.442
+Best OB gestational age (weeks) 36.39 (3.80) 36.36 (3.95) 0.900 36.75 (3.85) 36.34 (3.90) 0.378
+Birth weight (g) 2588 (721) 2672 (841) 0.098 2658 (823) 2638 (796) 0.831
+Length (cm) 46.62 (4.60) 46.96 (5.07) 0.277 46.76 (5.16) 46.83 (4.87) 0.910
+Head circumference (cm) 32.10 (2.67) 32.24 (3.04) 0.469 32.16 (2.98) 32.19 (2.90) 0.950
+Apgar at 1 min (median) 8 8 8 8
+Apgar at 5 min (median) 9 9 9 9
+Male (%) 51.6 51.7 0.997 56.6 51.3 0.372
+Unless otherwise indicated, values are mean (SD). p Values in bold are significant.
+OB, Obstetrical estimate.
+Table 3 Maternal characteristics of cocaine/opiate exposed and comparison groups
+Cocaine Opiate
+Exposed
+(n=395)
+Non-exposed
+(n=633) p Value
+Exposed
+(n=76)
+Non-exposed
+(n=952) p Value
+SES 25.90 (9.44) 28.31 (9.81) 0.001 27.50 (9.08) 27.37 (9.79) 0.910
+Maternal age 30.47 (4.87) 26.39 (5.80) 0.001 30.62 (6.68) 27.74 (5.68) 0.001
+Race 0.001
+% Black 83.0 78.8 0.352 60.5 82.0
+% White 10.6 13.9 30.3 11.2
+% Hispanic 5.3 6.5 6.6 6.0
+% Other (non-Hispanic) 1.0 0.8 2.6 0.7
+% Single 90.1 78.2 0.001 78.9 83.1 0.360
+% No private insurance* 91.1 81.4 0.001 82.9 85.3 0.572
+% Below federal poverty line 78.6 63.2 0.001 70.9 45.7 0.001
+% < high school degree/GED 48.4 32.1 0.001 32.9 38.8 0.308
+% No prenatal care 19.7 4.3 0.001 9.2 10.3 0.764
+% Depression in past 30 days 24.0 18.5 0.038 23.0 20.4 0.602
+% Multiparous 91.6 69.5 0.001 75.0 78.3 0.509
+Unless otherwise indicated, values are mean (SD). p Values in bold are significant.
+*Insurance status unknown for eight exposed and six comparison subjects.
+SES, Socioeconomic status; GED, general educational development.
+F394 LaGasse, Messinger, Lester, et al
+www.archdischild.com
+group.bmj.com
+on October 11, 2012 - Published by
+fn.bmj.com
+Downloaded from
+arousal (p = 0.132) and feeding problems (p = 0.051) failed
+to reach significance. These findings suggest that the
+behaviour of opiate exposed infants was at least in part inde-
+pendent of maternal behaviour.
+Interaction of cocaine and opiate exposure
+There were significant interaction effects of cocaine and opiate
+exposure on arousal (unadjusted, p = 0.017; adjusted,
+p = 0.018), stimulation (unadjusted, p = 0.035; adjusted,
+p = 0.029), engagement (unadjusted, p = 0.014; adjusted,
+p = 0.039), and flexibility (unadjusted, p = 0.037, only).
+Tables 5 (unadjusted) and 6 (adjusted) show the main effect
+differences for cocaine exposure and opiate exposure by expo-
+sure to the other drug for these measures.
+Cocaine exposed infants also exposed to opiates showed
+higher arousal than non-exposed infants (unadjusted,
+p = 0.047; adjusted p = 0.032). Similarly, opiate exposed
+infants also exposed to cocaine showed higher arousal than
+non-exposed infants. No differences in arousal were shown for
+single drug exposure.
+Mothers of cocaine exposed infants who used opiates
+showed less stimulation than mothers of non-exposed
+infants, but only in the adjusted analysis (unadjusted,
+p = 0.092; adjusted, p = 0.045). Cocaine-using mothers who
+did not use opiates showed no differences in stimulation.
+Mothers of opiate exposed infants who did not use cocaine
+showed more stimulation than mothers of non-exposed
+infants (unadjusted, p = 0.001; adjusted, p = 0.01). But
+opiate-using mothers who used cocaine showed no differences
+in stimulation.
+Cocaine-using mothers who used opiates showed less
+engagement than mothers who did not use these drugs
+(unadjusted, p = 0.005; adjusted, p = 0.008), whereas
+mothers only using cocaine showed no differences
+(unadjusted, p = 0.343; adjusted, p = 0.131). There were no
+effects of opiate use on engagement with or without cocaine
+use.
+Cocaine-using mothers who used opiates showed less
+flexibility than mothers who did not use either drug
+(unadjusted, p = 0.008). Similarly, opiate-using mothers who
+also used cocaine showed less flexibility. No differences in
+flexibility were shown for single drug use. The interaction
+was not significant in the adjusted analysis of flexibility
+(p = 0.069).
+Table 4 Feeding measures in cocaine and opiate exposed and non-exposed infants
+Measure
+Cocaine Opiate
+Exposed Non-exposed p Value Exposed Non-exposed P =
+N Mean (SE) N Mean (SE) Unadj. Adj. N Mean (SE) N Mean (SE) Unadj. Adj.
+Sucking pattern
+Sucking burst 378 24.19 (2.22) 603 24.73 (1.92) 0.816 0.870 74 29.27 (3.25) 907 19.64 (1.04) 0.044 0.004
+Interburst interval 364 6.64 (0.50) 582 5.88 (0.40) 0.714 0.233 68 6.38 (0.60) 878 6.15 (0.18) 0.990 0.718
+Proportion sucking 378 0.46 (0.01) 603 0.45 (0.01) 0.932 0.427 74 0.45 (0.02) 907 0.46 (0.01) 0.266 0.734
+Bursts per minute 378 1.94 (0.10) 603 1.88 (0.09) 0.997 0.594 74 1.62 (0.15) 907 2.19 (0.05) 0.001 0.001
+Infant behaviour
+Competence 386 5.08 (0.11) 620 5.19 (0.10) 0.989 0.318 74 5.16 (0.17) 932 5.11 (0.05) 0.979 0.801
+Problems 395 0.44 (0.05) 633 0.49 (0.05) 0.602 0.294 76 0.55 (0.08) 952 0.38 (0.02) 0.031 0.028
+Crying 395 1.03 (0.20) 633 0.68 (0.17) 0.958 0.080 76 0.86 (0.29) 952 0.85 (0.09) 0.493 0.962
+Arousal* 389 2.57 (0.07) 621 2.41 (0.06) 0.154 0.091 75 2.59 (0.09) 935 2.39 (0.03) 0.002 0.021
+Maternal behaviour
+Activity 395 25.71 (1.29) 633 26.61 (1.13) 0.588 0.490 76 30.48 (1.91) 952 21.83 (0.61) 0.001 0.001
+Stimulation* 395 5.05 (0.61) 633 6.30 (0.49) 0.258 0.109 76 6.11 (0.74) 952 5.25 (0.23) 0.003 0.252
+Engagement* 388 5.77 (0.12) 619 6.22 (0.10) 0.003 0.004 76 5.98 (0.15) 931 6.02 (0.05) 0.932 0.821
+Flexibility* 395 6.29 (0.09) 633 6.50 (0.08) 0.002 0.024 76 6.29 (0.14) 952 6.50 (0.04) 0.017 0.128
+Session 395 637.75 (17.28) 633 682.96 (15.11) 0.001 0.010 76 650.72 (25.48) 952 669.99 (8.11) 0.714 0.460
+p Values in bold are significant.
+*Significant cocaine by opiate interaction (see text).
+Table 5 Unadjusted main effect differences for interactions of cocaine and opiate exposure
+Measure
+Cocaine exposed Opiate exposed
+Opiate exposed p Value Opiate non-exposed p Value Cocaine exposed p Value Cocaine non-exposed p Value
+Arousal 0.33 (0.17) 0.047 -0.08 (0.05) 0.081 0.47 (0.13) 0.001 0.06 (0.11) 0.612
+Stimulation -2.48 (1.47) 0.092 0.75 (0.42) 0.077 0.64 (1.18) 0.589 3.87 (0.98) 0.001
+Engagement -0.80 (0.28) 0.005 -0.08 (0.08) 0.343 -0.37 (0.23) 0.100 0.35 (0.09) 0.064
+Flexibility -0.71 (0.27) 0.008 -0.13 (0.08) 0.085 -0.62 (0.21) 0.004 -0.04 (0.18) 0.810
+Values are mean difference (SE). pValues in bold are significant.
+Table 6 Adjusted main effect differences for interactions of cocaine and opiate exposure
+Measure
+Cocaine exposed Opiate exposed
+Opiate exposed p Value Opiate non-exposed p Value Cocaine exposed p Value Cocaine non-exposed p Value
+Arousal 0.36 (0.17) 0.032 -0.05 (0.06) 0.431 0.41 (0.13) 0.002 0.01 (0.11) 0.987
+Stimulation -2.85 (1.42) 0.045 0.35 (0.51) 0.494 -0.74 (1.14) 0.517 2.47 (0.95) 0.010
+Engagement -0.75 (0.28) 0.008 -0.15 (0.10) 0.131 -0.33 (0.23) 0.141 0.26 (0.19) 0.161
+Values are mean difference (SE). pValues in bold are significant. Note: The interaction of cocaine and opiate exposure on flexibility was not significant
+after adjustment for covariates.
+Prenatal drug exposure F395
+www.archdischild.com
+group.bmj.com
+on October 11, 2012 - Published by
+fn.bmj.com
+Downloaded from
+Heavy cocaine exposure
+Table 7 gives the results for the three exposure groups (heavy,
+some, and none) for analysis 3 (unadjusted) and analysis 4
+(adjusted for covariates). The adjusted group means from
+analysis 4 are presented. In the unadjusted analysis 3, heavy
+cocaine exposure was associated with lower infant arousal
+(p = 0.040) and shorter feeding sessions (p = 0.026) than
+some or no exposure. When covariates were included (analy-
+sis 4), these effects were no longer significant.
+Weight gain
+Given cocaine and opiate exposure effects on maternal and
+infant feeding behaviour, weight gain per week (g) from birth
+to the 1 month feeding session was calculated and tested
+using analysis 2, which adjusted for covariates. This analysis
+was conducted separately for preterm (< 38 weeks gestational
+age) and term infants, as preterm infants have different
+growth trajectories from term infants in part because of
+greater chronological age at the feeding session. For term
+infants, there were no significant differences in weight gain
+between cocaine exposed and non-exposed infants (230 v 222
+g/week; p = 0.532). For preterm infants, however, cocaine
+exposed infants gained 25 g/week less than unexposed infants
+(202 v 227 g/week; p = 0.047). There were no significant
+differences in weight gain between opiate exposed and unex-
+posed infants in term (226 v 225 g/week; p = 0.941) or
+preterm infants (220 v 210 g/week; p = 0.409). Taken together
+with the cocaine effects described above, these findings may
+suggest that cocaine-using mothers with preterm infants are
+the least flexible and engaging and have the shortest feeding
+sessions. No support for this hypothesis was found. The results
+of analysis of variance on these measures comparing term and
+preterm cocaine exposed infants showed no significant differ-
+ences (p > 0.249 in all cases).
+Covariate effects
+We also examined whether covariates themselves were useful
+predictors of feeding behaviour. In both analyses 2 (cocaine
+and opiate effects) and 4 (level of cocaine exposure effects),
+mothers who were heavy tobacco users showed less flexibility
+(p = 0.023) and less engagement (p = 0.007) than sometime
+and non-users. Binge drinking was associated with a shorter
+feeding session (p = 0.023). Low birth weight was associated
+with more maternal stimulation (p = 0.001), less infant feed-
+ing competence (p = 0.050), more feeding problems
+(p = 0.010), and lower proportion of sucking (p = 0.010).
+Higher socioeconomic status was related to more maternal
+stimulation (p = 0.001) and engagement (p = 0.001), and
+more infant crying (p = 0.017). Conceptional age was related
+to longer sucking bursts (p = 0.013), higher proportion of
+sucking (p = 0.006), and higher arousal (p = 0.001). Mater-
+nal age was related to lower proportion of sucking
+(p = 0.016), more maternal stimulation (p = 0.001), and
+engagement (p = 0.001). Black mothers showed less stimula-
+tion (p = 0.002), and their infants had a higher proportion of
+sucking (p = 0.026) and fewer sucking bursts (p = 0.010).
+Note that all main effects and covariate effects were partialled
+in these results.
+Birth weight as a mediator
+Analyses with covariates (analysis 2 and 4) were repeated
+excluding birth weight from the list of covariates because it
+has been argued that if cocaine affects birth weight, the inclu-
+sion of birth weight as a covariate will mask the effects of
+cocaine.28 After birth weight had been excluded as a covariate,
+no additional (or fewer) cocaine effects were found relative to
+those previously reported with birth weight in the model.
+DISCUSSION
+Infants are born with a set of reflexes and endogenous suck-
+ing rhythms, including alternation of sucking bursts and
+pauses that guide and maintain feeding.26 38 There are
+developmental changes in sucking rhythm within the first 2
+weeks, with increased sucking and decreased pausing over
+time, suggesting greater feeding efficiency as infants
+mature.26 36 The typical pattern for mothers over this period is
+to reduce feeding related activity--for example, stimulation
+with the bottle--as well as social stimulation--for example,
+vocalisations--that might interrupt the sucking rhythm, sug-
+gesting maternal sensitivity to increased infant maturity.22 26 36
+Cocaine exposure
+Previous clinical reports have described poor and disorganised
+feeding in neonates exposed to cocaine.1 9 11 Research using
+objective measurement of nutritive and non-nutritive sucking
+has reported decreased sucking (non-nutritive) among
+cocaine exposed neonates (n = 16) compared with non-
+exposed neonates,10 but these results were not replicated in a
+second study with a larger sample of neonates (n = 71).14 In
+our study, cocaine exposure was not associated with poor
+sucking or feeding, and cocaine exposed infants did not show
+disorganised, non-optimal sucking rhythms (sucking bursts,
+interburst interval, bursts per minute) or increased feeding
+problems. However, we cannot rule out atypical sucking
+patterns, such as reduced sucking pressure, that could only be
+Table 7 Feeding measures in groups with heavy cocaine exposure, some cocaine exposure, and no exposure
+Measure
+Heavy Some None p Value
+N Mean (SE) N Mean (SE) N Mean (SE) Unadj. Adj.
+Sucking pattern
+Sucking burst 96 22.10 (2.92) 182 18.48 (2.21) 555 20.61 (1.37) 0.510 0.505
+Interburst interval 91 5.40 (0.54) 177 6.03 (0.41) 538 6.43 (0.25) 0.450 0.253
+Proportion sucking 96 0.48 (0.02) 182 0.47 (0.01) 555 0.45 (0.01) 0.918 0.370
+Bursts per minute 96 2.25 (0.14) 182 2.36 (0.11) 555 2.12 (0.07) 0.649 0.212
+Infant behaviour
+Competence 94 5.09 (0.16) 188 4.87 (0.12) 573 5.15 (0.07) 0.172 0.128
+Problems 97 0.39 (0.08) 191 0.38 (0.06) 585 0.39 (0.04) 0.981 0.975
+Crying 97 0.97 (0.25) 191 0.79 (0.19) 585 0.76 (0.12) 0.404 0.749
+Arousal 95 2.31 (0.08) 189 2.34 (0.06) 574 2.41 (0.04) 0.040 0.468
+Maternal behaviour
+Activity 97 20.15 (1.73) 191 20.14 (1.31) 585 22.50 (0.80) 0.916 0.280
+Stimulation 97 5.09 (0.66) 191 5.44 (0.50) 585 4.84 (0.31) 0.089 0.616
+Engagement 95 5.83 (0.13) 187 5.81 (0.10) 571 6.07 (0.06) 0.387 0.069
+Flexibility 97 6.32 (0.13) 191 6.46 (0.10) 585 6.58 (0.06) 0.159 0.205
+Session 97 641.22 (23.54) 191 656.01 (17.80) 585 684.66 (10.98) 0.026 0.216
+p Values in bold are significant.
+F396 LaGasse, Messinger, Lester, et al
+www.archdischild.com
+group.bmj.com
+on October 11, 2012 - Published by
+fn.bmj.com
+Downloaded from
+detected by objective measurement systems and computer
+analysis or could have occurred during the early neonatal
+period and resolved by the 1 month feeding session.
+Poor feeding could also result from the type and timing of
+stimulation provided by mothers who might be less responsive
+to their infants' cues or feeding difficulties.1 36 39­41 Previous
+studies found that cocaine exposed infants gave fewer cues
+and were less responsive to their mothers, and their mothers
+were less sensitive to their infants' cues as newborns,5 and as
+a consequence there were more dyadic conflicts as early as 2
+months and up to 24 months of age.6 12 However, findings are
+not replicated in a sample of infants 7­16 weeks of age,15 and
+in this large, rigorously studied sample, cocaine exposed
+infants were not less competent or less responsive feeders
+than non-exposed infants. Nevertheless, their mothers were
+less flexible in response to their infants' cues, were less warm
+or engaged with their infants, and ended the feeding session
+sooner. Further, cocaine-using mothers who also used opiates
+were more likely to be disengaged from their infants as well as
+less stimulating during feeding. These maternal findings sug-
+gest less sensitivity and involvement with the infant during
+the session. Because the infants did not compensate for the
+shorter feed with a higher proportion of sucking or longer
+sucking bursts, shorter feeding sessions resulted in less over-
+all feeding opportunity.
+Although we acknowledge that there are multiple determi-
+nants of weight gain, we found that cocaine exposed preterm
+infants gained less from birth to 44 weeks postmenstrual age
+than comparison preterm infants after adjustment for birth
+weight, conceptional age (gestational + chronological age), as
+well as polydrug exposure, race, maternal age, and socioeco-
+nomic status. As the feeding style of cocaine-using mothers
+was similar for preterm and term infants, these findings sug-
+gest that preterm, cocaine exposed infants may be more
+vulnerable to maternal behaviour that limits feeding oppor-
+tunity than term infants.
+Opiate exposure
+Previous research has documented less sucking, reduced
+sucking pressure, and lower nutrient consumption in opiate
+exposed neonates.7 8 In our study, opiate exposed infants did
+not suck less during the feeding session. Rather, they showed
+prolonged sucking with fewer pauses, more feeding problems
+such as spitting up and refusal, and increased arousal. Opiate
+exposed infants who were also exposed to cocaine were most
+likely to be aroused. These behaviours are consistent with
+clinical reports of opiate withdrawal.7 We cannot determine in
+this study whether opiate exposed infants had poorer nutrient
+consumption than non-exposed infants. However, both term
+and preterm opiate exposed infants showed no decrements in
+weight gain. Although there were increased arousal and feed-
+ing problems, opiate exposed infants also had longer sucking
+bursts and fewer breaks, which are consistent with greater
+energy intake.
+Opiate-using mothers showed more feeding activity, but
+these behaviours did not account for their infants' heightened
+sucking, although they may have contributed to the increased
+arousal and feeding problems shown by the infants. Opiate-
+using mothers also appeared to be less flexible and more
+stimulating than non-using mothers, but these effects were
+reduced after adjustment. However, opiate-using mothers who
+did not use cocaine were more likely to stimulate their infants
+than non-users after adjustment. By 1 month, increased
+maternal activity not linked to infant feeding problems
+suggests less sensitivity to infant cues39 by opiate-using moth-
+ers.
+There were no findings in common for cocaine and opiate
+involved infants and mothers. The lack of common effects
+suggests, as might be expected, that cocaine and opiates have
+specific implications for the dyad. However, the combination
+of cocaine and opiates appeared to exacerbate some of the
+individual drug effects. Infants exposed to both drugs were
+the most aroused. Mothers who used both drugs were the
+least flexible and engaging with the infants.
+Heavy cocaine exposure
+On unadjusted analyses, heavy cocaine exposure was not
+associated with any feeding behaviour except low arousal and
+the length of the feeding session; however, neither effect was
+significant after adjustment for covariates. These results
+provide no evidence that cocaine exposure or even heavy
+cocaine exposure compromises infant sucking and feeding
+behaviour.
+Substance exposure in context
+It is important to note that maternal and infant feeding
+behaviour is determined by many factors. Consistent with
+previous research,2 33 low birth weight in this study was asso-
+ciated with poorer feeding behaviour including lower pro-
+portion of sucking, less feeding competence, and more feeding
+problems at 1 month of adjusted age, suggesting less maturity
+even after age correction. As expected,36 conceptional age,
+which combines gestational age and chronological age,
+predicted more mature feeding patterns. There was no associ-
+ation between low birth weight and length of session or
+maternal measures of feeding activity and flexibility. However,
+mothers of preterm infants showed increased stimulation,
+which may reflect greater maternal perception of infant
+vulnerability.2 36 Birth weight is probably not a mediator vari-
+able 42, meaning that cocaine effects could be masked by the
+inclusion of birth weight. Firstly, significant cocaine and birth
+weight effects did not overlap on any feeding measure.
+Secondly, the results of analyses with and without birth
+weight in the model generated the same cocaine findings.
+Taken together, these observations suggest that birth weight
+and cocaine effects were independent contributors to feeding
+behaviour.
+Higher socioeconomic status was also associated with more
+maternal verbal and physical contact as well as emotional
+engagement.1 33 Engagement evaluates the quality of attention
+and affection, suggesting that the stimulation provided by
+these higher socioeconomic status mothers was also warm
+and responsive. Older mothers were also more stimulating and
+engaging,1 33 but their babies spent less time sucking over the
+session, suggesting that the increased interaction in this case
+could have reduced feeding efficiency, unlike socioeconomic
+status. Black mothers, who stimulated their infants less than
+white or Hispanic mothers, had infants who spent more time
+sucking over the session with fewer breaks, suggesting a pat-
+tern of maximum feeding efficiency with little interaction.
+Previous research on neonates exposed to alcohol/nicotine
+found poor sucking, lower sucking pressure, and less
+sucking.43­45 In our study, exposure to tobacco, alcohol, or
+marijuana was not associated with any compromise of infant
+sucking or feeding behaviour. However, heavy tobacco use was
+related to decreased maternal flexibility and engagement, and
+binge drinking was associated with a decreased length of ses-
+sion, independent of cocaine effects. There were no marijuana
+effects in the study.
+The interpretation of this study is limited by efforts to
+maintain a natural feeding session without intrusion by
+equipment or staff. Without specialised equipment, we could
+not detect high amplitude sucking, sucking pressure, and
+sucking speed, which have been found to be sensitive to drug
+exposure and related to energy intake and future weight
+gain.3 4 43 Our rationale was that the burst and pause pattern of
+infant sucking that is observable to coders is particularly sali-
+ent to mothers and may be more closely linked to her levels of
+activity and stimulation.26 Further, we did not obtain the exact
+amount of formula the infant drank during the feeding to
+Prenatal drug exposure F397
+www.archdischild.com
+group.bmj.com
+on October 11, 2012 - Published by
+fn.bmj.com
+Downloaded from
+determine feeding efficiency, but note that previous studies
+reported a significant association between energy intake and
+infant behaviour of the type measured in this study.16
+However, our conclusions on feeding efficiency would have
+benefited from direct measurement of energy intake during
+the feeding. We excluded breast feeding dyads because moth-
+ers may be uncomfortable being videotaped while feeding,
+some of our feeding measures would not be appropriate, and
+the number of mothers who breast fed was small. Thus, we
+cannot assume that our findings apply to drug-using mothers
+who breast feed their infants. Further, although the sample
+was recruited randomly at four separate hospitals, the charac-
+teristics of the hospital and self selected participation in the
+follow up may also limit generalisability to other ethnic and/or
+income groups. Given that we hypothesised negative effects of
+drug exposure on infant and maternal behaviour a priori and
+expected that these effects would be subtle, we did not correct
+for the possibility of a type I error on primary planned analy-
+ses. However, multiple comparison corrections were used for
+all post hoc tests. The systematic pattern of findings across
+analyses suggests that the results are not due to chance. Given
+the large sample size, those effects close to the significance cut
+off of p < 0.05 are of small effect size, which is expected in
+analysis of prenatal drug exposure. To correct for multiple
+tests would invite type II error, in which true effects are
+missed.46 Findings of subtle effects not only enhance scientific
+understanding but can have enormous impact on public policy
+and treatment.47
+Conclusion
+Prenatal exposure to cocaine and opiates had unique implica-
+tions for feeding behaviour in 1 month old infants and their
+mothers, after polydrug use, birth weight, conceptional age,
+and social factors were controlled for. Contrary to previous
+concerns,1 5 9­12 cocaine exposed infants did not show feeding
+difficulties in this study, whereas opiate exposed infants
+showed prolonged sucking and other problems consistent
+with signs of opiate withdrawal. Cocaine-using mothers were
+less engaged and less flexible in response to their infants'
+cues,5 whereas opiate-using mothers showed higher levels of
+feeding activity, independent of the feeding problems shown
+by their infants. Finally, the impact of using both cocaine and
+opiates and the additive effect of tobacco suggests that infants
+whose mothers use multiple drugs are likely to be the most at
+risk of insensitive, inflexible parenting during feeding. Mater-
+nal behaviour that overstimulates, controls, and potentially
+limits feeding opportunity may compromise energy intake
+and future weight gain and lead to mother-infant conflict.12
+Concerns about feeding behaviour in cocaine exposed infants
+may reflect problems related to the feeding interaction rather
+than to feeding problems in the infant. Early feeding interac-
+tions may reflect problems in the developing mother-infant
+relationship that could have long term implications for poor
+weight gain and subsequent relationship difficulties, particu-
+larly for preterm infants.
+ACKNOWLEDGEMENTS
+This work was supported by the National Institute on Child Health
+and Human Development (NICHD contract number NO1-HD-2-3159)
+and through cooperative agreements (U10 HD 27904 to BML; U10 HD
+21397 to CRB; U10 HD 21385 to SS; U10 HD 27856 to HB) and Intra-
+agency agreements with the National Institute on Drug Abuse
+(NIDA), Administration on Children, Youth and Families (ACYF), and
+the Center for Substance Abuse Treatment (CSAT).
+. . . . . . . . . . . . . . . . . . . . .
+Authors' affiliations
+L L LaGasse, B M Lester, J Liu, Brown Medical School, Women &
+Infant's Hospital and Bradley Hospital, Providence, RI, USA
+D Messinger, University of Miami, Miami, FL, USA
+R Seifer, Brown Medical School and Bradley Hospital, Providence
+E Z Tronick, Harvard University Medical School and Children's Hospital,
+Boston, MA, USA
+C R Bauer, University of Miami School of Medicine, Miami
+S Shankaran, Wayne State University School of Medicine, Detroit, MI,
+USA
+H S Bada, University of Kentucky College of Medicine, Lexington, KY,
+USA
+L L Wright, National Institute of Child Health and Human Development
+(NICHD), Bethesda, MD, USA
+V L Smeriglio, National Institute on Drug Abuse (NIDA), Bethesda
+L P Finnegan, Office of Research on Women's Health, National
+Institutes of Health, Bethesda
+P L Maza, Administration on Children, Youth and Families (ACYF),
+Washington, DC, USA
+REFERENCES
+1 Sanders-Phillips K. Infant feeding behavior and caretaker-infant
+relationships in Black families. J Compar Family Studies
+1998;29:161­71.
+2 Weiss SJ, Wilson P, Hertenstein MJ, et al. The tactile context of a
+mother's caregiving: implications for attachment of low birth weight
+infants. Infant Behav Dev 2000;23:91­111.
+3 Agras WS, Kraemer HC, Berkowitz RI, et al. Does a vigorous feeding
+style influence early development of adiposity? J Pediatr
+1987;110:799­804.
+4 Dubignon J, Cooper D. Good and poor feeding behavior in the
+neonatal period. Infant Behav Dev 1980;3:395­408.
+5 Barabach LM, Glazer G, Norris SC. Maternal perception and
+parent-infant interaction of vulnerable cocaine-exposed couplets. J Perinat
+Neonatal Nurs 1992;5:76­84.
+6 Das Eiden RD. Maternal substance use and mother-infant feeding
+interactions. Infant Mental Health J 2001;22:497­511.
+7 Kron RE, Litt M, Finnegan LP. Narcotic addiction in the newborn:
+differences in behavior generated by methadone and heroin. Int J Clin
+Pharmacol 1975;12:63­9.
+8 Kron RE, Litt M, Phoenix MD, et al. Neonatal narcotic abstinence: effects
+of pharmacotherapeutic agents and maternal drug usage on nutritive
+sucking behavior. Pediatrics 1976;88:637­41.
+9 Madden JD, Payne RF, Miller S. Maternal cocaine abuse and effect on
+the newborn. Pediatrics 1986;77:209­11.
+10 Maone RR, Mattes RD, Beauchamp GK. Cocaine-exposed newborns
+show an exaggerated sucking response to sucrose. Physiol Behav
+1992;51:487­91.
+11 Oro AS, Dixon SD. Perinatal cocaine and methamphetamine exposure:
+maternal and neonatal correlates. J Pediatr 1987;111:571­8.
+12 Platzman KA, Coles CC, Lynch ME, et al. Assessment of the caregiving
+environment and infant functioning in polydrug families: use of a
+structured clinical interview. Infant Mental Health J 2001;22:351­73.
+13 Hadeed AJ, Siegel SR. Maternal cocaine use during pregnancy: effect
+on the newborn infant. Pediatrics 1989;84:205­10.
+14 Martin JC, Barr HM, Martin DC, et al. Neonatal neurobehavioral
+outcome following prenatal exposure to cocaine. Neurotoxicol Teratol
+1996;18:617­25.
+15 Neuspiel DR, Hamel SC, Hochberg E, et al. Maternal cocaine use and
+infant behavior. Neurotoxicol Teratol 1991;24:229­33.
+16 Mullen MK, Garcia Coll C, Muriel AC, et al. Mother-infant feeding
+interaction in full-term small-for-gestational-age infants. J Pediatr
+1988;112:143­8.
+17 Bauer CR, Shankaran S, Bada H, et al. The Maternal Lifestyle Study:
+drug exposure during pregnancy and short-term maternal outcomes. Am J
+Obstet Gynecol 2002;186:487­95.
+18 ElSohly MA, Stanford DF, Murphy TP, et al. Immunoassay and GC-MS
+procedures for the analysis of drugs of abuse in meconium. J Analyt
+Toxicol 1999;23:436­45.
+19 Lester BM, ElSohly MA, Wright LL, et al. The Maternal Lifestyle Study:
+drug use by meconium toxicology and maternal self-report. Pediatrics
+2001;107:309­17.
+20 Lester BM, Tronick EZ, Mayes L, et al. Neurodevelopmental consortium,
+the NICHD Neonatal research network. A neurodevelopmental follow-up
+battery for substance exposed infants. Pediatr Res 1994;35:23A.
+21 Garcia Coll CT, Halpern L, Seifer R, et al. Behavioral intervention and
+post-natal growth in full-term intrauterine growth retarded (IUGR) infants.
+Early Human Dev 1996;46:105­16.
+22 Meyer EC, Garcia Coll CT, Lester BM, et al. Family-based intervention
+improves maternal psychological well-being and feeding interaction of
+preterm infants. Pediatrics 1994;93:241­6.
+23 Shankaran S, Katsikiotis V, Bauer CR, et al. Patterns of substance use in
+term pregnancy and effect on birthweight (BW) and head circumference
+(HC) [abstract]. Pediatr Res 1997;41:177A.
+24 LaGasse LL, Seifer R, Wright LL, et al. The Maternal Lifestyle Study
+(MLS): the caretaking environment of infants exposed to cocaine/opiates.
+Pediatr Res 1999;45:247A.
+25 McLellan AT, Luborsky L, Cacciola J, et al. An improved diagnostic
+evaluation instrument for substance abuse patients: The Addiction
+Severity Index. J Nervous Mental Dis 1980;168:26­33.
+26 Kaye K, Wells A. Mothers' jiggling and the burst-pause pattern in
+neonatal feeding. Infant Behav Dev 1980;3:29­46.
+27 Brazelton TB. Neonatal behavioral assessment scale. 2nd ed. London:
+Spastics International Medical Publications, 1984:17.
+F398 LaGasse, Messinger, Lester, et al
+www.archdischild.com
+group.bmj.com
+on October 11, 2012 - Published by
+fn.bmj.com
+Downloaded from
+28 Jacobson SW, Jacobson JL, Sokol RJ, et al. New evidence for
+neurobehavioral effects of in utero cocaine exposure. J Pediatr
+1996;129:581­90.
+29 Jacobsen JL, Jacobson SW. Methodological issues in human behavioral
+teratology. In: Rovee-Collier C, Lipsitt L, eds. Advances in infancy
+research. Norwood, NJ: ABLEX, 1990:111­48.
+30 LaGasse LL, Seifer R, Lester BM. Interpreting research on prenatal
+substance exposure in the context of multiple confounding factors. Clin
+Perinatol 1999;26:39­54.
+31 Leon DA. Failed or misleading adjustment for confounding. Lancet
+1993;342:479­81.
+32 Richardson GA, Day NL. Studies of prenatal cocaine exposure:
+assessing the influence of extraneous variables. J Drug Issues
+1999;29:225­36.
+33 Walker LO, Crain H, Thompson E. Mothering behavior and maternal
+role attainment during the postpartum period. Nurs Res 1986;35:352­5.
+34 Field T, Morrow C, Adlestein D. Depressed mothers' perceptions of
+infant behavior. Infant Behav Dev 1993;16:99­108.
+35 Lanzi RG, Pascoe JM, Keltner B, et al. Correlates of maternal depressive
+symptoms in a National Head Start Program sample. Arch Pediatr
+Adolesc Med 1999;153:801­4.
+36 DiVitto B, Goldberg S. Talking and sucking: infant feeding behavior and
+parent stimulation in dyads with different medical histories. Infant Behav
+Dev 1983;6:157­65.
+37 Jacobson JL, Jacobson SW, Sokol RJ. Effects of prenatal exposure to
+alcohol, smoking and illicit drugs on postpartum somatic growth. Alcohol:
+Clin Exp Res 1994;18:317­23.
+38 Hafstrom M, Kjellmer I. Non-nutritive sucking in the healthy pre-term
+infant. Early Hum Dev 2000;60:13­24.
+39 Field T. Maternal stimulation during infant feeding. Dev Psychol
+1977;13:539­40.
+40 Frank DA, Bresnahan K, Zuckerman BS. Maternal cocaine use: impact
+on child health and development. In: Barness LA, ed. Advances in
+pediatrics. St Louis, Mo: Mosby, 1993;40.
+41 Klaus MH, Kennell JH, Plumb N, et al. Human maternal behavior at first
+contact with her young. Pediatrics 1970;46:187­92.
+42 Baron RM, Kenny DA. The moderator-mediator variable distinction in
+social psychological research: conceptual, strategic and statistical
+considerations. J Pers Soc Psychol 1986;51:1173.
+43 Martin DC, Martin JC, Streissguth AP, et al. Sucking frequency and
+amplitude in newborns as a function of maternal drinking and smoking.
+In: Galanter M, ed. Currents in Alcoholism, Biomedical Issues and
+Clinical Effects of Alcoholism. New York: Grune & Stratton,
+1979;5:351­66.
+44 Ouellette EM, Rosett HL, Rosman NP, et al. Adverse effects on offspring
+of maternal alcohol abuse during pregnancy. N Engl J Med
+1977;297:528­30.
+45 Streissguth AP, Barr HM, Martin DC, et al. Effects of maternal alcohol,
+nicotine, and caffeine use during pregnancy on infant mental and motor
+development at eight months. Alcohol: Clin Exp Res 1980;4:152­63.
+46 Rothman KJ. No adjustments are needed for multiple comparisons.
+Epidemiology 1990;1:43­6.
+47 Lester BM, LaGasse LL, Seifer R. Cocaine exposure and children: the
+meaning of subtle effects. Science 1998;282:633­4.
+www.archdischild.com
+Sign up to receive the table of contents by email every month. You can select from three alerts:
+Table of Contents (full), TOC Awareness (notice only);
+Archives of Disease in Childhood related announcements.
+Email Alerts
+Find out what's in the latest issue
+the moment it's published
+Prenatal drug exposure F399
+www.archdischild.com
+group.bmj.com
+on October 11, 2012 - Published by
+fn.bmj.com
+Downloaded from
+doi: 10.1136/fn.88.5.F391
+2003 88: F391-F399
+Arch Dis Child Fetal Neonatal Ed
+L L LaGasse, D Messinger, B M Lester, et al.
+infant feeding behaviour
+Prenatal drug exposure and maternal and
+http://fn.bmj.com/content/88/5/F391.full.html
+Updated information and services can be found at:
+These include:
+References
+http://fn.bmj.com/content/88/5/F391.full.html#related-urls
+Article cited in:
+http://fn.bmj.com/content/88/5/F391.full.html#ref-list-1
+This article cites 44 articles, 7 of which can be accessed free at:
+service
+Email alerting
+box at the top right corner of the online article.
+Receive free email alerts when new articles cite this article. Sign up in the
+Collections
+Topic
+(193 articles)
+Childhood nutrition
+(151 articles)
+Infant nutrition (including breastfeeding)
+Articles on similar topics can be found in the following collections
+Notes
+http://group.bmj.com/group/rights-licensing/permissions
+To request permissions go to:
+http://journals.bmj.com/cgi/reprintform
+To order reprints go to:
+http://group.bmj.com/subscribe/
+To subscribe to BMJ go to:
+group.bmj.com
+on October 11, 2012 - Published by
+fn.bmj.com
+Downloaded from
+

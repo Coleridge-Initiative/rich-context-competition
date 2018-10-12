@@ -1,0 +1,877 @@
+Childhood Overweight and Academic
+Performance: National Study of Kindergartners
+and First-Graders
+Ashlesha Datar, Roland Sturm, and Jennifer L. Magnabosco
+Abstract
+DATAR, ASHLESHA, ROLAND STURM, AND
+JENNIFER L. MAGNABOSCO. Childhood overweight
+and academic performance: national study of kindergartners
+and first-graders. Obes Res. 2004;12:58­68.
+Objective: To examine the association between children's
+overweight status in kindergarten and their academic
+achievement in kindergarten and first grade.
+Research Methods and Procedures: The data analyzed
+consisted of 11,192 first time kindergartners from the Early
+Childhood Longitudinal Study, a nationally representative
+sample of kindergartners in the U.S. in 1998. Multivariate
+regression techniques were used to estimate the independent
+association of overweight status with children's math and
+reading standardized test scores in kindergarten and grade 1.
+We controlled for socioeconomic status, parent-child inter-
+action, birth weight, physical activity, and television watch-
+ing.
+Results: Overweight children had significantly lower math
+and reading test scores compared with nonoverweight chil-
+dren in kindergarten. Both groups were gaining similarly on
+math and reading test scores, resulting in significantly lower
+test scores among overweight children at the end of grade 1.
+However, these differences, except for boys' math scores at
+baseline (difference  1.22 points, p  0.001), became
+insignificant after including socioeconomic and behavioral
+variables, indicating that overweight is a marker but not a
+causal factor. Race/ethnicity and mother's education were
+stronger predictors of test score gains or levels than over-
+weight status.
+Discussion: Significant differences in test scores by over-
+weight status at the beginning of kindergarten and the end of
+grade 1 can be explained by other individual characteristics,
+including parental education and the home environment.
+However, overweight is more easily observable by other
+students compared with socioeconomic characteristics, and
+its significant (unadjusted) association with worse academic
+performance can contribute to the stigma of overweight as
+early as the first years of elementary school.
+Key words: academic performance, kindergarten
+Introduction
+Childhood obesity has become one of the most prominent
+public health concerns in the U.S (1,2). Numerous studies
+have documented the dramatic rise in obesity and over-
+weight in both adults and children (3­7). According to
+recent estimates, the prevalence of overweight (BMI  95th
+percentile for age and gender) is 15.3% in 6- to 11-year-old
+children and 10.4% among 2- to 5-year-old children, com-
+pared with 11.3% and 7.2%, respectively, in 1988 to 1994
+(4).
+Childhood obesity has been shown to be associated with
+several immediate health risk factors such as orthopedic,
+neurological, pulmonary, gastroenterological, and endo-
+crine conditions (8). Maybe even more importantly, obesity
+also affects children's psychosocial outcomes, such as low
+self-esteem and depression, resulting from overweight con-
+cerns (9­17). These mechanisms may affect other aspects
+of children's lives, such as academic performance (18­22),
+with potentially even more serious adverse social outcomes
+in the long term. Although it is well known that lower
+educational achievement among adults is associated with
+obesity, recent research has also reported that obese adoles-
+cents consider themselves worse students (23). It is less
+known whether these findings hold for younger children or
+when objective measures of school performance are used.
+To our knowledge, there are only two international studies
+that have examined related issues. Li used data on primary
+Received for review February 3, 2003.
+Accepted in final form October 28, 2003.
+RAND, Santa Monica, California.
+Address correspondence to Ashlesha Datar, RAND, 1700 Main Street, Santa Monica, CA
+90407.
+E-mail: datar@rand.org
+Copyright © 2004 NAASO
+58 OBESITY RESEARCH Vol. 12 No. 1 January 2004
+school children in China and found that severely obese
+children had significantly lower IQ (intelligence quotient)
+scores than the controls (24). However, IQ is a measure of
+ability, and although it would be likely to affect school
+performance, it is not an indicator of academic achievement.
+Mo-suwan et al. examined the relationship between over-
+weight status and academic performance in children from
+grades 3 to 6 and 7 to 9 using data from Thailand (25). They
+found that being overweight during adolescence (grades 7 to
+9) was associated with poor school performance, whereas
+such an association did not exist in children (grades 3 to 6).
+This paper is the first study, to our knowledge, to exam-
+ine the relationship between childhood overweight and ac-
+ademic performance among younger children using data
+from the U.S. We used a national probability sample of
+kindergartners in the U.S. to examine whether overweight
+status in kindergarten was associated with poor academic
+performance during the first 2 years in school after control-
+ling for socioeconomic characteristics and other potential
+confounders.
+Research Methods and Procedures
+We analyzed data from the Early Childhood Longitudinal
+Study-Kindergarten Class (ECLS-K).1 (For a description of
+the ECLS-K, see http://nces.ed.gov/ecls/pdf/essaysmisc/
+ksum.pdf.) The ECLS-K surveyed a nationally representa-
+tive cohort of kindergartners in the U.S. during the 1998 to
+1999 school year. The sample was selected using a multi-
+stage cluster sampling design, where first schools were
+selected, and subsequently children within schools were
+selected. (For more information on the survey design and
+instruments, see 26.) The study collected detailed informa-
+tion on children and parent, teacher, and school character-
+istics at multiple time points. Baseline data were collected in
+fall of kindergarten (wave 1) followed by additional waves
+in spring kindergarten (wave 2), fall grade 1 (wave 3), and
+spring grade 1 (wave 4). We used data from waves 1, 2, and
+4 for our analysis. (The fall grade 1 wave surveyed only a
+30% subsample of baseline children; therefore, we did not
+use this wave for our analysis.) The average time between
+data collection in waves 1 and 4 was 18 months.
+From the original sample of children assessed in fall
+kindergarten, 5% dropped out of the sample by spring
+kindergarten. An additional 17% dropped out between
+spring kindergarten and spring first grade. Most of the
+children lost to follow-up between kindergarten and first
+grade were those who changed schools. The ECLS followed
+up all movers from a random 50% of schools in the sample.
+Therefore, most of the children lost to follow-up were those
+randomly selected for no follow-up and would be unlikely
+to bias the results. In addition, data on the parent question-
+naire were available for only 80% of the original sample.
+The nonresponse rates on the parent questionnaire tended to
+be higher among nonwhites. Finally, we included only
+children who were first time kindergartners. Our analysis
+sample consisted of 11,192 children for whom math and
+reading test scores were available for all the three waves and
+BMI was available at baseline. Among children for whom
+baseline data were available, there were no significant dif-
+ferences between those for whom test scores were available
+in later waves and those for whom test scores were not
+available in later waves, except that the former were more
+likely to be from high-income families.
+The ECLS-K data are one of the first to collect informa-
+tion on school performance and childhood overweight sta-
+tus. An important feature of the ECLS-K is that it measured
+children's height and weight at each data collection period,
+instead of relying on parent reports of children's height and
+weight. Self-reported height and weight are not very reli-
+able, and, among adults, there is a well-known tendency
+toward underreporting of weight and overreporting of
+height (27­29). For children, whose height and weight
+change rapidly, parent reports could introduce such high
+measurement error that even large substantial effects could
+be rendered statistically insignificant.
+Dependent Variables
+The dependent variables in our analysis were the child's
+reading and math test scores in waves 1, 2, and 4. Children
+surveyed in the ECLS-K were given individually adminis-
+tered math and reading assessments at each data collection
+point. In each subject area, assessments consisted of a
+two-stage assessment. In the first stage, children received a
+12- to 20-item routing test. Performance on the routing
+items guided the selection of one of the several alternative
+second stage tests. The second stage test contained items of
+appropriate difficulty for the level of ability indicated by the
+routing test. Because not all children took the exact same
+test, item response theory (IRT) scale scores were computed
+for all children. IRT scores represent estimates of the num-
+ber of items students would have answered correctly if they
+had taken all of the 92 questions in the first and second stage
+reading forms and the 64 questions in all of the mathematics
+forms. These scores are comparable across students within
+a wave and also across waves enabling comparison of
+children's performance over time. The reliability of test
+scores was very high: 0.93 for reading and 0.92 for math.
+(For detailed information on the tests administered, see 26.)
+We used standardized IRT scale scores in reading and
+mathematics to measure children's cognitive skills. These
+scores are an indicator of the child's performance relative to
+his or her peers. The standardized scores were rescaled to a
+mean of 50 and SD of 10. Therefore, a standardized score of
+55 on the reading test represents a reading achievement
+1 Nonstandard abbreviations: ECLS-K, Early Childhood Longitudinal Study-Kindergarten
+Class; IRT, item response theory; HS, high school.
+Childhood Overweight and Academic Performance, Datar, Sturm, and Magnabosco
+OBESITY RESEARCH Vol. 12 No. 1 January 2004 59
+level that is one-half of an SD higher than the mean for fall
+kindergarten population represented by the tested sample of
+ECLS-K participants.
+Explanatory Variables
+The key explanatory variable was an indicator variable
+for the child's overweight status at baseline. We used the
+Centers for Disease Control-recommended definitions of
+overweight in children to construct our overweight measure
+(30­32). Children who had a BMI  95th percentile for
+their age and gender were classified as overweight. The
+ECLS collected children's height and weight measurements
+in each wave, and these were used to compute the BMI. The
+height and weight measurements were recorded by the
+assessor using the Shorr Board and a digital bathroom scale,
+respectively. All children were measured twice to minimize
+measurement error. If the two height values from the in-
+strument were 2 inches apart, the average of the two
+height values was computed and used as the composite
+measure of height. Otherwise, the value that was closest to
+43 inches (the average height for a 5-year-old child) was
+used as the composite. For the weight composite, if the two
+weight values from the instrument were 5 pounds apart,
+the average of the two values was computed. Otherwise, the
+value that was closest to 40 pounds (the average weight for
+a 5-year-old child) was used as the composite value. A
+composite BMI was calculated using the composite height
+and weight values and was multiplied by the appropriate
+factor to convert into kilograms per meter squared.
+We used multivariate regression to control for socioeco-
+nomic factors and other potentially confounding factors that
+may be correlated with both childhood overweight and
+academic performance. There is some evidence that televi-
+sion watching among children is associated with greater
+likelihood of childhood overweight (33­36). We included a
+parent-reported measure of child's television watching--
+number of hours that the child watched television or videos
+on a typical school day. (Typically, the respondent for
+parent interviews was the child's mother. If the mother was
+not available, then the next selected respondent was another
+parent or guardian followed by another household member.)
+In addition, children's physical activity has also been linked
+to childhood overweight (36­38). More active children are
+less likely to be overweight. We included in our regressions
+the parent-reported physical activity of the child measured
+by the number of days in a week the child got exercise that
+caused rapid breathing, perspiration, and a rapid heart beat
+for 20 minutes or more. In addition, we included a variable
+that captured the level of parent-child interaction. The
+ECLS asked parents how often they participated in certain
+activities with their child, such as reading books to children,
+telling stories, playing sports, and singing songs. Our mea-
+sure of parent-child interaction was defined as the number
+of activities that the parent participated in with the child at
+least once a week. Finally, we included the child's birth
+weight because there is evidence that low birth weight is
+associated with poor academic performance and may also
+be related to overweight status (39­41). Other explanatory
+variables in our analysis included race/ethnicity (white,
+black, Hispanic, Asian, others), mother's education [less
+than high school (HS) diploma, HS diploma, some college,
+bachelor's degree, and more than a bachelor's degree],
+annual family income, and urbanicity.
+We present separate analyses for boys and girls. First, we
+obtained cross-sectional estimates of the effect of over-
+weight status using only the fall kindergarten data. Next, we
+conducted a longitudinal regression analysis where we es-
+timated the effect of overweight status on test scores in later
+waves, controlling for baseline test scores on entry into
+kindergarten, sociodemographic factors, and potential con-
+founders. This model is identical to one where change
+scores are regressed on baseline test scores. Controlling for
+baseline test scores would partial out effects of other factors
+that determine school readiness and would allow us to
+examine the independent effect of obesity on academic
+achievement as a result of being in school. We also ran
+interaction models to examine whether the association be-
+tween overweight status and test scores varied by race/
+ethnicity. Because of the clustered sample design, we ad-
+justed the SEs of the regression using the Huber/White
+correction as implemented in the cluster option in Stata 7.0
+(Stata Corporation, College Station, TX).
+Results
+The ECLS-K data show that about 1 in 10 kindergartners
+(11.1%) was overweight when he or she entered kindergar-
+ten in 1998. The prevalence of overweight was slightly
+higher in boys (12%) than girls (10.2%) (p  0.003). Table
+1 presents descriptive statistics for boys and girls separately,
+by overweight status. Overweight children were signifi-
+cantly more likely (p  0.05) to be Hispanic and poor, and
+had less educated mothers compared with nonoverweight
+children. Overweight boys and girls also had significantly
+higher (p  0.05) birth weight and watched more hours of
+television or videos per day compared with nonoverweight
+children. Boys living in suburban areas were less likely to
+be overweight (p  0.05), whereas boys living in small
+towns or rural areas were more likely to be overweight (p 
+0.05).
+The simple bivariate estimates from Table 1 show that
+overweight boys scored 1.42 points lower (p  0.05) in
+reading than nonoverweight boys at the beginning of kin-
+dergarten, with a similar difference among girls (1.66
+points, p  0.05). In math, the test score difference between
+overweight and nonoverweight boys was greater (1.99
+points, p  0.05), but it was lower among girls (1.21 points,
+p  0.05).
+Childhood Overweight and Academic Performance, Datar, Sturm, and Magnabosco
+60 OBESITY RESEARCH Vol. 12 No. 1 January 2004
+The cross-sectional estimates from fall kindergarten, con-
+trolling for sociodemographics and other potential con-
+founders, are reported in Tables 2 and 3 for boys and girls,
+respectively. Among boys, overweight status at the begin-
+ning of kindergarten was not significantly associated with
+reading test scores (p  0.088), but overweight boys scored
+1.22 points lower than nonoverweight boys (p  0.001) in
+math. However, test scores of overweight girls did not differ
+Table 1. Descriptive statistics by gender and overweight status
+Boys Girls
+Not
+overweight Overweight Difference
+Not
+overweight Overweight Difference
+Fall kindergarten reading scores 50.55 49.12 1.42* (0.41) 52.28 50.62 1.66* (0.43)
+Spring kindergarten reading scores 50.88 49.20 1.67* (0.40) 52.57 51.55 1.01* (0.40)
+Spring grade 1 reading scores 51.14 49.85 1.30* (0.38) 52.65 51.84 0.81* (0.38)
+Fall kindergarten math scores 52.28 50.29 1.99* (0.41) 52.07 50.86 1.21* (0.40)
+Spring kindergarten math scores 52.47 50.84 1.63* (0.40) 52.06 50.81 1.24* (0.39)
+Spring grade 1 math scores 52.34 50.87 1.46* (0.38) 51.57 50.32 1.26* (0.37)
+White§ 0.66 0.59 0.07* (0.02) 0.65 0.57 0.08* (0.02)
+Black§ 0.13 0.13 0.00 (0.01) 0.14 0.18 0.04* (0.01)
+Hispanic§ 0.12 0.16 0.05* (0.01) 0.11 0.16 0.05* (0.01)
+Asian§ 0.03 0.05 0.02* (0.01) 0.04 0.03 0.01 (0.01)
+Mother's education§
+Less than high school diploma 0.09 0.11 0.02* (0.01) 0.08 0.09 0.01 (0.01)
+High school diploma 0.29 0.31 0.01 (0.02) 0.29 0.37 0.08* (0.02)
+Some college 0.34 0.35 0.01 (0.02) 0.34 0.34 0.00 (0.02)
+Bachelor's 0.18 0.16 0.02 (0.02) 0.19 0.14 0.05* (0.02)
+More than bachelor's 0.10 0.07 0.02* (0.01) 0.09 0.06 0.03* (0.01)
+Family income ($)§
+15,000 0.11 0.12 0.01 (0.01) 0.12 0.15 0.03* (0.01)
+15,000 and 25,000 0.11 0.15 0.04* (0.01) 0.11 0.14 0.03* (0.01)
+25,000 and 35,000 0.12 0.15 0.03* (0.01) 0.11 0.14 0.03* (0.01)
+35,000 and 50,000 0.17 0.17 0.01 (0.02) 0.16 0.16 0.00 (0.02)
+50,000 and 75,000 0.23 0.22 0.01 (0.02) 0.24 0.23 0.01 (0.02)
+75,000 0.27 0.19 0.08* (0.02) 0.26 0.18 0.08* (0.02)
+Central city§ 0.37 0.36 0.01 (0.02) 0.38 0.38 0.00 (0.02)
+Urban fringe and large town§ 0.21 0.17 0.04* (0.02) 0.20 0.19 0.01 (0.02)
+Small town and rural§ 0.23 0.26 0.03* (0.02) 0.22 0.24 0.01 (0.02)
+Number of activities parent does with
+child at least once a week 8.40 8.35 0.05 (0.04) 8.29 8.27 0.02 (0.05)
+Number of days per week child
+exercises for 20 minutes or more 4.18 4.19 0.01 (0.09) 3.77 3.60 0.17* (0.10)
+Birth weight (pounds) 7.06 7.45 0.39* (0.05) 6.78 7.10 0.31* (0.06)
+Number of hours per day child
+watches TV or videos on
+weekdays 1.83 2.07 0.24* (0.05) 1.75 1.91 0.16* (0.05)
+Number of observations 4,932 671 5,603¶ 5,016 573 5,589¶
+* p  0.05; figures in parentheses are SEs of difference in means.
+§ Figures reported are proportions in the population.
+¶ The total sample size for the t tests.
+Childhood Overweight and Academic Performance, Datar, Sturm, and Magnabosco
+OBESITY RESEARCH Vol. 12 No. 1 January 2004 61
+significantly from nonoverweight girls in either reading
+(p  0.064) or math (p  0.355). It is not surprising that the
+association between overweight status and academic perfor-
+mance weakened when we controlled for socioeconomic
+differences. In our study, children with family income
+greater than $75,000 and mothers with more than a bache-
+lor's degree were significantly less likely (p  0.05) to be
+overweight and also had significantly higher test scores
+(p  0.05). Therefore, not controlling for socioeconomic
+status overestimated the association between overweight
+status and test scores. However, there may still exist other
+unobserved differences between overweight and nonover-
+weight children that may influence their academic perfor-
+mance when they enter kindergarten. As a result, cross-
+sectional estimates may still suffer from bias.
+The longitudinal regression estimates are presented in
+Table 4 for boys and Table 5 for girls. Among boys, we
+found that after controlling for baseline test scores, over-
+weight status did not have a significant effect on math
+scores in two subsequent waves. In reading, overweight
+boys scored 0.61 points lower at the end of kindergarten
+(p  0.017). However, this difference became statistically
+insignificant at the end of first grade (p  0.142). Among
+girls, overweight status did not have a statistically signifi-
+cant effect on either math or reading scores in subsequent
+waves after controlling for baseline test scores. Figures 1
+Table 2. Cross-sectional regression results for boys
+Fall kindergarten
+reading test scores
+Fall kindergarten math
+test scores
+Coefficient SE Coefficient SE
+Overweight at baseline 0.640 (0.375) 1.221** (0.366)
+Number of hours per day child watches television or
+videos 0.289* (0.146) 0.303** (0.116)
+Number of days per week child exercises for 20 minutes
+or more 0.110* (0.054) 0.024 (0.055)
+Number of activities that parent participates in with
+child at least once a week 0.508** (0.118) 0.491** (0.110)
+Child's birth weight (pounds) 0.166 (0.090) 0.308** (0.088)
+Black (reference  white) 1.815** (0.442) 3.986** (0.446)
+Hispanic 2.881** (0.424) 3.036** (0.412)
+Asian 2.142** (0.744) 0.896 (0.661)
+Other 1.846** (0.576) 2.753** (0.547)
+Less than high school (reference  some college) 4.556** (0.438) 4.781** (0.494)
+High school diploma 1.881** (0.303) 1.855** (0.306)
+Bachelor's degree 2.595** (0.384) 2.457** (0.365)
+More than bachelor's degree 3.755** (0.536) 3.184** (0.468)
+$15,000 (reference  $75,000 family income) 4.953** (0.517) 5.208** (0.509)
+$15,000 to $25,000 3.167** (0.495) 3.518** (0.460)
+$25,000 to $35,000 3.362** (0.477) 3.757** (0.469)
+$35,000 to $50,000 2.242** (0.413) 2.630** (0.394)
+$50,000 to $75,000 1.524** (0.367) 1.639** (0.346)
+Central city (reference  urban fringe and large town) 0.358 (0.360) 0.605 (0.342)
+Small town and rural 2.149** (0.395) 1.457** (0.372)
+Observations 5,603 5,603
+F statistic 52.95** 64.65**
+R2 0.19 0.22
+* p  0.05 and ** p  0.01.
+All regressions included a constant.
+Childhood Overweight and Academic Performance, Datar, Sturm, and Magnabosco
+62 OBESITY RESEARCH Vol. 12 No. 1 January 2004
+and 2 show the estimated test score differences at the end of
+kindergarten and first grade between overweight and non-
+overweight children for boys and girls, respectively.
+These estimates were computed assuming no baseline
+test score differences between overweight and nonover-
+weight children. The "adjusted" scores are based on the
+estimates from the longitudinal models, whereas the "un-
+adjusted" scores capture the raw mean scores for the
+overweight children. The figures emphasize the impor-
+tance of sociodemographic factors and other controls in
+the models in explaining the test score differentials be-
+tween overweight and nonoverweight children. In fact, in
+all cases, the score differential by overweight status was
+completely explained by these factors.
+We also examined whether the association between over-
+weight status and test scores varied by race/ethnicity by
+including interactions between overweight status and race/
+ethnicity in the previous regressions (data not shown). We
+did not find any statistically significant differences by race/
+ethnicity in the effect of overweight on test scores. How-
+ever, the main effects of race/ethnicity on test scores in later
+waves, controlling for baseline scores, remained large and
+statistically significant.
+Other variables included in the models had much stronger
+effects on children's academic performance compared with
+overweight status (Tables 4 and 5). Mother's education was
+a stronger predictor of test scores compared with over-
+weight status in boys and girls. For example, boys with
+Table 3. Cross-sectional regression results for girls
+Fall kindergarten
+reading test scores
+Fall kindergarten
+math test scores
+Coefficient SE Coefficient SE
+Overweight at baseline 0.680 (0.366) 0.324 (0.350)
+Number of hours per day child watches television or
+videos 0.474** (0.127) 0.372** (0.103)
+Number of days per week child exercises for 20 minutes
+or more 0.008 (0.053) 0.057 (0.050)
+Number of activities that parent participates in with
+child at least once a week 0.444** (0.111) 0.557** (0.108)
+Child's birth weight (pounds) 0.433** (0.094) 0.605** (0.092)
+Black (reference  white) 0.704 (0.441) 2.510** (0.370)
+Hispanic 1.884** (0.410) 2.598** (0.358)
+Asian 2.375** (0.682) 0.436 (0.578)
+Other 1.900** (0.708) 2.324** (0.590)
+Less than high school (reference  some college) 4.694** (0.439) 3.821** (0.442)
+High school diploma 1.634** (0.302) 1.659** (0.277)
+Bachelor's degree 2.396** (0.348) 2.041** (0.320)
+More than bachelor's degree 4.535** (0.494) 3.605** (0.448)
+$15,000 (reference  $75,000 family income) 6.184** (0.512) 5.767** (0.481)
+$15,000 to $25,000 4.884** (0.511) 4.032** (0.439)
+$25,000 to $35,000 3.233** (0.462) 2.904** (0.415)
+$35,000 to $50,000 2.264** (0.400) 1.947** (0.369)
+$50,000 to $75,000 1.427** (0.361) 1.291** (0.320)
+Central city (reference  urban fringe and large town) 0.022 (0.346) 0.084 (0.310)
+Small town and rural 1.186** (0.418) 1.049** (0.367)
+Observations 5,589 5,589
+F statistic 66.46** 69.59**
+R2 0.23 0.23
+* p  0.05 and ** p  0.01.
+All regressions included a constant.
+Childhood Overweight and Academic Performance, Datar, Sturm, and Magnabosco
+OBESITY RESEARCH Vol. 12 No. 1 January 2004 63
+mothers who had less than HS education scored 1.16 points
+and 2.07 points lower on reading tests at the end of kinder-
+garten and first grade, respectively, compared with boys
+with mothers who had some college education. This finding
+held for both math and reading scores for boys and girls.
+Race/ethnicity also had a much stronger effect on test scores
+compared with overweight status. Specifically, blacks
+scored significantly lower over time compared with whites
+Table 4. Longitudinal regression results for boys
+Spring
+kindergarten
+reading test
+score
+Spring grade 1
+reading test
+score
+Spring
+kindergarten math
+test
+score
+Spring grade 1
+math test
+score
+Coefficient SE Coefficient SE Coefficient SE Coefficient SE
+Overweight at baseline 0.608* (0.253) 0.427 (0.291) 0.011 (0.224) 0.078 (0.266)
+Number of hours per day child
+watches television or videos 0.262** (0.073) 0.011 (0.074) 0.261** (0.063) 0.176* (0.074)
+Number of days per week child
+exercises for 20 minutes or
+more 0.005 (0.037) 0.036 (0.044) 0.015 (0.033) 0.018 (0.041)
+Number of activities that parent
+participates in with child at
+least once a week 0.079 (0.083) 0.113 (0.092) 0.075 (0.069) 0.088 (0.088)
+Child's birth weight (pounds) 0.093 (0.064) 0.122 (0.071) 0.023 (0.056) 0.016 (0.069)
+Baseline test score (fall
+kindergarten) 0.732** (0.010) 0.571** (0.011) 0.776** (0.010) 0.633** (0.011)
+Black (reference  white) 0.622 (0.362) 1.785** (0.378) 1.557** (0.287) 2.223** (0.323)
+Hispanic 0.803* (0.339) 0.553 (0.339) 0.198 (0.257) 0.088 (0.314)
+Asian 1.402** (0.440) 1.390** (0.505) 0.416 (0.396) 0.270 (0.441)
+Other 0.101 (0.369) 0.117 (0.458) 0.507 (0.347) 0.791 (0.422)
+Less than high school
+(reference  some college) 1.161** (0.367) 2.072** (0.436) 0.226 (0.324) 0.836* (0.407)
+High school diploma 0.219 (0.220) 0.351 (0.238) 0.099 (0.182) 0.163 (0.214)
+Bachelor's degree 0.013 (0.232) 0.437 (0.240) 0.134 (0.213) 0.097 (0.238)
+More than bachelor's degree 0.551 (0.281) 0.437 (0.307) 0.848** (0.293) 0.578* (0.279)
+$15,000 (reference 
+$75,000 family income) 0.979** (0.371) 1.680** (0.428) 0.314 (0.324) 0.787* (0.400)
+$15,000 to $25,000 0.017 (0.337) 0.705 (0.386) 0.215 (0.299) 0.119 (0.320)
+$25,000 to $35,000 0.081 (0.328) 0.284 (0.349) 0.350 (0.274) 0.285 (0.312)
+$35,000 to $50,000 0.323 (0.290) 0.077 (0.307) 0.148 (0.239) 0.074 (0.269)
+$50,000 to $75,000 0.042 (0.228) 0.003 (0.250) 0.246 (0.211) 0.083 (0.226)
+Central city (reference  urban
+fringe and large town) 0.269 (0.264) 0.199 (0.261) 0.315 (0.217) 0.103 (0.233)
+Small town and rural 0.020 (0.327) 0.178 (0.341) 0.121 (0.257) 0.384 (0.296)
+Observations 5,603 5,603 5,603 5,603
+F statistic 344.00** 165.31** 406.74** 205.66**
+R2 0.62 0.47 0.69 0.54
+* p  0.05 and ** p  0.01.
+All regressions included a constant.
+Childhood Overweight and Academic Performance, Datar, Sturm, and Magnabosco
+64 OBESITY RESEARCH Vol. 12 No. 1 January 2004
+in reading and math. The numbers of hours of television or
+video watched per day was also an important predictor of
+test scores in later waves. For example, boys who watched
+2 additional hours of television or videos per day scored
+0.52 points lower (p  0.00) in reading at the end of
+kindergarten.
+Discussion
+This paper provides new evidence on the relationship
+between childhood overweight and academic performance
+using a nationally representative data set of kindergartners
+in the U.S. Simple comparisons of mean test scores in
+reading and math by overweight status indicate that there is
+Table 5. Longitudinal regression results for girls
+Spring
+kindergarten
+reading test
+score
+Spring grade 1
+reading test
+score
+Spring
+kindergarten
+math test
+score
+Spring grade 1
+math test
+score
+Coefficient SE Coefficient SE Coefficient SE Coefficient SE
+Overweight at baseline 0.184 (0.225) 0.210 (0.268) 0.252 (0.239) 0.431 (0.257)
+Number of hours per day child
+watches television or videos 0.093 (0.083) 0.049 (0.080) 0.228** (0.063) 0.061 (0.075)
+Number of days per week child
+exercises for 20 minutes or more 0.033 (0.035) 0.091* (0.037) 0.028 (0.032) 0.034 (0.036)
+Number of activities that parent
+participates in with child at least
+once a week 0.100 (0.075) 0.334** (0.085) 0.003 (0.068) 0.133 (0.079)
+Child's birth weight (pounds) 0.262** (0.061) 0.165* (0.070) 0.202** (0.055) 0.271** (0.064)
+Baseline test score (fall kindergarten) 0.722** (0.010) 0.569** (0.010) 0.755** (0.009) 0.609** (0.012)
+Black (reference  white) 1.156** (0.291) 1.481** (0.301) 1.551** (0.283) 2.144** (0.307)
+Hispanic 0.876** (0.295) 0.659* (0.284) 0.202 (0.268) 0.096 (0.297)
+Asian 1.373** (0.369) 1.193** (0.357) 0.157 (0.347) 0.261 (0.376)
+Other 0.128 (0.386) 0.542 (0.422) 0.275 (0.338) 0.918* (0.414)
+Less than high school (reference 
+some college) 0.749* (0.363) 1.334** (0.393) 1.113** (0.297) 1.078** (0.360)
+High school diploma 0.231 (0.194) 0.172 (0.214) 0.167 (0.183) 0.418* (0.206)
+Bachelor's degree 0.023 (0.206) 0.076 (0.234) 0.059 (0.194) 0.291 (0.223)
+More than bachelor's degree 0.223 (0.266) 0.137 (0.305) 0.219 (0.248) 0.265 (0.298)
+$15,000 (reference  $75,000
+family income) 0.489 (0.344) 1.213** (0.364) 0.157 (0.313) 0.394 (0.352)
+$15,000 to $25,000 0.245 (0.315) 0.787* (0.339) 0.566 (0.305) 0.531 (0.331)
+$25,000 to $35,000 0.044 (0.300) 0.139 (0.310) 0.175 (0.279) 0.386 (0.304)
+$35,000 to $50,000 0.182 (0.247) 0.070 (0.252) 0.206 (0.235) 0.091 (0.264)
+$50,000 to $75,000 0.123 (0.205) 0.253 (0.211) 0.084 (0.199) 0.236 (0.224)
+Central city (reference  urban fringe
+and large town) 0.284 (0.236) 0.149 (0.229) 0.287 (0.208) 0.030 (0.219)
+Small town and rural 0.205 (0.300) 0.041 (0.268) 0.330 (0.240) 0.087 (0.275)
+Observations 5,589 5,589 5,589 5,589
+F statistic 307.56** 189.77** 404.01** 177.38**
+R2 0.63 0.50 0.67 0.53
+SEs in parentheses.
+* p  0.05 and ** p  0.01.
+All regressions included a constant.
+Childhood Overweight and Academic Performance, Datar, Sturm, and Magnabosco
+OBESITY RESEARCH Vol. 12 No. 1 January 2004 65
+a statistically significant association between childhood
+overweight and test scores--overweight kindergartners
+scored lower than their nonoverweight peers on standard-
+ized tests. Controlling for socioeconomic differences and
+other potential confounding factors weakened the associa-
+tion between overweight and test scores at baseline among
+boys and girls, although it remained statistically significant
+for boys' math test scores. Our controls were more com-
+prehensive than prior studies because the ECLS-K also
+measured behavioral factors that may be associated with
+both overweight status and poorer academic performance,
+such as a cognitively stimulating home environment (42),
+exercise (36­38), and television watching (33­35). In fact,
+it might even be argued that we overcontrolled for some
+factors, especially physical activity and television watching,
+for which obesity may be as much a cause as a consequence.
+Even with a rich set of controls, a cross-sectional analysis
+may not control for unobserved differences between over-
+weight and nonoverweight children that affect their test
+scores. For example, lifestyle and quality of home environ-
+ment are hard to observe and may not be fully captured by
+the measures included in our study. Moreover, a cross-
+sectional analysis does not help in establishing the direc-
+tionality of the effect. Lower test scores may cause over-
+weight among children just as overweight status may lead to
+lower test scores.
+The ECLS-K data allowed us to examine the relationship
+between childhood overweight and test scores longitudi-
+nally. Our longitudinal approach tried to control for some of
+these unobserved differences that may exist between over-
+weight and nonoverweight children by controlling for chil-
+dren's baseline test scores. By doing so, this approach
+placed all children at the same achievement level at baseline
+and examined whether future test scores were related to
+baseline overweight status.
+The results from our longitudinal approach are identical
+to a model where gain scores are regressed on baseline
+Figure 1: Standardized reading (A) and standardized mathematics
+(B) test scores by overweight status for boys. Bracketed values
+indicate difference in scores for adjusted nonoverweight (gray
+lines and diamonds) and overweight (black lines and triangles)
+boys. Unadjusted overweight scores are also shown (hatched lines
+and squares).
+Figure 2: Standardized reading (A) and standardized mathematics
+(B) test scores by overweight status for girls. Bracketed values
+indicate difference in scores for adjusted nonoverweight (gray
+lines and diamonds) and overweight (black lines and triangles)
+girls. Unadjusted overweight scores are also shown (hatched lines
+and squares).
+Childhood Overweight and Academic Performance, Datar, Sturm, and Magnabosco
+66 OBESITY RESEARCH Vol. 12 No. 1 January 2004
+scores. Our findings suggest that after controlling for socio-
+economic characteristics, there was no statistically signifi-
+cant difference in test score gains during the first 2 years in
+school between overweight and nonoverweight children. As
+a result, the baseline test score gap that existed between
+overweight and nonoverweight children persisted even at
+the end of first grade. We found no differences by race/
+ethnicity in the relationship between overweight and test
+scores.
+The effect sizes associated with overweight among boys
+were between SDs of 0.06 and 0.12. These estimates sug-
+gest that overweight in boys may be a greater risk factor for
+academic performance than other childhood health risks,
+such as food insufficiency, diabetes, or asthma. Studies that
+have examined the relationship between academic perfor-
+mance and other childhood health risks have tended to find
+effect sizes that are lower than those found in this paper.
+Alaimo et al. found that food insufficiency among 6- to
+11-year-old children is associated with a 0.02 and 0.07 SD
+decrease in reading and math standardized test scores, re-
+spectively (43). The effect of diabetes on children's cogni-
+tive skills has been shown to be insignificant (44). Even
+asthma, which is known to be a major cause of morbidity in
+childhood, has been found to have no significant association
+with children's academic performance (45­48). However,
+some other socioeconomic factors, especially mother's ed-
+ucation and race/ethnicity, seem to have a far stronger
+association with test scores than overweight status.
+It is also important to bear in mind that small or insig-
+nificant associations between overweight status and aca-
+demic performance do not necessarily imply that over-
+weight is not important for academic performance, because
+the effects of overweight may appear with a time lag. For
+example, Erickson et al. showed that overweight in adoles-
+cent girls is significantly associated with negative psycho-
+logical outcomes, which may, in turn, affect their academic
+performance (9). Although we found no differences by
+overweight status in test score gains, we observed only the
+first 2 years of schooling. Future waves of the ECLS-K data
+will allow the examination of whether these relationships
+become important as children grow older.
+In summary, we found a significant test score gap in math
+and reading between overweight vs. nonoverweight chil-
+dren at baseline and, because both groups gain similarly
+over time, at follow-up. However, these differences, except
+for boys' math scores at baseline, became insignificant after
+including socioeconomic and behavioral variables. These
+findings indicate that overweight is a marker, but not a
+causal factor, affecting academic performance. In addition,
+race/ethnicity and mother's education are stronger predic-
+tors of test score gains or levels than overweight status.
+However, even though the significant differences in test
+scores by overweight status can be explained with other
+individual characteristics, especially parental education and
+the home environment, overweight is more easily observ-
+able by students compared with other socioeconomic
+characteristics, and its significant (unadjusted) association
+with worse academic performance can contribute to the
+stigma of overweight as early as the first years of elemen-
+tary school.
+Acknowledgments
+This research was funded by the National Institute for
+Health Care Management Research and Educational Foun-
+dation, a nonprofit, nonpartisan organization based in
+Washington DC.
+References
+1. National Center for Health Statistics. Healthy People 2000
+Review, 1998-1999. Hyattsville, MD: Public Health Service;
+1999.
+2. U.S. Department of Health and Human Services. The Sur-
+geon General's call to action to prevent and decrease over-
+weight and obesity. Rockville, MD: U.S. Department of
+Health and Human Services, Public Health Service, Office of
+the Surgeon General; 2001.
+3. Mokdad AH, Ford ES, Bowman BA, et al. Prevalence of
+obesity, diabetes, and obesity-related health risk factors, 2001.
+JAMA. 2003;289:76­9.
+4. Ogden CL, Flegal KM, Carroll MD, Johnson CL. Preva-
+lence and trends in overweight among US children and ado-
+lescents, 1999-2000. JAMA. 2002;288:1728­32.
+5. Flegal KM, Carroll MD, Ogden CL, Johnson CL. Preva-
+lence and trends in obesity among US adults, 1999-2000.
+JAMA. 2002;288:1723­7.
+6. Mokdad AL, Serdula MK, Dietz WH, Bowman BA, Marks
+JS, Koplan JP. The spread of obesity epidemic in the United
+States, 1991-1998. JAMA. 1999;282:1519­22.
+7. Ogden CL, Troiano RP, Briefel RR, Kuczmarski RJ, Fle-
+gal KM, Johnson CL. Prevalence of overweight among pre-
+school children in the United States. Pediatrics. 1997;99:e1.
+8. Must A, Strauss RS. Risks and consequences of childhood
+and adolescent obesity. Int J Obes Relat Metab Disord. 1999;
+23(Suppl 2):S2­11.
+9. Erickson S, Robinson T, Haydel F, Killen J. Are overweight
+children unhappy? Arch Pediatr Adolesc Med. 2000;154:
+931­5.
+10. Wallace WJ, Sheslow D, Hassink S. Obesity in children: a
+risk for depression. In: Williams CL, Kimm SYS, eds. Annals
+of the New York Academy of Science, 699: Prevention and
+Treatment of Childhood Obesity. New York: The New York
+Academy of Sciences; 1993, pp. 301­2.
+11. French SA, Story M, Perry CL. Self-esteem and obesity in
+children and adolescents: a literature review. Obes Res. 1995;
+3:479­90.
+12. Ackard DM, Neumark-Sztainer D, Story M, Perry C.
+Overeating among adolescents: prevalence and association
+with weight-related characteristics and psychological health.
+Pediatrics. 2003;111:67­74.
+13. Strauss RS. Childhood obesity and self-esteem. Pediatrics.
+2000;105:e15.
+Childhood Overweight and Academic Performance, Datar, Sturm, and Magnabosco
+OBESITY RESEARCH Vol. 12 No. 1 January 2004 67
+14. Myers MD, Raynor HA, Epstein LH. Predictors of child
+psychological changes during family based treatment for obe-
+sity. Arch Pediatr Adolesc Med. 1998;152:855­61.
+15. Stradmeijer M, Bosch J, Koops W, Seidell J. Family func-
+tioning and psychosocial adjustment in overweight young-
+sters. Int J Eat Disord. 2000;27:110­4.
+16. Braet C, Mervielde I, Vandereycken W. Psychological as-
+pects of childhood obesity: a controlled study in a clinical and
+non-clinical sample. J Pediatr Psychol. 1997;22:59­71.
+17. Davison KK, Birch LL. Weight status, parent reaction, and
+self-concept in five-year-old girls. Pediatrics. 2001;107:46­
+53.
+18. Fuerst DR, Rourke BP. Psychosocial functioning of chil-
+dren: relations between personality subtypes and academic
+achievement. J Abnorm Child Psychol. 1993;21:597­607.
+19. Powell CL, Arriola KRJ. Relationship between psychosocial
+factors and academic achievement among African American
+students. J Educ Res. 2003;96:175­81.
+20. Livaditis M, Zaphiriadis K, Samakouri M, Tellidou C,
+Tzavaras N, Xenitidis K. Gender differences, family and
+psychological factors affecting school performance in Greek
+secondary school students. Educ Psychol. 2003;23:223­31.
+21. Aluja A, Blanch A. The Children's Depression Inventory as
+predictor of social and scholastic competence. Eur J Psychol
+Assess. 2002;18:259­74.
+22. McGee R, Prior M, Williams S, Smart D, Sanson A. The
+long-term significance of teacher-rated hyperactivity and read-
+ing ability in childhood: findings from two longitudinal stud-
+ies. J Child Psychol Psychiatry Allied Disciplines. 2002;43:
+1004­16.
+23. Falkner NH, Neumark-Sztainer D, Story M, Jeffery RW,
+Beuhring T, Resnick MD. Social, educational, and psycho-
+logical correlates of weight status in adolescents. Obes Res.
+2001;9:32­42.
+24. Li X. A study of intelligence and personality in children with
+simple obesity. Int J Obes. 1995;19:355­7.
+25. Mo-suwan L, Lebel L, Puetpaiboon A, Junjana C. School
+performance and weight status of children and young adoles-
+cents in a transitional society in Thailand. Int J Obes Relat
+Metab Disord. 1999;23:272­7.
+26. National Center for Educational Statistics. ECLS-K Base
+Year Data Files and Electronic Codebook. Washington DC:
+U.S. Department of Education; 1999.
+27. Palta M, Prineas RJ, Berman R, Hannan P. Comparison of
+self-reported and measured height and weight. Am J Epide-
+miol. 1982;115:223­30.
+28. Stunkard AJ, Albaun JM. The accuracy of self-reported
+weights. Am J Clin Nutr. 1981;34:1593­9.
+29. Kuczmarski MF, Kuczmarski RJ, Najjar M. Effects of age
+on validity of self-reported height, weight, and body mass
+index: findings from the Third National Health and Nutrition
+Examination Survey, 1988-1994. J Am Diet Assoc. 2001;101:
+28­34; quiz 35­6.
+30. Barlow SE, Dietz WH. Obesity evaluation and treatment:
+Expert committee recommendations. Pediatrics 1998;102:e29.
+31. Kuczmarski RJ, Ogden CL, Guo SS, et al. 2000 CDC
+growth charts for the United States: methods and develop-
+ment: National Center for Health Statistics. Vital Health Stat
+11. 2002;(246):1­190.
+32. Himes JH and Dietz WH. Guidelines for overweight in
+adolescent preventive services: recommendations from an ex-
+pert committee: The Expert Committee on Clinical Guidelines
+for Overweight in Adolescent Preventive Services. Am J Clin
+Nutr. 1994;59:307­16.
+33. Dietz WH, Gortmaker SL. Do we fatten our children at the
+TV set? Obesity and television viewing in children and ado-
+lescents. Pediatrics. 1985;75:807­12.
+34. Gortmaker SL, Must A, Sobol AM, Colditz GA, et al.
+Television viewing as a cause of increasing obesity among
+children in the United States, 1986-1990. Arch Pediatr Ado-
+lesc Med. 1996;150:356­62.
+35. Robinson TN. Reducing children's television viewing to pre-
+vent obesity: a randomized trial. JAMA. 1999;282:1561­7.
+36. Dowda M, Ainsworth BE, Addy CL, Saunders R, Riner W.
+Environmental influences, physical activity, and weight status
+in 8- to 16-year olds. Arch Pediatr Adolesc Med. 2001;155:
+711­7.
+37. Goran MI, Hunter G, Nagy TR, Johnson R. Physical ac-
+tivity related energy expenditure and fat mass in young chil-
+dren. Int J Obes Relat Metabol Disord. 1997;21:171­8.
+38. Wolf AM, Gortmaker SL, Cheung L, Gray HM, Herzog
+DB, Colditz GA. Activity, inactivity, and obesity: racial,
+ethnic, and age differences among schoolgirls. Am J Public
+Health. 1993;83:1625­7.
+39. Botting N, Powls A, Cooke RW, Marlow N. Cognitive and
+educational outcome of very-low-birthweight children in early
+adolescence. Dev Med Child Neurol. 1998;40:652­60.
+40. Taylor HG, Klein N, Minich NM, Hack M. Middle-school-
+age outcomes in children with very low birthweight. Child
+Dev. 2000;71:1495­511.
+41. Klein NK, Hack M, Breslau N. Children who were very low
+birth weight: development and academic achievement at nine
+years of age. J Dev Behav Pediatr. 1989;10:32­7.
+42. Strauss, Richard S, Knight J. Influence of the home envi-
+ronment on the development of obesity in children. Pediatrics
+1999;103:e85.
+43. Alaimo K, Olson CM, Frongillo EA. Food insufficiency and
+American school-aged children's cognitive, academic, and
+psychosocial development. Pediatrics. 2001;108:44­51.
+44. McCarthy AM, Lindgren S, Mengeling MS, Tsalikian E,
+Engvall JC. Effects of diabetes on learning in children. Pe-
+diatrics. 2002;109:e9.
+45. Gutstadt LB, Gillette JW, Mrazek DA, Fukuhara JT,
+LaBrecque JF, Strunk RC. Determinants of school perfor-
+mance in children with chronic asthma. Am J Dis Child.
+1989;143:1258­9.
+46. Lindgren S, Lokshin B, Stromquist A, et al. Does asthma or
+treatment with theophylline limit children's academic perfor-
+mance? N Engl J Med. 1992;327:926­30.
+47. Rietveld S, Colland VT. The impact of severe asthma on
+school children. J Asthma. 1999;36:409­17.
+48. Silverstein MD, Mair JE, Katusic SK, Wollan PC,
+O'Connell EJ, Yunginger JW. School attendance and school
+performance: a population-based study of children with
+asthma. J Pediatr. 2001;139:278­83.
+Childhood Overweight and Academic Performance, Datar, Sturm, and Magnabosco
+68 OBESITY RESEARCH Vol. 12 No. 1 January 2004
+

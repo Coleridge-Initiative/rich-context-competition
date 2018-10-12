@@ -1,0 +1,2729 @@
+Discussion Paper
+Deutsche Bundesbank
+No 21/2017
+Interest-rate pegs, central bank asset purchases
+and the reversal puzzle
+Rafael Gerke
+(Deutsche Bundesbank)
+Sebastian Giesen
+(Deutsche Bundesbank)
+Daniel Kienzler
+(Deutsche Bundesbank)
+Jörn Tenhofen
+(Swiss National Bank)
+Discussion Papers represent the authors` personal opinions and do not
+necessarily reflect the views of the Deutsche Bundesbank or its staff.
+Editorial Board:
+Deutsche Bundesbank, Wilhelm-Epstein-Straße 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-0
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978­3­95729­380­0 (Printversion)
+ISBN 978­3­95729­381­7 (Internetversion)
+Daniel Foos
+Thomas Kick
+Malte Knüppel
+Jochen Mankart
+Christoph Memmel
+Panagiota Tzamourani
+Non-technical Summary
+Research question
+Against the backdrop of the financial crisis, central banks implemented quantita-
+tive easing (QE) and forward guidance (FG) policies. Over the past few years, a
+consensus has emerged that such measures lead to expansionary macroeconomic
+effects. However, it is also well known that New Keynesian models can give rise
+to puzzles if the nominal interest rate is constrained by the zero lower bound or a
+temporary peg (due to a FG policy). In this study, we focus on the reversal puzzle
+(see Carlstrom et al., 2015): If the central bank implements QE in combination
+with FG, the effects on output and inflation increase with the length of FG up
+to some critical duration; if this critical duration is exceeded, the model predicts
+recession and deflation.
+Contribution
+Our contribution is threefold. First, we illustrate the relevance of the reversal
+puzzle in a plausible policy scenario by analyzing the macroeconomic effects of QE
+in combination with FG of variable duration. Second, we derive the analytical
+solution of the model and show that two ingredients are necessary, though not
+sufficient, for the puzzle to occur: First, the solution of the model needs to feature
+complex eigenvalues, and second, monetary policies' FG needs to be perfectly
+anticipated by the agents. Third, we formulate two possibilities for overcoming
+sign switches in the model's simulations.
+Results
+We find that the reversal puzzle is very tenacious and that it is intimately related
+to agents' expectations in the economy. This is illustrated by two different modifi-
+cations to our analysis, which both lead to the disappearance of the reversal puzzle.
+First, we show that a deviation from the assumption of perfect foresight (i.e. if we,
+instead, solve the model under certainty equivalence) eliminates the puzzle. Sec-
+ond, if we retain the assumption of perfect foresight but manage agents' inflation
+expectations with a price-level-targeting strategy, the reversal puzzle is also ab-
+sent. Both modifications and its implications for the reversal puzzle are explained
+using the solution of the model.
+Nichttechnische Zusammenfassung
+Fragestellung
+Zahlreiche Notenbanken haben auf die j¨
+ungste Krise mit Wertpapierankaufpro-
+grammen (QE) reagiert und dabei Orientierungen ¨
+uber die zuk¨
+unftige Ausrichtung
+der Geldpolitik gegeben ("forward guidance"- FG). In ¨
+uberwiegender ¨
+Ubereinstim-
+mung haben diese Maßnahmen expansiv gewirkt. Es ist jedoch auch bekannt, dass
+das Neukeynesianische Modell mitunter Anomalien produziert, und zwar wenn
+der Politikzins tempor¨
+ar restringiert wird. Wir befassen uns mit einer solchen
+Anomalie, dem sogenannten reversal puzzle (Carlstrom et al., 2015): Wenn die
+Zentralbank ein Kaufprogramm in Kombination mit FG implementiert, steigen
+zun¨
+achst die makro¨
+okonomischen Effekte mit der L¨
+ange von FG bis zu einer kri-
+tischen Dauer an; wird diese kritische Dauer ¨
+uberschritten, kehren sich die Effekte
+um, und das Modell prognostiziert eine Rezession und Deflation.
+Beitrag
+Dieses Papier tr¨
+agt dreifach zur Literatur bei. Zun¨
+achst veranschaulichen wir die
+Relevanz des reversal puzzle in einem plausiblen Politikszenario. Dabei analysieren
+wir die Effekte von QE in Kombination mit einem Zinspeg von unterschiedlicher
+Dauer. Daran anschließend nutzen wir die analytische L¨
+osung des Modells und
+zeigen, dass zwei Bedingungen f¨
+ur das Auftreten des genannten Ph¨
+anomens not-
+wendig (aber nicht hinreichend) sind: Erstens, die L¨
+osung des Modells muss kom-
+plexe Eigenwerte enthalten, und zweitens, der Zinspeg muss von den Agenten
+vollkommen antizipiert werden. Abschließend diskutieren wir zwei M¨
+oglichkeiten,
+wie das revesal puzzle vermieden werden kann.
+Ergebnisse
+Wie unsere Ergebnisse zeigen, kann das reversal puzzle sehr hartn¨
+ackig sein und
+h¨
+angt eng mit der Erwartungsbildung der Akteure in der ¨
+Okonomie zusammen.
+Wir illustrieren dies mit Hilfe zweier Modifikationen. Im Kontext der ersten Mod-
+ifikation zeigen wir, dass das reversal puzzle ausbleibt, wenn wir die Annahme
+vollkommener Voraussicht aufgeben (d.h., wenn die Agenten den Zinspeg nicht
+antizipieren). Im Rahmen der zweiten Modifikation behalten wir zwar die An-
+nahme perfekter Voraussicht bei, ¨
+andern die Inflationserwartungen der Agenten in
+dem Sinn, als wir nach Ende des Zinspegs eine Strategie der Preisniveausteuerung
+unterstellen. Auch dann tritt das reversal puzzle nicht auf. Beide Modifikationen
+und ihre Implikationen f¨
+ur das reversal puzzle werden anhand der analytischen
+L¨
+osung des Modells erl¨
+autert.
+Interest-rate pegs, central bank asset purchases
+and the reversal puzzle
+Rafael Gerke Sebastian Giesen Daniel Kienzler
+J¨
+orn Tenhofen
+May 31, 2017
+Abstract
+We analyze the macroeconomic implications of a transient interest-rate
+peg in combination with a QE program in a non-linear medium-scale DSGE
+model. In this context, we re-examine what has become known as the rever-
+sal puzzle (Carlstrom, Fuerst and Paustian, 2015) and provide an analytical
+explanation for its appearance. We show that the puzzle is intimately re-
+lated with agents' expectations. If, for instance, agents do not anticipate
+the peg, the reversal does not appear. The same is true if agents' infla-
+tion expectations are influenced by a monetary authority which follows a
+price-level-targeting rule instead of a standard Taylor rule. In this case,
+sign reversals do not occur even for very long durations of pegged nominal
+interest rates.
+Keywords: Unconventional Monetary Policy, Interest-Rate Peg, Perfect Fore-
+sight, Reversal Puzzle, Price-Level Targeting
+JEL Classification: E32, E44, E52, E61
+We have benefited greatly from comments made by Tom Holden, Christian Matthes, Mathias
+Paustian and seminar participants at the Bundesbank, the Swiss National Bank, the 12th Dynare
+Conference, the North American Summer Meeting as well as the European Summer Meeting
+of the Econometric Society 2016. The authors acknowledge the excellent research assistance
+provided by Sven Hartjenstein. The views expressed in this paper are those of the authors and
+do not necessarily reflect those of the Deutsche Bundesbank, the Swiss National Bank or their
+respective staff. Any errors or omissions are those of the authors.
+Monetary Policy and Analysis Division, Deutsche Bundesbank
+Monetary Policy Analysis, Swiss National Bank
+BUNDESBANK DISCUSSION PAPER NO 1/2017
+1 Introduction
+In the aftermath of the financial crisis, major central banks adopted a series of
+unconventional monetary policy measures both to restore the functioning of the
+monetary transmission mechanism and to provide further accommodation in a
+low-inflation environment. In particular, sovereign bond purchase programs, often
+referred to as quantitative easing (QE), and forward guidance were implemented
+by major central banks as policy responses to anemic growth and low inflation.
+Such unconventional measures were adopted as alternative instruments when cen-
+tral banks had reached the effective lower bound on nominal short-term interest
+rates. While there is no consensus yet as to how far a given purchase program
+can stimulate output and inflation, empirical models and (suitably modified) New
+Keynesian models alike support the view that QE and forward guidance are expan-
+sionary at the zero lower bound (see, for example, Carlstrom, Fuerst and Paus-
+tian, 2017; Gertler and Karadi, 2013; Chen, C´
+urdia and Ferrero, 2012, and the
+references therein).
+However, recently Cochrane (2015), Garc´
+ia-Schmidt and Woodford (2015), and
+Carlstrom et al. (2015) among others have illustrated that the standard New Key-
+nesian model can give rise to puzzles if the policy rate is kept constant for some
+time, typically at the zero lower bound.1 Prominent among these is the forward
+guidance puzzle. In this phenomenon, forward guidance (i.e., an announced in-
+tention of the central bank to keep the nominal interest rate constant for a given
+period of time) implies huge expansionary and inflationary effects in the canonical
+1Unlike the papers by Cochrane (2015) and Garc´
+ia-Schmidt and Woodford (2015) our paper
+is not about multiplicity and equilibrium selection. For a discussion of multiplicity in the context
+of the zero lower bound, see also Holden (2017).
+1
+New Keynesian model (e.g., Del Negro, Giannoni and Patterson, 2015). A related
+effect, the reversal puzzle, has been described recently by Carlstrom et al. (2015).
+According to the nature of this puzzle, pegging the interest rate for a sufficiently
+long period of time in the standard New Keynesian model can give rise to coun-
+terintuitive sign reversals in the path of the endogenous variables. The effect of
+the interest-rate peg can switch from highly expansionary to highly contractionary
+even for small changes in the length of the interest-rate peg.
+In this paper, we illustrate that the reversal puzzle can be a tenacious problem in
+the context of analyzing the effects of a QE program2 and make two suggestions
+about how to overcome it. For our analysis, we jointly analyze a temporary, fully
+anticipated interest-rate peg in combination with a QE program in the model
+of Carlstrom et al. (2017). In the absence of the peg, the model predicts the
+orthodox view, that is, an increase in output and inflation in response to the
+launch of a QE program. If, however, the central bank keeps the policy rate
+constant for some time, the responses of the model's variables can switch their
+sign: Output and inflation first increase with the duration of the peg and tend
+to explode as the duration of the peg approaches some critical value (after four
+quarters in our analysis). But if the duration of the peg exceeds this critical value,
+the model predicts a counterintuitive sign reversal (i.e., the reversal puzzle) or, put
+differently, a sizeable deflation instead of inflation. Furthermore, if we continue
+to hold the interest rate fixed for an even longer period of time, the sign of the
+model's predictions changes once again. Thus, the qualitative response of output
+and inflation oscillates as the duration of the peg expands into the far future. We
+2For the peg to produce this puzzle, some shock must occur. We choose a QE shock to design
+a plausible policy scenario.
+2
+provide intuition for this puzzling result and show analytically that the reversal
+critically hinges on two things: First, the model needs to feature endogenous state
+variables, which imply complex eigenvalues in the solution of the system, and
+second, the assumption that the interest-rate peg is perfectly anticipated. The
+necessity of complex eigenvalues in the model's solution was already pointed out
+by Carlstrom et al. (2015). In particular, they find, based on the canonical 3-
+equation DNK model with inflation indexation, that a necessary and sufficient
+condition for the existence of the reversal puzzle is that the explosive eigenvalues
+become complex-valued. However, in contrast to Carlstrom et al. (2015), we show
+that if we use a richer model to describe a plausible policy scenario the existence of
+complex eigenvalues is merely a necessary but no longer a sufficient condition. We
+further show that the presence of the reversal puzzle is very robust with respect
+to the calibration of the model.
+The analytical solution of the model suggests that the expectations of the agents
+in the economy are key for the appearance of the reversal puzzle. We illustrate
+this finding by discussing two different modifications to our analysis. First, if
+agents take the nominal interest-rate peg into account only contemporaneously,
+but expect the peg to be absent in the future (no anticipation), i.e., if they operate
+as under certainty equivalence, sign reversals disappear irrespective of the duration
+of the peg. Thus, if we deviate from the assumption of perfect anticipation of the
+interest-rate peg and, instead, assume that agents' expectations do not incorporate
+forward guidance into their decisions (i.e., the future development of the nominal
+interest-rate peg), the reversal puzzle does not occur. Second, if we retain the
+assumption that agents perfectly anticipate the future interest rate path but change
+3
+agents' expectations by assuming that monetary policy is going to follow a different
+monetary policy rule, namely price-level targeting instead of a Taylor rule, the
+reversal puzzle vanishes, too.
+These two suggestions for overcoming the reversal puzzle therefore underscore the
+fact that the appearance of the reversal puzzle is intimately related to agents' ex-
+pectations. If people do not anticipate the interest-rate peg, it is merely a series of
+unanticipated shocks and therefore the reversal does not appear. But why is price-
+level targeting effective at overcoming the reversal? If monetary policy follows a
+price-level-targeting rule, the central bank aims at stabilizing the aggregate price
+level around a predetermined path. Thus, if there is a shock that pushes the price
+level away from the target-price path, future inflation will be required to adjust in
+a way to bring the price path back to target. Put differently, past deviations from
+target are corrected under price-level targeting. If monetary policy is credible, the
+forward-looking rational agent thus expects a complete correction of past devia-
+tions. This mitigates the expansionary effect of the anticipated peg and QE from
+the very beginning. A bit more technically, the response of inflation to a series of
+forward guidance shocks will neither grow exponentially and reach an asymptote
+nor will it reverse its sign. As a consequence, sign reversals do not occur even
+for very long durations of pegged nominal interest rates (in our example for much
+more than 15 years).
+The importance of forward-lookingness and therefore inflation expectations for the
+explanation of the reversal puzzle has already been emphasized by Carlstrom et al.
+(2015), who analyzed the reversal puzzle in the context of a standard New Keyne-
+4
+sian model.3 They argue that, in particular, inflation indexation is an important
+precondition for the sign switch to arise: If there is a backward-looking element
+in the Phillips curve, which is due to indexation, there is "...nothing to anchor the
+terminal level of inflation"4 at the end of the peg.5 By contrast, in their model
+variant without indexation, the level of inflation after the peg does not depend on
+the previous pegged period (the same is true for output) and therefore the Taylor
+rule (that kicks in after the peg) imposes a terminal condition on the inflation
+rate.6
+To overcome the reversal puzzle Carlstrom et al. (2015) suggest assuming sticky
+information instead of Calvo pricing (see also Kiley, 2016). The key difference
+between the sticky-price and the sticky-information framework is that under sticky
+prices (and assuming indexation) the Phillips curve states that current inflation
+depends on both lagged inflation and expectations of tomorrow's inflation, whereas
+under sticky information the Phillips curve states that only past expectations of
+the current marginal costs and inflation matter for inflation today. In this sense
+the firms are much less forward-looking in the sticky information framework. As
+a consequence, there are no inflation reversals in their sticky-information model.7
+3Las´
+een and Svensson (2011) and Lind´
+e, Smets and Wouters (2016) also mention the appear-
+ance of sign switches when simulating their models in combination with a transient interest-rate
+peg. However, both studies do not elaborate on the source of the puzzle.
+4See Carlstrom et al. (2015), p. 234.
+5If the Phillips curve entails lagged inflation (which adds an endogenous state variable to
+the system), the terminal level of inflation is no longer exogenous. Put differently, there is
+nothing to pin down the terminal level of inflation at the end of the peg. Consequently, if initial
+inflation depends on terminal inflation, but terminal inflation depends on initial inflation, the
+counterintuitive reversal may arise.
+6Solving the model backward gives a monotonic (exponential) path for inflation (and output).
+7Several other authors relate the existence of the forward guidance puzzle to the important
+role of expectations and provide alternative approaches to deal with it. Notable examples in-
+clude Farhi and Werning (2017) who depart from the assumption of rational expectations and
+adopt some form of bounded rationality, and Angeletos and Lian (2016) who introduce an incom-
+5
+We organize our paper as follows. The next section presents the model we use for
+the analysis and its main characteristics. Section 3 explains how we implement
+the QE program and the transient interest-rate peg. Section 4 presents a short
+description of the solution method. Section 5 provides our first set of simulation
+results. In subsection 5.1, we analyze the effects of a QE program without an
+interest-rate peg to illustrate the transmission of the QE program: The model is
+consistent with the prevailing view that QE generates a positive response of infla-
+tion and output. Subsection 5.2 then illustrates the effects of QE in combination
+with an interest-rate peg of variable duration and shows that the model produces
+a reversal puzzle if the policy rate is kept constant for a sufficiently long period of
+time. We then derive the solution of the model and show why reversals appear.
+Subsection 5.3 documents that the reversal puzzle is hard to get rid off since it
+remains for a very wide range of calibrations of the model. In section 6 we present
+the aforementioned two modifications to our analysis, which ­ independently of
+each other ­ help to overcome the reversal puzzle. In subsection 6.1 we deviate
+from the assumption of perfect foresight and assume that agents do not anticipate
+the peg at all. Subsequently, in subsection 6.2, we retain the assumption of per-
+fect foresight, but change the way monetary policy is conducted from a standard
+Taylor rule to a price-level-targeting rule. Section 7 concludes.
+plete information setup into the New-Keynesian model, thereby relaxing the routinely applied
+assumption of common knowledge.
+6
+2 A model with financial intermediaries
+To assess the effects of a government bond purchase program and to be able to
+describe under what conditions an interest-rate peg can give rise to a reversal,
+we use the fully non-linear version of an estimated New Keynesian model with
+financial intermediaries (henceforth FIs) which was recently developed by Carl-
+strom et al. (2017). The model differs from "standard" DSGE models (see, for
+instance, Fern´
+andez-Villaverde and Rubio-Ram´
+irez, 2006; Christiano, Eichenbaum
+and Evans, 2005; Smets and Wouters, 2007) in the following ways.
+Bond market: One key feature leading to the effectiveness of bond purchases
+in this model is that the financial market is assumed to be segmented. In par-
+ticular, it is assumed that only FIs can purchase long-term bonds in the financial
+market. There are two types of long-term bonds available: investment bonds, Ft
+,
+issued by households and government bonds, Bt
+, issued by the government. Fol-
+lowing Woodford (2001), long-term investment and long-term government bonds
+are modeled as perpetuities, which pay exponentially decaying coupons 1, , 2, ... .
+Perpetuities issued at time t pay their first coupon in t + 1, as shown in table 1.
+Table 1: Bond pricing
+TEXT t t+1 t+2 t+3 t+4
+Bond Price TEXT Qt
+Coupon TEXT 1  2 ...
+The corresponding price of the perpetuity is given by Qt
+= 1/(R10
+t
+- ), implying
+that the gross yield to maturity (i.e., the discount rate that makes the present
+7
+value of the bond's stream of promised cash payments equal to its price) is given
+by R10
+t
+= Q-1
+t
++ . The duration is calibrated to be ten years (40 quarters), i.e.,
+40 = (1 - )(-1), which implies  = 0.975.
+Financial intermediaries: In addition to the assumption of a segmented finan-
+cial market, the model features financial intermediaries which trade in the financial
+market. These FIs use accumulated net worth, Nt
+, and (short-term) deposits, Dt
+,
+to finance purchases of long-term (investment and government) bonds. From the
+perspective of the FIs, long-term government bonds and long-term investment
+bonds are perfect substitutes. Their balance sheet ­ in real terms ­ is given by
+¯
+Bt
++ ¯
+Ft
+=
+Dt
+Pt
++ Nt
+= Lt
+Nt
+, (1)
+where Lt
+denotes leverage of the FIs and ¯
+Bt
+ Bt
+Pt
+Qt
+and ¯
+Ft
+ Ft
+Pt
+Qt
+denote the
+real market values of government and investment bonds, respectively.
+The ability of FIs to adjust their liability position (for instance, in response to
+financial market shocks) is assumed to be limited by two constraints. First, FIs
+face quadratic adjustment cost in net worth accumulation; second, FIs are leverage-
+constrained, because they face what is known as a "hold-up"problem. This hold-up
+problem emerges because FIs can choose to default on obligations to depositors.
+If FIs choose to default, depositors can, by assumption, only seize a share (1 - µt
+)
+of the FIs assets. The remaining share will be kept by FIs. However, the share of
+seized assets is assumed to depend on the level of net worth of the FIs as well as on
+other state variables. In particular, higher net worth makes the hold-up problem
+8
+less severe.
+To make sure that the FIs will never default on their obligations to depositors, the
+value of their expected profits needs to be greater than (or at least equal to) the
+value of the share of assets that can be seized in the event of a default. Thus, the
+binding time-t incentive compatibility constraint is given by
+Et
+Pt
+Pt+1
+t+1
+RL
+t+1
+- Rd
+t
+Lt
++ Rd
+t
+Nt
+= µt
+Lt
+Nt
+Et
+t+1
+Pt
+Pt+1
+RL
+t+1
+, (2)
+where Pt
+denotes the price level at time t, RL
+t
+and Rd
+t
+denote the long-term and
+the deposit rates, and t+1
+describes the Lagrangian multiplier associated with
+the household's optimal consumption decision. In equation (2), the left-hand side
+describes the time-t+1 expected profits (measured in consumption equivalents)
+and the right-hand side denotes the value of the share of assets (also measured in
+consumption equivalents) that the FIs will seize in the case in which they choose
+to default.
+Given these two constraints (i.e., the net worth adjustment cost and the incentive
+constraint), the FIs maximize their value function:
+Vt
+= Et
+
+s=0
+()st+s
+divt+s
+, (3)
+where  is an additional impatience parameter of the FIs and divt+s
+denotes ex-
+pected future dividends, subject to their budget constraint:
+divt
++ Nt
+[1 + f (Nt
+)] 
+Pt-1
+Pt
+RL
+t
+- Rd
+t-1
+Lt-1
++ Rd
+t-1
+Nt-1
+, (4)
+9
+which states that dividends and adjustments of the stock of net worth (diminished
+by adjustment cost) need to be financed by generated profits. In this budget
+constraint, RL
+t+1
+ 1+Qt+1
+Qt
+and f (Nt
+)  n
+2
+Nt-Nss
+Nss
+2
+denotes the net worth
+adjustment cost.8
+Households: Households are assumed to maximize their utility
+Et
+
+s=0
+sexp(rnt+s
+) ln(Ct+s
+- hCt+s-1
+) - 
+H1+
+t+s
+(j)
+1 + 
+, (5)
+where  is the discount factor,  is the inverse elasticity of labor supply,  is
+the relative utility weight of labor, Ct
+is consumption, h is the degree of habit
+formation, Ht
+(j) is the labor input of household j, and exp(rnt
+) is a discount
+factor shock which follows an AR(1) process. Households take into account the
+following budget constraint:
+Ct
++
+Dt
+Pt
++ Pk
+t
+It
++
+Ft-1
+Pt
+
+Wt
+(j)
+Pt
+Ht
+(j) + Rk
+t
+Kt-1
+- Tt
++
+Dt-1
+Pt
+Rt-1
++
+Qt
+(Ft
+- Ft-1
+)
+Pt
++ divt
+, (6)
+where Dt
+denotes short-term deposits, Kt
+is the physical capital stock, Wt
+(j)
+denotes the nominal wage, Rd
+t
+= Rt
+is the nominal interest rate on deposits,9 Rk
+t
+is
+the real rental rate of capital, Tt
+is lump-sum taxes, and divt
+is the dividend flow
+8The right-hand side of equation (4) can be expanded into two components: RL
+t
+Lt-1
+Nt-1
+-
+Rd
+t-1
+(Lt-1
+Nt-1
+- Nt-1
+), where the first component, RL
+t
+Lt-1
+Nt-1
+, describes the FI's income
+from credit operations and the second component, Rd
+t-1
+(Lt-1
+Nt-1
+- Nt-1
+), denotes the cost
+associated with its deposits.
+9Since T-bills are used to implement the short-term policy rate, Rt
+, and T-bills are perfect
+substitutes with deposits, the deposit rate equals the policy rate.
+10
+from financial intermediaries. In addition, households take into account the law of
+motion for physical capital:
+Kt
+ (1 - )Kt-1
++ It
+, (7)
+and, in particular, a loan-in-advance constraint, which describes that capital invest-
+ment of households needs to be financed by the issuance of long-term investment
+bonds:
+Pk
+t
+It
+
+Qt
+(Ft
+- Ft-1
+)
+Pt
+=
+Qt
+CIt
+Pt
+, (8)
+where Pk
+t
+is the real price of capital, It
+denotes investment in physical capital, Ft-1
+denotes household's nominal liabilities at time t, CIt
+= (Ft
+- Ft-1
+) is the time-t
+issuance of new investment bonds, and Qt
+denotes the time-t price of newly issued
+bonds. As described below, it is mainly through this loan-in-advance constraint
+that QE, via its impact on bond prices, is going to have real effects.
+The rest of the model is standard in the sense that it exhibits the typical New
+Keynesian features. As in Erceg, Henderson and Levin (2000), households are
+monopolistic suppliers of differentiated labor inputs Ht
+(j). They set wages on a
+staggered basis (`
+a la Calvo). In each period, the probability of resetting the wage
+is (1 - w
+), while with the complementary probability the wage is automatically
+increased following an indexing rule, Wt
+(j) = w
+t-1
+Wt-1
+(j). The problem for
+household j who can reset its wage at time t is
+max
+Wt(j)
+Et
+
+s=0
+s
+w
+s -
+H1+
+t+s
+(j)
+1 + 
+exp(rnt+s
+)w,t+s
++ t+s
+Wt
+(j)
+Pt+s
+Ht+s
+(j) , (9)
+11
+where the first term describes the disutility of labor, which is subject to a discount
+factor shock and a markup shock, w,t+s
+. The second term describes the real wage
+income, which is multiplied by the household's marginal utility of consumption,
+t+s
+.
+Goods market: Final goods producers combine differentiated intermediate goods,
+Yt
+(i), into a homogeneous good, Yt
+, according to the technology:
+Yt
+= 1
+0
+Yt
+(i)
+p-1
+p di
+p
+p-1
+. (10)
+The final goods producers buy the intermediate goods on the market, package Yt
+,
+and resell it to consumers. These firms maximize profits in a perfectly competitive
+environment.
+A continuum of monopolistically competitive firms combine capital Kt-1
+and labor
+Ht
+to produce intermediate goods according to a standard Cobb-Douglas technol-
+ogy:
+Yt
+(i) = At
+Kt-1
+(i)Ht
+(i)1-, (11)
+where At
+denotes a technology shock which follows an AR(1) process. These
+firms maximize profits subject to their production function. The intermediate
+goods producers set prices based on Calvo contracts. In each period, firms adjust
+their prices with probability (1 - p
+). For those firms that cannot adjust their
+prices in a given period, prices will be reset according to the following indexation
+rule: Pt
+(i) = p
+t-1
+Pt-1
+(i). Thus, the corresponding maximization problem for the
+12
+intermediate goods producers is
+max
+Pt(i)
+t
+= Et
+
+s=0
+s
+p
+st+s
+t
+
+
+
+
+Pt
+(i)
+s
+k=1
+p
+t+k-1
+Pt+s
+- p,t+s
+mct+s
+(i)
+
+
+
+
+Yt+s
+(i), (12)
+where p,t+s
+is an AR(1) price mark-up shock, t
+is gross inflation, p
+denotes the
+degree of price indexation, and mct
+denotes real marginal cost.
+Capital goods producers transform It
+units of final goods into t
+1 - S It
+It-1
+It
+units of new capital goods. The function S(·) captures the presence of adjustment
+cost in investment ­ i.e., S It
+It-1
+ i
+2
+It
+It-1
+- 1
+2
+­ and t
+represents an AR(1)
+investment-specific shock. The time-t profit of capital producers is given by
+Pk
+t
+t
+1 - S
+It
+It-1
+It
+- It
+. (13)
+Government policies: Fiscal policy is passive, i.e., lump-sum taxes move to
+support interest payments on government debt while there are no other government
+expenditures. The central bank follows a standard Taylor rule:
+Rt
+= (Rt-1
+) Rss
+
+t
+Yt
+Yt-1
+y 1-
+. (14)
+Equilibrium conditions: In total, the non-linear model features 30 equilibrium
+conditions, 7 AR(1) processes, and 8 exogenous shocks (in addition to the shocks
+13
+for the AR(1) processes, the shock TR
+t
+controls the exogenous transient interest-
+rate peg).10
+The corresponding endogenous variables are gathered in the vectors 1t
+and 2t
+,
+and the exogenous variables in the vector t
+:
+1t
+= t
+, Ct
+, It
+, Ht
+, Mt
+, Rk
+t
+, Vt
+, Rt
+, RL
+t
+, R10
+t
+, Qt
+, ¯
+Ft
+, Nt
+, Lt
+, mct
+, ...
+MPKt
+, MPLt
+, Pk
+t
+, Yt
+, Dp
+t
+, Kt
+, t
+, t
+, Xpn
+t
+, Xpd
+t
+, Xwn
+t
+, Xwd
+t
+, wt
+, wt
+, Dw
+t
+2t
+= ¯
+Bt
+, At
+, rnt
+, t
+, µt
+, p,t+s
+, w,t+s
+t
+= TR
+t
+,  ¯
+B
+t
+, A
+t
+, rn
+t
+, 
+t
+, µ
+t
+, p
+t
+, w
+t
+.
+While we incorporate all of the shocks to obtain empirically plausible estimates
+for the model's structural parameters (see table 2 in appendix B), we set most
+of the shocks to zero when we analyze the reversal puzzle. Specifically, we then
+only consider the shocks to the two policy rules, i.e., t
+= TR
+t
+,  ¯
+B
+t
+. . The first is
+needed to implement an interest-rate peg, the latter to trigger the QE program,
+which is described formally in the next section.
+10The individual equations of the non-linear equilibrium conditions are presented in Appendix
+A.
+14
+3 Modeling QE and an interest-rate peg
+We assume that the government controls the supply of long-term bonds indepen-
+dently of macroeconomic conditions. As in Carlstrom et al. (2017), a QE program
+is implemented by a persistent AR(2) process for the real market value of long-term
+bonds available to the financial intermediaries:
+¯
+Bt
+= ¯
+B(1-¯
+1+¯
+2)
+ss
+¯
+Bt-1
+¯
+1 ¯
+Bt-2
+-¯
+2  ¯
+B
+t
+. (15)
+This assumption is useful for two reasons: First, the AR(2) process is part of the
+model's equilibrium conditions and therefore taken into account by every agent.
+Thus, agents perfectly anticipate the path of the outstanding stock (value) of gov-
+ernment bonds in the economy once a QE program has been started. Second, the
+(inverse) hump shape implied by an AR(2) process is well suited to representing
+a plausible QE program: During the phase of purchases, the total value of out-
+standing bonds held by the public (i.e., excluding the central bank) declines, while
+it returns only gradually to the steady state after the purchases stop eventually ­
+in our case after 6 quarters. Technically, the QE program is triggered by a single
+shock, i.e.,  ¯
+B
+t
+< 1, that occurs in the first period of the model simulation (see
+figure 1).
+15
+Figure 1: Total value of long-term bonds held by the public
+5 10 15 20 25
+-0.08
+-0.07
+-0.06
+-0.05
+-0.04
+-0.03
+-0.02
+-0.01
+0
+Market Value for Long-Term Bonds in % Dev from ss
+Note: The solid line represents the evolution of ¯
+Bt
+(i.e., the market value of long-term bonds)
+in percentage deviation from the steady state over 25 quarters.
+The interest-rate peg is implemented via a sequence of shocks, which consists of
+binary dummy variables, TR
+t
+ {0, 1}.11 These are set to one for periods of pegged
+nominal rates and zero otherwise:
+Rt
+= TR
+t
+(Rss
+) + 1 - TR
+t
+(Rt-1
+) Rss
+
+t
+Yt
+Yt-1
+y 1-
+. (16)
+4 Solution method
+We conduct our analysis by solving the non-linear model under perfect foresight,
+i.e., the agents in the economy anticipate future shocks perfectly. The model
+11One could probably implement the transient interest-rate peg via a non-differentiable func-
+tion (i.e., a min- or max-operator). However, this would render the peg endogenous with regard
+to its duration. Implementing the peg via the dummy approach allows us to determine the
+duration of the peg in a completely exogenous way.
+16
+equations can be cast into the following general form:
+Et
+[ (t+1
+, t
+, t-1
+, t
+)] = 0, (17)
+where Et
+denotes the expectation operator,  is a non-linear function, t
+summa-
+rizes all endogenous variables of the system, and t
+includes the two exogenous
+variables,  ¯
+B
+t
+and TR
+t
+. As mentioned, knowledge of the latter shock implies that
+the agents in the economy also fully anticipate the interest rate path of monetary
+policy. Thus, every component of t
+is perfectly known and we can proceed as
+if the economy were purely deterministic. That is, we can skip Et
+from equation
+(17) and stack the set of equilibrium equations (for each of the T periods of the
+simulation horizon) as follows:
+ (2
+, 1
+, 0
+, 1
+) = 0
+.
+.
+.
+.
+.
+.
+ (T+1
+, T
+, T-1
+, T
+) = 0. (18)
+We solve the system of stacked equations via Newton's method as described in
+Adjemian and Juillard (2014).12 The simulations are initialized at the steady state
+­ such that 0
+is given ­ and will return to it within our pre-specified simulation
+horizon,13 i.e., the initial as well as the terminal state (T+1
+) of the simulations
+12We implement this procedure using Dynare 4.4.3., which offers several algorithms to solve
+models under the assumption of perfect foresight. The appearance of the reversal puzzle is not
+a feature of the specific algorithm we use to obtain the subsequent results.
+13We set T = 500 to ensure a successful transition between initial and terminal state.
+17
+will be the steady state.
+5 The reversal puzzle
+5.1 The benchmark case: QE without interest-rate peg
+We first consider a QE shock without an accompanying transient interest-rate peg
+to describe the transmission of QE in this model. While it is not the primary
+focus of our analysis, it shows that the model is perfectly able to reproduce the
+conventional result: QE is expansionary and inflationary.
+The exogenous process describing the bond purchase program is triggered by a
+single shock in the first period of the simulation. As monetary policy follows a
+prototypical Taylor rule, TR
+t
+is zero for all t.
+18
+Figure 2: Simulation of a QE shock without accompanying transient interest-rate
+peg
+5 10 15 20 25
+0
+0.005
+0.01
+Aggregate Output in % Dev from ss
+5 10 15 20 25
+0
+5
+x 10-3
+Inflation in %P Dev from ss (annualized)
+5 10 15 20 25
+0
+0.01
+Policy Rate in %P Dev from ss (annualized)
+5 10 15 20 25
+-1.5
+-1
+-0.5
+0
+x 10-3
+Long Rate in %P Dev from ss (annualized)
+5 10 15 20 25
+0
+0.05
+0.1
+Investment in % Dev from ss
+5 10 15 20 25
+0
+5
+10
+15
+x 10-3Real Inv. Bonds in % Dev from ss
+5 10 15 20 25
+-0.1
+0
+0.1
+0.2
+Ex-ante Real Rate in % Dev from ss
+5 10 15 20 25
+-0.04
+-0.02
+0
+Fin. Distortion in % Dev from ss
+5 10 15 20 25
+-5
+0
+x 10-3 Net Worth in % Dev from ss
+5 10 15 20 25
+-0.015
+-0.01
+-0.005
+Leverage in % Dev from ss
+Note: The figure shows responses of (quarterly) output, investment, real investment bonds, net
+worth, and the financial distortion in percent deviations from the steady state. Inflation, the
+real interest rate, leverage, as well as the short- and long-term rates are measured in
+(annualized) percentage point deviations from the steady state.
+The transmission can be described as follows. The decreasing supply of long-
+term government bonds available for FIs implies an upward pressure on its price
+and, correspondingly, lowers its yield to maturity ­ moderately but persistently
+(the yield to maturity is given by R10
+t
+= 1/Qt
++ ). The term premium, too,
+decreases (which in the present model is essentially the distortion that is related
+to the loan-in-advance constraint).14 The decrease in available bonds leads to a
+reduction in banks' net worth and leverage. Thus, the purchase of bonds shortens
+the FIs' balance sheet, but net worth mobility is limited due to the portfolio
+14Accordingly, the QE program reduces the distortion that is due to market segmentation.
+19
+adjustment cost.15 Correspondingly, FIs demand for investment bonds increases
+(portfolio adjustment). Since investment bonds and government bonds are perfect
+substitutes, the price of investment bonds also rises. Therefore, the households'
+loan-in-advance constraint is relaxed and, as a result, investment demand increases.
+Higher investment demand, in turn, increases aggregate output and so does the
+inflation rate. In short, QE is expansionary and inflationary in the present model
+and, as a response, monetary policy increases its policy rate if it follows a Taylor
+rule.
+5.2 Sign reversals: QE with interest rate peg
+To illustrate the reversal puzzle that is closely related to the interest-rate peg, we
+now assume that the central bank does not follow a Taylor rule but instead keeps
+the short-term nominal interest rate unchanged for a pre-announced period of time,
+P, alongside its QE program. Arguably, this scenario bears major relevance since
+a QE program is typically introduced when the policy rate cannot be lowered any
+further. Furthermore, central banks typically do not want to offset the desired
+expansionary effect of a QE program by increasing the policy rate.
+Figure 3 presents the results for output, inflation, and the short- as well as long-
+term rates. Panel (a) shows simulated time paths when the policy rate is kept
+constant for up to four periods, i.e., {P  Z | 0  P  4}, panel (b) presents the
+corresponding outcomes for {P  Z | 5  P  10}, and panel (c) shows results for
+{P  Z | 19  P  25}.
+15Note: since net worth mobility is limited, arbitrage opportunities are not eliminated imme-
+diately.
+20
+Figure 3: Simulation results of a QE shock in combination with an interest-rate
+peg of variable duration under perfect foresight
+(a) Zero to four periods of pegged rates
+5 10 15 20 25
+0
+0.05
+0.1
+Aggregate Output in % Dev from ss
+5 10 15 20 25
+0
+0.05
+0.1
+Inflation in %P Dev from ss (annualized)
+5 10 15 20 25
+0
+0.02
+0.04
+0.06
+Policy Rate in %P Dev from ss (annualized)
+5 10 15 20 25
+-8
+-6
+-4
+-2
+0
+x 10-3
+Long Rate in %P Dev from ss (annualized)
+(b) Five to ten periods of pegged rates
+5 10 15 20 25
+-0.06
+-0.04
+-0.02
+0
+Aggregate Output in % Dev from ss
+5 10 15 20 25
+-0.08
+-0.06
+-0.04
+-0.02
+0
+Inflation in %P Dev from ss (annualized)
+5 10 15 20 25
+-20
+-15
+-10
+-5
+0
+x 10-3
+Policy Rate in %P Dev from ss (annualized)
+5 10 15 20 25
+0
+1
+2
+x 10-3
+Long Rate in %P Dev from ss (annualized)
+(c) 19 to 25 periods of pegged rates
+5 10 15 20 25
+0
+0.05
+0.1
+0.15
+0.2
+Aggregate Output in % Dev from ss
+5 10 15 20 25
+0
+0.1
+0.2
+Inflation in %P Dev from ss (annualized)
+5 10 15 20 25
+-6
+-4
+-2
+0
+x 10-3
+Policy Rate in %P Dev from ss (annualized)
+5 10 15 20 25
+-0.015
+-0.01
+-0.005
+0
+Long Rate in %P Dev from ss (annualized)
+Note: The figure shows simulation results for output, inflation, short-term interest rate, and
+long-term interest rate based on a QE shock in combination with an interest-rate peg of
+duration P. The period zero denotes the steady-state. The QE shock, together with the first
+forward guidance shock, occurs in period one. Panel (a) shows results for 0  P  4, panel (b)
+shows results for 5  P  10, and panel (c) shows results for 19  P  25.
+21
+For up to three periods of pegged interest rates, the QE program leads to a com-
+paratively modest increase in inflation and output. For a duration of four quarters,
+however, the corresponding responses increase markedly. The peak effect of output
+for an additional period of pegged rates (i.e., P = 4 compared to P = 3) is about
+four times larger.
+If we increase the duration of pegged rates further, i.e., 5  P  10 (see panel (b)),
+the simulated time series reverse their sign, that is, inflation and output decrease
+considerably after the inception of QE. Put differently, for 5  P  10 the model
+predicts a severe recession in response to a QE program. Yet, if we increase
+the duration of the interest-rate peg even further (see panel (c)), the sign of the
+simulated time series switches once again, predicting a rather large expansionary
+effect. Thus, in response to a QE shock in combination with an interest-rate peg,
+the model variables oscillate with the duration of the peg.
+How can such a remarkable reversal be explained? As explained in our introduc-
+tion, Carlstrom et al. (2015) argue that in the context of a standard 3-equation
+New Keynesian model, it is, in particular, inflation indexation that is an impor-
+tant precondition for the sign switch to arise. This is because, if the Phillips curve
+entails lagged inflation (which adds an endogenous state variable to the system),
+then the terminal level of inflation is no longer exogenous. There is nothing to pin
+down the terminal level of inflation at the end of the peg. Consequently, if initial
+inflation depends on terminal inflation, but terminal inflation depends on initial
+inflation, a counterintuitive reversal may arise. To gain a deeper understanding of
+why reversals may occur, we complement the analysis by Carlstrom et al. (2015).
+In particular, we first take a closer look at the forward solution of the sub-system
+22
+of the difference equations. Later on, we complete the discussion by elaborating
+on the backward solution.
+We consider the linearized version of the model, which we can write in the following
+general form:
+0
+Yt
+= 1
+Yt-1
++ t
++ t
+. (19)
+Yt
+denotes the endogenous variables, t
+describes the fundamental shocks (for in-
+stance, the QE shock or the shock governing the interest-rate peg), and t
+indicates
+the forecast errors. Following Sims (2001), we apply the QZ decomposition:
+Q Z = 0
+(20)
+Q Z = 1
+. (21)
+As a result, we can rewrite equation (19) such that
+Q  Z Yt
+t
+= Q  Z Yt-1
+t-1
++t
++ t
+. (22)
+Premultiplying by Q and redefining Z Yt
+ wt
+implies
+wt
+= wt-1
++ Qt
++ Qt
+. (23)
+23
+Partitioning equation (23) into explosive and nonexplosive parts yields
+
+
+
+11
+12
+0 22
+
+
+
+
+
+
+w1,t
+w2,t
+
+
+
+=
+
+
+
+11
+12
+0 22
+
+
+
+
+
+
+w1,t-1
+w2,t-1
+
+
+
++
+
+
+
+Q1
+Q2
+
+
+
+(t
++ t
+) , (24)
+where the second equation, i.e., the one containing the unstable eigenvalues, can
+separately be written as
+22
+w2,t
+= 22
+w2,t-1
++ Q2
+(t
++ t
+) . (25)
+Multiply equation (25) by -1
+22
+to obtain
+-1
+22
+22
+w2,t
+= -1
+22
+22
+w2,t-1
++ -1
+22
+Q2
+(t
++ t
+) . (26)
+Rewrite this expression as
+Jw2,t
+= w2,t-1
++ -1
+22
+Q2
+(t
++ t
+) . (27)
+In this expression, J  -1
+22
+22
+collects the ratios (i.e., the generalized eigenvalues)
+of the diagonal elements of  and . Thus, J contains the generalized eigenvalues
+on its diagonal (i.e., when jj
+denotes the diagonal elements of matrix  and jj
+denotes the diagonal elements of matrix , then the generalized eigenvalues on the
+diagonal of matrix J are the ratios of these diagonal elements of  and ), such
+24
+that
+J =
+
+
+
+
+
+
+
+
+
+11
+11
+
+22
+22
+...
+ jj
+jj
+
+
+
+
+
+
+
+
+
+. (28)
+Shifting equation (27) one period forward and solving for w2,t
+, we finally obtain
+w2,t
+= Jw2,t+1
+- -1
+22
+Q2
+(t+1
++ t+1
+) . (29)
+Iterating forward yields:
+w2,t
+= -
+
+n=1
+Jn-1-1
+22
+Q2
+(t+n
++ t+n
+) . (30)
+Here, it is assumed that limn
+Jnw2,t+n
+= 0. Since equation (30) contains future
+fundamental shocks and forecast errors, taking expectations leads to
+w2,t
+= -Et
+
+n=1
+Jn-1-1
+22
+Q2
+t+n
+. (31)
+Since under perfect foresight the transient interest-rate peg is perfectly known to
+the agents in the economy, Et
+[t+n
+] will be nonzero for the time period the central
+bank actually fixes the policy rate (i.e., P > 0) and zero afterwards. If some of the
+diagonal elements of J turn out to be complex, they can be written in polar form.
+Define the complex diagonal elements jj
+jj
+= zjj
+. Then, we can write zjj
+= a+bi or
+in polar form zjj
+= r (cos  + i sin ).16 If now ­ because of known nonzero future
+16a describes the real part of a complex eigenvalue and bi describes the imaginary part. While
+25
+t+n
+­ also powers of J enter the solution for w2,t
+, we can write (by de Moivre's
+formula):
+zk
+jj
+= rk (cos k + i sin k) , for k = 0, ..., P - 1. (32)
+Hence, the forward solution of the system involves trigonometric functions, which
+depend on the length P of a given interest-rate peg. Thus, the longer the central
+bank keeps the policy rate fixed (i.e., the bigger P is), the farther we "move" along
+the trigonometric functions contained on the diagonal elements of matrix J. As a
+consequence, with an increasing duration of pegged policy rates, the simulations
+(which we presented in figure 3) first approach an asymptote (i.e., the effect of an
+additional period of pegged policy rates grows exponentially) and afterwards the
+simulations switch their sign before they reach another asymptote and switch their
+sign again, and so on.
+While the reversal completely vanishes if one shuts down inflation indexation in the
+context of the 3-equation DNK model, as indicated by Carlstrom et al. (2015), this
+should not be expected for the more elaborate medium-sized model presented here,
+since this model contains several other backward-looking elements (i.e., endogenous
+state variables like capital, wages, net worth, etc.). And it is the interplay of
+backward and forward-looking elements in the model that can give rise to complex-
+valued eigenvalues and, thus, sign switches in the model's simulations.
+a and b are real numbers describing a pair of numerical Cartesian coordinates, r and  denote
+the corresponding polar coordinates (i.e., distance and angle).
+26
+5.3 A sensitivity analysis
+One might conjecture that the results thus far depend very much on the specific
+parameterization of the model. In this section, we document that this is not the
+case. To this end, we conduct an extensive grid search over the model's structural
+parameters and illustrate for which duration of the anticipated interest-rate peg
+reversals in the initial response of inflation occur. Specifically, we vary each param-
+eter one-by-one, holding the other parameters constant at their benchmark values,
+to document that the reversal does not arise only for a very specific paramterization
+of the model.
+The household sector: Figure 4 shows that simply reducing the forward-
+lookingness of the agents in the economy by decreasing the discount parameter
+ (see subpanel (a) in the upper left), or increasing the backward-lookingness of
+the agents by increasing the consumption habit parameter, does not prevent rever-
+sals from occuring. We only observe that the duration of the peg that is required
+for the reversal to appear changes. For instance, if households discount future
+consumption more heavily (a smaller value for ), the peg has to be a few quar-
+ters longer in order for the reversal to appear (this is consistent with Carlstrom
+et al. (2015) who document that the implementation of a discounted Euler equa-
+tion, along the lines of McKay, Nakamura and Steinsson (2016), does not resolve
+the reversal puzzle). In addition, variations in the parameters determining the
+investment decision of the households (i.e., the capital depreciation rate  and the
+capital adjustment costs i
+shown in the subpanels (c) and (d)) do not prevent
+sign switches.
+27
+Figure 4: Duration of nominal interest-rate peg for which the reversal puzzle occurs
+for different values of the household sector's structural parameters
+(a) Discount parameter 
+0.9 0.91 0.92 0.93 0.94 0.95 0.96 0.97 0.98 0.99 1
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+(b) Habit parameter h
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of h
+(c) Capital depreciation 
+0 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.01
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+(d) Capital adjustment cost i
+0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2 2.2 2.4
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+I
+Note: The figure shows simulations for increasing durations of a pegged policy rate of up to
+thirty quarters for different parameter values. The blue points indicate a different sign
+compared to the scenario without interest-rate peg. The red line marks the calibrated value for
+the respective parameters, which were used to carry out the analysis in subsections 5.1 and 5.2.
+The firm sector: Figure 5 presents results from our grid search over the param-
+eter values which drive the behavior of the price and wage setters (i.e., the Calvo
+parameters for prices, p
+, and wages, w
+, as well as the parameters for price and
+wage indexation, p
+and w
+). Once again, we observe that the required duration of
+the interest-rate peg in order for the reversal to appear, varies with different pa-
+rameter values. However, we observe that if firms behave in a less forward-looking
+manner (i.e., for Calvo parameters for prices and wages > 0.9), the peg has to be
+28
+a few years longer in order for the reversal to appear.
+Figure 5: Duration of nominal interest-rate peg for which the reversal puzzle occurs
+for different values of the firm sector's structural parameters
+(a) Calvo parameter: prices p
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+p
+(b) Calvo parameter: wages w
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+w
+(c) Price indexation p
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+p
+(d) Wage indexation w
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+w
+Note: The figure shows simulations for increasing durations of a pegged policy rate of up to
+thirty quarters. Again, the blue points indicate a different sign compared to the scenario
+without interest-rate peg. The red line marks the calibrated value for the respective
+parameters, which were used to carry out the analysis in subsections 5.1 and 5.2.
+It should be noted that even if we shut down price and wage indexation jointly
+(i.e., p
+= 0 and w
+= 0) and re-run all the grids for all structural parameter values,
+sign reversals still occur. Thus, beyond indexation, there remain elements in the
+present model that produce sign switches.
+29
+Monetary policy: Figure 6, finally, presents the results from a grid search over
+the Taylor-rule coefficients, which become active, of course, only after the peg has
+ended.17 As before, the occurrence of sign switches in the simulations does not
+depend on individual parameter values. Only the length of the peg, for which the
+reversal occurs, is affected by changes of the parameters. In particular, a more
+aggressive inflation stabilization (i.e., a higher coefficient 
+) requires a longer
+duration of the interest-rate peg in order for the reversal to occur. Introducing
+history dependence by means of interest rate smoothing does not prevent reversals
+from occurring, either; see upper left panel in figure 6.
+17Note that the agents perfectly anticipate the duration of forward guidance. Thus, they are
+perfectly aware of the point in time at which the Taylor rule is in place again.
+30
+Figure 6: Duration of nominal interest-rate peg for which the reversal puzzle occurs
+for different values of the Taylor-rule parameters
+(a) Interest rate smoothing 
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+(b) MP reaction coefficient on inflation 
+1.0 1.2 1.4 1.6 1.8 2.0 2.2 2.4 2.6 2.8 3
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+
+(c) MP reaction coefficient on output y
+0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+y
+Note: The figure shows simulations for increasing durations of a pegged policy rate of up to
+thirty quarters. Once more, the blue points indicate a different sign compared to the scenario
+without interest-rate peg. The red line marks the calibrated value for the respective
+parameters, which were used to carry out the analysis in subsections 5.1 and 5.2.
+6 Overcoming the reversal puzzle
+6.1 No anticipation
+Thus far, we have illustrated that the reversal puzzle is a very robust feature of the
+simulation set-up. Due to the presence of complex-valued eigenvalues, the model's
+dynamics switch sign, depending on the duration of a temporary interest-rate peg.
+31
+However, the complex eigenvalues on the main diagonal of the matrix J only imply
+a sign switch in the model simulations if the agents anticipate the interest-rate peg
+(i.e., Et
+[t+n
+] = 0). Thus, an obvious modification is to assume that agents do not
+anticipate the interest-rate peg. Instead, they are surprised each period that the
+interest rate is kept constant.
+To examine such a scenario, we use a procedure that has recently also been em-
+ployed by Arias, Erceg and Trabandt (2016), Christiano, Eichenbaum and Tra-
+bandt (2015), and Adjemian and Juillard (2013). In contrast to the perfect fore-
+sight approach, the endogenous variables are now computed by running a deter-
+ministic simulation for each period of the simulation horizon with the previous
+period as an initial condition for the next period and the steady state as terminal
+condition. In each period, agents now expect that the exogenous shocks will be
+zero for all future periods, i.e., they assume Et
+(t+n
+) = 0. Less technically, they
+expect that monetary policy does not peg its policy rate for an extended period of
+time P. Thus, at every step of the simulation (i.e., in each period), future shocks
+will not be anticipated, which implies that certainty equivalence applies. Figure 7
+presents the corresponding simulation results.
+32
+Figure 7: Simulation results of a QE shock in combination with an unanticipated
+interest-rate peg of variable duration
+5 10 15 20 25
+0
+0.01
+0.02
+0.03
+Aggregate Output in % Dev from ss
+5 10 15 20 25
+0
+0.01
+0.02
+Inflation in %P Dev from ss (annualized)
+5 10 15 20 25
+0
+0.005
+0.01
+0.015
+0.02
+Policy Rate in %P Dev from ss (annualized)
+5 10 15 20 25
+-3
+-2
+-1
+0
+x 10-3
+Long Rate in %P Dev from ss (annualized)
+Note: The figure shows simulation results for output, inflation, short-term interest rate, and
+long-term interest rate, based on a QE shock in combination with an unanticipated
+interest-rate peg of duration P, with 0  P  10. The period zero denotes the steady state.
+The QE shock, together with the first forward guidance shock, occurs in period one. The
+simulations are carried out based on the assumption that both price and wage indexation are
+present (i.e., p
+= 0.3876 and w
+= 0.3807).
+In the absence of anticipation, the dynamics of aggregate output and inflation
+neither explode nor reverse their sign, even if we extend the duration of the peg
+considerably. To see why this is the case, consider equation (31), which we show
+here again for convenience:
+w2,t
+= -Et
+
+n=1
+Jn-1-1
+22
+Q2
+t+n
+. (33)
+Recall: we solve the non-linear model for each period of the entire simulation
+33
+horizon. In each period, the model is solved under the assumption that t+n
+= 0
+for all n > 0. Thus, now the solution for w2,t
+does not depend on the matrix J
+anymore, such that the corresponding complex eigenvalues are no longer relevant.
+As a consequence, the simulated time paths of the model will not move along the
+trigonometric functions resulting from the complex elements on the main diagonal
+of matrix J. Thus, the explosive complex eigenvalues cannot induce explosive
+or cyclical effects in the solution of w2,t
+. The model-implied dynamics following
+a QE shock and a corresponding implementation of a transient interest-rate peg
+therefore deliver orthodox results.
+6.2 Price-level targeting
+While the anticipation of the interest-rate peg and therefore the expectations of
+the agents about future shocks are key to understanding the reversal puzzle, it is
+somewhat unrealistic, or at least unattractive, to assume, as in the last section,
+that agents are not able to take into account announced monetary policy measures
+like forward guidance. We now present a way of overcoming the puzzle without
+imposing such a strong assumption.
+An effective way of making a noteworthy change in what agents expect is to as-
+sume that monetary policy follows a price-level-targeting rule after the nominal
+interest-rate peg. Indeed, price-level targeting is known to be able to induce stabi-
+lization effects, even if the interest rate is kept constant. This is because price-level
+targeting implies history dependence of monetary policy, which in turn strengthens
+the expectations channel.
+34
+To illustrate the consequences of such a change in the monetary policy strategy, we
+therefore substitute the Taylor rule in Equation (16) with the following price-level
+targeting rule:
+Rt
+= TR
+t
+(Rss
+) + 1 - TR
+t
+(Rt-1
+) Rss
+Pp
+t
+Yt
+Yt-1
+y 1-
+, (34)
+where Pt
+describes the price level, and p
+the response coefficient of monetary pol-
+icy to deviations of the price level from its target (which is equal to one in our
+analysis).
+Figure 8: Duration of nominal interest-rate peg for which inflation reversals occur
+for different values of p
+(a) Duration of pegged rates: one to thirty quar-
+ters
+1.0 1.2 1.4 1.6 1.8 2.0 2.2 2.4 2.6 2.8 3
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Length of interest-rate pegs
+Values of 
+p
+(b) Duration of pegged rates: thirty to sixty
+quarters
+1.0 1.2 1.4 1.6 1.8 2.0 2.2 2.4 2.6 2.8 3
+30
+32
+34
+36
+38
+40
+42
+44
+46
+48
+50
+52
+54
+56
+58
+60
+Length of interest-rate pegs
+Values of 
+p
+Note: The figure shows simulations for increasing duration of a pegged policy rate. As above,
+the blue points indicate a different sign compared to the scenario without interest-rate peg.
+The red line marks the calibrated value for p
+.
+Figure 8 shows the results from a corresponding grid search analysis. The `empty'
+figure highlights that if the monetary authority switches to a price-level-targeting
+rule, the reversal puzzle completely vanishes, even for much longer durations of
+35
+pegged policy rates, i.e., for more than fifteen years. Why is this the case? The
+main difference between inflation targeting and price-level targeting is that, under
+the former strategy, shocks to the price level are treated as bygones. Thus, a
+policy that aims at keeping the future inflation rate close to a given target value
+in the medium term, will not correct for past shocks. Instead, under price-level
+targeting, the central bank commits itself to correcting deviations of the price level
+from its target. Thus, if there is a shock that pushes the price level away from the
+target price path, future inflation will be required to adjust in a way to bring the
+price path back to target. As a result, past deviations from target are corrected
+under price-level targeting. If monetary policy is credible, the forward-looking
+rational agents are going to expect a complete correction of past deviations. This,
+in turn, dampens agents' expectations about output and inflation deviations and
+therefore mitigates the expansionary effect of the anticipated nominal interest-rate
+peg together with the expansionary QE program on output and inflation from the
+very beginning. Due to the muted output and inflation responses, sign reversals
+do not occur even for very long durations of pegged nominal interest rates. Put
+differently, the response of inflation to, for instance, a series of forward guidance
+shocks (i.e., shocks governing the nominal interest-rate peg, TR
+t
+) will neither grow
+exponentially and reach an asymptote nor will it reverse its sign.
+36
+Figure 9: Macroeconomic implications of nominal interest-rate peg under price-
+level targeting
+5 10 15 20 25
+0
+2
+4
+6
+x 10-3
+Aggregate Output in % Dev from ss
+5 10 15 20 25
+-2
+0
+2
+x 10-3
+Inflation in %P Dev from ss (annualized)
+5 10 15 20 25
+0
+2
+4
+x 10-3
+Policy Rate in %P Dev from ss (annualized)
+5 10 15 20 25
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+x 10-3
+Long Rate in %P Dev from ss (annualized)
+Note: The figure shows simulations for output, inflation, and the short- as well as long-term
+interest rates, for an increasing duration of a pegged policy rate (i.e., zero to ten periods). The
+period zero denotes the steady state. The QE shock, together with the first forward guidance
+shock, occurs in period one.
+Figure 9 presents the simulated time paths for output, inflation, and the short-
+as well as long-term interest rate. The model implies plausible dynamics under
+reasonable policy scenarios, and even more importantly, the simulations do not
+change dramatically for only minor changes in the policy scenario.
+It is important to note that, with the price-level-targeting specification, the com-
+plex eigenvalues, showing up in the solution of the system, do not vanish (see also
+table 3 in appendix C). Put differently, the existence of complex eigenvalues is thus
+merely a necessary but not a sufficient condition for the reversal to appear. Intu-
+itively, to observe a reversal, the complex eigenvalues of the forward and backward
+37
+solution have to `interact' in a very specific way. To understand why these complex
+eigenvalues do not induce cyclical effects in the case of price-level targeting ­ even
+though there are anticipated future shocks hitting the system ­ we have to take a
+look at the solution of the system of difference equations as a whole.
+Having already solved for w2,t
+in equation (31), the final step is to solve for w1,t
+.
+Following Sims (2001) again, we consider the unique solution of the system18 in
+terms of wt
+= [w1,t
+, w2,t
+] , which is formulated below as
+
+
+
+11
+12
+- 22
+0 I
+
+
+
+
+
+
+w1,t
+w2,t
+
+
+
+=
+
+
+
+11
+12
+- 22
+0 0
+
+
+
+
+
+
+w1,t-1
+w2,t-1
+
+
+
++
+
+
+
+Q1
+- Q2
+0
+
+
+
+(t
+)
+- Et
+
+
+
+0
+
+n=1
+Jn-1-1
+22
+Q2
+t+n
+
+
+
+,
+where the matrix  describes the relationship between fundamental and expecta-
+tional errors, i.e., Q1
+ = Q2
+.
+Rearranging and taking the inverse formula for partitioned matrices into account
+18As derived in equation (43) in Sims (2001).
+38
+yields:
+
+
+
+w1,t
+w2,t
+
+
+
+=
+
+
+
+-1
+11
+--1
+11
+(12
+- 22
+)
+0 I
+
+
+
+
+
+
+11
+12
+- 22
+0 0
+
+
+
+
+
+
+w1,t-1
+w2,t-1
+
+
+
++
+
+
+
+-1
+11
+--1
+11
+(12
+- 22
+)
+0 I
+
+
+
+
+
+
+Q1
+- Q2
+0
+
+
+
+(t
+)
+-
+
+
+
+-1
+11
+--1
+11
+(12
+- 22
+)
+0 I
+
+
+
+
+
+
+0
+
+n=1
+Jn-1-1
+22
+Q2
+
+
+
+
+Et
+t+n
+.
+Thus, the solution for w1,t
+is also affected by nonzero future t+n
+via the matrix J
+w1,t
+= ... - -1
+11
+(12
+- 22
+)
+
+n=1
+Jn-1-1
+22
+Q2
+ Et
+t+n
+. (35)
+In contrast to the forward solution (i.e., the solution for w2,t
+), the matrices 11
+,
+12
+, and  now enter the expression for the solution of the stable part of the
+system (i.e., the solution for w1,t
+). This implies that these matrices may govern
+the whole system in such a way that the complex eigenvalues contained in both
+the stable and the unstable parts may 'cancel' each other out in the system. If
+this is the case, anticipated future shocks will no longer induce cyclical effects in
+the simulation of the model.
+To reiterate, given the assumption of perfect foresight, the presence of complex
+eigenvalues in the solution of the system is only a necessary but not a sufficient
+condition for the reversal puzzle to appear. It seems to be the balance between
+stable and unstable complex elements in the solution of the model that matters.
+39
+This reinforces the suggestion by Carlstrom et al. (2015), who argue that the
+source of the reversal puzzle is a feedback between forward and backward-looking
+factors of the underlying model. To us, this explanation is mirrored in the complex
+elements of the solution of the underlying system of difference equations.
+7 Conclusion
+The reversal puzzle is one of several peculiarities (like the forward guidance puzzle,
+paradox of toil etc.) that the New Keynesian model can produce when the nominal
+interest rate is constrained due to the zero lower bound or a temporary interest rate
+peg. In this study, we demonstrate that the reversal puzzle is a relevant and tena-
+cious phenomenon in a medium-scale DSGE model (with many endogenous state
+variables) by analyzing a plausible policy scenario in which the model economy is
+affected by a QE program and forward guidance.
+We provide results from extensive numerical research suggesting that the rever-
+sal puzzle appears for a wide range of different parameterizations of the model
+under investigation. In particular, we show that the reversal puzzle is not just
+the outcome of an irrelevant or negligible parameter constellation. It is rather
+an empirically relevant part of the overall parameter space that delivers inflation
+reversals for plausible durations of forward guidance.
+We discuss two modifications of our analysis to overcome the reversal puzzle which
+shed light on the important role of agents' expectations in delivering the puzzle.
+The first modification is to assume that agents in the model economy act under
+certainty equivalence, i.e., they take the nominal interest-rate peg into account
+40
+only contemporaneously, but expect the peg to be absent in the future. The
+second modification is to assume a price-level targeting rule instead of a Taylor rule
+while keeping the assumption of perfect foresight. Both modifications suggest the
+conclusion that the reversal puzzle disappears when expectations do not respond
+strongly to future shocks ­ in the first modification because the agents do not
+take into account future shocks at all (and, correspondingly, do not adjust their
+expectations), and in the second modification because the agents expect the central
+bank to fully correct for the shocks that make the price level deviate from its target
+path (which implies that agents correspondingly adjust their inflation expectations
+from the very beginning).
+The modifications we present to overcome the reversal puzzle illustrate the mech-
+anisms and the determinants of the puzzle, contributing to a better understanding
+of the phenomenon as such. However, in a sense, they are not practical solutions:
+Having a specific (policy) analysis in mind, there might be good reasons not to
+assume certainty equivalence or a central bank targeting the price level, not least
+because these elements might be undesirable from an empirical point of view. De-
+veloping practical solutions in this sense might be a promising avenue for future
+research.
+41
+References
+Adjemian, S. and Juillard, M. (2013). Stochastic Extended Path Approach. un-
+published manuscript.
+Adjemian, S. and Juillard, M. (2014). Assessing long run risk in a DSGE
+model under ZLB with the stochastic extended path approach. unpublished
+manuscript.
+Angeletos, G.-M. and Lian, C. (2016). Forward Guidance without Common Knowl-
+edge.
+Arias, J. E., Erceg, C. and Trabandt, M. (2016). The Macroeconomic Risks of
+Undesirably Low Inflation, European Economic Review 88: 88­107.
+Carlstrom, C. T., Fuerst, T. S. and Paustian, M. (2015). Inflation and output in
+New Keynesian models with a transient interest rate peg, Journal of Monetary
+Economics 76: 230­243.
+Carlstrom, C. T., Fuerst, T. S. and Paustian, M. (2017). Targeting Long Rates in
+a Model with Segmented Markets, American Economic Journal: Macroeco-
+nomics 9(1): 205­242.
+Chen, H., C´
+urdia, V. and Ferrero, A. (2012). The Macroeconomic Effects of Large-
+Scale Asset Purchase Programmes, Economic Journal 122: F289­F315.
+Christiano, L., Eichenbaum, M. and Trabandt, M. (2015). Understanding the
+Great Recession, American Economic Journal: Macroeconomics 7(1): 110­
+167.
+42
+Christiano, L. J., Eichenbaum, M. and Evans, C. L. (2005). Nominal Rigidities
+and the Dynamic Effects of a Shock to Monetary Policy, Journal of Political
+Economy 113(1): 1­45.
+Cochrane, J. H. (2015). The New-Keynesian Liquidity Trap. unpublished
+manuscript.
+Del Negro, M., Giannoni, M. and Patterson, C. (2015). The Forward Guidance
+Puzzle, Staff Reports 574, Federal Reserve Bank of New York.
+Erceg, C. J., Henderson, D. W. and Levin, A. T. (2000). Optimal Monetary Policy
+with Staggered Wage and Price Contracts, Journal of Monetary Economics
+46(2): 281­313.
+Farhi, E. and Werning, I. (2017). Monetary Policy, Bounded Rationality, and
+Incomplete Markets, Working Paper 23281, NBER.
+Fern´
+andez-Villaverde, J. and Rubio-Ram´
+irez, J. F. (2006). A Baseline DSGE
+Model. unpublished manuscript.
+Garc´
+ia-Schmidt, M. and Woodford, M. (2015). Are Low Interest Rates Deflation-
+ary? A Paradox of Perfect-Foresight Analysis, NBER Working Paper 21614.
+Gertler, M. and Karadi, P. (2013). QE1 vs. 2 vs. 3...: A Framework for Analyzing
+Large-Scale Asset Purchases as a Monetary Policy Tool, International Journal
+of Central Banking 9(S1): 5­53.
+Holden, T. (2017). Existence and uniqueness of solutions to dynamic models with
+occasionally binding constraints.
+43
+Kiley, M. T. (2016). Policy Paradoxes in the New Keynesian Model, Review of
+Economic Dynamics 21: 1­15.
+Las´
+een, S. and Svensson, L. E. (2011). Anticipated Alternative Policy Rate Paths
+in Policy Simulations, International Journal of Central Banking 7(3): 1­35.
+Lind´
+e, J., Smets, F. and Wouters, R. (2016). Challenges for Macro Models Used
+at Central Banks, Research Paper Series 147, Sveriges Riksbank.
+McKay, A., Nakamura, E. and Steinsson, J. (2016). The Discounted Euler Equa-
+tion: A Note, Working Paper 22129, NBER.
+Sims, C. A. (2001). Solving Linear Rational Expectations Models, Computational
+Economics 20: 1­20.
+Smets, F. and Wouters, R. (2007). Shocks and Frictions in US Business Cycles: A
+Bayesian DSGE Approach, American Economic Review 97(3): 586­606.
+Woodford, M. (2001). Fiscal requirements for price stability, Journal of Money,
+Credit and Banking 33: 669­728.
+44
+A Non-linear equilibrium conditions
+Below, we show the non-linear equilibrium conditions of the model (without cor-
+responding AR(1) processes) outlined in section 2. They largely correspond to
+Appendix A in Carlstrom et al. (2017).
+t
+=
+rnt
+Ct
+- hCt-1
+- Et
+hrnt+1
+Ct+1
+- hCt
+(A.1)
+t
+= Et
+
+t+1
+t+1
+Rd
+t
+(A.2)
+wt
+1+w =
+w
+w
+- 1
+Xwn
+t
+Xwd
+t
+(A.3)
+Xwn
+t
+= w,t
+bt
+ww(1+)
+t
+H1+
+t
++ Et
+w
+w(1+)
+t+1
+-ww(1+)
+t
+Xwn
+t+1
+(A.4)
+Xwd
+t
+= t
+ww
+t
+Ht
++ w
+-w(w-1)
+t
+(w-1)
+t+1
+Et
+Xwd
+t+1
+(A.5)
+wt
+1-w = (1 - w
+) (w
+t
+)1-w + w
+w
+t-1
+wt-1
+t
+1-w
+(A.6)
+t
+Mt
+Pk
+t
+= Et
+t+1
+Rk
+t+1
++ Mt+1
+Pk
+t+1
+(1 - ) (A.7)
+t
+Mt
+Qt
+= Et
+t+1
+(1 + Qt+1
+Mt+1
+)
+t+1
+(A.8)
+V h
+t
+= bt
+ln (Ct
+- hCt-1
+) - Dw
+t
+
+H1+
+t
+1 + 
++ Et
+V h
+t+1
+(A.9)
+Rk
+t
+= mct
+MPKt
+(A.10)
+wt
+= mct
+MPLt
+(A.11)
+
+t
+=
+p
+p
+- 1
+Xpn
+t
+Xpd
+t
+t
+(A.12)
+Xpn
+t
+= Yt
+p,t
+mct
+(i) + Et
+p
+t+1
+t
+-pp
+t
+p
+t+1
+Xpn
+t+1
+(A.13)
+Xpd
+t
+= Yt
++ Et
+p
+t+1
+t
+p(1-p)
+t
+p-1
+t+1
+Xpd
+t+1
+(A.14)
+(t
+)1-p = (1 - p
+) (
+t
+)1-p + p
+p
+t-1
+1-p (A.15)
+45
+Dp
+t
+= p
+t
+(1 - p
+)
+t
+-p + p
+p
+t-1
+-p Dpt-1
+(A.16)
+Dw
+t
+= w
+t
+w
+t-1
+w wt
+wt-1
+w
+Dwt-1
++ (1 - w
+)
+w
+t
+wt
+-w
+(A.17)
+Yt
+= Ct
++ It
+(A.18)
+Yt
+= At
+K
+t
+H1-
+t
+/Dpt
+(A.19)
+Kt
+= (1 - ) Kt-1
++  1 - I
+1
+2
+It
+It-1
+- 1
+2
+It
+(A.20)
+Pk
+t
+t
+1 - S
+It
+It-1
+- S
+It
+It-1
+It
+It-1
+=
+1 - Pk
+t+1
+t+1
+t
+t+1
+-S
+It+1
+It
+It+1
+It
+2
+(A.21)
+¯
+Bt
++ ¯
+Ft
+= Nt
++ Lt
+(A.22)
+Lt
+=
+Et
+t+1
+t+1
+Et
+t+1
+t+1
++ (t
+- 1) Et
+t+1
+t+1
+RL
+t+1
+Rd
+t
+(A.23)
+Pk
+t
+It
+= ¯
+Ft
+- 
+¯
+Ft
+t
+Qt
+Qt-1
+(A.24)
+t
+[1 + f (Nt
+) + Nt
+f (Nt
+)] = Et
+t+1
+
+Pt
+Pt+1
+RL
+t+1
+- Rd
+t
+Lt
++ Rd
+t
+(A.25)
+RL
+t
+=
+(1 + Qt
+)
+Qt-1
+(A.26)
+R10
+t
+= Q-1
+t
++  (A.27)
+MPKt
+= At
+Kt-1
+(i)-1Ht
+(i)1- (A.28)
+MPLt
+= (1 - ) At
+Kt-1
+(i)Ht
+(i)- (A.29)
+Rt
+= TR
+t
+(Rss
+) + 1 - TR
+t
+(Rt-1
+) Rss
+
+t
+Yt
+Yt-1
+y 1-
+(A.30)
+46
+B Steady-state & parameter values
+Table 2: Parameter values
+ Discount factor 0.99
+ Capital share 0.33
+ Depreciation rate 0.025
+h Habit parameter 0.6
+ Inverse elasticity of labor supply 2
+p
+Elasticity of substitution implying steady-state price markup 5
+w
+Elasticity of substitution implying steady-state wage markup 5
+p
+Price indexation 0.3876
+w
+Wage indexation 0.3807
+p
+Calvo Parameter (Prices) 0.7621
+w
+Calvo Parameter (Wages) 0.6443
+ Interest rate smoothing 0.6327
+
+MP Inflation coefficient 1.5643
+y
+MP Output coefficient 0.5459
+i
+Investment adjustment cost 2
+n
+Portfolio adjustment cost 0.79
+ Long-term bond coupon 0.975
+ss
+Steady-state gross inflation 1
+Lss
+Steady-state leverage level 6
+¯
+Bss
+¯
+Bss+ ¯
+Fss
+Ratio of government securities to total FI assets 0.35
+47
+C Eigenvalues under inflation targeting and price-
+level targeting
+Table 3: Eigenvalues of the system
+Inflation targeting Price-level targeting
+Modulus Real Imaginary Modulus Real Imaginary
+-- -- -- 9.433e-17 -9.433e-17 0
+2.382e-17 2.382e-17 0 2.217e-16 2.217e-16 0
+4.499e-16 -4.499e-16 0 0.3947 0.3947 0
+0.3676 0.3676 0 0.4391 0.4391 0
+0.5936 0.5936 0 0.6443 0.6443 0
+0.6409 0.6339 0.09459 0.6799 0.6799 0
+0.6409 0.6339 -0.09459 0.7382 0.7382 0
+0.6443 0.6443 0 0.7424 0.6879 0.2793
+0.7382 0.7382 0 0.7424 0.6879 -0.2793
+0.7621 0.7621 0 0.7621 0.7621 0
+0.8717 0.8685 0.07484 0.8588 0.8564 0.06393
+0.8717 0.8685 -0.07484 0.8588 0.8564 -0.06393
+0.9618 0.9618 0 0.9618 0.9618 0
+0.9797 0.9797 0 0.9818 0.9818 0
+1.01 1.01 0 1.01 1.01 0
+1.036 1.036 0 1.036 1.036 0
+1.069 1.069 0.03547 1.048 1.048 0
+1.069 1.069 -0.03547 1.161 1.161 0
+1.171 1.171 0 1.296 1.214 0.4539
+1.225 1.185 0.3098 1.296 1.214 -0.4539
+1.225 1.185 -0.3098 1.306 1.306 0
+1.325 1.325 0 1.325 1.325 0
+1.35 1.35 0 1.402 1.402 0
+1.568 1.568 0 1.568 1.568 0
+1.594 1.594 0 1.638 1.638 0
+Inf Inf 0 Inf Inf 0
+Inf Inf 0 Inf Inf 0
+Inf Inf 0 Inf Inf 0
+Inf -Inf 0 Inf -Inf 0
+Inf -Inf 0 Inf -Inf 0
+48
+

@@ -1,0 +1,2264 @@
+463
+American Journal of Epidemiology
+Copyright © 2000 by The Johns Hopkins University School of Hygiene and Public Health
+All rights reserved
+Vol. 152, No. 5
+Printed in U.S.A.
+Correlates of Symptoms in Midlife Women Gold et al.
+Relation of Demographic and Lifestyle Factors to Symptoms in a Multi-
+Racial/Ethnic Population of Women 40­55 Years of Age
+Ellen B. Gold,1 Barbara Sternfeld,2 Jennifer L. Kelsey,3 Charlotte Brown,4 Charles Mouton,5 Nancy Reame,6
+Loran Salamone,4 and Rebecca Stellato7
+A community-based survey was conducted during 1995­1997 of factors related to menopausal and other
+symptoms in a multi-racial/ethnic sample of 16,065 women aged 40­55 years. Each of seven sites comprising
+the Study of Women's Health across the Nation (SWAN) surveyed one of four minority populations and a
+Caucasian population. The largest adjusted prevalence odds ratios for all symptoms, particularly hot flashes or
+night sweats (odds ratios = 2.06­4.32), were for women who were peri- or postmenopausal. Most symptoms
+were reported least frequently by Japanese and Chinese (odds ratios = 0.47­0.67 compared with Caucasian)
+women. African-American women reported vasomotor symptoms and vaginal dryness more (odds ratios =
+1.17­1.63) but urine leakage and difficulty sleeping less (odds ratios = 0.64­0.72) than Caucasians. Hispanic
+women reported urine leakage, vaginal dryness, heart pounding, and forgetfulness more (odds ratios =
+1.22­1.85). Hot flashes or night sweats, urine leakage, and stiffness or soreness were associated with a high
+body mass index (odds ratios = 1.15­2.18 for women with a body mass index 27 vs. 19­26.9 kg/m2). Most
+symptoms were reported most frequently among women who had difficulty paying for basics (odds ratios =
+1.15­2.05), who smoked (odds ratios = 1.21­1.78), and who rated themselves less physically active than other
+women their age (odds ratios = 1.24­2.33). These results suggest that lifestyle, menstrual status, race/ethnicity,
+and socioeconomic status affect symptoms in this age group. Am J Epidemiol 2000;152:463­73.
+ethnic groups; menopause; risk factors; smoking; social class; symptoms and general pathology
+Received for publication July 27, 1999, and accepted for publica-
+tion December 3, 1999.
+Abbreviation: SWAN, Study of Women's Health across the Nation.
+1 Department of Epidemiology and Preventive Medicine, Univer-
+sity of California, Davis, CA.
+2 Division of Research, Kaiser Permanente, Oakland, CA.
+3 Division of Epidemiology, Stanford University, Palo Alto, CA.
+4 School of Medicine, University of Pittsburgh, Pittsburgh, PA.
+5 Department of Family Medicine, New Jersey Medical School,
+Newark, NJ.
+6 School of Nursing, University of Michigan, Ann Arbor, MI.
+7 New England Research Institute, Watertown, MA.
+Reprint requests to Dr. Ellen B. Gold, Department of Epidemiology
+and Preventive Medicine, University of California, One Shields
+Avenue, TB 168, Davis, CA 95616 (e-mail: ebgold@ucdavis.edu).
+By the year 2025, the number of postmenopausal women
+in the United States is projected to double from the mid-
+1990s (1), with half a million women added annually to the
+midlife population for the rest of this decade (2). An esti-
+mated 3­5 billion dollars will be spent annually by the year
+2005 for hormone replacement and physician monitoring
+alone (3). However, relatively little is known about the
+prevalence of symptoms in women in their fifth and sixth
+decades of life, and much of what is known is derived from
+studies of White women. Developing preventive strategies
+for such women who are undergoing social and physiologic
+transition requires understanding multiple factors that affect
+symptom reporting in women from different socioeconomic
+and racial/ethnic backgrounds.
+In the present study, we investigated the relation of
+sociodemographic and lifestyle factors to a number of spe-
+cific symptoms or conditions in a large, multiethnic, com-
+munity-based sample of women from across the United
+States who participated in the first phase of the Study of
+Women's Health across the Nation (SWAN). We hypothe-
+sized that: 1) vasomotor and other estrogen-related symp-
+toms would be more frequently associated with factors that
+result in decreased production of estrogen, such as surgical
+menopause, smoking, reduced body mass, and physical
+activity; 2) prevalence of non-estrogen-related symptoms
+would increase with age, independent of menopausal status;
+and 3) factors resulting in physiologic, economic, or social
+stress (lower education, being unmarried, difficulty paying
+for basics, and unemployment) would be associated with
+increased symptomatology but that the prevalence of spe-
+cific symptoms would differ by race/ethnicity.
+MATERIALS AND METHODS
+Study population
+The first phase of SWAN consisted of a cross-sectional
+survey conducted from 1995 through 1997 of 16,065
+women from seven geographic areas in the United States
+(Boston, Chicago, Detroit, Los Angeles, Newark, Oakland,
+and Pittsburgh). The purpose of the survey was twofold:
+1) to screen women for eligibility for enrollment into a longi-
+464 Gold et al.
+Am J Epidemiol Vol. 152, No. 5, 2000
+tudinal study of premenopausal women and 2) to investigate
+cross-sectional relations of a limited number of risk factors
+and health outcomes. Each site screened one minority pop-
+ulation (African Americans in Pittsburgh, Boston, the
+Detroit area, and Chicago; Japanese in Los Angeles;
+Chinese in the Oakland area of California; and Hispanics in
+New Jersey) in addition to a Caucasian population.
+Community-based sampling, using established lists of pop-
+ulations at five sites and random digit dialing combined with
+a "snowball" approach at two sites (4) (those with the
+Hispanic and Japanese minority samples), was used to sam-
+ple women aged 40­55 years, who resided in the area sur-
+rounding each clinical site. In the snowball technique,
+women first identified by a list-based or random digit dial-
+ing technique were asked for the names and contact infor-
+mation of other women who would meet the eligibility cri-
+teria, and these women in turn were contacted, screened for
+eligibility, and asked for the names of other appropriate
+women. This process continued until a sufficient number of
+eligible women was identified. Women were included who
+spoke English, Spanish, Cantonese, or Japanese at the
+respective sites where these languages were used and who
+identified themselves as Caucasian, African American,
+Hispanic, Japanese, or Chinese, depending on the site-
+specific population screened.
+Data collection
+Ascertainment of symptoms. Since the cross-sectional
+survey had to be brief, the presence of vasomotor, psycho-
+logic, and physical symptoms during the previous 2 weeks was
+determined from self-reported (yes/no) responses to closed-
+ended questions. Most interviews were computer-assisted tele-
+phone interviews, with about half being in-person at two sites.
+The specific symptoms included were based primarily on pre-
+vious epidemiologic work on Caucasian women (5­7) and
+included the following: difficulty sleeping, night sweats,
+headaches, hot flushes or flashes, forgetfulness, vaginal dry-
+ness, leaking urine, feeling tense or nervous, feeling blue or
+depressed, and irritability or grouchiness. In addition, symp-
+toms such as stiffness or soreness in joints, neck, or shoulders
+and heart pounding or racing were included, based on previous
+anthropologic work in the different race/ethnic groups (8, 9).
+Symptoms thought to be associated with menopause, such as
+hot flashes, night sweats, and vaginal dryness, were inter-
+spersed with other symptoms to minimize bias from stereo-
+typic thinking about menopause (10). The relation of demo-
+graphic and lifestyle variables to the psychologic symptoms is
+addressed elsewhere (L. H. Powell et al., Rush Presbyterian-
+St. Luke's Medical Center, unpublished manuscript), while the
+relations to physical symptoms are addressed here.
+Assessment of independent variables. Independent vari-
+ables of interest were self-reported current status related to
+demographic factors (age, race/ethnicity, educational attain-
+ment, employment, marital status, number of children, and
+ability to pay for basics), lifestyle factors (smoking, physical
+activity), height and weight, and menopausal status.
+Race/ethnicity was self-defined as Black or African
+American, non-Hispanic Caucasian, Chinese or Chinese
+American, Japanese or Japanese American, or Hispanic
+(Central American, Cuban or Cuban American, Dominican,
+Mexican or Mexican American, Puerto Rican, South
+American or Spanish, or other Hispanic). In addition,
+respondents could specify a race/ethnicity other than the
+defined categories or indicate "mixed" or no primary affili-
+ation. Since most extant literature is based on non-Hispanic
+Caucasians, this was the reference group. Questions about
+smoking were modified from those of the American
+Thoracic Society (11). Physical activity was assessed with
+one question about activity level relative to other women of
+the respondent's age. The body mass index was calculated
+from self-reported height and weight and equals weight
+(kg)/height (m)2.
+Menopausal status was based on menstrual characteristics
+as: surgical, indicating menses had stopped as a result of hys-
+terectomy and/or oophorectomy (thus not necessarily repre-
+senting cessation of hormonal cycling); postmenopausal,
+indicating menses had stopped for at least 12 months without
+surgery; late perimenopausal, indicating menses had
+occurred in the past 12 months but not in the last 3 months;
+early perimenopausal, indicating menses had occurred in the
+past 3 months but had become less predictable; and pre-
+menopausal, indicating menses had occurred in the past 3
+months with no decrease in predictability. Women whose
+menstrual periods had stopped because of medication, radio-
+therapy, pregnancy or lactation, or extreme weight change
+(n  311), who reported use of exogenous female hormones
+in the past 3 months (since such use might reflect greater
+symptom prevalence or reduced symptom reporting and thus
+be uninterpretable, n  1,635), or who reported their
+race/ethnicity as mixed/other (since this was a very non-
+homogeneous group, n  1,694) were excluded, for a total of
+12,425 included in the present analyses.
+Data analyses
+Crude prevalence odds ratios for the association between
+the selected characteristics and each symptom were com-
+puted. Multiple logistic regression was used to adjust preva-
+lence odds ratios simultaneously for site and demographic,
+lifestyle, and reproductive characteristics (12). As a result of
+factor analyses (13), we combined hot flashes and night
+sweats into one outcome variable of hot flashes and/or night
+sweats. The odds ratios for the symptoms "difficulty sleep-
+ing," "forgetful," and "heart pounding or racing" were also
+adjusted for reporting irritability, feeling tense, or feeling
+anxious or depressed. Initial exploratory adjustment for
+diagnosis or treatment of arthritis was made for the symp-
+tom "stiffness or soreness in joints, neck, or shoulders," but
+this did not modify the results. Exploratory adjustment for
+language in which the interview was conducted, as an indi-
+cator of acculturation, also did not modify the results.
+Parity was treated as a continuous variable. Four-year age
+groups and body mass index (14) were treated as categorical
+variables, since they were not linearly related to the preva-
+lence of most of the symptoms. All categorical variables
+were treated as dummy variables in the logistic regression,
+thus assuming no particular ordering. Goodness-of-fit of
+Correlates of Symptoms in Midlife Women 465
+Am J Epidemiol Vol. 152, No. 5, 2000
+TABLE 1. Distributions of study population by race/ethnicity and selected characteristics, Study of Women's Health across the
+Nation (SWAN), 1995­1997
+Age (years)
+40­43
+44­47
+48­51
+52­55
+Education
+<High school
+High school/equivalent
+Some college
+College graduate
+Postgraduate
+Difficulty paying for basics
+Very hard
+Somewhat hard
+Not at all hard
+Marital status
+Never married
+Married/living as
+Separated
+Widowed
+Divorced
+Parity
+0
+1
+2
+3
+4
+Menstrual status
+Surgical
+Postmenopausal
+Late perimenopausal
+Early perimenopausal
+Premenopausal
+Body mass index (weight
+(kg)/height (m)2)
+<19
+19­26.9
+27­31.9
+32
+Smoking
+Never
+Past
+Current
+Physical activity
+Much less
+Somewhat less
+Same
+Somewhat more
+Much more
+African
+American
+Chinese
+Non-Hispanic
+Caucasian
+Japanese
+% No.
+No. % No.
+904
+1,134
+933
+705
+319
+1,023
+1,450
+412
+437
+480
+1,321
+1,859
+751
+1,630
+284
+206
+799
+322
+641
+1,039
+800
+872
+976
+484
+169
+1,018
+1,029
+158
+1,273
+1,037
+1,180
+1,822
+803
+1,044
+274
+649
+1,331
+753
+544
+24.6
+30.8
+25.4
+19.2
+8.8
+28.1
+39.8
+11.3
+12.0
+13.1
+36.1
+50.8
+20.5
+44.4
+7.7
+5.6
+21.8
+8.8
+17.4
+28.3
+21.8
+23.7
+26.6
+13.2
+4.6
+27.7
+28.0
+4.3
+34.9
+28.4
+32.4
+49.7
+21.9
+28.4
+7.7
+18.3
+37.5
+21.2
+15.3
+1,732
+1,764
+1,358
+920
+277
+1,574
+1,668
+1,063
+1,177
+492
+1,746
+3,518
+693
+3,904
+170
+171
+825
+1,254
+953
+1,869
+1,044
+649
+673
+802
+317
+1,801
+2,181
+342
+3,350
+1,100
+962
+2,687
+1,630
+1,450
+282
+828
+2,185
+1,572
+795
+30.0
+30.6
+23.5
+15.9
+4.8
+27.3
+29.0
+18.5
+20.4
+8.6
+30.3
+61.1
+12.0
+67.7
+3.0
+3.0
+14.3
+21.7
+16.5
+32.4
+18.1
+11.2
+11.7
+13.9
+5.5
+31.2
+37.8
+5.9
+58.2
+19.1
+16.7
+46.6
+28.3
+25.1
+5.0
+14.6
+38.6
+27.8
+14.0
+189
+240
+172
+110
+5
+138
+261
+212
+94
+24
+192
+492
+37
+595
+24
+11
+44
+102
+107
+320
+147
+35
+53
+75
+30
+183
+370
+67
+565
+64
+14
+497
+139
+73
+40
+103
+277
+181
+97
+26.6
+33.8
+24.2
+15.5
+0.7
+19.4
+36.8
+29.9
+13.2
+3.4
+27.1
+69.5
+5.2
+83.7
+3.4
+1.6
+6.2
+14.4
+15.0
+45.0
+20.7
+4.9
+7.4
+10.6
+4.2
+25.7
+52.0
+9.4
+79.6
+9.0
+2.0
+70.1
+19.6
+10.3
+5.7
+14.8
+39.7
+25.9
+13.9
+172
+206
+122
+46
+97
+96
+123
+136
+94
+34
+147
+360
+39
+448
+4
+10
+45
+76
+85
+256
+97
+32
+13
+63
+19
+158
+294
+61
+433
+40
+12
+463
+16
+10
+22
+69
+227
+94
+72
+31.5
+37.7
+22.3
+8.4
+17.8
+17.6
+22.5
+24.9
+17.2
+6.3
+27.2
+66.5
+7.1
+82.0
+0.7
+1.8
+8.2
+13.9
+15.6
+46.9
+17.8
+5.9
+2.4
+11.4
+3.5
+28.9
+53.8
+11.2
+79.3
+7.3
+2.2
+94.7
+3.3
+2.0
+4.6
+14.3
+46.9
+19.4
+14.9
+506
+517
+404
+291
+619
+470
+377
+179
+66
+526
+799
+385
+126
+1,123
+174
+85
+205
+136
+284
+541
+427
+326
+273
+334
+78
+396
+637
+164
+893
+420
+236
+1,117
+289
+306
+108
+196
+822
+261
+251
+29.4
+30.1
+23.5
+16.9
+36.2
+27.5
+22.0
+10.5
+3.9
+30.8
+46.7
+22.5
+7.4
+65.6
+10.2
+5.0
+12.0
+7.9
+16.6
+31.6
+24.9
+19.0
+15.9
+19.4
+4.5
+23.0
+37.1
+9.6
+52.1
+24.5
+13.8
+65.2
+16.9
+17.9
+6.6
+12.0
+50.2
+15.9
+15.3
+Hispanic
+No. %
+% No. %
+466 Gold et al.
+Am J Epidemiol Vol. 152, No. 5, 2000
+models was tested by the Hosmer and Lemeshow procedure
+(15). Because sites were not randomly selected and because
+sampling procedures varied by site to accommodate the dif-
+ficulties in attaining adequate numbers of each racial/ethnic
+minority (i.e., formal representative sampling procedures
+were not exclusively used at two sites), use of estimation
+procedures based on formal sampling methods was inappro-
+priate. The variance estimates used in the confidence inter-
+vals shown here were thus based on simple random sam-
+pling, but they should be interpreted with caution for these
+reasons.
+Interactions of race/ethnicity or menstrual status with the
+association of each factor and symptom were first examined
+by stratifying on race/ethnicity or menstrual status to deter-
+mine if the stratum-specific natural logarithms of the odds
+ratios differed from each other or from the unstratified nat-
+ural logarithm odds ratio by more than two times the stan-
+dard error for the unstratified effect. If so, the statistical sig-
+nificance of interaction terms was examined in the multiple
+logistic regression model.
+RESULTS
+Characteristics of the study population
+Age distributions were generally similar by race/ethnic
+group, although a higher proportion of Chinese women
+were aged 40­43 years and a lower proportion were aged
+52­55 years compared with other race/ethnic groups (table
+1). Most women were premenopausal or in the early peri-
+menopause; the proportion of women who had had surgi-
+cal menopause was higher in African Americans, and the
+proportion who were postmenopausal was higher in
+Hispanics than in other race/ethnic groups. Hispanics had
+the lowest and Caucasians the highest educational attain-
+ment, while Japanese and Chinese women reported the
+least difficulty paying for basics. African-American and
+Hispanic women had higher parity, and African Americans
+had higher body mass index than did women in the other
+race/ethnic groups. Smoking rates were lower in Japanese
+and Chinese women. The perception of amount of physical
+TABLE 2. Crude percentage of women with each symptom (of those reporting) by demographic and health characteristics,
+Study of Women's Health across the Nation (SWAN), 1995­1997
+Age (years)
+40­43 (n = 3,493; 28.3%)
+44­47 (n = 3,834; 31.0%)
+48­51 (n = 2,965; 24.0%)
+52­55 (n = 2,066; 16.7%)
+Education
+<8 (n = 376; 3.1%)
+8­11 (n = 935; 7.6%)
+12/high school (n = 3,285; 26.7%)
+Some college (n = 3,857; 31.4%)
+College graduate (n = 1,992; 16.2%)
+Postgraduate/professional (n =
+1,855; 15.1%)
+Difficulty paying for basics
+Very hard (n = 1,544; 12.6%)
+Somewhat hard (n = 4,184; 34.0%)
+Not at all hard (n = 6,579; 53.5%)
+Race/ethnicity
+African American (n = 3,650; 29.5%)
+Caucasian (n = 5,746; 46.5%)
+Japanese (n = 707; 5.7%)
+Chinese (n = 542; 4.4%)
+Hispanic (n = 1,712; 13.8%)
+Menstrual status
+Surgical (n = 1,988; 16.0%)
+Postmenopausal (n = 1,753; 14.2%)
+Late perimenopausal (n = 611; 4.9%)
+Early perimenopausal (n = 3,547; 28.6%)
+Premenopausal (n = 4,497; 36.3%)
+Characteristics*
+Symptom (%)
+Urine
+leakage
+(n = 2,135)
+Vaginal
+dryness
+(n = 1,629)
+Hot flashes/
+night sweats
+(n = 3,963)
+25.2
+31.2
+42.7
+46.4
+41.0
+41.5
+39.7
+36.6
+11.8
+25.2
+45.8
+37.4
+30.6
+45.6
+31.2
+17.6
+20.5
+35.4
+46.9
+48.8
+56.8
+36.9
+19.4
+14.8
+17.0
+19.6
+19.3
+22.9
+22.8
+17.8
+17.3
+14.6
+15.3
+24.8
+18.5
+14.9
+16.7
+18.2
+12.6
+11.0
+19.7
+22.1
+17.7
+19.6
+20.6
+12.3
+8.6
+11.3
+16.7
+19.8
+23.7
+18.6
+14.1
+13.0
+10.1
+10.1
+19.6
+13.7
+11.5
+14.8
+11.2
+6.7
+10.2
+20.4
+19.4
+21.2
+18.2
+12.9
+7.1
+37.0
+35.8
+39.9
+39.1
+41.5
+45.0
+37.5
+38.3
+33.7
+35.7
+53.5
+40.4
+32.2
+34.9
+40.6
+29.1
+31.9
+38.6
+43.5
+40.4
+43.9
+40.6
+30.9
+50.9
+52.0
+56.1
+56.1
+56.1
+55.6
+53.5
+54.6
+50.8
+52.4
+63.9
+54.6
+50.2
+55.7
+54.6
+50.3
+48.2
+47.1
+59.4
+54.8
+58.4
+57.9
+45.8
+18.2
+19.0
+17.4
+20.8
+34.3
+29.9
+20.6
+18.2
+14.6
+12.1
+33.7
+20.7
+13.9
+19.2
+17.0
+10.3
+14.1
+28.1
+23.7
+19.5
+20.7
+20.1
+14.7
+33.1
+39.2
+43.7
+42.4
+52.9
+52.1
+40.7
+38.5
+33.2
+34.7
+54.6
+43.0
+33.0
+43.0
+35.2
+33.0
+40.5
+46.0
+43.8
+42.0
+44.8
+44.0
+31.2
+Heart
+pounding
+(n = 2,315)
+Forgetfulness
+(n = 4,843)
+Difficult
+sleep
+(n = 4,632)
+Stiff/sore
+(n = 6,620)
+Table continues
+Correlates of Symptoms in Midlife Women 467
+Am J Epidemiol Vol. 152, No. 5, 2000
+activity compared with other women of the same age did
+not differ greatly by race/ethnic group.
+Unadjusted relation of sociodemographic, health, and
+lifestyle factors to symptom prevalence
+Increased age, lower educational level, difficulty paying
+for basics, race/ethnicity, increased parity, and employ-
+ment were related to the prevalence of most symptoms
+(table 2). Virtually all symptoms, except stiffness and
+soreness in joints, neck, and shoulders, were less fre-
+quently reported in Japanese and Chinese women, while
+vasomotor symptoms (hot flashes or night sweats) were
+most frequently reported by African-American or Hispanic
+women. Urine leakage, vaginal dryness, and heart pound-
+ing or racing were more frequently reported by Hispanic
+women. The prevalence of most symptoms varied by site,
+thus warranting inclusion of site in multivariate logistic
+regression analyses.
+Vasomotor symptoms were much more frequently
+reported by women in the late perimenopause or by women
+who were surgically or naturally postmenopausal compared
+with premenopausal women (table 2). Most other symptoms
+were also more frequent in women who were peri- or post-
+menopausal, but the differences were not as large. Prior to
+adjustment for other covariates, the prevalences of hot
+flashes or night sweats increased with age in most menstrual
+status categories, except for postmenopausal women in
+whom it declined (data not shown). However, the preva-
+lence of most symptoms varied more by menstrual status
+than by age. Heart pounding or racing and difficulty sleep-
+ing were not independently related to age (data not shown).
+Reporting of all other symptoms increased with age,
+although not in a monotonic trend. Current smoking, engag-
+ing in less physical activity than other women of the same
+age, and increased body mass index were associated with
+increased prevalence of almost every symptom, although
+the trends were not monotonic.
+Multivariate adjusted associations of risk factors to
+symptoms
+Age. After adjustment for the other covariates in table
+1, vasomotor symptoms and urine leakage were not related
+Marital status
+Single (n = 1,646; 13.3%)
+Married/living as (n = 7,700; 62.1%)
+Separated/divorced (n = 2,574; 20.8%)
+Widowed (n = 483; 3.9%)
+Parity
+0 (n = 1,890; 15.2%)
+1 (n = 2,070; 16.7%)
+2 (n = 4,025; 35.4%)
+3 (n = 4,429; 35.7%)
+Body mass index (kg/m2)
+<19 (n = 792; 6.4%)
+19­26.9 (n = 6,514; 42.7%)
+27­31.9 (n = 2,661; 21.5%)
+32 (n = 2,404; 19.4%)
+Smoking
+Never (n = 6,566; 53.3%)
+Past (n = 2,872; 23.3%)
+Current (n = 2,875; 23.4%)
+Physical activity
+Much less (n = 717; 6.0%)
+Some less (n = 1,831; 15.3%)
+Same (n = 4,822; 40.3%)
+Some more (n = 2,853; 23.8%)
+Much more (n = 1,752; 14.6%)
+34.7
+33.0
+39.2
+40.8
+29.2
+34.2
+34.5
+37.9
+30.6
+29.9
+39.5
+43.8
+30.0
+35.5
+45.5
+52.5
+42.2
+32.3
+31.4
+32.6
+14.5
+16.9
+27.2
+19.9
+12.4
+16.6
+16.7
+20.0
+14.9
+13.3
+18.8
+27.5
+15.8
+19.2
+19.4
+29.8
+22.9
+16.3
+14.8
+13.6
+9.9
+14.0
+12.7
+12.4
+10.0
+12.4
+13.4
+14.5
+12.7
+12.1
+13.8
+15.8
+13.0
+13.7
+13.5
+21.6
+15.2
+12.8
+11.5
+11.9
+37.8
+35.5
+42.8
+41.0
+37.2
+38.6
+36.1
+37.7
+40.6
+35.2
+37.3
+43.4
+34.6
+38.0
+44.6
+60.8
+50.1
+34.3
+33.9
+31.2
+54.5
+52.0
+56.3
+54.9
+53.1
+54.5
+52.6
+53.5
+53.4
+48.7
+54.9
+64.5
+50.4
+56.7
+56.9
+73.1
+65.1
+50.8
+49.6
+46.8
+18.9
+17.2
+21.9
+23.6
+14.0
+17.4
+17.2
+22.6
+18.2
+16.6
+19.7
+23.0
+16.3
+19.7
+23.3
+35.6
+25.1
+17.0
+14.9
+15.8
+36.2
+37.9
+39.2
+44.1
+30.2
+37.0
+39.0
+43.7
+40.1
+35.7
+41.9
+44.4
+37.6
+42.0
+39.6
+56.9
+47.0
+38.6
+33.2
+33.5
+TABLE 2. Continued
+Characteristics
+Symptom (%)
+Urine
+leakage
+(n = 2,135)
+Vaginal
+dryness
+(n = 1,629)
+Hot flashes/
+night sweats
+(n = 3,963)
+Heart
+pounding
+(n = 2,315)
+Forgetfulness
+(n = 4,843)
+Difficult
+sleep
+(n = 4,632)
+Stiff/sore
+(n = 6,620)
+* Numbers are after exclusions and include those who had missing information for some variables, since for any cell the proportion miss-
+ing was <2%.
+ Numbers indicate those reporting "yes."
+468 Gold et al.
+Am J Epidemiol Vol. 152, No. 5, 2000
+TABLE 3. Adjusted* prevalence odds ratios for each symptom by selected characteristics, Study of Women's Health across the Nation (SWAN), 1995­1997
+Age (years)
+40­43§
+44­47
+48­51
+52
+Education
+<12 years
+12/GED
+Some college
+College graduate
+Postgraduate/professioal§
+Employed
+No
+Part-time
+Full-time§
+Difficulty paying for basics
+Very hard
+Somewhat hard
+Not at all hard§
+Race/ethnicity
+African American
+Japanese
+Chinese
+Hispanic
+Caucasian§
+Marital status
+Never married
+Married/living as§
+Separated
+Widowed
+Divorced
+Parity (per child)
+Menstrual status
+Surgical
+Postmenopausal
+Late perimenopausal
+Early perimenopausal
+Premenopausal§
+Body mass index (kg/m2)
+<19
+19­26.9§
+27­31.9
+32
+Characteristic
+Urine
+leakage
+(n = 2,135)
+Vaginal
+dryness
+(n = 1,629)
+Hot flashes/
+night sweats
+(n = 4,324)
+1.00
+1.26
+1.68
+1.49
+1.76
+1.76
+1.54
+1.15
+1.00
+1.09
+1.06
+1.00
+1.47
+1.21
+1.00
+1.56
+0.63
+0.65
+1.10
+1.00
+0.84
+1.00
+1.11
+0.76
+0.85
+0.98
+2.40
+2.81
+4.32
+2.06
+1.00
+0.94
+1.0
+1.15
+1.18
+1.13, 1.41
+1.49, 1.89
+1.27, 1.72
+1.45, 2.13
+1.45, 2.13
+1.32, 1.80
+0.98, 1.35
+0.97, 1.22
+0.97, 1.22
+1.29, 1.68
+1.10, 1.32
+1.39, 1.75
+0.49, 0.82
+0.49, 0.87
+0.93, 1.31
+0.74, 0.96
+0.91, 1.30
+0.62, 0.93
+0.76, 0.96
+0.95, 1.01
+2.11, 2.73
+2.43, 3.24
+3.58, 5.21
+1.86, 2.29
+0.79, 1.12
+1.04, 1.28
+1.05, 1.32
+1.00
+1.13
+1.27
+1.17
+1.10
+0.92
+0.97
+0.98
+1.00
+1.11
+1.04
+1.00
+1.52
+1.19
+1.00
+0.64
+0.84
+0.56
+1.26
+1.00
+0.82
+1.00
+1.24
+0.96
+0.97
+1.07
+1.64
+1.24
+1.42
+1.67
+1.00
+1.04
+1.0
+1.42
+2.18
+0.99, 1.29
+1.10, 1.46
+0.98, 1.39
+0.88, 1.38
+0.78, 1.12
+0.81, 1.16
+0.81, 1.19
+0.96, 1.27
+0.93, 1.18
+1.30, 1.77
+1.06, 1.27
+0.55, 0.73
+0.62, 1.16
+0.40, 0.79
+1.02, 1.56
+0.69, 0.96
+1.01, 1.52
+0.75, 1.22
+0.84, 1.11
+1.03, 1.10
+1.41, 1.92
+1.04, 1.49
+1.12, 1.79
+1.48, 1.90
+0.84, 1.29
+1.25, 1.62
+1.92, 2.48
+1.00
+1.26
+1.65
+1.63
+1.25
+1.09
+1.09
+0.97
+1.00
+1.04
+1.03
+1.00
+1.48
+1.12
+1.00
+1.17
+0.70
+0.80
+1.85
+1.00
+0.62
+1.00
+0.90
+0.54
+0.62
+1.00
+2.39
+2.57
+2.30
+1.77
+1.00
+0.90
+1.0
+0.93
+1.01
+1.08, 1.48
+1.40, 1.95
+1.34, 1.98
+0.97, 1.60
+0.88, 1.35
+0.89, 1.34
+0.78, 1.22
+0.89, 1.22
+0.90, 1.17
+1.24, 1.75
+0.99, 1.27
+1.00, 1.37
+0.47, 1.02
+0.54, 1.17
+1.48, 2.33
+0.52, 0.75
+0.72, 1.13
+0.40, 0.72
+0.53, 0.74
+0.96, 1.04
+2.00, 2.85
+2.12, 3.12
+1.80, 2.96
+1.52, 2.07
+0.71, 1.14
+0.81, 1.07
+0.87, 1.17
+1.00
+1.01
+1.12
+1.07
+1.04
+0.92
+0.98
+1.02
+1.00
+0.97
+0.96
+1.00
+1.77
+1.23
+1.00
+0.84
+0.96
+0.84
+0.81
+1.00
+0.97
+1.00
+1.12
+0.93
+1.00
+0.98
+1.50
+1.31
+1.48
+1.48
+1.00
+1.14
+1.0
+1.19
+1.53
+Forgetful
+(n = 4,843)
+Difficulty
+sleeping
+(n = 4,632)
+Stiff/sore
+(n = 6,620)
+Heart
+pounding
+(n = 2,315)
+95% CI
+OR 95% CI
+OR 95% CI
+OR 95% CI
+OR 95% CI
+OR 95% CI
+OR 95% CI
+OR
+0.92, 1.11
+1.00, 1.24
+0.94, 1.23
+0.87, 1.23
+0.80,. 1.05
+0.86, 1.11
+0.89, 1.16
+0.88, 1.08
+0.88, 1.06
+1.56, 2.02
+1.13, 1.33
+0.75, 0.93
+0.78, 1.18
+0.66, 1.08
+0.69, 0.95
+0.86, 1.09
+0.94, 1.33
+0.77, 1.13
+0.90, 1.12
+0.96, 1.01
+1.33, 1.69
+1.14, 1.50
+1.24, 1.78
+1.35, 1.62
+0.98, 1.32
+1.08, 1.31
+1.38, 1.70
+1.00
+1.07
+0.91
+1.11
+1.69
+1.48
+1.33
+1.26
+1.00
+1.10
+1.12
+1.00
+1.38
+1.09
+1.00
+1.10
+1.07
+1.22
+1.43
+1.00
+1.13
+1.00
+1.16
+1.16
+1.07
+1.08
+1.43
+1.17
+1.29
+1.19
+1.00
+0.98
+1.0
+1.01
+1.05
+0.94, 1.21
+0.79, 1.06
+0.92, 1.33
+1.33, 2.15
+1.21, 1.82
+1.09, 1.63
+1.02, 1.55
+0.95, 1.26
+0.99, 1.26
+1.18, 1.61
+0.97, 1.22
+0.95, 1.27
+0.77, 1.48
+0.86, 1.73
+1.17, 1.74
+0.96, 1.33
+0.94, 1.42
+0.91, 1.48
+0.92, 1.22
+1.04, 1.12
+1.22, 1.68
+0.97, 1.40
+1.20, 1.64
+1.05, 1.35
+0.80, 1.21
+0.89, 1.15
+0.92, 1.21
+1.00
+1.33
+1.62
+1.52
+1.25
+1.00
+0.98
+0.92
+1.00
+1.12
+1.08
+1.00
+1.51
+1.26
+1.00
+1.42
+1.50
+1.63
+1.50
+1.00
+0.95
+1.00
+0.91
+1.02
+1.11
+1.06
+1.27
+1.28
+1.43
+1.44
+1.00
+1.08
+1.0
+1.08
+0.99
+1.20, 1.48
+1.44, 1.83
+1.31, 1.76
+1.03, 1.50
+0.92, 1.25
+0.85, 1.13
+0.79, 1.07
+1.00, 1.26
+0.98, 1.20
+1.32, 1.73
+1.14, 1.38
+1.27, 1.60
+1.19, 1.89
+1.24, 2.12
+1.26, 1.78
+0.83, 1.08
+0.76, 1.09
+0.83, 1.25
+0.98, 1.24
+1.03, 1.09
+1.11, 1.44
+1.11, 1.49
+1.18, 1.74
+1.30, 1.59
+0.91, 1.28
+0.97, 1.20
+0.88, 1.11
+1.00
+0.94
+1.08
+1.00
+0.92
+0.84
+0.96
+0.88
+1.00
+1.06
+1.22
+1.00
+1.52
+1.20
+1.00
+0.70
+0.71
+0.80
+0.76
+1.00
+1.04
+1.00
+1.30
+1.09
+1.07
+0.97
+1.52
+1.37
+1.48
+1.25
+1.00
+1.19
+1.0
+0.97
+1.05
+0.84, 1.04
+0.96, 1.21
+0.86, 1.17
+0.76, 1.12
+0.72, 0.98
+0.83, 1.11
+0.76, 1.03
+0.95, 1.19
+1.05, 1.30
+1.32, 1.74
+1.09, 1.31
+0.62, 0.79
+0.56, 0.91
+0.61, 1.05
+0.63, 0.90
+0.91, 1.18
+1.08, 1.56
+0.88, 1.34
+0.95, 1.21
+0.94, 1.00
+1.33, 1.74
+1.18, 1.60
+1.22, 1.80
+1.13, 1.38
+1.00, 1.41
+0.87, 1.08
+0.93, 1.17
+Correlates of Symptoms in Midlife Women 469
+Am J Epidemiol Vol. 152, No. 5, 2000
+to age in postmenopausal and late perimenopausal women
+(data not shown).
+Menstrual status. Menstrual status had the largest
+adjusted prevalence odds ratios of any risk factor for most
+symptoms, particularly vasomotor (table 3). All symptoms
+were more frequent in women who were not pre-
+menopausal. Vasomotor symptoms were particularly fre-
+quent in women who were in the late perimenopause,
+although the numbers in this category were relatively small.
+Sociodemographic factors. Adjusted prevalence odds
+ratios for vasomotor symptoms and heart pounding or rac-
+ing generally increased with decreasing level of educational
+attainment (table 3). The prevalences of vaginal dryness
+and forgetfulness were elevated only in women with less
+than a high school education. All symptoms were increased
+in women who reported difficulty paying for basics, and
+prevalence increased with greater difficulty. Heart pound-
+ing or racing, forgetfulness, and difficulty sleeping
+increased in women who were not employed full time.
+Vasomotor symptoms, urine leakage, and vaginal dryness
+were reported less frequently among never married, wid-
+owed, or divorced than currently married women (data not
+shown).
+Race/ethnicity. All symptoms, except heart pounding
+and forgetfulness, were reported less frequently by Japanese
+and Chinese women compared with non-Hispanic
+Caucasians. This finding persisted after adjustment for lan-
+guage as a measure of acculturation (data not shown). Urine
+leakage and difficulty sleeping were reported significantly
+less often, but vasomotor symptoms and vaginal dryness
+were reported significantly more frequently by African-
+American than by Caucasian women. Hispanic women
+reported urine leakage, vaginal dryness, heart pounding or
+racing, and forgetfulness more frequently than did non-
+Hispanic Caucasian women. All minority ethnic groups
+reported difficulty sleeping significantly less frequently than
+did Caucasians after adjusting for other covariates. No
+marked interaction of race/ethnicity with prevalence odds
+ratios for risk factors and symptoms was observed.
+Body mass index. Hot flashes or night sweats, urine
+leakage, and stiffness or soreness in joints, neck, or shoul-
+ders were reported more frequently in women with a body
+mass index of 27 kg/m2 or greater compared with women
+with a body mass index of 19­26.9 kg/m2 (or less). This
+relation was particularly marked for urine leakage, for
+which prevalence increased more than twofold for women
+with a body mass index of 32 kg/m2 or greater. However,
+hot flashes or night sweats were not associated with an
+increased body mass index in postmenopausal and late peri-
+menopausal women (data not shown).
+Smoking. Past smoking and current smoking were
+related to prevalence of most symptoms, except vaginal
+dryness and forgetfulness (the latter being positively related
+only to past smoking). No clear trends with amount cur-
+rently smoked were observed.
+Physical activity. All symptoms (particularly stiffness
+or soreness, heart pounding or racing, forgetfulness, and
+difficulty sleeping) were more frequent among women who
+reported getting less physical activity compared with
+Smoking
+Never§
+Past
+Current
+<10/day
+10­19/day
+20/day
+Physical activity
+Much less
+Somewhat less
+Same
+Some more
+Much more§
+1.0
+1.24
+1.50
+1.65
+1.68
+1.71
+1.33
+0.96
+1.02
+1.0
+1.12, 1.37
+1.28, 1.76
+1.42, 1.92
+1.46, 1.94
+1.42, 2.07
+1.16, 1.54
+0.85, 1.08
+0.90, 1.16
+1.0
+1.21
+0.97
+1.15
+1.50
+1.66
+1.36
+1.03
+1.03
+1.0
+1.08, 1.37
+0.78, 1.20
+0.95, 1.39
+1.27, 1.77
+1.34, 2.06
+1.14, 1.61
+0.88, 1.18
+0.88, 1.21
+1.0
+1.07
+0.85
+1.04
+0.96
+1.64
+1.24
+1.02
+1.03
+1.0
+0.93, 1.22
+0.67, 1.07
+0.85, 1.29
+0.79, 1.18
+1.29, 2.08
+1.02, 1.50
+0.87, 1.20
+0.86, 1.24
+1.0
+1.24
+1.16
+1.15
+1.23
+2.33
+1.78
+1.12
+1.09
+1.0
+1.13, 1.36
+0.99, 1.35
+0.99, 1.33
+1.07, 1.41
+1.92, 2.82
+1.56, 2.03
+1.00, 1.23
+0.97, 1.22
+1.0
+1.25
+1.23
+1.14
+1.16
+1.65
+1.34
+1.00
+0.97
+1.0
+1.11, 1.52
+1.00, 1.50
+0.95, 1.37
+0.98, 1.38
+1.33, 2.05
+1.13, 1.59
+0.86, 1.16
+0.82, 1.15
+1.0
+1.18
+0.76
+0.82
+0.92
+1.51
+1.30
+1.12
+0.96
+1.0
+1.07, 1.31
+0.64, 0.91
+0.70, 0.96
+0.79, 1.06
+1.24, 1.84
+1.33, 1.51
+1.00, 1.26
+0.84, 1.09
+1.0
+1.04
+1.19
+1.23
+1.17
+2.00
+1.65
+1.06
+1.09
+1.0
+0.94, 1.16
+1.01, 1.41
+1.05, 1.44
+1.01, 1.35
+1.64, 2.43
+1.43, 1.91
+0.94, 1.20
+0.96, 1.24
+* Each covariate adjusted for all others as well as for site; with parity, adjusted as a continuous variable.
+ Forgetful and heart pounding/racing also adjusted for irritability, depression, and tense/anxious; difficulty sleeping adjusted for these and any other symptoms.
+ OR, odds ratio; CI, confidence interval; GED, high school equivalency.
+§ Referent category.
+470 Gold et al.
+Am J Epidemiol Vol. 152, No. 5, 2000
+Socioeconomic status
+In the present study, lower educational attainment and
+greater difficulty paying for basics were related to increased
+symptom prevalence. In addition, lack of full-time employ-
+ment was associated with heart pounding or racing, forget-
+fulness, and difficulty sleeping. These findings are consis-
+tent with those of a number of others (16, 24, 34, 35).
+Race/ethnicity
+The prevalence of vasomotor symptoms in developed
+countries in largely Caucasian populations has previously
+been examined in cross-sectional (22, 25, 32, 33, 36) and
+prospective (20, 21) studies, with considerable variability
+in results. The finding in the present study that more
+African-American women reported hot flashes or night
+sweats than Caucasian women (37 percent vs. 24 percent)
+is of interest. In a study of Caucasian and African-
+American women from a population-based study of repro-
+ductive cancers, 71 percent of participants reported experi-
+encing hot flashes at menopause, with no racial differences
+in prevalence (34). Our finding of increased reporting of
+vaginal dryness in African-American women also differs
+from recent unadjusted findings by Wilbur et al. (16),
+which also indicate an increased risk of urine leakage in
+African-American women, while we found a reduced
+prevalence of this symptom in this group compared with
+Caucasians. Also of interest in the present study, Hispanic
+women reported the highest prevalence of vaginal dryness.
+Asian women (9, 36­39) report fewer hot flashes than do
+Caucasian women. Because of simultaneous adjustment of
+multiple variables in the present study, differences among
+race/ethnic groups in these other variables (e.g., body mass
+index or smoking) do not account for differences in symp-
+tom reporting among the groups.
+Body mass index
+In the present study, women with a body mass index of at
+least 32 kg/m2 had a greater prevalence of hot flashes or
+night sweats (43.8 percent) than did those having a body
+mass index of less than 19 kg/m2 (30.6 percent). A higher
+body mass index has been associated with increased symp-
+tom reporting during the menopausal transition in one study
+(40) and with fewer hot flashes in other studies (34, 41, 42).
+Since adrenal androgens are converted to estrogen in adi-
+pose tissue (43), and since vasomotor symptoms are thought
+to be related to reduced estrogen levels, a lower prevalence
+of vasomotor symptoms is expected in heavier women. The
+reasons for the present findings are unclear. Possibly the rate
+(and steepness) of the decline in or the widely fluctuating
+levels of estradiol (44) may affect symptoms more than
+absolute levels (which would be associated with body
+weight). Differences in study design (cross-sectional vs.
+prospective), sample size, methods in ascertaining body
+mass index (self-report vs. direct measurement), and simul-
+taneous control of covariates (especially smoking) may also
+account for discrepant findings.
+women who reported getting much more or somewhat more
+physical activity than women of the same age. A trend
+appeared of increasing prevalence of these symptoms with
+decreasing physical activity.
+DISCUSSION
+The present SWAN cross-sectional study is one of the
+largest multiethnic studies of demographic and lifestyle fac-
+tors associated with symptom reporting in midlife women,
+and the findings have potentially important preventive impli-
+cations. We found significant independent effects of age, edu-
+cational level, difficulty paying for basics, race/ethnicity,
+body mass, smoking, physical activity, and menstrual status
+on the prevalence of vasomotor and other physical symptoms.
+Despite the use of quite varied methodologies, in
+numerous cross-sectional studies of clinical, psychoso-
+cial, and sociodemographic factors associated with the
+menopausal transition in Caucasian women, a few major
+findings have emerged. First, vasomotor symptoms, such
+as hot flashes or flushes and night sweats, are unequivo-
+cally linked to hormonal changes (16­18). Longitudinal
+studies have largely confirmed the relation between vaso-
+motor symptoms and the climacteric (6, 18­21), and
+reports of vasomotor symptoms at peri- or postmenopause
+have been found to be inversely related to the level of
+serum estrogens (6, 16). Menopause and reduction in
+endogenous estrogen levels result in atrophic changes of
+epithelial tissues including the skin and vaginal wall (22).
+Other symptoms, such as sleep difficulties, are less con-
+sistently associated with menopausal status (23­27).
+Further, a subset of women with low socioeconomic sta-
+tus who experience difficulties with personal and social
+functioning during the climacteric may report more
+symptoms (17).
+Menstrual status and age
+The results from our study indicate that over half of late
+perimenopausal women report hot flashes or night sweats.
+This estimate is in agreement with other studies showing
+that the occurrence of hot flashes increases with irregular-
+ity in menses, peaking at 50 percent just prior to
+menopause, and later declining in the postmenopause
+(28). The prevalence of hot flashes in perimenopausal
+women of Anglo-European origin is reported to be 50­85
+percent (25, 27).
+The prevalence of vaginal dryness in the present study
+was 13.1 percent, in agreement with several studies
+(29­32). However, in a cross-sectional study of 5,990
+Swedish women, aged 46­62 years, the prevalence of vagi-
+nal dryness was 21 percent, with prevalence increasing with
+age to about 34 percent in 62-year-old women (33). Wilbur
+et al. (16) noted a higher prevalence (29 percent in women
+aged 35­69 years), with the wider age range than our pop-
+ulation possibly accounting for the higher prevalence.
+Another limitation of previous work, however, is using age
+as a surrogate for menstrual status, whereas the present
+study used reported bleeding patterns.
+Correlates of Symptoms in Midlife Women 471
+Am J Epidemiol Vol. 152, No. 5, 2000
+Smoking
+Past smoking and current smoking were positively associ-
+ated in the present study with prevalence of vasomotor symp-
+toms, in agreement with most but not all (34) others (45­48).
+Women who smoke would be expected to have a higher
+prevalence of vasomotor symptoms because of the antiestro-
+genic effects of smoking (49­51); however, the lack of asso-
+ciation of smoking with vaginal dryness is thus unexpected,
+suggesting that other factors may be more important in the
+occurrence of vaginal dryness. We did observe that vaginal
+dryness was significantly less often reported among never
+married, widowed, or divorced women compared with mar-
+ried women, suggesting that opportunity for sexual activity
+may be related to reporting of vaginal dryness.
+Physical activity
+In contrast to the present study, previous cross-sectional
+surveys have generally failed to find any association between
+physical activity and vasomotor symptoms (46, 52­55). One
+study reported a lower prevalence of hot flashes among regu-
+larly active perimenopausal women compared with popula-
+tion controls whose activity level was not determined (30).
+The inconsistency between the present findings and those of
+previous investigations may be due, in part, to the assessment
+method. The present study asked about the respondent's per-
+ception of activity level but not what she actually did. This
+may predispose women who are having more symptoms to
+perceive themselves as less active than their peers.
+Alternatively, previous studies, with more limited sample
+sizes, may not have had the statistical power of the present
+study to detect significant relations between activity and vaso-
+motor symptoms. Most cross-sectional surveys have observed
+fewer somatic symptoms (52) and better health status (53, 55)
+in active women compared with sedentary women. Given the
+cross-sectional design of all of these studies, it is not possible
+to determine whether women feel better because they are
+active or are less active because they are symptomatic.
+Limitations of the present study
+The present study was cross-sectional. Thus, for certain
+variables, such as body mass index and physical activity, we
+could not be certain that the factor actually preceded and
+thus predisposed to the occurrence of symptoms. However,
+a number of the factors (e.g., education, parity, and smok-
+ing) were unlikely to have changed recently for most
+women and thus were likely to have preceded symptom
+reporting. Nonetheless, the temporal sequence of these asso-
+ciations will be better established in the next phase of
+SWAN, the longitudinal study.
+Another limitation is self-reporting, particularly of symp-
+toms, body mass index, and menstrual status. The use of
+standard questions for these items enhances the comparabil-
+ity of these results with those of prior studies. Again, how-
+ever, these assessments will be improved in longitudinal
+assessment and correlation with biologic measures of
+endocrine status in the next phase of SWAN.
+A third limitation is the varied sampling methods used
+among sites, necessitated by difficulties in achieving needed
+sample size of minority populations, making use of formal
+estimation procedures inappropriate. Thus, the present con-
+fidence intervals should be interpreted with caution.
+A final limitation is the potential for inadequate detail on
+variables of interest and inadequate control of potential con-
+founding factors. In this limited interview, it was not possi-
+ble to examine all such potential factors. In particular, more
+detailed questions could not be asked about both symptoms
+(e.g., nature of headaches and difficulty with sleep) and
+additional risk factors, such as diet, nature of occupation,
+income, pack-years of smoking, and nature and intensity of
+physical activity. Thus, uncontrolled confounding and insuf-
+ficient detail are potential limitations that will be better
+addressed in the SWAN longitudinal study.
+Strengths of the present study
+This is the first study to have large numbers of women at
+various stages of the menopausal transition and from five
+race/ethnic groups. Women were selected to be generally rep-
+resentative of their racial/ethnic group in their geographic area
+and came from several geographic areas in the United States.
+Thus, these results should apply to a large segment of women
+in this age group in this country. In addition, the use of stan-
+dardized methods of data collection over several geographic
+areas is an important strength. Finally, the effects of each vari-
+able were examined while controlling for many others.
+Conclusions
+The results of the SWAN cross-sectional survey indicate
+that a number of potentially modifiable factors affect symp-
+tom reporting. Thus, for women for whom medical treatment
+is contraindicated, undesired, or not tolerated, alternatives
+may be offered in lifestyle changes. In particular, smoking
+cessation was associated with lower prevalence than in cur-
+rent smokers of vasomotor symptoms and difficulty sleep-
+ing. Increased physical activity was associated with lower
+prevalence of virtually all symptoms. Overweight was asso-
+ciated with hot flashes/night sweats, urine leakage, and stiff-
+ness or soreness. All of these factors are, of course, also
+associated with a number of other adverse health effects.
+Our results also provide guidance to health care providers in
+assessing symptoms by increasing their sensitivity to differ-
+ences in symptom-reporting patterns by race/ethnicity and
+menstrual status. Importantly, our results also show that
+most indicators of low socioeconomic status, particularly
+low educational level and difficulty paying for basics, were
+associated with significantly increased reporting of almost
+all symptoms.
+ACKNOWLEDGMENTS
+The Study of Women's Health across the Nation (SWAN)
+was funded by the National Institute on Aging, the National
+472 Gold et al.
+Am J Epidemiol Vol. 152, No. 5, 2000
+Institute of Nursing Research, and the Office of Research on
+Women's Health of the National Institutes of Health.
+Supplemental funding from the National Institute of Mental
+Health, the National Institute on Child Health and Human
+Development, the National Center on Complementary and
+Alternative Medicine, the Office of Minority Health, and the
+Office of AIDS Research is also gratefully acknowledged.
+Participating institutions and principal staff were as fol-
+lows. Clinical Centers: University of Michigan, Ann Arbor
+(grant U01 NR04061; MaryFran Sowers, Principal
+Investigator); Massachusetts General Hospital, Boston
+(grant U01 AG12531; Robert Neer, Principal Investigator
+(1994­1999), Joel Finkelstein, Principal Investigator (cur-
+rent)); Rush University, Rush-Presbyterian-St. Luke's
+Medical Center, Chicago (grant U01 AG12505; Lynda
+Powell, Principal Investigator); University of California,
+Davis/Kaiser (grant U01 AG12554; Ellen Gold, Principal
+Investigator); University of California, Los Angeles (grant
+U01 A12539; Gail Greendale, Principal Investigator);
+University of Medicine and Dentistry-New Jersey Medical
+School, Newark (grant U01 AG12535; Gerson Weiss,
+Principal Investigator); and the University of Pittsburgh,
+Pittsburgh (grant U01 AG12546; Karen Matthews, Principal
+Investigator). Central Laboratory: University of Michigan,
+Ann Arbor (grant U01 AG12495; Central Ligand Assay
+Satellite Services, Rees Midgley, Principal Investigator).
+Coordinating Center: New England Research Institutes,
+Watertown, Massachusetts (grant U01 AG12553; Sonja
+McKinlay, Principal Investigator). Project Officers: Taylor
+Harden, Carol Hudgings, Marcia Ory, and Sheryl Sherman.
+Steering Committee Chair: Christopher Gallagher
+(1994­1996); Jennifer L. Kelsey (currently).
+The authors thank the study staff at each site and all of the
+women who participated in SWAN. They also gratefully
+acknowledge the statistical programming assistance of Yan
+Luo and Marianne O'Neill Rasor.
+The manuscript was reviewed by the Publications and
+Presentations Committee of SWAN and has its endorse-
+ment.
+REFERENCES
+1. Gist YJ, Velkoff VA. Gender and aging. Demographic dimen-
+sions. Washington, DC: US Department of Commerce,
+Economics and Statistics Administration, 1997. (Bureau of the
+Census report 18/97-3).
+2. Skolnick AA. At third meeting, menopause experts make the
+most of insufficient data. JAMA 1992;268:2483­5.
+3. Weinstein MC, Tosteson AN. Cost-effectiveness of hormone
+replacement. Ann N Y Acad Sci 1990;592:162­72.
+4. Sowers MF, Crawford SL, Sternfeld B, et al. SWAN: a multi-
+center, multi-ethnic, community-based cohort study of women
+and the menopausal transition. In: Lobos RA, Kelsey J,
+Marcus R, eds. Menopause: biology and pathobiology. New
+York, NY: Academic Press, 2000:175­88.
+5. Neugarten BL, Kraines RJ. Menopausal symptoms in women
+of various ages. Psychosom Med 1965;27:266­73.
+6. Matthews KA, Wing RR, Kuller LH, et al. Influence of the peri-
+menopause on cardiovascular risk factors and symptoms of mid-
+dle-aged healthy women. Arch Intern Med 1994;154:2349­55.
+7. Avis NE, McKinlay SM. A longitudinal analysis of women's
+attitudes toward the menopause: results from the Massachusetts
+Women's Health Study. Maturitas 1991;13:65­79.
+8. Lock M, Kaufert P, Gilbert P. Cultural construction of the
+menopausal syndrome: the Japanese case. Maturitas 1988;10:
+317­22.
+9. Lock M. Contested meanings of the menopause. Lancet 1991;
+337:1270­2.
+10. Kaufert PA. The social and cultural context of menopause.
+Maturitas 1996;23:169­80.
+11. Ferris BG. Epidemiology Standardization Project (American
+Thoracic Society). Am Rev Respir Dis 1978;118:1­120.
+12. SAS Institute, Inc. SAS proprietary software, release 6.07 ed.
+Cary, NC: SAS Institute, Inc, 1989.
+13. Avis NE, Stellato R, Crawford S, et al. Is there a menopausal
+syndrome? Menopausal status and symptoms across ethnic
+groups. Soc Sci Med (in press).
+14. Manson JE, Willett W, Stampfer M, et al. Body weight and
+mortality among women. N Engl J Med 1995;333:677­85.
+15. Hosmer DW, Lemeshow S. Applied logistic regression. New
+York, NY: Wiley, 1989.
+16. Wilbur JE, Miller AM, Montgomery A, et al. Socio-
+demographic characteristics, biological factors, and symptom
+reporting in midlife women. Menopause. J North Am
+Menopause Soc 1998;5:43­51.
+17. Greene JG. The cross-sectional legacy: an introduction to lon-
+gitudinal studies of the climacteric. Maturitas 1992;14:95­101.
+18. World Health Organization. Research on the menopause.
+Geneva, Switzerland: World Health Organization, 1981.
+19. Holte A. Influences of natural menopause on health com-
+plaints: a prospective study of healthy Norwegian women.
+Maturitas 1992;14:127­41.
+20. Hunter M. The south-east England longitudinal study of the
+climacteric and postmenopause. Maturitas 1992;14:117­26.
+21. McKinlay SM, Brambilla DJ, Posner JG. The normal
+menopause transition. Am J Hum Biol 1992;4:37­46.
+22. Jaszman L. Epidemiology of climacteric and post-climacteric
+complaints. Ageing and estrogens. Front Horm Res 1973;2:
+22­34.
+23. Hunter M, Battersby R, Whitehead M. Relationships between
+psychological symptoms, somatic complaints, and menopausal
+status. Maturitas 1986;8:217­28.
+24. Kuh DL, Wadsworth M, Hardy R. Women's health in midlife:
+the influence of the menopause, social factors and health in
+earlier life. Br J Obstet Gynaecol 1997;104:923­33.
+25. McKinlay SM, Jeffreys M. The menopausal syndrome. Br J
+Prev Soc Med 1974;28:108­15.
+26. Sharma V, Saxena M. Climacteric symptoms. Maturitas 1981;
+3:11­20.
+27. Thompson B, Hart SA, Durno D. Menopausal age and symp-
+tomatology in a general practice. J Biosoc Sci 1973;5:71­82.
+28. Avis NE, McKinlay SM. The Massachusetts Women's Health
+Study: an epidemiologic investigation of the menopause. J Am
+Womens Med Soc 1995;50:45­9.
+29. Hagstad A, Janson PO. The epidemiology of climacteric symp-
+toms. Acta Obstet Gynecol Scand Suppl 1986;134:59­65.
+30. Hammar M, Berg G, Lindgren R. Does physical exercise influ-
+ence the frequency of postmenopausal hot flushes? Acta Obstet
+Gynecol Scand 1990;69:409­12.
+31. O'Connor VM, DelMar CB, Sheehan M, et al. Do psychoso-
+cial factors contribute more to symptom reporting by middle-
+aged women than hormonal status? Maturitas 1995;20:63­9.
+32. Oldenhave A, Jaszman LJ, Haspels AA. Impact of climacteric
+on well-being: a survey based on 5213 women, 39 to 60 years
+old. Am J Obstet Gynecol 1993;168:772­80.
+33. Stadberg E, Mattsson LA, Milsom I. The prevalence and
+severity of climacteric symptoms and the use of different treat-
+ment regimens in a Swedish population. Acta Obstet Gynecol
+Scand 1997;76:442­8.
+34. Schwingl PJ, Hulka BS, Harlow SD. Risk factors for
+menopausal hot flashes. Obstet Gynecol 1994;84:29­34.
+35. Avis N, Crawford S, McKinlay S. Psychosocial, behavioral,
+and health factors related to menopause symptomatology. J
+Womens Health 1997;3:103­20.
+Correlates of Symptoms in Midlife Women 473
+Am J Epidemiol Vol. 152, No. 5, 2000
+36. Lindgren R, Berg G, Hammar M, et al. Hormonal replacement
+therapy and sexuality in a population of Swedish post-
+menopausal women. Acta Obstet Gynecol Scand 1993;72:
+292­7.
+37. Chompootweep S, Tankeyoon M, Yamarat K, et al. The
+menopausal age and climacteric complaints in Thai women in
+Bangkok. Maturitas 1993;17:63­71.
+38. Goodman MJ, Stewart CJ, Gilbert F. Patterns of menopause: a
+study of certain medical and physiological variables among
+Caucasian and Japanese women living in Hawaii. J Gertontol
+1977;32:291­8.
+39. Haines CJ, Chung TK, Leung DH. A prospective study of the
+frequency of acute menopausal symptoms in Hong Kong
+Chinese women. Maturitas 1994;18:175­81.
+40. DenTonkelaar I, Seidell J, vanNoord P. Obesity and fat distri-
+bution in relation to hot flashes in Dutch women from the
+DOM project. Maturitas 1996;23:301­5.
+41. Campagnoli C, Morra G, Belforte P, et al. Climacteric symp-
+toms according to body weight in women of different socio-
+economic groups. Maturitas 1981;3:279­87.
+42. Erlik Y, Meldrum DR, Judd HL. Estrogen levels in post-
+menopausal women with hot flashes. Obstet Gynecol 1982;
+59:403­7.
+43. Hershcopf R, Bradlow HL. Obesity, diet, endogenous estro-
+gens, and the risk of hormone-sensitive cancer. Am J Clin Nutr
+1987;45(suppl):283­9.
+44. Santoro N, Brown JR, Adel T, et al. Characterization of repro-
+ductive hormone dynamics in the perimenopause. J Clin
+Epidemiol Metab 1996;81:1495­501.
+45. Dennerstein L, Smith A, Morse C, et al. Menopausal symp-
+toms in Australian women. Med J Aust 1993;159:232­6.
+46. Hunter MS. Predictors of menopausal symptoms: psychosocial
+aspects. Baillieres Clin Endocrinol Metab 1993;7:33­45.
+47. Leidy L. Comparison of body size and age of menopause
+between Mexican-American and White American women. Ann
+N Y Acad Sci 1990;592:443­4.
+48. Hart P, Farrell GC, Cooksley WG, et al. Enhanced drug metab-
+olism in cigarette smokers. Br Med J 1976;2:147­9.
+49. Lindquist O, Bengtsson C. Menopausal age in relation to
+smoking. Acta Med Scand 1979;205:73­7.
+50. Michnovicz J, Hershcopf R, Naganuma H, et al. Increased 2-
+hydroxylation of estradiol as a possible mechanism for the
+anti-estrogenic effect of cigarette smoking. N Engl J Med
+1986;315:1305­9.
+51. Guthrie JR, Smith AM, Dennerstein L, et al. Physical activity
+and the menopause experience: a cross-sectional study.
+Maturitas 1995;20:71­80.
+52. Slaven L, Lee C. Mood and symptom reporting among middle-
+aged women; the relationship between menopausal status, hor-
+mone replacement therapy, and exercise participation. Health
+Psychol 1997;16:203­8.
+53. Sternfeld B, Quesenberry CP Jr, Husson G. Habitual physical
+activity and menopausal symptoms: a case-control study. J
+Womens Health 1999;8:115­23.
+54. Wilbur J, Dan A, Hedricks C, et al. The relationship among
+menopausal status, menopausal symptoms, and physical activ-
+ity in midlife women. Fam Community Health 1990;13:67­78.
+55. Wilbur J, Holm K, Dan A. The relationship of energy expendi-
+ture to physical and psychologic symptoms in women at
+midlife. Nurs Outlook 1992;40:269­76.
+

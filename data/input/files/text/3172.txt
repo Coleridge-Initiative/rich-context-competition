@@ -1,0 +1,1397 @@
+Does anticipation of government
+spending matter? Evidence from
+an expectation augmented VAR
+Jörn Tenhofen
+(BGSE-University of Bonn)
+Guntram B. Wolff
+(Deutsche Bundesbank, University of Pittsburgh, ZEI-University of Bonn)
+Discussion Paper
+Series 1: Economic Studies
+No 14/2007
+Discussion Papers represent the authors' personal opinions and do not necessarily reflect the views of the
+Deutsche Bundesbank or its staff.
+Editorial Board: Heinz Herrmann
+Thilo Liebig
+Karl-Heinz Tödter
+Deutsche Bundesbank, Wilhelm-Epstein-Strasse 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-1
+Telex within Germany 41227, telex from abroad 414431
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978-3­86558­304­8 (Printversion)
+ISBN 978-3­86558­305­5 (Internetversion)
+Abstract:
+How does private consumption react to an exogenous increase in government
+expenditure? Standard structural vector autoregressions (SVARs) usually
+report a positive GDP as well as consumption response, while event studies
+report a negative consumption response. We investigate in a SVAR whether
+anticipation of the fiscal shock reverses the sign of this dynamic response to a
+negative one. As a methodological contribution, we model expectation forma-
+tion within a SVAR framework. We show for the US that consumption falls in
+reaction to an expenditure shock once the model allows for one-period-ahead
+anticipation of this shock. Modelling anticipation of fiscal shocks is thus
+crucial to correctly capture their macroeconomic effects. Differences in results
+between event studies and VARs can be explained by missing anticipation in
+VARs. When re-estimating the two models (with and without anticipation)
+for non-defense related expenditures, we find a positive consumption response
+for both models. The implications of our results for macroeconomic theory
+are briefly discussed.
+Keywords: Fiscal policy, government spending, net revenue, policy anticipa-
+tion, structural vector autoregression.
+JEL-Classification: E62, H30.
+Non-technical summary
+How does government spending affect the real economy, especially private con-
+sumption? The answer to this question is highly controversial, both on the the-
+oretical as well as on the empirical side. The empirical debate concerns mostly
+the question of the best identification strategy. As government spending de-
+pends on many economic factors, the identification strategy has to assure that
+the fiscal shock is exogenous. A specific problem in this regard is the fact that
+fiscal policy might already affect the real economy before it actually occurs
+as fiscal policy actions are anticipated. This paper shows that anticipation of
+fiscal effects has important effects on the results of empirical studies.
+The empirical literature on the effects of fiscal policy in the US can broadly
+be divided into two strands: On the one hand, fiscal policy events are identi-
+fied with the narrative approach employing dummies for exogenous increases
+in military purchases. These shocks raise GDP but lower consumption and
+real wages. On the other hand, VAR techniques usually achieve identification
+by assuming that government spending is predetermined within the quarter
+and find that private consumption, similar to GDP, usually rises after a shock
+to government spending. These contrasting empirical findings have important
+implications for our view of the macroeconomy. While both the neoclassi-
+cal and the Keynesian model predict increasing output, in the former world
+consumption should fall, while in a Keynesian framework consumption should
+increase. Thus, the narrative approach lends support to neoclassical economic
+theory, while evidence from VARs supports Keynesian models.
+In this paper we model anticipation in a SVAR to study its importance
+in determining the results of the VAR approach. In contrast to Blanchard
+and Perotti (2002) who discuss anticipation effects on output, we report the
+effects of anticipated fiscal policy on private consumption, where anticipation
+effects could change the sign of the response. Moreover, as a methodologi-
+cal contribution, we introduce expected fiscal policy in a SVAR framework by
+modelling explicitly and transparently the process describing expectation for-
+mation. Our results are thus not based on simulations and we stay completely
+in the multivariate time series context.
+Our main finding is that the positive consumption response in Blanchard and
+Perotti's (2002) VAR switches to a negative response, once the VAR is ex-
+tended to allow for one-period-ahead anticipation of the shock. Modelling
+anticipation in VARs is thus of crucial importance. Once, the model correctly
+captures the timing, the empirical results are fully in line with a neoclassical
+model of fiscal policy. When re-estimating the two models (with and with-
+out anticipation) for non-defense related expenditures, we find a positive and
+clearly significant consumption response for both models. Here, the correct
+timing appears to be of minor importance.
+Nicht-technische Zusammenfassung
+Wie beeinflussen die Staatsausgaben die Realwirtschaft, insbesondere den pri-
+vaten Konsum? Diese Frage ist theoretisch und empirisch umstritten. Auf der
+empirischen Seite gibt es eine Kontroverse darum, wie man am besten solche
+Schocks identifiziert, da Staatsausgaben in der Regel nicht exogen sind, son-
+dern von anderen ¨
+okonomischen Variablen abh¨
+angen. Ein besonderes Problem
+besteht darin, dass Fiskalpolitik schon eine Wirkung entfalten kann, bevor sie
+eintritt, da Ausgaben- und Einnahmenver¨
+anderungen antizipiert werden. In
+diesem Papier zeigen wir, dass die Ber¨
+ucksichtigung von Antizipation starken
+Einfluss auf die Ergebnisse empirischer Studien hat.
+Die empirische Literatur zu den Auswirkungen der Fiskalpolitik in den
+USA l¨
+asst sich grob in zwei Ans¨
+atze unterteilen. Einerseits wird zur Iden-
+tifikation finanzpolitischer Ereignisse der narrative Ansatz herangezogen, bei
+dem f¨
+ur exogene Steigerungen der Milit¨
+arausgaben Dummy-Variablen einge-
+setzt werden. Solche Schocks erh¨
+ohen zwar das BIP, senken aber den Kon-
+sum und die Reall¨
+ohne. Andererseits werden VAR-Techniken verwendet, die
+zur Identifikation finanzpolitischer Ereignisse ¨
+ublicherweise davon ausgehen,
+dass die Staatsausgaben innerhalb des Quartals ihres Auftretens vorbestimmt
+sind. Dieser Ansatz ergibt, dass die privaten Konsumausgaben ¨
+ahnlich wie das
+BIP nach einem Schock bei den Staatsausgaben in der Regel ansteigen. Diese
+widerspr¨
+uchlichen empirischen Ergebnisse haben bedeutende Implikationen f¨
+ur
+unsere Auffassung der Gesamtwirtschaft. W¨
+ahrend sowohl das neoklassische
+als auch das Keynesianische Modell einen Produktionsanstieg voraussagen,
+w¨
+urden die Konsumausgaben laut dem erstgenannten Ansatz zur¨
+uckgehen,
+beim Keynesianischen Ansatz hingegen steigen. Somit st¨
+utzt der narrative
+Ansatz die neoklassische Wirtschaftstheorie, w¨
+ahrend die Ergebnisse von VARs
+den Keynesianischen Modellen Unterst¨
+utzung liefern.
+Im vorliegenden Beitrag wird die Antizipation finanzpolitischer Ereignisse in
+den USA in einem SVAR modelliert, um ihre Bedeutung f¨
+ur die Ergebnisse
+des VAR-Ansatzes zu untersuchen. Im Gegensatz zu Blanchard und Perotti
+(2002), die sich mit den Auswirkungen der Antizipation auf die Produktion
+besch¨
+aftigen, befassen wir uns mit dem Einfluss antizipierter finanzpolitis-
+cher Ereignisse auf die privaten Konsumausgaben; hier k¨
+onnen Antizipation-
+seffekte eine ¨
+Anderung des Vorzeichens der dynamischen Reaktion bewirken.
+Als methodischer Beitrag wird die erwartete Fiskalpolitik durch explizite und
+transparente Modellierung des Erwartungsbildungsprozesses in das SVAR-
+Modell eingef¨
+uhrt. Somit basieren die Ergebnisse der Untersuchung nicht auf
+Simulationen und werden ausschließlich im Kontext multivariater Zeitreihen-
+analyse ermittelt.
+Die wichtigste Erkenntnis der Untersuchung ist, dass sich die positive Reak-
+tion der Konsumausgaben gem¨
+aß dem von Blanchard und Perotti (2002)
+verwendeten VAR-Modell ins Negative umkehrt, wenn das VAR dahingehend
+erweitert wird, dass Antizipation erm¨
+oglicht wird. Die Modellierung der An-
+tizipation in VAR-Modellen ist somit von entscheidener Bedeutung. Sobald
+das Modell die zeitliche Struktur richtig erfasst, stehen die empirischen Resul-
+tate voll mit dem neoklassischen Modell der Fiskalpolitik im Einklang. Eine
+erneute Sch¨
+atzung der beiden Modelle (mit und ohne Antizipation) f¨
+ur Aus-
+gaben ohne Verteidigungsausgaben ergibt f¨
+ur beide eine positive und eindeutig
+signifikante Reaktion der Konsumausgaben. Hier scheint die korrekte zeitliche
+Einordnung eine untergeordnete Rolle zu spielen.
+Contents
+1 Introduction 1
+2 The estimation approach 3
+3 Results 7
+3.1 Benchmark . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3.2 Robustness with respect to elasticities and sample size . . . . . 10
+3.3 Defense spending . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+4 Conclusions 12
+References 13
+A Appendix 16
+List of Figures
+1 Consumption reaction to shock . . . . . . . . . . . . . . . . . . 8
+2 Consumption reaction to anticipated shock . . . . . . . . . . . . 9
+3 Consumption reaction to shock, non-defense spending . . . . . . 11
+4 Consumption reaction to anticipated shock, non-defense spending 12
+A-1 Government spending to GDP ratio . . . . . . . . . . . . . . . . 16
+A-2 Net revenue to GDP ratio . . . . . . . . . . . . . . . . . . . . . 16
+A-3 Consumption reaction to anticipated shock . . . . . . . . . . . . 17
+A-4 Consumption reaction to anticipated shock . . . . . . . . . . . . 17
+A-5 Consumption reaction to shock . . . . . . . . . . . . . . . . . . 18
+A-6 Consumption reaction to anticipated shock . . . . . . . . . . . . 18
+A-7 Consumption reaction to shock . . . . . . . . . . . . . . . . . . 19
+A-8 Consumption reaction to anticipated shock . . . . . . . . . . . . 19
+A-9 Defense expenditure to GDP . . . . . . . . . . . . . . . . . . . . 20
+A-10 Consumption reaction to federal non-defense shock . . . . . . . 20
+A-11 Consumption reaction to anticipated federal non-defense shock . 21
+A-12 Government spending per capita . . . . . . . . . . . . . . . . . . 21
+Does anticipation of government spending mat-
+ter? Evidence from an expectation augmented
+VAR1
+1 Introduction
+The empirical literature on the effects of fiscal policy can broadly be divided
+into two strands: On the one hand, fiscal policy events are identified with
+the narrative approach, which goes back to Romer and Romer (1989), em-
+ploying dummies for announced wars.2 Here, identification is based on the
+fact that wars are driven by foreign policy events exogenous to the state of
+the economy. Announced wars raise GDP but lower consumption and real
+wages (Ramey and Shapiro (1998), Edelberg, Eichenbaum, and Fisher (1999)
+and Burnside, Eichenbaum, and Fisher (2004)). On the other hand, VAR
+techniques usually achieve identification by assuming that government spend-
+ing is predetermined within the quarter. The seminal paper by Blanchard
+and Perotti (2002) furthermore assumes that government revenue cannot be
+adjusted with discretion to contemporaneous GDP and therefore depends in
+the short run on GDP only through automatic stabilizers, which can be ex-
+ogenously determined. When employing these identifying assumptions, private
+consumption, similar to GDP, usually rises after a shock to government spend-
+ing. These empirical results have been confirmed and extended in the papers
+by Perotti (2005) and Perotti (2007).3
+These contrasting empirical findings have important implications for our
+view of the macroeconomy. While both the neoclassical and the Keynesian
+model predict increasing output, in the former world consumption should fall
+1Authors: J¨
+orn Tenhofen, BGSE-University of Bonn; joern.tenhofen@uni-bonn.de, and
+Guntram B. Wolff, Deutsche Bundesbank, University of Pittsburgh, ZEI-University of Bonn;
+email: guntram.wolff@bundesbank.de. The opinions expressed in this paper do not neces-
+sarily represent the views of the Deutsche Bundesbank or its staff. We thank J¨
+org Breitung,
+Sandra Eickmeier, Valerie Ramey, Harald Uhlig, participants of the Bundesbank economic
+seminar and participants of the Bonn-Frankfurt Workshop "Topics in Time Series Econo-
+metrics" for many helpful comments. The usual disclaimer applies.
+2A very recent paper by Romer and Romer (2007) employs the narrative approach for
+tax changes.
+3de Castro Fern´
+andez and de Cos (2006) for Spain, Biau and Girard (2005) for France
+and Giordano, Momigliano, Neri, and Perotti (2007) for Italy, Heppke-Falk, Tenhofen, and
+Wolff (2006) for Germany. A different identification procedure was proposed by Fat´
+as and
+Mihov (2001) and Mountford and Uhlig (2005).
+1
+(Baxter and King 1993), while in a Keynesian framework consumption should
+increase.4 Thus, the narrative approach lends support to neoclassical economic
+theory, while evidence from VARs supports (New-) Keynesian models.
+In an important contribution, Ramey (2006) aims at explaining the dif-
+ference in the results of these two empirical approaches. She argues that the
+VAR techniques miss the fact, that large government spending shocks, such as
+wars, are usually anticipated. Within a neoclassical model, it is easy to show,
+that missing the point of anticipation will result in a positive coefficient of gov-
+ernment spending on consumption as consumption following the initial drop
+increases with investment.5 In support of her hypothesis that shocks are indeed
+anticipated, Ramey (2006) documents that the war dummies Granger-cause
+government spending shocks, but not vice-versa.
+In this paper we model anticipation in a SVAR to study its importance in
+determining the results of the VAR approach. In contrast to Blanchard and
+Perotti (2002) who discuss anticipation effects on output, we report the effects
+of anticipated fiscal policy on private consumption, where anticipation effects
+could change the sign of the response. Moreover, as a methodological contri-
+bution, we introduce expected fiscal policy in a SVAR framework by modelling
+explicitly and transparently the process describing expectation formation. Our
+results are thus not based on simulations and we stay completely in the mul-
+tivariate time series context. We continue to rely on quarterly data to avoid
+problems related to annual data, such as the fact that government spending is
+probably not predetermined relative to GDP within a fiscal year.
+Our main finding is that the positive consumption response in Blanchard
+and Perotti's (2002) VAR switches to a negative response, once the VAR is
+extended to allow for one- period-ahead anticipation of the shock. Modelling
+anticipation in VARs is thus of crucial importance. Our results lend strong
+support to Ramey's hypothesis, that the different results of the narrative ap-
+proach and the VAR approach are indeed driven by missing anticipation of
+4Gal´
+i, L´
+opez-Salido, and Vall´
+es (2007), among others, construct a New-Keynesian model
+with a positive consumption response. Gal´
+i, L´
+opez-Salido, and Vall´
+es (2007) as well as
+Linnemann and Schabert (2003) make clear, that many very special conditions have to be
+fulfilled in order to generate a positive consumption response.
+5Households should respond to the increase in government spending by reducing con-
+sumption and increasing labor supply, when they first learn about the future shock as the
+perfectly anticipated shock lowers lifetime wealth. After the initial drop, consumption should
+increase again as the real wage increases with investment. This will result in a positive co-
+efficient.
+2
+fiscal shocks in VARs. Once, the model correctly captures the timing, the em-
+pirical results are fully in line with a neoclassical model of fiscal policy, such as
+Baxter and King (1993). When re-estimating the two models (with and with-
+out anticipation) for non-defense related expenditures, we find a positive and
+clearly significant consumption response for both models. Here, the correct
+timing appears to be of minor importance. We discuss possible explanations
+of this result based on the nature of non-defense spending and alternatively
+based on the size of the shock.
+The remainder of the paper is structured as follows. The next section
+develops the expectations augmented SVAR. Section 3 contrasts the results of
+the expectations augmented SVAR with the results of the standard SVAR of
+Blanchard and Perotti (2002). Subsection 3.2 checks robustness and subsection
+3.3 highlights the importance of defense related expenditure and discusses
+possible explanations. Finally, the last section concludes.
+2 The estimation approach
+In order to explicitly take into account perfectly anticipated fiscal policy, we
+extend the empirical approach put forward by Blanchard and Perotti (2002),
+which constitutes the state-of-the-art SVAR methodology focusing on fiscal
+policy. They exploit fiscal policy decision lags to identify structural shocks
+and, in particular, argue that governments cannot react in the short run, e.g.,
+within the same quarter, to changes in the macroeconomic environment, since
+fiscal policy decision-making is a slow process, involving many agents in parlia-
+ment, government, and civil society. Consequently, reactions of fiscal policy to
+current developments only result from so-called "automatic" responses, which
+are defined by existing laws and regulations and which can be taken into ac-
+count by applying exogenous output or consumption elasticities. Adjusting
+government expenditure or revenue using these elasticities enables us to ob-
+tain unbiased estimates of the structural coefficients and thus the structural
+fiscal policy shocks.
+However, apart from decision lags, policymaking is also characterized by
+implementation lags, i.e., the realization of certain policies does not occur in-
+stantly but takes some time. This introduces the aspect of anticipated fiscal
+policy into this setup. Not taking account of the latter kind of lags could
+invalidate the analysis, since it is possible that what we (perhaps incorrectly)
+3
+identify as structural shocks are in fact anticipated by the private sector. Blan-
+chard and Perotti (2002) address this criticism by including future fiscal policy
+variables in the estimation procedure. In particular, they assume that agents
+perfectly know fiscal policy one period in advance and are able to react to
+it. They derive the output response of an anticipated fiscal shock by simulat-
+ing the system under rational expectations. Unfortunately, they do not report
+consumption responses, where anticipation effects could make a difference with
+respect to the sign of the response depending on the true model. Consequently,
+as one of the main contributions of this paper, we take up this question and
+investigate the relevance of anticipation effects for the dynamic response of
+private consumption to fiscal policy shocks.
+In order to allow for anticipation of fiscal shocks by the private sector, we
+go beyond the three variable SVAR of Blanchard and Perotti (2002) by explic-
+itly modeling the process describing expectation formation within the SVAR
+framework and derive impulse response functions. In general, we propose the
+following setup, based on a standard AB-model SVAR:
+Yt
+= C(L)Yt-1
++ Ut
+(1)
+AUt
+= BVt
+, (2)
+where Yt
+= [ct
+gt
+rt
+Et
+(gt+1
+) Et
+(rt+1
+)] is the vector of endogenous variables,
+Ut
+is the vector of reduced form residuals, and Vt
+= [vc
+t
+vg
+t
+vr
+t
+vg
+t+1
+vr
+t+1
+] is
+the vector of structural shocks to be identified. Here ct
+denotes real private
+consumption, gt
+is real government expenditure, rt
+denotes real government
+revenue, and vi
+t
+is the respective structural shock.
+More specifically, the model in structural form has the following represen-
+tation:
+ct
+= C11
+(L)ct-1
++ 1
+Et
+(gt+1
+) + c
+g
+gt
++ C12
+(L)gt-1
++ 2
+Et
+(rt+1
+)
++c
+r
+rt
++ C13
+(L)rt-1
++ vc
+t
+(3)
+gt
+= g
+c1
+ct
++ g
+c2
+ct-1
++ C21
+(L)ct-2
++ C22
+(L)gt-1
++ C23
+(L)rt-1
++ vg
+t
+(4)
+rt
+= r
+c1
+ct
++ r
+c2
+ct-1
++ C31
+(L)ct-2
++ C32
+(L)gt-1
++ C33
+(L)rt-1
++r
+g
+vg
+t
++ vr
+t
+(5)
+Et
+(gt+1
+) = C41
+(L)ct
++ C42
+(L)gt
++ C43
+(L)rt
++ Eg
+g
+vg
+t+1
++ Eg
+r
+vr
+t+1
+(6)
+Et
+(rt+1
+) = C51
+(L)ct
++ C52
+(L)gt
++ C53
+(L)rt
++ Er
+g
+vg
+t+1
++ Er
+r
+vr
+t+1
+, (7)
+4
+First, note that equations (3)-(5) represent the structure of the economy,
+while equations (6)-(7) model the process describing expectation formation.
+In addition, since the model is presented in structural form, the coefficients
+g
+c1
+, r
+c1
+, and r
+g
+are elements of the A and B matrices, respectively. Further-
+more, we pulled ct-1
+out of the lagpolynomial, since we have to treat these
+coefficients separately due to the identification approach of Blanchard and
+Perotti (2002). Moreover, we have to assume a relative ordering of the fiscal
+variables. Here we act on the assumption that spending decisions come first,
+i.e., the structural revenue shock, vr
+t
+, does not enter the expenditure equation,
+whereas vg
+t
+enters the revenue equation.
+However, the important thing to note here, is that we explicitly take into
+account anticipated fiscal policy by introducing the expectation terms in equa-
+tion (3) and model the expectation process by equations (6) and (7). The as-
+sumption that fiscal policy is perfectly known one period in advance is reflected
+in the fact that the information set with respect to period t also includes vg
+t+1
+and vr
+t+1
+, which is reflected in the latter two equations modeling the process
+describing expectation formation. Even though a standard VAR also implic-
+itly models expectation formation, here we have to augment the basic VAR
+equations with the expectations terms and expectational equations, since we
+have to deal with a special informational structure. In particular, not only
+variables indexed up to time t are part of the information set with respect
+to time t, but it also contains future variables, i.e., variables indexed t + 1.
+Moreover, one might wonder how the equations modeling expectation forma-
+tion are consistent with the equations modeling the fiscal part of the structure
+of the economy. The main difference here is that at time t future private con-
+sumption is not known, which is however part of the structural fiscal equations
+with respect to time t + 1. Consequently, private agents have to estimate this
+"omitted variable," and this is done by using all the information available at
+time t. This is why the coefficients in the lagpolynomial in the expectational
+equations could differ from the respective ones in the structural equations.
+In addition, this is also why the coefficient of the corresponding fiscal shock
+in the expectational equations does not have to be one, as in the structural
+equation. Finally, the structural government revenue shock is also part of the
+expectational equation modeling government expenditure, even though it is
+not part of the structural fiscal equation, since it could potentially help to
+forecast future private consumption.
+5
+Estimation of this model basically proceeds in three steps.6 First, we look
+at the fiscal equations (4) and (5). Here we start by exploiting the assumption
+concerning decision lags. In particular, in order to address endogeneity issues,
+we use exogenous consumption elasticities of government expenditure and rev-
+enue to compute adjusted real government direct expenditure and net revenue.
+Furthermore, we not only have to assume that there is no fiscal policy discre-
+tionary response to consumption developments within the quarter but also no
+response to consumption developments in the previous quarter. This leads to
+the following setup:
+gA
+t
+ gt
+- g
+c1
+ct
+- g
+c2
+ct-1
+= C21
+(L)ct-2
++ C22
+(L)gt-1
++ C23
+(L)rt-1
++ vg
+t
+(8)
+rA
+t
+ rt
+- r
+c1
+ct
+- r
+c2
+ct-1
+= C31
+(L)ct-2
++ C32
+(L)gt-1
++ C33
+(L)rt-1
++r
+g
+vg
+t
++ vr
+t
+. (9)
+Subsequently, we recursively estimate the resulting equations by OLS to obtain
+the structural shocks to the respective fiscal variable, i.e., we first estimate
+equation (8) and obtain vg
+t
+, and then use this shocks series as an additional
+regressor to estimate equation (9).
+In the second step, we consider the equation modeling private consumption.
+We begin by rewriting equation (3) as follows:
+ct
+= C11
+(L)ct-1
++ 1
+gt+1
++ c
+g
+gt
++ C12
+(L)gt-1
++ 2
+rt+1
++c
+r
+rt
++ C13
+(L)rt-1
++ vc
+t
+, (10)
+where
+gt+1
+= Et
+(gt+1
+) + ug
+t+1
+(11)
+rt+1
+= Et
+(rt+1
+) + ur
+t+1
+, (12)
+and consequently vc
+t
+= vc
+t
+- 1
+ug
+t+1
+- 2
+ur
+t+1
+. Subsequently, equation (10) is
+estimated by means of instrumental variables regression, in order to account
+for the correlation of the respective regressors and error term. Since both vi
+t+1
+6Here our focus is on the aspect of anticipation. A more detailed description of the
+general estimation approach can be found in Blanchard and Perotti (2002) and Heppke-
+Falk, Tenhofen, and Wolff (2006).
+6
+and vi
+t
+(i = g, r) are perfectly known at time t, they are uncorrelated with the
+expectational errors in vc
+t
+. Furthermore, because they are also uncorrelated
+with vc
+t
+, we can use ve
+t+1
+, ve
+t
+, vr
+t+1
+, and vr
+t
+as instruments to estimate 1
+, c
+e
+, 2
+,
+and c
+r
+.
+Finally, in the third step, we look at the equations modeling expectations.
+Since with respect to these two equations we are only interested in forecasting
+and not in estimation of the structural parameters, it is sufficient to just plug
+equations (6) and (7) into equations (11) and (12), respectively, and estimate
+these by OLS.7
+By this procedure we obtain all coefficients necessary to compute the struc-
+tural impulse response functions. In particular, it is possible to estimate the
+dynamic response to a perfectly anticipated fiscal policy shock.
+With respect to data, real private consumption, as well as real direct ex-
+penditure and real net revenue are defined as in Blanchard and Perotti (2002).8
+The series are seasonally adjusted, in per capita terms, and we take logs. The
+frequency of the employed time series is crucial for the identification approach.
+In order to exclude the possibility of discretionary fiscal policy actions within
+one time period, quarterly data are used. The system is estimated in levels
+including a constant, a time trend, and a dummy to account for the large tax
+cut in 1975:2. The sample starts in 1947:1 and runs up to 2006:3. The number
+of lags for the VAR is chosen to be three as suggested by the Akaike informa-
+tion criterion (AIC). With respect to the consumption elasticities, we follow
+Blanchard and Perotti (2002) and assume that there is no automatic response
+of government spending in the current and the previous quarter, and that the
+consumption elasticities of net revenue are 2.08  0.6436 and 0.16  0.6436 for
+time t and t - 1, respectively, where 2.08 and 0.16 are the output elastici-
+ties and 0.6436 is the average share of consumption in GDP over the sample
+period.9
+7OLS provides a consistent estimate of the linear projection coefficient. See, for example,
+Hamilton (1994), p. 76.
+8Figures A-1 and A-2 in the appendix plot the expenditure respectively tax to GDP ratio
+as shown in Blanchard and Perotti (2002). The data are taken from the bureau of economic
+analysis website (www.bea.gov).
+9We perform various robustness checks concerning the elasticities. In particular, as do
+Blanchard and Perotti (2002), we also set the output elasticity of net revenue at t - 1 to 0
+and 0.5, and consequently the consumption elasticity to 0 and 0.5  0.6436.
+7
+3 Results
+3.1 Benchmark
+In Figure 1, we present the response of private consumption to a government
+spending and government revenue shock.10 These impulse responses are de-
+rived from the benchmark three variable VAR, which does not allow for an-
+ticipation. As Blanchard and Perotti (2002), we find a positive response of
+2 4 6 8 10 12
+-0.02
+0
+0.02
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+Govt. E on C
+2 4 6 8 10 12
+-0.08
+-0.06
+-0.04
+-0.02
+0
+0.02
+Govt. R on C
+Figure 1: Reaction of private consumption to government expenditure and
+revenue shock. Sample: 1947q1-2006q3.
+private consumption to the spending shock, which is, however, not significant.
+Regarding the revenue shock, we find a significantly negative response after
+three quarters.
+If the SVAR model is extended along the lines described above to allow for
+one-period-ahead anticipation of the shock, the results markedly change. As
+Figure 2 shows, consumption falls one period before the shock realizes. The
+point estimate continues to decrease until one period after the shock realization
+but then increases towards zero. Regarding the anticipated revenue shock, we
+find a negative point estimate, which is, however, not significant.
+These results show, that extending the SVAR model to allow for perfect
+anticipation of shocks changes the results substantially. In particular, it alters
+10We plot the point estimate of the impulse response function as well as 68% bootstrap
+confidence bands based on 5000 replications. We show 68% confidence intervals to be able
+to compare our results to Blanchard and Perotti's.
+8
+2 4 6 8 10 12
+-0.12
+-0.1
+-0.08
+-0.06
+-0.04
+-0.02
+0
+Govt. exp. E on C
+2 4 6 8 10 12
+-0.025
+-0.02
+-0.015
+-0.01
+-0.005
+0
+0.005
+Govt. exp. R on C
+Figure 2: Reaction of private consumption to anticipated government expen-
+diture and revenue shock. The shock occurs at time 2 and is anticipated at
+time 1. Sample: 1947q1-2006q3.
+the sign of the response of private consumption to government expenditure.
+Private consumption now reacts, in line with the neoclassical model, by falling.
+After the realization of the shock, consumption starts increasing again. This
+finding indeed suggests that the different results coming from "war dummy"
+studies and VAR studies might be driven by the "timing." Regarding the
+revenue shock, allowing for anticipation renders the previously significantly
+negative consumption response insignificant.
+9
+3.2 Robustness with respect to elasticities and sample
+size
+As a robustness check, we modify the elasticity of revenue to private consump-
+tion at t-1 to zero. Figure A-3 shows that the negative consumption response
+is unaffected. Increasing this elasticity to (0.5*0.6436) yields Figure A-4, in
+which the response of consumption to a revenue shock is now significantly
+negative, while the response to a spending shock also remains negative and
+significant. Furthermore, using the tax revenue elasticity to GDP as the elas-
+ticity of tax revenue to consumption does not change the results (Figures A-5
+and A-6). Thus, in the sample 1947-2006, we clearly find falling consumption
+to a spending shock if anticipation is allowed for. For the more restricted
+model without anticipation, consumption increases.
+As an additional robustness check, we restrict our sample to the period
+1960-1997, on which most results of Blanchard and Perotti (2002) are based.
+Figure A-7 plots the impulse response for the three variable VAR. In line
+with Blanchard and Perotti (2002), we find a clear and significant positive
+response of consumption to a shock to government spending and a significant
+and negative reaction to a shock to revenue after 4 quarters.
+When extending the model for the shorter sample to allow for anticipation
+of the shocks, we again find our results changed substantially (Figure A-8).
+The magnitude of the point estimate of the consumption response to a spend-
+ing shock is roughly a third. Furthermore, it is insignificant. Regarding the
+response to a revenue shock, we also do not find a significant effect anymore.
+Thus, while the sign of the response does not change, the pervious result is
+still confirmed in the sense that the consumption response is substantially
+weakened if anticipation is accounted for.
+3.3 Defense spending
+It is well known, that the 1950s can be characterized by a strong increase in
+defense expenditure due to the Korean war build-up. Figure A-9 plots the evo-
+lution of the national defense consumption expenditures and gross investment
+to GDP ratio. The Korean war build-up along with increased defense spending
+due to the cold war led to an increase of this ratio from less than 7 percent
+in 1948 to almost 15 percent in 1952. This figure together with the results
+from the restricted sample starting only in 1960 suggests that an analysis of
+10
+non-defense expenditure is worthwhile.
+2 4 6 8 10 12
+0
+0.02
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+0.16
+Govt. nonD E on C
+2 4 6 8 10 12
+-0.06
+-0.04
+-0.02
+0
+0.02
+0.04
+Govt. R on C
+Figure 3: Reaction of private consumption to government non-defense expen-
+diture and revenue shock. Sample: 1947q1-2006q3.
+In Figure 3 we plot the impulse-response functions of a three variable VAR
+over the entire sample period without anticipation, in which government ex-
+penditure does not include defense spending. It is interesting to note, that
+the effect on consumption now appears to be more pronounced and positive.
+Apparently, the inclusion of defense spending in the prior benchmark analysis
+had reduced the positive impact on private consumption.
+Extending the VAR to allow for anticipation of the shock changes the effects
+only slightly for government non-defense spending (Figure 4). The magnitude
+of the consumption response becomes smaller, while it is more clearly signifi-
+cant at all horizons. As regards government net revenue, the estimated effects
+are now insignificant at all horizons. For non-defense spending, timing issues
+thus appear to be of minor importance.
+A potential explanation for the positive consumption response, once defense
+spending is omitted, might be the different nature of defense relative to non-
+defense spending. In fact, large parts of non-defense spending are performed
+by states and local authorities. We therefore looked at federal non-defense
+consumption spending and still found a significant and positive private con-
+sumption response in both models (Figures A-10 and A-11). It is also possible
+that defense spending is really the variable best suited to test wealth effects.
+Many other fiscal spending variables either constitute investment or are at least
+11
+2 4 6 8 10 12
+0
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08
+Govt. exp. nonD E on C
+2 4 6 8 10 12
+-0.015
+-0.01
+-0.005
+0
+0.005
+0.01
+0.015
+Govt. exp. R on C
+Figure 4: Reaction of private consumption to anticipated government non-
+defense expenditure and revenue shock. Sample: 1947q1-2006q3.
+partially a substitute for private consumption. Yet another explanation is that
+the size of the shock matters. Figure A-12 plots real spending per capita and
+shows that abstracting from the trend, large variations in the series results
+mostly from defense spending. It is possible, that economic agents re-optimize
+their consumption/leisure decisions when faced with a large shock, while for
+smaller shocks they rather follow a model of a rule-of-thumb consumer who
+acts like a credit constraint person. This last interpretation would find support
+in recent research by Hsieh (2003), who shows that spending of Alaskan fami-
+lies does not appear to react to large and predictable annual payments while it
+does react to small and predicted income tax refunds.11 Also, McGrattan and
+Ohanian (2007) show that the neoclassical model can explain the very large
+World War II fiscal shock well. More work along these lines remains for future
+research.
+4 Conclusions
+How does private consumption react to fiscal policy shocks? In this paper, we
+have shown that the estimated response significantly depends on anticipation
+of the shock. When estimating a standard SVAR in the spirit of Blanchard
+11This difference is explained by the fact that computational costs of re-optimization are
+significant.
+12
+and Perotti (2002), we find a positive consumption response to a government
+spending shock. Extending this SVAR to allow for one-period-ahead anticipa-
+tion of the shock dramatically changes the results. Private consumption falls
+one period before the expenditure shock realizes. These results are robust to
+changes in the exogenous elasticities needed to identify the SVAR. Modelling
+anticipation of fiscal shocks is thus of crucial importance.
+In a second step, we re-estimate the two competing models for the entire
+sample 1947-2006, but exclude defense spending from government expenditure.
+The results now clearly show a positive consumption response for both the
+model allowing and not allowing for anticipation.
+These findings suggest, that missing anticipation of shocks indeed appears
+to explain the difference of the consumption response found in event studies
+(Ramey and Shapiro 1998) vs. SVARs (Blanchard and Perotti 2002) as sug-
+gested by Ramey (2006). However, anticipation of fiscal expenditure shocks
+appears to be relevant only for defense spending. Private agents indeed lower
+their consumption in anticipation of a large increase in defense spending. An-
+ticipation of other expenditure shocks is largely irrelevant. Here, private agents
+react to government non-defense expenditure by increasing consumption irre-
+spective of anticipation.
+The results on defense expenditure support neo-classical economic theory
+in the spirit of Baxter and King (1993). Private households reduce their con-
+sumption in response to the loss in future income due to non-productive war
+expenditures. Regarding non-defense expenditure, there are different expla-
+nations for the positive consumption response. One possibility is that parts
+of non-defense spending have the character of investments thereby potentially
+increasing wealth, which should lead to a consumption increase. A different
+explanation is that economic agents re-optimize their consumption/leisure de-
+cision only if shocks are large, while for small shocks they act like rule-of-thumb
+consumers. An answer to this question remains for future research.
+References
+Baxter, M., and R. G. King (1993): "Fiscal Policy in General Equilib-
+rium," American Economic Review, 83(3), 315­334.
+Biau, O., and E. Girard (2005): "Politique Budg´
+etaire et Dynamique
+´
+Economique En France: L'approche VAR Structurelle," Economie et
+13
+Pr´
+evision, 169-71, 1­24.
+Blanchard, O., and R. Perotti (2002): "An Empirical Characterization
+of the Dynamic Effects of Changes in Government Spending and Taxes on
+Output," Quarterly Journal of Economics, 117 (4), 1329­68.
+Burnside, C., M. Eichenbaum, and J. D. M. Fisher (2004): "Fiscal
+Shocks and their Consequences," Journal of Economic Theory, 115(1), 89­
+117.
+de Castro Fern´
+andez, F., and P. H. de Cos (2006): "The Economic
+Effects of Exogenous Fiscal Shocks in Spain," ECB Working Paper Series,
+No. 647.
+Edelberg, W., M. Eichenbaum, and J. D. M. Fisher (1999): "Un-
+derstanding the Effects of a Shock to Government Purchases," Review of
+Economic Dynamics, 2(1), 166­206.
+Fat´
+as, A., and I. Mihov (2001): "The Effects of Fiscal Policy on Consump-
+tion and Employment: Theory and Evidence," CEPR discussion paper, No.
+2760.
+Gal´
+i, J., J. D. L´
+opez-Salido, and J. Vall´
+es (2007): "Understanding the
+Effects of Government Spending on Consumption," Journal of the European
+Economic Association, 5(1), 227­270.
+Giordano, R., S. Momigliano, S. Neri, and R. Perotti (2007): "The
+Effects of Fiscal Policy in Italy: Estimates with a SVAR Model," European
+Journal of Political Economy, in press.
+Hamilton, J. D. (1994): Time Series Analysis. Princeton University Press,
+Princeton, New Jersey.
+Heppke-Falk, K. H., J. Tenhofen, and G. B. Wolff (2006): "The
+Macroeconomic Effects of Exogenous Fiscal Policy Shocks in Germany: A
+Disaggregated SVAR Analysis," Deutsche Bundesbank Discussion Paper, No
+41/2006.
+Hsieh, C.-T. (2003): "Do Consumers React to Anticipated Income Changes?
+Evidence from the Alaska Permanent Fund," American Economic Review,
+93(1), 397­405.
+14
+Linnemann, L., and A. Schabert (2003): "Fiscal Policy in the New Neo-
+classical Synthesis," Journal of Money, Credit, and Banking, 35(6), 911­29.
+McGrattan, E. R., and L. E. Ohanian (2007): "Does Neoclassical Theory
+Account for the Effects of Big Fiscal Shocks? Evidence from World War II,"
+Federal Reserve Bank of Minneapolis, Research Department Staff Report,
+No. 315.
+Mountford, A., and H. Uhlig (2005): "What are the Effects of Fiscal
+Policy Shocks?," mimeo.
+Perotti, R. (2005): "Estimating the Effects of Fiscal Policy in OECD Coun-
+tries," CEPR Discussion Paper Series, No. 4842.
+(2007): "In Search of the Transmission Mechanism of Fiscal Policy,"
+mimeo.
+Ramey, V. A. (2006): "Identifying Government Spending Shocks: It's All in
+the Timing," mimeo.
+Ramey, V. A., and M. D. Shapiro (1998): "Costly Capital Reallocation
+and the Effects of Government Spending," Carnegie Rochester Conference
+Series on Public Policy, 48, 145­194.
+Romer, C. D., and D. H. Romer (1989): "Does Monetary Policy Mat-
+ter? A New Test in the Spirit of Friedman and Schwartz," in: Olivier J.
+Blanchard and Stanley Fischer, eds.: NBER macroeconomics annual: 1989.
+Cambridge, Mass, and London: MIT Press, 121-170, No. 2966.
+(2007): "The Macroeconomic Effects of Tax Changes: Estimates
+Based on a New Measure of Fiscal Shocks," mimeo.
+15
+A Appendix
+Figure A-1: Government spending to GDP ratio.
+Figure A-2: Net revenue to GDP ratio.
+16
+2 4 6 8 10 12
+-0.12
+-0.1
+-0.08
+-0.06
+-0.04
+-0.02
+0
+Govt. exp. E on C
+2 4 6 8 10 12
+-0.02
+-0.015
+-0.01
+-0.005
+0
+0.005
+0.01
+Govt. exp. R on C
+Figure A-3: Reaction of private consumption to anticipated government ex-
+penditure and revenue shock. Sample: 1947q1-2006q3, elasticity of tax revenue
+to consumption at t-1: 0
+2 4 6 8 10 12
+-0.12
+-0.1
+-0.08
+-0.06
+-0.04
+-0.02
+0
+Govt. exp. E on C
+2 4 6 8 10 12
+-0.04
+-0.035
+-0.03
+-0.025
+-0.02
+-0.015
+-0.01
+-0.005
+0
+Govt. exp. R on C
+Figure A-4: Reaction of private consumption to anticipated government ex-
+penditure and revenue shock. Sample: 1947q1-2006q3, elasticity of tax revenue
+to consumption at t-1: 0.5*0.6436
+17
+2 4 6 8 10 12
+-0.02
+0
+0.02
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+Govt. E on C
+2 4 6 8 10 12
+-0.1
+-0.09
+-0.08
+-0.07
+-0.06
+-0.05
+-0.04
+-0.03
+-0.02
+-0.01
+0
+Govt. R on C
+Figure A-5: Reaction of private consumption to government expenditure and
+revenue shock. elasticity of tax revenue to consumption at t: 2.08. Sample:
+1947q1-2006q3.
+2 4 6 8 10 12
+-0.11
+-0.1
+-0.09
+-0.08
+-0.07
+-0.06
+-0.05
+-0.04
+-0.03
+-0.02
+-0.01
+Govt. exp. E on C
+2 4 6 8 10 12
+-0.055
+-0.05
+-0.045
+-0.04
+-0.035
+-0.03
+-0.025
+-0.02
+-0.015
+-0.01
+-0.005
+Govt. exp. R on C
+Figure A-6: Reaction of private consumption to anticipated government ex-
+penditure and revenue shock. elasticity of tax revenue to consumption at t:
+2.08. Sample: 1947q1-2006q3.
+18
+2 4 6 8 10 12
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+Govt. E on C
+2 4 6 8 10 12
+-0.1
+-0.08
+-0.06
+-0.04
+-0.02
+0
+0.02
+Govt. R on C
+Figure A-7: Reaction of private consumption to government expenditure and
+revenue shock. Sample: 1960q1-1997q4.
+2 4 6 8 10 12
+0
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08
+0.09
+0.1
+Govt. exp. E on C
+2 4 6 8 10 12
+-0.015
+-0.01
+-0.005
+0
+0.005
+0.01
+0.015
+0.02
+0.025
+0.03
+Govt. exp. R on C
+Figure A-8: Reaction of private consumption to anticipated government ex-
+penditure and revenue shock. Sample: 1960q1-1997q4.
+19
+Figure A-9: Defense expenditure to GDP ratio.
+2 4 6 8 10 12
+-0.01
+-0.005
+0
+0.005
+0.01
+0.015
+0.02
+0.025
+0.03
+0.035
+Fed. nonD C on C
+2 4 6 8 10 12
+-0.07
+-0.06
+-0.05
+-0.04
+-0.03
+-0.02
+-0.01
+0
+0.01
+0.02
+0.03
+Govt. R on C
+Figure A-10: Reaction of private consumption to federal non-defense consump-
+tion expenditure and revenue shock. Sample: 1947q1-2006q3.
+20
+2 4 6 8 10 12
+0
+0.005
+0.01
+0.015
+0.02
+Fed. exp. nonD C on C
+2 4 6 8 10 12
+-0.02
+-0.015
+-0.01
+-0.005
+0
+0.005
+0.01
+Govt. exp. R on C
+Figure A-11: Reaction of private consumption to anticipated federal non-
+defense expenditure and revenue shock. Sample: 1947q1-2006q3.
+Figure A-12: Real per capita government spending in thousand US Dollars.
+Sample: 1947q1-2006q3.
+21
+22
+The following Discussion Papers have been published since 2006:
+Series 1: Economic Studies
+1 2006 The dynamic relationship between the Euro
+overnight rate, the ECB's policy rate and the Dieter Nautz
+term spread Christian J. Offermanns
+2 2006 Sticky prices in the euro area: a summary of Álvarez, Dhyne, Hoeberichts
+new micro evidence Kwapil, Le Bihan, Lünnemann
+Martins, Sabbatini, Stahl
+Vermeulen, Vilmunen
+3 2006 Going multinational: What are the effects
+on home market performance? Robert Jäckle
+4 2006 Exports versus FDI in German manufacturing:
+firm performance and participation in inter- Jens Matthias Arnold
+national markets Katrin Hussinger
+5 2006 A disaggregated framework for the analysis of Kremer, Braz, Brosens
+structural developments in public finances Langenus, Momigliano
+Spolander
+6 2006 Bond pricing when the short term interest rate Wolfgang Lemke
+follows a threshold process Theofanis Archontakis
+7 2006 Has the impact of key determinants of German
+exports changed?
+Results from estimations of Germany's intra
+euro-area and extra euro-area exports Kerstin Stahn
+8 2006 The coordination channel of foreign exchange Stefan Reitz
+intervention: a nonlinear microstructural analysis Mark P. Taylor
+9 2006 Capital, labour and productivity: What role do Antonio Bassanetti
+they play in the potential GDP weakness of Jörg Döpke, Roberto Torrini
+France, Germany and Italy? Roberta Zizza
+23
+10 2006 Real-time macroeconomic data and ex ante J. Döpke, D. Hartmann
+predictability of stock returns C. Pierdzioch
+11 2006 The role of real wage rigidity and labor market
+frictions for unemployment and inflation Kai Christoffel
+dynamics Tobias Linzert
+12 2006 Forecasting the price of crude oil via
+convenience yield predictions Thomas A. Knetsch
+13 2006 Foreign direct investment in the enlarged EU:
+do taxes matter and to what extent? Guntram B. Wolff
+14 2006 Inflation and relative price variability in the euro Dieter Nautz
+area: evidence from a panel threshold model Juliane Scharff
+15 2006 Internalization and internationalization
+under competing real options Jan Hendrik Fisch
+16 2006 Consumer price adjustment under the
+microscope: Germany in a period of low Johannes Hoffmann
+inflation Jeong-Ryeol Kurz-Kim
+17 2006 Identifying the role of labor markets Kai Christoffel
+for monetary policy in an estimated Keith Küster
+DSGE model Tobias Linzert
+18 2006 Do monetary indicators (still) predict
+euro area inflation? Boris Hofmann
+19 2006 Fool the markets? Creative accounting, Kerstin Bernoth
+fiscal transparency and sovereign risk premia Guntram B. Wolff
+20 2006 How would formula apportionment in the EU
+affect the distribution and the size of the Clemens Fuest
+corporate tax base? An analysis based on Thomas Hemmelgarn
+German multinationals Fred Ramb
+24
+21 2006 Monetary and fiscal policy interactions in a New
+Keynesian model with capital accumulation Campbell Leith
+and non-Ricardian consumers Leopold von Thadden
+22 2006 Real-time forecasting and political stock market Martin Bohl, Jörg Döpke
+anomalies: evidence for the U.S. Christian Pierdzioch
+23 2006 A reappraisal of the evidence on PPP:
+a systematic investigation into MA roots Christoph Fischer
+in panel unit root tests and their implications Daniel Porath
+24 2006 Margins of multinational labor substitution Sascha O. Becker
+Marc-Andreas Mündler
+25 2006 Forecasting with panel data Badi H. Baltagi
+26 2006 Do actions speak louder than words? Atsushi Inoue
+Household expectations of inflation based Lutz Kilian
+on micro consumption data Fatma Burcu Kiraz
+27 2006 Learning, structural instability and present H. Pesaran, D. Pettenuzzo
+value calculations A. Timmermann
+28 2006 Empirical Bayesian density forecasting in Kurt F. Lewis
+Iowa and shrinkage for the Monte Carlo era Charles H. Whiteman
+29 2006 The within-distribution business cycle dynamics Jörg Döpke
+of German firms Sebastian Weber
+30 2006 Dependence on external finance: an inherent George M. von Furstenberg
+industry characteristic? Ulf von Kalckreuth
+31 2006 Comovements and heterogeneity in the
+euro area analyzed in a non-stationary
+dynamic factor model Sandra Eickmeier
+25
+32 2006 Forecasting using a large number of predictors: Christine De Mol
+is Bayesian regression a valid alternative to Domenico Giannone
+principal components? Lucrezia Reichlin
+33 2006 Real-time forecasting of GDP based on
+a large factor model with monthly and Christian Schumacher
+quarterly data Jörg Breitung
+34 2006 Macroeconomic fluctuations and bank lending: S. Eickmeier
+evidence for Germany and the euro area B. Hofmann, A. Worms
+35 2006 Fiscal institutions, fiscal policy and Mark Hallerberg
+sovereign risk premia Guntram B. Wolff
+36 2006 Political risk and export promotion: C. Moser
+evidence from Germany T. Nestmann, M. Wedow
+37 2006 Has the export pricing behaviour of German
+enterprises changed? Empirical evidence
+from German sectoral export prices Kerstin Stahn
+38 2006 How to treat benchmark revisions?
+The case of German production and Thomas A. Knetsch
+orders statistics Hans-Eggert Reimers
+39 2006 How strong is the impact of exports and
+other demand components on German
+import demand? Evidence from euro-area
+and non-euro-area imports Claudia Stirböck
+40 2006 Does trade openness increase C. M. Buch, J. Döpke
+firm-level volatility? H. Strotmann
+41 2006 The macroeconomic effects of exogenous Kirsten H. Heppke-Falk
+fiscal policy shocks in Germany: Jörn Tenhofen
+a disaggregated SVAR analysis Guntram B. Wolff
+26
+42 2006 How good are dynamic factor models
+at forecasting output and inflation? Sandra Eickmeier
+A meta-analytic approach Christina Ziegler
+43 2006 Regionalwährungen in Deutschland ­
+Lokale Konkurrenz für den Euro? Gerhard Rösl
+44 2006 Precautionary saving and income uncertainty
+in Germany ­ new evidence from microdata Nikolaus Bartzsch
+45 2006 The role of technology in M&As: a firm-level Rainer Frey
+comparison of cross-border and domestic deals Katrin Hussinger
+46 2006 Price adjustment in German manufacturing:
+evidence from two merged surveys Harald Stahl
+47 2006 A new mixed multiplicative-additive model
+for seasonal adjustment Stephanus Arz
+48 2006 Industries and the bank lending effects of Ivo J.M. Arnold
+bank credit demand and monetary policy Clemens J.M. Kool
+in Germany Katharina Raabe
+01 2007 The effect of FDI on job separation Sascha O. Becker
+Marc-Andreas Mündler
+02 2007 Threshold dynamics of short-term interest rates:
+empirical evidence and implications for the Theofanis Archontakis
+term structure Wolfgang Lemke
+03 2007 Price setting in the euro area: Dias, Dossche, Gautier
+some stylised facts from individual Hernando, Sabbatini
+producer price data Stahl, Vermeulen
+04 2007 Unemployment and employment protection
+in a unionized economy with search frictions Nikolai Stähler
+27
+05 2007 End-user order flow and exchange rate dynamics S. Reitz, M. A. Schmidt
+M. P. Taylor
+06 2007 Money-based interest rate rules: C. Gerberding
+lessons from German data F. Seitz, A. Worms
+07 2007 Moral hazard and bail-out in fiscal federations: Kirsten H. Heppke-Falk
+evidence for the German Länder Guntram B. Wolff
+08 2007 An assessment of the trends in international
+price competitiveness among EMU countries Christoph Fischer
+09 2007 Reconsidering the role of monetary indicators
+for euro area inflation from a Bayesian Michael Scharnagl
+perspective using group inclusion probabilities Christian Schumacher
+10 2007 A note on the coefficient of determination in Jeong-Ryeol Kurz-Kim
+regression models with infinite-variance variables Mico Loretan
+11 2007 Exchange rate dynamics in a target zone - Christian Bauer
+a heterogeneous expectations approach Paul De Grauwe, Stefan Reitz
+12 2007 Money and housing - Claus Greiber
+evidence for the euro area and the US Ralph Setzer
+13 2007 An affine macro-finance term structure model
+for the euro area Wolfgang Lemke
+14 2007 Does anticipation of government spending matter? Jörn Tenhofen
+Evidence from an expectation augmented VAR Guntram B. Wolff
+28
+Series 2: Banking and Financial Studies
+01 2006 Forecasting stock market volatility with J. Döpke, D. Hartmann
+macroeconomic variables in real time C. Pierdzioch
+02 2006 Finance and growth in a bank-based economy: Michael Koetter
+is it quantity or quality that matters? Michael Wedow
+03 2006 Measuring business sector concentration
+by an infection model Klaus Düllmann
+04 2006 Heterogeneity in lending and sectoral Claudia M. Buch
+growth: evidence from German Andrea Schertler
+bank-level data Natalja von Westernhagen
+05 2006 Does diversification improve the performance Evelyn Hayden
+of German banks? Evidence from individual Daniel Porath
+bank loan portfolios Natalja von Westernhagen
+06 2006 Banks' regulatory buffers, liquidity networks Christian Merkl
+and monetary policy transmission Stéphanie Stolz
+07 2006 Empirical risk analysis of pension insurance ­ W. Gerke, F. Mager
+the case of Germany T. Reinschmidt
+C. Schmieder
+08 2006 The stability of efficiency rankings when
+risk-preferences and objectives are different Michael Koetter
+09 2006 Sector concentration in loan portfolios Klaus Düllmann
+and economic capital Nancy Masschelein
+10 2006 The cost efficiency of German banks: E. Fiorentino
+a comparison of SFA and DEA A. Karmann, M. Koetter
+11 2006 Limits to international banking consolidation F. Fecht, H. P. Grüner
+29
+12 2006 Money market derivatives and the allocation Falko Fecht
+of liquidity risk in the banking sector Hendrik Hakenes
+01 2007 Granularity adjustment for Basel II Michael B. Gordy
+Eva Lütkebohmert
+02 2007 Efficient, profitable and safe banking:
+an oxymoron? Evidence from a panel Michael Koetter
+VAR approach Daniel Porath
+03 2007 Slippery slopes of stress: ordered failure Thomas Kick
+events in German banking Michael Koetter
+04 2007 Open-end real estate funds in Germany ­ C. E. Bannier
+genesis and crisis F. Fecht, M. Tyrell
+05 2007 Diversification and the banks'
+risk-return-characteristics ­ evidence from A. Behr, A. Kamp
+loan portfolios of German banks C. Memmel, A. Pfingsten
+06 2007 How do banks adjust their capital ratios? Christoph Memmel
+Evidence from Germany Peter Raupach
+07 2007 Modelling dynamic portfolio risk using Rafael Schmidt
+risk drivers of elliptical processes Christian Schmieder
+30
+Visiting researcher at the Deutsche Bundesbank
+The Deutsche Bundesbank in Frankfurt is looking for a visiting researcher. Among others
+under certain conditions visiting researchers have access to a wide range of data in the
+Bundesbank. They include micro data on firms and banks not available in the public.
+Visitors should prepare a research project during their stay at the Bundesbank. Candidates
+must hold a Ph D and be engaged in the field of either macroeconomics and monetary
+economics, financial markets or international economics. Proposed research projects
+should be from these fields. The visiting term will be from 3 to 6 months. Salary is
+commensurate with experience.
+Applicants are requested to send a CV, copies of recent papers, letters of reference and a
+proposal for a research project to:
+Deutsche Bundesbank
+Personalabteilung
+Wilhelm-Epstein-Str. 14
+60431 Frankfurt
+GERMANY
+

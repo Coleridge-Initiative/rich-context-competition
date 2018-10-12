@@ -1,0 +1,1039 @@
+https://doi.org/10.1177/1753465818755091
+https://doi.org/10.1177/1753465818755091
+Therapeutic Advances in Respiratory Disease
+journals.sagepub.com/home/tar 1
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License
+(http://www.creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission
+provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+Ther Adv Respir Dis
+2018, Vol. 12: 1­13
+DOI: 10.1177/
+1753465818755091
+© The Author(s), 2018.
+Reprints and permissions:
+http://www.sagepub.co.uk/
+journalsPermissions.nav
+Introduction
+Activity-related dyspnea and exercise intolerance
+are important features of chronic obstructive pul-
+monary disease (COPD) that negatively impact
+on ability to perform activities of daily living. As
+such, evaluating exercise tolerance is now consid-
+ered to be an essential component of disease
+assessment.1 Of available exercise-testing proto-
+cols, constant work-rate exercise tests, such as
+cycle and treadmill endurance tests and the
+endurance shuttle walk test (ESWT), are the
+most sensitive for detecting change in exercise
+capacity following intervention (pharmacologic
+and nonpharmacologic).2
+Over the past several years, constant work-rate
+cycle ergometry (CWRCE) has been used exten-
+sively in clinical trials evaluating the efficacy of
+Effect of 12 weeks of once-daily tiotropium/
+olodaterol on exercise endurance during
+constant work-rate cycling and endurance
+shuttle walking in chronic obstructive
+pulmonary disease
+François Maltais, Denis O'Donnell, Juan Bautista Gáldiz Iturri, Anne-Marie Kirsten, Dave
+Singh, Alan Hamilton, Kay Tetzlaff, Yihua Zhao and Richard Casaburi
+Abstract
+Background: The TORRACTO® study evaluated the effects of tiotropium/olodaterol versus
+placebo on endurance time during constant work-rate cycling and constant speed shuttle
+walking in patients with chronic obstructive pulmonary disease (COPD) after 12 weeks of
+treatment.
+Methods: The effects of once-daily tiotropium/olodaterol (2.5/5 and 5/5 g) on endurance
+time during constant work-rate cycle ergometry (CWRCE) after 6 and 12 weeks of treatment
+were compared with placebo in patients with COPD in a randomized, double-blind, placebo-
+controlled, parallel-group clinical trial. Endurance time during the endurance shuttle walk
+test (ESWT) after 6 and 12 weeks of treatment was also evaluated in a subset of patients.
+Results: A total of 404 patients received treatment, with 165 participating in the ESWT
+substudy. A statistically significant improvement in endurance time during CWRCE was
+observed after 12 weeks (primary endpoint) with tiotropium/olodaterol 5/5 µg [14% (p =
+0.02)] but not with tiotropium/olodaterol 2.5/5 µg [9% (p = 0.14)] versus placebo. In the
+ESWT substudy, a trend to improvement in endurance time during ESWT after 12 weeks (key
+secondary endpoint) was observed with tiotropium/olodaterol 5/5 µg [21% (p = 0.055)] and
+tiotropium/olodaterol 2.5/5 µg [21% (p = 0.056)] versus placebo.
+Conclusion: Tiotropium/olodaterol 5/5 µg improved endurance time during cycle ergometry
+versus placebo, with a strong tendency to also improve walking endurance time.
+[ClinicalTrials.gov identifier: NCT01525615.]
+Keywords: bronchodilator, constant work-rate cycling, COPD, endurance shuttle walking,
+olodaterol, tiotropium
+Received: 9 October 2017; revised manuscript accepted: 4 January 2018
+Correspondence to:
+François Maltais
+Institut universitaire
+de cardiologie et de
+pneumologie de Québec,
+Université Laval, 2725
+Chemin Sainte-Foy,
+Québec, QC G1V 4G5,
+Canada
+Francois.Maltais@fmed.
+ulaval.ca
+Denis O'Donnell
+Division of Respiratory
+Medicine, Department
+of Medicine, Queen's
+University and Kingston
+General Hospital,
+Kingston, Ontario, Canada
+Juan Bautista Gáldiz Iturri
+BioCruces Health
+Research Institute,
+Barakaldo, Spain
+Anne-Marie Kirsten
+Pulmonary Research
+Institute at LungClinic
+Grosshansdorf, Airway
+Research Center North,
+Grosshansdorf, Germany
+Dave Singh
+Medicines Evaluation Unit,
+University of Manchester,
+Manchester, UK
+Alan Hamilton
+Boehringer Ingelheim,
+Burlington, Ontario,
+Canada
+Kay Tetzlaff
+Boehringer Ingelheim
+International GmbH,
+Ingelheim am Rhein,
+Germany, and Department
+of Sports Medicine,
+University of Tübingen,
+Tübingen, Germany
+Yihua Zhao
+Boehringer Ingelheim
+Pharmaceuticals Inc.,
+Ridgefield, CT, USA
+Richard Casaburi
+Los Angeles Biomedical
+Research Institute at
+Harbor-UCLA Medical
+Center, Torrance, CA, USA
+755091
+TAR0010.1177/1753465818755091Therapeutic Advances in Respiratory DiseaseF Maltais, D O'Donnell
+research-article2018
+Original Research
+Therapeutic Advances in Respiratory Disease 12
+2 journals.sagepub.com/home/tar
+long-acting bronchodilators in patients with
+COPD,2,3 and is often included in clinical devel-
+opment programs as a complementary assess-
+ment of efficacy, alongside traditional assessments
+of lung function. There is, however, a debate
+regarding the most appropriate endurance exer-
+cise testing protocol.2,4­7 In this regard, there has
+been recent interest in the ESWT,7­11 in some
+part due to a view that field walking tests are more
+reflective of activities performed by patients in
+everyday life.12
+The TORRACTO® study was part of a clinical
+program evaluating the efficacy and safety of tio-
+tropium/olodaterol in patients with COPD.
+TORRACTO® was designed to evaluate two
+doses of tiotropium/olodaterol (2.5/5 and 5/5 µg)
+compared with placebo on exercise endurance
+time (EET) during CWRCE in patients with
+COPD in a parallel-group design after 12 weeks
+of treatment. Secondary objectives were to evalu-
+ate EET during the ESWT after 6 and 12 weeks
+of treatment with tiotropium/olodaterol in a sub-
+set of patients.
+Methods
+TORRACTO® [ClinicalTrials.gov identifier:
+NCT01525615] was a multicenter, multinational,
+randomized, double-blind, placebo-controlled,
+parallel-group trial to evaluate the effects of once-
+daily tiotropium/olodaterol (2.5/5 and 5/5 g)
+compared with placebo on exercise tolerance after
+12 weeks of treatment in patients with COPD (5/5
+g is the approved tiotropium/olodaterol dose).
+The primary evaluation of exercise tolerance was
+based on EET during CWRCE, while evaluation
+of EET during ESWT was conducted in a subset
+of patients (ESWT subgroup).
+The study was conducted at 58 centers in 10
+countries. The ESWT substudy was conducted at
+a subset of 26 sites with experience in the ESWT;
+all patients at the selected sites were asked to par-
+ticipate in the substudy.
+Patients
+Patients aged 40­75 years with a clinical diagno-
+sis of COPD and stable airway obstruction were
+included if they had postbronchodilator forced
+expiratory volume in 1 s (FEV1
+)/forced vital
+capacity (FVC) <70% and postbronchodilator
+FEV1
+<80% and 30% predicted normal.
+Patients were current or exsmokers with a smok-
+ing history of >10 pack-years. Exclusion criteria
+are detailed in the online supplement.
+Study design
+During screening, patients performed spirometry
+to determine study eligibility. Eligible patients
+were randomized to receive one of three treat-
+ments: tiotropium/olodaterol 2.5/5 g, tiotro-
+pium/olodaterol 5/5 g, or placebo, all delivered
+once daily via the Respimat® (Boehringer
+Ingelheim International GmbH, Ingelheim am
+Rhein, Germany) inhaler (Figure 1).
+Throughout the 12-week treatment period, trial
+medication was self-administered by the patient
+once daily between 7 a.m. and 10 a.m.; on test
+days, administration of trial medication was per-
+formed under research staff supervision. Patients
+continued with inhaled corticosteroids if taken at
+baseline. Open-label salbutamol (albuterol) was
+provided as rescue medication throughout the
+study.
+The study was conducted in accordance with the
+Declaration of Helsinki and the International
+Conference on Harmonization Tripartite
+Guideline for Good Clinical Practice. Before the
+study started, the protocol was reviewed and
+approved by the Institutional Review Boards, and
+all patients provided written, informed consent.
+Pulmonary function testing
+Spirometry (FEV1
+, FVC) was performed using
+standard methodology.13 FEV1
+and FVC measured
+Figure 1. Study design.
+*Cycle ergometry testing; $endurance shuttle walk test;
+primary endpoint assessment.
+R, randomization.
+F Maltais, D O'Donnell et al.
+journals.sagepub.com/home/tar 3
+immediately before the first dose of trial medication
+at the randomization visit was a priori defined as the
+pretreatment baseline. Spirometry was also per-
+formed 1 h postdose at the randomization visit, and
+predose and 1 h postdose after 6 and 12 weeks of
+treatment.
+Incremental cycle ergometry and constant
+work-rate cycle ergometry
+The specific details of both incremental cycle
+ergometry and CWRCE have been described pre-
+viously.14­16 During run-in, patients performed
+incremental cycle ergometry to symptom limita-
+tion to determine peak work rate (Wpeak), the
+highest work rate maintained for 30 s. Two
+CWRCE tests to symptom limitation at 75%
+Wpeak were performed during run-in: the first
+test familiarized the patient with the exercise pro-
+tocol, while the second test 4 days later was a
+priori defined as the pretreatment baseline. To
+avoid excessively long endurance times that may
+be limited by motivation rather than physiology/
+symptoms, patients with an endurance time of
+>25 min in training or baseline CWRCE were not
+eligible for randomization. CWRCE at weeks 6
+and 12 was performed 2 h postdose. Additional
+information is provided in the online supplement.
+Incremental and endurance shuttle walking
+(endurance shuttle walk test substudy)
+Patients included in the ESWT substudy per-
+formed an incremental shuttle walk test (ISWT)
+2­4 days after the initial screening visit.17 At 2­4
+days after the baseline and training CWRCE
+tests, training and baseline ESWTs were per-
+formed at a walking speed corresponding to 85%
+of the peak oxygen consumption estimated from
+the ISWT.8 The ESWT was repeated at the same
+walking speed after 6 and 12 weeks of treatment,
+2 h postdose, again with a 2­4-day separation
+between the CWRCE and ESWT. Both the
+ISWT and ESWT were performed in an enclosed
+corridor on a flat 10-meter-long course. Patients
+who completed the highest level in the ISWT
+were not eligible for the substudy because a walk-
+ing speed for the ESWT could not be established
+for these patients. Patients with an endurance
+time during the training or baseline ESWT of
+>15 min were excluded from the ESWT sub-
+study due to the limited (20-min) duration of the
+audio used for pacing the ESWT. These patients
+did continue in the main part of the study
+(CWRCE). Further details are provided in the
+online supplement.
+Breathing discomfort, leg discomfort, and
+inspiratory capacity
+During CWRCE and ESWT, patients rated
+intensity of breathing discomfort and leg discom-
+fort using the modified Borg scale18 at rest, during
+each 2-min interval during exercise, and at the
+end of exercise. During CWRCE (but not ESWT)
+patients also performed an inspiratory capacity
+(IC) maneuver after each rating of breathing and
+leg discomfort. Immediately after completing
+exercise, patients were asked to identify the pri-
+mary reason for stopping exercise using a previ-
+ously described questionnaire.19
+Safety assessments
+At each visit, adverse events (AEs) reported by
+the patient were recorded irrespective of causal-
+ity. Pulse rate and systolic and diastolic blood
+pressure were measured at each clinic visit imme-
+diately prior to spirometry. Clinical laboratory
+testing (hematology, blood chemistry, and uri-
+nalysis) and a resting 12-lead electrocardiogram
+were performed at screening and at week 12.
+Efficacy endpoints
+The primary endpoint was EET during CWRCE
+after 12 weeks of treatment. Owing to the skew-
+ness of the EET data during CWRCE,20 the pri-
+mary analysis was prespecified to be based on the
+logarithm to the base 10 of EET during CWRCE.
+The key secondary endpoint was EET during
+ESWT after 12 weeks of treatment (ESWT sub-
+group), also based on log10
+-transformed data.
+Other exercise-related efficacy endpoints included
+pre-exercise, isotime, and end-exercise IC during
+CWRCE, and intensity of breathing and leg dis-
+comfort during CWRCE and ESWT.
+Isotime for each patient was defined as the mini-
+mum EET among the pretreatment baseline,
+week 6, and week 12 CWRCE tests. Isovalue was
+defined as the value of a specific parameter at iso-
+time. This isovalue could be an observed value
+(e.g. when it occurred at the end of exercise) or it
+could be determined by interpolation between the
+values at the two time points immediately above
+and below the isotime.
+Therapeutic Advances in Respiratory Disease 12
+4 journals.sagepub.com/home/tar
+FEV1
+and FVC (trough and 1 h postdose) were
+also measured to confirm bronchodilator efficacy.
+Statistical analysis
+Mean log10
+EETs from CWRCE and ESWT were
+analyzed using a restricted maximum likelihood-
+based mixed-effects model repeated measure
+(MMRM) approach. Analyses included the fixed,
+categorical effect of treatment, test day, and treat-
+ment-by-test-day interaction, as well as the continu-
+ous, fixed covariates of baseline and baseline-
+by-test-day interaction. The baseline covariate term
+also used the logarithm to the base 10. The primary
+analysis was performed on the full analysis set (i.e. all
+randomized patients who received at least one dose
+of treatment, and who had both baseline and at least
+one postbaseline measurement at or before 12 weeks
+for the primary efficacy endpoints).
+Based on a previous trial,21 an appropriate esti-
+mate of the standard deviation for log10
+EET from
+CWRCE was 0.206; with this standard deviation,
+a sample size of 130 patients per group provided
+90% power to detect a 21% improvement in EET
+during CWRCE.
+Analyses for EET during CWRCE at 12 weeks
+(primary endpoint), EET during ESWT at 12
+weeks (key secondary endpoint), and pre-exercise
+IC during CWRCE at 12 weeks (secondary end-
+point) were included in a step-down hierarchical
+testing strategy. Testing strategy details are pro-
+vided in the online supplement (Figure S1).
+The same MMRM approach was adopted for all
+other continuous secondary endpoints. Adjusted
+mean values as well as treatment contrasts were
+presented, together with 95% confidence inter-
+vals. Secondary endpoints (i.e. other than EET
+during ESWT and pre-exercise IC at 12 weeks)
+were not included in the step-down hypothesis-
+testing hierarchy and are considered descriptive
+(nominal p values).
+All treated patients were included in the safety
+analyses, which were descriptive in nature.
+Results
+Patient disposition and baseline characteristics
+A total of 404 patients were randomized and
+received treatment (Figure 2), with 385 included
+in the full analysis set.
+Baseline patient characteristics for the treated set are
+shown in Table 1. Overall, 73% were Global
+Initiative for Chronic Obstructive Lung Disease
+stage 2, with mean predicted normal FEV1
+of 58.6%.
+Baseline exercise-specific patient characteristics
+for the treated set are shown in Table 2. Baseline
+characteristics were generally well balanced across
+treatment groups.
+A total of 165 patients were included in the
+ESWT subgroup. Baseline patient characteristics
+and exercise-specific characteristics for the ESWT
+subgroup are shown in Tables 1 and 3, respec-
+tively. Baseline characteristics were generally well
+balanced across treatment groups.
+Two patients had an EET during CWRCE at
+baseline of >25 min (i.e. screen failure); 11
+patients had an EET during ESWT at baseline of
+>15 min (i.e. not included in the ESWT sub-
+study, but continued in the main study).
+Constant work-rate cycle ergometry (full
+analysis set)
+Common baseline geometric mean EET [stand-
+ard error (SE)] during CWRCE was 443.0 (12.4)
+s. Geometric mean (SE) EET during CWRCE at
+week 12 (primary endpoint) was 463.6 (18.8) s
+for placebo, 503.6 (19.6) s for tiotropium/
+olodaterol 2.5/5 µg, and 527.5 (20.2) s for tiotro-
+pium/olodaterol 5/5 µg, with a statistically signifi-
+cant increase of 13.8% compared with placebo
+for tiotropium/olodaterol 5/5 µg (p = 0.02) and
+an increase of 8.6% compared with placebo for
+tiotropium/olodaterol 2.5/5 µg (p = 0.14) (Figure
+3). Since the comparison for tiotropium/olo-
+daterol 2.5/5 µg compared with placebo did not
+reach statistical significance, subsequent hypoth-
+esis tests within the step-down hypothesis-testing
+strategy are considered descriptive rather than
+confirmatory (nominal p values).
+Geometric mean (SE) EET at week 6 was 427.7
+(17.1) s for placebo, 522.3 (20.2) s for tiotropium/
+olodaterol 2.5/5 µg, and 525.6 (20.0) s for tiotro-
+pium/olodaterol 5/5 µg, with a 22.9% increase
+compared with placebo for tiotropium/olodaterol
+5/5 µg (nominal p = 0.0002) and a 22.1% increase
+compared with placebo for tiotropium/olodaterol
+2.5/5 µg (nominal p = 0.0004) (Figure 3).
+The common mean IC values at baseline
+were: pre-exercise, 2397 ml; isotime, 2131 ml; and
+F Maltais, D O'Donnell et al.
+journals.sagepub.com/home/tar 5
+end-exercise, 2111 ml. Mean IC increased at pre-
+exercise, isotime, and end-exercise for both tiotro-
+pium/olodaterol doses compared with placebo at
+weeks 6 and 12 (Figure 4a) (nominal p < 0.05 at
+all time points for tiotropium/olodaterol 2.5/5 and
+5/5 µg).
+The rate of increase in intensity of breathing dis-
+comfort (Borg scale) during exercise [(end of
+exercise Borg score minus pre-exercise Borg
+score)/EET] was lower for both tiotropium/olo-
+daterol doses compared with placebo at weeks 6
+and 12 (Figure 4b) (nominal p = 0.0218 for tio-
+tropium/olodaterol 2.5/5 µg and p = 0.0598 for
+tiotropium/olodaterol 5/5 µg at week 12).
+For both tiotropium/olodaterol 2.5/5 and 5/5 µg,
+increases in FEV1
+and FVC were observed 1 h
+after the first dose, and predose and 1 h postdose
+after 6 and 12 weeks.
+Endurance shuttle walking (ESWT substudy)
+Common baseline geometric mean EET (SE) dur-
+ing ESWT was 311.2 (13.7) s. Geometric mean
+(SE) EET during ESWT at week 12 (key secondary
+endpoint) was 311.4 (22.5) s for placebo, 377.2
+(25.9) s for tiotropium/olodaterol 2.5/5 µg, and
+376.4 (25.0) s for tiotropium/olodaterol 5/5 µg, with
+an increase of 20.9% compared with placebo for
+tiotropium/olodaterol 5/5 µg (nominal p = 0.055)
+and an increase of 21.1% compared with placebo
+for tiotropium/olodaterol 2.5/5 µg (nominal p =
+0.056) (Figure 5). One patient on placebo, four
+patients on tiotropium/olodaterol 2.5/5 µg, and two
+patients on tiotropium/olodaterol 5/5 µg reached
+test termination (i.e. 20-min duration).
+Geometric mean (SE) ESWT EET at week 6 was
+312.0 (22.5) s for placebo, 377.9 (25.8) s for tiotro-
+pium/olodaterol 2.5/5 µg, and 376.2 (24.9) s for
+tiotropium/olodaterol 5/5 µg, with an increase of
+20.6% compared with placebo for tiotropium/olo-
+daterol 5/5 µg (nominal p = 0.058) and an increase
+of 21.1% compared with placebo for tiotropium/
+olodaterol 2.5/5 µg (nominal p = 0.055) (Figure 5).
+No patients on placebo, three patients on tiotro-
+pium/olodaterol 2.5/5 µg, and two patients on tio-
+tropium 5/5 µg reached test termination (i.e.
+20-min duration).
+Figure 2. CONSORT diagram.
+CONSORT, Consolidated Standards of Reporting Trials; O, olodaterol; T, tiotropium.
+Therapeutic Advances in Respiratory Disease 12
+6 journals.sagepub.com/home/tar
+Table 1. Baseline patient characteristics (treated set and endurance shuttle walk test subgroup).
+Treated set (n = 404) ESWT subgroup (n = 165)
+ Placebo
+(n = 132)
+T/O 2.5/5 µg
+(n = 133)
+T/O 5/5 µg
+(n = 139)
+Placebo
+(n = 50)
+T/O 2.5/5 µg
+(n = 56)
+T/O 5/5 µg
+(n = 59)
+Male, n (%) 87 (65.9) 87 (65.4) 95 (68.3) 31 (62.0) 38 (67.9) 45 (76.3)
+Mean (SD) age, years 60.8 (7.6) 61.9 (7.3) 63.1 (7.5) 61.3 (6.4) 64.2 (7.7) 65.4 (7.0)
+Mean (SD) prebronchodilator
+FEV1
+, l 1.501 (0.507) 1.465 (0.526) 1.460 (0.476) 1.449 (0.430) 1.360 (0.417) 1.377 (0.425)
+Mean (SD) postbronchodilator
+FEV1
+, l 1.695 (0.522) 1.616 (0.474) 1.659 (0.504) 1.646 (0.413) 1.566 (0.419) 1.588 (0.451)
+ % predicted normal FEV1
+59.7 (12.9) 57.9 (12.9) 58.2 (12.8) 60.2 (11.5) 57.7 (12.7) 57.4 (13.9)
+FEV1
+change from
+prebronchodilator, l
+0.194 (0.155) 0.152 (0.224) 0.199 (0.192) 0.197 (0.154) 0.206 (0.164) 0.211 (0.109)
+FEV1
+/FVC, % 52.5 (10.0) 51.4 (10.5) 51.9 (10.7) 52.8 (98) 51.3 (10.0) 51.3 (11.5)
+GOLD*, n (%)
+2 99 (75.0) 92 (69.2) 104 (74.8) 39 (78.0) 40 (71.4) 44 (74.6)
+3 32 (24.2) 41 (30.8) 31 (22.3) 11 (22.0) 16 (28.6) 12 (20.3)
+Mean (SD) body mass index,
+kg/m2
+26.9 (5.1) 26.8 (5.2) 27.4 (5.0) 28.2 (5.2) 27.4 (4.6) 27.7 (5.1)
+Current smoker, n (%) 58 (43.9) 58 (43.6) 51 (36.7) 23 (46.0) 25 (44.6) 16 (27.1)
+Exsmoker, n (%) 74 (56.1) 75 (56.4) 88 (63.3) 27 (54.0) 31 (55.4) 43 (72.9)
+Mean (SD) smoking history,
+pack-years
+44.0 (22.2) 48.6 (28.1) 46.0 (22.1) 45.3 (22.8) 53.3 (31.4) 45.6 (23.6)
+Baseline pulmonary medications, n (%)
+SAMA** 12 (9.1) 9 (6.8) 13 (9.4) 
+LAMA (tiotropium) 58 (43.9) 70 (52.6) 68 (48.9) 
+SABA§,$ (inhaled) 78 (59.1) 76 (57.1) 69 (49.6) 
+LABA (inhaled) 66 (50.0) 76 (57.1) 82 (59.0) 
+ Inhaled steroids 68 (51.5) 68 (51.1) 76 (54.7) 
+Xanthines§ 11 (8.3) 13 (9.8) 13 (9.4) 
+*
+GOLD 1 and 4 patients were excluded from the study.
+$
+All patients were provided with SABA as a rescue medication during this study.
+
+Patients switched to study medication during treatment period.
+§
+Permitted during treatment period.
+**
+Not permitted during treatment period.
+ESWT, endurance shuttle walk test; FEV1
+, forced expiratory volume in 1 s; FVC, forced vital capacity; GOLD, Global Initiative for Chronic Obstructive
+Lung Disease; LABA, long-acting 2
+-agonist; LAMA, long-acting muscarinic antagonist; O, olodaterol; SABA, short-acting -agonist; SAMA, short-
+acting muscarinic antagonist; SD, standard deviation; T, tiotropium.
+F Maltais, D O'Donnell et al.
+journals.sagepub.com/home/tar 7
+Decreases in the rate of increase in intensity of
+breathing discomfort (Borg scale) were observed
+with both tiotropium/olodaterol doses compared
+with placebo at weeks 6 and 12 (online supple-
+ment Figure S2).
+Arithmetic versus log10
+-transformed treatment
+effects
+To facilitate the interpretation and comparisons
+across studies, the more `traditional' approach
+based on arithmetic EET data is provided for
+Table 2. Baseline incremental and constant work-rate cycle ergometry characteristics (treated set).
+Treated set (n = 404)
+ Placebo (n = 132) T/O 2.5/5 µg (n = 133) T/O 5/5 µg (n = 139)
+Peak work rate (SD) during incremental
+cycle ergometry, W
+87.8 (30.7) 86.2 (26.7) 87.0 (27.4)
+Mean (SD) baseline EET during CWRCE, s 502.7 (258.6) 490.7 (272.4) 527.5 (279.2)
+Mean (SD) baseline IC, l
+ At rest 2.40 (0.76) 2.33 (0.66) 2.44 (0.68)
+End-exercise 2.15 (0.70) 2.03 (0.62) 2.13 (0.64)
+
+Mean (SD) breathing discomfort at end-
+exercise, Borg units
+6.5 (2.4) 6.3 (2.8) 6.6 (2.6)
+Mean (SD) leg discomfort at end-exercise,
+Borg units
+6.5 (2.7) 6.3 (2.9) 6.4 (2.9)
+Locus of symptom limitation, n (%)
+ Breathing discomfort 43 (32.6) 49 (36.8) 41 (29.5)
+ Breathing/leg discomfort 56 (42.4) 53 (39.8) 59 (42.4)
+ Leg discomfort 32 (24.2) 28 (21.1) 37 (26.6)
+CWRCE, constant work-rate cycle ergometry; EET, exercise endurance time; IC, inspiratory capacity; O, olodaterol; SD, standard deviation; T,
+tiotropium.
+Table 3. Baseline endurance shuttle walk test characteristics (endurance shuttle walk test subgroup, n = 165).
+Placebo (n = 50) T/O 2.5/5 µg (n = 56) T/O 5/5 µg (n = 59)
+Mean (SD) baseline EET, s 346.3 (186.5) 366.7 (206.0) 373.7 (217.1)
+Median (minimum, maximum) baseline EET, s 320.0 (91, 792) 315.5 (85, 830) 317.0 (88, 872)
+Mean (SD) breathing discomfort at end-
+exercise, Borg units
+6.4 (2.9) 6.5 (2.8) 6.9 (2.4)
+Mean (SD) leg discomfort at end-exercise,
+Borg units
+5.6 (3.2) 5.0 (3.3) 5.3 (3.5)
+Locus of symptom limitation, n (%)
+ Breathing discomfort 27 (54.0) 33 (58.9) 35 (59.3)
+ Breathing/leg discomfort 13 (26.0) 9 (16.1) 14 (23.7)
+ Leg discomfort 10 (20.0) 14 (25.0) 10 (16.9)
+EET, exercise endurance time; O, olodaterol; SD, standard deviation; T, tiotropium.
+Therapeutic Advances in Respiratory Disease 12
+8 journals.sagepub.com/home/tar
+comparison to the log10
+-transformed data [online
+supplement Tables S2 and S3 (CWRCE) and
+Tables S4 and S5 (ESWT)]. Using the arithmetic
+data, there were 25.0 and 14.4% increases in EET
+during CWRCE with tiotropium/olodaterol 5/5 µg
+over placebo at 6 and 12 weeks, respectively.
+Safety (treated set)
+Incidences of AEs, serious AEs, and AEs leading to
+discontinuation with tiotropium/olodaterol 2.5/5
+and 5/5 µg were similar to placebo (online supple-
+ment Table S6). Most AEs were mild to moderate
+in severity and not considered related to study
+medication by the investigator. The most common
+AE was COPD exacerbation, which occurred in
+12.1%, 11.3%, and 7.2% of patients receiving pla-
+cebo, tiotropium/olodaterol 2.5/5 µg, and tiotro-
+pium/olodaterol 5/5 µg, respectively. Two deaths
+occurred during the study, both in patients receiv-
+ing tiotropium/olodaterol 2.5/5 µg: one patient died
+from lung cancer and the other from cardio-respir-
+atory arrest (this event did not occur during the
+exercise testing). Neither was considered related to
+study drug by the investigator.
+Discussion
+In this study, tiotropium/olodaterol 5/5 µg
+increased EET during CWRCE by 13.8% com-
+pared with placebo after 12 weeks in patients with
+moderate to severe COPD (primary endpoint). In
+the ESWT substudy, a 20.9% increase in EET
+for tiotropium/olodaterol 5/5 µg compared with
+placebo after 12 weeks did not reach statistical
+significance (p = 0.055).
+The effects of tiotropium/olodaterol on EET dur-
+ing CWRCE in moderate to very severe COPD
+have also been investigated in two replicate, dou-
+ble-blind, crossover studies of 6-week duration
+(MORACTO®).22 Similar to the present study,
+the MORACTO® studies evaluated two doses of
+tiotropium/olodaterol (2.5/5 and 5/5 µg), and
+included placebo, tiotropium 5 µg alone, and olo-
+daterol 5 µg alone as comparator arms to evaluate
+the efficacy of tiotropium/olodaterol compared
+with placebo and its added benefit over the indi-
+vidual monotherapies. The TORRACTO® study
+was designed to complement the MORACTO®
+studies by determining whether the effects of tio-
+tropium/olodaterol compared with placebo on
+Figure 3. Geometric mean exercise endurance time during constant work-rate cycle ergometry after 6 and 12
+weeks.
+*Geometric mean results are reported as the primary analysis based on log10
+-transformed data; week 6 data are not
+included in hierarchical testing sequence and should be considered descriptive only.
+Common geometric mean baseline EET: 443.0 s.
+Placebo, n = 121; T/O 2.5/5 g, n = 129; T/O 5/5 g, n = 135.
+EET, exercise endurance time; O, olodaterol; SE, standard error; T, tiotropium.
+F Maltais, D O'Donnell et al.
+journals.sagepub.com/home/tar 9
+EET during CWRCE were maintained up to 12
+weeks to document the duration of effect.
+EET during CWRCE for tiotropium/olodaterol
+5/5 µg was similar at 6 weeks (geometric mean:
+525.6 s) and 12 weeks (geometric mean: 527.5
+s), representing 18.6 and 19.1% improve-
+ments, respectively, compared with a baseline
+geometric mean EET of 443.0 s. Statistically
+significant improvements in EET for tiotro-
+pium/olodaterol 5/5 µg compared with placebo
+were observed after both 6 and 12 weeks, with
+differences in response magnitude (22.9%
+improvement after 6 weeks, 13.8% improve-
+ment after 12 weeks) explained by variability in
+EET in the placebo arm (geometric means of
+427.7 and 463.6 s after 6 and 12 weeks,
+respectively).
+Figure 4. Mean inspiratory capacity (a) and slope of intensity (b) of breathing discomfort after 12 weeks.
+Mean baseline IC: pre-exercise, 2397 ml; isotime, 2131 ml; end-exercise, 2111 ml.
+T/O 2.5/5 µg versus placebo, p = 0.0218; T/O 5/5 µg versus placebo, p = 0.0598.
+IC, inspiratory capacity; O, olodaterol; SE, standard error; T, tiotropium.
+Therapeutic Advances in Respiratory Disease 12
+10 journals.sagepub.com/home/tar
+Tiotropium/olodaterol 2.5/5 µg did not achieve
+statistical significance for the primary endpoint
+(EET during CWRCE after 12 weeks). However,
+several lines of evidence point to an effect of the
+lower dose on exercise endurance: (i) tiotropium/
+olodaterol 2.5/5 µg significantly improved EET
+during CWRCE compared with placebo in both
+MORACTO® studies [26.5% (p < 0.0001) and
+12.1% (p = 0.0003)]; (ii) there was a nominally
+significant improvement in EET during CWRCE
+after 6 weeks (22.1%, nominal p = 0.0004) in the
+present study; (iii) in post hoc analysis, change
+from baseline in EET during CWRCE after 6 and
+12 weeks was nominally significant.
+Endurance time during ESWT has been used as
+an outcome measure in pulmonary rehabilitation
+studies for many years.23 Recently, there has been
+increased attention on ESWT as a methodology to
+evaluate bronchodilator efficacy. Early single-
+center studies provided promising results, showing
+that endurance time during ESWT offered a sensi-
+tive test to assess bronchodilation in patients with
+COPD.7,9­11 However, multicenter, multinational
+studies have value in supporting generalizability, as
+has been done for CWRCE.21,24­32 At the time of
+study initiation in March 2012, there were no pub-
+lished studies using a multicenter trial with ESWT
+to evaluate the effects of pharmacotherapy in
+COPD. The first multicenter study was conducted
+in 2010­2011, with results published in 2013.33
+Two replicate, multicenter studies were conducted
+in 2011­2012, with results published in 2014.34
+The present study adds to the knowledge about
+the use of ESWT to assess the effects of bron-
+chodilation on exercise capacity in patients with
+COPD in a multicenter setting. Based on the
+methodologic concerns regarding the transition
+from a single-center to a multicenter setting, a
+high degree of attention was placed on trial over-
+sight with respect to the training and monitoring
+of the ESWT. Details of these quality control
+efforts are described in the online supplement as
+reference for other researchers interested in con-
+ducting multicenter studies using ESWT. The
+ESWT performed well in this trial; the lack of a
+learning effect in the placebo arm (i.e. similar
+EET in placebo arm at baseline and after 6 and
+12 weeks) suggests that study participants were
+able to produce reproducible exercise tests.
+Future efforts to determine the minimal quality
+control criteria in multicenter ESWT studies are
+warranted.
+Although statistical significance was just missed (p
+= 0.055), the observed 20% improvement in EET
+in ESWT at 6 and 12 weeks with both doses of
+tiotropium/olodaterol is beyond the proposed min-
+imally important difference for this parameter.35
+With the recognition that the ESWT has a fixed
+test termination of 20 min,8 study eligibility criteria
+included a baseline EET of <15 min to allow for
+sufficient post-treatment endurance times within
+the 20-min test. This was the case for the majority
+of patients, but one patient in the placebo group,
+four patients in the tiotropium/olodaterol 2.5/5 µg
+Figure 5. Geometric mean endurance shuttle walk test endurance time after 6 and 12 weeks in the endurance
+shuttle walk test subgroup.
+*Geometric mean results reported as primary analysis based on log10
+-transformed data; week 6 data are not included in
+hierarchical testing sequence and should be considered descriptive only.
+Common geometric mean baseline ESWT endurance time: 311.2 s.
+Placebo, n = 50; T/O 2.5/5 g, n = 56; T/O 5/5 g, n = 59.
+ESWT, endurance shuttle walk test; O, olodaterol; SE, standard error; T, tiotropium.
+F Maltais, D O'Donnell et al.
+journals.sagepub.com/home/tar 11
+group, and two patients in the tiotropium/olo-
+daterol 5/5 µg group reached the 20-min test ter-
+mination time point during ESWT after 12 weeks
+(i.e. did not reach symptom limitation). This may
+have contributed to reducing the statistical power
+of the study. A more recent study (PHYSACTO®),
+with a greater sample size than the present study
+(65­72 patients per treatment arm), has shown
+significant improvements in EET during ESWT
+after 8 weeks of treatment with tiotropium/olo-
+daterol compared with placebo in patients who
+participated in a self-management behavior-change
+program (29% increase, p < 0.01).23
+An important methodologic consideration in rela-
+tion to the current trial is that statistical analyses
+were performed on log10
+-transformed endurance
+time data. Although these analyses are justified in
+that endurance time during constant work-rate
+exercise is asymmetrically distributed around the
+mean, with a significant skew towards long
+EETs,20,36 this approach complicates compari-
+sons with previous trials.
+For the purpose of facilitating comparisons across
+studies, we also report arithmetic mean treatment
+effects of tiotropium/olodaterol versus placebo,
+which ranged from 118 s to 124 s, or ~25%
+increase over placebo for CWRCE at week 6.
+Despite expected differences in adjusted mean
+values between untransformed and log10
+-trans-
+formed approaches, relative (%) increases in EET
+for active treatment arms versus placebo and the
+respective statistical significances were very simi-
+lar for the two statistical approaches, supporting
+the robustness of the findings.
+The improvements in EET versus placebo are
+consistent with what is expected from single and
+dual long-acting bronchodilators.21,25,28,32,36,37
+Also, increases in EET in CWRCE with active
+treatments in the present study were beyond the
+estimated range for a clinically meaningful differ-
+ence, compared with placebo, of 46­105 s for
+endurance time, as proposed by the European
+Respiratory Society task force on outcomes in
+COPD.38 Despite not reaching formal statistical
+significance, the increase in EET during ESWT,
+averaging 81­88 s or 21% at week 6, compared
+advantageously with previous publications (121 s,
+31% at 3 weeks;39 47 s, 15% at 12 weeks34). The
+increase in EET during ESWT with tiotropium/
+olodaterol was also beyond the proposed clini-
+cally meaningful difference.35
+The primary evidence of clinical efficacy to sup-
+port the health authority approval of tiotropium/
+olodaterol 5/5 µg was based on the observed effects
+on lung function (FEV1
+) and health-related qual-
+ity of life (St. George's Respiratory Questionnaire)
+in the 52-week TONADO® studies. However,
+exercise capacity has been recommended as an
+important additional clinical outcome in COPD
+pharmacologic trials.40 The results from the pre-
+sent TORRACTO® study, as well as from the pre-
+viously reported MORACTO® studies, extend the
+clinical evaluation of tiotropium/olodaterol 5/5 µg,
+and provide a more complete characterization of
+therapeutic benefit at the impairment-disability
+interface. The results show that the primary effects
+of tiotropium/olodaterol 5/5 µg on lung function
+lead to clinically meaningful downstream improve-
+ments in the capacity to perform different types of
+exercise (cycling, walking), which is arguably a
+more meaningful outcome to patients with COPD,
+who struggle to perform daily activities due to
+exertional breathlessness.
+Conclusion
+Tiotropium/olodaterol 5/5 µg improved endur-
+ance time during cycle ergometry versus placebo,
+with a strong tendency to also improve walking
+endurance.
+Acknowledgements
+The authors meet the criteria for authorship as
+recommended by the International Committee of
+Medical Journal Editors. They take full responsi-
+bility for the scope, direction, content of, and edi-
+torial decisions relating to, the manuscript; they
+were involved at all stages of development, and
+have approved the submitted manuscript. The
+authors received no compensation related to the
+development of the manuscript. This work was
+supported by Boehringer Ingelheim International
+GmbH. Medical writing assistance was provided
+by Rob Kite, BSc, of Complete HealthVizion,
+which was contracted and compensated by
+Boehringer Ingelheim Pharma GmbH & Co. KG.
+Funding
+This work was funded by Boehringer Ingelheim
+Pharma GmbH & Co. KG.
+Conflict of interest statement
+FM has received research support and speaker fees
+from AstraZeneca, Novartis, and Grifols, and
+research support, advisory board participation, and
+Therapeutic Advances in Respiratory Disease 12
+12 journals.sagepub.com/home/tar
+speaker fees from Boehringer Ingelheim and
+GlaxoSmithKline. DO'D has received research
+grants via his institution from AstraZeneca,
+Boehringer Ingelheim, and GlaxoSmithKline, and
+has served on speaker bureaus, consultation panels,
+and advisory boards for Almirall, AstraZeneca,
+Boehringer Ingelheim, GlaxoSmithKline, Novartis,
+and Pfizer. JBGI has nothing to disclose. A-MK has
+received payment for lectures from Boehringer
+Ingelheim, AstraZeneca, and Novartis, and her
+institution has received compensation for the con-
+duct of clinical studies from AstraZeneca,
+Boehringer Ingelheim, Roche, GlaxoSmithKline,
+Novartis, Chiesi, Takeda, Bayer, Sterna Biologicals,
+Johnson & Johnson, and Sanofi. DS has received
+personal fees from Apellis, Cipla, Genentech,
+Peptinnovate, and SkyePharma, and grants and
+personal fees from AstraZeneca, Boehringer
+Ingelheim, Chiesi, Glenmark, Merck,
+Mundipharma, Novartis, Pfizer, Pulmatrix, Teva,
+Theravance, and Verona. RC has received personal
+fees from Sunovion and Theravance, and grants
+and personal fees from Boehringer Ingelheim,
+AstraZeneca, and Astellas. AH, KT, and YZ are
+employees of Boehringer Ingelheim.
+References
+1. American Thoracic Society and American
+College of Chest Physicians. ATS/ACCP
+statement on cardiopulmonary exercise testing.
+Am J Respir Crit Care Med 2003; 167:
+211­277.
+2. Borel B, Provencher S, Saey D, et al.
+Responsiveness of various exercise-testing
+protocols to therapeutic interventions in COPD.
+Pulm Med 2013; 2013: 410748.
+3. Van`t Hul A, Gosselink R and Kwakkel G.
+Constant-load cycle endurance performance:
+test-retest reliability and validity in patients
+with COPD. J Cardiopulm Rehabil 2003; 23:
+143­150.
+4. Liesker JJW, van De Velde V, Meysman M, et al.
+Effects of formoterol (Oxis® Turbuhaler®) and
+ipratropium on exercise capacity in patients with
+COPD. Respir Med 2002; 96: 559­566.
+5. Jenkins S. Which is the best exercise test to assess
+therapeutic intervention in COPD? Chron Respir
+Dis 2008; 5: 3­5.
+6. Aguilaniu B. Impact of bronchodilator therapy on
+exercise tolerance in COPD. Int J Chron Obstruct
+Pulmon Dis 2010; 5: 57­71.
+7. Zhang X, Waterman LA, Ward J, et al.
+Advantages of endurance treadmill walking
+compared with cycling to assess bronchodilator
+therapy. Chest 2010; 137: 1354­1361.
+8. Revill SM, Morgan MDL, Singh SJ, et al. The
+endurance shuttle walk: a new field test for the
+assessment of endurance capacity in chronic
+obstructive pulmonary disease. Thorax 1999; 54:
+213­222.
+9. Brouillard C, Pepin V, Milot J, et al. Endurance
+shuttle walking test: responsiveness to salmeterol
+in COPD. Eur Respir J 2008; 31: 579­584.
+10. Pepin V, Saey D, Whittom F, et al. Walking
+versus cycling: sensitivity to bronchodilation in
+chronic obstructive pulmonary disease. Am J
+Respir Crit Care Med 2005; 172: 1517­1522.
+11. Pepin V, Brodeur J, Lacasse Y, et al. Six-minute
+walking versus shuttle walking: responsiveness to
+bronchodilation in chronic obstructive pulmonary
+disease. Thorax 2007; 62: 291­298.
+12. Pepin V, Laviolette L, Brouillard C, et al.
+Significance of changes in endurance shuttle
+walking performance. Thorax 2011; 66: 115­120.
+13. Miller MR, Hankinson J, Brusasco V, et al.
+Standardisation of spirometry. Eur Respir J 2005;
+26: 319­338.
+14. O'Donnell DE and Webb KA. Exertional
+breathlessness in patients with chronic airflow
+limitation. The role of lung hyperinflation. Am
+Rev Respir Dis 1993; 148: 1351­1357.
+15. European Respiratory Society Task Force on
+Standardization of Clinical Exercise Testing.
+Clinical exercise testing with reference to lung
+diseases: indications, standardization and
+interpretation strategies. Eur Respir J 1997; 10:
+2662­2689.
+16. O'Donnell DE, Lam M and Webb KA.
+Measurement of symptoms, lung hyperinflation,
+and endurance during exercise in chronic
+obstructive pulmonary disease. Am J Respir Crit
+Care Med 1998; 158: 1557­1565.
+17. Singh SJ, Morgan MDL, Scott S, et al.
+Development of a shuttle walking test of disability
+in patients with chronic airways obstruction.
+Thorax 1992; 47: 1019­1024.
+18. Hareendran A, Leidy NK, Monz BU, et al.
+Proposing a standardized method for evaluating
+patient report of the intensity of dyspnea during
+exercise testing in COPD. Int J Chron Obstruct
+Pulmon Dis 2012; 7: 345­355.
+19. Hamilton AL, Killian KJ, Summers E, et al.
+Symptom intensity and subjective limitation
+F Maltais, D O'Donnell et al.
+journals.sagepub.com/home/tar 13
+to exercise in patients with cardiorespiratory
+disorders. Chest 1996; 110: 1255­1263.
+20. O'Donnell DE, Travers J, Webb KA, et al.
+Reliability of ventilatory parameters during cycle
+ergometry in multicentre trials in COPD. Eur
+Respir J 2009; 34: 866­874.
+21. Maltais F, Hamilton A, Marciniuk D, et al.
+Improvements in symptom-limited exercise
+performance over 8 h with once-daily tiotropium
+in patients with COPD. Chest 2005; 128: 1168­
+1178.
+22. O'Donnell D, Casaburi R, Firth P, et al.
+Effects of combined tiotropium/olodaterol on
+inspiratory capacity and exercise endurance
+in COPD. Eur Respir J 2017; 49. DOI:
+10.1183/13993003.01348-2016.
+23. Troosters T, Bourbeau J, Maltais F, et al. Effect
+of 8 and 12 weeks' once-daily tiotropium and
+olodaterol, alone and combined with exercise
+training, on exercise endurance during walking
+in patients with COPD. Eur Respir J 2016; 48:
+PA976.
+24. Beeh KM, Beck E, Gahlemann M, et al. Dose-
+finding study of 4-week, once-daily treatment
+with olodaterol, a novel long-acting 2-agonist, in
+patients with asthma. Am J Respir Crit Care Med
+2012; 185: abstract A2764.
+25. Beeh KM, Korn S, Beier J, et al. Effect of
+QVA149 on lung volumes and exercise tolerance
+in COPD patients: the BRIGHT study. Respir
+Med 2014; 108: 584­592.
+26. Beeh KM, Moroni-Zentgraf P, Ablinger O, et al.
+Tiotropium Respimat® in asthma: a double-blind,
+randomised, dose-ranging study in adult patients
+with moderate asthma. Respir Res 2014; 15: 61.
+27. Beeh KM, Watz H, Puente-Maestu L, et al.
+Aclidinium improves exercise endurance,
+dyspnea, lung hyperinflation, and physical activity
+in patients with COPD: a randomized, placebo-
+controlled, crossover trial. BMC Pulm Med 2014;
+14: 209.
+28. Beeh KM, Singh D, Di Scala L, et al. Once-daily
+NVA237 improves exercise tolerance from the
+first dose in patients with COPD: the GLOW3
+trial. Int J Chron Obstruct Pulmon Dis 2012; 7:
+503­513.
+29. O'Donnell DE, Voduc N, Fitzpatrick M, et al.
+Effect of salmeterol on the ventilatory response
+to exercise in chronic obstructive pulmonary
+disease. Eur Respir J 2004; 24: 86­94.
+30. O'Donnell DE and Parker CM. COPD
+exacerbations · 3: pathophysiology. Thorax 2006;
+61: 354­361.
+31. O'Donnell DE, Casaburi R, Vincken W, et al.
+Effect of indacaterol on exercise endurance and
+lung hyperinflation in COPD. Respir Med 2011;
+105: 1030­1036.
+32. Maltais F, Celli B, Casaburi R, et al. Aclidinium
+bromide improves exercise endurance and
+lung hyperinflation in patients with moderate to
+severe COPD. Respir Med 2011; 105:
+580­587.
+33. Maltais F, Mahler DA, Pepin V, et al. Effect of
+fluticasone propionate/salmeterol plus tiotropium
+versus tiotropium on walking endurance in
+COPD. Eur Respir J 2013; 42: 539­541.
+34. Maltais F, Singh S, Donald AC, et al. Effects
+of a combination of umeclidinium/vilanterol
+on exercise endurance in patients with chronic
+obstructive pulmonary disease: two randomized,
+double-blind clinical trials. Ther Adv Respir Dis
+2014; 8: 169­181.
+35. Borel B, Pepin V, Mahler DA, et al. Prospective
+validation of the endurance shuttle walking test
+in the context of bronchodilation in COPD. Eur
+Respir J 2014; 44: 1166­1176.
+36. O'Donnell DE, Flüge T, Gerken F, et al. Effects
+of tiotropium on lung hyperinflation, dyspnoea
+and exercise tolerance in COPD. Eur Respir J
+2004; 23: 832­840.
+37. O'Donnell DE, Sciurba F, Celli B, et al. Effect
+of fluticasone propionate/salmeterol on lung
+hyperinflation and exercise endurance in COPD.
+Chest 2006; 130: 647­656.
+38. Puente-Maestu L, Palange P, Casaburi R, et al.
+Use of exercise testing in the evaluation of
+interventional efficacy: an official ERS statement.
+Eur Respir J 2016; 47: 429­460.
+39. Bédard ME, Brouillard C, Pepin V, et al.
+Tiotropium improves walking endurance in
+COPD. Eur Respir J 2012; 39: 265­271.
+40. Cazzola M, MacNee W, Martinez FJ, et al.
+Outcomes for COPD pharmacological trials:
+from lung function to biomarkers. Eur Respir J
+2008; 31: 416­469.
+Visit SAGE journals online
+journals.sagepub.com/
+home/tar
+SAGE journals
+

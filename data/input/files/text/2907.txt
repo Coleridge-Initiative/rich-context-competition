@@ -1,0 +1,924 @@
+econstor
+Make Your Publications Visible.
+A Service of
+zbwLeibniz-Informationszentrum
+Wirtschaft
+Leibniz Information Centre
+for Economics
+Kelle, Markus; Kleinert, Jörn
+Working Paper
+German firms in service trade
+Economics Working Paper, No. 2010-03
+Provided in Cooperation with:
+Christian-Albrechts-University of Kiel, Department of Economics
+Suggested Citation: Kelle, Markus; Kleinert, Jörn (2010) : German firms in service trade,
+Economics Working Paper, No. 2010-03, Kiel University, Department of Economics, Kiel
+This Version is available at:
+http://hdl.handle.net/10419/30186
+Standard-Nutzungsbedingungen:
+Die Dokumente auf EconStor dürfen zu eigenen wissenschaftlichen
+Zwecken und zum Privatgebrauch gespeichert und kopiert werden.
+Sie dürfen die Dokumente nicht für öffentliche oder kommerzielle
+Zwecke vervielfältigen, öffentlich ausstellen, öffentlich zugänglich
+machen, vertreiben oder anderweitig nutzen.
+Sofern die Verfasser die Dokumente unter Open-Content-Lizenzen
+(insbesondere CC-Lizenzen) zur Verfügung gestellt haben sollten,
+gelten abweichend von diesen Nutzungsbedingungen die in der dort
+genannten Lizenz gewährten Nutzungsrechte.
+Terms of use:
+Documents in EconStor may be saved and copied for your
+personal and scholarly purposes.
+You are not to copy documents for public or commercial
+purposes, to exhibit the documents publicly, to make them
+publicly available on the internet, or to distribute or otherwise
+use the documents in public.
+If the documents have been made available under an Open
+Content Licence (especially Creative Commons Licences), you
+may exercise further usage rights as specified in the indicated
+licence.
+www.econstor.eu
+german firms in service trade
+by Markus Kelle and Jörn Kleinert
+No 2010-03
+German Firms in Service Trade
+Markus Kelle a, J¨
+orn Kleinert b
+aDepartment of Economics, Christian Albrechts University Kiel, Germany,
+Wilhelm-Seelig-Platz 1, 24098 Kiel, e-mail: kelle@economics.uni-kiel.de
+bDepartment of Economics, Eberhard Karls University of T¨
+ubingen, Germany,
+Mohlstr. 36, 72074 Tuebingen, e-mail: j.kleinert@uni-tuebingen.de
+Abstract
+We provide firm-level evidence concerning four key facts of services trade in
+Germany. First, not only firms classified as service firms, but also firms from
+all industries export and import services. Second, service trade patterns are
+fairly similar to those in goods trade. Most notably, service trade is dominated
+by a few large firms that serve many countries, sell several service products,
+and often export and import services. Differences in firms' trade values are
+result from differences in all three margins of trade. Third, there is a strong
+concentration of firms on one core market and service. Fourth, the patterns
+are surprisingly similar for services exports and imports.
+Keywords: service trade, firm heterogeneity, intensive and extensive margins
+of trade
+JEL classification: D21, F14, L80
+We are grateful to Kim Adenau for the preparation of the service trade data and
+the Bundesbank for data access and for their valuable support in handling it. We
+also thank Horst Raff, Holger G¨
+org, Joachim Wagner and Alexander Eickelpasch
+for encouraging discussions, and the referees for helpful comments. This project has
+benefited from the joint support of the French and German science foundations,
+ANR and DFG. We are, of course, solely responsible for any errors.
+Preprint submitted to Elsevier 11 March 2010
+1 Introduction
+Service trade has become an important topic in international economic policy
+for at least two reasons. First, services play a continuously growing role in mod-
+ern economies. The World Bank (2009) estimates that roughly 70% of global
+value added in 2007 was generated in the services sector. With proceeding
+economic development, a further increase of this share is rather likely. Second,
+services are increasingly tradable due to technological advances 1 and deregu-
+lation and liberalization policies. Growth rates in service trade have matched
+those of trade in goods in the last two decades. In particular, business services
+have contributed to this development. In 2007, world service exports stood at
+$3,260 billion (WTO 2008), 2 constituting a 24% share of world trade. These
+facts explain the ongoing efforts to organize liberalization in services trade in
+the GATS, NAFTA and European Union to foster economic growth.
+The literature on trade in services is quite sparse. Most empirical research and
+theoretical considerations are related to trade in goods. We contribute to the
+understanding of service trade by presenting a trade pattern at the firm level.
+We want to encourage further research in this field, because we believe that
+this is necessary to give guidance for future policy arrangements. We have
+collected some new facts on the pattern of services trade in Germany at the
+micro level. Many earlier studies of service trade (Fillat-Castej´
+on et al. 2008,
+Lennon 2007) rely on aggregated trade data. Differences at the firm level,
+however, are aggregated away in studies at a higher level of aggregation.
+We use a dataset that combines service trade through commercial presence
+1 Freund and Weinhold (2002) conclude that the growing availability of Internet
+accounts abroad promoted of cross-border services imports of the US in the 90s.
+2 The numbers refer to trade statistics from the Balance of Payments (BoP) Statis-
+tics and do not include sales through foreign affiliates.
+1
+in a foreign country (WTO mode 3) from the MIDI (MIcro data base Direct
+Investment) dataset of the Deutsche Bundesbank. The other three modes as
+defined by the WTO are as follows: cross-border supply (mode 1), trade via
+consumption abroad (mode 2) and via temporary presence of service suppliers
+abroad (mode 4) from the Balance of Payment Statistics (BoP). In sum, we
+can rely on comprehensive information about German service trade. 3
+Some important features that have been found to apply in the trade of man-
+ufacturing goods in other studies (e.g., Bernard et al. 2007) apply also to the
+service trade: (i) Only a small number of German service firms participates
+in the services trade. (ii) Trading firms vary a lot concerning their trade val-
+ues, with (iii) large firms strongly dominating trade. (iv) Most large firms do
+both import and export services. (v) The dominance of large firms can be
+explained by all the margins of trade. (vi) Finally, the patterns of the imports
+are amazingly similar to those of the exports.
+The dominance of a few large firms in trade has been found in goods trade
+before. Mayer and Ottaviano (2007) and Manova and Zhang (2008) present
+such evidence for manufacturing firms in several European countries and in
+China, respectively. Manova and Zhang (2008) and Bernard et al. (2007) report
+also that trade is dominated by firms that handle both import and export
+goods and that all margins of trade contribute to the differences in firms'
+trade. Thus, the service trade pattern that we report is very similar to the
+pattern in goods trade. This is also found by Breinlich and Criscuolo (2008)
+for service trade in the United Kingdom (UK).
+The similarity to trade in goods holds also true for the positive relationship
+of the different margins of trade. We distinguish two extensive margins, one
+3 Mostly, we exclude sales through commercial presence to make exports and im-
+ports comparable.
+2
+concerning the number of countries traded with and one concerning the num-
+ber of traded products, and the intensive margin. The extensive margin with
+respect to the number of products requires activities of multi-product firms
+as modeled by Mayer et al. (2008) and Bernard et al. (2006). They develop
+models with multi-product firms that face a firm-specific productivity and
+product-specific capabilities or expertise. These firm and product characteris-
+tics lead to a positive relationship between the number of products traded and
+the volume of sales, because more productive firms can sell more products and
+larger volumes of a given product. Arkolakis and Muendler (2009) use a simi-
+lar model, with fixed costs for entering a foreign market and variable costs for
+placing a product, to study the export of Brazilian manufacturers. They find a
+positive relationship between product range and sales per product for a given
+destination. We investigate the relationship between the margins of service
+trade and find a similar relationship in our data, although the interrelation of
+all three margins is a bit more complex.
+Additionally, we find a strong within-firm concentration of trade on a few
+markets and services. Such a concentration has already been found by Brein-
+lich and Criscuolo (2008) for firms from the UK. Even firms that trade with
+many countries and trade many different services tend to concentrate their
+activities in only a few markets and services. Heterogenous firm models based
+on monopolistic competition are very helpful in organizing ideas about the
+relationship of the different margins, but they can explain the strong con-
+centration of exporters in one or very few foreign markets only with relatively
+strong assumptions. The enormous concentration on the import side challenges
+the assumption of monopolistic competition even more.
+The remainder of the paper is organized as follows: in Section 2, we give
+a description of the dataset we are using in the analysis. In Section 3, we
+3
+analyze the differences in service trade flows across service product groups and
+across the sectors of the trading firms. Section 4 examines firm-level differences
+concerning the volume of sales, the number of services supplied abroad, and the
+number of countries served. In Section 5, we document the great dominance
+of the most important market even for large "global and diversified" firms. In
+the last section, we conclude and discuss some issues for further research.
+2 Data Description
+We merge two confidential micro-level datasets from the Deutsche Bundes-
+bank, which contain nearly the whole population of German services exporters
+and importers. The first dataset records service transactions between residents
+and non-residents, collected to compile the BoP-Statistics. For every service
+transaction between a German resident firm and a non-resident, with a value
+higher than 12,500 Euros, firms report to the Deutsche Bundesbank their sec-
+tor classification, the partner country, the kind of transaction they conducted,
+and the value of the transaction (Deutsche Bundesbank 2009). These transac-
+tions include GATS modes 1, 2, and 4. We combine all service trade activities
+in this first dataset in the cross-border trade category.
+Every reporting firm in the BoP-Statistics has been given a firm identifier
+from the Bundesbank. The same identifier is used in the MIDI dataset. The
+MIDI dataset provides a detailed breakdown of the foreign assets and liabil-
+ities of German multinational firms abroad and German affiliates of foreign
+multinational firms (Lipponer 2009). 4 The database contains information on
+4 German foreign direct investment is there defined as direct or indirect ownership
+or control by a single German entity of at least ten percent of the voting rights
+or capital shares of an incorporated foreign firm or the equivalent interest in an
+unincorporated foreign firm. The same criteria define a German affiliate of a foreign
+investor.
+4
+all foreign affiliates of German multinational firms, and on German affiliates
+of foreign multinational firms if they exceed the rather low reporting limit.
+The comprehensive database includes the balance-sheet data of foreign affil-
+iates, including their sales, employment, and total assets in each of over 200
+destinations. It also includes information on both the sector of activity of the
+parent firm and the affiliate at the NACE rev-1 two- or three-digit level. The
+data covers foreign affiliates' activities between 1989 and 2007. However, infor-
+mation for the parent company is limited to German parents and is available
+only since 2002.
+Sales of service affiliates from the MIDI database are exports and imports by
+commercial presence (mode 3). One problem with this kind of data, which
+is known as "Foreign Affiliate Trade Statistics" (FATS) in the literature, is
+that we know only the sector classification of an affiliate and its total sales.
+There is no differentiation between different services or goods that are sold
+by the affiliate. On the one hand, therefore we overestimate the service sales
+of an affiliate in a specific product group, because it is very unlikely that an
+affiliate sells only services according to the group in which it is classified. Yet,
+on the other hand, we underestimate trade because we also do not account
+for sales of a particular service by affiliates that are classified in a different
+sector. Despite these underlying problems, the OECD (2008a) concludes that
+FATS data is the best we have and is preferable to estimating service trade
+by commercial presence using FDI stock or flow data.
+We split our service trade data into eleven service sectors, which are listed
+in Table 1 and which represent mainly producer services. The first seven sec-
+tors are at the two-digit level. The last four are business services that we
+split into management services, advertising, personnel services, and holding
+activities using the three-digit level classification. We aggregate the values of
+5
+each firm's cross-border trade transactions for all combinations of firm, year,
+kind of service trade (export or import), and partner country from the trade
+database to match the structure of the observations from the MIDI database.
+The aggregation is necessary, because the sector classification of the foreign
+affiliates in the MIDI is more aggregated than for the services traded in the
+BoP-Statistics. Furthermore, there is no distinction between different transac-
+tions with customers of an affiliate. Table 14 in the appendix gives an overview
+of the kind of services included in both datasets and the matching of the data.
+The matching aims at obtaining the highest level of disaggregation possible
+with the two datasets.
+We use data for 2005 in the entire paper to describe the basic pattern of service
+trade involving German firms at the micro level. Combining both datasets we
+can make use of 165,815 observations concerning service trade, which can differ
+along five dimensions: the firm, the type of service group traded, the trade
+mode (cross-border or commercial presence), the kind of transaction (export
+or import), and the partner country. Cross-border imports comprise the largest
+group with respect to the number of observations (124,768), followed by cross-
+border exports (36,239), sales of foreign affiliates of German firms (3,421), and
+German affiliates of foreign firms (1,387). Many firms are involved in foreign
+activities using more than one channel.
+For the analysis at the sector and at the firm level, we use a sample with
+18,004 cross-border importers, 5,058 cross-border exporters, and 542 German
+parent firms. 5 Table 1 shows trade values and the number of firms engaged in
+trade aggregated for the different trade modes. In 2005, the 542 German par-
+ents exporting services through their foreign affiliates had aggregated affiliate
+5 We reduce the sample by dropping holding services, because it is not so clear what
+exactly these services are.
+6
+Table 1. Sector Variation in Services Trade 2005 (billions of Euros)
+Cross-border Cross-border Comm. presence
+Sector Exporter Exports Importer Imports Exporter Exports Imports
+Construction 845 8.2 2,043 5.1 78 14.9 6.7
+Transport 654 14.8 3,806 8.3 111 24.3 12.9
+Auxiliary Transp. 372 5.8 2,152 8.5 116 40.7 5.2
+Post & Tele-
+communications 172 2.7 1,053 4.0 43 46.3 23.3
+Insurance 462 28.9 1,969 32.4 93 67.6 18.7
+Data Processing 925 6.7 3,812 6.8 90 15.2 16.0
+R & D 968 9.1 3,145 10.3 35 2.0 1.1
+Management Serv. 1,422 5.4 6,297 7.7 28 1.4 3.3
+Advertising 643 2.8 4,236 3.7 25 0.7 1.2
+Personnel Serv. 471 0.9 2,266 1.5 - 2.7 1.6
+Hold. activities 1,241 3.7 8,305 8,2 286 4.9 6.6
+Total, excl. Hold. - 86.5 - 88.3 - 215.8 90.0
+Note: Firms that trade services from different sectors are counted more than once.
+The total of the number of firms is meaningless.
+Sources: MIDI (2007), BoP (2009), authors' computation.
+7
+service sales of 216 billion Euros (column 7). Affiliates' service sales were more
+than twice as large as the cross-border supply, which amounted to 86.5 billion
+Euro (column 3). Affiliates sales abroad were also higher than were foreign
+firms' German affiliates' sales (90.0 billion Euros, column 8), roughly equaling
+the 88.3 billion Euro aggregate cross-border service imports (column 5).
+Unfortunately, we cannot conduct an analysis of total service imports at a
+disaggregated level, because we do not have information about the buyers of
+the services supplied by the German affiliates of foreign multinationals. We
+therefore drop imports through commercial presence from our further analysis
+and use only cross-border trade data for comparing imports and exports. On
+the export side, we can analyze both cross-border exports and those using
+a commercial presence in the foreign country. We highlight the important
+differences in the results for total and cross-border exports along the study.
+German firms trade services with more than 200 countries and territories.
+The ten most important trading partners are ranked in Table 2 according to
+their share in total service exports and imports, including all modes. The ten
+countries account for roughly 65% of total exports and 80% of total imports.
+3 Sector Analysis
+In this section, we examine whether there are any regularities in service trade
+at the sector level. We distinguish two ways to aggregate service trade to
+the sector level: (i) according to the characteristics of the service traded and
+(ii) according to the classification of the trading firms. In the first step, we
+investigate export participation and intensities in ten different service product
+groups. In the second step, we analyze trade concerning the role of firms from
+8
+Table 2
+German Service Trade by Country 2005 (billions of Euros)
+Total Exports Total Imports
+Rank Country Share Sales Country Share Sales
+1 USA 23.5% 71.1 Netherlands 18.9% 33.7
+2 UK 12.6% 38.2 USA 13.5% 24.1
+3 Italy 6.3% 19.2 UK 12.0% 21.5
+4 Netherlands 5.3% 16.1 Switzerland 11.0% 19.5
+5 Switzerland 4.9% 14.7 Luxembourg 9.2% 16.3
+6 Austria 4.3% 13.0 France 5.9% 10.4
+7 France 3.9% 11.8 Austria 4.6% 8.2
+8 Spain 2.6% 7.9 Italy 2.6% 4.6
+9 Belgium 2.6% 7.9 Denmark 2.1% 3.7
+10 Canada 2.1% 6.4 Ireland 2.0% 3.6
+Total 100.0% 302.1 100.0% 178.3
+Sources: MIDI (2007), BoP (2009), authors' computation.
+different industries.
+Information about the export participation of German firms and the impor-
+tance of foreign markets is presented in Table 3. Export values refer to cross-
+border exports. We report the number of firms classified in the different sectors
+in Germany in column 6 and their production values in column 7 from the
+Statistical Yearbook 2008. 6 Based on these values, we calculate the participa-
+tion ratio in column 4 as the share of exporters of a particular service product
+(column 2) in all firms in the sector (column 6). Export intensities in column
+5 are derived by dividing cross-border exports (column 3) by the production
+in Germany (column 7).
+Note a conceptual issue concerning Table 3. The number of exporters and the
+exports are lower than in Table 1. The reason is that we include only firms
+with the same sector classification with respect to the traded product and the
+classification of the trading firm. For instance, R&D exports of R&D firms
+are included, but transport service exports of these firms are not. In some
+6 Production value includes a firm`s turnover in Germany and cross-border exports,
+but does not account for affiliate sales. Thus, it serves as a rough proxy for service
+sales in the different German service sectors.
+9
+Table 3
+Cross-border Export in German Services Sectors 2005 (billions of Euros, %)
+Cross-border Exporter Export Firms in Prod. in
+Sector Exporter Exports Ratio(%) Germany
+Construction 197 1.05 0.05 0.60 361,070 175.1
+Transport 53 1.96 0.09 2.08 60,753 94.2
+Auxiliary Transp. 65 1.83 0.28 1.93 23,379 94.6
+Post & Tele-
+communications 47 1.74 0.54 1.65 8,636 105.4
+Insurance 190 17.6 11.6 - 1,633 a
+Data Processing 305 4.82 0.65 7.82 47,104 61.6
+R & D 93 0.63 2.12 7.97 4,391 7.9
+Management Serv. 5 0.02 0.00 0.03 129,073 54.7
+Advertising - 0.00 0.02 0.01 25,516 17.6
+Personnel Serv. - 0.00 0.02 0.00 4,268 11.4
+Total 960 29.7 0.14 4.76 665,823 622.5
+a No comparable number for sales in Germany. The trade figures include only the
+service component of the insurance contract.
+Sources: MIDI (2007), BoP (2009), Statist. Yearbook 2008, authors' computation.
+sectors, that causes a serious bias. R&D exporters, for example, come from
+all industries, particularly from manufacturing. Nevertheless, we include only
+firms exporting in the same sector to achieve comparability to the numbers
+from the statistical yearbook, which is organized according to the classification
+of the firm and not according to the product. 7
+We want to highlight three results from Table 3. First, the average export
+participation ratio (0.14%) is fairly low in services trade (column 4). This low
+trade participation matches results from earlier studies in manufacturing. For
+instance, Bernard et al. (2007) find that 3.1% of U.S. manufacturers exported
+and 2.2% imported goods in 2000. Vogel and Wagner (2010) find an export
+participation of 16% for German business services, but they neglect firms with
+total sales below 250,000 Euros, which leads to an upward bias in their results.
+Our values are downward biased, on the one side, by the notification threshold
+7 The import side is neglected because we do not know to whom the German affil-
+iates of foreign multinational firms sell.
+10
+of 12,500 Euros per transaction in the BoP-Statistics and, on the other side,
+because we account only for firms that export the services according to their
+sector classification.
+Second, export intensities in the analyzed sectors are much higher than the
+participation rates. The average export intensity over all sectors (excluding
+Insurance for data reasons) is 4.9% (column 5). 8 This implies that average
+exports per service exporter are relatively large compared to average domestic
+sales per firm. Third, export participation and intensity differ a lot among
+services. Participation rates range from nearly 0.0% for Management Services
+to 11.6% for Insurance. Export intensity is nearly 0.0% for Personnel Services
+and 8.0% in the R&D sector. These sector differences might arise from differ-
+ent reasons such as differences in comparative advantages, tradability of the
+services, or the mismatch in the classification of products and firms discussed
+above.
+Next we present the sector aggregation with respect to the firm that trades
+the service. Information about service trade in ten German sector groups is
+collected in Table 4 and 5. The analysis is mostly restricted to cross-border
+trade to facilitate comparability between exports and imports. In Table 5, we
+also include exports through foreign affiliates.
+The second column in Table 4 shows the value of the cross-border exports of
+a particular sector group. The third column presents the fraction of service
+exports conducted by this group in total cross-border exports. The fourth
+column gives the share of cross-border exports conducted by firms that do
+both export and import of services (E+I firms) in percent. The fifth, sixth,
+and seventh columns present the same information as the second, third, and
+8 When we also account for service traders from other sectors, the participation
+ratio increases to 1.0% and export intensity to 13.9%, on average.
+11
+Table 4
+Cross-border Service Trade 2005 by Sector of the Firm (billions of Euros, %)
+Exports Share E+I Imports Share E+I
+Industry (bn. Euro) (%) Share (bn. Euro) (%) Share
+Primary 0.25 0.3 96.0 0.27 0.3 85.2
+Motor Vehicles 5.6 5.7 100.0 4.0 4.5 81.5
+Manufacturing
+low-tech 4.0 4.6 97.7 9.1 10.3 76.8
+Manufacturing
+high-tech 12.4 14.3 98.4 10.8 12.3 91.5
+Wholesale &
+Retail 2.5 2.9 82.8 3.3 3.7 35.5
+Construction &
+Utilities 1.1 1.3 97.3 0.7 0.8 55.4
+Transports 18.0 20.8 96.1 11.4 12.9 67.8
+Finance, Insurance &
+Communication 21.1 24.4 99.1 25.9 29.4 95.0
+Business, R&D &
+Computer 22.7 11.5 94.5 7.9 9.0 79.4
+Holdings & Oth. Serv. 70.9 14.1 98.4 14.7 16.7 88.7
+Total 86.4 100.0 97.2 88.1 100.0 83.5
+Note: E+I firms: firms that export and import services.
+Sources: MIDI (2007), BoP (2009), authors' calculations.
+fourth columns do for imports, respectively.
+Firms from all sectors export and import services. In sector-specific analyses
+of service trade it seems, therefore, more important than for trade in goods to
+account for the sector of the trading firm. Nevertheless, service firms account
+for the majority of service exports and imports. The three sector groups Trans-
+port; Finance, Insurance & Communication; and Business, R&D & Computer
+account together for more than 56% of cross-border exports (column 3) and
+50% of cross-border imports (column 5). When holdings and other service
+firms are also taken into account, this share increases to roughly 70% and
+75%, respectively.
+The share of manufacturing firms is also very sizeable, with nearly 25% in
+total service exports and roughly 27% for imports. While we expected a share
+12
+Table 5
+Total Exports and Cross-border Exports 2005 by Sector of the Firm (billions of
+Euros, %)
+Total Share Cr.-border E+I Cr.-border E+I
+Industry Exports (%) Exporter Share Importer Share
+Primary 0.3 0.1 37 70.3 120 21.7
+Motor Vehicles 5.6 1.8 69 84.1 216 26.9
+Manufacturing
+low-tech 7.7 2.5 577 77.6 3,106 14.4
+Manufacturing
+high-tech 14.3 4.7 797 73.5 2,313 25.3
+Wholesale &
+Retail 5.5 1.8 487 63.7 3,069 10.1
+Construction &
+Utilities 13.8 4.5 227 52.4 663 17.9
+Transports 43.3 14.3 871 81.6 2,391 29.7
+Finance, Insurance &
+Communication 114.8 37.8 520 83.1 1,245 34.7
+Business, R&D &
+Computer 27.1 8.9 1,064 52.8 3,123 18.0
+Holdings & Oth. Serv. 71.0 23.4 271 66.3 1,758 15.4
+Total 302.1 100.0 5,058 69.7 18,004 19.6
+Sources: MIDI (2007), BoP (2009), authors' calculations.
+like this for the import side, the 25% for cross-border service exports is higher
+than we expected. Breinlich and Criscuolo (2008) find a share of 12% for
+manufacturing firms in both exports and imports for the United Kingdom,
+using a slightly different composition of services in their analysis. The higher
+share of manufacturing in Germany might be due to the larger importance
+of the manufacturing industry for the Germany economy. Table 5 shows that
+the share of the manufacturers for exports would be smaller than 10% if we
+also accounted for exports through foreign affiliates (column 3). Service firms
+export more often through foreign affiliates and have, on average, larger sales
+abroad if compared to manufacturers.
+Firms that both export and import services account for a surprisingly high
+share of total cross-border exports and imports. The share stands at 97.2%
+for exports and 83.5% for imports (Table 4). Breinlich and Criscuolo (2008)
+13
+obtain a similar value for imports (86.4%), but a slightly lower one (79.8%)
+for exports. Table 5 shows that the share of E+I firms decreases to 69.7% for
+exports (column 5) and 19.6% for imports (column 7) when the number of
+firms instead of the sales is considered.
+4 Firm-level Differences
+In the last section, we collected new facts about service export participation
+and trade values at the sector level. However, Eaton et al. (2004) report that
+export participation and export values in goods trade are more strongly af-
+fected by firm than by sector characteristics. In this section, we therefore look
+at differences at the firm-level. Although we have information only on firms
+that participate in trade, this group by itself is not composed of symmet-
+ric firms. In the first subsection, we study the heterogeneity in the values of
+exports and imports, in their intensive margin, and in their two extensive
+margins. In the second subsection, we analyze the relationship between the
+margins more deeply using multivariate regressions.
+4.1 Concentration of Trade
+To analyze trade at the firm level, we aggregate the exports and imports of
+each firm over all sectors and partner countries, and rank firms according to
+their sales in deciles. We find striking differences among the trading firms
+with respect to trade values. These differences can result from (i) differences
+in the value of trade of a particular service with a particular country (intensive
+margin), (ii) the number of countries traded with (the extensive margin with
+respect to countries), and (iii) the number of services traded (extensive margin
+14
+Table 6
+Deciles of Cross-border Exporters 2005 (thousands of Euros)
+Decile Exports Share Average Average Number of
+(bill. Euro) (%) Sales Countries Served Services Offered
+1 0.001 0.00 18.0 1.12 1.02
+2 0.03 0.03 44.1 1.41 1.09
+3 0.06 0.07 81.7 1.85 1.16
+4 0.12 0.14 151.9 2.32 1.21
+5 0.24 0.28 240.9 3.49 1.32
+6 0.48 0.56 415.7 4.45 1.35
+7 0.9 1.04 775.5 5.72 1.42
+8 1.8 2.07 1,441.7 6.68 1.53
+9 4.2 4.87 2,507.1 9.02 1.64
+10 78.5 91.0 7,934.1 21.43 1.96
+Total 86.3 100.0 1,359.6 5.75 1.37
+Sources: MIDI (2007), BoP (2009), authors' computation.
+with respect to products).
+Table 6 lists the sum of cross-border exports (unweighted), average firm ex-
+ports per sector-country combination, average number of countries served, and
+average number of service groups traded by a particular firm for each decile.
+These figures show a strong increase of total sales per firms in the higher
+deciles. Certainly, the increase is by construction, because we grouped the
+firms with the lowest exports in decile 1. Yet, the increase is impressive: the
+firms in the 10th decile account for nearly 91% of cross-border exports (col-
+umn 3). The ten largest exporters, roughly 0.2% of firms, account for around
+40% of cross-border exports. 9
+Similar results can be found for service imports in Table 7: 10% of cross-
+border importers, which are the largest firms, account for 93% (column 3) of
+total cross-border imports. The top 100 or 0.5% of the importers, account for
+roughly 60% of imports. Thus, large firms strongly dominate trade in services
+in Germany, for imports and for exports.
+9 We even find a slightly stronger concentration of sales for total exports. The firms
+in the tenth decile account for more than 95% of total exports.
+15
+Table 7
+Deciles of Cross-border Importers 2005 (thousands of Euros)
+Decile Imports Share Average Average Number of
+(bill. Euro) (%) Sales Source Countries Services Imported
+1 0.02 0.02 11.1 1.13 1.06
+2 0.05 0.05 22.6 1.20 1.1
+3 0.08 0.09 35.9 1.48 1.23
+4 0.14 0.16 55.4 1.67 1.3
+5 0.23 0.26 77.7 2.22 1.49
+6 0.38 0.43 115.9 2.64 1.6
+7 0.67 0.76 174.4 3.31 1.75
+8 1.32 1.50 261.4 4.6 2.0
+9 3.39 3.85 495.1 7.0 2.35
+10 81.9 93.0 2,375.1 16.4 3.29
+Total 88.1 100.0 362.1 4.16 1.71
+Sources: MIDI (2007), BoP (2009), authors' computation.
+Comparing cross-border exports and imports, we find that, on average, im-
+porters trade more products: 1.7 compared to 1.4 for exports. In contrast,
+the average number of partner countries is larger for exports (5.8) than for
+imports (4.2). The intensive margin of trade (column 4) is more than three
+times larger on the export side. Columns 4-6 in Tables 4 and 5 show that the
+strong increase of trade volumes in the upper deciles can be explained by an
+increase of all three margins for both imports and exports: firms with larger
+imports or exports have larger average trade volumes in a given country and
+sector, trade with more countries, and trade services from more groups.
+The intensive margin shows impressive differences for exports and for imports.
+For instance, average imports per country and product group by a firm in the
+fifth decile (77,700 Euro), for instance, are 7 times larger than the sales of a
+firm in the first decile (11,100 Euro), but only 5% of the sales of a firm in the
+tenth decile (2,375,100 Euro). 10
+10 Cross-border exports in the tenth decile are 400 times larger than in the first,
+where cross-border imports are 210 times larger. When we consider total exports
+(cross-border and commercial presence), sales in the tenth decile are more than
+3,500 times larger than in the first decile.
+16
+Table 8
+Cross-border Export 2005, Extensive Margins (billions of Euros, %)
+Number of Exports Share Number of Share
+Countries (bn. Euros) (%) Exporters (%)
+1 3.1 3.6 2,082 41.2
+2 1.8 2.1 760 15.0
+3-5 3.8 4.4 828 16.4
+6-10 5.1 5.9 595 11.8
+11-50 30.8 35.7 744 14.7
+> 50 41.8 48.4 49 1.0
+Number of Exports Share Number of Share
+Sectors (bn. Euros) (%) Exporters (%)
+1 38.1 44.1 4,030 79.7
+2-3 28.0 32.4 795 15.7
+4-5 10.3 11.9 195 3.9
+> 5 10.0 11.6 38 0.8
+Sources: MIDI (2007), BoP (2009), authors' calculation.
+Table 8 shows the extensive margins for cross-border exports. Apparent is
+a strong concentration of exports on the few firms in the highest category.
+The 49 firms that export to more than 50 countries account for almost half
+of the exports, although they are only about 1% of all exporters. On the
+other end of the distribution, we have many exporters that export to just
+one country. These firms account for only a small share of German service
+exports. The dominance of the highest category with respect to the number
+of services supplied is less pronounced. The 38 firms exporting more than 5
+product groups account for more than 10% of the exports. 11
+Table 9 displays similar results for cross-border imports. The 81 importers that
+import from more than 50 countries, roughly 0.5% of the firms, account for
+nearly 50% of German service imports. Similarly, the 483 firms importing from
+more than five product groups account for almost half of the imports. Thus,
+services trade in Germany is dominated by globally engaged, multi-product
+firms.
+11 Considering total exports further strengthens the dominance of large firms.
+17
+Table 9
+Cross-border Import 2005, Extensive Margins (billions of Euros, %)
+Number of Imports Share Number of Share
+Countries (bn. Euros) (%) Importers (%)
+1 3.0 3.4 8,410 46.7
+2 1.8 2.0 2,943 16.4
+3-5 4.3 4.9 3,287 18.3
+6-10 8.1 9.2 1,810 10.1
+11-50 28.9 32.8 1,473 8.2
+> 50 42.1 47.7 81 0.5
+Number of Imports Share Number of Number of
+Sectors (bn. Euros) (%) Importers (%)
+1 17.7 20.1 11,666 64.8
+2-3 13.5 15.3 4,711 26.2
+4-5 16.3 18.5 1,144 6.4
+> 5 40.6 46.1 483 2.7
+Sources: MIDI (2007), BoP (2009), authors' calculation.
+To assess the role of the different margins in explaining the differences in firm
+sales, we simply regress the three margins on total firm sales in three different
+OLS regressions in log-log form. The intensive margin on the firm level is
+calculated as in Tables 6 and 7: the average trade volume per sector-country
+combination on the firm level. The results for cross-border exports and imports
+in the six different regressions are presented in Table 10. All coefficients are
+significant at the 1%-level. The coefficient is highest for the intensive margin
+(column 2) followed by the number of partner countries (column 3) and the
+number of service types traded (column 4). Breinlich and Criscuolo (2008)
+find similar results for firms in the UK. The coefficient of the intensive margin
+is slightly higher for cross-border exports than for cross-border imports.
+The small coefficient of the number of services traded is probably due to the
+high aggregation level of the service groups in our data, which leads to low
+variation of this variable (particularly for exports) as shown in Tables 6 and
+7. Bernard et al. (2006) use goods trade data at the 10-digit level and find a
+stronger positive effect from the number of products exported on the intensive
+18
+Table 10
+Log-log Regression of Sales on Different Margins
+Explaining Avg. Sales per Number of Number of
+Variables Countr.-Sector Countries Services
+Cross-border Exports 0.68*** 0.30*** 0.05***
+(131.7) (60.2) (22.2)
+R2 0.77 0.42 0.09
+Cross-border Imports 0.63*** 0.33*** 0.13***
+(247.3) (134.0) (76.7)
+R2 0.77 0.50 0.25
+*** significantly different from 0 at 1% level. Std. errors in parantheses.
+Sources: MIDI (2007), BoP (2009), authors' computation.
+margin of exports than we find here. In addition to the level of aggregation,
+another explanation for the differences in the results may be differences in
+fixed costs. Providing an additional service in a foreign market might be more
+expensive than exporting an additional good. This idea is proposed by the
+OECD (2008b).
+4.2 Margins of Service Trade
+After having studied the three margins explaining the differences in firms'
+trade values, we now analyze their correlation. According to the theory sketched
+in the introduction, the relationship should be positive. The correlation be-
+tween the two extensive margins is positive and significant at the 1% level.
+The correlation coefficient for cross-border imports (0.48) is larger than for
+cross-border exports (0.28) and total exports (0.3).
+To analyze the relationship between the intensive margin and the extensive
+margins, we run log-log regressions for the value of trade in every given firm-
+sector-country combination on the two extensive margins. This has the advan-
+tage that we can control for country and sector biases by including country
+and sector dummies. Additionally, we include a dummy variable for the sector
+19
+of the trading firms.
+Running separate regressions for the extensive margins, we obtain, in line with
+theory, positive coefficients that are significant at the 1% level for both margins
+and for imports and exports. The explanatory power of Internationality, the
+number of partner countries, is larger compared to Diversity, the number of
+service products traded. 12 The results become more complex when we include
+both margins in one regression, as can be seen in Table 11. We find that
+Internationality still has a positive impact on the trade values of a firm for both
+cross-border imports and exports as well as for total exports. The coefficients
+of Internationality are significantly larger than zero at the 1% level in all
+columns in Table 11.
+For Diversity, we obtain significantly negative coefficients. As a robustness
+check we split the sample in manufacturing and service firms and run separated
+regressions for total exports. The results are presented in columns 5 and 6.
+The coefficient of Diversity is significantly negative for manufacturers (column
+5). For service firms, however, it is positive, although insignificant (column 6).
+Arkolakis and Muendler (2009) find as well, both theoretically and empirically,
+that there is not necessarily a positive relationship between a firm`s Diversity
+and its intensive margin.
+The Affiliate-Dummy in columns 4-6, which is set to one if the export is
+conducted by a foreign affiliate, is highly significant in the regressions for
+total exports and has a large positive coefficient. Obviously, trade volumes
+are much larger when firms choose commercial presence as their export mode.
+Moreover, columns 2 and 3 report that firms which both import and export
+have larger intensive margins: the exporter dummy in column 3 and importer
+12 This result concerns both the size of the coefficients and the adjusted residual
+square sum.
+20
+Table 11
+Regression of the Intensive Margin on the Extensive Margins
+Cross-border Total Total Exports
+Exports Imports Exports Manufact. Serv. Firms
+Internationality 0.30*** 0.23*** 0.35*** 0.42*** 0.36***
+(24.7) (29.4) (32.0) (20.8) (25.0)
+Diversity -0.21*** -0.26** -0.08*** -0.15*** 0.04
+(9.5) (20.6) (3.5) (4.7) (1.2)
+Exp.-Dummy - 0.29*** - - -
+(19.6)
+Imp.-Dummy 0.27*** - - - -
+(7.1)
+Out.-MNE Dummy 0.81*** 0.87*** - - -
+(20.9) (34.9)
+Inw.-MNE Dummy 0.26*** 0.31*** - - -
+(5.6) (10.6)
+Affiliate-Dummy - - 5.00*** 5.08*** 4.89***
+(92.7) (31.0) (81.5)
+Adj.R2 0.15 0.12 0.32 0.19 0.39
+Observations 33,737 95,105 34,999 12,572 19,376
+All regressions included sector, country, and firm sector classification dummy
+variables. Standard errors in parantheses: *, **, *** significantly different
+from 0 at 10% level, at 5% level, at 1% level.
+dummy in column 2 are positive and significant at the 1% level. This supports
+the evidence from Table 4 that E+I firms dominate trade. One reason for this
+dominance is a larger intensive margin. Additionally, we include a dummy
+that indicates whether a firm is a German multinational (Outward MNE) or
+if it belongs to a foreign multinational (Inward MNE). Both type of firms have
+larger cross-border trade, with German MNEs having particularly high trade
+levels.
+This section highlighted the high concentration of sales in a few (large) firms
+and the role of the different margins to explain the heterogeneity among firms
+that trade services. We found that all three margins of adjustment contribute
+to this heterogeneity. The analysis has mainly focused on the averages of the
+margins across firms. Yet, so far we have said nothing about the distribution
+of sales across different trading partner countries and traded services within
+21
+Table 12
+Concentration on Destinations for Cross-border Exports and Imports, %
+Markets ranked All firms Firms with export relationships with exactly
+5 countries 15 countries 40 countries
+Most important 0.75 0.57 0.44 0.41
+Second - 0.22 0.19 0.16
+Third - 0.11 0.11 0.11
+Observations 5,058 186 59 7
+Markets ranked All firms Firms with import relationships with exactly
+5 countries 15 countries 40 countries
+Most important 0.80 0.57 0.43 0.27
+Second - 0.22 0.18 0.20
+Third - 0.11 0.11 0.12
+Observations 18,004 704 128 7
+Sources: MIDI (2007) BoP (2009), authors' calculations.
+a single trading firm. The following section therefore analyzes the within-firm
+concentration of trade activities in particular markets.
+5 Composition of Trade Within Firms
+In this section, we illustrate to what extent firms' trade activities are concen-
+trated on the most important partner countries or service products. We find
+that there is not only a large concentration of trade activities in a few firms,
+but also a pronounced concentration of trade within these firms.
+To show this, we calculate the market share of cross-border export and import
+values in the first, second, and third important partner country of a particular
+firm. We average this firm-specific market share for all firms and present the
+result in column 2 of Table 12. Columns 3, 4, and 5 give the average market
+share for all firms that have exactly 5, 15, and 40 partner countries, respec-
+tively. This gives us the average relative importance of a single country and
+service for the total trade value of a firm.
+22
+Table 13
+Concentration on Service Products for Cross-border Exports and Imports, %
+Service group All firms Firms with exports in exactly
+Ranked 2 groups 3 groups 5 groups
+Most important 0.96 0.83 0.75 0.66
+Second - 0.17 0.19 0.22
+Third - - 0.06 0.08
+Observations 5,058 576 219 63
+Service group All firms Firms with imports in exactly
+Ranked 2 groups 3 groups 5 groups
+Most important 0.91 0.80 0.73 0.67
+Second - 0.20 0.20 0.20
+Third - - 0.07 0.09
+Observations 18,004 3,260 1,404 403
+Sources: MIDI (2007) BoP (2009), authors' calculations.
+The shares of the most important market are very high for both exports and
+imports. For a firm with 15 partner countries, the most important market
+accounts for an impressive 44% of the exports and 43% of the imports (column
+4). For comparison, note that the average market share is 6.7%. Even an
+exporter with 40 partner countries (average market share 2.5%) exports 41%
+of all services to its most important partner country (column 5). The three
+most important destinations account for 68% of all exports. An importer with
+40 partner countries buys 27% of all services from its most important and 59%
+from its three most important source countries.
+We find that concentration is even more pronounced with respect to the num-
+ber of service groups in which a firm trades. We show this in Table 13, which
+is organized as Table 12 above, but which contains information about the
+concentration of firms' trade in the three most important product groups.
+The concentration in the most important product group is high. Breinlich and
+Criscuolo (2008) find similar results for the trade of firms in the UK. While
+concentration with respect to both products and partner countries is, on the
+export side, in line with models where a single or multi-service producer sells
+23
+services to different markets that differ in market size and trade barriers, the
+high concentration on the import side is more puzzling.
+6 Conclusion
+We present an empirical overview on service trade at the micro level. We
+combine two datasets compiled by the Deutsche Bundesbank: the Balance
+of Payments Statistics and the MIcro database Direct Investment to create
+a dataset that includes all service exports of German firms and all service
+imports to Germany. We show that rather few firms trade services. The differ-
+ences between the sectors are sizable, but much less pronounced than within
+sector differences between firms. The bulk of exports and imports are concen-
+trated in few global and diversified firms. All three margins of trade contribute
+to this concentration. But even within these firms, activities are very much
+concentrated on one partner country and service group.
+Furthermore, we find some evidence that the intensive and extensive margins
+of trade are positively linked at the firm level, but we identify some differences
+between manufacturers and service firms. Additionally, the number of service
+products exported seems to have a weaker correlation to the intensive margin,
+as it does in goods trade.
+We see three main issues for future research arising from the analysis. First, the
+high share of non-service firms and particular manufacturing firms in services
+trade deserves a more detailed analysis. Moreover, the analysis of the different
+margins of trade reveals that the determinants of service trade may be different
+for firms from manufacturing.
+Second, the high concentration of trade in firms that are both importing and
+24
+exporting deserves further research. Taking the first steps in this direction,
+Breinlich and Criscuolo (2008) find that employment, capital-intensity, or
+productivity are larger for firms that both import and export. Bernard et
+al. (2007) propose increasing international fragmentation of production as a
+possible reason for the dominance of firms with export and import activities.
+They argue that there is a positive effect on the export activities of firms
+from reducing their costs by offshoring. Amiti and Wei (2006) find that in
+the last decade, offshoring of business activities has not only been sizable, but
+has also contributed significantly to the increase in productivity in developed
+countries.
+Third, the large concentration at the firm-level is particularly surprising for
+imports, for which empirical evidence and theoretical considerations are still
+scarce. It seems as if service imports are channeled through a few large firms.
+But if both the export side and the import side is so strongly concentrated,
+models of perfect and also of monopolistic competition probably do not de-
+scribe trade appropriately. Strategic interaction and monopolistic behavior
+might play a much larger role than the models suggest. The concentration on
+the import side is particularly hard to explain in the frameworks that model
+consumers on the buyers side. The data, in contrast, point to a "business-to-
+business" relationship in service trade.
+This is not just an academic point. Market structure heavily influences the
+welfare effects of trade liberalization. Raff and Schmitt (2009) make this point
+in a model showing the buyer power of importers. Welfare gains from lower
+trade costs are thereby strongly reduced by the buyer's power. Thus, it is
+important to understand the import behavior of firms more deeply in order to
+give profound guidance for further liberalization of trade in producer services.
+25
+7 References
+Amiti, M., Wei, S.-J. (2006), "Service Offshoring, Productivity and Employ-
+ment: Evidence from the United States", NBER working paper series, No.
+11926.
+Arkolakis, C., Muendler, M.-A. (2009), "The Extensive Margin of Exporting
+Goods: A firm-level Analysis", Yale University mimeo.
+Bernard, A., Redding, S., Schott, P. (2006), "Multi-Product Firms and Trade
+Liberalization", NBER working paper series no. 12782.
+Bernard, A., Jensen, J.B., Redding, S., Schott, P. (2007), "Firms in interna-
+tional Trade", Journal of Economic Perspectives, 21(3), 105-130.
+Breinlich, H., Criscuolo, C. (2008), "International Trade in Services: A portrait
+of Importers and Exporters", CEP discussion paper no. 901.
+Deutsche Bundesbank (2009), "Erl¨
+auterungen zum Leistungsverzeichnis f¨
+ur
+die Zahlungsbilanz. Sonderver¨
+offentlichung 7", http://www.bundesbank.de
+Eaton, J., Kortum, S., Kramaz, F. (2004), "Dissecting Trade: Firms, Indus-
+tries, and Export Destinations", American Economic Review, 94(2), 150-154.
+Fillat-Castej´
+on, C., Francois, J., Woerz, J. (2008), "Cross-border Trade and
+FDI in services", Centre for Economic Policy Research, discussion paper no.
+7074.
+Freund, C., Weinhold, D. (2002), "The Internet and International Trade in
+Services", American Economic Review, 92(2), 236-240.
+Lennon, C. (2008), "Trade in Service: Cross-Border Trade vs. Commercial
+26
+Presence. Evidence of Complementarity", Paris School of Economics, Working
+Paper 2008-53.
+Lipponer, A. (2009), "Microdatabase Direct Investment - MiDi: A Brief Guide."
+http://www.bundesbank.de/download/vfz/fdi.
+Manova, K., Zhang, Z. (2008), "China's Exporters and Importers: Firms,
+Products, and Trade Partners", Federal Reserve Bank of San Francisco, work-
+ing paper series No. 2008-28.
+Mayer, T., Ottaviano, G. (2008), "The Happy Few: New Facts on the Inter-
+nationalisation of European Firms". Centre for Economic Policy Research,
+Policy Insight No. 15.
+Mayer, T., Melitz, M., Ottaviano, G. (2008), "Market Size, Competition and
+the Product Mix of Exporters". Mimeo. Paper presented at the ETSG 2009,
+Rome, Italy.
+OECD (2008a), "Measuring Bilateral Trade in Services: A note on the data col-
+lected and estimated for the services trade restrictiveness index", http://www.oecd.org
+OECD (2008b), "OECD Services Experts Meetings Towards a Services Trade
+Restrictiveness Index - Report", http://www.oecd.org
+Raff, H., Schmitt, N. (2009), "Buyer Power in International Markets", CESifo
+working paper no. 2755.
+Statistical Yearbook (2008), Federal Statistical Office, http://www.destatis.de
+Vogel, A., Wagner, J. (2010), "Exports and Profitability - First Evidence for
+German Business Services Enterprises", Applied Economics Quarterly, forth-
+coming.
+27
+Worldbank (2009), "World Development Indicators 2009", http://www.worldbank.org
+World Trade Organization (2008), Statistics Database, International Trade
+and Tariffs data, http://www.wto.org.
+28
+8 Appendix
+Table 14
+Match of MIDI and BoP Data
+Sector MIDI (Nace rev. 1) BoP (knz`s)
+Construction 4500: Construction 570, 580:
+Construction, Installation, Reparation
+Transport 6000: Land Transport, Pipelines 20: Air Transport
+6100: Water Transport 210, 220: Water Trans., Goods Trade
+6200: Air Transport 230, 240: Land Trans. Rail + Road
+Auxiliary 6300: Supporting and Auxiliary 300: Seaports
+Transport Transport Activities, Travel 310, 320: Airports, Inland Harbor,
+Agencies Ocean Traffic and Road Transport
+330: Carrier
+560: Reparation Means of Transport
+Post & Tele- 6400: Post & Telecommuni- 518: Communication Services
+communication cations (Satellite, Telephone, Wire)
+591: Post & Courier Services
+Insurance 6600: Insurance and Pension 400-461: Life, Pension and
+Funding, except Social Security Reinsurance
+Data Processing 7200: Computer and related 513: Electronic Data Processing
+Activities
+R&D 7300: Research & Development 511: R&D Products, Procedures
+501: Artistic Copyrights
+504, 505, 506: Patents, Licenses,
+Inventions
+Management 7411: Legal Advice 516: Entrepreneurship,
+Services 7412: Accounting, Book- Management, Organisation,
+keeping and Auditing Activities, Administration, Market Research
+Tax Consultancy 519: Other Entrepreneurial Activities
+7413: Market Research, Public
+Opinion Polling
+7414: Business and
+Management Consultancy
+Advertising 7440: Advertising 540: Advertising and Fair Costs
+Personnel 7450: Labor Recruitment 517: Personal Leasing
+Services and Provision of Personnel 521: Non-self-employed Work
+Holding 7490: Management Activities of 523: Commission for Intermediation
+Activities Holding Companies in Goods and Services Deals
+530: Subsidies to Subsidiaries
+Sources: Lipponer (2009), Deutsche Bundesbank (2009)
+29
+

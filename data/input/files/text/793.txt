@@ -1,0 +1,654 @@
+Comparing Employee
+Health Benefits In The
+Public And Private
+Sectors, 1997
+The benefits of government workers stack up well against those
+in the private sector, and government workers are more likely to
+be offered health insurance at work.
+by Stephen H. Long and M. Susan Marquis
+ABSTRACT: Data from the 1997 Robert Wood Johnson Foundation Employer
+Health Insurance Survey provide new information comparing public- and
+private-sector employee health benefits. The federal government is ahead of
+other employers in adopting managed competition principles using financial
+incentives and consumer information to promote choosing efficient plans. Fed-
+eral employees experience a $200 annual compensation gap relative to those
+in the private sector, but it is partly explained by advantage in purchasing power.
+In contrast, state and local governments make higher payments toward health
+insurance than private-sector employers do. Their premiums are equivalent, but
+they pay a greater share of the total cost.
+Policymakers have a long-standi ng interest in
+comparisons of the health benefit plans sponsored by public
+and private employers. These comparisons can inform them
+about "best practices" under managed competition, parity of com-
+pensation between public- and private-sector workers, and the pos-
+sible costs of permitting legal action against private employers and
+their health plans over delayed or wrongfully denied benefits.
+The Federal Employees Health Benefits Program (FEHBP) has
+long been touted as a model for health system reform based on
+managed competition, as have some state employee plans (such as
+those of California, Minnesota, and Wisconsin).1 More recently, ma-
+jor corporations and universities have jumped on the managed com-
+petition bandwagon.2 Although the public sector took the lead origi-
+nally, how do the two sectors compare today, in view of the private
+sector's more recent efforts?
+©1999ThePeople-to-People Health Foundation,Inc.
+The authors are senior economists at RAND in Washington, D.C.
+DATAWATCH 183
+H E A L T H A F F A I R S ~ N o v e m b e r / D e c e m b e r 1 9 9 9
+C O M P A R I N G B E N E F I T S
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+It is commonplace for journalists, legislators, and taxpayers to
+express concern that public employees are overpaid relative to their
+private-sector counterparts.3 The evidence on this topic is mixed,
+however, and subject to concerns about methodological flaws.4
+Moreover, there is considerably more and better evidence on pay
+and pensions than there is on health insurance benefits.5 The two
+empirical studies we found that compared health benefits suggest
+that federal employees' health benefits are not as generous as those
+in the private sector.6 For example, the Congressional Budget Office
+(CBO) estimates that the value of employer-paid federal health in-
+surance ranges from 77 percent to 89 percent of that in large private
+companies, a shortfall of $445­$629 annually across the five hypo-
+thetical federal employees of different ages for whom they produced
+illustrative calculations.7 Information on the health benefits of state
+and local public employees relative to private employees is scant.8
+The Employee Retirement Income Security Act (ERISA) now
+protects private employers and their health insurers and health
+maintenance organizations (HMOs) from lawsuits related to wrong-
+ful denial or delay of health benefits. This litigation, which other-
+wise would be permitted under many state laws, also is prohibited
+under the law governing the FEHBP. However, it is permitted for
+state and local government employees, whose employers and health
+plans are exempt from ERISA.9 Proposed legislation for a patients'
+bill of rights would amend the ERISA preemption of state law to
+extend the right of litigation to private employees. Opponents argue
+that this would cause health insurance premiums to rise. Current
+law provides a natural experiment whereby, in principle, compari-
+sons of premiums for state and local government employees versus
+those of private employees provide a measure of the costs. Evidence
+on these magnitudes is scant, and estimates cover a wide range.10
+The purpose of this DataWatch is to provide new descriptive
+statistics comparing the health benefits provided to public- and
+private-sector employees. We also provide some new evidence on
+the issues of pay comparability and liability costs. The estimates are
+based on a large national survey of private and public employers in
+1997.
+Methods
+Our data are from the 1997 Robert Wood Johnson Foundation
+(RWJF) Employer Health Insurance Survey, which collected infor-
+mation from a sample of private business establishments and local
+government units, from each state government in the forty-eight
+contiguous states and the District of Columbia, and from the federal
+government. Details about the data collection from private employ-
+184 COMPARING
+BENEFITS
+H E A L T H A F F A I R S ~ V o l u m e 1 8 , N u m b e r 6
+D a t a W a t c h
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+ers are described elsewhere in this volume.11 Here we briefly describe
+the methods to collect public-sector information.12
+The 1992 Census of Governments was the sampling frame for
+local government employers. The frame was stratified by geography
+and by employer size, with simple random samples selected from
+within each stratum. Interviews were completed with 713 local gov-
+ernment units, following the procedures for interviewing private
+employers. Sampled public and private employers are weighted to
+account for different sampling probabilities and for nonresponse.
+We use employee or health plan enrollee weights throughout this
+DataWatch because our interest is in comparing the coverage of
+workers in different employment settings.13
+We collected information about all state government employees
+in each state and the District of Columbia using data-collection
+procedures similar to those for private businesses and local govern-
+ments. Interviewers contacted a person in each state government
+knowledgeable about health insurance benefits and attempted to
+complete the computer-assisted telephone interview. However,
+procedures were adapted to reduce the reporting burden. Special
+worksheets were developed for state representatives to fill out in
+lieu of reporting the information over the telephone. Some states
+elected to send plan booklets, which were then abstracted by inter-
+view staff into the interview format.
+Information about federal employees was obtained primarily
+from administrative records. Employee data came from the Central
+Personnel Data file provided by the U.S. Office of Personnel Manage-
+ment (OPM). Health plan enrollments were obtained from the
+Health Benefits Data file, also provided by the OPM. Details about
+the coverage provisions of all federal health plans were abstracted
+from the OPM Internet site.
+Our analysis examines differences in health plan participation
+among private and public workers, in the extent and nature of plan
+choice available to them, in the types of financial incentives and
+comparative plan information provided, and in total premiums and
+employer contributions to premiums. The questions used to deter-
+mine health plan choice, to classify plans by type, and to establish
+the kinds of financial incentives and information available to em-
+ployees are described elsewhere in this volume.14
+Health insurance premiums and employer contributions for both
+"The health plans available to private-sector workers are more
+likely to be restricted to one type of managed care plan."
+DATAWATCH 185
+H E A L T H A F F A I R S ~ N o v e m b e r / D e c e m b e r 1 9 9 9
+C O M P A R I N G B E N E F I T S
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+single and family coverage were reported for each health insurance
+plan offered. Some employers offer coverage for special services,
+such as dental care or prescription drugs, in plans that are separate
+from the general medical plan. We constructed premiums and em-
+ployer contributions for the package of benefits held by enrollees by
+adding together the premiums and contributions paid for both the
+general medical plan and for any plans covering special services.
+Because we collected information on the enrollments in the special-
+service plans as well as the general medical plans, we can determine
+how many enrollees hold the expanded package of benefits, includ-
+ing these special-service plans, and how many hold just the general
+medical plan benefits.
+We report premiums that are adjusted for differences in the actu-
+arial value of plan benefits and for differences in the characteristics
+of employees in different groups. The actuarial value of plan benefits
+is measured by estimating average plan benefit payments for a stan-
+dardized distribution of expenditures. The adjusted premiums also
+control for differences between the sectors in the distribution of
+workers by age, sex, and hours worked.15
+Study Results
+Likelihood of coverage. Employees in the public sector are more
+likely than employees in the private sector are to receive health
+insurance as part of their compensation (Exhibit 1). Overall, 60
+percent of private-sector workers are enrolled in their employer's
+health insurance plan, compared with 79 percent of public-sector
+workers. Most of the difference is attributable to fewer private-
+sector than public-sector employees working for an employer that
+offers health insurance (83 percent versus 99 percent). The lower
+rates of offering insurance to private-sector employees can be traced
+to smaller firms' decisions not to offer insurance.16 The offer of insur-
+ance to employees in large private firms (those with 500 or more
+employees) is the same as for public-sector employees. As a result,
+EXHIBIT 1
+Employees' Health Plan Participation, By Type Of Employer, 1997
+Employees enrolled in their own employer's plana 60% 50% 76% 79% 71% 81%
+Employees in firms offering insurance
+Eligible employees among those in firms
+offering insurance
+Enrolled employees among those eligible
+83
+84
+87
+72
+81
+85
+99
+86
+89
+99
+89
+90
+100
+93
+77
+99
+88
+93
+SOURCE: 1997 Robert Wood Johnson Foundation Employer Health Insurance Survey.
+a This overall enrollment rate is the product of the offer, eligibility, and participation rates shown in the next three rows.
+186 COMPARING
+BENEFITS
+H E A L T H A F F A I R S ~ V o l u m e 1 8 , N u m b e r 6
+D a t a W a t c h
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+participation in health insurance for employees in large private firms
+also is similar to the overall rate for those in the public sector (76
+percent versus 79 percent).
+The results for all public-sector employees mask some differences
+between federal and state or local government workers. Eligibility
+for insurance is higher among federal employees than among other
+public- or private-sector employees. Participation rates among
+workers who are eligible to enroll are lowest for federal workers and
+highest for workers in state and local governments. As we show
+below, this pattern mirrors differences in the amount of the health
+insurance premium contributed by the employer.
+Choice of plans. There are substantial differences in the extent
+and nature of the choice of health plans available to workers in the
+private and public sectors. Only 43 percent of private-sector health
+plan enrollees had a choice of plans in 1997, in contrast to 100 per-
+cent of federal employees and 70 percent of state and local govern-
+ment workers (Exhibit 2). This difference is only partly explained
+by the limited choice offered by small private employers.17 Only 59
+percent of plan enrollees in large firms had a choice of health
+plans--still far less choice than what is available to those in the
+public sector.
+The health plans available to private-sector workers are more
+likely to be restricted to one type of managed care plan--that is,
+HMOs, preferred provider organizations (PPOs), or point-of-service
+(POS) plans--whereas government workers are more likely to have
+a choice of plan types as well. Among all private-sector plan en-
+rollees, 53 percent are offered a single type of managed care plan,
+while only 35 percent are offered a choice of type of plan--either
+multiple types of managed care products or a choice that includes an
+indemnity product (Exhibit 2). Even among health plan enrollees in
+large private firms, only 49 percent have a choice of plan types. In
+contrast, all federal plan enrollees and 64 percent of state and local
+EXHIBIT 2
+Health Plan Choices Offered To Enrollees, By Type Of Employer, 1997
+Enrollees offered a choice of plans 43% 25% 59% 74% 100% 70%
+Enrollees by type of plan offered
+One type of managed care plan only
+Indemnity only
+Multiple types of managed care plans,
+no indemnity plan
+Managed care and indemnity plans
+53
+12
+20
+15
+68
+14
+11
+7
+39
+12
+27
+22
+25
+7
+38
+30
+0
+0
+99
+1
+28
+8
+29
+35
+SOURCE: 1997 Robert Wood Johnson Foundation Employer Health Insurance Survey.
+DATAWATCH 187
+H E A L T H A F F A I R S ~ N o v e m b e r / D e c e m b e r 1 9 9 9
+C O M P A R I N G B E N E F I T S
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+plan enrollees have a choice of plan types.
+Types of plans selected. Despite the very large differences in the
+extent of choice offered, there is much less difference in the types of
+plans elected by public- and private-sector health plan enrollees.
+Overall, POS plans are slightly more common among private em-
+ployees than among public employees, while PPO plans have
+slightly lower enrollment among those in the private sector (Exhibit
+3). These differences are somewhat more pronounced in compari-
+sons of public employees with private employees in large firms.
+Among the latter, 21 percent are enrolled in POS plans and 33 per-
+cent in PPO plans; the corresponding numbers for public-sector
+plan enrollees are 9 percent and 38 percent. HMOs receive a greater
+share of enrollment among private-sector employees in small firms
+than among other private or public employees, because many small
+employers limit choice to a single HMO.18
+Managed competition. The federal government has led the way
+in adopting managed competition principles. In general, the federal
+government's contribution policy is to pay a fixed-dollar contribu-
+tion to any plan to which the enrollee subscribes, thus leaving the
+employee with the full cost of choosing a more expensive plan (Ex-
+hibit 4).19 Among state and local government health plan enrollees,
+42 percent receive an equal employer contribution regardless of the
+plan selected. In contrast, only 25 percent of private-sector health
+plan enrollees offered a choice of plans pay the full cost of choosing
+a more expensive plan.
+Information on quality. All federal workers have access to com-
+parative information on the quality of their health plan choices (Ex-
+hibit 4). However, provision of this information is not prevalent for
+other workers. Only about one-third of plan enrollees in large pri-
+vate firms or in state and local government receive information to
+help them evaluate the quality of their health plan options.20
+Premiums. Average total monthly premiums paid for enrollees
+covered by the FEHBP are lower than premiums paid by private
+EXHIBIT 3
+Enrollment In Different Types Of Plans, By Type Of Employer, 1997
+HMO
+POS
+33%
+15
+40%
+8
+26%
+21
+33%
+9
+36%
+4
+33%
+10
+PPO
+Indemnity
+34
+18
+36
+16
+33
+20
+38
+20
+60
+1
+34
+23
+SOURCE: 1997 Robert Wood Johnson Foundation Employer Health Insurance Survey.
+NOTES: HMO is health maintenance organization. POS is point-of-service. PPO is preferred provider organization.
+188 COMPARING
+BENEFITS
+H E A L T H A F F A I R S ~ V o l u m e 1 8 , N u m b e r 6
+D a t a W a t c h
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+employers overall (Exhibit 5). These comparisons are adjusted for
+differences in the scope and breadth of benefits, as well as differ-
+ences in the composition and, therefore, health risk of the popula-
+tions. On the other hand, premiums for private-sector employees do
+not differ greatly from those for state and local government employ-
+ees. These conclusions apply both overall and to workers in large
+firms.
+Contribution share. Private employers contribute a higher share
+of the premium for single coverage than does the federal govern-
+ment, but they contribute a smaller share than state and local gov-
+ernments do. As noted earlier, these patterns mirror differences in
+participation rates among eligible workers, which are lowest for
+federal employees and highest for state and local employees. This
+suggests that workers' decisions to enroll are related to the amount
+the employer contributes to the coverage.
+The picture differs when we look at contribution rates for family
+coverage. Private employers and state and local governments con-
+EXHIBIT 4
+Use Of Financial Incentives And Provision Of Comparative Quality Information,
+By Type Of Employer, 1997
+Enrollees with a fixed-dollar contribution
+Enrollees provided with comparative
+quality information
+25%
+­a
+28%
+­a
+23%
+30
+52%
+51
+100%
+100
+42%
+36
+SOURCE: 1997 Robert Wood Johnson Foundation Employer Health Insurance Survey.
+NOTE: Data are limited to employers offering a choice of plans.
+a Not asked of private employers with fewer than 500 employees.
+EXHIBIT 5
+Premiums, Employer Contributions, And Benefits For Health Plan Enrollees,
+By Type Of Employer, 1997
+Adjusted total monthly premiuma
+Single coverage
+Family coverage
+$184
+464
+$176
+435
+$192
+488
+$187
+450
+$160
+384
+$191
+460
+Employer contribution share
+Single coverage
+Family coverage
+85%
+70
+86%
+67
+84%
+72
+93%
+78
+81%
+78
+95%
+78
+Employer contribution level
+Single coverage
+Family coverage
+$158
+325
+$149
+291
+$165
+355
+$182
+362
+$140
+310
+$188
+370
+SOURCE: 1997 Robert Wood Johnson Foundation Employer Health Insurance Survey.
+a Adjusted total monthly premium is the monthly premium adjusted for the actuarial value of plan benefits and the distribution of
+workers by age, sex, and hours worked.
+DATAWATCH 189
+H E A L T H A F F A I R S ~ N o v e m b e r / D e c e m b e r 1 9 9 9
+C O M P A R I N G B E N E F I T S
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+tribute a smaller proportion of the cost of dependent coverage than
+for employee coverage. As a result, these employers' contribution
+shares for family coverage are lower than their contributions for
+single coverage. The federal government contribution for family cov-
+erage (78 percent), however, is similar to that for employee-only
+coverage (81 percent). Moreover, the share of the family premium
+paid by the federal government is higher than that paid by private
+employers or state governments.21
+The relative contribution to dependent coverage appears to be
+related to employees' decisions to elect family coverage. Among fed-
+eral enrollees, who receive similar contribution rates for workers
+and dependents, 65 percent elect family coverage (not shown). In
+contrast, only about half of enrollees in private employers' plans or
+in state and local government plans do so.
+Contribution level. The dollar amount that employers contrib-
+ute to the health insurance plan is the direct monetary value of the
+health insurance component of the worker's compensation pack-
+age.22 This dollar contribution is lowest for federal workers and
+highest for employees in state and local governments.
+Discussion
+The federal government continues to hold a leadership position
+among employers in adopting managed competition principles.23 It
+offers a wide array of choices to its eligible employees, providing
+them with financial incentives to shop for low-cost plans and com-
+parative information to assist them in their decisions. State and local
+government employers fall somewhere in the middle. The majority
+of their workers are offered a choice of both plans and plan types. On
+the other hand, strong financial incentives and the provision of in-
+formation for informed choice are not as pervasive among these
+employers as in the federal program. In contrast to the public sector,
+most private employers--even larger ones--have not begun using
+best practices of health insurance purchasing.
+We offer a more positive spin than others have offered in compar-
+ing the health insurance benefits of federal versus private workers.
+Although the federal government makes lower direct payments for
+health insurance on behalf of its enrollees, the gap is much smaller
+than previously believed. We estimate that annual federal health
+benefit payments fall about $200 per enrollee short of those for all
+"The federal government leads all other employers in using best
+practices of health insurance purchasing."
+190 COMPARING
+BENEFITS
+H E A L T H A F F A I R S ~ V o l u m e 1 8 , N u m b e r 6
+D a t a W a t c h
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+private-sector enrollees, lower than the roughly $450­$630 gap re-
+cently reported by the CBO.24 Moreover, several other factors work
+in the direction of offsetting this shortfall. Eligibility for health in-
+surance benefits is more likely to be a part of the compensation
+package for federal workers than for private workers.25 Once eligi-
+ble, federal workers have greater opportunity to choose a plan and a
+type of plan. We expect that workers value this range of choice.
+Finally, part of the reason for the lesser federal contribution amount
+apparently derives from the better purchasing power of the federal
+government. Overall, FEHBP premiums are lower than private-
+sector premiums, even after we control for differences in benefit
+packages and population characteristics.
+Premiums paid by state and local governments (which are ex-
+empt from ERISA) are similar to those paid by private-sector em-
+ployers. This appears to contrast with the hypothesis offered by
+opponents of extending litigation rights, who argue that it will lead
+to higher costs. However, we are not able to control for a number of
+factors that might affect these comparisons, such as differences in
+purchasing power or the breadth of provider panels. Our adjust-
+ments for risk also may be incomplete and mask true premium dif-
+ferences. Moreover, the relatively equal levels of premiums we ob-
+serve may reflect the now limited right to sue employers and health
+plans among enrollees across all sectors. If patients' right to sue were
+extended to all employees in the future, costlier behavior among
+providers and plans might be induced.26
+This research was supported by Grants no. 028561 and no. 031565 from the Robert
+Wood Johnson Foundation (RWJF) and by Contract no. J-9-P-7-0045 from the Pen-
+sion and Welfare Benefits Administration, U.S. Department of Labor (DOL). Any
+views expressed herein are solely those of the authors, and no endorsement by the
+RWJF, the DOL, or RAND is intended or should be inferred. The authors thank
+LindaAndrewsandRoaldEullerfortheireffortsinpreparingthesurveydatafileson
+which this paper is based.
+NOTES
+1. A.C. Enthoven, "Consumer-Choice Health Plan (Second of Two Parts)," New
+England Journal of Medicine (30 March 1978): 709­720; A.C. Enthoven, "The His-
+tory and Principles of Managed Competition," Health Affairs (Supplement
+1993): 24­48; W. Francis, "A Health Care Program Run by the Federal Govern-
+ment That Works," American Enterprise (July/August 1993): 50­61; E.W. Hoy,
+E.K. Wicks, and R.A. Forland, "A Guide to Facilitating Consumer Choice,"
+Health Affairs (Winter 1996): 9­30; and M.L. Maciejewski, B.E. Dowd, and R.
+Feldman, "How Do States Buy Health Insurance for Their Own Employees?"
+Managed Care Quarterly (Summer 1997): 11­19.
+2. T. Bodenheimer and K. Sullivan, "How Large Employers Are Shaping the
+Health Care Marketplace (First of Two Parts)," New England Journal of Medicine
+(2 April 1998): 1003­1007; T.C. Buchmueller, "Does a Fixed-Dollar Premium
+DATAWATCH 191
+H E A L T H A F F A I R S ~ N o v e m b e r / D e c e m b e r 1 9 9 9
+C O M P A R I N G B E N E F I T S
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+Contribution Lower Spending?" Health Affairs (November/December 1998):
+228­235; D.M. Cutler and S. Reber, "Paying for Health Insurance: The Trade-
+Off between Competition and Adverse Selection," Quarterly Journalof Economics
+(May 1998): 433­466; H. Darling, "Employers and Managed Care: What Are
+the Early Returns?" Health Affairs (Winter 1991): 147­160; H. Darling, "Market
+Reform: Large Corporations Lead the Way," Health Affairs (Spring 1995):
+122­124; Enthoven, "The History and Principles;" Hoy et al., "A Guide to
+Facilitating Consumer Choice;" and J. Maxwell et al., "Managed Competition
+in Practice: `Value Purchasing' by Fourteen Employers," Health Affairs (May/
+June 1998): 216­226.
+3. See, for example, P. Peterson, Facing Up: How to Rescue the Economy from Crushing
+Debt and Restore the American Dream (New York: Simon and Schuster, 1993),
+103­104, under the subheading referring to federal employees' "Benefits Bo-
+nanza."
+4. B. Braden and S. Hyland, "Cost of Employee Compensation in Public and
+Private Sectors," Monthly Labor Review (May 1993): 14­21; and M. Miller, "The
+Public-Private Pay Debate: What Do the Data Show?" Monthly Labor Review
+(May 1996): 18­29.
+5. Braden and Hyland, "Cost of Employee Compensation;" A.C. Foster, "Public
+and Private Sector Defined Benefit Pensions: A Comparison," Compensation and
+Working Conditions (Summer 1997): 37­43; Miller, "The Public-Private Pay De-
+bate;" and W. Wiatrowski, "On the Disparity between Private and Public
+Pensions," Monthly LaborReview (April 1994): 3­9.
+6. Congressional Budget Office, Comparing Federal Employee Benefits with Those in the
+Private Sector (Washington: CBO, August 1998); and Congressional Research
+Service, Federal Civil Service Retirement: Comparing the Generosity of Federal and
+Private-Sector Retirement Systems, CRS Report for Congress no. 95-687 EPW
+(Washington: CRS, 5 June 1995).
+7. CBO, Comparing Federal Employee Benefits. Absent nationally representative data
+on private benefits, the values for private-sectoremployees were based on data
+characterizing large companies from an employee benefit consulting firm con-
+venience sample.
+8. Overall, cost per labor hour for health insurance is higher in these govern-
+ments, but this is largely owing to a larger share of all employees' being offered
+and participating in health plans, as well as a somewhat higher percentage of
+covered state and local employees' having fully paid benefits. See Braden and
+Hyland, "Cost of Employee Compensation;" and A.C. Foster, "Brief: Employee
+Benefits in the United States, 1993­94," Compensation and Working Conditions
+(Spring 1997): 46­50. We did not find relative values of premiums for state
+and local enrollees in the literature.
+9. California HealthPolicy Roundtable, HealthPlanLiability (Berkeley, Calif.: Cen-
+ter for Health and Public Policy Studies, University of California, June 1999);
+U.S. General Accounting Office, Employer-Based Health Plans: Issues, Trends, and
+Challenges Posed by ERISA, GAO/HEHS-95-167 (Washington: GAO, July 1995);
+and S. Hunt, J. Saari, and K. Traw, Impact of Potential Changes to ERISA: Litigation
+and Appeal Experience of CalPERS, Other LargePublicEmployers, and a Large California
+HealthPlan (Menlo Park, Calif.: Henry J. Kaiser Family Foundation, June 1998).
+10. California Health Policy Roundtable, Health Plan Liability; and Hunt et al.,
+Impact of Potential Changesto ERISA.
+11. S.H. Long and M.S. Marquis, "Stability and Variation in Employment-Based
+Health Insurance Coverage, 1993­1997," Health Affairs (November/December
+1999): 133­139; and M.S. Marquis and S.H. Long, "Trends in Managed Care and
+Managed Competition, 1993­1997," HealthAffairs (November/December 1999):
+75­88.
+192 COMPARING
+BENEFITS
+H E A L T H A F F A I R S ~ V o l u m e 1 8 , N u m b e r 6
+D a t a W a t c h
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+12. For more details of these methods, see 1997EmployerHealthInsuranceSurvey:Final
+Methodology Report (Research Triangle Park, N.C.: Research Triangle Institute,
+1998).
+13. The weighted samples represent employees in all private employment estab-
+lishments that have at least one employee and in all substate government
+units. Self-employed persons with no employees are excluded.
+14. Long and Marquis, "Stability and Variation;" and Marquis and Long, "Trends
+in Managed Care."
+15. Specifically, we regressed reported premiums on the actuarial value of the plan
+and employee characteristics. We then measured the adjusted premium as the
+observed premium for a plan minus the product of the regression coefficients
+and the vector of differences between the quantity measures for the plan and
+the average value of the quantity measures for all plans. Equivalently, the
+adjusted premium is the predicted premium for a plan with average charac-
+teristics plus the residual from the regression equation for the specific plan in
+question.
+16. Long and Marquis, "Stability and Variation."
+17. Marquis and Long, "Trends in Managed Care."
+18. Ibid.
+19. In practice, the federal government pays a fixed-dollar amount not to exceed
+75 percent of the plan cost; hence, there is some partial government subsidy of
+the difference between the lowest-price and mid-price plans. For all other
+employers, our measure of incentives is based on a self-reported contribution
+policy.
+20. Federal workers are provided results of satisfaction surveys. Among both
+private and state and local workers provided information, about 40 percent
+receive satisfaction survey results, 10 percent receive outcome measures such
+as Health Plan Employer Data and Information Set (HEDIS) measures, and 50
+percent receive both types of information.
+21. The employer shares for family coverage in state and local governments are 75
+percent and 79 percent, respectively (not shown).
+22. However, having a choice of plans, the scope and breadth of benefits available,
+and the exercise of employer's purchasing power all may have value to the
+employee that we are unable to measure directly.
+23. This is not to say that the FEHBP does not have its critics. See A.C. Enthoven,
+"Effective Management of Competition in the FEHBP," Health Affairs (Fall
+1989): 33­50.
+24. Much of the difference in the estimates can be explained by the fact that the
+CBO used information for an unrepresentative sample of very large employers.
+If we had restricted our comparison to all large employers, the estimated gap
+would be about $450.
+25. The likelihood is similar if the contrast is limited to workers in large private
+firms only.
+26. California Health Policy Roundtable, Health Plan Liability; and Hunt et al.,
+Impact of PotentialChanges to ERISA.
+DATAWATCH 193
+H E A L T H A F F A I R S ~ N o v e m b e r / D e c e m b e r 1 9 9 9
+C O M P A R I N G B E N E F I T S
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+

@@ -1,0 +1,624 @@
+Research Note
+Preliminary study on the
+mechanism of oridonin-
+induced apoptosis in human
+squamous cell oesophageal
+carcinoma cell line EC9706
+Jun-bao Liu1 and Jing-yu Yue2,3
+Abstract
+Objective: To study the apoptosis-inducing effect of the Chinese medicine oridonin in the human
+oesophageal squamous cell carcinoma cell line EC9706, in vitro.
+Methods: The effect of oridonin on cell proliferation was studied using the colorimetric 3-(4,5-
+dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay. Effects on the cell cycle and
+apoptosis were studied by flow cytometry; effects on intracellular Ca2þ concentration were
+studied by measuring the fluorescence intensity of a fluorescent Ca2þ probe by laser scanning
+confocal microscopy.
+Results: The EC9706 cell-proliferation rate decreased with time and oridonin concentration
+(10­40 mmol/l). The number of cells in G0
+and G1
+phases increased significantly following exposure
+to oridonin for 48 and 72 h respectively, and oridonin was shown to be most effective at inducing
+apoptosis in EC9706 cells at 40 mmol/l. Compared with the control group, all concentrations
+of oridonin tested (10­40 mmol/l) significantly increased the Ca2þ fluorescence intensity of
+EC9706 cells.
+Conclusions: Oridonin was shown to inhibit proliferation and induce apoptosis in the human
+oesophageal squamous cell carcinoma cell line EC9706, in vitro. These data provide preliminary
+experimental evidence for the anticancer effects of oridonin, which is as a traditional Chinese
+medicine used to treat various cancers, including oesophageal squamous cell carcinoma. Further
+studies are required to elucidate the mode of action.
+Journal of International Medical Research
+2014, Vol. 42(4) 984­992
+! The Author(s) 2014
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0300060513507389
+imr.sagepub.com
+1Department of Integrated Chinese and Western
+Medicine, First Clinical Hospital of Nanjing University of
+Chinese Medicine, Nanjing, Jiangsu, China
+2Department of Integrated Chinese and Western
+Medicine, People's Hospital of Zhengzhou University,
+Zhengzhou, Henan, China
+3Experimental Centre, First Teaching Hospital of Henan,
+Chinese Medicine University, Zhengzhou, Henan, China
+Corresponding author:
+Jing-yu Yue, Department of Internal Medicine, People's
+Hospital of Henan Province, Zhengzhou 225000, Henan,
+China.
+Email: zhongyi450003@163.com
+Creative Commons CC-BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial
+3.0 License (http://www.creativecommons.org/licenses/by-nc/3.0/) which permits non-commercial use, reproduction and
+distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access page
+(http://www.uk.sagepub.com/aboutus/openaccess.htm).
+Keywords
+Apoptosis, EC9706 cells, oesophageal carcinoma, oridonin
+Date received: 21 August 2013; accepted: 10 September 2013
+Introduction
+Oesophageal carcinoma is a common malig-
+nant tumour of the digestive system; world-
+wide there are 450 000 new cases annually
+and the fatality rate ranks sixth among
+malignant neoplasms.1 In Henan Province,
+China, the areas with highest oesophageal
+carcinoma incidence and mortality rates are
+Linzhou, Anyang and Huixian.2 Traditional
+Chinese medicine has unique advantages in
+the treatment of oesophageal carcinoma,
+such as inhibition of carcinoma growth,
+slowing of progression through the clinical
+stages, prolonging patient survival and
+improving health-related quality-of-life.3
+Oridonin is a tetracyclic diterpenoid com-
+pound based on the kaurene skeleton,
+extracted from the herb Rabdosia rubescens4
+and developed for medical use by Chinese
+researchers.
+The present study aimed to provide an
+experimental basis for the clinical treatment
+of oesophageal carcinoma with oridonin, by
+investigating its apoptosis-inducing effect on
+the oesophageal squamous cell carcinoma
+cell line EC9706 in vitro, and exploring the
+mechanism of this effect.
+Materials and methods
+Drug and reagents
+The present study included the following:
+EC9706 cells (Biological Engineering
+Technology Research Centre of Henan
+Province; Zhenghou City, Henan, China);
+oridonin with 98% purity (Boxing Biotech-
+nology, Zhengzhou City, Henan, China);
+trypsin/ethylenediaminetetra-acetic acid
+(EDTA), 3-(4,5-dimethylthiazol-2-yl)-2,5-
+diphenyltetrazolium bromide (MTT)
+and Dulbecco's modified Eagle's medium
+(DMEM) (Beijing Solarbio, Beijing, China);
+RPMI 1640 medium (Beijing Tianyi Science
+company, Beijing, China); mycoplasma-free
+newborn bovine serum (Hangzhou Tian-
+hang Biotechnology, Hangzhou, China);
+5-bromo-20-deoxyuridine (BrdU) Cell Pro-
+liferation Assay Kit for flow cytometry
+(Nanjing KeyGen Biotechnology Co. Ltd.,
+Nanjing, China); annexin-V fluorescein iso-
+thiocyanate (FITC) apoptosis detection kit
+(KGA108; Biosynthesis Biotechnology, Bei-
+jing, China); calcium fluorescence probe
+fluo-3/acetoxymethyl (AM) (Biotium, Hay-
+ward, CA, USA); chaotropic agent F-127
+(Biotium).
+To prepare calcium-free Tyrode's solu-
+tion, 4.0 g NaCl, 0.1 g KCl, 0.5 g NaHCO3
+,
+0.07 g Na2
+HPO4
+Á12H2
+O, 0.105 g
+MgCl2
+Á6H2
+O and 0.5 g glucose were dis-
+solved in 400 ml ultrapure water and the pH
+was adjusted to 7.4 at a constant volume of
+500 ml; the solution was sterilized by filtra-
+tion with a 0.22 -mm porosity membrane,
+and stored at 4C until use.
+Experimental groups
+Each well in the oridonin groups contained
+EC9706 cells, culture medium (DMEM with
+10% newborn bovine serum) and oridonin
+at final concentrations of 10, 20 or 40 mmol/l.
+Blank control wells contained EC9706 cells
+and culture medium (DMEM with 10%
+newborn bovine serum).
+Cell culture
+The EC9706 cells (provided by Henan
+Biology Engineering Technology Research
+Centre) were routinely cultured in DMEM
+with 10% mycoplasma-free newborn bovine
+serum, and incubated at 37C/5% CO2
+with
+Liu and Yue 985
+95% relative humidity. Subconfluent cells
+were passaged every 2­3 days by incubating
+with 0.2% trypsin/EDTA for 12 min at
+37C. Cells were routinely seeded at 5 Â 104
+cells/ml (16 ml into a 75 cm2 culture flask)
+and the culture medium was changed on
+alternate days.
+MTT proliferation assay
+The EC9706 cells in logarithmic phase were
+routinely digested using 0.2% trypsin/EDTA
+(12 min at 37C) and prepared as single-cell
+suspensions containing 50 000 cells/ml. Each
+well of a 96-well plate was seeded with 200 ml
+of the cell suspension (1 Â 104 cells/well), and
+the cells were incubated at 37C/5% CO2
+for
+24 h. The culture medium was then replaced
+with 200 ml of culture medium containing
+oridonin at 10, 20 or 40 mmol/l, or blank
+control medium, with five replicates for each
+condition. All 96-well plates were incubated
+at 37C/5% CO2
+for 24, 48, 72 or 96 h after
+which the culture medium was discarded and
+replaced with 180 ml of RPMI 1640 medium
+and 20 ml of MTT solution. Following incu-
+bation at 37C/5% CO2
+for a further 4 h, the
+supernatant was discarded, dimethyl sulph-
+oxide (DMSO) was added at 150 ml/well, and
+the plates were shaken for 10 min on a table
+concentrator. The optical density (OD) of
+each well was determined with a microplate
+reader (Lifecare Medical Equipments.,
+Ningbo, Zhejiang, China) set at 490 nm
+wavelength. The rate of inhibition of prolif-
+eration was calculated using the following
+formula: inhibition rate (%) ¼ (OD of blank
+control group À OD of drug test group)/OD
+of blank control group Â 100.5 Tests were
+repeated three times for each group.
+Morphological analyses
+Suspensions of EC9706 cells in logarithmic
+phase were seeded into 25 cm2 culture flasks
+(5 ml, 1 Â 108 cells/flask) in DMEM with
+10% newborn bovine serum and incubated
+for 24 h at 37C/5% CO2
+, to allow cells to
+adhere. The medium was then replaced with
+5 ml DMEM with 10% newborn bovine
+serum (blank control) or complete medium
+(DMEM with 10% newborn bovine serum)
+containing oridonin at 10, 20 or 40 mmol/l
+final concentration and the cells were incu-
+bated for 48 h at 37C/5% CO2
+. Cells in
+logarithmic growth were observed for mor-
+phological characteristics using an inverted
+optical microscope (Olympus 11389-210;
+Olympus Corporation, Tokyo, Japan).
+Flow cytometry measurements of cell cycle
+and apoptosis
+Suspensions of EC9706 cells in logarithmic
+phase were seeded into 25 cm2 culture flasks
+(5 ml, 5 Â 104 cells/ml) in DMEM with 10%
+newborn bovine serum and incubated for
+24 h at 37C/5% CO2
+, to allow cells to
+adhere. The medium was then replaced
+with 5 ml DMEM with 10% newborn
+bovine serum (blank control) or medium
+(DMEM with 10% newborn bovine serum)
+containing oridonin at 10, 20 or 40 mmol/l
+final concentration. After incubation for 48
+or 72 h at 37C/5% CO2
+, the cells were
+digested with 0.2% trypsin/EDTA (12 min
+at 37C), washed twice with 0.2 mol/l phos-
+phate-buffered saline (PBS, pH 7.4), centri-
+fuged for 5 min at 372 g, and resuspended to
+a concentration of 1 Â 106 cells/ml. Within
+1 h of resuspending, the cell-cycle stage and
+presence of apoptosis were evaluated by flow
+cytometry (EPICSÕ AltraTM flow cyt-
+ometer; Beckman Coulter, Brea, CA, USA)
+according to the instructions provided with
+the BrdU cell proliferation assay kit and
+annexin V-FITC apoptosis detection kit,
+respectively.
+Confocal laser scanning microscopy for
+detection of intracellular free calcium
+The calcium fluorescence probe fluo-3/AM
+was prepared as a 5-mmol/l solution in
+986 Journal of International Medical Research 42(4)
+DMSO, and the chaotropic agent F-127
+(Biotium) was dissolved in DMSO to a
+final mass-to-volume ratio of 20%. The
+two prepared solutions (200 ml of each)
+were mixed with 12.5 ml RPMI 1640 and
+stored in the dark at À20C prior to use.
+Suspensions of EC9706 cells in logarithmic
+phase were seeded into 96-well plates
+(5 Â 103 cells/well) and incubated for 24 h
+at 37C/5% CO2
+to allow cells to adhere.
+The medium was then replaced with 200 ml
+DMEM containing 10% newborn bovine
+serum (blank control) or medium (DMEM
+with 10% newborn bovine serum) contain-
+ing oridonin at 10, 20 or 40 mmol/l final
+concentration, and the cells were incubated
+for 2 h at 37C/5% CO2
+. At the end of the
+incubation period, cells were washed three
+times with 1 ml of calcium-free Tyrode's
+solution. The fluo-3/AM and F-127 solution
+(200 ml) was then added to the central circu-
+lar groove of the 96-well plate and the
+solution was incubated for 30 min in dark-
+ness at 37C to allow absorption of the
+loading solution.
+Following three washes with calcium-free
+Tyrode's solution and adding 200 ml cal-
+cium-free Tyrode's solution to the groove of
+each well, the intracellular free Ca2þ con-
+centration ([Ca2þ]i
+) was determined by con-
+focal laser scanning microscopy (Zeiss
+Optics Instruments [Shanghai] International
+Trade Co., Shanghai, China). EC9706 cells
+loaded with fluo-3/AM were placed on the
+microscope's loading platform and the focus
+was adjusted to make the image as clear as
+possible. Cells with a structured rather than
+irregular shape were selected for observa-
+tion. The specimen was first pre-scanned
+with a low-speed argon ion laser, then
+properly scanned when a clear view had
+been obtained. The same parameters were
+used for all scans. Following the technique
+described previously,6 six to eight views in
+all experimental groups were selected, each
+view including five cells. The cells were
+subjected to fluorescence intensity analysis
+and curves showing the change in fluores-
+cence intensity of the Ca2þ indicator over
+time were generated. FV10-ASW Viewer
+software, version 1.6 (Zeiss Optics Instru-
+ments [Shanghai] International Trade Co.)
+was used to calculate the average fluores-
+cence intensity value (arbitrary units); the
+greater the fluorescence intensity, the higher
+the [Ca2þ]i
+.
+Statistical analyses
+All experimental data were analysed with
+SPSSÕ software, version 18.0 (SPSSÕ,
+Chicago, IL, USA). Data were expressed
+as mean Æ SD, and analysis of variance was
+used to compare intra- and intergroup dif-
+ferences. A P-value <0.05 was considered
+statistically significant.
+Results
+Cell proliferation and morphology
+Oridonin inhibited the proliferation of
+EC9706 cells. Observation of the cells
+under an inverted microscope showed that
+cells exposed to oridonin for 48 h had
+changed from a shuttle-like to an irregular
+form, and that cell density was low with
+increased intercellular spaces. Some cells
+had become rounded, detached floating
+cells were observed, and some cells were
+vacuolated. Part of the cell membrane had
+contracted and had a foamy appearance, a
+small number of cells showed a pyknotic
+state with a translucent round or oval shape
+and individual cells were small (Figure 1).
+Incubation with oridonin for 24 h was
+shown to inhibit the rate of EC9706 cell
+proliferation by 19.45 Æ 2.34%, 41.38 Æ
+3.32% and 78.83 Æ 4.99% (10 mmol/l,
+20 mmol/l and 40 mmol/l oridonin), respect-
+ively. Differences in rates of inhibition were
+statistically significant compared with the
+control group at all oridonin concentrations
+(P ¼ 0.0001). In terms of antiproliferation
+effect, the IC50
+for oridonin incubated with
+Liu and Yue 987
+EC9706 cells for 48 h was 21.48 Æ 1.43 mmol/
+l. Inhibition of proliferation was observed
+in EC9706 cells incubated with oridonin
+for 24, 48, 72 and 96 h at 10, 20 and
+40 mmol/l (Table 1).
+Cell-cycle phases and apoptosis
+Following 48 h of exposure to oridonin, the
+percentage of cells in G1
+/G0
+phase was
+significantly higher than in the control
+group for all oridonin concentrations
+(P < 0.05; Table 2), and the percentage of
+cells in G1
+/G0
+phase was significantly higher
+in the 40 mmol/l oridonin group than in the
+20 and 10 mmol/l oridonin groups (P < 0.05).
+The percentage of cells in S phase was
+significantly lower in the 40 mmol/l oridonin
+group than in the control group and 10
+and 20 mmol/l oridonin groups (P < 0.05;
+Figure 2 and Table 2). The percentage of
+cells in G2
+/M phase was significantly lower
+in the 40 mmol/l oridonin group than in the
+control group (P < 0.05; Table 2).
+Following 72 h of exposure to oridonin,
+the percentage of cells in G1/
+G0
+phase was
+significantly higher, and the percentage of
+cells in the S and G2
+phases were signifi-
+cantly lower, in the 40 and 20 mmol/l
+oridonin groups than in the control group
+(P < 0.001); the difference was greatest in the
+40 mmol/l oridonin group.
+The apoptosis rate in all oridonin groups
+was significantly higher than in the control
+group at both 48 h (Figure 3) and 72 h (data
+not shown) (P < 0.001), and the apoptosis
+rate in the 40 mmol/l oridonin group was
+significantly higher than in the 10 and
+20 mmol/l oridonin groups (P < 0.05).
+Figure 1. Representative photomicrographs showing the effects of oridonin on the morphology and
+proliferation of human oesophageal squamous cell carcinoma EC9706 cells following 48 h incubation at 37C
+in: (a) blank control Dulbecco's modified Eagle's medium with 10% newborn bovine serum; (b) oridonin at
+10 mmol/l; (c) oridonin at 20 mmol/l; (d) oridonin at 40 mmol/l. Original magnification, Â200. The colour
+version of this figure is available at: http://imr.sagepub.com.
+988 Journal of International Medical Research 42(4)
+Intracellular free calcium
+From the beginning of the scanning period,
+the fluorescence intensity of the cultures
+incubated with oridonin increased at a sig-
+nificantly higher rate than the control group
+(P < 0.05; Table 3). Intracellular free cal-
+cium fluorescence intensities were signifi-
+cantly higher in all groups exposed to
+oridonin for 2 h compared with the control
+group (P < 0.05; Table 3).
+Discussion
+The aetiology and underlying molecular
+mechanisms of oesophageal carcinoma
+onset and progression remain unknown.
+Principle treatment strategies include
+surgery, radiotherapy, chemotherapy and
+biotherapy, and there are currently no
+effective preventive measures and no specific
+diagnostic index or methods. The morbidity
+and fatality rates, therefore, cannot be
+effectively controlled. Traditional Chinese
+medicine has few toxic and adverse effects in
+the treatment of oesophageal carcinoma,
+whether in single use or combined with
+radiotherapy or chemotherapy.7 In the
+treatment of oesophageal carcinoma, certain
+forms of traditional Chinese medicine can
+improve dysphagia, relieve cancer pain,
+enhance immunity, reduce tumour volume,
+improve the general state of the body,
+Table 1. Inhibition of proliferation of human oesophageal squamous cell carcinoma
+EC9706 cells incubated with oridonin at 10, 20 or 40 mmol/l concentrations for 24, 48, 72
+and 96 h at 37C, measured using the MTT assay.
+Oridonin
+concentration,
+mmol/l
+Incubation time, h
+24 48 72 96
+0 (Control) 0 0 0 0
+10 19.45 Æ 2.34* 22.14 Æ 8.65* 18.52 Æ 5.11* 31.26 Æ 6.21*
+20 41.38 Æ 3.32* 32.37 Æ 5.67* 36.01 Æ 4.70* 48.39 Æ 2.29*
+40 78.83 Æ 4.99*,y 51.17 Æ 3.66* 67.41 Æ 2.13*,y 82.04 Æ 0.92*,y
+Data presented as % inhibition of proliferation Æ SD.
+*P < 0.05 compared with control (analysis of variance).
+yP < 0.05 compared with 10 mmol/l or 20 mmol/l oridonin (analysis of variance).
+MTT, 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide.
+Table 2. Effect of oridonin on the cell-cycle phases (%) of human oesophageal squamous
+cell carcinoma EC9706 cells following 48 h incubation at 37C.
+Oridonin
+concentration,
+mmol/l
+Cell-cycle phase, %
+G1
+/G0
+S G2
+/M
+0 (Control) 51.62 Æ 0.41 37.86 Æ 0.61 10.76 Æ 0.76
+10 61.77 Æ 4.19*,y 32.73 Æ 2.21y 5.51 Æ 3.04
+20 61.90 Æ 2.93*,y 32.21 Æ 1.34y 5.89 Æ 1.99y
+40 71.40 Æ 3.65*,y 24.16 Æ 1.49* 4.44 Æ 1.48*
+Data presented as mean Æ SD.
+*P < 0.05 compared with control.
+yP < 0.05 compared with 40 mmol/l oridonin.
+Liu and Yue 989
+decrease relapses and metastases, increase
+the health-related quality-of-life and 5-year
+survival rate, reduce toxins and enhance the
+effects of radiotherapy and chemotherapy.7,8
+Oridonin has inhibitory effects on various
+malignant tumour cells,9­11 and its thera-
+peutic effect on solid tumours has been
+widely used clinically, especially in the treat-
+ment of oesophageal carcinoma7 and gastric
+tumours (author's personal communica-
+tion), with notable clinical success. The
+in vitro antitumour effects of oridonin have
+been shown against cell lines derived from
+cancers such as those of the lung, prostate
+and breast.10 Oridonin has been shown to
+induce human cancer-cell apoptosis, with
+mitochondrial hyperplasia and swelling
+observed in the early stage of apoptosis.10,12
+The herb Rabdosia rubescens, from which
+oridonin is extracted, has been shown to
+inhibit the synthesis of DNA and RNA,13,14
+its target being DNA polymerase.15 The
+mechanism of antitumour activity may
+involve an effect on apoptosis through
+actions such as decreasing the expression
+level of B-cell chronic lymphocytic leukae-
+mia/lymphoma 2 (BCL-2) and activation of
+the caspase pathway,16,17 in which telomer-
+ase is closely involed,18 but also by increas-
+ing the phagocytosis of apoptotic cells.13
+Oridonin is also thought to affect intracel-
+lular signal transduction.19
+Oridonin at concentrations of 10­
+40 mmol/l induced apoptosis of EC9706
+Figure 2. Representative flow cytometry plots showing the effect of oridonin on the human oesophageal
+squamous cell carcinoma EC9706 cell cycle following . 48 h incubation at 37C. (a) Control medium; oridonin
+at (b) 40 mmol/l, (c) 20 mmol/l and (d) and 10 mmol/l concentrations. The colour version of this figure is
+available at: http://imr.sagepub.com.
+990 Journal of International Medical Research 42(4)
+cells in vitro, with peak hypodiploid detec-
+tion observed following 48 h of exposure,
+and a concentration-dependent proapopto-
+tic effect. These results are consistent with
+the apoptosis-inducing effect of oridonin
+shown in other tumour cells.9,16
+In the present study, oridonin inhibited
+the proliferation of oesophageal squamous
+cell carcinoma EC9706 cells in vitro.
+Furthermore, increases in cytoplasmic intra-
+cellular free calcium (measured by laser
+scanning confocal microscopy) were seen
+to correspond with EC9706 cells blocked at
+the G1
+or G2
+/M phases of the cell cycle
+(measured by flow cytometry), in response
+to incubation with oridonin. It may be that
+oridonin inhibits EC9706 cell proliferation
+through interaction with membrane calcium
+transport systems or activation of the apop-
+tosis signal transduction pathway. Further
+studies are required to understand the mech-
+anism by which oridonin inhibits prolifer-
+ation and induces apoptosis in oesophageal
+cancer cells.
+Declaration of conflicting interest
+The authors declare that there are no conflicts of
+interest.
+Figure 3. Representative flow cytometry plots showing the effect of oridonin on apoptosis of human
+oesophageal squamous cell carcinoma EC9706 cells following 48 h incubation at 37C. (a) Control medium;
+oridonin at (b) 40 mmol/l, (c), 20 mmol/l and (d) 40 mmol/l concentrations. The colour version of this figure is
+available at: http://imr.sagepub.com.
+Table 3. Effect of oridonin on intracellular Ca2þ
+fluorescence intensity in human oesophageal squa-
+mous cell carcinoma EC9706 cells following 2 h
+incubation at 37C.
+Oridonin
+concentration,
+mmol/l
+Cell
+population,
+wells
+analysed, n
+Fluorescence
+intensity,
+arbitrary units
+0 (Control) 30 553.83 Æ 133.67
+10 30 2090.241 Æ 296.24*
+20 30 2354.60 Æ 511.78*
+40 30 2680.22 Æ 276.59*
+*P < 0.05 compared with control (analysis of variance).
+Liu and Yue 991
+Funding
+This research was funded under Project 5451 of
+Health Science and Technology of Henan
+Province (Hospital research No. 2011077).
+References
+1. World Health Organization. World cancer
+report 2008. Geneva: WHO, 2008, p.338.
+2. Li-dong W. Molecular mechanism of multi-
+stage evolution on esophageal carcinoma
+canceration. J Xinxiang Med Coll 2007; 24:
+217[In Chinese].
+3. Xie X, Huang X, Li J, et al. Efficacy and
+safety of Huachansu combined with chemo-
+therapy in advanced gastric cancer: a meta-
+analysis. Med Hypotheses 2013; 81: 243­250.
+4. Cui Q, Tashiro S, Onodera S, et al.
+Augmentation of oridonin-induced apop-
+tosis observed with reduced autophagy.
+J Pharmacol Sci 2006; 101: 230­239.
+5. Guo-dong Y. Bcl-2, bax gene and gastric
+carcinoma. Bulletin of Chinese Cancer 2003;
+11: 656­658. [In Chinese].
+6. Kai L, Wang ZF, Shi YL, et al. Opioid
+receptor antagonists increase [Ca2þ]i in rat
+arterial smooth muscle cells in hemorrhagic
+shock. Acta Pharmacol Sin 2004; 25:
+395­400.
+7. Wang R, Cheng P, Qingxia Fan Q, et al.
+Clinical efficacy for the treatment of
+esophageal cancer with rabdosia rubescens
+alone and combining with chemotherapy.
+Life Sci J 2007; 4: 22­25.
+8. Tian X and Liu L. Effect and advantage of
+orally taking Chinese herbal medicine for
+treatment of lung cancer. Zhongguo Zhong
+Yao Za Zhi 2010; 35: 2795­2800. [in Chinese,
+English abstract].
+9. Liu JJ, Wu XY, Peng J, et al.
+Antiproliferation effects of oridonin on
+HL-60 cells. Ann Hematol 2004; 83: 691­695.
+10. Chen JH, Wang SB, Chen DG, et al. The
+inhibitory effect of oridonin on the growth of
+fifteen human cancer cell lines. Chin J Clin
+Oncol 2007; 4: 16­20.
+11. He XJ, Wang HJ, Xia YJ, et al. Empirical
+study of oridonin-induced gastric cancer cells
+MKN45 apoptosis. Zhonghua Wei Chang
+Wai Ke Za Zhi 2009; 12: 607­610.
+[in Chinese, English abstract].
+12. Wang LX, Sun Y, Chen C, et al. Effects and
+mechanism of oridonin on pulmonary
+hypertension induced by chronic hypoxia-
+hypercapnia in rats. Chin Med J (Engl)
+2009; 122: 1380­1387.
+13. Chen SS, Michael A, Butler-manuel SA,
+et al. Advances in the treatment of ovarian
+cancer: a potential role of antiinflammatory
+phytochemicals. Discov Med 2012; 68: 7­17.
+14. Sun KW, Ma YY, Guan TP, et al. Oridonin
+induces apoptosis in gastric cancer through
+Apaf-1, cytochrome c and caspase-3 signal-
+ing pathway. World J Gastroenterol 2012; 18:
+7166­7174.
+15. Yang SL. Effect of oridonin on nonpro-
+grammed DNA synthesis of lung and liver
+primary cell. J Henan Med Coll 2001; 36:
+415­416. [in Chinese].
+16. Ikezoe T, Chen SS, Tong XJ, et al. Oridonin
+induces growth inhibition and apoptosis of a
+variety of human cancer cells. Int J Oncol
+2003; 23: 1187­1193.
+17. Liu JJ, Huang RW, Lin DJ, et al.
+Antiproliferation effects of oridonin on
+HPB-ALL cells and its mechanisms of
+action. Am J Hematol 2006; 81: 86­94.
+18. Gabellini C, Antonelli A, Petrinelli P, et al.
+Telomerase activity, apoptosis and cell cycle
+progression in ataxia telangiectasia lympho-
+cytes expressing TCL 1. Br J Cancer 2003;
+89: 1091­1095.
+19. Li D, Wang L, Cai H, et al. Synthesis and
+biological evaluation of novel furozan-based
+nitric oxide-releasing derivatives of oridonin
+as potential anti-tumor agents. Molecules
+2012; 17: 7556­7568.
+992 Journal of International Medical Research 42(4)
+

@@ -1,0 +1,401 @@
+Journal of the Renin-Angiotensin-
+Aldosterone System
+2015, Vol. 16(4) 851
+­857
+© The Author(s) 2015
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/1470320315588234
+jra.sagepub.com
+Creative Commons CC-BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial
+3.0 License (http://www.creativecommons.org/licenses/by-nc/3.0/) which permits non-commercial use, reproduction and
+distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access page
+(http://www.uk.sagepub.com/aboutus/openaccess.htm).
+Introduction
+Breast cancer is one of the most common malignant tumors
+in women.1 However, the pathogenesis of breast cancer
+remains unclear.2­4 Previous studies have suggested that
+the renin­angiotensin system (RAS) is involved in the
+mechanism of breast cancer.5­7 Also, recently published
+data indicated that angiotensin II, the main biologically
+active peptide of RAS, contributed to breast cancer devel-
+opment and progression.8,9 The peptide hormone angioten-
+sin II is a potent vasoconstrictor that exerts its actions
+through the angiotensin II type 1 receptor (AT1R).
+Angiotensin II receptors are of two types: type 1 (AT1)
+receptor and type 2 (AT2) receptor.10 Receptor binding
+studies provide important information regarding the distri-
+bution of AT1 and AT2 receptors and the sites of action and
+physiological roles of angiotensin.11,12 Polymorphism in
+the AT1R A1166C gene (SNP ID: rs5186) has been widely
+studied and found to be associated with breast cancer.13­15
+Association of angiotensin  type 1
+receptor (A1166C) polymorphism
+with breast cancer risk: An update
+meta-analysis
+Fangguo Chen1, Guiling Chen2, Yan Dou3 and Xinyun Xu4
+Abstract
+Objective: Previous studies on the relationship between angiotensin  type 1 receptor (AT1R) gene (A1166C)
+polymorphism and breast cancer did not reach the same conclusion. In the present study, we aimed to further evaluate
+the relationship between the AT1R gene A1166C polymorphism and breast cancer risk.
+Methods: We selected five case-control studies related to AT1R gene A1166C polymorphism and breast cancer by
+searching PubMed, EMBase, Chinese Biomedical Literature Database, Chinese CNKI, Web of Science, and the Wanfang
+database. We utilized Q-test and I2 test to detect the heterogeneity between each study. A random-effects model (I2 >
+50%; p < 0.10) or a fixed-effects model (I2 < 50%; p > 0.10) was utilized to merge the odds ratio (OR) and 95% confidence
+interval (CI) during the meta- analyses.
+Results: The present study included 972 patients with breast cancer and 1336 cancer-free control subjects. By meta-
+analysis, we found A1166C polymorphism was associated with decreased risk for breast cancer in Caucasian population
+in an additive model (C vs. T: OR = 0.77, 95% CI: 0.62­0.96, p = 0.02). However, we did not find associations in other
+genetic models (AC+CC vs. AA: OR = 0.78, 95% CI: 0.50­1.22, p = 0.28; CC vs. AA+AC: OR = 1.64, 95% CI: 0.94­2.85,
+p = 0.08).
+Conclusion: We concluded that AT1R gene A1166C polymorphism was associated with reduced risk for breast cancer.
+Keywords
+Breast cancer, angiotensin  type 1 receptor, gene polymorphism, meta-analysis
+Date received: 16 December 2014; accepted: 24 March 2015
+1
+Department of Oncology, 88th Hospital of PLA, Tai'an, People's
+Republic of China
+2
+Department of Internal Medicine, Suncun Hospital of Shandong
+Xinwen Mining Group, Xintai, People's Republic of China
+3
+Department of Radiotherapy, Shandong University Affiliated Jinan
+Central Hospital, Ji'nan, People's Republic of China
+4
+Department of General Surgery, Shanghai Chang Zheng Hospital,
+Second Military Medical University, People's Republic of China
+Corresponding author:
+Xinyun Xu, Department of General Surgery, Shanghai Chang Zheng
+Hospital, Second Military Medical University, No.415, Feng Yang Road,
+200003 Shanghai, People's Republic of China.
+Email: xxy3169@163.com
+588234
+JRA0010.1177/1470320315588234Journal of the Renin-Angiotensin-Aldosterone SystemChen et al.
+research-article2015
+Original Article
+852 Journal of the Renin-Angiotensin-Aldosterone System 16(4)
+The AT1R gene is composed of five exons located on chro-
+mosome 3q, where the first four exons encode the
+5-untranslated region (5- UTR). A polymorphism in the
+3-UTR of the AT1R gene leads to the transfer of adenine
+(A) to cytosine (C) base at the 1166 position.16,17 The AT1R
+gene plays an important role in the pathogenesis of breast
+cancer and the cardiovascular system.18,19 Several studies
+have suggested that AT1R A1166C gene polymorphism is
+associated with breast cancer risk and prognosis,13,15,20­22
+while other studies have shown no significant association
+with breast risk.23,24 In 2010, Xi et al. performed a meta-
+analysis and found that AT1R A1166C polymorphisms
+might be implicated in the pathogenesis of breast cancer.25
+However, Xi et al.'s conclusion was limited by the small
+sample size (only two publications included).
+Therefore, we performed an update meta-analysis to
+further clarify the relationship between AT1R A1166C
+polymorphism and breast cancer risk.
+Materials and methods
+Literature identification
+To identify all the articles that reported the association of
+AT1R A1166C polymorphisms with breast cancer risk, we
+conducted a computerized literature search of PubMed,
+EMBase, Chinese Biomedical Literature Database, Chinese
+CNKI, Web of Science, and the Wanfang database using
+the terms "breast cancer (Mesh)," "angiotensin II type 1
+receptor" or "AT1R," "polymorphism" or "SNP," "geno-
+type," or "variation" without any restriction on language or
+publication year. By means of online retrieval and literature
+review, references obtained using the above-mentioned
+databases were reviewed again to ensure that no relevant
+studies were missed.
+All the included studies had to meet the following
+inclusion criteria: (1) independently published case-con-
+trol or cohort studies on the relation between AT1R poly-
+morphism and breast cancer; (2) similar themes and
+methods; (3) the genotype data available. We excluded the
+literature in which the relevant data are not available or
+there is heterogeneity of gene polymorphism in the control
+population.
+Quality assessment and data extraction
+Two reviewers (Fangguo Chen and Guiling Chen) inde-
+pendently evaluated the studies and extracted the data
+using a standard approach according to the above-men-
+tioned inclusion criteria. Discrepancies were resolved
+through discussion. The Cochrane Handbook 5.2 quality
+evaluation criteria were utilized to assess the methodologi-
+cal quality of included studies. Literature that had been
+reported repeatedly or poor-quality literature were
+excluded from the included studies.
+For each study, we extracted the first author's last name,
+year of publication, ethnicity of participants, numbers of
+cases and controls, and frequency of AA, AC, and CC gen-
+otypes. The Hardy­Weinberg equilibrium was assessed
+using the 2 test.
+Statistical analysis
+We performed the meta-analyses utilizing RevMan 5.2
+software. Both Q-test and I2 test were directly utilized to
+examine the heterogeneity between each study. The asso-
+ciation between A1166C polymorphisms of the AT1R gene
+and the risk of breast cancer was estimated by calculating
+pooled odds ratio (OR) and 95% confidence interval (CI).
+The significance of the pooled OR was determined by Z
+test (p < 0.05 was considered statistically significant). A
+random- or fixed-effects model was used to calculate
+pooled effect estimates in the presence (p < 0.10) or
+absence (p > 0.10) of heterogeneity, respectively. Subgroup
+analyses were performed according to ethnicity. Sensitivity
+analysis was performed to evaluate the stability of the
+results by removing one single study from the overall
+pooled analysis each time to check the influence of the
+removed data set to the overall ORs. Publication bias was
+assessed by RevMan 5.2 statistical software to make the
+funnel plot. A P < 0.05 was considered as a significant
+difference.
+Results
+Study identification
+As shown in Figure 1, 48 literature studies were prelimi-
+narily detected; 42 of these were excluded as being obvi-
+ously irrelevant from reading their titles and abstracts.
+Thus, six articles met the inclusion criteria. However, the
+study by Koh et al. was excluded because it examined the
+associations of three AT1R polymorphisms (namely
+A168G, C535T, and T825A) rather than A1166C polymor-
+phism.26 Therefore, five studies with a total of 972 patients
+with breast cancer and 1336 cancer-free control subjects
+were included in this research.15,20­23 Four of these studies
+were performed in a Caucasian population,15,20,22,23 while
+only one study was conducted in a Chinese population.21
+The characteristics of the studies included are shown in
+Table 1.
+Association of A1166C polymorphism and
+breast cancer risk
+The results of meta-analysis of the association between
+breast cancer and AT1R gene polymorphism in five case-
+control studies are shown in Figures 2 and 3. The heteroge-
+neity test of the various studies revealed heterogeneous
+results ((AC+CC) vs. AA: I2 = 85%, p < 0.0001; C allele
+Chen et al. 853
+vs. A allele: I2 = 85%, p < 0.0001); therefore, we used the
+random-effects model in the analysis. However, we did not
+find heterogeneity between each study in a dominant
+model (AA+AC vs. CC: I2 = 44%, p = 0.13); thus we used
+the fixed-model to merge the OR value. In all studies,
+including Caucasian and Asian populations, we did not
+Figure 1. Flow chart of literature identification.
+Table 1. The characteristics of the included studies.
+Author Year Country Ethnicity Genotyping
+methods
+Groups N. H-WE A1166C
+genotypes
+Alleles
+ AA AC CC A C
+Alves Corrêa et al.15 2009 Brazil Caucasian PCR-RFLP case 101 Yes 65 31 5 161 41
+ control 307 157 135 15 449 165
+Ding et al.21 2014 China Asian PCR-RFLP case 606 Yes 504 93 9 1101 111
+ control 633 576 54 3 1206 60
+Fishchuk et al.22 2013 Ukraine Caucasian PCR-RFLP case 131 Yes 72 47 12 191 71
+ control 102 64 24 14 152 52
+Mendizábal-Ruiz et al.20 2010 Mexico Caucasian PCR-RFLP case 64 Yes 44 17 3 105 23
+ control 224 121 83 20 325 123
+Namazi et al.23 2010 Iran Caucasian PCR-RFLP case 70 Yes 40 30 0 110 30
+ control 70 38 28 4 104 36
+854 Journal of the Renin-Angiotensin-Aldosterone System 16(4)
+find an association between A1166C polymorphism and
+breast cancer in any genetic model ((AC+CC) vs. AA: OR
+= 0.97, 95% CI: 0.54­1.72, p = 0.91; (AA+AC) vs. CC:
+OR = 1.24, 95% CI: 0.76­2.01; C allele vs. A allele: OR =
+0.95, 95% CI: 0.58­1.54, P = 0.83; Figure 2). Subgroup
+analysis according to ethnicity suggested that A1166C
+polymorphism was associated with decreased risk for
+breast cancer in Caucasian populations in an additive
+model (C vs. T: OR = 0.77, 95% CI: 0.62­0.96, p = 0.02).
+However, we did not find association in other genetic
+models (AC+CC vs. AA: OR = 0.78, 95% CI: 0.50­1.22;
+CC vs. AA+AC: OR = 1.64, 95% CI: 0.94­2.85) in
+Caucasian populations (Figure 3).
+Publication bias analysis
+The result of Egger's test did not show statistical evidence
+for bias (data not shown). This indicates that there is no
+publication bias, and the result of the study is credible.
+Sensitivity analysis
+We deleted one single study from the overall pooled analy-
+sis each time to check the influence of the removed data set
+to the overall ORs. The pooled ORs and 95% CIs were not
+significantly altered when any part of the study was omit-
+ted, which indicated that any single study had little impact
+on the overall ORs.
+Figure 2. Forest plot of breast cancer risk associated with AT1R polymorphism in total population. The squares and horizontal
+lines correspond to the study-specific OR and 95% CI, respectively. The area of the squares reflects the study-specific weight.
+The diamond represents the pooled results of OR and 95% CI: (a) (AC+CC) vs. AA; (b) CC vs. (AA+AC); (c) C allele vs. A
+allele.
+Chen et al. 855
+Discussion
+In the present study, we performed a meta-analysis to eval-
+uate the association of AT1R gene A1166C polymorphism
+with breast cancer. We found C allele carriers have a lower
+risk for breast cancer in Caucasian populations. This study
+is an update meta-analysis in which the results were differ-
+ent from the previous one.25 Previous studies suggested
+that the RAS plays an important role in the regulation of
+cell proliferation, angiogenesis, and inflammation,27,28
+which indicated that RAS genes might be implicated in the
+carcinogenesis.
+AT1R not only has an important role in the regulation of
+blood pressure and cardiovascular homeostasis,29,30 but
+also influences tumor cell proliferation, migration, angio-
+genesis, and inflammation.31,32 Recently, a SNPs A1166C
+polymorphism was reported to be associated with the risk
+for breast cancer.15,21,22 However, the results were incon-
+sistent between each study.
+One published meta-analysis including only two case-
+control studies showed a significant association between
+AT1R polymorphism and breast cancer risk.25 However,
+there are several studies that had not been included in their
+meta-analysis.
+Figure 3. Forest plot of breast cancer risk associated with AT1R polymorphism in Caucasian population. The squares and
+horizontal lines correspond to the study-specific OR and 95% CI, respectively. The area of the squares reflects the study-specific
+weight. The diamond represents the pooled results of OR and 95% CI: (a) (AC+CC) vs. AA; (b) CC vs. (AA+AC); (c) C allele vs. A
+allele.
+856 Journal of the Renin-Angiotensin-Aldosterone System 16(4)
+In the present study, we included five case-control
+studies to perform a meta-analysis. The results suggested
+that the AT1R 1166C allele is a protective factor for breast
+cancer in Caucasian populations. However, we did not
+find that the 1166CC genotype was associated with
+reduced risk for breast cancer. Since only one study was
+conducted in an Asian population,21 we did not include
+this study in the subgroup analysis. This fact may be a
+limitation of our study.
+In conclusion, the present study suggests that the 1166C
+allele of the AT1R gene is associated with reduced risk for
+breast cancer in Caucasian populations. However, there is
+still a need for further research and screening of etiological
+relations between the functional polymorphism loci of the
+AT1R gene and the susceptibility of breast cancer.
+Conflict of interest
+The authors declare that there are no conflicts of interest.
+Funding
+This research received no specific grant from any funding agency
+in the public, commercial, or not-for-profit sectors.
+Reference
+1. Podkowa N, Komasiska P, Roszak M, et al. Health behav-
+iours among women diagnosed with breast tumours. Pol
+Merkur Lekarski 2014; 37: 153­158.
+2. Travis RC, Reeves GK, Green J, et al. Gene­environment
+interactions in 7610 women with breast cancer: prospective
+evidence from the Million Women Study. Lancet 2010; 375:
+2143­2151
+3. Narod SA Genes, the environment, and breast cancer.
+Lancet 2010; 375: 2123­2124.
+4. Scoccianti C, Lauby-Secretan B, Bello PY, et al. Female
+breast cancer and alcohol consumption: a review of the lit-
+erature. Am J Prev Med 2014; 46(3 Suppl 1): S16­S25.
+5. Deshayes F and Nahmias C. Angiotensin receptors: a new
+role in cancer? Trends Endocrinol Metab 2005; 16: 293­299.
+6. Zhao Y, Wang H, Li X, et al. Ang II-AT1R increases cell
+migration through PI3K/AKT and NF-B pathways in
+breast cancer. J Cell Physiol 2014; 229: 1855­1862.
+7. Du N, Feng J, Hu LJ, et al. Angiotensin II receptor type 1
+blockers suppress the cell proliferation effects of angioten-
+sin II in breast cancer cells by inhibiting AT1R signaling.
+Oncol Rep 2012; 27: 1893­1903.
+8. Chen X, Meng Q, Zhao Y, et al. Angiotensin II type 1 recep-
+tor antagonists inhibit cell proliferation and angiogenesis in
+breast cancer. Cancer Lett 2013; 328: 318­324.
+9. Rodrigues-Ferreira S, Abdelkarim M, Dillenburg-Pilla P, et
+al. Angiotensin II facilitates breast cancer cell migration and
+metastasis. PLoS One 2012; 7: e35667.
+10. Zhu YC, Zhu YZ and Lu N. Role of angiotensin AT1 and
+AT2 receptors in cardiac hypertrophy and cardiac remodel-
+ling. Clin Exp Pharmacol Physiol 2003; 30: 911­918.
+11. De Paepe B, Verstraeten VL, De Potter CR, et al. Growth
+stimulatory angiotensin II type-1 receptor is upregulated in
+breast hyperplasia and in situ carcinoma but not in invasive
+carcinoma. Histochem Cell Biol 2001; 116: 247­254.
+12. Redondo-Müller MA, Stevanovic-Walker M, Barker S, et
+al. Anti-cancer actions of a recombinant antibody (R6313/
+G2) against the angiotensin II AT1 receptor. Endocr Relat
+Cancer 2008; 15: 277­288.
+13. Namazi S, Daneshian A, Mohammadianpanah M, et al. The
+impact of renin-angiotensin system, angiotensin  convert-
+ing enzyme (insertion/deletion), and angiotensin  type 1
+receptor (A1166C) polymorphisms on breast cancer sur-
+vival in Iran. Gene 2013; 532: 125­131.
+14. Vivenza D, Feola M, Garrone O, et al. Role of the renin­
+angiotensin­aldosterone system and the glutathione
+S-transferase Mu, Pi and Theta gene polymorphisms in
+cardiotoxicity after anthracycline chemotherapy for breast
+carcinoma. Int J Biol Markers 2013; 28: e336­e347.
+15. Alves Corrêa SA, Ribeiro de Noronha SM, Nogueira-de-
+Souza NC, et al. Association between the angiotensin-
+converting enzyme (insertion/deletion) and angiotensin II
+type 1 receptor (A1166C) polymorphisms and breast cancer
+among Brazilian women. J Renin Angiotensin Aldosterone
+Syst 2009; 10: 51­58.
+16. Bonnardeaux A, Davies E, Jeunmaitre X, et al. Angiotensin
+II type 1 receptor gene polymorphisms in human essential
+hypertension. Hypertension 1994; 24: 63­69.
+17. Poirier O, Georges JL, Ricard S, et al. New polymorphisms
+of the angiotensin II type 1 receptor gene and their asso-
+ciations with myocardial infarction and blood pressure: the
+ECTIM study. J Hypertens 1998; 16: 1443­1447.
+18. Kikuya M, Sugimoto K, Katsuya T, et al. A/C1166 gene pol-
+ymorphism of the angiotensin II type 1 receptor (AT1) and
+ambulatory blood pressure: the Ohasama study. Hypertens
+Res 2003; 26: 141­145.
+19. Conen D, Glynn RJ, Buring JE, et al. Association of renin­
+angiotensin and endothelial nitric oxide synthase gene poly-
+morphisms with blood pressure progression and incident
+hypertension: prospective cohort study. J Hypertens 2008;
+26: 1780­1786.
+20. Mendizábal-Ruiz AP, Morales J, Castro Martinez X, et al.
+RAS polymorphisms in cancerous and benign breast tissue.
+J Renin Angiotensin Aldosterone Syst 2011; 12: 85­92.
+21. Ding P, Yang Y, Ding S, et al. Synergistic association of
+six well-characterized polymorphisms in three genes of
+the renin-angiotensin system with breast cancer among
+Han Chinese women. J Renin Angiotensin Aldosterone
+Syst Epub ahead of print 30 July 2014. DOI: 10.1177/
+1470320314542828.
+22. Fishchuk LE and Gorovenko NG. Genetic polymorphisms
+of the renin­angiotensin system in breast cancer patients.
+Exp Oncol 2013; 35: 101­104.
+23. Namazi S, Monabati A, Ardeshir-Rouhani-Fard S, et
+al. Association of angiotensin I converting enzyme
+(insertion/deletion) and angiotensin II type 1 receptor
+(A1166C) polymorphisms with breast cancer prognostic
+factors in Iranian population. Mol Carcinog 2010; 49:
+1022­1030.
+24. Namazi S, Monabati A, Ardeshir-Rouhani-Fard S, et al.
+Lack of association of genetic polymorphisms of angioten-
+sin converting enzyme 1 and angiotensin II type 1 receptor
+with breast cancer risk in Iranian population. Tumour Biol
+2013; 34: 2899­2907.
+25. Xi B, Zeng T, Liu L, et al. Association between polymor-
+phisms of the renin-angiotensin system genes and breast
+Chen et al. 857
+cancer risk: a meta-analysis. Breast Cancer Res Treat 2011;
+130: 561­568.
+26. Koh WP, Yuan JM, Van Den Berg D, et al. Polymorphisms
+in angiotensin II type 1 receptor and angiotensin I-converting
+enzyme genes and breast cancer risk among Chinese women
+in Singapore. Carcinogenesis 2005; 26: 459­464.
+27. Sugimoto M, Ohno T and Yamaoka Y. Expression of angio-
+tensin II type 1 and type 2 receptor mRNAs in the gastric
+mucosa of Helicobacter pylori-infected Mongolian gerbils.
+J Gastroenterol 2011; 46: 1177­1186.
+28. Gaddam RR, Chambers S and Bhatia M. ACE and ACE2 in
+inflammation: a tale of two enzymes. Inflamm Allergy Drug
+Targets 2014; 13: 224­234.
+29. Faria-Costa G, Leite-Moreira A and Henriques-Coelho T.
+Cardiovascular effects of the angiotensin type 2 receptor.
+Rev Port Cardiol 2014; 33: 439­449.
+30. Xu J, Sun Y, Carretero OA, et al. Effects of cardiac over-
+expression of the angiotensin II type 2 receptor on remod-
+eling and dysfunction in mice post-myocardial infarction.
+Hypertension 2014; 63: 1251­1259.
+31. Yang Q, Su Q, Wang G, et al. Effect of AT1R knockdown
+on ishikawa cell proliferation induced by estrogen. Arch
+Gynecol Obstet 2012; 286: 481­487.
+32. Ino K, Shibata K, Yamamoto E, et al. Role of the renin­
+angiotensin system in gynecologic cancers. Curr Cancer
+Drug Targets 2011; 11: 405­411.
+

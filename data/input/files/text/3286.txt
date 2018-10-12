@@ -1,0 +1,755 @@
+Clinical Report
+Predicting the outcome
+of different protocols of
+in vitro fertilization with
+anti-Muu
+¨llerian hormone
+levels in patients with
+polycystic ovary syndrome
+Ya Chen1, Bilv Ye1, Xiaojing Yang2,
+Jiujia Zheng1, Jinju Lin1 and Junzhao Zhao1
+Abstract
+Objective: This study evaluated associations of basal serum and follicular fluid (FF) anti-Muu
+¨llerian
+hormone (AMH) levels with in vitro fertilization (IVF) outcomes in polycystic ovary syndrome
+(PCOS) patients.
+Methods: This prospective study included 179 consecutive women undergoing IVF, including 59 with
+PCOS and non-PCOS controls. Thirty PCOS cases had long gona-dotrophin-releasing hormone
+agonist (GnRH-a) and 29 had antagonist (GnRH-ant) protocols. Controls underwent conventional
+GnRH-a. Associations of basal serum and FF AMH levels with IVF outcomes were assessed.
+Results: Median serum and FF AMH levels, antral follicle count (AFC), oestradiol human chorionic
+gonadotropin injection day (peak E2), and retrieved oocyte numbers were higher in PCOS patients
+than in controls (all P < 0.01). Oocyte maturation and high-quality embryo rates were lower in
+PCOS patients than in controls (P < 0.01), but both groups had similar fertilization, implantation,
+clinical pregnancy, and newborn rates. Peak E2 was higher in GnRH-ant than in GnRH-a protocols
+(16.5 nmol/L vs. 12.1 nmol/L, P < 0.05). AMH levels were correlated with AFC in PCOS patients
+(P < 0.01). Peak E2 and FF AMH levels were independent predictors of oocyte number. Peak E2
+predicted the fertilization rate.
+Conclusion: Serum basal AMH levels are predictive of oocyte quantity, but not oocyte quality or
+IVF outcomes. Serum AMH, FF AMH, and outcomes are similar among protocols.
+Journal of International Medical Research
+2017, Vol. 45(3) 1138­1147
+! The Author(s) 2017
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0300060517704140
+journals.sagepub.com/home/imr
+1Reproductive Center, The First Affiliated Hospital of
+Wenzhou Medical University, Wenzhou, Zhejiang, China
+2Gynaecology and Obstetrics Department, The First
+People's Hospital of Hangzhou, Hangzhou, Zhejiang, China
+Corresponding author:
+Ya Chen, Reproductive Center, the First Affiliated Hospital
+of Wenzhou Medical University, Wenzhou 325000,
+Zhejiang, China.
+Email: chenyakelly@163.com
+Creative Commons CC-BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial
+3.0 License (http://www.creativecommons.org/licenses/by-nc/3.0/) which permits non-commercial use, reproduction and
+distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.
+sagepub.com/en-us/nam/open-access-at-sage).
+Keywords
+Anti-Muu
+¨llerian hormone (AMH), in vitro fertilization (IVF), polycystic ovary syndrome (PCOS),
+ovarian hyperstimulation syndrome
+Date received: 7 December 2016; accepted: 20 March 2017
+Introduction
+Polycystic ovary syndrome (PCOS) is the
+most common endocrine disorder causing
+ovulation failure in women of reproductive
+age. PCOS has an incidence ranging from
+8.7% to 17.8%, depending upon the criteria
+used.1­4 PCOS is characterized by an exces-
+sive number of growing ovarian follicles
+of up to 2 to 5 mm in size.5 When in vitro
+fertilization (IVF) is considered, PCOS is
+a well-known risk factor for development
+of ovarian hyperstimulation syndrome
+(OHSS).6 Therefore, carefully monitoring
+for OHSS during controlled ovarian hyper-
+stimulation (COH) is important.7
+Anti-Muu
+¨ llerian hormone (AMH) is a
+dimeric glycoprotein of the transforming
+growth factor-b (TGF-b) family. AMH is
+produced in the ovary by granulosa cells of
+pre-antral and small antral follicles of less
+than 4 mm diameter. Similar to established
+predictors, such as maternal age, basal serum
+follicle-stimulating hormone (FSH) levels,
+and antral follicle count (AFC),8,9 AMH is
+considered a useful marker of ovarian
+reserve, and even clinical outcome of
+IVF.10­14 However, a recent meta-analysis
+suggested that there were weak associations
+between AMH and implantation and clinical
+pregnancy rates, while in women with dimin-
+ished ovarian reserve, AMH had a poor
+predictive ability of IVF outcome.15 The
+main advantage of measurement of AMH
+levels in IVF may stem from their low inter-
+and intra-cycle variability. Therefore, AMH
+levels could be used as a menstrual cycle-
+independent marker of ovarian response to
+COH.16 AMH is superior to age and FSH
+levels for estimation of ovarian reserve and
+adjusting the stimulation protocol in infertile
+women. However, the value of AMH
+levels for predicting pregnancy outcomes is
+still uncertain.13,14
+AMH levels in women with PCOS are
+two- to three-fold higher than those
+obtained in patients without PCOS.17
+However, whether AMH levels in women
+with PCOS provide useful information on
+IVF outcomes is controversial because they
+may not be an accurate predictor of out-
+come in these patients.18,19 This study aimed
+to evaluate whether basal and follicular fluid
+(FF) AMH levels affect IVF outcome in
+patients with PCOS. Our data suggest that
+serum basal AMH levels are a significant
+predictor of oocyte quantity, but not oocyte
+quality or IVF outcomes.
+Methods
+Subjects and study design
+This prospective, observational study
+involved 179 consecutive patients who were
+referred to the Reproductive Center
+Department of the First Hospital of
+Wenzhou Medical University, China, from
+January 2012 to January 2014. The inclusion
+criteria were patients with PCOS, fallopian
+tube problems without PCOS, or treatment
+due to male infertility without PCOS.
+Exclusion criteria were as follows: >38
+years, serum FSH levels >12IU/L, a history
+of ovarian surgery, ovarian cyst or tumour,
+hydrosalpinx, endometriosis, and endocrine
+or systemic illnesses. In case of a positive
+Chlamydia test, women received routine
+antibiotics treatment. IVF was performed
+once the test became negative.
+There was some difference in protocols
+among the women who were included in this
+study because we found that women with
+Chen et al. 1139
+PCOS who were treated with the agonist
+protocol were at high risk of OHSS.
+Therefore, women with PCOS treated after-
+wards received the antagonist protocol.
+Consequently, 59 women with PCOS were
+randomly assigned to two groups according
+to their admission time There were 30 and 29
+cases in the agonist and antagonist treat-
+ment groups, respectively. A total of 120
+non-PCOS patients with regular menstrual
+cycles were assigned to the control group
+and underwent a conventional long agonist
+protocol. PCOS was diagnosed according to
+the revised Rotterdam criteria.20
+The study was approved by the hospital's
+Ethics Committee (Approval ID: [2013] 27).
+The protocol was explained to the patients
+before enrolment, and informed consent was
+obtained from each couple.
+Protocol
+Women with PCOS in the agonist group were
+initiated with an oral contraceptive pill con-
+taining ethinyloestradiol and cyproterone
+acetate (Diane-35; Schering AG, Berlin,
+Germany) on cycle days 3­5 for 14 days.
+This treatment was performed to synchronize
+their cycle and subsequent follicle
+development. This was followed by pituitary
+downregulation via administration of a gona-
+dotrophin-releasing hormone agonist
+(GnRH-a) consisting of 0.4 to 0.8mg of
+triptorelin acetate (Decapeptyl; Ipsen
+Pharmaceuticals,France).After14days,ovar-
+ian stimulation was started with recombinant
+FSH (Gonal-F; Merck Serono, Switzerland)
+injection. Women with PCOS in the antagon-
+ist group were pretreated with Diane-35 for 21
+days and received Gonal-F injection on days
+3­5 of the subsequent cycle. A total of 0.25mg
+of cetrorelix (Cetrotide; Merck Serono,
+Switzerland) was administered subcutane-
+ously daily from the moment the leading
+follicle reached 14mm in diameter until
+human chorionic gonadotrophin (hCG) injec-
+tion.Infertilewomeninthecontrolgroupwere
+provided GnRH-a (triptorelin acetate) in the
+mid-luteal phase (day 21) of the cycle at the
+same dosage as that used for patients with
+PCOS in the agonist group. Gonal-F was
+administrated after downregulation of
+the pituitary. The patients were provided
+5000­10,000 IU of hCG when the leading
+follicle reached 18 mm in diameter with at
+least three follicles >16mm in diameter. The
+oocytes were collected 36 h after hCG admin-
+istration. AfterIVForintracytoplasmic sperm
+injection (ICSI), embryos with equally or
+slightly unequally sized blastomeres and
+<20% anucleate fragments were regarded as
+good-quality embryos. Two or three good-
+quality embryos were transferred 3 days after
+collection of oocytes. Luteal support was
+provided by injecting 60mg of progesterone
+once daily and 10mg of dydrogesterone twice
+daily from the day of retrieval of oocytes.
+When oestradiol levels were greater than
+15,000 pmol/L on the day of hCG injection,
+or more than 15 oocytes were retrieved, the
+risk of OHSS was explained to the patients. A
+suggestion was then made to freeze the
+embryos. In these cases, the women received
+frozen thawed embryo transfer (FET) at a
+later date.
+Collection of specimens
+A total of 5 ml of venous blood was collected
+during a natural cycle on days 2­5, 1 week
+before starting the IVF procedure. The
+women with PCOS who were included in
+this study all had menstrual cycles for this
+measurement. FF was obtained from only
+the first and largest follicle (>16 mm) to
+avoid bleeding in the specimen. Blood and
+FF samples were allowed to clot in collec-
+tion tubes for 30­60 min, and were centri-
+fuged at 1000 rpm for 10 min. The resulting
+supernatants were stored at À80C until use.
+Serum AMH (defined as bAMH) and FF
+AMH levels were determined by enzyme-
+linked immunosorbent sensitive assays
+according to the manufacturer's instructions
+1140 Journal of International Medical Research 45(3)
+(DSL, Webster, TX, USA). Hormone moni-
+toring, including estradiol (E2) and b-hCG
+concentrations, was performed by chemilu-
+minescence methods (Beckman Coulter,
+Inc., Fullerton, USA).
+The AFC was determined at days 2­5 of
+the natural menstrual period. Follicles from
+bilateral ovaries with diameters between 4
+and 6 mm were counted by ultrasound
+imaging. Serum E2 levels on the day of
+hCG injection were defined as peak E2. The
+oocyte maturity rate was calculated as the
+ratio of oocytes at metaphase II (MII) to
+the total oocytes retrieved. The fertilization
+rate was calculated as the ratio of two-
+pronuclear zygote (2PN) oocytes to MII.
+The good-quality embryo rate was calcu-
+lated as the number of good-quality
+embryos multiplied by that of 2PN oocytes.
+The clinical pregnancy rate was calculated as
+the number of gestational sacs multiplied by
+that of transferred fresh embryos. The abor-
+tion rate was calculated as the ratio of
+spontaneous abortion cases to clinical preg-
+nancy cases. The take-home newborn rate
+was calculated as the birth number divided
+by the number of fresh embryos transferred.
+The implantation rate was calculated as the
+number of gestational sacs multiplied by
+that of transferred embryos.
+Follow-up and observational indices
+The follow-up examinations included serum
+levels of hCG 14 days after transplantation
+to determine the success of pregnancy.
+Subsequently, transvaginal ultrasound was
+performed to determine intrauterine preg-
+nancy, gestational sac number, and embryo
+heart beats 14 days later. The patients were
+then followed up by telephone interviews
+until 3, 5, and 8 months of pregnancy when
+ultrasound examinations were conducted to
+assess foetal development. Data regarding
+the mode of delivery, number of neonates,
+body weight, sex, and deformities at birth
+were also collected.
+Statistical analysis
+Statistical analyses were performed with
+SPSS 17.0 (IBM, Armonk, NY, USA).
+Normally distributed variables are pre-
+sented as mean Æ standard deviation (SD),
+and were assessed by the two independent
+samples t-test. Frequencies were compared
+with the chi-square test. Correlations
+between AMH and the other indices were
+evaluated with Pearson's correlation ana-
+lysis. Multivariate analysis was performed
+to evaluate whether there were relationships
+between bAMH or FF AMH levels and
+demographic variables with IVF outcome.
+P < 0.05 was considered statistically
+significant.
+Results
+Overall population characteristics
+The mean age of patients in the PCOS and
+control groups was 29.1 Æ 3.5 and 30.3 Æ 3.9
+years old, respectively (P > 0.05). Mean
+body mass index (BMI) was 22.2 Æ 3.2 and
+21.4 Æ 2.9 kg/m2, respectively (P > 0.05).
+AFC, peak E2, bAMH levels, and FF
+AMH levels in the PCOS group were sig-
+nificantly higher than those in the control
+group (all P < 0.01).
+COH and IVF results
+Oocyte maturation and good-quality
+embryo rates in the PCOS group were
+markedly lower than those in the control
+group (all P < 0.01). However, there were no
+significant differences in fertilization,
+implantation, abortion, and take-home
+newborn rates between the two groups (all
+P > 0.05, Table 1).
+In the PCOS group, women who were
+considered at risk of OHSS later received
+FET, but 46 women received fresh embryo
+transfer (including 23 women in each sub-
+group), of whom 22 women achieved a
+clinical pregnancy. All 120 controls received
+Chen et al. 1141
+fresh embryos, including 73 who were suc-
+cessfully impregnated and two with ectopic
+pregnancies. According to the 2009 guide-
+lines by Golan and Weissman concerning
+OHSS,21,22 because women at risk received
+FET, there were no moderate or severe
+OHSS cases.
+In patients with PCOS, no differences
+were found in indices, including IVF out-
+come measures (Table 2), compared with the
+antagonist subgroup. An exception was
+peak E2 values, which were lower in the
+agonist subgroup than in the antagonist
+subgroup (P < 0.05).
+Associations of AMH levels and
+IVF outcome
+In the control group, positive correlations
+were observed between bAMH or FF AMH
+levels and the AFC, oocyte number, fertil-
+ization, and good-quality embryo number
+Table 1. Laboratory and clinical data in the control and PCOS groups.
+Control (n ¼ 120) PCOS (n ¼ 59) P value
+AFC 15.9 Æ 4.62 29.07 Æ 9.86 <0.001
+Days of Gn 10.71 Æ 1.55 9.69 Æ 2.09 <0.001
+Doses of Gn (IU) 1614.96 Æ 375.25 1234.11 Æ 306.09 <0.001
+Peak E2 (pmol/L) 8604.73 Æ 4509.32 14,250.07 Æ 8406.43 <0.001
+bAMH (ng/ml) 3.33 Æ 1.19 11.86 Æ 4.79 <0.001
+FF AMH (ng/ml) 6.17 Æ 2.49 10.16 Æ 6.26 <0.001
+Oocyte number 11.98 Æ 5.30 16.51 Æ 10.33 <0.001
+Maturation rate (%) 89.8 (1291/1437) 83.8 (816/974) < 0.001
+Fertilization rate (%) 74.3 (947/1291) 75.2 (614/816) 0.335
+Good-quality embryo rate (%) 66.9 (634/947) 53.6 (329/614) <0.001
+Embryo implantation rate (%) 42.1 (106/252) 32.3 (32/99) 0.093
+Clinical pregnancy rate (%) 60.8 (73/120) 47.8 (22/46) 0.130
+Abortion rate (%) 16.4 (12/73) 9.1 (2/22) 0.394
+Take-home newborn rate (%) 49.2 (59/120) 43.5 (20/46) 0.511
+Table 2. Comparison of demographic and endocrine profiles of patients with PCOS by protocol.
+Agonist protocol (n ¼ 30) Antagonist protocol (n ¼ 29) P value
+AFC 30.57 Æ 12.34 29.9 Æ 10.02 0.820
+Days of Gn 10.67 Æ 2.04 8.69 Æ 1.63 0.000
+Doses of Gn (IU) 1277.5 Æ 318.36 1189.22 Æ 291.54 0.272
+Peak E2 (pmol/L) 12,084.97 Æ 6948.58 16,489.83 Æ 9282.17 0.043
+bAMH (ng/ml) 11.94 Æ 5.01 11.75 Æ 4.57 0.887
+FF AMH (ng/ml) 9.63 Æ 6.04 10.75 Æ 6.57 0.504
+Oocyte number 15.87 Æ 8.12 17.17 Æ 12.32 0.631
+Maturation rate (%) 81.9 (390/476) 85.5 (426/498) 0.127
+Fertilization rate (%) 73.3 (286/390) 77 (328/426) 0.226
+Good-quality embryo rate (%) 52.1 (149/286) 54.9 (180/328) 0.491
+Embryo implantation rate (%) 40 (20/50) 24.5 (12/49) 0.099
+Clinical pregnancy rate (%) 56.52 (13/23) 39.13 (9/23) 0.238
+Take-home newborn rate (%) 52.17 (12/23) 34.78 (8/23) 0.234
+1142 Journal of International Medical Research 45(3)
+(all P < 0.01). In the PCOS group, positive
+correlations were found between bAMH or
+FF AMH levels and the antral follicle count
+(AFC) (P < 0.01) (Table 3).
+Predictors of oocyte number and
+fertilization rate
+Several parameters were assessed for their
+predictive value of oocyte number and fer-
+tilization rate, including age, BMI, bFSH,
+peak E2, gonadotrophin dose, bAMH, FF
+AMH, and AFC. As shown in Table 4, peak
+E2 (P < 0.001) and FF AMH levels
+(P ¼ 0.040) were independent predictors of
+oocyte number. Peak E2 had a significant
+predictive value for the fertilization rate
+(P < 0.001). The remaining parameters
+were not significant independent predictors
+of oocyte number or the fertilization rate
+(P > 0.05) (Table 4).
+Discussion
+This study aimed to assess the possible
+associations of bAMH or FF AMH levels
+with IVF outcome in patients with PCOS.
+We also evaluated two protocols that were
+designed for IVF in patients with PCOS for
+their effects on IVF outcome. No signifi-
+cant differences were found in fertilization,
+implantation, clinical pregnancy, and take-
+home newborn rates among the groups.
+Serum AMH levels correlate well with ovar-
+ian reserve.13,14 In our study, positive cor-
+relations were observed between bAMH or
+FF AMH levels and the AFC, oocyte
+number, fertilization, and good-quality
+embryos in control women without PCOS.
+However, in the PCOS group, a positive
+correlation was only observed between
+bAMH or FF AMH levels and the AFC.
+These findings suggest that AMH levels are a
+good predictor of IVF outcome in women
+without PCOS undergoing fertility treat-
+ment.10,12,23 Our findings are in contrast to
+a previous study9 and a recent meta-
+analysis.15 Notably, our results are in agree-
+ment with previous reports, which showed
+that AMH levels were not a reliable pre-
+dictor of IVF outcome in women with
+PCOS.18,19 Therefore, AMH levels have
+different predictive values with various
+patient populations, and should be used
+with caution as a measure of IVF outcome.
+Measurement of ovarian reserve includes
+the quantity and quality of oocytes growing
+in follicles that can mature and eventually be
+fertilized. Regrettably, there are no non-
+invasive methods available for assessment of
+ovarian reserve, and oocytes cannot be seen
+by the naked eye. Therefore, the AFC has
+become a surrogate for oocyte quantity. In
+our study, bAMH levels were highly and
+Table 3. Correlations between bAMH or FF AMH levels and demographic variables.
+Control (n ¼ 120) PCOS (n ¼ 59)
+r P value r P value
+bAMH, AFC 0.259 0.007 0.600 <0.001
+bAMH, number of oocytes 0.535 <0.001 À0.059 0.685
+bAMH, number of fertilizations 0.395 <0.001 À0.041 0.776
+bAMH, number of good-quality embryos 0.250 0.009 À0.097 0.502
+FF AMH, AFC 0.253 0.008 0.368 0.005
+FF AMH, number of oocytes 0.490 <0.001 À0.203 0.131
+FF AMH, number of fertilizations 0.527 <0.001 À0.110 0.417
+FF AMH, number of good-quality embryos 0.427 <0.001 À0.063 0.639
+Chen et al. 1143
+positively associated with the AFC in both
+patient groups, as well as with the number of
+oocytes retrieved after ovarian stimulation
+in control patients. FF AMH and bAMH
+levels in patients with PCOS were signifi-
+cantly higher than those in non-PCOS
+patients. Additionally, the AFC and the
+number of oocytes retrieved from patients
+with PCOS were significantly higher than
+those obtained from control patients. These
+results suggest that bAMH values reflect the
+quantity of oocytes in ovaries to a certain
+extent. Therefore, in terms of the quantita-
+tive aspect of ovarian reserve, the higher the
+serum AMH level, the greater the number of
+antral follicles and oocytes. Therefore, indi-
+vidualized COH protocols based on serum
+AMH levels might eliminate serious OHSS
+and decrease cancellation of IVF cycles.
+Because no valid method is available for
+assessment of oocyte quality, indirect indices
+are used, including oocyte maturation and
+clinical pregnancy rates. We obtained dis-
+crepant data on the predictive value of
+AMH levels for oocyte quality. Maturation
+and good-quality embryo rates in the PCOS
+group were significantly lower than those in
+the control group. However, no differences
+were found in fertilization, embryo implant-
+ation, clinical pregnancy, abortion, and
+take-home newborn rates between the two
+groups. Additionally, FF AMH levels were
+an independent predictor of oocyte num-
+ber, but not of the fertilization rate.
+Therefore, we speculate that serum AMH
+levels do not necessarily reflect the quality of
+oocytes.
+When women with PCOS also have
+fallopian tube or male factor fertility prob-
+lems, IVF becomes an important method of
+treatment. The standard long agonist proto-
+col is the conventional and most common
+method of COH during IVF. However, the
+antagonist protocol is increasingly being
+Table 4. Multivariate analysis of various parameters for their predictive value of oocyte number and
+fertilization rate.
+B
+Standard
+error
+Unstandardized
+coefficients t P value
+Age À0.035 0.326 À0.013 À0.108 0.915
+BMI À0.171 0.422 À0.055 À0.406 0.687
+bFSH À0.191 0.845 À0.030 À0.226 0.822
+Peak E2 0.001 0.000 0.656 5.467 <0.001
+Gn dose 0.001 0.004 0.039 0.319 0.751
+bAMH 0.140 0.321 0.067 0.435 0.666
+FF AMH À0.467 0.220 À0.285 À2.123 0.040
+AFC initiate À0.008 0.130 À0.008 À0.061 0.952
+Age 0.065 0.228 0.035 0.287 0.776
+BMI 0.060 0.295 0.029 0.205 0.839
+bFSH 0.060 0.295 0.029 0.205 0.839
+Peak E2 0.001 0.000 0.649 5.099 <0.001
+Gn dose À0.001 0.003 À0.025 À0.194 0.847
+bAMH 0.077 0.224 0.056 0.344 0.732
+FF AMH À0.216 0.154 À0.200 À1.403 0.168
+AFC initiate À0.010 0.091 À0.016 À0.106 0.916
+Independent variables: age, body mass index (BMI), basal follicle stimulation hormone (bFSH), peak estradiol (peak E2),
+gonatropin dose (Gn dose), bAMH, FF AMH, and AFC initiate.
+1144 Journal of International Medical Research 45(3)
+contemplated because of its shorter therapy
+time and lower gonadotrophin dosage.24
+Indeed, the incidence of OHSS can be
+reduced by the antagonist protocol, which
+is important for patients with PCOS, par-
+ticularly owing to their risk of severe com-
+plications involving OHSS.24 In this study,
+no cases of moderate or severe OHSS
+occurred. This may be due, at least in part,
+to the seven and six patients who chose to
+freeze good-quality embryos in the agonist
+and antagonist subgroups, respectively. This
+finding might have also resulted from
+administration of Voluven and prednisone
+for 3 days from the day of ovum collection
+to prevent the women from having OHSS
+when a high risk of OHSS was expected. No
+significant differences in in bAMH or FF
+AMH levels were found between patients
+undergoing the long and antagonist proto-
+cols. This finding is in agreement with a
+previous report24 in which FF AMH levels
+were not mentioned. In our study, there
+were no significant differences in the number
+of oocytes retrieved, as well as maturation,
+fertilization, good-quality embryo, implant-
+ation, clinical pregnancy, and take-home
+newborn rates, between protocols.
+These results suggest that the antagonist
+protocol has no advantage of improving
+clinical outcomes in patients with PCOS
+undergoing IVF.
+Favourable oocyte growth and normal
+embryo development after fertilization are
+greatly affected by the constituents of the
+FF, which directly surrounds the oocytes.
+AMH, which is secreted by granulosa cells,
+not only plays a role in blood circulation,
+but also plays a part in the autocrine and
+paracrine pathways.25 FF AMH values
+might effectively predict the outcomes in
+women with PCOS or those without PCOS
+after IVF therapy.23,26,27 However, discrep-
+ant data were obtained in this study, with
+significant positive correlations between FF
+AMH levels and maturation, fertilization,
+and good-quality embryos in the control
+group, but not in the PCOS group. These
+data are consistent with Mashiach's study.28
+Taken together, these findings suggest that
+the value of FF AMH levels in predicting
+pregnancy outcomes in patients with PCOS
+or those without PCOS after IVF is incon-
+sistent. Recently, a report showed that in
+normal ovulatory women, secretion and
+protein expression of FF AMH by small
+follicles are greatly increased compared with
+those in medium or big follicles.29 This
+phenomenon is not observed in women with
+PCOS. FF AMH levels in follicles that were
+unstimulated by exogenous gonadotrophin
+were five times higher in patients with PCOS
+compared with controls.29,30 These studies
+suggest a pathological imbalance in the
+expression and secretion of AMH in patients
+with PCOS, which may have a correlation
+with abnormal follicular recruitment and
+development of PCOS.
+In conclusion, use of AMH as a reliable
+indicator of ovarian reserve is important
+because it represents the numbers of pre-
+antral and small antral follicles. For patients
+with PCOS who have a high risk of OHSS,
+AMH levels should be assessed to predict
+and help prevent OHSS. Whether the con-
+ventional long protocol can be replaced by
+the antagonist protocol in IVF for patients
+with PCOS needs to be confirmed by further
+studies.
+Acknowledgements
+None.
+Declaration of conflicting interest
+The authors declare that there is no conflict of
+interest.
+Funding
+This research received no specific grant from any
+funding agency in the public, commercial, or not-
+for-profit sectors.
+Chen et al. 1145
+References
+1. March WA, Moore VM, Willson KJ, et al.
+The prevalence of polycystic ovary syndrome
+in a community sample assessed under con-
+trasting diagnostic criteria. Hum Reprod
+2010; 25: 544­551.
+2. Artini PG, Di Berardino OM, Simi G, et al.
+Best methods for identification and treat-
+ment of PCOS. Minerva Ginecol 2010; 62:
+33­48.
+3. Johnson NP. Metformin use in women with
+polycystic ovary syndrome. Ann Transl Med
+2014; 2: 56.
+4. Fauser BC. Reproductive endocrinology:
+revisiting ovulation induction in PCOS.
+Nat Rev Endocrinol 2014; 10: 704­705.
+5. Franks S. Polycystic ovary syndrome.
+N Engl J Med 1995; 333: 853­861.
+6. Delvigne A, Demoulin A, Smitz J, et al. The
+ovarian hyperstimulation syndrome in in-
+vitro fertilization: a Belgian multicentric
+study. I. Clinical and biological features.
+Hum Reprod 1993; 8: 1353­1360.
+7. Griesinger G. Ovarian hyperstimulation
+syndrome prevention strategies: use of
+gonadotropin-releasing hormone antagon-
+ists. Semin Reprod Med 2010; 28: 493­499.
+8. Ng EH, Chan CC, Tang OS, et al. Antral
+follicle count and FSH concentration after
+clomiphene citrate challenge test in the pre-
+diction of ovarian response during IVF
+treatment. Hum Reprod 2005; 20: 1647­1654.
+9. Sahmay S, Demirayak G, Guralp O, et al.
+Serum anti-mullerian hormone, follicle sti-
+mulating hormone and antral follicle count
+measurement cannot predict pregnancy rates
+in IVF/ICSI cycles. J Assist Reprod Genet
+2012; 29: 589­595.
+10. Lekamge DN, Barry M, Kolo M, et al. Anti-
+Mullerian hormone as a predictor of IVF
+outcome. Reprod Biomed Online 2007; 14:
+602­610.
+11. Weenen C, Laven JS, Von Bergh AR, et al.
+Anti-Mullerian hormone expression pattern
+in the human ovary: potential implications
+for initial and cyclic follicle recruitment. Mol
+Hum Reprod 2004; 10: 77­83.
+12. Kunt C, Ozaksit G, Keskin Kurt R, et al.
+Anti-Mullerian hormone is a better marker
+than inhibin B, follicle stimulating hormone,
+estradiol or antral follicle count in predicting
+the outcome of in vitro fertilization. Arch
+Gynecol Obstet 2011; 283: 1415­1421.
+13. Jamil Z, Fatima SS, Cheema Z, et al.
+Assessment of ovarian reserve: Anti-
+Mullerian hormone versus follicle stimulat-
+ing hormone. J Res Med Sci 2016; 21: 100.
+14. Jamil Z, Fatima SS, Rehman R, et al. Anti
+Mullerian Hormone: Ovarian response indi-
+cator in young patients receiving Long
+GnRH Agonist Protocol for Ovarian
+Stimulation. Pak J Med Sci 2016; 32:
+944­949.
+15. Tal R, Tal O, Seifer BJ, et al. Antimullerian
+hormone as predictor of implantation and
+clinical pregnancy after assisted conception:
+a systematic review and meta-analysis. Fertil
+Steril 2015; 103: 119­130.e3.
+16. Nelson SM, Yates RW, Lyall H, et al. Anti-
+Mullerian hormone-based approach to
+controlled ovarian stimulation for assisted
+conception. Hum Reprod 2009; 24: 867­875.
+17. Eldar-Geva T, Ben-Chetrit A, Spitz IM,
+et al. Dynamic assays of inhibin B, anti-
+Mullerian hormone and estradiol following
+FSH stimulation and ovarian ultrasonog-
+raphy as predictors of IVF outcome. Hum
+Reprod 2005; 20: 3178­3183.
+18. Sahmay S, Guralp O, Aydogan B, et al.
+Anti-Mullerian hormone and polycystic
+ovary syndrome: assessment of the clinical
+pregnancy rates in in vitro fertilization
+patients. Gynecol Endocrinol 2013; 29:
+440­443.
+19. Arabzadeh S, Hossein G, Rashidi BH, et al.
+Comparing serum basal and follicular fluid
+levels of anti-Mullerian hormone as a pre-
+dictor of in vitro fertilization outcomes in
+patients with and without polycystic ovary
+syndrome. Ann Saudi Med 2010; 30:
+442­447.
+20. Rotterdam ESHRE/ASRM-Sponsored
+PCOS consensus workshop group. Revised
+2003 consensus on diagnostic criteria and
+long-term health risks related to polycystic
+ovary syndrome (PCOS). Hum Reprod 2004;
+19: 41­47.
+21. Golan A and Weissman A. Symposium:
+Update on prediction and management of
+OHSS. A modern classification of OHSS.
+Reprod Biomed Online 2009; 19: 28­32.
+1146 Journal of International Medical Research 45(3)
+22. Ramalho de Carvalho B, Gomes Sobrinho
+DB, Vieira AD, et al. Ovarian reserve
+assessment for infertility investigation. ISRN
+Obstet Gynecol 2012; 2012: 576385.
+23. Brodin T, Hadziosmanovic N, Berglund L,
+et al. Antimullerian hormone levels are
+strongly associated with live-birth rates after
+assisted reproduction. J Clin Endocrinol
+Metab 2013; 98: 1107­1114.
+24. Singh N, Naha M, Malhotra N, et al.
+Comparison of gonadotropin-releasing hor-
+mone agonist with GnRH antagonist in
+polycystic ovary syndrome patients
+undergoing in vitro fertilization cycle:
+Retrospective analysis from a tertiary center
+and review of literature. J Hum Reprod Sci
+2014; 7: 52­57.
+25. Lee JR, Kim SH, Kim SM, et al. Follicular
+fluid anti-Mullerian hormone and inhibin B
+concentrations: comparison between gona-
+dotropin-releasing hormone (GnRH) agon-
+ist and GnRH antagonist cycles. Fertil Steril
+2008; 89: 860­867.
+26. Takahashi C, Fujito A, Kazuka M, et al.
+Anti-Mullerian hormone substance from
+follicular fluid is positively associated with
+success in oocyte fertilization during in vitro
+fertilization. Fertil Steril 2008; 89: 586­591.
+27. Fanchin R, Mendez Lozano DH, Frydman
+N, et al. Anti-Mullerian hormone concen-
+trations in the follicular fluid of the pre-
+ovulatory follicle are predictive of the
+implantation potential of the ensuing
+embryo obtained by in vitro fertilization.
+J Clin Endocrinol Metab 2007; 92:
+1796­1802.
+28. Mashiach R, Amit A, Hasson J, et al.
+Follicular fluid levels of anti-Mullerian hor-
+mone as a predictor of oocyte maturation,
+fertilization rate, and embryonic develop-
+ment in patients with polycystic ovary syn-
+drome. Fertil Steril 2010; 93: 2299­2302.
+29. Kedem A, Hourvitz A, Yung Y, et al. Anti-
+Mullerian hormone (AMH) downregulation
+in late antral stages is impaired in PCOS
+patients. A study in normo-ovulatory and
+PCOS patients undergoing in vitro matur-
+ation (IVM) treatments. Gynecol Endocrinol
+2013; 29: 651­656.
+30. Das M, Gillott DJ, Saridogan E, et al. Anti-
+Mullerian hormone is increased in follicular
+fluid from unstimulated ovaries in women
+with polycystic ovary syndrome. Hum
+Reprod 2008; 23: 2122­2126.
+Chen et al. 1147
+

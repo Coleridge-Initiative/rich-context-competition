@@ -1,0 +1,1131 @@
+Dietary Calcium and Blood
+Pressure in National Health and Nutrition
+Examination Surveys I and II
+CHRISTOPHER SEMPOS, RICHARD COOPER, MARY GRACE KOVAR, CLIFFORD JOHNSON,
+TERRENCE DRTZD, AND ELIZABETH YETLEY
+SUMMARY It has recently been reported that a low intake of calcium may be a risk factor for
+hypertension. In view of the contradictory results, even when the same survey data base has been used
+by different researchers, an in-depth analysis was undertaken of the data provided by the two cycles of
+the National Health and Nutrition Examination Survey (NHANES). Both surveys, conducted in
+consecutive 4-year intervals during the 1970s, were designed to examine representative samples of the
+U.S. civilian noninstitutionalized population. The overall descriptive findings in relation to mean
+blood pressure and calcium intake were virtually identical in the two surveys. Based on "quantile"
+analysis, neither mean levels of blood pressure nor the prevalence of hypertension was related to
+calcium intake. Only among black men in NHANES I was a relationship between calcium intake and
+blood pressure noted. This finding was not apparent among black men in NHANES II or among any of
+the other sex-race groups in either survey. We conclude that the data of NHANES I and H do not show
+an association between low calcium intake and blood pressure. (Hypertension 8: 1067-1074, 1986)
+KEY WORDS · calcium
+Examination Survey
+blood pressure · diet · National Health and Nutrition
+INVESTIGATING the relationship between di-
+etary factors and a chronic disease such as hyper-
+tension is difficult. Short-term dietary patterns,
+let alone lifetime habits, are hard to measure. Further-
+more, hypertension develops over a period of many
+years, and cross-sectional studies may miss causal re-
+lationships altogether. On the other hand, it seems
+likely that dietary factors play a role in the develop-
+ment or prevention of hypertension in populations.
+Because of the urgency of our need to identify these
+dietary factors as a basis for primary prevention, we
+must use all potentially informative data sources on
+nutrient intakes and blood pressure. Nationally repre-
+sentative population samples offer unique advantages
+for these purposes, and the recurring U.S. surveys of
+From the Clinical Nutrition Branch (C. Sempos, E. Yetley),
+Division of Nutrition, Food and Drug Administration (HFF-265),
+Washington, D.C.; the Section of Clinical Epidemiology (R. Coo-
+per), Department of Medicine, Cook County Hospital, Chicago,
+Illinois; and the Interview and Examination Statistics Program
+(M.G. Kovar) and the Division of Health Examination Statistics (C.
+Johnson, T. Drizd), National Center for Health Statistics, Hyatts-
+ville, Maryland.
+Address for reprints: Dr. Christopher Sempos, National Center
+for Health Statistics, Room 2-58, 3700 East-West Highway, Hy-
+attsville, MD 20782.
+Received September 30, 1985; accepted June 3, 1986.
+the National Center for Health Statistics have become a
+crucial resource in this field.
+Because of controversial reports of an association
+between low dietary calcium intake and high blood
+pressure based on data from the first National Health
+and Nutrition Examination Survey (NHANES I) and
+other studies,1"7 we examined the entire data base
+provided by both the first and second NHANES. In
+addition to including data from both surveys, we in-
+corporated the sampling weights and the complex
+survey design into the analysis. The weights are need-
+ed to adjust for differential sampling and nonresponse;
+they affect the estimated means and percentages. The
+clustered complex design affects variances and test
+statistics.8
+Subjects and Methods
+Both NHANES I and II were designed to be national
+probability samples of the civilian, noninstitution-
+alized U.S. population.*-" The first survey, NHANES
+I, took place during the years 1971 to 1974 and includ-
+ed 20,749 examined persons aged 1 to 74 years. The
+second study, NHANES II, was conducted during the
+years 1976 to 1980 and included 20,322 examined
+persons aged 6 months to 74 years.12
+1067
+1068 HYPERTENSION VOL 8, No 11, NOVEMBER 1986
+Analytic Samples
+The age range from the analytic samples from
+NHANES I and II that were used in this article was
+restricted to ages 40 to 74 years. Persons below 40
+years were excluded from the analysis because hyper-
+tension occurs infrequently in younger persons. Per-
+sons 75 years and older were not included in the
+survey. Other exclusionary criteria used in the infor-
+mation of the analytic samples are listed in the Appen-
+dix (see p. 1071); the same exclusions were applied
+to both surveys. Additionally, one person in the
+NHANES II sample who reported consuming 8 quarts
+of milk and 9854 mg of calcium in one day was ex-
+cluded from the final analytic sample.
+Before any of the exclusions other than age were
+made, there were 7496 persons in the NHANES I
+study sample and 7380 persons in the NHANES II
+study sample. After the other exclusionary criteria
+were applied, thefinalanalytic samples for NHANES I
+and II contained 5840 and 5490 persons, respectively.
+The estimated civilian noninstitutionalized U.S.
+population represented by the number of examined
+persons when appropriately weighted closely approxi-
+mates the U.S. population estimated by the U.S. Bu-
+reau of the Census at the midpoint of each survey.12'13
+Measurements
+Dietary calcium intake was estimated in both sur-
+veys by using a single 24-hour recall.9' " In the Nutri-
+tion Examination Sample of NHANES I, blood pres-
+sure was recorded once in the sitting position at the
+beginning of the medical examination by the physi-
+cian. In NHANES II, the examining physician record-
+ed each subject's blood pressure three times: 1) seated
+at the beginning of the examination, 2) recumbent at
+the end of the examination, and 3) seated at the end of
+the examination. So that the data from NHANES II
+would be comparable with NHANES I data, only the
+first seated blood pressure value from NHANES II was
+used in the analysis for this study. Systolic blood pres-
+sure (SBP) was taken as the first phase of Korotkoff
+sounds, and diastolic blood pressure (DBP) was taken
+as thefifthphase. Therecommendationsof the Ameri-
+can Heart Association were followed for blood pres-
+sure measurement in both surveys. Body weight was
+measured on a carefully calibrated self-balancing
+scale. Height was measured using a device attached to
+the scale and recorded photographically.14' "
+Statistical Analyses
+Two basic analytic strategies were used to investi-
+gate the possible association between dietary calcium
+intake and blood pressure. First, mean calcium intakes
+of normotensive (DBP < 90 mm Hg) and hypertensive
+subjects (DBP > 90 mm Hg) were compared. Second,
+mean blood pressure (SBP and DBP) and prevalence of
+hypertension were calculated for persons within five
+dietary calcium intake groups. The five groups were
+composed of persons with calcium intakes of 1) 250
+mg or less, 2) 251 to 500 mg, 3) 501 to 750 mg, 4) 751
+to 1000 mg, and 5) more than 1000 mg. Mean blood
+pressure (SBP and DBP) and prevalence of hyperten-
+sion in the first four calcium intake groups
+(< 250-1000 mg) were compared with the values for
+the group with an intake of greater than 1000 mg. No
+comparison tests were made among the first four cal-
+cium intake groups.
+Because of prior research supporting a negative as-
+sociation between dietary calcium and blood pressure,
+a one-sided t test was used to test the two primary
+hypotheses: 1) hypertensive subjects would have a sig-
+nificantly lower mean intake of dietary calcium than
+normotensive subjects and 2) subjects in the first four
+calcium intake groups would have significantly higher
+mean blood pressure and prevalence of hypertension
+than the subjects in the highest calcium intake group.
+For the multiple comparison tests of significance with-
+in the calcium intake groups, the critical value of the t
+distribution was based on the Bonferroni inequality.16
+The t value to achieve significance at ap level of 0.05
+based on a one-sided test and four comparisons was
+2.24. All analyses were conducted separately for each
+of the four race-sex groups, and within each race-sex
+group data were adjusted for age (in years) and body
+mass index (BMI). The BMI was defined as weight
+(kilograms) divided by height (meters) squared. Re-
+sults were not affected by adjusting for potassium in-
+take, education, poverty index,12'13 or, in NHANES II,
+serum zinc (data not shown).
+All statistical analyses were conducted using the
+Statistical Analysis System (SAS)17 and procedures de-
+veloped at Research Triangle Institute and accessible
+through SAS.18' " The complexities of the sample de-
+signs in NHANES I and II were incorporated in all
+analyses reported in this article. Thus, all reported
+statistics are estimates for the U.S. civilian, noninstitu-
+tionalized population. The rationale and importance of
+using sampling weights and design effects in the statis-
+tical analysis of NHANES data have been discussed
+elsewhere.8 Unweighted sample sizes are also reported
+to provide an indication of the adequacy of the analytic
+sample sizes in the four subgroups.
+Results
+Except for the statistically significant drop in mean
+SBP and the increase in potassium intake from
+NHANES I to NHANES n, the analytic samples from
+the two surveys appear remarkably similar (Table 1).
+The means from one analytic sample to the next were
+generally very close to each other; the one exception
+was the NHANES I and II comparison for black men
+(Table 2). Black women had the lowest mean intakes
+of dietary calcium in both surveys, while mean intakes
+for black men were similar to the values for white
+women, and white men had the highest mean intakes
+(see Table 2).
+Normotensive black men in NHANES I had a sig-
+nificantly (p < 0.05) higher mean intake of dietary cal-
+cium than did hypertensive black men after adjusting
+for age and BMI. In no other race-sex group in either
+analytic sample did normotensive subjects have sig-
+DIETARY CALCIUM AND BLOOD PRESSURE/Sempos et al. 1069
+TABLE 1. Weighted Values for Selected Variables in Persons*
+Aged 40 to 74 Yearsfrom National Health and Nutrition Examina-
+tion Surveys I and II
+Variable
+Population estimate (thousands)
+Age (yr)
+Systolic blood pressure (mm Hg)
+Diastolic blood pressure (mm Hg)
+Diastolic blood pressure
+a90 mm Hg (%)
+Dietary calcium (mg)
+Energy intake (kcal)
+Dietary potassium (mg)
+Height (m)
+Weight (kg)
+Body mass index (kg/m2)
+NHANES
+I
+(n = 5840)
+54,843
+54±0.2
+135±0.6
+84±0.4
+33±1.3
+702 ±12
+1834±24
+2267 ±31
+1.67 ±0.002
+72 ±0.24
+25.7±0.1
+n
+(n = 5490)
+53,576
+54 ±0.3
+132±0.7t
+83 ±0.5
+34±1.7
+699 ±13
+1831 ±19
+2420 ±27t
+1.68±0.002
+73 ±0.24
+25.8±0.1
+Values are means ± SE. NHANES = National Health and
+Nutrition Examination Survey.
+·Includes only black and white participants.
+tp < 0.05, compared with NHANES I values.
+Source: NHANES I (1971-1974), NHANES U (1976-1980).
+Hyattsville, MD: National Center for Health Statistics.
+nificantly (p<0.05) higher mean intakes of dietary
+calcium after adjusting for age and BMI (see Table 2).
+When hypertension was defined as a blood pressure
+of 160/95 mm Hg or greater, only the black hyperten-
+sive men from NHANES I were found to have a sig-
+nificantly (p<0.05) lower adjusted mean dietary cal-
+cium intake (514 ± 29 mg) than black normotensive
+men (738 ± 54 mg). When hypertension was defined
+as a SBP of 160 mm Hg or greater, hypertensive white
+women in NHANES I (604 ± 10 vs 553 ± 22 mg) and
+black hypertensive women in NHANES II (495 ± 29
+vs 408 ± 59 mg) had significantly (p<0.05) lower
+adjusted mean calcium intakes than did white and
+black normotensive women, respectively. There were
+no other significant differences in either NHANES I or
+II. No significant differences were found when hyper-
+tension was defined as a DBP of 95 mm Hg or greater
+or as a blood pressure of 140/90 mm Hg or greater
+(data not shown).
+Shown in Table 3 are the number of examined per-
+sons in each of the calcium intake groups by race and
+sex. For white men and women, there was a reason-
+ably large number of examined persons in each group.
+However, the very small sample sizes for black men
+and women in the two highest calcium intake groups in
+both surveys and in the middle quintile group in
+NHANES U may lead to unreliable estimates of mean
+blood pressure. That fact must be taken into account
+when examining the results in Tables 4 and 5. The
+sample sizes for black men and women in the highest
+calcium intake groups were too small to estimate prev-
+alence of hypertension; accordingly, only results for
+whites will be given when estimating the prevalence of
+hypertension (see Table 6).
+Mean values for SBP and DBP after adjustment for
+age and BMI are shown by race and sex for each of the
+calcium intake groups in Tables 4 and 5. For black
+men, only mean SBP and DBP in the lowest calcium
+intake group (<250 mg) and mean SBP in the 501 to
+750 mg intake group were significantly (p<0.05)
+higher than the values for the highest calcium intake
+group (> 1000 mg), and then only in NHANES I, not
+in NHANES II. There were no other statistically sig-
+nificant differences in either table, although black
+women in NHANES I showed a nonsignificant trend
+toward higher blood pressure with lower calcium in-
+TABLE 2. Comparison of Unadjusted and Adjusted* Mean Intake of Dietary Calcium Between Normotensive and
+Hypertensive Persons Aged 40 to 74 Years by Race and Sexfrom National Health and Nutrition Examination Surveys 1
+and II
+Survey Race Sex
+Men
+Women
+Men
+Women
+Men
+Women
+Men
+Women
+No. in
+analytic
+sample
+215
+246
+1498
+1866
+135
+126
+1617
+1786
+Normotensivet
+Calcium i
+Unadjusted
+722 ±52
+435 ±36
+865 ±25
+601 +10
+598 ±49
+482 ±42
+849±25
+606±16
+intake (mg)
+Adjusted
+725 ±51*
+432 ±38
+858 ±25
+59O±1O
+605 ±53
+480±41
+845 ±26
+598 ±15
+No. in
+analytic
+sample
+208
+227
+848
+732
+122
+116
+902
+686
+Hypertensive!
+Calcium intake (mg)
+Unadjusted
+580±69
+389 ±27
+801 ±29
+586 ±20
+621 ±61
+474 ±54
+805 ±22
+570+15
+Adjusted
+577 ±67
+393 ± 29
+813±31
+615 ±20
+613±53
+476 ±50
+811 ±23
+591 ±16
+NHANES I Black
+White
+NHANES n Black
+White
+Values are means ± SE. NHANES = National Health and Nutrition Examination Survey.
+*Adjusted for age and body mass index.
+tNormotensive = diastolic blood pressure <90 mm Hg; hypertensive = diastolic blood pressure &90 mm Hg.
+Xp < 0.05, for comparison between adjusted means within a survey race-sex group.
+Source: NHANES I (1971-1974), NHANES U (1976-1980). Hyattsville, MD: National Center for Health Statistics.
+1070 HYPERTENSION VOL 8, No 11, NOVEMBER 1986
+TABLE 3. Number of Persons Aged 40 to 74 Years in Analytic Sample by Calcium Intake Group, Race, and Sexfrom
+National Health and Nutrition Examination Surveys I and II
+Survey Race Sex
+Men
+Women
+Men
+Women
+Men
+Women
+Men
+Women
+£250
+111
+149
+194
+443
+62
+85
+179
+442
+Calcium intake
+251-500
+127
+165
+570
+819
+77
+81
+618
+807
+501-750
+82
+93
+528
+629
+42
+33
+603
+592
+(mg)
+751-1000
+50
+35
+400
+337
+37
+24
+420
+307
+>1000
+53
+31
+654
+370
+39
+19
+699
+324
+NHANES I
+NHANES II
+Black
+White
+Black
+White
+NHANES = National Health and Nutrition Examination Survey.
+Source: NHANES I (1971-1974), NHANES II (1976-1980). Hyattsville, MD: National Center for Health Statistics.
+TABLE 4. Adjusted* Mean Systolic Blood Pressure (mm Hg) by Calcium Intake Group, Race, and Sex for Persons
+Aged 40 to 74 Years from National Health and Nutrition Examination Surveys I and II
+Survey Race Sex
+Men
+Women
+Men
+Women
+Men
+Women
+Men
+Women
+^250
+155t
+150
+136
+134
+137
+142
+133
+130
+Calcium intake
+251-500
+141
+146
+135
+135
+139
+137
+132
+131
+501-750
+146t
+140
+135
+133
+137*
+139*
+133
+129
+(mg)
+751-1000
+145
+150t
+135
+134
+134*
+131*
+132
+132
+>1000
+133
+139*
+136
+132
+136*
+133*
+134
+130
+NHANESI
+NHANES H
+Black
+White
+Black
+White
+NHANES = National Health and Nutrition Examination Survey.
+·Adjusted for age and body mass index.
+\p < 0.05, /003
+= 2.241. Within each race-sex group and survey, all comparisons were made against the highest
+calcium intake group (>1000 mg).
+*Due to small sample size, statistic may not be reliable.
+Source: NHANES I (1971-1974), NHANES II (1976-1980). Hyattsville, MD: National Center for Health Statistics.
+take. In NHANES I, however, there does appear to be
+a threshold effect at a calcium intake of 1000 mg in
+black men and women, but this may be due to the small
+sample size in the highest intake group. The possible
+threshold effect was not seen in whites from NHANES
+I or in any race-sex group in NHANES LI. Notice also
+that, except for dietary calcium intake greater than
+1000 mg, blacks of both sexes within the same calcium
+intake group tended to have higher mean SBP and DBP
+than their white counterparts.
+The prevalence of a DBP of 90 mm Hg or more did
+not vary significantly (p>0.05) by calcium intake
+group for white men or women in either NHANES I
+and II (Table 6). Again, in neither NHANES I nor II
+was a significant difference found for either sex us-
+ing any of the other four definitions of hypertension:
+1) DBP of 95 mm Hg or more, 2) blood pressure of
+140/90 mm Hg or more, 3) blood pressure of 160/95
+mm Hg or more, and 4) SBP of 160 mm Hg or more
+(data not shown).
+Discussion
+The results of our analyses do not support the
+hypothesis that dietary calcium intake is negatively
+associated with blood pressure or the prevalence of
+hypertension, nor do they support the hypothesis that
+low calcium intakes by blacks can explain blood pres-
+sure differences between blacks and whites. Hyperten-
+sive subjects, defined as persons having a DBP of 90
+mm Hg or more, did not report significantly lower
+dietary calcium intakes. Except for black men in
+NHANES I, mean blood pressure (SBP and DBP) in
+the lowest dietary calcium intake groups (^ 250 mg)
+was not significantly greater than the means for the
+highest intake group (> 1000 mg), and the prevalence
+of hypertension in whites was not found to berelatedto
+intake of dietary calcium.
+Our results do not rule out the possibility that such
+an association does exist, however. Two principal
+points need to be considered in this regard: 1) the
+design of NHANES I and II and 2) the effects of high
+DIETARY CALCIUM AND BLOOD PRESSURE/Sempos et al. 1071
+TABLE 5. Adjusted* Mean Diastolic Blood Pressure (mm Hg) by Calcium Intake Group, Race, and Sexfor Persons
+Aged 40 to 74 Years from National Health and Nutrition Examination Surveys I and II
+Calcium intake (mg)
+Survey Race Sex =£250 251-500 501-750 751-1000 >1000
+NHANES I
+NHANES D
+Black
+White
+Black
+White
+Men
+Women
+Men
+Women
+Men
+Women
+Men
+Women
+98t
+91
+87
+83
+87
+87
+84
+82
+90 91 92 86
+89
+86
+82
+86
+85
+84
+81
+88
+84
+82
+85$
+89$
+85
+81
+91$
+85
+83
+88$
+86$
+85
+81
+83$
+86
+82
+86$
+87$
+85
+81
+NHANES = National Health and Nutrition Examination Survey.
+·Adjusted for age and body mass index.
+tp < 0.05, tooi
+= 2.241. Within each race-sex group and survey, all comparisons were made against the highest
+calcium intake group (>1000 mg).
+$Due to small sample size, statistic may not be reliable.
+Source: NHANES I (1971-1974), NHANES II (1976-1980). Hyattsville, MD: National Center for Health Statistics.
+TABLE 6. Adjusted* Prevalence of Hypertension (%)t by Calcium Intake Group, and Sex for Whites Aged 40 to 74
+Years from National Health and Nutrition Examination Surveys I and II
+Survey
+NHANESI
+NHANESD
+Sex
+Men
+Women
+Men
+Women
+S25O
+41
+26
+38
+30
+Calcium intake
+251-500
+44
+26
+39
+26
+501-750
+31
+27
+34
+28
+(mg)$
+751-1000
+36
+27
+39
+29
+>1000
+36
+27
+37
+27
+NHANES = National Health and Nutrition Examination Survey.
+·Adjusted for age and body mass index.
+tHypertension was defined as a diastolic blood pressure &90 mm Hg.
+$(oo5 = 2.241. Within each sex group and survey, all comparisons were made against the highest calcium intake group
+(>1000 mg).
+Source: NHANES I (1971-1974), NHANES II (1976-1980). Hyattsville, MD: National Center for Health Statistics.
+APPENDIX. Exclusions from National Health and Nutrition Examination Surveys I and II to Form Analytic Samples by
+National Center for Health Statistics Tape Catalog Number and Tape Positions
+Exclusions for
+Age at interview
+Race listed as othert
+Missing systolic BP$
+Missing diastolic BP$
+Antihypertensive use§
+Oral contraceptive use
+Pregnant at interview
+Inputted 24-hour recall data
+NHANES
+Tape
+catalog
+number
+Any tape
+Any tape
+4233
+4233
+4081
+4081
+4081
+4701
+I
+Tape
+positions
+101-102
+103
+228-230
+231-233
+423
+464
+472
+481
+NHANES
+Tape
+catalog
+number
+Any tape
+Any tape
+5305
+5305
+5020
+5305
+5305
+5701
+n
+Tape
+positions
+47-48
+56
+791-793
+794-796
+1069
+111
+785
+368
+NHANES = National Health and Nutrition Examination Survey; BP = blood pressure.
+·National Center for Health Statistics, Hyattsville, MD. NHANES I and NHANES II data release tapes are available
+from the National Technical Information Service (NTIS), 5285 Port Royal Road, Springfield, VA 22161.
+tSample restricted to blacks (Race = 2) and whites (Race = 1). Persons with race listed as other (Race = 3) were
+excluded from the study sample because of small numbers.
+$For compatibility with the one measurement of blood pressure in NHANES I, only the first seated blood pressure from
+NHANES II was used in the analyses.
+§Regular (1) or occasional use (2) at time of interview in NHANES I; use (1) at time of interview in NHANES II
+(Numerals 1,2, and 3 represent coding on tapes).
+1072 HYPERTENSION VOL 8, No 11, NOVEMBER 1986
+ratios of within-person (a2,) to between-person £
+variation in the intake of dietary calcium and in SBP
+and DBP.
+Both NHANES I and NHANES II were cross-sec-
+tional surveys. As a result, a person's reported dietary
+calcium intake may not accurately represent the usual
+intake over a long period before the survey or, for that
+matter, the usual intake at present.20'2I An epidemio-
+logical follow-up survey of adults examined in
+NHANES I has recently been completed, and future
+analysis of those data will be helpful in investigating
+the relationship of prior dietary calcium intake to blood
+pressure and the incidence of hypertension.22
+Reported dietary intake was estimated in both sur-
+veys from one 24-hour recall. The estimated intakes,
+as such, do not include nutrient intake from nonfood
+sources (e.g., vitamin or mineral supplements) or wa-
+ter. Calcium supplement use does not appear to have
+been common at the time of either survey. Of approxi-
+mately 20,000 persons examined in each survey, only
+26 people in NHANES I and 65 in NHANES U stated
+that their primary supplement was a calcium supple-
+ment. However, the more common usage of multivita-
+min or mineral supplements would have supplied some
+calcium that would not be accounted for in the intake
+estimates for dietary calcium. Although water hard-
+ness data are available from an augmentation survey to
+NHANES I, there are no such data for the general
+sample from NHANES I or NHANES II. Water ac-
+counts for a significant proportion of total calcium
+intake.23 However, a recent study that accounted for
+calcium intake from all sources also failed to find a
+significant relationship between estimated current cal-
+cium intake and blood pressure.24
+A phenomenon that also plays an important role in
+the ability to estimate accurately an individual's usual
+intake of calcium, or an individual's usual value for
+any variable (e.g., blood pressure), is the ratio of the
+amount of variation within (A]) to the amount of vari-
+ation that exists between (a2) individuals. High ratios
+of al/al will bias correlation and slope coefficients
+toward zero.20'2I In general, ratios of o\Jol for dietary
+intake are greater than 1, indicating that there is more
+variation within the diets of individuals than there is
+between them.20 In cross-sectional surveys such as
+NHANES I and II, in which subject's intake is estimat-
+ed from only one 24-hour recall or diet record, this
+implies that correlation and slope coefficients based on
+individual data will underestimate the magnitude of the
+association under investigation.20-21'23~30 The ratio of
+G2Ja\ for calcium has been estimated to be approxi-
+mately equal to 1 .Mi n As a result, the observed regres-
+sion slope for the model in which blood pressure is
+regressed on each subject's dietary calcium intake may
+underestimate the true slope by 50% or more.20
+There are only two ways to reduce the impact of
+high ratios of aj/cy2,: 1) increase the number of mea-
+surements of diet or blood pressure to be collected
+from each person, which in the case of a completed
+survey like the NHANES is a moot point, and 2) base
+the analysis on groups instead of individuals.
+Although there is within-person variability associat-
+ed with blood pressure, the ratios of al/cl for SBP
+(0.22) and DBP (0.26) were small (ratios of a2ja2
+w
+for
+SBP and DBP were estimated from NHANES II data
+by applying the correlation between the first and sec-
+ond seated SBP [r12
+= 0.821] and DBP [rn
+= 0.792] to
+the formula a2jal = [1 - rn
+]/rl2
+from Liu et al.21) As a
+result, our major concern was for the ratio of cs2jol for
+dietary calcium. By breaking up dietary calcium intake
+into quintiles, we were able to reduce misclassification
+error. For example, given aw
+equal to 255 for cal-
+cium,29 and one 24-hour recall, the probability (p) of
+misclassifying a subject from the fifth quintile (> 1000
+mg) to the first, second, or third quintiles was 0.0013,
+0.023, and 0.159, respectively. As a result, misclassi-
+fication error should not have affected our compari-
+sons of SBP and DBP between the first and fifth quin-
+tiles and the second and fifth quintiles.
+Even in using a "quantile" method of analysis, po-
+tential problems remain. First of all, as shown, there
+must be a sufficiently large distance between the two
+groups being compared to gain any advantage at all.
+Second, the accuracy of the estimate of the mean value
+for the group and the power to detect differences be-
+tween groups are also a function of the sample size.
+The requirements of large numbers of groups and a
+large sample size within each group tend to oppose
+each other. For a fixed sample size, therefore, only a
+limited number of groups is possible.
+Sample size and power are also important issues
+when comparing means between normotensive and hy-
+pertensive subjects. For black men and women, the
+power to detect a 100-mg difference in mean dietary
+calcium intake varied from approximately 0.9 in
+NHANES I to 0.7 in NHANES II. (The power esti-
+mates were calculated assuming the following for
+blacks: at least 200 people per group in NHANES I and
+125 people per group in NHANES II; and for white: at
+least 700 people per group in either survey; value of
+aw
+= 255 for calcium; one 24-hour recall, and
+a = 0.05 (one-sided) equal to 1.645.16'2]- *>) The lower
+power in NHANES II reflects the smaller analytic sam-
+ples for black men and women in that survey (see
+Table 2). The small sample also may have contributed
+to the inability to find an association between calcium
+and blood pressure for black men and women in
+NHANES n. For white men and women, the sample
+sizes shown in Table 2 were large enough to detect a
+50-mg difference in mean dietary calcium intake with a
+power of approximately 0.8.
+Another factor that could have affected our ability to
+find an association between dietary calcium and blood
+pressure was the exclusion of all persons receiving
+antihypertensive medication. People receiving antihy-
+pertensive medications may represent a pool of
+calcium-sensitive individuals. It was necessary, how-
+ever, to exclude these persons from analysis, since
+their blood pressure values while receiving medication
+would not represent their "real" value. From NHANES
+I to NHANES II there was approximately a 10% in-
+crease in the number of people receiving antihyperten-
+sive medication. Their exclusion from both analytic
+samples coupled with their increase in NHANES II
+DIETARY CALCIUM AND BLOOD PRESSUREASemptw et al. 1073
+may have biased the results from NHANES I, and
+especially those from NHANES II, toward finding no
+association.
+The use of "quantile" methods of analysis for these
+cross-sectional data provided results that seem to con-
+tradict results found by other investigators using
+NHANES I and II data, who reported finding a statisti-
+cally significant association between dietary calcium
+intake and blood pressure.1- 7>31 Careful comparison of
+the reported findings, however, resolves this apparent
+contradiction. The article by McCarron et al.7 has been
+reviewed elsewhere32 and need not be discussed here.
+Recently, Harlan et al.131 have published two addi-
+tional articles on blood pressure-nutrient associations,
+based on subsamples from NHANES I and II. In both
+reports stepwise regression procedures were used to
+determine the best predictors of blood pressure from a
+group of approximately 30 variables, which included
+dietary calcium intake. The NHANES I data were re-
+ported by sex and by race but, because of the small
+sample size, were not cross-classified into the four
+sex-race groups used for this analysis. Similarly,
+NHANES II data were reported by sex alone.
+Based on data from the NHANES I sample of per-
+sons aged 25 to 74 years who received a detailed medi-
+cal examination, it was reported that low dietary cal-
+cium was a predictor of SBP in men, DBP in women,
+and DBP in blacks.1 However, the coefficient for SBP
+for men was positive, and for women was nonsignifi-
+cant (/ = -- 1.89). Thus, only for DBP among blacks
+was the association between calcium and DBP both
+significant and negative. Based on data from a differ-
+ent subsample from NHANES II, dietary calcium was
+not associated with blood pressure in men or women,
+although the authors did report a significant associ-
+ation between the scaled frequency of consumption of
+calcium-rich foods and blood pressure in women
+alone.31 Finally, a recent reanalysis of NHANES I data
+demonstrated an association only among black men.33
+What emerges from these various methods of analysis,
+in our view, is that there was a negative association
+between dietary calcium and blood pressure only in
+black men and only in NHANES I. Given the multiple
+subgroups examined, and the lack of confirmation of
+this finding in NHANES II, it would seem reasonable
+to regard this as a chance finding that has yet to be
+confirmed by replication.
+Four additional epidemiological surveys have exam-
+ined the relationship between dietary calcium and
+blood pressure. A low intake of milk products or cal-
+cium was associated with higher blood pressure in
+studies from Honolulu, Puerto Rico, and San Diego.2"4
+Persons with cardiovascular disease who participated
+in those cardiovascular disease surveys may have re-
+duced their fat intake, however, thus confounding the
+milk-blood pressure association. Nichaman et al.3 re-
+ported an association between calcium intake and DBP
+in multiple linear regression analysis performed on the
+baseline data in the Western Electric Study. An addi-
+tional case-control study suggested that hypertensive
+subjects consumed less calcium.6 Only 45 participants
+were included in each group in this last study, how-
+ever, and while patients were drawn from a clinic
+population, controls were apparently university per-
+sonnel. All of the dietary differences in calcium could
+be explained by increased yogurt and cheese consump-
+tion in the controls. Dietary supplementation with cal-
+cium has also been reported to reduce blood pressure in
+normotensive volunteers in one study34 and in per-
+sons receiving antihypertensive medication in another
+study.35
+In contrast to the contradictory findings for dietary
+calcium and blood pressure, a highly consistent rela-
+tionship between total serum calcium and blood pres-
+sure appears to be established. Several large studies,
+most including more than 10,000 participants, have
+demonstrated a significant increase in blood pressure
+with rising levels of total serum calcium. '·36~39 McCar-
+ron,40 on the other hand, has reported lower ionized
+calcium in a series of 23 patients, while two additional
+studies found no difference between patients and con-
+trols in ionized calcium.4142 A high correlation be-
+tween ionized and total serum calcium exists in per-
+sons with normal serum albumin; thus, opposite
+associations with hypertension seem unlikely. The
+weight of the evidence therefore supports a positive
+association between serum calcium and blood pres-
+sure. Whether dietary factors play a significant role in
+this association, or whether higher serum calcium is a
+result of hypertension itself, remains to be determined.
+Investigations into the physiological controls of ion-
+ized calcium, as well as magnesium and vasoactive
+hormones, may further elucidate these matters.43 There
+is, however, some suggestion that hypertensive sub-
+jects with low serum levels of ionized calcium and low
+plasma renin levels may respond to calcium supple-
+mentation.44 Our results do not rule out the possibility
+that there may be a subgroup of hypertensive subjects
+for which a negative relationship exists between blood
+pressure and calcium intake.
+A new and interesting field of investigation has been
+developing in relation to cellular calcium and hyper-
+tension. High free cytosolic calcium in platelets4346
+has been reported in hypertensive subjects, along with
+a variety of abnormalities in flux rates and binding of
+calcium.47'w These findings are yet too fragmentary to
+allow definitive conclusions, however. It seems likely,
+nonetheless, that the relationships among dietary, se-
+rum, and cellular calcium are complicated and indi-
+rect, with a number of independent control mecha-
+nisms involved in the regulation of serum and
+intracellular levels. Although the available evidence
+supports the view that calcium is higher in the serum
+and cells in hypertensive subjects, the importance of
+dietary calcium, in our opinion, remains controversial.
+References
+1. Harlan WR, Hull AL, Schmouder RL, Landis JR, Thompson
+FE, Larkin FA. Blood pressure and nutrition in adults: the
+National Health and Nutrition Examination Survey. Am J Epi-
+demiol 1984; 120:17-28
+2. Reed D, McGee K, Yano K, Hankin J. Diet and blood pressure
+among elderly Japanese men [Abstract]. Am J Epidemiol
+1984; 120:468
+3. Garcia-Palmien MR, Costas R Jr, Cruz-Vidal M, Sorlie PD,
+1074 HYPERTENSION VOL 8, No 11, NOVEMBER 1986
+Tillotson J, Havlik RJ. Milk consumption, calcium intake, and
+decreased hypertension in Puerto Rico. Hypertension 1984;
+6:322-328
+4. Ackley S, Barrett-Conner E, Suarez L. Dairy products, cal-
+cium and blood pressure. Am J Clin Nutr 1983;38:457-461
+5. Nichaman M, Shekelle R, Paul O. Diet, alcohol and blood
+pressure in the Western Electric Study [Abstract]. Am J Epide-
+miol 1984;120:469
+6. McCarron DA, Morris CD, Cole C. Dietary calcium in human
+hypertension. Science 1982;217:267-269
+7. McCarron DA, Morris CD, Henry HJ, Stanton JL. Blood pres-
+sure and nutrient intake in the United States. Science 1984;
+224:1392-1398
+8. Landis JR, Lepkowski JM, Eklund SA, Steinhouwer S. A
+statistical methodology for analyzing data from a complex sur-
+vey, the first National Health and Nutrition Examination Sur-
+vey. Hyattsville, MD: National Center for Health Statistics,
+September 1982; DHHS publication no (PHS) 82-1366 (Vital
+and health statistics; series 2; no 92)
+9. Miller HW. Plan and operation of the Health and Nutrition
+Examination Survey: United States, 1971-73. Hyattsville,
+MD: National Center for Health Statistics, January 1977;
+DHEW publication no (PHS) 73-1310 and 73-1311 (Vital and
+health statistics; series 11; nos 10a and 10b)
+10. Engel A, Murphy RS, Maurer K, Collins E. Plan and operation
+of the HANES I augmentation survey of adults 25-74 years:
+United States 1974-75. Hyattsville, MD: National Center for
+Health Statistics, June 1978; DHEW publication no (PHS) 78-
+1314 (Vital and health statistics; series 1; no 14)
+11. McDowell A, Engel A, Massey JT, Maurer K. Plan and oper-
+ation of the second National Health and Nutrition Examination
+Survey, 1976-80. Hyattsville, MD: National Center for Health
+Statistics, July 1981; DHHS publication no (PHS) 81-1317.
+(Vital and health statistics; series 1; no 15)
+12. Carrol MD, Abraham S, Dresser CM. Dietary intake source
+data: United States, 1976-80. Hyattsville, MD: National Cen-
+ter for Health Statistics, March 1983; DHHS publication no
+(PHS) 83-1681 (Vital and health statistics; series 11; no 231)
+13. Harlan WR, Hull AL, Schmouder RL, Thompson FE, Larkin
+FA, Landis JR. Dietary intake and cardiovascular risk factors:
+Part I. Blood pressure correlates, United States 1971-75. Hy-
+attsville, MD: National Center for Health Statistics, February
+1983; DHHS publication no (PHS) 83-1676 (Vital and health
+statistics; series 11; no 226)
+14. HANES, examination staff procedures manual for the Health
+and Nutrition Examination Survey, 1971-1973. Hyattsville,
+MD: National Center for Health Statistics, June 1972 (NCHS
+instruction manual; part 15a)
+15. HANES, examination staff procedures manual for the Health
+and Nutrition Examination Survey, 1976-79. Hyattsville, MD:
+National Center for Health Statistics, September 1976 (NCHS
+instruction manual; part 15a)
+16. Neter J, Wasserman W. Applied linear statistical models.
+Homewood, IL: Richard D. Irwin, 1974:480-482, 699-702
+17. Helwig JT, Council KA, eds. SAS user's guide, 1979 ed.
+Cary, NC: SAS Institute, 1979. 494 pp
+18. Shah BV. SESUDAAN: standard errors program for comput-
+ing of standardized rates from sample survey data. Research
+Triangle Park, NC: Research Triangle Institute, 1981. 33 pp
+19. Holt MM, revised by Shah BV. SURREGR: standard errors of
+regression coefficients from sample survey data. Research Tri-
+angle Park, NC: Research Triangle Institute, April 1982.14 pp
+20. Sempos CT, Johnson NE, Smith EL, Gilligan C. Effects of
+intraindividual and interindividual variation inreporteddietary
+records. Am J Epidemiol 1985;121:120-130
+21. Liu K, Stamler J, Dyer A, McKeever J, McKeever P. Statisti-
+cal methods to assess and minimize the role of intra-individual
+variability in obscuring therelationshipbetween dietary lipids
+and serum cholesterol. J Chronic Dis 1978;31:399-418
+22. Comoni-Huntley J, Barbano HE, Brody JA, et al. National
+Health and Nutrition Examination I: epidemiologic follow-up
+survey. Pub Health Rep 1983;98:245-251
+23. Sowers MR, Wallace RB, Lemke JH. Correlates of mid-radius
+bone density among postmenopausal women: a community
+study. Am J Clin Nutr 1985;41:1045-1053
+24. Sowers MR, Wallace RB, Lemke JH. The association of in-
+takes of vitamin D and calcium with blood pressure among
+women. Am J Clin Nutr 1985;42:135-142
+25. McGill HC Jr., McMahan CA, Wene JD. Unresolved prob-
+lems in the diet-heart issue. Arteriosclerosis 1981 ;1:164--
+176
+26. Jacobs DR Jr, Anderson JT, Blackburn H. Diet and serum
+cholesterol: do zero correlations negate therelationship?Am J
+Epidemiol 1979; 110:77-87
+27. Beaton GH, MilnerJ, Corey P, etal. Sources of variance in 24-
+hour dietary recall data: implications for nutrition study design
+and interpretation. Am J Clin Nutr 1979;32:2546-2559
+28. Beaton GH, Milner J, McGuire V, Feather TE, Little JA.
+Sources of variance in 24-hour dietary recall data: implications
+for nutrition study design and interpretation; carbohydrate
+sources, vitamins and minerals. Am J Clin Nutr 1983;37:
+986-995
+29. Sempos CT. A two year survey of perimenopausal women: the
+use of repeated measures of diet to estimate usual intake. [Dis-
+sertation]. Madison, Wl: University of Wisconsin, 1982. 147
+PP
+30. Gordon T, Sortie P, Kannel WB. Problems in the assessment
+of blood pressure: the Framingham Study. Int J Epidemiol
+1976;5:327-334
+31. Harlan WR, Landis JR, Schmouder RL, Goldstein NG, Harlan
+LC. Blood lead and blood pressure:relationshipin the adoles-
+cent and adult U.S. population. JAMA 1985; 253:530-
+534
+32. Feinleib M, Lenfant C, Miller SA. Hypertension and calcium.
+Science 1984;226:384-386
+33. Gruchow HW, Sobocinski KA, Barboriak JJ. Alcohol, nutri-
+ent intake, and hypertension in U.S. adults. JAMA 1985;253:
+1567-1570
+34. Belizan J, Villar J, Pineda O, et al. Reduction of blood pressure
+with calcium supplementation in young adults. JAMA
+1983^49:1161-1165
+35. Johnson NE, Smith EL, Freudenheim JL. Effects on blood
+pressure of calcium supplementation of women. Am J Clin
+Nutr 1985;42:12-17
+36. Robinson D, Bailey AR, Williams PT. Calcium and blood
+pressure. Lancet 1982;1:1215--1216
+37. Bulpitt CJ, Hodes C, Everitt MG. The relationship between
+blood pressure and biochemical risk factors in a general popu-
+lation. Br J Prev Soc Med 1976;3O:158-162
+38. Kesteloot H, Geboers J. Calcium and blood pressure. Lancet
+1982;1:813-S15
+39. Curb J, Langford H, Pressel S (on behalf of the HDEP Cooper-
+ative Group). The relationship of baseline calcium and blood
+pressure [Abstract]. Am J Epidemiol 1984; 120:469
+40. McCarron DA. Low serum concentrations of ionized calcium
+in patients with hypertension. N Engl J Med 1982;3O7:
+226-228
+41. Strazzulo P, Nunziata V, Cirillo M, et al. Abnormalities of
+calcium metabolism in essential hypertension. Clin Sci 1983;
+65:137-141
+42. Katz S, Shamsi N, Islam N, Cooper R. Ionized calcium in
+black hypertensives [Abstract]. CVD Epidemiology Newslet-
+ter January 1985:42
+43. Resnick LM, Laragh JH, Sealey JE, Alderman MH. Divalent
+cations in essential hypertension: relations between serum ion-
+ized calcium, magnesium and plasma renin activity. N Engl J
+Med 1983;3O9:888-891
+44. Resnick LM. Calcium and hypertension: the emerging connec-
+tion. Ann Intern Med 1985;103:944-945
+45. EmeP, BolliP, BurgisserE, BuhlerFR. Correlation of platelet
+calcium with blood pressure: effect of anti-hypertensive ther-
+apy. N Engl J Med 1984;310:1084-1088
+46. Bruschi G, Bruschi ME, Caroppo M, Orlandini G, Spaggiari
+M, Cavatorta A. Cytoplasmic free calcium is increased in the
+platelets of spontaneously hypertensive rats and essential hy-
+pertensive patients. Clin Sci 1985;68:179-184
+47. Postnov YV, Oriof SN. Cell membrane alteration as a source
+of primary hypertension. J Hypertension 1984;2:l-6
+48. Swales JD. Ion transport in hypertension. Biosci Rep 1982;
+2:967-990
+

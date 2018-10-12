@@ -1,0 +1,875 @@
+Evolutionary Psychology
+www.epjournal.net ­ 2010. 8(2): 205-228
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Original Article
+Understanding of Evolution May Be Improved by Thinking about People
+Daniel Nettle, Centre for Behaviour and Evolution, Institute of Neuroscience, Newcastle University, UK.
+Email: daniel.nettle@ncl.ac.uk.
+Abstract: The theory of evolution is poorly understood in the population at large, even by
+those with some science education. The recurrent misunderstandings can be partly
+attributed to failure to distinguish between processes which individual organisms undergo
+and those which populations undergo. They may be so pervasive because we usually
+explain evolutionary ideas with examples from non-human animals, and our everyday
+cognition about animals does not track individuals as distinct from the species to which
+they belong. By contrast, everyday cognition about other people tracks unique individuals
+as well as general properties of humans. In Study 1, I present experimental evidence that
+categorization by species occurs more strongly for non-human animals than for other
+people in 50 British university students. In Study 2, I show, in the same population, that
+framing evolutionary scenarios in terms of people produces fewer conceptual errors than
+when logically identical scenarios are framed terms of non-human animals. I conclude that
+public understanding of evolution might be improved if we began instruction by
+considering the organisms which are most familiar to us.
+Keywords: evolution, social cognition, human-animal interactions, education
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Introduction
+Although the theory of evolution by natural selection is overwhelmingly accepted
+as true by biologists, the general public is not so convinced, with only around 30% of
+Britons, for example, endorsing the belief that the theory of evolution is definitely true
+(Miller, Scott, and Okamoto, 2006). Perhaps more troublingly, research suggests that there
+is very widespread misunderstanding of the mechanisms which drive evolutionary change
+(Bishop and Anderson, 1990; Demastes, Settlage, and Good, 1995; Gregory, 2009;
+Hallden, 1988; Shtulman, 2006). This is true amongst those who accept evolution as much
+as those who reject it, and even true in science students and among biology teachers
+(Brumby, 1984; Nehm, Kim, and Sheppard, 2009). Misunderstanding is only modestly
+reduced by formal instruction in many studies (Gregory and Ellis, 2009; Jensen and Finley,
+1995; Nehm and Reilly, 2007). The misunderstandings are diverse, but there is a set that
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -206-
+appears to recur across different populations (Bishop and Anderson, 1990; Gregory, 2009;
+Shtulman, 2006). For example, people conceive of species as entities which have distinct
+moments of birth and death (and hence ages), and which have needs, and strategies to
+further them. Evolutionary change is seen as a response to these needs. Mutation and
+inheritance are thought of goal-directed, so mutations arise and/or are passed on because
+they are beneficial. The distinction between the statistical change in the composition of
+populations which actually characterizes evolution, and ontogenetic changes within
+particular individuals, tends not to be clearly made. Thus, people conflate the proportion of
+moths in a population which are dark increasing over time with individual moths becoming
+darker as they age, and people assume that if an individual acquires a character something
+in its lifetime, that character thereby becomes a property of the species in general ("soft
+inheritance": Gregory, 2009). Individuals are widely assumed to do things "for the good of
+the species".
+Central to these incorrect understandings is an under-appreciation of within-species
+variation and its consequences (Hallden, 1988). Students tend to argue that all members of
+a species must be basically the same (Gregory, 2009), and when asked to choose cartoons
+of evolutionary processes, select those in which at any one point in time, all individuals
+have the same phenotype (Shtulman, 2006). Shtulman and Schulz have recently shown
+that students who appreciate the extent of individual-level variability are more likely to
+have a correct mechanistic grasp of natural selection (Shtulman and Schulz, 2008). They
+suggest variation is under-appreciated because our habitual cognition about non-human
+animals tracks properties mainly at the species level. This may be pragmatically useful
+(deer are good to eat, tigers are dangerous; these species-level properties are more
+important to us than individual variation), but leads to error when applied to evolution,
+where the differences between individuals, and the heterogeneity in what befalls
+individuals over their lifetimes, are the central engines of the process.
+To be precise, then, the hypothesis is that, for non-human animals, cognitive
+representations are maintained only or mainly at the type level, and not maintained, or
+maintained only weakly, at the individual level. This accords with a wealth of
+developmental and cross-cultural research on folk biology, which shows that the type is a
+cross-culturally recurrent, ontogenetically early, and inferentially privileged level of
+representation when reasoning about the natural world (Medin and Atran, 2004). Note that
+"types" here refers to folk species, that is, taxa which have a single ordinary-language name
+(referred to as "generic species" by Atran et al. 2001). These sometimes correspond to
+biological species (as in the case, say, of lions), but there are many cases where the folk
+species encompasses a genus of closely related biological species (e.g., bears), and some
+cases where two folk species turn out to be the same biological species (e.g., dogs and
+wolves).
+The conceptual primacy of the type in cognition about non-human living things is,
+ex hypothesi, responsible for the intuition that all members of a species must be the same,
+and could also be responsible for many of the other confusions. The ideas that species have
+ages, birth dates, interests and needs, would arise from mis-assigning properties which
+should belong to individuals to the representation of the type. The idea that phenotypic
+characteristics acquired by a single moth during its lifetime automatically become species-
+wide heritable characters would stem from updating a type record when it should be an
+individual record which should have changed. Individual moths would be judged to change
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -207-
+during their lifetime because their individual trajectories (staying the same color) are not
+represented as distinct from the trajectory of the population as a whole (getting darker).
+The idea that mutation and inheritance are directed might arise from thinking of them as
+purposive behavior on the part of the type, which again relates to assigning to the species
+properties which are proper to the individual. Thus, it seems plausible that many of the
+misunderstandings would stem from a central one, that is, cognitively representing non-
+human animals only or predominantly as instances of a type.
+Of course, the insight that understanding Darwinian theory correctly requires the
+shift to thinking about populations of individuals, rather than species, as being of central
+importance, is not a novel one. Ernst Mayr argued that it is exactly the importance attached
+to individual variation and uniqueness which makes Darwinian population thinking
+different from the transformationalist, species-based evolutionary frameworks which
+preceded it (Mayr, 1982), and the emphasis laid on individuals, rather than types, marks a
+difference between the writings of Darwin and Wallace (Kutschera, 2003). Darwin devotes
+the two opening chapters of The Origin to discussing variation, and the difficulty of finding
+the boundaries of species and varieties. From the current perspective, one can see these
+chapters as an attempt to loosen the hold of thinking about animals and plants as mere
+instances of types on the reader, in preparation for the argument which is to come.
+However, there is a cognitive domain already available where we do habitually
+track and represent properties of individuals, and that is cognition about other people.
+Human folk psychology operates on different cognitive principles from folk biology,
+without the conceptual primacy of the type (Atran et al. 2001; Medin and Atran 2004). Our
+social cognitive abilities, having evolved precisely to facilitate appropriate choices of
+coalition partners, friends and people to avoid (Dunbar, 1993, 1998; Humphrey, 1976), are
+exquisitely tuned to the fact that individuals have unique properties which lead to
+differential outcomes. There is comparative evidence from other primates that cognition
+about conspecifics involves the tracking of individuals, whereas that about allospecifics is
+more strongly based on classification by species (Humphrey, 1974). If this is true of
+humans, too, then it would follow that people might make fewer of the characteristic
+misunderstandings described above if they were thinking of the entities involved in the
+evolutionary process as other people, rather than members of other species.
+This article, then, investigates the hypothesis that making students think about
+people gives them better intuitions about how evolution works than making them think
+about non-human animals. In Study 1, I created a novel experimental paradigm for
+assessing whether the tendency to categorize by type is stronger for non-human animals
+than for humans amongst members of my study population (British university students). In
+Study 2, I tested my main hypothesis more directly by presenting logically identical
+evolutionary scenarios framed either in terms of people or in terms of a non-human
+mammal, and testing participants' intuitions about how evolutionary change would occur.
+Study 1: Introduction
+Study 1 sought to establish whether representation by type does indeed occur more
+strongly and immediately for non-human animals than for humans. I aimed to create a
+relatively implicit paradigm for demonstrating this, since my aim is to show that people
+understand evolution badly for deeper reasons than merely having heard it explained by
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -208-
+people who also understand it badly, and because the persistence and pervasiveness of the
+characteristic misunderstandings suggest that categorization of animals at the type level
+might be a highly automatic, low-level process. In the experimental setup, participants saw
+two pictures separated by a five-second delay, and had to judge whether the second picture
+was the exact same picture as the first. The pictures depicted people, animals or inanimate
+objects. The critical comparison was between a condition where the second picture was
+different from the first and showed an entity belonging to a different type (the different-
+type condition), and a condition where the second photograph was different from the first,
+but depicted another entity of the same type (the different-picture condition; see Figure 1
+for example stimuli). I reasoned that categorizing the first picture by type would make the
+different-picture condition more difficult than the different-type condition, since the
+categorical judgment that the second picture was the same type of thing would interfere
+with the production of the correct response, which is that the picture is a different one,
+producing slower reaction times. This kind of interference effect on response latencies and
+accuracies is often used in experimental paradigms within cognitive psychology, as in the
+famous Stroop effect (Stroop, 1935). Thus, if the hypothesis that categorization by type
+occurs more strongly for non-human animals than for humans is correct, then we should
+predict a greater decrement in performance in the different-picture versus the different-type
+conditions for pictures of non-human animals than for pictures of humans.
+Study 1: Materials and Methods
+Materials
+Color digital images were obtained of animals (bears, deer, elephants, lions, tigers,
+dolphins), everyday objects (hammers, shoes, chairs, knives, spoons, mugs), or people
+(non-famous adult women in head and shoulders frame). Multiple images of the same type
+were chosen so as to maximize perceptual distinctiveness, with the animals in different
+poses, and the objects in different orientations. Images were displayed in the center of the
+screen of a desktop computer occupying a standard size of one quarter of the display area.
+The experiment was administered using E-Prime 2.0 (PST, 2007).
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -209-
+Figure 1. Example stimulus pairs for Study 1, for each of the three domains (animals,
+objects, people).
+Note: The left-hand column represents what would be seen in the "same" condition, the
+middle column the "different-picture" condition, and the right-hand column the "different-
+type" condition.
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -210-
+Procedure
+In each trial, a fixation cross appeared center screen, followed by the first picture,
+which was displayed for 1 second. This was followed by a series of colorful Mondrian-
+type block displays which changed every second and lasted five seconds overall. The
+second (target) picture then appeared, and the participant had to judge whether it was the
+same picture as the first, or a different one, using the computer keyboard. There were 6
+trials for each combination of domain (animals, objects, people) and trial type (same,
+different-picture, different-type), giving 6*9 = 54 trials in total. The trials were presented
+in a different random order for each participant.
+Participants
+Subjects were 50 first-year BSc Psychology students from Newcastle University,
+the same population as surveyed in Study 2. Course credit was awarded for participation.
+The study was approved by the Newcastle University psychology ethics committee, and all
+participants gave their informed consent.
+Study 1: Results
+Table 1. Mean (and standard deviation) of reaction times (msecs) for the Study 1 task for
+each combination of domain and trial-type.
+Animals Objects People
+Same 937 (324) 935 (366) 863 (338)
+Different-picture 987 (337) 889 (238) 805 (232)
+Different-type 846 (212) 861 (252) 776 (189)
+Accuracies on the task were generally high (means 5.50 to 5.98 out of a possible 6
+for all 9 of the trial type-domain combinations. Table 1 shows the mean reaction times
+(msec) for each combination of domain and trial type. Participants were faster overall for
+pictures of people than for animals or objects (repeated measures ANOVA: F(2,98)
+= 18.41,
+p < 0.05). To test the main hypothesis, I used a repeated-measures ANOVA comparing the
+reaction times on the different-picture and different-type trials across the three domains.
+There were significant main effects of domain (F(2,98)
+= 16.01, p < 0.05) and trial type
+(F(1,49)
+= 10.31, p < 0.05), and a significant interaction between trial type (F(2,98)
+= 4.45, p <
+0.05). This was driven by participants being slowed up to a greater extent by the different-
+picture relative to the different-type trials in the animal domain than the other two domains.
+To visualize this, I calculated a within-subject difference score of the mean reaction time in
+the different-picture condition minus the mean reaction time in the different-type condition,
+for each domain. For the animal domain, but not the other two domains, this difference
+score differs significantly from zero (Figure 2).
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -211-
+Figure 2. Mean slowing of reaction time in the different-picture condition relative to the
+different-type condition, for the three domains. Only for animals is the mean slowing
+significantly greater than zero.
+Study 1: Discussion
+Study 1 shows that judging a second picture to be a different one from a first is
+more difficult, as evidenced by longer reaction times, when the second picture depicts an
+animal of the same species as the first. No equivalent effects are found for humans or for
+inanimate objects. This suggests that categorization by type occurs very powerfully for
+non-human animals, and this interferes with participants' ability to give different types of
+response than those based on category membership. One possible objection to this
+conclusion is that the low-level perceptual similarity of the animal images is simply greater
+for the different-picture than the different-type conditions. I did attempt to mitigate this
+problem, by choosing different pictures of the same species in different poses, such that the
+body outline in the second picture was often much more different in the different-picture
+than the different-type conditions (see Figure 1). Moreover, the different pictures of
+humans had high levels of basic perceptual similarity, because they all involved women in
+head and shoulders frame facing the camera. Nonetheless, people were no slower to judge
+that two of these images of women were different than they were to judge that an image of
+a woman and an image of an elephant were different. Thus it seems plausible that there are
+genuine differences in the strength and immediacy of categorization by type between the
+domain of non-human animals, and that of people.
+Study 2: Introduction
+Study 1 suggested that there are indeed differences between the human and non-
+human domains in the strength of automatic classification by type, in this population of
+university students. This makes it plausible that thinking about non-human animals will
+lead to more typological-thinking errors in evolutionary reasoning than thinking about the
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -212-
+same processes happening to people, as suggested in the general introduction. To test this
+hypothesis directly, I prepared a questionnaire containing a description of an evolutionary
+scenario where a population moves from one environment to another, and there is an
+adaptive evolutionary response. Multiple choice questions then probed for
+misunderstandings of the mechanisms driving the evolutionary change, and also directly for
+what intuitions the participants had about the extent of intra-population variation. In the
+animal version, the populations were of fossas, a Madagascan carnivore unfamiliar to most
+students, and in the human version, Malagasy people, an unfamiliar but conspecific
+population. The two questionnaires were otherwise identical.
+Though there have been many previous studies of understanding of evolution in
+student populations (Bishop and Anderson, 1990; Brumby, 1984; Demastes et al., 1995;
+Gregory, 2009; Hallden, 1988; Nehm et al., 2009; Shtulman, 2006; Shtulman and Schulz
+2008), no standard method for assessing understanding has emerged. Many studies use
+open-ended responses and categorize misunderstandings retrospectively, whilst others do
+not ask sufficiently precise questions to characterize students' cognition precisely.
+Shtulman (2006) provides the most useful instrument, and it is one that presents the
+students with concrete examples of different species to express their intuitions about.
+However, Shtulman's instrument does not cover the full range of misunderstandings which
+have been described as common in the literature (see Gregory 2009), or those which have
+recurred in my experience as an instructor of evolution. I thus set out to create a new
+instrument which would (a) be capable of being presented either as concerning humans or a
+non-human animal, with relatively few changes required between the two versions; (b)
+assess the extent to which respondents assume there will be intra-species variation (cf.
+Schtulman and Schulz 2008); (c) specifically probe for the presence of misunderstandings
+which have been mentioned in the literature (e.g., Gregory 2009) and been most prevalent
+in my own teaching experience (for a list of these, see Materials below), and (d) be
+assessed by multiple choice to provide unambiguous and quick assessment of a large class
+of students. Students in the first week of instruction in a module on evolution (n = 123)
+were then randomly assigned to complete either the human or animal version of this
+questionnaire.
+Study 2: Materials and Methods
+Materials
+The questionnaires (see Appendix) ask the reader to imagine they are a Martian
+come to earth (specifically, to Madagascar) to study a particular population (animal
+version, of fossas, human version, of Malagasy people). It sets up a scenario where the
+population lives in an open sandy environment and has fur (hair) color suitable for this
+environment, namely light-colored. However, the reader is told that at some previous time,
+the population lived in a dense forest, and at that time members mainly had dark fur (hair).
+Thus, there has been an episode of evolutionary adaptation to a novel environment.
+The reader is asked to consider in detail the period during which the population was
+changing from having mainly dark fur (hair) to mainly light fur (hair). The first four
+questions (section A) assess the extent to which readers assume that the phenotypic
+characteristics of one member of the population will be the same for all others. Ten
+subsequent questions (section B) then probe the reader's intuitions about how the process
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -213-
+of adaptive evolution occurred. These questions were designed to reveal the presence of
+ten key misunderstandings (see Study 2 introduction above). The misunderstandings are as
+listed below (listed by associated question number; see questionnaires themselves for
+details of wording).
+5. Individual change. The idea that during an episode of adaptive evolution,
+individuals change their phenotype over the course of their lifetimes, in the direction of the
+long-term population-level change.
+6. Biased heredity. The idea that during an episode of adaptive evolution, offspring are
+on average phenotypically different from their parents in the direction of the long-term
+population level change.
+7. Directed mutation. The idea that mutations with a particular phenotypic effect are
+more likely in environments where that effect is beneficial than in environments where it is
+not.
+8. No variation. The idea that any particular point in time, all members of the
+population have the same phenotype, which is identical to the current average phenotype of
+the population.
+9. Species need. The statement of the impetus for evolutionary change in terms of a
+species' need, versus in terms of changes on the composition of the population.
+10. Extinction versus adaptation. The idea that environmental change causes current
+species to disappear and new species to be born, versus the view that environmental change
+produces adaptation without necessarily producing speciation.
+11. Species competition. The idea that the competition most relevant to adaptive
+evolution is between species rather than between members of the same population.
+12. Good of the species. The expectation that behaviors which are for the good of the
+species will be prevalent rather than those which maximize inclusive fitness.
+13. Soft inheritance. The idea that if one individual learns to swim, swimming ability
+thereby becomes a species-wide characteristic.
+14. Species birth. The idea that successive chronospecies change into one another by an
+abrupt saltation rather than gradual change.
+A subsequent section (section C) provides questions about the reader's prior study
+and acceptance of evolution, and their interest in and experience with animals.
+Procedure
+The questionnaire was completed during the first class of an undergraduate module
+on evolution and genetics. Students worked on their own without discussion. Equal piles
+of the two versions of the questionnaire were placed at the corners of the lecture theater,
+and by chance, more students took the animal version (n = 70) than the human version (n =
+53). Responses to the section A questions were used to give a uniformity score (M 3.86,
+SD 0.34). This represents the extent to which the respondent assumes that a second
+individual from the study population will have the same phenotypic characteristics as have
+been observed for a first individual. Responses to section B were used to create a
+misunderstandings score, which was the number of the characteristic misunderstandings
+listed in the Materials section which the respondent had endorsed (out of 10; M 3.84, SD
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -214-
+1.67). In addition, I compared the frequency of misunderstanding responses to each of the
+section B questions across the two versions.
+Participants
+Students (n = 123) were non-biology majors who were completing an evolution and
+genetics module compulsorily as part of a psychology degree program (the overwhelming
+majority), or as an option within a major unrelated to biology (e.g., English literature). The
+psychology students were in their first year at university. As the class contained students
+with varying degrees of prior study of biology, I recorded whether the respondent had
+studied A-level (high school) biology or not, and control for this in the analysis of
+misunderstandings. Students were informed that the questionnaire was not a compulsory
+part of the class and would not be assessed. The study was approved by the Newcastle
+University psychology ethics committee, and all participants consented to participate.
+Study 2: Results
+The uniformity score (the extent to which a second individual from the population
+was assumed to have the same phenotypic characteristics as a first) was slightly but
+significantly higher for the animal than the human version (t121
+=2.01, p < 0.05). There
+were no significant correlations between the misunderstandings score and students' degree
+of acceptance of evolution (r = -0.17, ns; though there was rather little variation in
+acceptance), or their perception of their understanding of evolution (r = -0.07, ns). Nor
+were respondent's liking or exposure to animals correlated with their misunderstanding
+scores (r = -0.01, ns). However, receiving the human version of the questionnaire was
+associated with lower misunderstandings scores than receiving the animal version (F(1,118)
+=
+5.83, p < 0.05), whilst having studied A-level (high school) biology made no difference
+(F(1,118)
+= 3.06, ns; Figure 3). The version by prior study interaction was not significant
+(F(1,118)
+= 2.85, ns).
+Table 2 breaks down the proportion of students endorsing the "misunderstanding"
+response for each of the questions in section B of the questionnaire, by questionnaire
+version. As the table shows, the effect of questionnaire version was by no means uniform
+across the questions. Having the animal version increased the prevalence of the error
+response with odds ratios greater than 2 for questions B10, B13 and B14, and with odds
+ratios between 1.5 and 2 for questions B5, B11 and B12. The odds ratios for questions B6,
+B7 and B8 were close to 1, whilst that for question B9 tended in the opposite direction.
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -215-
+Figure 3. Mean number of misunderstandings in Study 2, by version of the questionnaire,
+and whether the subject had studied A-level (high school) biology. Error bars represent
+95% confidence intervals.
+Table 2. Numbers (percentages) of students with each version of the questionnaire
+choosing the "misunderstanding" response, Study 2, and the odds ratio for making the error
+in the animal versus human version.
+Misunderstanding Animal version
+(n = 70)
+Human version
+(n = 53)
+Overall
+(n = 123)
+Odds ratio
+B5. Individual change 13 (18.6) 7 (13.2) 20 (16.3) 1.50
+B6. Biased heredity 53 (75.7) 41 (77.4) 94 (76.4) 0.91
+B7. Directed mutation 40 (57.1) 33 (62.3) 73 (59.3) 0.81
+B8. No variation 38 (54.3) 27 (50.9) 65 (52.8) 1.14
+B9. Species need 31 (44.3) 30 (56.6) 61 (49.6) 0.61
+B10. Extinction >
+adaptation
+25 (36.2) 11 (20.8) 36 (29.5) 2.17*
+B11. Species
+competition
+34 (48.6) 20 (37.7) 54 (43.9) 1.56
+B12. Good of the
+species
+17 (24.3) 9 (17.0) 26 (21.1) 1.57
+B13. Soft inheritance 31 (44.3) 6 (11.3) 37 (30.1) 6.23*
+B14. Species birth 6 (8.6) 0 (0) 6 (4.9) X*
+Notes: x: odds ratio is indefinitely large; * difference in frequencies significant at p < 0.05
+by one-tailed 2 test.
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -216-
+Discussion: Study 2 and General Discussion
+The questions on uniformity in Study 2 showed that merely making people think
+about humans rather than other animals evokes a greater appreciation that individuals vary.
+Moreover, the overall prevalence of misunderstanding responses to the questions on
+evolutionary processes was lower on the human than the animal version of the
+questionnaire. This difference was driven by respondents with the human version being
+much less likely to think of species as things with abrupt moments of birth and death, or of
+characteristics being acquired by one individual during life thereby automatically becoming
+species-wide species-typical characteristics, when thinking about humans. In addition,
+with the human version, respondents tended to think that adaptive change could occur
+within the same species, whereas in the animal version, they were more likely to respond
+that when the environment changes, a species goes extinct, and a novel species adapted to
+the novel conditions comes along. There were also trends towards a greater clarity that
+population change does not require individuals to change during their lifetimes, and a
+reduced tendency to endorse the good of the species as the maximand of evolution, or
+competition between species as its central driver, in the human version. All of these shifts
+make sense on the hypothesis that, cognitive representations of individuals as distinct from
+species-types are more easily accessible for humans than for non-human animals.
+However, although these results are encouraging, other misunderstandings such as
+the idea that mutation and heredity are non-randomly related to utility, or that evolutionary
+problems are best thought of as driven by the needs of species, showed no evidence of
+being reduced by using the human version of the questionnaire. Thus, we can take this
+evidence as suggestive that some of the most common misunderstandings of evolution,
+specifically those which stem from an under-appreciation of intra-species variation, can be
+reduced in frequency by thinking in terms of people, but not make the stronger claim that
+merely thinking about people abolishes all misunderstandings of the Darwinian process.
+These findings are of interest for two different reasons. First, they support the
+claim, developed elsewhere using quite different kinds of evidence, that there are different
+domain-specific cognitive propensities at work when we think about non-human animals
+rather than people (Atran et al. 2001; Medin and Atran 2004). These differences plausibly
+make functional sense, since in most interactions with non-human animals, the species-
+typical features are consequential to us, and the individual variation relatively unimportant,
+whereas in dealings with other people, exactly the opposite is true. The current study sheds
+no light on the origins of these domain differences. Thinking mainly in terms of species-
+types could simply reflect the relative lack of involvement of my urbanized study
+population with allospecifics (although there was no correlation in this study between
+misunderstandings and self-rated involvement with animals). However, the cross-cultural
+and developmental evidence rather tends to support the view that tracking animals
+predominantly at the species level is a reliably-developing cognitive strategy not easily
+overcome by experience (Medin and Atran 2004).
+Second, and more directly related to my initial objectives, the results might help
+educators to devise better strategies for the teaching of evolution. Educators have
+established that thinking about animals at the species-type level is a barrier to correct
+understanding (Shtulman and Schulz, 2008), and also noted that using human examples in
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -217-
+the teaching of evolution is popular with students (Wilson, 2005). However, to my
+knowledge, this is the first study to show experimentally that understanding might be
+improved specifically by using humans as the focus. Admittedly, some caveats are in
+order. First, the differences in the level of misunderstanding between the two questionnaire
+versions were modest, and did not apply to all types of misunderstanding. However, the
+students had received no instruction in evolution in either condition. The mere evocation
+of thinking about people already improved cognition about the process in some respects.
+Thus, well-designed instruction that introduced key concepts through examples concerning
+humans could be a dramatic improvement on existing pedagogical strategies. Second, the
+study has provided no evidence that a better understanding of evolution derived through
+thinking about humans can then be transferred to thinking about evolution more generally.
+That is, Study 2 did not show that the students receiving the human version went on to
+think better about evolution when they subsequently thought about animals (or indeed,
+plants, bacteria and archaea).
+However, these limitations noted, the results are at least suggestive that thinking
+about humans might be a good starting point for developing good intuitions about how
+evolution works. My own practice as a teacher of evolution has been to introduce concepts
+through non-human examples, and then, in subsequent chapters or lectures, show the force
+of the argument that this must be true of humans too. I have, perhaps, being getting matters
+back to front. Perhaps a better approach would be to think about the variation in phenotype
+of the people around us, and the consequences of this for their lives, and then show the
+force of the argument that this must be true of other species as well. This is a slightly
+paradoxical strategy, in that surveys show people are more ready to accept that evolution is
+a true account of how other species came to be than it is of the origin of humans (Miller et
+al., 2006). However, this human exceptionalism may arise exactly because they have an
+incorrect, species-level cognitive model of evolution, derived from non-human examples,
+which they then resist applying to humans, who are so obviously unique individuals. Using
+human examples might thus ameliorate the situation with regards to both the understanding
+of evolution by natural selection, and the acceptance of the acceptance of its relevance to
+our lives.
+Acknowledgements: I am grateful to my students who participated in this study, and
+provided assistance with data coding, and to an audience at Behavior, Evolution and
+Culture (UCLA), who were a helpful first audience.
+Received 10 March 2010; Revision submitted 29 April 2010; Accepted 11 May 2010
+References
+Atran, S., Medin, D., Lynch, E.,Vapnarsky, V., Ucan Ek', E., and Sousa, P. (2001).
+Folkbiology doesn't come from folkpsychology: Evidence from Yukatek Maya in
+cross-cultural perspective. Journal of Cognition and Culture, 1, 3-42.
+Bishop, B. A., and Anderson, C. W. (1990). Student conceptions of natural selection and its
+role in evolution. Journal of Research in Science Teaching, 27, 415-427.
+Brumby, M. N. (1984). Misonceptions about the concept of natural selection by medical
+biology students. Science Education, 68, 493-503.
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -218-
+Demastes, S. S., Settlage, J., and Good, R. (1995). Students' conceptions of natural-
+selection and its role in evolution - cases of replication and comparison. Journal of
+Research in Science Teaching, 32, 535-550.
+Dunbar, R. I. M. (1993). Coevolution of neocortical size, group-size and language in
+humans. Behavioral and Brain Sciences, 16, 681-694.
+Dunbar, R. I. M. (1998). The social brain hypothesis. Evolutionary Anthropology, 6, 178-
+190.
+Gregory, T. R. (2009). Understanding natural selection: Essential concepts and common
+misconceptions. Evolution: Education and Outreach, 2, 156-175.
+Gregory, T. R., and Ellis, C. A. J. (2009). Conceptions of evolution among science
+graduate students. Bioscience, 59, 792-799.
+Hallden, O. (1988). The evolution of the species - pupil perspectives and school
+perspectives. International Journal of Science Education, 10, 541-552.
+Humphrey, N. K. (1974). Species and individual in perceptual world of monkeys.
+Perception, 3, 105-114.
+Humphrey, N. K. (1976). The social function of intellect. In P. Bateson and R. A. Hinde
+(Eds.), Growing Points in Ethology (pp. 303-317). Cambridge: Cambridge
+University Press.
+Jensen, M. S., and Finley, F. N. (1995). Teaching evolution using historical arguments in a
+conceptual change strategy. Science Education, 79, 147-166.
+Kutschera, U. (2003). A comparative analysis of the Darwin-Wallace papers and the
+development of the concept of natural selection. Theory in Biosciences, 122, 343-
+359.
+Mayr, E. (1982). The Growth of Biological Thought. Cambridge: Cambridge University
+Press.
+Medin, D.L., and Atran, S. (2004). The native mind: Biological categorization reasoning in
+development and across cultures. Psychological Review, 111, 960-983.
+Miller, J. D., Scott, E. C., and Okamoto, S. (2006). Public acceptance of evolution. Science,
+313, 765-766.
+Nehm, R. H., Kim, S. Y., and Sheppard, K. (2009). Academic preparation in biology and
+advocacy for teaching evolution: Biology versus non-biology teachers. Science
+Education, 93, 1122-1146.
+Nehm, R. H., and Reilly, L. (2007). Biology majors' knowledge and misconceptions of
+natural selection. Bioscience, 57, 263-272.
+PST. (2007). E-Prime 2.0. Pittsburgh: Psychology Software Tools.
+Shtulman, A. (2006). Qualitative differences between naive and scientific theories of
+evolution. Cognitive Psychology, 52, 170-194.
+Shtulman, A., and Schulz, L. (2008). The relation between essentialist beliefs and
+evolutionary reasoning. Cognitive Science, 32, 1049-1062.
+Stroop, J. R. (1935). Studies of interference in serial verbal reactions. Journal of
+Experimental Psychology, 18, 643-662.
+Wilson, D. S. (2005). Evolution for everyone: How to increase acceptance of, interest in,
+and knowledge about evolution. PLoS Biology, 3, e364.
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -219-
+Appendix
+This appendix contains the full questionnaires used in Study 2.
+Questionnaire: Animal version
+Thinking about evolution
+Please imagine you are a Martian biologist who has come to earth to study an animal called
+the fossa, which only lives in a remote corner of Madagascar. It lives by hunting birds and
+small mammals. It used to live in dense forest, but hundreds of years ago the forest was cut
+down, and it now lives on open sandy plains. Fossas have either black or white coats. Back
+in the days when there was dense forest where they lived, almost all fossas had black coats.
+This gave them good camouflage in the forest. Nowadays almost all fossas have white
+coats. This gives them good camouflage on the open sandy plains where they now live.
+Now please answer the following questions as best you can given this information about
+the fossa. If you are not sure, or can't tell from the information given, please follow your
+hunches and guess, but do answer one way or the other.
+Section one
+Imagine you come upon the first fossa you have ever seen. You study its behaviour. You
+observe that it is most active very early in the morning, has a sleep in the afternoon,
+sharpens its claws on the trunks of small trees, and knows how to get honey out of a
+beehive by burrowing a hole in the hive wall. Now, imagine that a few weeks later you
+encounter another fossa, a few miles down the road. Please rate your degree of belief in the
+following statements:
+1. The second fossa will also be most active in the morning.
+Definitely
+untrue
+Probably
+untrue
+Impossible to
+say
+Probably true Definitely true
+2. The second fossa will also have a sleep during the afternoon.
+Definitely
+untrue
+Probably
+untrue
+Impossible to
+say
+Probably true Definitely true
+3. The second fossa will also sharpen its claws on the trunks of small trees.
+Definitely
+untrue
+Probably
+untrue
+Impossible to
+say
+Probably true Definitely true
+4. The second fossa will also know how to get honey from a beehive by burrowing a hole
+in the hive wall.
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -220-
+Definitely
+untrue
+Probably
+untrue
+Impossible to
+say
+Probably true Definitely true
+Section two
+The fact that fossas nowadays are almost all white, which is the best colour to be for the
+open plains, whereas they used to be almost all black, which was good for the forest, is an
+example of adaptation by natural selection. Let's think about the period during which
+fossas were evolving from being almost all black to almost all white.
+5. During this transitional period, individual fossas became lighter over the course of their
+lifetimes. True or false?
+True False
+6. During this transitional period, offspring had on average lighter fur than their parents.
+True or false?
+True False
+7. During this transitional period, genetic mutations which make fur lighter were more
+likely to occur than they had been before the forest was cut down. True or false?
+True False
+8. Which of the two diagrams, A or B, best represents the way the population of fossas
+would have looked half way through the transitional period of evolution?
+A
+or
+B
+9. Which of the following two statements is the best description of the process which led to
+almost all fossas on the open plains being white?
+A The proportion of individuals in the population with white-coated parents
+gradually increased
+B The species had to change itself to avoid being made extinct by competing
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -221-
+species
+10. If the climate and vegetation in Madagascar suddenly change, what is most likely to
+happen to the fossa?
+A It will go extinct, to be replaced by another species better adapted to the new
+conditions
+B Fossas will continue to live there, but their behaviour and appearance may be
+different
+11. Evolution is often said to be driven by competition. Against what is a fossa most
+directly competing in evolutionary terms?
+A Other fossas
+B Other species of animal
+12. How, in general, would you expect a fossa to behave?
+A In such a way as to benefit the species
+B In such a way as to gain the maximum benefit for itself
+13. Suppose that one fossa learns to swim during its lifetime, and as a consequence
+develops big muscles in its front legs. A few generations later, which fossas will have big
+muscles in their front legs?
+A All fossas
+B Only the direct descendants of the one that learned to swim
+C Only those fossas who swim themselves
+D No fossas
+14. Many thousands of years ago, fossas diverged from an ancestral species of mammal. If
+you had access to pictures of each generation of the population that lived over this long
+period, which of the following would you see?
+A Individuals became gradually more like modern fossas over the generations, but
+there was no particular point at which fossas suddenly appeared
+B There was an identifiable moment when the fossa species evolved from the
+ancestral species
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -222-
+Section three
+In this section, there are some questions about you.
+1. How interested are you in the theory of evolution?
+Not interested
+at all
+Not very
+interested
+Neutral Quite
+interested
+Very interested
+2. How likely do you think it is that the theory of evolution is true?
+Not likely at
+all
+Not very likely Neutral Quite likely Very Likely
+3. To what extent are you convinced that there can be change within a species over time?
+Not at all Not much Neutral Somewhat Very
+4. To what extent are you convinced that one species can change into another species over
+time?
+Not at all Not much Neutral Somewhat Very
+5. How well would you say you understood the theory of evolution?
+Not well at all Not very well Neutral Quite well Very Well
+6. To what extent do you agree with the statement `the theory of evolution explains why
+animals are the way they are'?
+Strongly
+disagree
+Slightly
+disagree
+Neutral Slightly agree Strongly agree
+7. To what extent do you agree with the statement `the theory of evolution explains why
+humans are the way they are'?
+Strongly
+disagree
+Slightly
+disagree
+Neutral Slightly agree Strongly agree
+8. How much biology have you studied previously?
+Little or none
+GCSE combined sciences
+GCSE biology
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -223-
+A or AS level biology
+University level biology
+9. How much do you like animals?
+Not at all Not much Neutral Quite A lot
+10. Do you like visiting zoos or safari parks?
+Not at all Not much Neutral Quite A lot
+11. How much do you like to read books or magazines about animals or about natural
+history?
+Not at all Not much Neutral Quite At lot
+12. How much do you like to watch documentaries on television about animals or natural
+history?
+Not at all Not much Neutral Quite A lot
+13. How much interaction with pets did you have whilst you were growing up?
+None Not much Some Considerable A lot
+14. How much direct experience of animals have you had overall, counting pets, hobbies
+such as horse-riding, work experience, spending time on a farm etc.?
+None Not much Some Considerable A lot
+Questionnaire: Human version
+Thinking about evolution
+Please imagine you are a Martian biologist who has come to earth to study human beings.
+When you arrive, the only humans on the planet are living in a remote corner of
+Madagascar. They live by hunting birds and small mammals. They used to live in dense
+forest, but hundreds of years ago the forest was cut down, and they now live on open sandy
+plains. They have either black or blonde hair. Back in the days when there was dense forest
+where they lived, almost all of them had black hair. This gave them good camouflage in the
+forest. Nowadays almost all of them have blonde hair. This gives them good camouflage on
+the open sandy plains where they now live. Now please answer the following questions as
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -224-
+best you can given this information. If you are not sure, or can't tell from the information
+given, please follow your hunches and guess, but do answer one way or the other.
+Section one
+Imagine you come upon the first man you have ever met. You study his behaviour. You
+observe that he is most active very early in the morning, has a sleep in the afternoon,
+sharpens his knife on the trunks of small trees, and knows how to get honey out of a
+beehive by making a hole in the hive wall. Now, imagine that a few weeks later you
+encounter another man from this community, a few miles down the road. Please rate your
+degree of belief in the following statements:
+1. The second man will also be most active in the morning.
+Definitely
+untrue
+Probably
+untrue
+Impossible to
+say
+Probably true Definitely true
+2. The second man will also have a sleep during the afternoon.
+Definitely
+untrue
+Probably
+untrue
+Impossible to
+say
+Probably true Definitely true
+3. The second man will also sharpen his knife on the trunks of small trees.
+Definitely
+untrue
+Probably
+untrue
+Impossible to
+say
+Probably true Definitely true
+4. The second man will also know how to get honey from a beehive by making a hole in the
+hive wall.
+Definitely
+untrue
+Probably
+untrue
+Impossible to
+say
+Probably true Definitely true
+Section two
+The fact that humans nowadays almost all have blonde hair, which is the best colour to
+have in the open plains, whereas they used to almost all have black hair, which was good
+for the forest, is an example of adaptation by natural selection. Let's think about the period
+during which humans were evolving from being almost all black-haired to almost all
+blonde.
+5. During this transitional period, individuals' hair became lighter over the course of their
+lifetimes. True or false?
+True False
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -225-
+6. During this transitional period, children had on average lighter hair than their parents.
+True or false?
+True False
+7. During this transitional period, genetic mutations which make hair lighter were more
+likely to occur than they had been before the forest was cut down. True or false?
+True False
+8. Which of the two diagrams, A or B, best represents the way the population would have
+looked half way through the transitional period of evolution?
+A
+or
+B
+9. Which of the following two statements is the best description of the process which led to
+almost all humans being blonde?
+A The proportion of individuals in the population with blonde-haired parents
+gradually increased
+B The species had to change itself to avoid being made extinct by competing
+species
+10. If the climate and vegetation in Madagascar suddenly change, what is most likely to
+happen to humans?
+A They will go extinct, to be replaced by another species better adapted to the new
+conditions
+B Humans will continue to live there, but their behaviour and appearance may be
+different
+11. Evolution is often said to be driven by competition. Against what is a person most
+directly competing in evolutionary terms?
+A Other people
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -226-
+B Other species of animal
+12. How, in general, would you expect a person to behave?
+A In such a way as to benefit the species
+B In such a way as to gain the maximum benefit for his or her self
+13. Suppose that one man learns to swim during his lifetime, and as a consequence
+develops big muscles in his arms. A few generations later, which people will have big
+muscles in their arms?
+A All people
+B Only the direct descendants of the man that learned to swim
+C Only those people who swim themselves
+D No people
+14. Millions of years ago, humans diverged from an ancestral species of ape. If you had
+access to pictures of each generation of the population that lived over this long period,
+which of the following would you see?
+A Individuals became gradually more like modern humans over the generations,
+but there was no particular point at which humans suddenly appeared
+B There was an identifiable moment when the human species evolved from the
+ancestral species
+Section three
+In this section, there are some questions about you.
+1. How interested are you in the theory of evolution?
+Not interested
+at all
+Not very
+interested
+Neutral Quite
+interested
+Very interested
+2. How likely do you think it is that the theory of evolution is true?
+Not likely at
+all
+Not very likely Neutral Quite likely Very Likely
+3. To what extent are you convinced that there can be change within a species over time?
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -227-
+Not at all Not much Neutral Somewhat Very
+4. To what extent are you convinced that one species can change into another species over
+time?
+Not at all Not much Neutral Somewhat Very
+5. How well would you say you understood the theory of evolution?
+Not well at all Not very well Neutral Quite well Very Well
+6. To what extent do you agree with the statement `the theory of evolution explains why
+animals are the way they are'?
+Strongly
+disagree
+Slightly
+disagree
+Neutral Slightly agree Strongly agree
+7. To what extent do you agree with the statement `the theory of evolution explains why
+humans are the way they are'?
+Strongly
+disagree
+Slightly
+disagree
+Neutral Slightly agree Strongly agree
+8. How much biology have you studied previously?
+Little or none
+GCSE combined sciences
+GCSE biology
+A or AS level biology
+University level biology
+9. How much do you like animals?
+Not at all Not much Neutral Quite A lot
+10. Do you like visiting zoos or safari parks?
+Not at all Not much Neutral Quite A lot
+Understanding evolution
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 8(2). 2010. -228-
+11. How much do you like to read books or magazines about animals or about natural
+history?
+Not at all Not much Neutral Quite At lot
+12. How much do you like to watch documentaries on television about animals or natural
+history?
+Not at all Not much Neutral Quite A lot
+13. How much interaction with pets did you have whilst you were growing up?
+None Not much Some Considerable A lot
+14. How much direct experience of animals have you had overall, counting pets, hobbies
+such as horse-riding, work experience, spending time on a farm etc.?
+None Not much Some Considerable A lot
+

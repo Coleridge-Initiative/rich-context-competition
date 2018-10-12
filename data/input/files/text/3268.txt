@@ -1,0 +1,1021 @@
+Creative Commons Non Commercial CC-BY-NC: This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 3.0 License (http://www.creativecommons.org/licenses/by-nc/3.0/) which permits non-commercial use,
+reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open
+Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+Methodological Innovations
+Volume 9: 1­12
+© The Author(s) 2016
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/2059799115622767
+mio.sagepub.com
+Introduction
+The zombie may very well be one of the most influential
+modern monsters. Besides the pop-cultural hype surrounding
+the undead, they increasingly receive the attention of scien-
+tists and scholars. There are basically two kinds of zombie
+studies. On one hand, the zombie is treated as a cultural
+object, and its myths and legends are often seen as represen-
+tations of underlying cultural struggles (e.g. Bishop, 2010;
+Harper, 2002). The other branch of zombie research is more
+scientific in nature and is concerned with using the attack of
+the living dead as a metaphor and modeling tool to under-
+stand and bring attention to epidemiological processes of
+infection as well as global disasters (e.g. Brooks, 2003;
+Engler, 2012; Stanley, 2012). Clearly, most of this research is
+trying to provide a humorous access to otherwise difficult
+topics, which this article tries to emulate. Despite this, the
+body of research in this area has grown over the recent years.
+Zombies are easy to model and easy to understand, so they
+can be used to effectively demonstrate techniques and soft-
+ware solutions (Crossley and Amos, 2011; Gelman, 2010;
+Munz et al., 2009; Smith, 2014). This is especially true for
+simulation models who try to understand and predict the
+spread of infectious diseases, which is where our model of
+the zombie apocalypse comes in.
+While we somewhat build on the use of zombies as a gen-
+eral metaphor for disease and infection, we do believe that
+this metaphor deserves to be taken more seriously. As it
+stands, zombies are reduced to a simple infection and the
+zombie apocalypse is just a pandemic. Yet, everyone who
+has ever seen a movie about the hungry dead, read a book
+about them, or has in any other way been introduced to the
+zombie myth should have noted two things. First, the story is
+seldom about the zombies, but more or less about how
+humans react to this threat. Or, as George A. Romero put it
+once, "my stories are about humans and how they react, or
+fail to react, or react stupidly. I'm pointing the finger at us,
+not at the zombies" (Spitznagel, 2010). Second, the zombie
+apocalypse is at its most fundamental a story about the break-
+ing down of civilization. There is no modern1 zombie story
+that does not in some way or other show the decay and ruin
+of society. Often it is even played out twice, once as the gen-
+eral setting of the story and again as the destruction of social
+bonds is mirrored in the group of survivors, who so often
+turn on each other as the zombies close in on them.
+From a sociological viewpoint, the topos of the zombie
+apocalypse implies several moments that are of utmost
+importance in describing and analyzing society at large.
+ZombieApocalypse: Modeling the social
+dynamics of infection and rejection
+Jan R Riebling1 and Andreas Schmitz2
+Abstract
+In this article, we propose a model that we call ZombieApocalypse and that relies on agent-based simulation on a dynamic
+network topology. We simulate three strategies common to the zombie mythology and the sociology of figurational dynamics
+by Norbert Elias: cutting ties, being sentimental, and stigmatization. The simulation results are analyzed on two dimensions:
+the outcome for the populations of zombies and humans as well as the resulting changes in topology. We show that the
+introduction of social dynamics into these models leads to unexpected outcomes. Implications for more "serious" research
+on general models of infection and social dynamics are discussed.
+Keywords
+Infectious diseases, simulation, social networks, figurational dynamics, zombies
+1Otto-Friedrich-Universität Bamberg, Bamberg, Germany
+2Department of Sociology, Institute for Political Science and Sociology,
+University of Bonn, Germany
+Corresponding author:
+Jan R Riebling, Otto-Friedrich-Universität Bamberg, Feldkirchenstr. 21,
+96052 Bamberg, Germany.
+Email: jan.riebling@uni-bamberg.de
+622767
+MIO0010.1177/2059799115622767Methodological InnovationsRiebling and Schmitz
+research-article2016
+Original Article
+2 Methodological Innovations
+Zombie lore focuses on the interrelations between social
+classes and groups (zombies and humans) as well as on the
+ones between different groups of humans. These interrela-
+tions involve power struggles in both a material (food, shel-
+ter, weapons) and a symbolic sense (trustworthiness,
+comradeship). As a consequence of these struggles, the inter-
+nal organizations of the groups are also recurrent elements of
+the zombie myth, sometimes ending in either a democratic or
+an autocratic structuration of the survivors. Likewise, struc-
+tural conditions defining the position of actors are assessed
+based on their effects on psyche and morale. Additionally,
+the processes character of the zombie apocalypse, starting
+from the first infection and ending in the (near) decline of
+mankind, is also a prominent aspect of sociological research.
+We believe that the fundamental lesson we can learn from
+the zombie apocalypse pertains to the importance of social
+dynamics and social configurations in modeling the spread
+of infectious diseases. A quite suitable sociological theory
+for this purpose is the process theory of Norbert Elias. This
+approach seems to be especially appropriate for our purposes
+as figurational sociology consists in: (a) modeling relations
+of actors and groups; (b) their temporal dynamics; (c) the
+interplay between objective structure and the mental dimen-
+sion; (d) the relational operationalization of such figurational
+structures; and (e) the abstract reflection about figurations
+applying "game models." Usually, however, Elias is used as
+a "qualitative" sociologist. In this article, we will show how
+to utilize network and simulation techniques in order to oper-
+ationalize the relational logic of Elias' approach.
+The figurational model we propose and demonstrate on
+the following pages tries to incorporate both these lines of
+thinking. We call it ZombieApocalypse.2 It follows the
+standard model of a zombie infection, wherein the infec-
+tion spreads rapidly among the human population convert-
+ing them to zombies in the process. To introduce social
+parameters and dynamics to the mix, we use networks as
+the topology and allow our human agents to act on and
+change this topology. This is inspired by Norbert Elias'
+notion of the fundamental role that formation and destruc-
+tion of social relationships play in the interaction of social
+groups. Three different strategies are simulated, which are
+inspired by the zombie mythology. In our "escape" sce-
+nario, the human players are given the ability to defend
+themselves by cutting their ties to zombified players. We
+then test a "sentimentality" scenario in which the ability to
+cut your ties is dependent on the time this tie existed,
+meaning it becomes harder to let go of old friends even
+when they become rampaging, undead monsters. This is in
+stark contrast to our final scenario of "stigmatization,"
+which allows human players to cut their ties to other
+humans dependent on the number of zombies the other
+human has connection to.
+For the simulation, we used the Python programming lan-
+guage.3 We were able to build upon and use some excellent
+packages, which provided us with all the necessary tools for
+running and analyzing the simulation. Most prominently, we
+used Simpy's4 framework for the agent-based simulation,
+while the NetworkX (Hagberg et al., 2008) module provided
+us with tools for the generation and maintenance of the net-
+work graphs. The combination of those two packages was
+made easy by the nxsim5 project, which already provides a
+basic template for this task. It is a happy coincidence that the
+nxsim documentation also uses a zombie infection scenario
+as an example. Again, this underlines the apparent usefulness
+of the zombie model for didactic purposes.
+The social dead
+Munz et al.'s (2009) seminal paper on the mathematical
+modeling of a zombie infection introduced the hungry
+undead to the world of academia. Judging from the number
+of publications and the research effort (e.g. Beeton et al.,
+2014; Hébert-Dufresne et al., 2014; Tang et al., 2013) on
+this subject, the study of zombies is not only taking place
+but is gaining attention among researchers interested in the
+mathematical models and simulations. The book
+Mathematical Modelling of Zombies, edited by Robert
+Smith (2014), shows not only the wide variety and the com-
+plexity of the mathematical models used to understand a
+fictional subject, it also highlights the usefulness of such an
+endeavor. Beyond its didactic value and the obvious "hip-
+ness" of the topic, there are more serious reasons for con-
+sidering the zombie apocalypse as an interesting model for
+the spread of infections and diseases. First, it is a very sim-
+ple model, which most people have at least a passing famil-
+iarity with. Second, it lends itself to speculative thinking,
+thereby opening up the view on interesting new lines of
+inquiry. Furthermore, because of its social nature, the zom-
+bie apocalypse highlights some interesting scenarios that so
+far and to our knowledge have been neglected in current
+models.
+The simplicity of the zombie model stems from the fact
+that it ignores a large set of factors that are important in
+actual epidemics, for example, incubation time, chances of
+remission, how long a carrier is still infectious although he
+shows no outward signs, and the mode of infection, just to
+name a few. While there are some differences in zombie lore
+on the progression of the virus, in general it is a fairly simple
+scenario. You either get bitten and turn into a zombie or you
+are eaten alive. There is no cure and no noteworthy period of
+incubation. Most characters realize pretty fast that they have
+been bitten, although they might try to hide that fact from
+their companions. This again emphasizes the inherent social
+element in the zombie model.
+Neglecting lots of details that are present in actual epi-
+demics is not necessarily a bad thing. Simplicity is an
+important resource in simulation studies. Since we mostly
+do simulations to understand processes that are either too
+complex or too convoluted, it is beneficial to reduce the
+underlying assumptions as much as possible. After a
+Riebling and Schmitz 3
+fundamental understanding is reached, one can gradually
+increase the complexity of the model by adding new inter-
+actions, rules, or changing the environmental parameters. If
+we were to start out with the complete model, not much
+could be learned because the interaction between the
+parameters could not be reconstructed from the outcome of
+the simulation. Even simple rules can breed complexity,
+which makes it impossible to formally predict the outcome.
+This follows on from the so-called halting problem, which
+is a fundamental rule of the studies of algorithms. It essen-
+tially tells us that there is no way to predict the outcome of
+a Turing-complete system except by letting it run its
+course.6 The fact that very simple rules can actually lead to
+such complex systems has been shown in John Conway's
+famous "Game of Life" (Gardner, 1970).
+The second reason for using zombies as a metaphor has
+already been mentioned, namely, the general social character
+of the zombie mythos. Zombies in general do not possess any
+agency, nor do they have any discernible kind of social coor-
+dination or a society of any sort. They are more or less anti-
+social automata with little to no intelligence. One could
+argue that there is no plausible scenario in which a handful of
+zombies could pose a viable threat to human society. In fact,
+humanity has a history of ruthlessly dispatching species who
+contended with us for domination. Although many of these
+contenders were superior in terms of physical strength or
+aggression, they were no match against the ingenuity and
+social coordination of Homo sapiens. There are a couple of
+zombie stories that go into a similar direction by showing
+rather realistically how humans would deal with zombies,
+either by killing them for sports (e.g. "Zombieland") or by
+using them as cheap labor (e.g. "Fido"). This could be the
+reason why zombie lore has almost no stories about the fight
+between humans and zombies leading up to the destruction
+of mankind. Instead, most take place in a world where a
+group of humans are already vastly outnumbered by a horde
+of zombies. In these scenarios, the microcosm of the social
+relations among the group members becomes intensified
+against the anti-social background of the undead masses.
+Zombie stories often use this for social commentary and to
+show the drama of small-group relations.
+While the interaction between anti-social zombies and the
+social dynamics of the group sometimes only hints at the
+social nature of the zombie myth, the setting of the zombie
+apocalypse shows this more clearly. The terror of the zombie
+apocalypse does not stem from the fact that one is hunted by
+a supernatural enemy but rather from the utter destruction of
+civilization. Even if you could run away, what would be the
+point? What worth does human life hold, without human
+society? This point is even made clearer by the constant kill-
+ing of zombies who look like humans. In "The Walking
+Dead" Issue 24 (Kirkman and Steward, 2015), Rick Grimes,
+one of the main characters, comments on this by coming to
+the realization that after they have broken all laws of human-
+ity and killing zombies has become part of everyday life, the
+group of survivors and not the zombies have become the
+actual "walking dead."
+Social dynamics of a zombie apocalypse
+Elias' concept of "figuration" addresses the relational and
+processual characters of social reality, focusing on the "nature
+of the actors'interdependence" and not on "independent char-
+acteristics of their members" (Elias and Scotson, 1993: 27;
+authors' translation). This approach emphasizes the relational
+and processual character of societal power struggles and
+interrelations between social classes within a common figura-
+tion. Figurations are conceptualized as "interaction chains"
+(Elias et al., 1998), and societies at large are then described by
+the relative density and length of those chains, structural con-
+ditions which correspond to individual agency, and mental
+schemes of the actors involved. Figurational structures inter-
+relate with open and closed valencies on the side of the human
+actors, that is, the affective orientations toward other actors,
+which may or may not be satisfied. These affective interde-
+pendencies are central for the operation of societies and indi-
+cators for particular societal conditions.
+The figurational perspective was made fruitful in his book
+with co-author John L. Scotson, Established and Outsiders
+(1993), where the relations between already established and
+new residents of a small English town have been analyzed.
+Elias highlighted the figurational dynamics between the two
+groups and described a strong integration within the estab-
+lished and a weak integration of the outsiders. A core theo-
+retical and methodological aspect of Elias work is "game
+models" which are "simplifying intellectual experiments,"
+abstracting from empirical contingencies, and which enable
+to bring out "more graphically the processual character of
+relationships between interdependent people" (Elias et al.,
+1998: 121). Game models allow analyzing relationship struc-
+tures and power differentials in an abstract way and under
+different constraints. They make clear in what way the inter-
+dependences of actors change, if the distribution of power is
+changed (Elias et al., 1998: 121) The most simple game
+model consists of two actors, A and B, and the analysis of
+their power relation, whereas the most complex models ana-
+lyze complex figuration with many actors on different soci-
+etal levels. While Elias (1978) himself utilized game models
+in analytical ways, only he was very aware of the further
+potential and restrictions of his work: "If sociology has to
+investigate figurational processes resembling complex
+games, then statistical aids must be developed which will be
+suited to this task" (p. 132).
+Most of Elias'work, however, consisted of qualitative and
+historical methods (cp. Baur and Ernst, 2011), such as study-
+ing the dynamics of manners. Whereas most modern propo-
+nents of this sociological tradition apply similar methods (cp
+X), some also discuss the objective dimension of figurations.
+Baur and Ernst (2011: 132) postulate the collection and anal-
+ysis of "network analysis" and "process-generated data" in
+4 Methodological Innovations
+order to empirically reconstruct the "sociogenesis of figura-
+tions." Whereas this methodological approach is promising
+per se, a challenge for a methodology of figurational pro-
+cesses is given as longitudinal network data are rarely extant.
+Here, the tool box of social sciences offers another way for
+deriving a straightforward methodology. The application of
+"game models" explicitly implies the contrafactual variation
+of starting conditions and thus less require the analysis of
+actual networks or longitudinal data, but rather the potential
+to abstract from empirical contingencies and to explicitly
+model figurational dynamics by changing the initial condi-
+tions and the parameters of figurational mechanisms.
+In the next chapter, we propose the use of simulations as
+they offer the systematic depiction of various apocalyptic
+scenarios ("game models") and play through modifications
+under central figurative parameters. This approach enables
+an objectification of the relational structure between and
+within the groups while taking the inherent process character
+into account. In doing so, figurational sociology analyzes
+"action chains," that is, the structure and length of interde-
+pendences between (groups of) social actors. Applying this
+view on the relations between "infected and outsiders," we
+find that at t0
+, the group of not (yet) infected people can be
+treated as the established group, with a high degree of inter-
+nal integration in relation to the zombie group.
+The central, theoretical focus on figurations as relational
+structures implies the use of (a) network graphs and (b)
+abstract game models as an adequate model for these kinds
+of processes. In the zombie myth, there is nothing to suggest
+networks as a topology for the infectious process. In fact, a
+Euclidean space would be much more fitting with the pop-
+cultural depiction of the zombies interacting with humans.
+Biting people is an action which clearly represents a function
+of bodily proximity. Our decision to use network graphs as
+an environment for the zombie apocalypse, therefore, stems
+not so much from the zombie model but from the wish to
+explore the effects of the social dynamics, that is, figuration,
+in a game model of infection. It has been shown that it is
+feasible to use networks as model for established-outsider
+figurations (Fuhse, 2012), even if it does not capture the
+entirety of the concept.
+In the social setting of the zombie apocalypse, there are a
+lot of stereotypical plots and subplots (i.e. tropes),7 for exam-
+ple, the "humans are the real monsters" message prominently
+featured in many zombie stories. From the vast range of
+available tropes, for the time being we will consider only
+three as candidates for our ZombieApocalypse model:
+Escape, Sentimentality, and Stigmatization. In doing so, the
+proposed analytical case may well be understood as a "multi-
+person game" (Elias et al., 1998: 123 ff.), with different
+human groups and isolated zombie actors, who appear in the
+form of a horde.
+The baseline model of a zombie apocalypse has the human
+protagonists fleeing from the undead menace. We call this sce-
+nario Escape. Other zombie models sometimes add a "fighting
+back" strategy (e.g. Munz et al., 2009), which has the humans
+taking the fight to the zombies. In zombie lore, this seems to
+be almost never a sensible strategy because in a full-blown
+zombie apocalypse, the survivors are always completely out-
+numbered. Under these circumstances, attacking zombies
+results either in an untimely demise or zombification. In keep-
+ing with this perspective, we decided to model the zombie
+apocalypse as a threat against which there exists no strategy
+except flight or quarantine procedures, for example, a disease
+which has a very high lethality and against which there are no
+countermeasures. In this respect, our Escape scenario resem-
+bles the "flight rule" of the zombie invasion model proposed
+by Hébert-Dufresne et al. (2014) minus the reconfiguration of
+the survivors--a step we chose to forego in favor of the fol-
+lowing scenarios. In Elias' terms, the Escape scenario repre-
+sents a simple game model, with isolated human and undead
+actors and no organizational complexity.
+The second scenario is called Sentimentality and builds on
+the common zombie trope of having to kill a loved one or
+member of the group because they have been bitten and are
+about to turn. Failure to do so in a timely fashion always
+results in the death of the human protagonist. It is one of the
+central themes of the zombie apocalypse to connect humani-
+ty's downfall to our moral choices. In the fallen society of a
+zombie apocalypse, compassion is weighed against survival.
+In this scenario, the Escape strategy is made less likely by the
+emotionalbondbetweenahumanandazombie.Consequently,
+this game model includes the figurational mechanism of
+valencies, that is, affective bindings between actors.
+In the third scenario, which is called Stigmatization, we
+try to capture the theme of "leaving the dead weight behind."
+Among the many morally disturbing questions protagonists
+in a zombie apocalypse have to face, this is the one that most
+clearly shows the eroding of morality in a post-zombie soci-
+ety. Essentially, this trope consists of leaving a person or a
+group of persons behind because they are clearly marked as
+"zombie snack" from the beginning and would only serve to
+slow the others down. In some ways, this can be thought of
+as the corollary to the Sentimentality scenario. Albeit in a
+more pre-emptive sense, because, under the assumption of
+the Stigmatization strategy, people who are the most vulner-
+able to attack are left behind. The cohesion of figurations
+also means that the attributes lead individual members to be
+extended to others. This stigmatization process operates via
+the attribution of problematic properties on the basis of group
+membership rather than the consideration of the respective
+person. It is thus a more complex game model, which con-
+ceptualizes the change of affective valencies as a result of a
+change in the figurational power structure.
+The rules of ZombieApocalypse
+As already mentioned, the general setup follows an agent-
+based modeling approach of the particular human­zombie
+figuration. More concretely, we defined two types of agents
+Riebling and Schmitz 5
+(humans and zombies) who differ in the strategies they employ.
+We then populated a network environment with those agents
+and let them interact. This approach has some aspects of an
+evolutionary game dependent on the spatial arrangement of
+the agents (Eshel et al., 1998; Jun and Sethi, 2007) because the
+game revolves around the competition between different pop-
+ulations, whose interactions are constrained by the topology of
+the figuration. Yet, there is no evolutionary "learning" of dif-
+ferent strategies because we explore only one strategy for the
+human population in any given scenario.
+The use of networks as a topology for the simulation of
+social dynamics has become an integral part of social net-
+work analysis. Much of the research trying to connect social
+network analysis with agent-based modeling is done with a
+specific focus on public health and the containment of pan-
+demics (for an overview, see Luke and Stamatakis, 2012:
+5ff). Other models, while not always considering social net-
+works directly, have used agent-based simulations to intro-
+duce social dynamics into models of epidemics (Epstein,
+2009; Epstein et al., 2008). Most of these simulation studies
+are based on highly standardized models named after the
+different states an agent can be in, such as Susceptible/
+Infected (SI) or Susceptible/Exposed/Infected/Recovery
+(SEIR) (Murray, 2002: 319ff). The baseline model for the
+ZombieApocalypse can be considered an SI model since
+there are only two possible states our agents can exist in
+(Human or flesh-eating Undead). The reason for this is our
+focus on the social dynamics rather than on the development
+stages of actual diseases. As stated before, the zombie myth
+is not interesting in terms of its consistency with epidemio-
+logical facts, of which there are barely any. Stories about the
+zombie apocalypse are social dramas, not biological ones.
+Different graph generators were considered as topologies,
+most notably Erdös­Rényi Graphs (Erdös and Rényi, 1960)
+and Small World Graphs (Watts and Strogatz, 1998). In the
+end, we decided to use scale-free graphs (Barabási and
+Albert, 1999), which are essentially small-world networks
+with the additional constraint of preferential attachment. In
+essence, this creates a network of dense clusters of nodes
+connected by central hubs. This structure seemed sensible
+for the model of the zombie apocalypse. Since the scale-free
+model is known for the resilience of the resulting network
+(Cohen et al., 2000) and we are especially interested in the
+breakdown of such social structures, this seemed like a natu-
+ral choice. In addition, preliminary tests showed not much
+difference between classic Small World and scale-free mod-
+els in the general outcome. Because our research focus here
+is on the social dynamics rather than on the effects of net-
+work topologies and because there is already extensive
+research (Hufnagel et al., 2004; Newman, 2002; Pastor-
+Satorras and Vespignani, 2001) done on the latter, we did not
+pursue this line of inquiry any further.
+In accordance with zombie lore, we only gave human
+agents "real" agency, in the sense that they would be able to
+react to the zombie threat and to manipulate the social
+topology. The zombies, on the other hand, only serve as a
+source of infection. We used the object-oriented program-
+ming technique of inheritance and started out with the tem-
+plate of a simple network agent whose only "strategy" was to
+check for an infection. In this scenario, every human agent
+looks at every zombie neighbor in the network topology,
+meaning every zombie to which this agent has a geodesic
+distance of 1. He then checks for an infection by comparing
+a random number between 0 and 1 to the globally defined
+probability of getting infected Pinf
+. If the random number is
+below Pinf
+, the human agent is turned into a zombie, which
+will then also be a source of infection for the remaining
+humans. As long as the network is connected and given
+enough rounds of the simulation, the human population will
+always go extinct in this scenario. Therefore, this model only
+serves as a baseline to compare it to other strategies and to
+understand the basic properties of the game. On top of this
+basic model, we implemented our three scenarios: Escape,
+Sentimentality, and Stigmatization. Each is characterized by
+different strategies given to the human agents in this model.
+The Escape scenario introduces the possibility of running
+away from the zombies by removing the connections (edges)
+that connect a human agent to a zombie. During each round
+of the simulation, a human agent makes a test against a glob-
+ally defined probability Prun
+to run away for each connection
+he has toward a zombie. In the case of success, this specific
+edge between the zombie and the human agent is removed
+from the global topology. After this check is made, the game
+continues by testing for infections from remaining zombies
+connected to that agent as per the rules of the Simple scenario.
+That means after the tie to a zombie agent is cut, this specific
+zombie no longer plays a role in the test for infection.
+Under the Sentimentality scenario, the probability Prun
+is
+reduced by a sentimentality coefficient. This coefficient is
+the product of a globally defined sentimentality Psent
+times
+the number of ticks t two agents u and v have been con-
+nected by an edge in the global topology tu v
+,
+. The probability
+of removing a tie between a human agent and a zombie is
+given by the following equation
+P P P t
+run sent run sent u v
+, ,
+.
+= -( )
+The Stigmatization strategy works in a very similar man-
+ner as the Escape strategy, but enhances the "foresight" of
+the human agents. Every turn, after checking against Prun
+and before they check for infection, the agents are looking at
+all their human neighbors and count the number of zombies
+that are directly connected to those humans. From the com-
+bination of the number of the human neighbors' zombie
+neighbors nz nbr
+,
+and the globally defined stigmatization fac-
+tor Pstigma
+, the probability to pre-emptively cut the ties to the
+human neighbor Prun stigma
+,
+is calculated according to this
+equation
+P P n
+run sigma stigma z nbr
+, ,
+.
+=
+6 Methodological Innovations
+During the entire run of the ZombieApocalypse, the states
+of the network agents as well as the global topology were
+logged.
+Living in the ZombieApocalypse
+Some parameters were kept constant during all simulation
+runs. The population was set to 1000 agents, which resulted
+in a network graph consisting of 1000 nodes. One of those
+nodes was then randomly selected to be "Patient Zero."
+Each complete game of ZombieApocalypse was restricted
+to 28 rounds to be as consistent with zombie lore as possible
+and also because all simulations reached their equilibrium
+withinthistimespan.EachscenariooftheZombieApocalypse
+was run a thousand times to bring out the general tendencies
+of the population dynamics. Therefore, in the following fig-
+ures, the lines denote the mean values across all simulations,
+while the transparent areas show the minimum and maxi-
+mum values.
+Since the Simple scenario offers its human agents no way
+of escape, it is only a question of time until the human popu-
+lation is entirely consumed by zombies (Figure 1). Even a
+relatively small chance for infection will result in a steep rise
+of infections during the first few rounds of the simulation. In
+other models of the zombie apocalypse, especially in the
+Munz et al. (2009) model based on ordinary differential
+equations, we see a sigmoid or logistic curve instead. The
+reason for this difference lies in the topology of a scale-free
+network. No matter where the zombie starts out, he is never
+too far from a hub that will eventually connect him to other
+clusters of nodes. This results in the exponential rise of infec-
+tions early on. It also emphasizes the role the topology plays
+in our simulation. In the Munz et al. model, the infection is
+only dependent on the number of zombies already in the
+game, while in the ZombieApocalypse, it is much more
+dependent on the number of human nodes within reach of the
+zombies. These findings concur with other network-based
+zombie simulations (Hébert-Dufresne et al., 2014: 157ff).
+From a theoretical standpoint, it is important to note that this
+model contains only the objective dimension of the figura-
+tion. The subjective elements, like agency, strategy, or reac-
+tions, are extant. Therefore, the Simple model cannot be
+considered as a figuration in the actual sense.
+In the Escape scenario, we give the human agents a chance
+to defend themselves by manipulating the network topology.
+The resulting model (Figure 2) shows the impact this strat-
+egy has, although the probability of cutting one's tie to a
+zombie is relatively low ( Prun
+= 0 05
+. ). On average, the
+human population is not so easily overcome as was the case
+in the Simple scenario. The zombie hordes take longer to
+overtake the human population and are not successful in
+reaching all of the humans. Even in the case of the maximum
+spread of the zombie infection, there always remain human
+nodes, which are disconnected from the zombified network
+and can therefore not become infected. In contrast to the
+Simple model, the Escape scenario contains individual strat-
+egies but no social strategies. Theoretically speaking, this
+scenario may be understood as a complete figurative de-dif-
+ferentiation and a contraction of "action chains" to the degree
+of one (Elias, 1939: 373; author's translation).
+Figure 1. Simple ZombieApocalypse populations.
+Riebling and Schmitz 7
+The minimal values give the best-case scenario wherein
+the zombie node itself gets isolated very early on, as is shown
+by the colored areas touching the bottom and the top of
+Figure 2. This emphasizes the overall effectiveness of an
+early quarantine strategy in a network topology. However,
+the isolation of nodes from the network only works if the
+zombies are isolated in the very early stages of the simula-
+tion. Otherwise, the high connectedness and relative robust-
+ness of the scale-free graph become its weaknesses as there
+are many alternative routes the infection can take.
+Introducing our Sentimentality strategy makes the
+decompartmentalization of the network even harder. For
+this scenario, the probability for sentimentality was set to
+0.01, meaning that in every round the probability of run-
+ning was reduced by this amount. As a result, the Escape
+strategy only exists for five rounds, after which the game
+reverts to a Simple ZombieApocalypse. Under these rules,
+we see on average a steeper curve than was the case in the
+Escape scenario (Figure 3). Another difference to the
+Escape scenario is the resulting population maxima. In the
+Escape scenario, there were always some isolated nodes
+safe from the zombies. This outcome is no longer insured in
+the Sentimentality scenario. Only the human agents that
+were disconnected in the beginning of the simulation sur-
+vived the Sentimentality game. This result reinforces the
+notion that timing becomes more essential with a growing
+robustness of the figurational network. We ran the simula-
+tion with differing probabilities for sentimentality and
+defection but always found the same tendencies as pre-
+dicted by our assumption that Sentimentality is not a very
+sensible strategy in a world overrun by the hungry undead.
+Here, the zombie apocalypse appears as a moderated figu-
+rative de-differentiation with a contraction of "action
+chains" leading to sup-populations.
+In our third model, we take a look at the strategy of
+Stigmatization as a way of pre-emptively cutting network
+ties to human agents who are in danger of becoming zom-
+bies. For Figure 4, we set the stigmatization probability
+P
+stigma to 0.02, while keeping most of the parameters from
+the previous models. However, Sentimentality was excluded
+from this particular simulation run. Additional simulations
+showed that Sentimentality basically had the same effect
+when introduced to a Stigmatization scenario. It lowered the
+probability to a point where the game reverted to a Simple
+ZombieApocalypse and the humans were basically lost.
+Because of this, the net effect of the Stigmatization strategy
+could not be analyzed properly. Therefore, we decided not
+to include Sentimentality in this specific scenario.
+Figure 4 shows populations that deviate from the power-
+law distributions of the other scenarios and are closer in
+shape to the sigmoid curves found in the standard zombie
+model that does not rely on a network topology. The
+Stigmatization strategy seems to be able to significantly slow
+down the zombie apocalypse while being about as effective
+in containing the outbreak as the Escape strategy. Also, the
+infection tends to spread out at different speeds in separate
+runs of the simulation. In Figure 4, we see this in the form of
+small, stepwise jumps in the population development. This
+seems to point to the special importance of the hubs in the
+Stigmatization scenario. The zombie agents spread relatively
+Figure 2. Escape ZombieApocalypse populations.
+8 Methodological Innovations
+fast in the densely connected clusters, but, because of the
+stigmatization strategy, these clusters are starting to fall apart
+and to disconnect. The hubs, on the other hand, tend to have
+many connections to nodes in different clusters. While they
+will terminate some of them, because of the zombie
+onslaught, this will always never be enough to keep them
+from getting infected eventually. The infection then spreads
+rapidly to the clusters connected to the hub. Therefore, one
+can conclude that in this game, the starting position of the
+zombies is more important than in the other scenarios.
+This also leads to perhaps the strangest effect of the
+Stigmatization scenario. While it was common in the Escape
+Figure 4. Stigmatization ZombieApocalypse with Pinf
+= 0 3
+. , Prun
+= 0.05, and Pstigma
+= 0.02.
+Figure 3. Sentimentality versus Escape ZombieApocalypse populations.
+Riebling and Schmitz 9
+scenario that in some of the simulation runs zombies were
+isolated early on and did not manage to spread far beyond
+their initial starting points, this is no longer the case in the
+Sentimentality game. Although the general probability to run
+still exists, games where the zombies are isolated early on are
+consistently fewer than they were under the pure Escape
+ZombieApocalypse. Somehow the Stigmatization strategy
+slows the infection down but, at the same time, lessens the
+impact of the quarantine. On average, there may be not that
+much difference, but the best-case scenario (i.e. early con-
+tainment) is much less likely in a Stigmatization game.
+To understand this effect, one has to look at two different
+starting positions for Patient Zero. When the first zombie
+starts out as a hub, the game becomes an Escape scenario very
+fast, but early containment is also highly unlikely, meaning
+big parts of the population will always be lost to the infection.
+The second case is more interesting. Here, the zombie starts
+out in a densely connected cluster. The infection spreads
+through this cluster, while at the same time the connections in
+the cluster are reduced as stigmatization becomes more likely
+with the increasing number of zombies in the cluster. Because
+the hubs are more strongly connected to the clusters, the paths
+from every zombie to the hubs are lengthened, which leads to
+the aforementioned slowing down of the infection. But it also
+has the important consequence of making it more likely for
+the infection to eventually reach a hub and spread across the
+network. As the Stigmatization reduces the connections
+within the cluster, all remaining paths become more likely to
+be at some point connected to a hub. Since the infection is
+effectively a random walk, it is only a matter of time before a
+hub is reached and humanity is doomed.
+The Stigmatization model represents a figuration where
+small autonomous human groups with less complex action
+chains between the survivor groups emerge, resulting in less
+concerted and effective anti-zombie practices and finally in a
+higher risk of infection for the overall network. As an unin-
+tended consequence of the stigmatization by humans, the
+power relations between infected and human actors change
+to the disadvantage of the latter.
+This interpretation of the hidden dangers of the
+Stigmatization strategy is further enhanced as we turn our
+attention to the changes in the topology resulting from the
+ZombieApocalypse. We looked mainly at two indicators: the
+percentage of edges retained in the graph after the zombie
+rampage had subsided and the remaining "friends" the survi-
+vors had on average. Friends, in this instance, refers to the
+number of human agents connected to a human agent. In
+Table 1, we give an overview of the three scenarios which
+allowed for changes in the topology.
+One can see that the Stigmatization strategy leads to the
+biggest loss in edges for the graph. But it also results in small
+groups instead of lone survivors. Sentimentality, on the other
+hand, retains most of the original topology, albeit populated
+mostly by zombies. In this sense, the Stigmatization scenario
+comes very close to the zombie myths. It leads to small
+groups of survivors, whose inability to work together makes
+society as a whole more vulnerable to the spread of infection.
+On one hand, this strategy is effective as zombies will find
+less human food, but on the other hand, the infected society
+transforms into a figurational structure of small human
+groups, giving space for the decline of human solidarity on
+the macro-level and ongoing competition for survival. Both
+effects seem to arise systematically from the combination of
+a scale-free network topology and the Stigmatization strat-
+egy. This means they are a structural outcome, which cannot
+be reduced solely to the intentions of the agents but rather to
+the figurational structure of the model.
+Looking at network clustering measures, we find that the
+Stigmatization strategy really seems to change the network
+in a way that makes it more susceptible to infectious pro-
+cesses. Figure 5 gives the average transitivity for all three
+scenarios. Transitivity describes the average clustering in a
+graph by comparing the number of closed triangles to triads
+(Wasserman and Faust, 1994: 165). The sporadic bumps in
+transitivity can only be observed in the case of the
+Stigmatization scenario. This reinforces the idea that the net-
+work decompartmentalizes in a way that increases the group-
+ing of the remaining nodes at least temporarily. Furthermore,
+this effect seems to be centered on the hubs of the network
+since the average network clustering coefficient (Watts and
+Strogatz, 1998) for our three scenarios behaves directly
+opposite to the transitivity of the graphs. Since transitivity
+gives more weight to nodes with larger degrees and the net-
+work clustering coefficient tends to favor nodes with rela-
+tively fewer degrees, the sporadic clustering seems to be an
+effect centered on the hubs of the network.
+Similar to the classical analysis of Elias and Scotson, it
+turned out that the structural conditions of the group relations
+are important factors for the development of society in gen-
+eral. In contrast to the classical analysis of established and
+outsiders, however, in our models of zombie infection, the
+established groups become disintegrated. A new "figuration
+of interdependent small groups" emerges, which needs not
+only to survive against the zombie horde but "at the same
+time as rivals for coveted opportunities" (Elias, 1996: 89
+author's translation).
+Conclusion
+Inspired by the zombie apocalypse, we investigated three
+different scenarios as a series of game models in the sense of
+figurational sociology, which we analyzed using agent-based
+Table 1.
+Mean percentage
+of edges retained
+Average number of
+human neighbors
+Escape 66.5% 0.54
+Sentimentality 70.2% 0.25
+Stigmatization 60.4% 0.99
+10 Methodological Innovations
+simulation on a scale-free network topology. In the case of
+the Escape scenario, it was shown that time is of the essence
+when it comes to effective quarantine procedures on network
+topologies. While this may be true for all infection scenarios,
+it should be mentioned that the exponential growth pattern
+observed here suggests that this is especially true for scale-
+free graphs. Looking at the Sentimentality strategy (i.e. a
+game model including affective valencies), we saw that it
+practically negated the quarantine efforts while retaining
+much of the original structure of the graph. In the
+Stigmatization game model, we observed a strategy that
+somewhat mirrored the effectiveness of the quarantine pro-
+cedures of the Escape scenario, while also containing a hid-
+den danger. The pre-emptive cutting of ties led to groups of
+survivors, but at the same time decompartmentalized the net-
+work in a way that made it very unlikely to contain the infec-
+tion early on. Stigmatization almost automatically resulted in
+small groups of locally connected agents, thereby creating
+paths spanning the entire figuration and opening it up to the
+dangers of infection.
+We set out to prove the utility of taking a more serious
+look at the zombie apocalypse. Setting the metaphor aside
+for a moment, one can see that the three scenarios we
+described can and do play a role in many real-life infection
+scenarios. The social dynamics of stigmatization, exclusion,
+or sentimentality influence the spread of diseases as well as
+the way people interact with the infected and with each
+other. Furthermore, the proposed approach of simulating
+group relations represents a promising way of transferring
+sociological theories, such as figurational sociology, into
+formal models. Classical sociological methods of (figura-
+tional) theory, such as observational studies or survey
+research, cannot reveal the processual dynamics in the way
+a simulation does. We conclude that figurational sociology
+can profit from the techniques of simulation modeling. More
+generally, social phenomena between groups and classes
+competing with each other in a common figuration can be
+explored using the proposed combination of relation theory
+and simulation models. In doing so, social problems, refer-
+ring to interaction and infection processes, can be analyzed
+within this framework.
+As we have shown, the social dynamics in infection sce-
+narios can become systemic very fast and lead to unantici-
+pated patterns in the spread of diseases, which was a lesson
+the World Health Organization (WHO) had to learn the hard
+way during the recent Ebola epidemic in West Africa. The
+aptly named report "Why the Ebola outbreak has been under-
+estimated" (WHO, 2014) shows that the effects that were
+underestimated were mostly social in nature. Among them,
+we find the Sentimentality scenario, as it is revealed that
+many people tried to care for their relatives and loved ones at
+home, which consequently undermined quarantine proce-
+dures. Stigmatization and other group processes are also
+mentioned as social dynamics that were overlooked and at
+the same time contributed significantly to the failure to con-
+tain and effectively combat the infection.
+We do believe that this is true not only for the Ebola out-
+break but also for basically all epidemics and processes that
+behave in an infectious manner. Social dynamics, as well as
+social structure, play a crucial role in how a disease unfolds
+Figure 5. Average transitivity of graphs over time.
+Riebling and Schmitz 11
+and what consequences it has. It is a grave mistake to treat
+and model diseases as though they were removed from the
+social mores of human life. If the zombie apocalypse can
+teach us anything, it is this.
+Declaration of conflicting interests
+The author(s) declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research, author-
+ship, and/or publication of this article.
+Notes
+1. Meaning all stories modeled after I Am Legend by Richard
+Matheson in 1954. Although the book calls the undead "vam-
+pires," they are much closer in their behavior and description
+to our modern zombies and have served as their blueprint. This
+is also the first time the undead are shown as a viral infec-
+tion that ultimately led to the downfall of society. Before I Am
+Legend came out, the depiction of zombies was grounded in
+the zombu, or undead servant of voodoo mythology, which
+meant they were essentially slaves created by black magic.
+The classic zombie lacked all the attributes we have grown
+to associate with zombies today. They did not reproduce and
+spread like an infection nor did they exist as part of an apoca-
+lyptic scenario.
+2. The camel case is used to distinguish between our simulation
+model and the apocalyptic scenario featured in stories about
+zombies.
+3. The code for the simulation can be found in GitHub: https://
+github.com/jrriebling/ZombieApocalypseSim
+4. https://bitbucket.org/simpy/simpy/
+5. https://github.com/kentwait/nxsim
+6. It would be formally more correct to say that there cannot be an
+algorithm M that can evaluate another algorithm just by looking
+at its input and the rules that are applied to this input. Evaluation
+in this sense means that M could find the answer without exe-
+cuting the other algorithm. The original proof by Turing (1937)
+is of course much more precise and more complex.
+7. For a collection of typical zombie tropes, one can take a
+look here: http://tvtropes.org/pmwiki/pmwiki.php/Main/
+OurZombiesAreDifferent
+References
+Barabási A-L and Albert R (1999) Emergence of scaling in random
+networks. Science 286: 509­512.
+Baur N and Ernst S (2011) Towards a process-oriented methodology:
+Modern social science research methods and Norbert Elias's
+figurational sociology. The Sociological Review 59: 117­139.
+Beeton N, Hoare A and Walker B (2014) Is there a zombicidal
+maniac near you? You'd better hope so! In: Smith RJ (ed.)
+Mathematical Modelling of Zombies. Ottawa, ON, Canada:
+University of Ottawa Press, pp. 191­208.
+Bishop KW (2010) American Zombie Gothic: The Rise and Fall
+(and Rise) of the Walking Dead in Popular Culture. Jefferson,
+NC: McFarland.
+Brooks M (2003) The Zombie Survival Guide: Complete Protection
+from the Living Dead (1st edn). New York: Broadway Books.
+Cohen R, Erez K, ben-Avraham D, et al. (2000) Resilience of the
+Internet to random breakdowns. Physical Review Letters 85:
+4626­4628.
+Crossley M and Amos M (2011) SimZombie: A case-study
+in agent-based simulation construction. In: O'Shea J,
+Nguyen NT, Crockett K, et al. (eds) Agent and Multi-Agent
+Systems: Technologies and Applications. Berlin: Springer,
+pp. 514­523:
+Elias N (1939) Über den Prozeß der Zivilisation. Baden-Baden:
+Suhrkamp.
+Elias N (1996) Was ist Soziologie? München: Juventa.
+Elias N and Scotson JL (1993) Etablierte und Aussenseiter.
+Frankfurt am Main: Suhrkamp.
+Elias N, Mennell S and Goudsblom J (1998) On Civilization, Power,
+and Knowledge: Selected Writings. Chicago, IL: University of
+Chicago Press.
+Engler JC (2012) War of the living dead: An analysis of the permis-
+sibility of the zombie weapon in modern international armed
+conflict. SSRN scholarly paper no. ID 2171477. Rochester,
+NY: Social Science Research Network (SSRN).
+Epstein JM (2009) Modelling to contain pandemics. Nature 460:
+687.
+Epstein JM, Parker J, Cummings D, et al. (2008) Coupled conta-
+gion dynamics of fear and disease: Mathematical and compu-
+tational explorations. PLoS ONE 3: e3955.
+Erdös P and Rényi A (1960) On the evolution of random graphs.
+Publication of the Institute of Mathematics--Hungarian
+Academy of Sciences 5: 17­61.
+Eshel I, Samuelson L and Shaked A (1998) Altruists, egoists,
+and hooligans in a local interaction model. The American
+Economic Review 88(1): 157­179.
+Fuhse JA (2012) Embedding the stranger: Ethnic categories and
+cultural differences in social networks. Journal of Intercultural
+Studies 33: 639­655.
+Gardner M (1970) Mathematical games: The fantastic combina-
+tions of John Conway's new solitaire game "life." Scientific
+American 223: 120­123.
+Gelman A (2010) "How many zombies do you know?" Using indi-
+rect survey methods to measure alien attacks and outbreaks of
+the undead. ArXiv Prepr. ArXiv10036087.
+Hagberg AA, Schult DA and Swart PJ (2008) Exploring network
+structure, dynamics, and function using NetworkX. In:
+Varoquaux G, Vaught T and Millman J (eds) Proceedings
+of the 7th Python in Science Conference (SciPy2008):
+Presented at the SciPy2008. Pasadena, CA, pp. 11­15.
+Available at: http://math.lanl.gov/~hagberg/Publications/
+hagberg-2008-exploring.shtml
+Harper S (2002) Zombies, malls, and the consumerism debate:
+George Romero's Dawn of the Dead. Journal of American
+Popular Culture 1: 2000.
+Hébert-Dufresne L, Marceau V, Noël P-A, et al. (2014) The
+Social Zombie: Modelling undead outbreaks on social
+networks. In: Smith? RJ (ed.) Mathematical Modelling of
+Zombies. Ottawa, ON, Canada: University of Ottawa Press,
+pp. 149­170.
+Hufnagel L, Brockmann D and Geisel T (2004) Forecast and con-
+trol of epidemics in a globalized world. Proceedings of the
+12 Methodological Innovations
+National Academy of Sciences of the United States of America
+101: 15124­15129.
+Jun T and Sethi R (2007) Neighborhood structure and the evolu-
+tion of cooperation. Journal of Evolutionary Economics 17:
+623­646.
+Kirkman R and Steward D (2015) The Walking Dead Volume 24:
+Life and Death. Berkeley, CA: Image Comics.
+Luke DA and Stamatakis KA (2012) Systems science methods in
+public health: Dynamics, networks, and agents. Annual Review
+of Public Health 33: 357­376.
+Munz P, Hudea I, Imad J, et al. (2009) When Zombies Attack!:
+Mathematical modelling of an outbreak of zombie infection.
+In: Tchuenche JM and Chiyaka C (eds) Infectious Disease
+Modelling Research Progress. New York: Nova Science
+Publishers, pp. 133­150.
+Murray JD (2002) Mathematical biology: I. An Introduction
+(Interdisciplinary Applied Mathematics, 3rd edn). New York:
+Springer.
+Newman ME (2002) Spread of epidemic disease on networks.
+Physical Review E 66: 016128.
+Pastor-Satorras R and Vespignani A (2001) Epidemic spread-
+ing in scale-free networks. Physical Review Letters 86:
+3200­3203.
+Smith? R (ed.) (2014) Mathematical Modelling of Zombies. Ottawa,
+ON, Canada: University of Ottawa Press.
+Spitznagel E (2010) George A. Romero: "Who Says Zombies Eat
+Brains?" Vanity Fair, 27 May 2010. Available at: http://www.
+vanityfair.com/hollywood/2010/05/george-romero
+Stanley D (2012) The nurses' role in the prevention of Solanum
+infection: Dealing with a zombie epidemic. Journal of Clinical
+Nursing 21: 1606­1613.
+Tang M, Mao X and Zhou H (2013) Zombie-city: A new artificial
+society model. Journal of Computational Information Systems
+9: 4989­4996.
+Turing AM (1937) On computable numbers, with an application
+to the Entscheidungsproblem. Proceedings of the London
+Mathematical Society 42: 230­265.
+Wasserman S and Faust K (1994) Social Network Analysis:
+Methods and Applications, Structural Analysis in the Social
+Sciences. Cambridge: Cambridge University Press.
+Watts DJ and Strogatz SH (1998) Collective dynamics of small-
+world networks. Nature 393: 440­442.
+World Health Organization (WHO) (2014) Why the Ebola outbreak
+has been underestimated. Available at: http://www.who.int/medi-
+acentre/news/ebola/22-august-2014/en/ (accessed 30 May 15).
+Author biographies
+Jan Rasmus Riebling is a doctoral student at the chair of theoretical
+sociology at the university of Bamberg. His main research interests
+are computational models of social symbols, mathematical sociol-
+ogy and network analysis.
+Andreas Schmitz is a post-doc researcher at the chair of sociology,
+University of Bonn, Germany. His major interests are sociological
+theories (esp. field theory and practice theory) as well as relational
+methodology.
+

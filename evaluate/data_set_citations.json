@@ -1,313 +1,1425 @@
- [
+[
     {
-        "score": 1.0,
-        "publication_id": 1,
-        "data_set_id": 1,
+        "citation_id": 2019,
+        "publication_id": 143,
+        "data_set_id": 352,
         "mention_list": [
-            "SRC data",
-            "Surveys conducted by the Survey Research Center and the Center for Political Studies of the University",
-            "eight SRC-CPS presidential election surveys",
-            "eight SRC-CPS presidential election surveys con- ducted between 1952 and 1980",
-            "eight presidential election surveys conducted by the Survey Research Center and the Center for Political Studies (SRC-CPS)"
-        ]
+            "MiDi",
+            "Micro Database Direct Investment"
+        ],
+        "score": 1.0
     },
     {
-        "score": 1.0,
-        "publication_id": 1,
-        "data_set_id": 2,
-        "mention_list": [
-            "American national election studies",
-            "SRC-CPS congressional election surveys conducted be- tween 1958 and 1978",
-            "SRC-CPS presidential election studies",
-            "SRC-CPS presidential election surveys",
-            "SRC-CPS presidential election surveys con- ducted between 1952 and 1980",
-            "SRC-CPS surveys",
-            "Survey Research Center and the Center for Political Studies (SRC-CPS)",
-            "Surveys conducted by the Survey Research Center and the Center for Political Studies of the University",
-            "surveys conducted by the Survey Research Center and the Center for Political Studies"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 1,
-        "data_set_id": 5,
-        "mention_list": []
-    },
-    {
-        "score": 1.0,
-        "publication_id": 1,
-        "data_set_id": 8,
-        "mention_list": []
-    },
-    {
-        "score": 1.0,
-        "publication_id": 2,
-        "data_set_id": 10,
-        "mention_list": [
-            "10.3886",
-            "ANES 1972",
-            "ICPSR",
-            "series",
-            "time"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 3,
-        "data_set_id": 1,
-        "mention_list": [
-            "ANES study",
-            "ICPSR",
-            "time series"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 4,
-        "data_set_id": 40,
-        "mention_list": [
-            "annual",
-            "cps",
-            "population"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 54,
-        "mention_list": [
-            "\\\"Monitoring the Future\\\" project",
-            "\\\"Monitoring the Future\\\" series",
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "Monitoring the Future: Questionnaire Responses",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 55,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 56,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 57,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 58,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 59,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 60,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 61,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 62,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 63,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 64,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 65,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 5,
-        "data_set_id": 66,
-        "mention_list": [
-            "Monitoring the Future",
-            "Monitoring the Future: A Continuing Study of the Lifestyles and Values of Youth.",
-            "The Monitoring the Future Project",
-            "questionnaire data from annual nationwide surveys conducted from 1976 through 1988"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 6,
-        "data_set_id": 41,
-        "mention_list": [
-            "CPS",
-            "Current Population Survey"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 102,
-        "data_set_id": 304,
-        "mention_list": [
-            "Deutsche Bundesbank (Interest Rates Statistics) for data on bank lending",
-            "Interest Rates Statistics",
-            "MIR"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 103,
-        "data_set_id": 305,
-        "mention_list": [
-            "bank supervisory data of the Deutsche Bundesbank",
-            "credit register"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 103,
-        "data_set_id": 306,
-        "mention_list": [
-            "Monthly Balance Sheet Statistic of the Deutsche Bundesbank",
-            "Monthly Balance Sheet Statistics",
-            "https://www.bundesbank.de/Redaktion/EN/Standardartikel/Service/Reporting_systems/monthly_balance_ sheet_statistics.html?https=1"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 103,
-        "data_set_id": 307,
-        "mention_list": [
-            "Monthly Balance Sheet Statistics",
-            "Securities Holdings Statistics",
-            "bank supervisory data of the Deutsche Bundesbank",
-            "bank-level dataset on German banks' state bond holdings"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 103,
-        "data_set_id": 308,
-        "mention_list": [
-            "Securities Holdings Statistics"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 104,
-        "data_set_id": 309,
-        "mention_list": [
-            "information on banks' direct cross-border lending and funding positions by country and by currency"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 104,
-        "data_set_id": 310,
-        "mention_list": [
-            "balance sheet data"
-        ]
-    },
-    {
-        "score": 1.0,
-        "publication_id": 105,
+        "citation_id": 2020,
+        "publication_id": 143,
         "data_set_id": 311,
         "mention_list": [
-            "Deutsche Bundesbank's balance of payments statistics"
-        ]
+            "German International Trade in Services Statistics",
+            "ITS",
+            "International Trade in Services Statistics",
+            "micro-level German International Trade in Services"
+        ],
+        "score": 1.0
     },
     {
-        "score": 1.0,
-        "publication_id": 105,
-        "data_set_id": 312,
+        "citation_id": 2030,
+        "publication_id": 153,
+        "data_set_id": 361,
         "mention_list": [
-            "Ustan",
-            "corporate balance sheet data",
-            "corporate balance sheet statistics",
-            "corporate balance sheets"
-        ]
+            "MiDi",
+            "Microdatabase Direct Investment"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 2042,
+        "publication_id": 163,
+        "data_set_id": 373,
+        "mention_list": [
+            "International Capital Links",
+            "Midi"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 2098,
+        "publication_id": 189,
+        "data_set_id": 397,
+        "mention_list": [
+            "1997 National Health Interview Survey (NHIS)",
+            "NHIS",
+            "sponsored by the Na- tional Center for Health Statistics (NCHS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 2102,
+        "publication_id": 192,
+        "data_set_id": 377,
+        "mention_list": [
+            "Health and Retirement Study"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 2379,
+        "publication_id": 339,
+        "data_set_id": 482,
+        "mention_list": [
+            "(NHANES)",
+            "NHANES",
+            "NHANES data",
+            "NHANES survey",
+            "NHANES surveys",
+            "National Health and Nutrition Examination Survey",
+            "National Health and Nutrition Examination Survey (NHANES)",
+            "third National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 2380,
+        "publication_id": 339,
+        "data_set_id": 483,
+        "mention_list": [
+            "(NHANES)",
+            "NHANES",
+            "NHANES data",
+            "NHANES survey",
+            "NHANES surveys",
+            "National Health and Nutrition Examination Survey",
+            "National Health and Nutrition Examination Survey (NHANES)",
+            "third National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 2381,
+        "publication_id": 339,
+        "data_set_id": 484,
+        "mention_list": [
+            "(NHANES)",
+            "NHANES",
+            "NHANES data",
+            "NHANES survey",
+            "NHANES surveys",
+            "National Health and Nutrition Examination Survey",
+            "National Health and Nutrition Examination Survey (NHANES)",
+            "third National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3477,
+        "publication_id": 765,
+        "data_set_id": 780,
+        "mention_list": [],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3478,
+        "publication_id": 765,
+        "data_set_id": 781,
+        "mention_list": [
+            "NSSCA",
+            "National Survey of Self-Care and Aging",
+            "National Survey of Self-Care and Aging (NSSCA)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3483,
+        "publication_id": 770,
+        "data_set_id": 429,
+        "mention_list": [
+            "NSFH",
+            "National Survey of Families and Households",
+            "National Survey of Families and Households (NSFH)",
+            "T2",
+            "second wave (T2) of the NSFH"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3542,
+        "publication_id": 793,
+        "data_set_id": 737,
+        "mention_list": [
+            "Robert Wood Johnson Foundation Employer Health Insurance Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3681,
+        "publication_id": 876,
+        "data_set_id": 771,
+        "mention_list": [
+            "First National Health and Nutrition Examination Survey",
+            "NHANES",
+            "NHANES I",
+            "National Health and Nutrition Examination Survey",
+            "National Health and Nutrition Examination Survey (NHANES)",
+            "National Health and Nutrition Examination Surveys I and II",
+            "first National Health and Nutrition Examination Survey",
+            "first National Health and Nutrition Examination Survey (NHANES I)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3682,
+        "publication_id": 876,
+        "data_set_id": 260,
+        "mention_list": [
+            "First National Health and Nutrition Examination Survey",
+            "First National Health and Nutrition Examination Survey (NHANES I)",
+            "NHANES",
+            "NHANES I",
+            "NHANES I study",
+            "National Health and Nutrition Examination Survey",
+            "first National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3683,
+        "publication_id": 876,
+        "data_set_id": 262,
+        "mention_list": [
+            "NHANES",
+            "NHANES II",
+            "NHANES II (1976-1980)",
+            "NHANES II data",
+            "National Health and Nutrition Examination Survey",
+            "Second National Health and Nutrition Examination Survey",
+            "the second National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3684,
+        "publication_id": 876,
+        "data_set_id": 472,
+        "mention_list": [
+            "NHANES",
+            "NHANES II",
+            "NHANES II (1976-1980)",
+            "NHANES II data",
+            "National Health and Nutrition Examination Survey",
+            "second National Health and Nutrition Examination Survey",
+            "the second National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3860,
+        "publication_id": 991,
+        "data_set_id": 443,
+        "mention_list": [
+            "SWAN",
+            "Study of Women's Health across the Nation",
+            "Study of Women's Health across the Nation (SWAN)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3983,
+        "publication_id": 1067,
+        "data_set_id": 872,
+        "mention_list": [
+            "Children surveyed in the ECLS-K",
+            "ECLS",
+            "ECLS-K",
+            "ECLS-K data",
+            "ECLS-K, Early Childhood Longitudinal Study-Kindergarten Class",
+            "Early Childhood Longitudinal Study",
+            "Early Childhood Longitudinal Study, a nationally representative sample of kindergartners in the U.S. in 1998",
+            "Early Childhood Longitudinal Study-Kindergarten Class (ECLS-K)",
+            "National Center for Educational Statistics. ECLS-K Base Year"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4061,
+        "publication_id": 1113,
+        "data_set_id": 438,
+        "mention_list": [
+            "Add Health",
+            "Add Health (Waves I, II, and II)",
+            "Add Health data",
+            "Add Health, National Longitudinal Study of Adolescent Health",
+            "National Longitudinal Study of Adolescent Health",
+            "National Longitudinal Study of Adolescent Health (Add Health)",
+            "Wave I (1994 to 1995) of Add Health",
+            "waves of Add Health"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4086,
+        "publication_id": 1134,
+        "data_set_id": 455,
+        "mention_list": [
+            "NCS",
+            "NCS, National Comorbidity Survey",
+            "National Comorbidity Survey",
+            "National Comorbidity Survey (NCS)",
+            "National Comorbidity Survey [NCS]"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4097,
+        "publication_id": 1145,
+        "data_set_id": 890,
+        "mention_list": [
+            "2006 National Survey of Substance Abuse Treatment Services",
+            "2006 National Survey of Substance Abuse Treatment Services (N-SSATS)",
+            "N-SSATS",
+            "National Survey of Substance Abuse Treatment Services",
+            "National Survey of Substance Abuse Treatment Services (N-SSATS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4102,
+        "publication_id": 1150,
+        "data_set_id": 891,
+        "mention_list": [
+            "MEPS",
+            "MEPS household survey",
+            "Medical Expenditure Panel Survey",
+            "Medical Expenditure Panel Survey (MEPS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4171,
+        "publication_id": 1178,
+        "data_set_id": 520,
+        "mention_list": [
+            "NICHD Study of Early Child Care",
+            "NICHD Study of Early Child Care and Youth Development",
+            "NICHD study",
+            "National Institute of Child Health and Human Development Study of Early Child Care and Youth Development",
+            "the NICHD study"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4172,
+        "publication_id": 1178,
+        "data_set_id": 521,
+        "mention_list": [
+            "NICHD Study of Early Child Care",
+            "NICHD Study of Early Child Care and Youth Development",
+            "NICHD study",
+            "National Institute of Child Health and Human Development Study of Early Child Care and Youth Development",
+            "the NICHD study"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4336,
+        "publication_id": 1282,
+        "data_set_id": 219,
+        "mention_list": [
+            "MTF",
+            "MTF data",
+            "MTF study",
+            "MTF survey",
+            "Monitoring the Future",
+            "Monitoring the Future study",
+            "Monitoring the Future study (MTF)",
+            "Monitoring the Future survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4337,
+        "publication_id": 1282,
+        "data_set_id": 549,
+        "mention_list": [
+            "MTF",
+            "MTF data",
+            "MTF study",
+            "MTF survey",
+            "Monitoring the Future",
+            "Monitoring the Future study",
+            "Monitoring the Future study (MTF)",
+            "Monitoring the Future survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4338,
+        "publication_id": 1282,
+        "data_set_id": 550,
+        "mention_list": [
+            "MTF",
+            "MTF data",
+            "MTF study",
+            "MTF survey",
+            "Monitoring the Future",
+            "Monitoring the Future study",
+            "Monitoring the Future study (MTF)",
+            "Monitoring the Future survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4339,
+        "publication_id": 1282,
+        "data_set_id": 226,
+        "mention_list": [
+            "MTF",
+            "MTF data",
+            "MTF study",
+            "MTF survey",
+            "Monitoring the Future",
+            "Monitoring the Future study",
+            "Monitoring the Future study (MTF)",
+            "Monitoring the Future survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4340,
+        "publication_id": 1282,
+        "data_set_id": 558,
+        "mention_list": [
+            "MTF",
+            "MTF data",
+            "MTF study",
+            "MTF survey",
+            "Monitoring the Future",
+            "Monitoring the Future study",
+            "Monitoring the Future study (MTF)",
+            "Monitoring the Future survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4341,
+        "publication_id": 1282,
+        "data_set_id": 559,
+        "mention_list": [
+            "MTF",
+            "MTF data",
+            "MTF study",
+            "MTF survey",
+            "Monitoring the Future",
+            "Monitoring the Future study",
+            "Monitoring the Future study (MTF)",
+            "Monitoring the Future survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4342,
+        "publication_id": 1282,
+        "data_set_id": 560,
+        "mention_list": [
+            "MTF",
+            "MTF data",
+            "MTF study",
+            "MTF survey",
+            "Monitoring the Future",
+            "Monitoring the Future study",
+            "Monitoring the Future study (MTF)",
+            "Monitoring the Future survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4356,
+        "publication_id": 1293,
+        "data_set_id": 567,
+        "mention_list": [
+            "Hispanic EPESE",
+            "Hispanic Established Population for the Epidemiological Study of the Elderly (EPESE)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4357,
+        "publication_id": 1293,
+        "data_set_id": 568,
+        "mention_list": [
+            "Hispanic EPESE",
+            "Hispanic Established Population for the Epidemiological Study of the Elderly",
+            "Hispanic Established Population for the Epidemiological Study of the Elderly (EPESE)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4358,
+        "publication_id": 1293,
+        "data_set_id": 803,
+        "mention_list": [
+            "Hispanic EPESE",
+            "Hispanic Established Population for the Epidemiological Study of the Elderly",
+            "Hispanic Established Population for the Epidemiological Study of the Elderly (EPESE)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4359,
+        "publication_id": 1293,
+        "data_set_id": 376,
+        "mention_list": [
+            "Hispanic EPESE",
+            "Hispanic Established Population for the Epidemiological Study of the Elderly",
+            "Hispanic Established Population for the Epidemiological Study of the Elderly (EPESE)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4421,
+        "publication_id": 1338,
+        "data_set_id": 382,
+        "mention_list": [
+            "NHANES",
+            "NHANES III",
+            "National Health and Nutrition Examination Survey",
+            "Third U.S. National Health and Nutrition Examination Survey (NHANES III; n 11,968)",
+            "third National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4761,
+        "publication_id": 1524,
+        "data_set_id": 489,
+        "mention_list": [
+            "NSHAP",
+            "National Social Life, Health, and Aging Project (NSHAP)",
+            "national social life, health, and aging project"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4939,
+        "publication_id": 1575,
+        "data_set_id": 492,
+        "mention_list": [
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4940,
+        "publication_id": 1575,
+        "data_set_id": 496,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4941,
+        "publication_id": 1575,
+        "data_set_id": 497,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4942,
+        "publication_id": 1575,
+        "data_set_id": 498,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4943,
+        "publication_id": 1575,
+        "data_set_id": 499,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4944,
+        "publication_id": 1575,
+        "data_set_id": 500,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4945,
+        "publication_id": 1575,
+        "data_set_id": 501,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4946,
+        "publication_id": 1575,
+        "data_set_id": 502,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4947,
+        "publication_id": 1575,
+        "data_set_id": 503,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4948,
+        "publication_id": 1575,
+        "data_set_id": 504,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4949,
+        "publication_id": 1575,
+        "data_set_id": 505,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4950,
+        "publication_id": 1575,
+        "data_set_id": 506,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4951,
+        "publication_id": 1575,
+        "data_set_id": 507,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4952,
+        "publication_id": 1575,
+        "data_set_id": 508,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4953,
+        "publication_id": 1575,
+        "data_set_id": 509,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4954,
+        "publication_id": 1575,
+        "data_set_id": 510,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4955,
+        "publication_id": 1575,
+        "data_set_id": 511,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4956,
+        "publication_id": 1575,
+        "data_set_id": 512,
+        "mention_list": [
+            "Multiple-cause-of-death",
+            "multiple-cause-of-death"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 5325,
+        "publication_id": 1665,
+        "data_set_id": 382,
+        "mention_list": [
+            "NHANES III",
+            "Third National Health and Nutrition Examination Survey",
+            "Third National Health and Nutrition Examination Survey (NHANES III)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 5528,
+        "publication_id": 1776,
+        "data_set_id": 481,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey",
+            "National Health and Nutrition Examination Survey (NHANES)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 5529,
+        "publication_id": 1776,
+        "data_set_id": 482,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey",
+            "National Health and Nutrition Examination Survey (NHANES)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 5854,
+        "publication_id": 1935,
+        "data_set_id": 481,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 5855,
+        "publication_id": 1935,
+        "data_set_id": 482,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 5907,
+        "publication_id": 1968,
+        "data_set_id": 1003,
+        "mention_list": [
+            "National Profile of Local Health Departments"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6049,
+        "publication_id": 2022,
+        "data_set_id": 481,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6050,
+        "publication_id": 2022,
+        "data_set_id": 482,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6051,
+        "publication_id": 2022,
+        "data_set_id": 483,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6289,
+        "publication_id": 2119,
+        "data_set_id": 537,
+        "mention_list": [
+            "MIDUS",
+            "MIDUS II",
+            "Study of Midlife in the United States"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6350,
+        "publication_id": 2148,
+        "data_set_id": 483,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6351,
+        "publication_id": 2148,
+        "data_set_id": 484,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6352,
+        "publication_id": 2148,
+        "data_set_id": 542,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6358,
+        "publication_id": 2152,
+        "data_set_id": 1018,
+        "mention_list": [
+            "LSOC",
+            "Longitudinal Study of Generations",
+            "Longitudinal Study of Generations project",
+            "Longitudinal Study of Generations survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6359,
+        "publication_id": 2152,
+        "data_set_id": 1019,
+        "mention_list": [
+            "LSOC",
+            "Longitudinal Study of Generations",
+            "Longitudinal Study of Generations project",
+            "Longitudinal Study of Generations survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6558,
+        "publication_id": 2241,
+        "data_set_id": 1048,
+        "mention_list": [],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6667,
+        "publication_id": 2283,
+        "data_set_id": 597,
+        "mention_list": [],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6964,
+        "publication_id": 2328,
+        "data_set_id": 609,
+        "mention_list": [
+            "National Ambulatory Medical Care Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 7089,
+        "publication_id": 2358,
+        "data_set_id": 635,
+        "mention_list": [
+            "MLS",
+            "Maternal lifestyle study",
+            "maternal lifestyle study"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 7452,
+        "publication_id": 2541,
+        "data_set_id": 1163,
+        "mention_list": [
+            "CJ-DATS 2",
+            "Criminal Justice Drug Abuse Treatment Studies",
+            "HIV Services and Treatment Implementation in Corrections",
+            "HIV-STIC"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 7467,
+        "publication_id": 2556,
+        "data_set_id": 668,
+        "mention_list": [
+            "Family Exchanges Study"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 7509,
+        "publication_id": 2593,
+        "data_set_id": 489,
+        "mention_list": [
+            "NSHAP",
+            "National Social Life, Health, and Aging Project",
+            "National Social Life, Health, and Aging Project (NSHAP)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 7510,
+        "publication_id": 2593,
+        "data_set_id": 647,
+        "mention_list": [
+            "NSHAP",
+            "National Social Life, Health, and Aging Project",
+            "National Social Life, Health, and Aging Project (NSHAP)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 7684,
+        "publication_id": 2683,
+        "data_set_id": 671,
+        "mention_list": [
+            "Study on Global AGEing and Adult Health (SAGE), initiated by the World Health Organisation (WHO)",
+            "Study on Global Ageing and Adult Health",
+            "WHO SAGE",
+            "WHO SAGE survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 7734,
+        "publication_id": 2707,
+        "data_set_id": 713,
+        "mention_list": [
+            "NCS",
+            "National Congregations Study"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 7735,
+        "publication_id": 2707,
+        "data_set_id": 714,
+        "mention_list": [
+            "NCS",
+            "National Congregations Study"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8016,
+        "publication_id": 2819,
+        "data_set_id": 306,
+        "mention_list": [
+            "monthly balance sheet"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8017,
+        "publication_id": 2819,
+        "data_set_id": 305,
+        "mention_list": [
+            "credit register"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8018,
+        "publication_id": 2819,
+        "data_set_id": 320,
+        "mention_list": [
+            "MiMiK",
+            "MiMik",
+            "credit register"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8019,
+        "publication_id": 2819,
+        "data_set_id": 1285,
+        "mention_list": [],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8020,
+        "publication_id": 2820,
+        "data_set_id": 305,
+        "mention_list": [
+            "credit register"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8021,
+        "publication_id": 2820,
+        "data_set_id": 306,
+        "mention_list": [
+            "Monthly Balance Sheet Statistics",
+            "balance sheet statistics",
+            "monthly balance sheet"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8022,
+        "publication_id": 2820,
+        "data_set_id": 1284,
+        "mention_list": [],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8023,
+        "publication_id": 2820,
+        "data_set_id": 320,
+        "mention_list": [
+            "MiMiK",
+            "MiMik",
+            "credit register"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8061,
+        "publication_id": 2850,
+        "data_set_id": 1286,
+        "mention_list": [
+            "balance sheet data",
+            "corporate balance sheet statistics"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8125,
+        "publication_id": 2896,
+        "data_set_id": 339,
+        "mention_list": [
+            "MIcro database Direct Investment",
+            "MiDi",
+            "Micro Database Direct Investment",
+            "Midi"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8138,
+        "publication_id": 2906,
+        "data_set_id": 1284,
+        "mention_list": [
+            "Deutsche Bundesbank's borrowers statistics"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8139,
+        "publication_id": 2907,
+        "data_set_id": 339,
+        "mention_list": [
+            "MIcro database Direct Investment",
+            "MiDi",
+            "Micro Database Direct Investment",
+            "Microdatabase Direct Investment",
+            "Microdatabase direct investment",
+            "Midi"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8140,
+        "publication_id": 2907,
+        "data_set_id": 311,
+        "mention_list": [
+            "ITS"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8201,
+        "publication_id": 2951,
+        "data_set_id": 1286,
+        "mention_list": [
+            "corporate balance sheet statistics"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8340,
+        "publication_id": 3025,
+        "data_set_id": 455,
+        "mention_list": [
+            "NCS",
+            "NCS database",
+            "National Comorbidity Study",
+            "National Comorbidity Survey"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8378,
+        "publication_id": 3048,
+        "data_set_id": 763,
+        "mention_list": [
+            "CPS",
+            "Current Population Surveys",
+            "Current Population Surveys (CPS)",
+            "Current Population Surveys (CPS) data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8379,
+        "publication_id": 3048,
+        "data_set_id": 1298,
+        "mention_list": [
+            "CPS",
+            "Current Population Surveys",
+            "Current Population Surveys (CPS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8380,
+        "publication_id": 3048,
+        "data_set_id": 297,
+        "mention_list": [
+            "CPS",
+            "CPS, Current Population Survey",
+            "Current Population Survey",
+            "Current Population Surveys (CPS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8381,
+        "publication_id": 3048,
+        "data_set_id": 299,
+        "mention_list": [
+            "CPS",
+            "CPS, Current Population Surveys",
+            "Current Population Surveys",
+            "Current Population Surveys (CPS)",
+            "Current Population Surveys (CPS) data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8382,
+        "publication_id": 3048,
+        "data_set_id": 764,
+        "mention_list": [
+            "CPS",
+            "CPS, Current Population Survey",
+            "Current Population Survey",
+            "Current Population Surveys (CPS)",
+            "Current Population Surveys (CPS) data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8383,
+        "publication_id": 3048,
+        "data_set_id": 1299,
+        "mention_list": [
+            "CPS",
+            "CPS, Current Population Surveys",
+            "Current Population Surveys",
+            "Current Population Surveys (CPS)",
+            "Current Population Surveys (CPS) data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8384,
+        "publication_id": 3048,
+        "data_set_id": 255,
+        "mention_list": [
+            "Health Interview Surveys",
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Surveys",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8385,
+        "publication_id": 3048,
+        "data_set_id": 256,
+        "mention_list": [
+            "Health Interview Surveys",
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Surveys",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8386,
+        "publication_id": 3048,
+        "data_set_id": 257,
+        "mention_list": [
+            "Health Interview Surveys",
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Surveys",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8387,
+        "publication_id": 3048,
+        "data_set_id": 258,
+        "mention_list": [
+            "Health Interview Surveys",
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Surveys",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8388,
+        "publication_id": 3048,
+        "data_set_id": 259,
+        "mention_list": [
+            "Health Interview Surveys",
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Surveys",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8389,
+        "publication_id": 3048,
+        "data_set_id": 1300,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Surveys",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8390,
+        "publication_id": 3048,
+        "data_set_id": 265,
+        "mention_list": [],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8391,
+        "publication_id": 3048,
+        "data_set_id": 1301,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Surveys",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8392,
+        "publication_id": 3048,
+        "data_set_id": 136,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Survey",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8393,
+        "publication_id": 3048,
+        "data_set_id": 137,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Survey",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8394,
+        "publication_id": 3048,
+        "data_set_id": 138,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Survey",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8395,
+        "publication_id": 3048,
+        "data_set_id": 139,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Survey",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8396,
+        "publication_id": 3048,
+        "data_set_id": 140,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Survey",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8397,
+        "publication_id": 3048,
+        "data_set_id": 142,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Survey",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8398,
+        "publication_id": 3048,
+        "data_set_id": 143,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Survey",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8399,
+        "publication_id": 3048,
+        "data_set_id": 145,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Survey",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8400,
+        "publication_id": 3048,
+        "data_set_id": 150,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Survey",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8401,
+        "publication_id": 3048,
+        "data_set_id": 822,
+        "mention_list": [
+            "NHIS",
+            "NHIS data",
+            "National Health Interview Survey",
+            "National Health Interview Surveys (NHIS)",
+            "National Health Interview Surveys data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8477,
+        "publication_id": 3074,
+        "data_set_id": 783,
+        "mention_list": [
+            "SUPPORT",
+            "Study to Understand Prognoses and Preferences for Outcomes and Risks of Treatments",
+            "Study to Understand Prognoses and Preferences for Outcomes and Risks of Treatments (SUPPORT)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8551,
+        "publication_id": 3118,
+        "data_set_id": 518,
+        "mention_list": [
+            "NHIS",
+            "NHIS surveys",
+            "National Health Interview Survey",
+            "National Health Interview Survey (NHIS)",
+            "National Health Interview Survey Multiple Cause of Death"
+        ],
+        "score": 1.0
     }
 ]

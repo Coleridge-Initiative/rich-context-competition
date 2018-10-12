@@ -1,0 +1,827 @@
+VIKALPA · VOLUME 40 · ISSUE 4 · OCTOBER-DECEMBER 2015 435
+Anomalous Price
+Behaviour around
+Open Market
+Stock Repurchase
+Announcements in India
+Chanchal Chatterjee and Paromita Dutta
+R E S E A R C H
+KEY WORDS
+Share Repurchase
+Open Market Repurchase
+Market Models
+Stock Returns
+Undervaluation
+includes research articles
+that focus on the analysis and
+resolution of managerial and
+academic issues based on
+analytical and empirical or
+case research
+This article examines the impact of open market share repurchase announcements on
+stock returns in the Bombay Stock Exchange (BSE). The main objective is to examine
+whether share repurchase announcements under the open market route have any
+significant impact on the returns of the stocks traded in the BSE. The article covers the
+period from 2009 to 2013. For sample selection, two criteria were used: first, the firm
+should have been listed in the BSE for at least 28 trading days before the repurchase
+announcement date, and second, the firm should have all relevant data required by this
+study.Atotal of 95 repurchase announcements fulfilled these criteria. The analysis period
+extended from ­28 to +28 trading days relative to the repurchase announcement date
+(t = 0). The findings of the study will help us to understand how the market responds
+to share repurchase announcements in India and whether a firm actually benefits by
+repurchasing its own shares from the market.
+This study uses a standard event methodology based on an ordinary least squares
+market model with the aim of finding out whether repurchase announcements generate
+any abnormal return around the repurchase announcement date. While applying the
+market model for estimating the abnormal returns, the regression is estimated based on
+the stock return of the firm and market return of the previous 120 trading days. So, here
+the estimation window takes into account 120 observations. Using this, the expected
+returns are generated and then the abnormal returns are derived for the event window,
+28 days prior to the event date and 28 days after the event date.
+The findings of the study indicate that share repurchase announcements do not neces-
+sarily generate abnormal stock returns in the Indian equity market unlike developed
+economies like the US, Canada, and Australia. The whole sample is further divided
+into various subsamples on the basis of firm size and size of repurchase. The subsample
+analyses reveal that smaller firms do not necessarily experience higher abnormal stock
+returns following repurchase announcements than that of the larger firms. The findings
+weakly support the view that larger repurchase size generates greater abnormal stock
+returns than the smaller ones.
+VIKALPA
+The Journal for Decision Makers
+40(4) 435­443
+© 2015 Indian Institute of
+Management, Ahmedabad
+SAGE Publications
+sagepub.in/home.nav
+DOI: 10.1177/0256090915611773
+http://vik.sagepub.com
+Executive
+Summary
+436 ANOMALOUS PRICE BEHAVIOUR AROUND OPEN MARKET STOCK REPURCHASE ANNOUNCEMENTS IN INDIA
+Share repurchase (hereinafter referred to as
+repurchase) by companies first originated in
+the US in the late 1960s, and assumed wide
+popularity by mid-1980s. This corporate practice is
+very much popular in the US, Canada, and the UK.
+The explicit motives behind share repurchases by
+firms include returning surplus cash to shareholders,
+increasing promoters' stake, improving earnings per
+share, reducing takeover threats, and most importantly,
+preventing undervaluation of shares in the stock market.
+India recognized this corporate practice in the financial
+year 1998­1999, when Indian companies were allowed
+to repurchase their own shares for the first time. In India,
+firms can repurchase their own shares from the market
+by following the Open Market Method or they can buy
+their shares back by using the Tender Offer Method.
+However, unlike developed countries like the US or
+Canada, the number of repurchase announcements
+has been very low in India since its inception. But in
+the recent past, an upward rising trend in the share
+repurchase programme has been evident in the Indian
+corporate sector.
+Share repurchase is believed to inject some buoyancy
+into stock prices since the repurchase price is set
+at a level higher than the prevailing market price
+and, thus, it is considered as an essential measure to
+`rescue a plunging stock market' (Liao, Ke, & Yu, 2005).
+Preventing undervaluation of stocks in the market is
+considered to be one of the most prominent objectives
+behind share repurchases. Most of the Indian firms
+report on their repurchase offer documents that the
+main objective behind share repurchase is to prevent
+undervaluation of their shares in the market. Through
+share repurchase, a firm conveys a signal to the market
+that presently its share is being undervalued in the
+market but the firm expects its share price to increase.
+Does this signalling really work? Some US and
+Canadian market based studies document that share
+repurchase announcements reflect positive information
+to the market. Dann (1981), Vermaelen (1981), Netter
+and Mitchell (1989), and Ikenberry, Lakonishok, and
+Vermaelen (1995, 2000) find a significant positive market
+reaction to the stock repurchases announcements.
+In this backdrop, this study attempts to examine
+whether share repurchase announcements under
+the open market route have any significant impact
+on returns of the stocks traded in the Bombay Stock
+Exchange (BSE). The findings of the study will help
+us to understand how the market responds to share
+repurchase announcements in India and whether a firm
+actually benefits by repurchasing its own shares from
+the market. The findings show that share repurchase
+announcements by Indian firms in the BSE do not
+certainly increase their share prices in the market.
+The entire sample is further divided into subsamples
+based on firm size and size of repurchase
+announcements. Empirical results show that the smaller
+firms do not always experience greater abnormal stock
+returns following share repurchase announcements
+compared to the larger firms. With regard to the size
+of repurchase and stock price reaction, our results
+find that firms with larger repurchase size experience
+greater abnormal stock returns than firms with smaller
+size of share repurchase.
+LITERATURE REVIEW
+Majority of the studies on share repurchases have been
+conducted in the developed economies like the US,
+Canada, and the UK. Several studies have examined
+the underlying motives behind share repurchase
+announcement, and the most common motives
+emerging out of those studies are returning surplus
+cash to shareholders, capital structure redesign, anti-
+takeover mechanism, and the application of preferential
+tax rates (Liao et al., 2005). Badrinath and Varaiya
+(2000), Western and Siu (2002), Financial Executive
+Internationals (1999), etc., also report similar motives
+behind share repurchase announcements.
+However, in reality, the principal reason behind share
+repurchase is to prevent undervaluation of share
+prices in the market. Dann (1981), Vermaelen (1984),
+Netter and Mitchell (1989), and Comment and Jarrell
+(1991) find support of the undervaluation hypothesis and
+observe significant positive abnormal returns around
+repurchase announcement period in the US. Comment
+and Jarrell (1991) document that during the period of
+announcement, abnormal returns are highest under the
+tender offer method of share repurchase and lowest
+under the open market repurchase method, indicating
+that the tender offer method is more informative for the
+market. Ikenberry et al. (1995, 2000) and Balachandran
+and Troiano (2000) also support the undervaluation
+theory. Liao et al. (2005) observe significant negative
+abnormal returns in most of the days prior to the
+announcement day and significant positive abnormal
+returns on the announcement day and during the
+first few days of the post-announcement period in the
+Taiwan Stock Exchange (TWSE).
+VIKALPA · VOLUME 40 · ISSUE 4 · OCTOBER-DECEMBER 2015 437
+On the other hand, Eberhart and Siddique (2004) find
+lack of consistent evidence of positive stock returns
+following repurchase announcements, and opine that
+liquidity change is the dominating factor in explaining
+announcement period's abnormal stock returns.
+Cook, Krigman, and Leach (2004) also find support to
+the liquidity hypothesis. Chatterjee and Rakshit (2008)
+observe that the positive influence of share repurchase
+on stock price is not prevalent in the Indian context in
+all the repurchase cases as hypothesized theoretically.
+An analysis of share repurchases during 1999­2003
+in India shows that the actual repurchase price is less
+than one half of the maximum price in nearly 50 per
+cent of the cases analysed (Gupta, Jain, & Kumar, 2005).
+Hertzel (1991) reports that repurchase announcements
+had little or no effect on the share price of rival firms; the
+information contained in repurchase announcements is
+primarily company specific.
+The regulatory framework around the share
+repurchase activity varies across countries and has
+significant impact on this activity from different
+angles. Repurchase announcement during changes in
+the regulatory framework governing share repurchase
+is linked to positive but statistically insignificant
+abnormal returns, which is contrary to the evidence
+of American firms and the researchers are of the view
+that this is possibly because of the overregulated
+share repurchase environment in Australia (Harris
+& Ramsay, 1995). Rau and Vermaelen (2002)
+observe that the form and intensity of the share
+repurchase activity in the UK is influenced by the tax
+consequences associated with pension funds. The UK
+firms earn smaller excess returns through repurchase
+announcements compared to the US firms primarily
+because of the regulatory provisions in the UK which
+make it less likely that the firms can disseminate
+superior information to repurchase shares under the
+situation of undervaluation of stock prices.
+As pointed out earlier, while several studies have been
+conducted on share repurchase and its implications on
+themarketaswellasonthefirmsannouncingrepurchase,
+most of the studies have been conducted in developed
+nations like the US, the UK, Canada, and Australia. In
+India, this area has remained under-researched. There
+is lack of in-depth studies on this corporate activity and
+its implications for the Indian corporate and the market
+at large. This article is expected to fill up this gap by
+contributing to the existing literature with a primary
+focus on the impact of open market stock repurchase
+announcement on stock returns.
+DATA AND METHODOLOGY
+In India, firms can repurchase their shares either by
+the tender offer method or through the open market
+route. Under the tender offer method, a firm commits
+to repurchase a specific number of shares from the
+shareholders either at a fixed price or at a price that is
+arrived at through the book-building process. Under
+the open market route, firms repurchase their shares
+from the stock market. Here the repurchasing firm does
+not commit to buy a specific number of shares and also
+there is no commitment on the part of the company
+regarding the minimum repurchase price. Only the
+maximum price for repurchase is announced. The
+actual price may vary. The maximum size of repurchase
+is limited to 25 per cent of the total paid up capital and
+reserves of the firm. This study considers only open
+market repurchase programmes.
+The study covered the period from 2009 to 2013.1 For
+sample selection, two criteria were used: first, the firm
+should have been listed in the BSE for at least 28 trading
+days before the repurchase announcement date; and
+second, the firm should have all relevant data required
+by this study. A total of 95 repurchase programmes
+fulfilled these criteria. The analysis period extended
+from ­28 to +28 trading days relative to the repurchase
+announcement date (t = 0).
+This study covered all the repurchase announcements
+made through the open market route. The data on
+market return was based on S&P BSE 500, which
+was sourced from the official website of the BSE. The
+reason for considering S&P BSE 500 instead of Sensex
+for computing market return was that most of the
+repurchasing firms were not part of the Sensex and
+they mostly belonged to the BSE small-cap and the
+BSE mid-cap category. The information on repurchase
+announcements were collected from the SEBI website.
+The share price data of the sample firms were collected
+from the BSE website. Table 1 presents the summary
+statistics related to the repurchases.
+Table 1 shows that 2009 has the highest number (36)
+of repurchase announcements. The amount of share
+repurchase as a percentage of paid-up capital and
+free reserves ranges between 2.97 per cent and 25 per
+cent over the period of study. The average buyback
+size shows a reduction in 2010 (`426.71 million) from
+the year before (`875.38 million) and then again
+a substantial increase in the year 2011 (`1,864.72)
+million. Thereafter, a declining trend is evident. In
+438 ANOMALOUS PRICE BEHAVIOUR AROUND OPEN MARKET STOCK REPURCHASE ANNOUNCEMENTS IN INDIA
+this context, it is worth noting that almost all the
+repurchasing firms have disclosed `maximizing
+shareholders value' as the primary objective behind
+their repurchase announcements.
+This study used the standard event methodology
+based on the ordinary least squares (OLS) market
+model2 with the aim of finding out whether repurchase
+announcements generated any abnormal return around
+the repurchase announcement date.
+In a market model, under the assumption that
+asset returns are jointly multivariate normal and
+independently and identically distributed through
+time, the model is correctly specified. This model
+establishes a linear relationship between the market
+return and the individual stock return and that follows
+from joint normality.
+R
+jt
+= 
+j
++ 
+j
+R
+mt
++ 
+jt
+ (1)
+where E(
+jt
+) = 0 and Var (
+jt
+) = 
+i
+2
+where,
+R
+jt
+indicates return on stock j and R
+mt
+implies market
+return.
+The equation is estimated using the estimation window
+which is shown as follows:
+A
+0
++ 1 t = 0
+A
+1
+A
+2
+Here, t = 0 implies the event date (here, the repurchase
+announcement date); A
+0
++ 1 to A
+1
+is the estimation
+window and A
+1
+to A
+2
+is the event window.
+From Equation 1, 
+j
+and 
+j
+are estimated by running
+OLS on the data pertaining to the estimation window.
+Thereafter, using these estimates, abnormal returns for
+security `j' at time `t' in the event window is computed as:
+ AR R R
+jt jt j j mt
+= - -
+ 
+  (2)
+Finally, average abnormal returns (AARs) and
+cumulative abnormal returns (CARs) were computed
+based on these abnormal returns.
+In the market model, the expected return is estimated
+by regressing the firm's stock return on market return.
+The abnormal return is then derived as the difference
+between this expected return and the actual return.
+While applying the market model for estimating the
+abnormal returns, the regression is estimated based on
+the data of the firm and market return of the previous
+120 trading days. So, here, the estimation window took
+into account 120 observations. Using this, the expected
+returns were generated and then the abnormal returns
+were derived for the event window, 28 days prior to the
+event date and 28 days after the event date. Here the
+event date was the announcement date (t = 0). Before
+starting the analysis, all the series were tested for
+stationarity using the Phillips­Peron unit root test. As
+expected, both the returns were found to be stationary.
+The analysis is presented in two ways. First, the
+effect of the repurchase announcement around
+the announcement date was measured. To achieve
+this objective, daily AARs for all stock repurchase
+announcements were computed over ­28 and +28
+trading days in response to the announcement date 0.
+For each of the days prior to and post announcement,
+the hypothesis that return is significantly different from
+zero was tested. In addition to that the CARs were also
+computed over different window ranges. Next, the
+Table 1: Summary Information of Share Repurchases
+Year No. of Repurchase
+Announcements
+Shares Repurchase as
+Percentage of PCFR*
+Average Repurchase Size
+Announced (` million)
+Market Capitalization (` million)
+Mean Median
+2009 36 4.7% to 25% 875.38 26659.07 4582.35
+2010 13 4.42% to 25% 426.71 6106.65 1419.20
+2011 14 8.34% to 25% 1864.72 68106.84 18187.05
+2012 22 2.97% to 25% 1027.00 16061.60 5666.35
+2013 10 2.09% to 25% 920.00 21615.92 3484.00
+TOTAL 95
+Source: SEBI (www.sebi.gov.in) and authors' computation.
+VIKALPA · VOLUME 40 · ISSUE 4 · OCTOBER-DECEMBER 2015 439
+entire sample was divided into subsamples based on
+the size of the firm and the size of repurchase in order to
+examine whether abnormal returns around repurchase
+announcement varied with the firm size and the size of
+the repurchase. Therefore, the hypothesis that there is
+difference in abnormal returns between the categories
+(firm size and size of repurchase) was also tested. For
+firm size, firms were categorized according to their
+market capitalization. If market capitalization of the
+firm at the time of repurchases announcement fell below
+`2,000 crore, it was categorized as small-cap. If it was
+between `2,000 and 10,000 crore, it was called mid-cap;
+and if the market capitalization exceeded `10,000
+crore, the firm was classified as large-cap. For size of
+repurchase, firms were classified as top 25 percentile
+and bottom 25 percentile and also top 50 percentile
+and bottom 50 percentile firms based on the repurchase
+size, defined as the proposed amount to be used for
+the share repurchase programme as a percentage of
+paid up capital and free reserves. Firms could also be
+categorized into another group based on the announced
+motives behind share repurchase announcements. But
+in the study sample, almost all the firms announced
+`maximizing shareholders value' as the primary motive
+behind their repurchase announcements. Hence, such
+categorization was not followed for this study.
+EMPIRICAL RESULTS
+Abnormal Returns around the
+Announcement Date
+This section presents the analysis of how stock returns
+are influenced by repurchase announcements in three
+time periods--during repurchase announcement
+date, prior to the announcement date, and post
+announcement date.
+Tables 2 and 3 present the results of the market model.
+The daily AARs for all repurchase announcements are
+computed over ­28 and +28 periods relative to the event
+day 0. In Table 2, only the AARs for the ­10 days and
++10 days are reported. The results reflect that the AARs
+in the pre-announcement period (10 days prior to the
+announcement date) remain predominantly positive, of
+which it is found to be statistically significant on day 7
+at 5 per cent level and on days 5 and 3 at 10 per cent
+level. The AARs on day 0 (i.e., announcement day) is
+also positive and is statistically significant at 5 per cent
+level. However, during the post-announcement period,
+the AARs are found to be negative in most of the days.
+For example, AARs are negative on days 2, 3, 4, 7, 8, and
+10 of which, it is statistically significant at 5 per cent level
+only on day 4. These results do not spell out the existence
+of significant abnormal stock returns around repurchase
+announcements in the BSE. This finding is contrary to
+the findings of Liao et al. (2005), Comment and Jarrell
+(1991), Ikenberry et al. (1995, 2000), and Balachandran
+and Troiano (2000), etc., who observed positive abnormal
+stock return around repurchase announcements.
+Table 2: Daily Average Abnormal Returns (AARs) Surrounding
+the Announcement Day
+Event days AARs (%) t-value
+­10 0.0003 0.093
+­9 ­0.0003 ­0.079
+­8 0.0046 1.242
+­7 0.0087 2.822**
+­6 0.0020 0.542
+­5 0.0089 1.856*
+­4 0.0038 0.958
+­3 0.0055 1.665*
+­2 0.0023 0.611
+­1 0.0025 0.705
+0 0.0148 2.56**
+1 0.0009 0.173
+2 ­0.0008 ­0.215
+3 ­0.0037 ­1.318
+4 ­0.0070 ­2.113**
+5 0.0013 0.424
+6 0.0012 0.368
+7 ­0.0021 0.657
+8 ­0.0024 ­0.799
+9 0.0038 1.165
+10 ­0.0024 ­0.786
+Source: Authors' computation.
+Note. This table presents the abnormal returns surrounding the
+repurchase announcement day t = 0. The t-statistics test the null
+hypothesis that the AARs are equal to zero. * and ** indicate statistical
+significance at 10% and 5% levels, respectively.
+The cumulative average abnormal returns (CAARs) for
+share repurchase announcements are presented in Table
+3. Here the CAARs are presented in three different time
+periods--the top part of the Table reports CAARs around
+the repurchase announcement day, the middle part of
+the Table reports CAARs prior to the announcement
+day, and finally, the bottom part of the Table shows
+CAARs on and after the announcement day. The results
+indicate that firms experience positive CAARs around
+the repurchase announcement day. For event windows
+(­1, +1), (­2, +2), (­3, +3), (­4, +4), (­5, +5), (­10, +10),
+(­20, +20), and (­28, +28), the CAARs are positive and
+440 ANOMALOUS PRICE BEHAVIOUR AROUND OPEN MARKET STOCK REPURCHASE ANNOUNCEMENTS IN INDIA
+all are statistically significant at 5 per cent level, except
+the (­20, +20) window which is significant at 1 per cent
+level. These results do not necessarily signify positive
+impact of share repurchase announcements on stock
+returns, as the CAARs in the pre-announcement periods
+are also positive. To illustrate, during the (­5, ­1), (­10,
+­1), and (­20, ­1) periods, the CAARs are positive and
+all are statistically significant. Table 3 also shows that the
+CAARs in the post-announcement period are positive for
+all the event windows, of which the CAARs pertaining
+to (0, +14), (0, +20), and (0, +28) periods are statistically
+significant. The CAAR during the period (0, +14) is
+significant at 5 per cent level while the CAARs during
+(0, +20) and (0, +28) periods are statistically significant at
+1 per cent level. Considering all the three time periods--
+pre-announcement,aroundannouncementday,andpost-
+announcement--it cannot be argued that the CAARs
+have increased significantly in the post-announcement
+period. The CAARs are predominantly positive in all the
+three time periods and there is no significant difference
+in the values of CAARs (%) in the post-announcement
+period compared to the pre-announcement period.
+Table 3: Cumulative Average Abnormal Returns (CAARs)
+Surrounding the Announcement Day
+Windows CAARs (%) t-value
+Combined periods
+(­1, +1) 0.0181 2.121**
+(­2, +2) 0.0189 2.381**
+(­3, +3) 0.0221 2.505**
+(­4, + 4) 0.0197 1.926**
+(­5, +5) 0.0287 3.21**
+(­10, +10) 0.0463 3.059**
+(­20, +20) 0.0841 3.903***
+(­28, +28) 0.0847 3.249**
+Prior to the announcement day
+(­5, ­1) 0.0241 2.495**
+(­10, ­1) 0.0423 3.847***
+(­20, ­1) 0.0528 3.679***
+On and after the announcement day
+(0, +3) 0.0108 1.269
+(0, +5) 0.0046 0.62
+(0, +10) 0.0040 0.342
+(0, +14) 0.0194 1.769**
+(0, +20) 0.0313 2.671***
+(0,+28) 0.0259 2.005**
+Source: Authors' computation.
+Note. This table presents the CAARs surrounding the repurchase
+announcement day t = 0. The t-statistics test the null hypothesis that
+the CAARs are equal to zero. ** and *** indicate statistical significance
+at 5% and 1% levels, respectively.
+As reflected in the prior empirical studies, a share
+repurchase announcement is often described as a
+mechanism to signal the equity undervaluation. If
+corporate managers believe that the firm's share price is
+being undervalued by the market, they use repurchase
+announcementtodisclosethispotentiallyvalue-increasing
+information. Findings in the US market experience poor
+pre-announcement performance and, subsequently,
+outperformance after the repurchase announcements,
+thereby supporting the undervaluation hypothesis.
+Our finding is contrary to that. This simply signifies
+that share repurchase announcements in the BSE do not
+necessarily support the `undervaluation hypothesis' and
+it is also quite surprising that the objective of `maximizing
+shareholders' wealth' is not achieved through share
+repurchase announcements by Indian firms.
+Difference Analysis
+The results above have shown that share repurchase
+announcements do not necessarily generate abnormal
+stock returns in the Indian equity market. To test the
+effects of firm size and the size of repurchase, this study
+categorized the entire sample into various subsamples.
+The findings are presented in the following.
+Firm Size and Price Response
+Vermaelen (1981), Ho and Michaely (1988), and Ratner,
+Szewczyk, and Tsetsekos (1996) document that the stock
+price reaction of large firms is less positive than that of
+small firms around share repurchase announcements.
+On the other side, Barry and Brown (1984) observe that
+the mass media tend to provide less news coverage of
+small firms than large ones, which ultimately leads the
+large firms' prices to be more information-efficient. Here,
+samplefirmswerecategorizedonthebasisoftheirmarket
+capitalization, defined as the firm's share price in the
+market multiplied by the number of shares outstanding
+at the time of share repurchase announcement. As per
+the size of market capitalization described earlier, there
+were 75 firms under the small-cap category and 14
+firms under the mid-cap category. Only six firms were
+classified as large-cap; hence, they were ignored.
+Panel I of Table 4 shows that the CAARs of the mid-cap
+group are negative but statistically insignificant during
+the (­20, ­1) window, while the small-cap group
+registers statistically significant (at 1 per cent level)
+positive CAARs during the same window. The means
+test shows a statistically significant mean difference at
+10 per cent level. So, in the pre-announcement period,
+VIKALPA · VOLUME 40 · ISSUE 4 · OCTOBER-DECEMBER 2015 441
+the small-cap group has registered higher CAARs
+compared to the mid-cap group. However, during
+the (0, +20) period, the mid-cap group experiences
+higher CAARs (0.071 %) compared to the small-cap
+group (0.024 %) and both are significant at 10 per cent
+level, but the difference in the CAARs is statistically
+insignificant (t = 1.336). During the (­28, +28) window,
+the difference in the CAARs between the two groups are
+not statistically significant. During this event window,
+both the mid-cap group as well as the small-cap group
+experience positive CAARs, of which the CAARs of the
+small-cap group (0.087 %) are statistically significant at
+5 per cent level. Therefore, the means tests reveal that
+the difference in the CAARs between the small-cap and
+the mid-cap group is statistically significant only in the
+pre-announcement period (­20, ­1) but not in the post-
+announcement period (0, +20) and the entire period
+(­28, +28). Thus, the empirical findings report a mixed
+result with regard to the stock returns and firm size. The
+views of Vermaelen (1981), Ratner et al. (1996), and Liao
+et al. (2005) that larger firms experience less positive
+stock return to share repurchase announcements
+compared to small firms is not necessarily applicable in
+the Indian equity market.
+Table 4: Cumulative Average Abnormal Returns (CAARs) around Share Repurchase Announcements (difference analysis)
+Subsample
+(­20, ­1) (0, +20) (­28, + 28)
+CAARs t-value CAARs t-value CAARs t-value
+Panel I: Firm Size
+Mid-cap ­0.006 ­0.135 0.071 2.050* 0.095 1.709
+Small-cap 0.073 3.792*** 0.024 1.677* 0.087 2.835**
+Difference a ­0.078 ­1.669* 0.047 1.336 0.009 0.121
+Panel II: Buyback Size
+Top 25 percentile 0.016 0.574 0.058 2.672** 0.084 1.680
+Bottom 25 percentile 0.040 1.144 ­0.007 ­0.307 0.024 0.467
+Difference* ­0.024 ­0.544 0.066 2.023** 0.059 0.825
+Top 50 percentile 0.036 1.397 0.041 2.476** 0.084 2.211**
+Bottom 50 percentile 0.060 2.707* 0.012 0.646 0.073 2.132**
+Difference a ­0.024 ­1.043 0.029 0.815 0.010 ­0.040
+Source: Authors' computation.
+Note. This table presents the CAARs in the (­20, ­1), (0, +20), and (­28, +28) windows. The t-statistics test the null hypothesis that the CAARs
+are equal to zero. *, **, and *** indicate statistical significance at 10%, 5%, and 1% level, respectively. `a' means a two-tailed test.
+Size of Repurchase and Stock Price Response
+The size of repurchase is often used as a proxy for
+information, in which large repurchasing conveys more
+information regarding the cash flow position of the
+firm (Liao et al., 2005). Davidson and Garrison (1989)
+and Ratner et al. (1996) observe a positive association
+between abnormal stock return and size of repurchase.
+In this subsample analysis, firms are partitioned by
+the size of repurchase. As noted earlier, in India, the
+maximum permissible size of repurchase is 25 per cent.
+Firms are ranked from the largest to the smallest on
+the basis of the size of repurchase. Then the sample is
+partitioned into the following two groups: the top and
+the bottom 25 percentile and the top and the bottom
+50 percentile of the size of repurchase. The statistical
+significance and magnitude of the stock returns for the
+top groups are compared with the bottom groups. The
+subsample tests by repurchase size measure the impact
+of repurchase size on abnormal stock returns. Panel II
+of Table 4 presents the empirical results.
+The results show an insignificant difference in the
+means between the top and bottom 25 percentiles (t
+= ­0.544) during the (­20, ­1) window. The top and
+the bottom 50 percentile comparison also reports
+insignificant difference in the means between the large
+and the small repurchasing firms (in terms of size of
+repurchase) during the same event window. In the
+pre-announcement period (­20, ­1), the bottom 25 and
+the bottom 50 percentile firms have experienced larger
+CAARs compared to their top 25 and top 50 percentile
+groups, respectively, of which only CAARs of the
+bottom 50 percentile group is statistically significant
+at 10 per cent level. The results in the window (0, +20)
+demonstrate that a larger size repurchase tends to have
+higher abnormal returns. To illustrate, the CAARs in
+the top 25 percentile (0.058 %) group is significantly
+442 ANOMALOUS PRICE BEHAVIOUR AROUND OPEN MARKET STOCK REPURCHASE ANNOUNCEMENTS IN INDIA
+larger than that in the bottom 25 percentile group
+which reports negative CAARs of ­0.007 per cent,
+but is statistically insignificant. Here the means test
+shows statistically significant mean difference at 5
+per cent level. For the window (0, +20), the outcome
+is almost identical in the case of top 50 and bottom 50
+percentile analyses but the difference in the means test
+does not appear to be significant. The findings in the
+(­28, +28) window also show that a larger repurchase
+tends to yield higher abnormal returns. However, in
+this window, the CAARs are statistically insignificant
+for top 25 and bottom 25 percentile comparisons, while
+these are significant at 1 per cent level for the top 50
+and bottom 50 percentile analyses. In both the cases,
+the differences in the means test are not statistically
+significant. Overall, the evidence weakly supports
+the view that larger repurchase size generates greater
+abnormal returns than the smaller ones, which is partly
+consistent with the findings of Davidson and Garrison
+(1989) and Ratner et al. (1996).
+CONCLUSION
+The present study uses event methodology to
+empirically examine the impact of open market
+share repurchases on stock returns in the BSE. The
+findings of the study indicate that share repurchase
+announcements do not necessarily generate abnormal
+stock returns for the repurchasing firms in the Indian
+equity market unlike the developed economies like the
+US. The results derived from the analyses of AARs and
+CAARs show that the undervaluation hypothesis does
+not hold good in the Indian equity market implying
+that through share repurchases Indian firms are not
+able to enhance their share prices in the market. While
+analysing whether stock return following repurchase
+announcements varies across firm size, a mixed result
+is evident. The difference in the CAARs between the
+small-cap and mid-cap group is statistically significant
+only in the pre-announcement period (­20, ­1) and
+not afterwards. The results do not necessarily support
+the view that the stock price reaction to repurchase
+announcements of the larger firms is less positive
+than that of the smaller firms and, finally, the findings
+weakly support the view that larger repurchase size
+generates greater abnormal returns than smaller firms.
+The holistic result indicates that share repurchase
+announcements in India do not carry much
+information to the investors, and Indian firms are
+not able to `maximize shareholders' wealth' through
+this corporate activity. The possible reason behind
+this could be the nature of the ownership structure
+of the Indian firms, which is distinctively different
+from those in the US. Indian firms are mostly owned
+or otherwise controlled by the founding members
+(termed as promoters) unlike the widespread equity
+ownership model in the US. Indian firms may go
+for share repurchase announcements to counter the
+takeover threats or to enhance promoters' stake in the
+business. The regulatory norms surrounding share
+repurchase have also material impact on this corporate
+practice and vary across nations. These areas need to
+be investigated further for better understanding of this
+corporate activity.
+NOTES
+1 The financial year in India is from 1 April to 31 March of
+the following year. Thus, the financial year 2009 covers the
+period from 1 April 2008 to 31 March 2009.
+2 For details on the market model, refer to Campbell, Lo,
+and MacKinlay (1997).
+REFERENCES
+Badrinath, S., & Varaiya, N. (2000). The share repurchase decision:
+Causes, consequences, and implementation guidelines. New
+Jersey, USA: Financial Executives Research Foundation.
+Balachandran, B., & Troiano, R. (2000). On market share
+buybacks and earnings: Australian evidence. Paper presented
+at the Ninth Conference on the Theories and Practices of
+Securities and Financial Markets, National Sun Yat-sen
+University, Kaohsiung, Taiwan.
+Barry, C., & Brown, S. (1984). Differential information and
+the small firm effect. Journal of Financial Economics, 13(2),
+283­294.
+Campbell, J.Y., Lo, A. W., & MacKinlay, A.C. (1997). The
+econometrics of financial markets. USA: Princeton
+University Press.
+Chatterjee, C., & Rakshit, D. (2008). Share buyback regulations
+in India: A critical analysis. The Chartered Accountant,
+57(5), 863­865.
+Comment, R., & Jarrell, G. A. (1991). The relative signalling
+power of Dutch-auction and fixed-price self-tender offers
+and open-market share repurchases. Journal of Finance,
+46(4), 1243­1271.
+VIKALPA · VOLUME 40 · ISSUE 4 · OCTOBER-DECEMBER 2015 443
+Cook, D. O., Krigman, L., & Leach, J. C. (2004). On the timing
+and execution of open market repurchases. Review of
+Financial Studies, 17(2), 463­498.
+Dann, L. Y. (1981). Common stock repurchases: An analysis
+of returns to bondholders and stockholders. Journal of
+Financial Economics, 9(2), 113­138.
+Davidson, W. N., & Garrison, S. H. (1989). The stock market
+reaction to significant tender offer repurchases of stock:
+Size and purpose perspective. The Financial Review, 24(1),
+93­107.
+Eberhart, A. C., & Siddique, A. R. (2004). Why are stock
+buyback announcements good news. Working Paper,
+National Bureau of Economic Research, Cambridge, UK.
+Financial Executive Internationals (FEI). (1999). FEI members
+expect share buyback activity to remain strong. Financial
+Executive, 15(3), 58.
+Gupta, L. C., Jain, N., & Kumar, A. (2005). Indian share
+repurchase practices & their regulations: Effect on share prices:
+Dividends and corporate finance. New Delhi: SCMRD.
+Retrieved March 2005, from http://www.scmrd.org/
+SCMRD%20Share%20Buyback%20Study.pdf
+Harris, T., & Ramsay, I. M. (1995). An empirical investigation
+of Australian share buybacks. Australian Journal of
+Corporate Law, 4(4), 393­416.
+Hertzel, M. G. (1991). The effects of stock repurchases on rival
+companies. Journal of Finance, 46(2), 707­716.
+Ho, T. S. Y., & Michaely, R. (1988). Information quality and
+market efficiency. The Journal of Financial and Quantitative
+Analysis, 23(1), 53­70.
+Ikenberry, D., Lakonishok, J., & Vermaelen, T. (1995). Market
+underreaction to open market share repurchases. Journal
+of Financial Economics, 39(2­3), 181­208.
+Ikenberry, D., Lakonishok, J., & Vermaelen, T. (2000). Stock
+repurchases in Canada: Performance and strategic
+trading. Journal of Finance, 55(5), 2373­2397.
+Liao, T. L., Ke, M. C., & Yu, H. T. (2005). Anomalous price
+behaviour around stock repurchases on the Taiwan Stock
+Exchange. Applied Economics Letters, 12(1), 29­39.
+Netter, J. M., & Mitchell, M. L. (1989). Stock repurchase
+announcements and insider transactions after the
+October 1987 stock market crash. Financial Management,
+18(3), 84­96.
+Ratner, M., Szewczyk, S. H., & Tsetsekos, G. P. (1996). The
+informational role of tender offer stock repurchases:
+Evidence from institutional ownership. Journal of Business
+Finance and Accounting, 23(5­6), 869­880.
+Rau, P. R., & Vermaelen, T. (2002). Regulation, taxes and share
+repurchases in the United Kingdom. Journal of Business,
+75(2), 245­282.
+Vermaelen, T. (1981). Common stock repurchases and
+market signaling: An empirical study. Journal of Financial
+Economics, 9(2), 139­183.
+
+Vermaelen, T. (1984). Repurchase tender offers, signaling, and
+managerial incentives. Journal of Financial and Quantitative
+Analysis, 19(2), 163­181.
+Western, J. F., & Siu, J. A. (2002). Changing motives for share
+repurchases. Anderson Graduate School of Management,
+University of California, Los Angeles (UCLA), Working
+paper, 3-03. Retrieved 19 December 2002, from http://
+www.anderson.ucla.edu/
+Chanchal Chatterjee is currently working as an Assistant
+Professor in the FinanceArea at the International Management
+Institute, Kolkata, India.Agold medalist in the Masters, he has
+received many prestigious awards for academic excellence.
+He has a Ph.D in Financial Restructuring, for which he
+obtained the best research award in the Finance Track in
+the 3rd Doctoral Colloquium from IIM Ahmedabad in 2010.
+His doctoral dissertation has been published in the form
+of a book by an international publisher based in Germany.
+He has published more than 20 research papers in refereed
+journals and has presented papers in several international
+conferences. His research interest includes corporate finance,
+corporate governance, and corporate payout policy.
+e-mail: cchatterjee.finance@gmail.com
+Paromita Dutta is currently working as an Assistant Professor
+of Accounting and Finance at St. Xavier's College, Kolkata,
+India. She is pursuing her doctoral research in the area of
+financial economics from the University of Calcutta, India.
+She has published several research papers in reputed refereed
+journals. Her areas of research interest include corporate
+finance and banking.
+e-mail: paromitasxc@yahoo.in
+

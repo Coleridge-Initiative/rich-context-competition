@@ -1,0 +1,1334 @@
+Cornwell, B. (2015). Social disadvantage and network turnover. Journals of Gerontology, Series B: Psychological Sciences and Social Sciences, 70(1), 132­142, doi:10.1093/geronb/gbu078.
+Advance Access publication July 5, 2014
+© The Author 2014. Published by Oxford University Press on behalf of The Gerontological Society of America.
+All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+Received December 13, 2013; Accepted May 15, 2014
+Decision Editor: Christopher Marcum, PhD
+Social Disadvantage and Network Turnover
+Benjamin Cornwell
+Department of Sociology, Cornell University, Ithaca, New York.
+Objectives.Research shows that socially disadvantaged groups--especially African Americans and people of low
+socioeconomic status (SES)--experience more unstable social environments. I argue that this causes higher rates of
+turnover within their personal social networks. This is a particularly important issue among disadvantaged older adults,
+who may benefit from stable networks. This article, therefore, examines whether social disadvantage is related to various
+aspects of personal network change.
+Method. Social network change was assessed using longitudinal egocentric network data from the National Social
+Life, Health, and Aging Project, a study of older adults conducted between 2005 and 2011. Data collection in Wave 2
+included a technique for comparing respondents' confidant network rosters between waves. Rates of network losses,
+deaths, and additions were modeled using multivariate Poisson regression.
+Results. African Americans and low-SES individuals lost more confidants--especially due to death--than did whites
+and college-educated respondents. African Americans also added more confidants than whites. However, neither African
+Americans nor low-SES individuals were able to match confidant losses with new additions to the extent that others did,
+resulting in higher levels of confidant network shrinkage. These trends are partly, but not entirely, explained by disadvan-
+taged individuals' poorer health and their greater risk of widowhood or marital dissolution.
+Discussion. Additional work is needed to shed light on the role played by race- and class-based segregation on group
+differences in social network turnover. Social gerontologists should examine the role these differences play in explaining
+the link between social disadvantage and important outcomes in later life, such as health decline.
+Key Words: Aging--Bereavement--Network change--Race--Social inequality--Social networks.
+One of the most enduring lessons to emerge from social
+science research over the past few decades is that the
+social networks in which people are embedded--through
+friendship, support, exchange, conflict, kinship, and other
+types of relationships (Wasserman & Faust, 1994)--are
+profoundly consequential for individuals. Social networks
+shape their access to resources, exposure to social influ-
+ence and control, perceptions, attitudes, opportunities, and
+power, among other things (Wellman, 1983). Social net-
+works are, therefore, implicated in a wide variety of out-
+comes, ranging from access to resources and social support
+to health-related behaviors, delinquency, and mortality (e.g.,
+Cornwell & Waite, 2009; Holt-Lunstad, Smith, & Layton,
+2010; Smith & Christakis, 2008; Stephens, Alpass, Towers,
+& Stevenson, 2011; Wellman & Wortley, 1990). But just as
+researchers have made tremendous gains in pinpointing the
+elements of social networks that drive these effects (e.g.,
+network size and network members' attributes), they have
+also come to realize that these elements are highly dynamic
+and prone to change. As such, the focus has begun to shift
+toward the problem of understanding the nature, conse-
+quences, and causes of social network change (see Snijders
+& Doreian, 2010; Wellman, Wong, Tindall, & Nazer, 1997).
+This article represents an attempt to understand some of the
+causes of change within individuals' personal networks,
+specifically as it unfolds within the context of later life.
+First, consider the nature and potential consequences of
+network change. Personal network change involves several
+unique processes, including the loss and addition of close
+contacts, network turnover, as well as subtler shifts in the
+configuration of social resources, influences, and relation-
+ships within an individual's network. These processes are
+known to affect important individual outcomes such as
+health and mortality (Eng, Rimm, Fitzmaurice, & Kawachi,
+2002; Giordano & Lindstrom, 2010; Holtzman et al., 2004;
+Kroenke, Kubzansky, Adler, & Kawachi, 2008; Seeman
+et al., 2011; Thomas, 2012). The implications of network
+change, however, depend on several factors. These include
+the nature of the social ties involved in the change in ques-
+tion (e.g., whether they are weak or strong, supportive or
+harmful) and whether change was purposeful and antici-
+pated. For instance, losing or gaining close contacts may
+result in an unintended reshuffling of the social influences
+and norms that constitute one's social environment. This
+can give rise to a sense of normlessness or detachment from
+society (Deflem, 1989), reduced capacity to locate specific
+forms of support within one's network (Pescosolido, 1992),
+and disruption to preexisting routines and systems of coor-
+dination (Cornwell & Laumann, in press). Undesired net-
+work losses that are beyond one's control can also reduce
+one's sense of control and coping capacity (Gerstorf,
+Röcke, & Lachman, 2011)--especially when this involves
+132
+Social Disadvantage and Network Turnover
+an irreversible loss, such as the death of a friend. The analy-
+sis below will address these types of losses explicitly.
+At the same time, individuals often purposefully cut ties
+with close network members and/or cultivate ties with new
+ones, perhaps in an effort to achieve a more emotionally
+close set of contacts (Charles & Carstensen, 2010) or a
+more strategically advantageous one (Burt, 2005). Making
+new friends, for example, can increase the number, range,
+and quality of social resources that are available to a person.
+In short, the consequences of change within an individual's
+personal network are likely contingent on the nature of
+the ties involved and how those changes come about. This
+possibility makes it especially important to understand the
+determinants of network change, particularly those factors
+that reduce individuals' control over such change.
+The Relevance of Social Disadvantage
+Several theoretical frameworks suggest that social dis-
+advantage is one factor that greatly affects the extent to
+which, and why, individuals' personal networks change.
+Sociological perspectives suggest that the social environ-
+mentsofdisadvantagedgroups--especially racialminorities
+and low­socioeconomic status (SES) individuals--are less
+stable than the environments of more advantaged groups.
+Persistent social disorder, greater prevalence of unemploy-
+ment and contingent work, residential instability (e.g., due
+to evictions), poverty, and high incarceration rates com-
+bine to create unusually high levels of instability within
+the social environments (i.e., neighborhoods and house-
+holds) within which disadvantaged groups are concentrated
+(Atkinson, Liem, & Liem, 1986; Cattell, 2001; Cornwell,
+2014; Desmond, 2012a; Kasarda & Janowitz, 1974; Rose
+& Clear, 1998; Small, 2007; van Eijk, 2010; Wellman et al.,
+1997). This, in turn, can create distrust, uncertainty, asyn-
+chrony, and a lack of cooperation in disadvantaged indi-
+viduals' personal networks (Goffman, 2009; Miller-Cribbs
+& Farber, 2008; Smith, 2007). Indeed, research suggests
+that environmental instability can yield circumstances in
+which one's network ties are rendered temporary, "dispos-
+able," and substitutable (Desmond, 2012b). Though this is
+debatable, some research also implies that this results in
+smaller or more restricted personal networks within disad-
+vantaged social strata--including in later life (see Ajrouch,
+Antonucci, & Janevic, 2001; Peek & O'Neill, 2001).
+This circumstance suggests that some groups--especially
+African Americans and those with few material resources--
+experience turnover within their personal networks in a
+manner that mirrors the instability of the broader social envi-
+ronments in which they live. This research implies not only
+that disadvantaged groups experience higher rates of loss
+from the ranks of their personal social networks but also that
+they have greater difficulty recovering from and adapting to
+those losses. One reason this is such an important issue is
+that socially disadvantaged people--especially the urban
+poor--must rely disproportionately on network members
+(especially kin) for social support and for indirect access to
+resources to survive (e.g., Cantor, 1979; Small, 2009).
+Network Change, Social Disadvantage, and Aging
+Age is also an important determinant of personal net-
+work change. Social gerontologists have long been con-
+cerned about the implications of aging for social integration
+(e.g., Cumming & Henry, 1961), for later life is a time
+when the need for social support increases and when pri-
+mary network ties are a key source of sense of belonging.
+Life-course transitions like retirement, widowhood, health
+decline, and residential changes can drastically alter a per-
+son's network (Cornwell, 2009; Perry & Pescosolido, 2012;
+Schafer, 2013). Accordingly, social gerontologists have
+become increasingly interested in examining the nature
+and implications of change in individuals' social networks
+(Shaw, Krause, Liang, & Bennett, 2007; van Tilburg, 1998;
+Wrzus, Hänel, Wagner, & Neyer, 2013). Much research has
+focused on how bereavement affects social engagement
+(e.g., Donnelly & Hinterlong, 2010), and there is increas-
+ing interest in how health problems affect older adults'
+efforts to form and maintain social ties (e.g., Cornwell,
+2009; Schafer, 2013). At the same time, network changes
+that occur in late life are often purposeful, perhaps moti-
+vated by a sense of a dwindling life span and the desire to
+cut ties with weaker contacts and to spend more time with
+loved ones (Charles & Carstensen, 2010), to be more auton-
+omous (Marcum, 2013), or to achieve independence from
+abusive, exploitative, or otherwise stifling relationships
+(e.g., Cornwell, 2011; Pillemer, & Suitor, 1992). Moreover,
+continuity, activity, and adaptation theories argue that peo-
+ple grow accustomed to certain social roles and activities
+during their lives and often attempt to maintain their roles,
+or develop substitutes, through later-life transitions (e.g.,
+Atchley, 1989; Donnelly & Hinterlong, 2010; Heckhausen,
+2006). The loss of social ties associated with life-course
+transitions, therefore, often sparks efforts to adapt to and/
+or compensate by developing new ties (Bloem, van Tilburg,
+& Thomése, 2008; Cornwell & Laumann, in press; Lamme,
+Dykstra, & van Groenou, 1996; Zettel & Rook, 2004).
+Network-oriented social-gerontological research usually
+treats these kinds of later-life transitions as challenges to
+general social network connectedness--developments that
+can threaten the stability of one's personal network. One of
+the primary concerns that motivates this article is that such
+developments may be even more salient for aging minorities
+and members of lower socioeconomic strata. It is possible
+that the transitions of later life compound socially disadvan-
+taged groups' already problematic experiences with personal
+network change in part because their transitions, and those
+of their social contacts, are especially trying (e.g., see Shaw
+et al., 2007). In addition (and related) to the aspects of social
+disorganization discussed earlier, members of socially dis-
+advantaged groups suffer from more health problems, worse
+133
+Cornwell
+health care, and higher mortality rates (Adler & Rehkopf,
+2008; Kawachi, Kennedy, Lochner, & Prothrow-Stith, 1997;
+Link & Phelan, 1995; Williams & Collins, 1995). By impli-
+cation, they also experience bereavement more frequently
+due to the health-related incapacitation, institutionalization,
+or death of network members (e.g., Hawkins & Abrams,
+2007). Indeed, the congruence of environmental instabil-
+ity associated with social disadvantage and the challenges
+that accompany later life may contribute to a form of "dou-
+ble jeopardy" among older minorities (e.g., see Carreon &
+Noymer, 2011), producing a situation that exacerbates pre-
+existing health-related and other forms of inequality within
+aging cohorts (see also Dannefer, 1987, 2003).
+Accordingly, adaptation and compensation efforts may
+be a bigger part of socially disadvantaged older adults' eve-
+ryday lives. This could mean that they experience higher
+rates of both network loss and network growth, producing
+a cycle of chronic network turnover, or "churn," that ampli-
+fies preexisting instability within their social environments.
+This picture of constant adaptation is complicated, however,
+by the fact that older disadvantaged adults are particularly
+short on the resources and opportunities needed to continu-
+ally replenish their personal social networks. That is, to the
+extent that they experience a concurrence of greater health
+problems and more unstable environments, socially disad-
+vantaged older adults may have greater difficulty than both
+other older adults and younger disadvantaged individuals
+in adapting to and compensating for unwanted changes in
+their personal social networks.
+Method
+I explore these ideas using data from two waves of the
+National Social Life, Health, and Aging Project (NSHAP),
+a nationally representative, population-based panel study
+funded by the National Institutes of Health. The NSHAP
+focuses on understanding connections between older
+adults' social lives and health. Wave 1 (W1) was conducted
+in 2005­2006 and consisted of in-home interviews with
+3,005 community-dwelling older adults between the ages
+of 57 and 85. The sample was selected using a multistage
+area probability design that oversampled by race/ethnicity,
+age, and gender. The final response rate for W1 was 75.5%.
+In 2010­2011, the NSHAP conducted a second wave (W2).
+Of the baseline respondents, 744 (24.8%) were lost to
+some form of attrition. NSHAP's W2 response rate from
+among eligible surviving baseline respondents (N = 2,548)
+is 88.7%. In all, the NSHAP reinterviewed 75.2% of W1
+respondents, yielding a panel of 2,261 older adults.
+This analysis focuses on changes that occurred within
+respondents' personal ("egocentric") social networks dur-
+ing this study period. Starting at W1, all respondents were
+asked to list up to five people with whom they discuss
+"things that were important to you" during the past year
+(i.e., "confidants"). This procedure tends to elicit strong
+ties--ties through which social influence and resources
+are most likely to flow (see Bailey & Marsden, 1999;
+Cornwell, Laumann, & Schumm, 2008). To assess network
+change, the NSHAP collected respondents' confidant ros-
+ters at both waves. Not only were the same network data
+collected at W2 as at W1 but the NSHAP also devised a
+computer-assisted personal interviewing (CAPI) exercise
+at W2 to reveal specific confidant changes between waves
+among the respondents who participated in both waves. At
+W2, interviewers first collected each respondent's confi-
+dant roster and preliminary information about respondents'
+relationships with confidants. The respondent's W1 roster
+was preloaded into the CAPI instrument and was not vis-
+ible to the respondent while completing this step. After the
+respondent completed the W2 roster, the CAPI was pro-
+grammed to display a visual representation linking matches
+between the W1 and W2 rosters (Figure 1). The respondent
+was asked to verify if these computer-programmed matches
+were correct and was given the opportunity to correct any
+mismatches. The W1 roster line corresponding to the same
+W2 confidant was then recorded where applicable.
+First, I calculate the number of confidants who were
+named at W1 but who were not named as confidants again
+at W2 (confidants "lost"). Second, I calculate the number
+of confidants who were named at W2 but who had not
+been named as such at W1 (confidants "added"). I measure
+overall net change in network size between waves by sub-
+tracting W1 network size from W2 network size ("overall
+change"). Finally, as an adjunct to the analysis of network
+loss, I calculate the number of W1 confidants who died
+between waves.
+Multivariate Poisson regression analyses are used to pre-
+dict the number of confidants lost from these respondents'
+Figure 1. Sample screenshot of the CAPI interface used by a hypothetical National Social Life, Health, and Aging Project respondent to match her W1 network
+members to her W2 network members.
+134
+Social Disadvantage and Network Turnover
+networks, the number who died, the number of who were
+lost due to reasons other than death, and the number of new
+network members added. Poisson is appropriate because
+these four variables are count models, and there is little
+evidence of overdispersion (the variances of these counts
+are about the same as their means). The number of network
+members at baseline was included as the exposure vari-
+able, which effectively controls for network size effects.
+Multivariate OLS regression is used to predict overall net
+change in the size of respondents' networks during the
+study period. Baseline network size is controlled when pre-
+dicting this outcome as well.
+The models proceed first by regressing each of the
+dependent variables on a set of sociodemographic predic-
+tors, including age (which is divided by 10 to provide more
+meaningful coefficients), gender (male/female), race/eth-
+nicity (white, African American, Latino, and other), and
+SES (high school education or less, some college, or col-
+lege/professional degree). (SES can also be measured using
+ordinal information about respondents' estimated assets.
+Unfortunately, this information is missing for nearly 15%
+of the baseline NSHAP sample. Supplemental analyses that
+measure SES using assets as a predictor reveal a similar pat-
+tern of results as those regarding education, with the excep-
+tion of nonsignificant findings in the analysis of aggregate
+network change. Results are available upon request.) These
+initial models provide information about whether aspects
+of race and/or SES significantly predict measures of net-
+work change. Note that the first models for each dependent
+variable also control for respondents' average frequency of
+contact with and closeness to their W1 confidants, the kin
+composition of their W1 networks, and their frequency of
+attendance at religious services. These baseline character-
+istics help to capture the structural features of social net-
+works and community involvement that affect the stability
+of one's network and opportunities to maintain and develop
+new ties. Table 1 provides detailed descriptions of variable
+construction, means/proportions, and standard deviations.
+Table 1. Descriptions, Weighted Means, and Standard Deviations of Key Variables (N = 2,119)a
+Variable Description
+Proportion
+or mean SD
+Age R's age at baseline (in years, divided by 10). Range: 5.7­8.5 6.800 0.760
+Female Whether R is female 0.516 0.500
+Race/ethnicity Whether R is non-Hispanic white 0.804 0.397
+Whether R is non-Hispanic African American 0.099 0.299
+Whether R is Latino 0.070 0.256
+Whether R is some other race 0.026 0.160
+Education (W1) R's had high school education or less 0.455 0.498
+R has some college, but no degree 0.299 0.458
+R has a college or professional degree (ref.) 0.247 0.431
+Working (ref.) Whether R was working at both waves 0.174 0.379
+Retired Whether R was retired at both waves 0.471 0.499
+Other not working Whether R was not working for other reasons at both waves 0.144 0.351
+Became retired Whether R became retired between W1 and W2 0.151 0.359
+Stopped working Whether R stopped working between W1 and W2 for other reasons 0.025 0.155
+Started working Whether R started working between W1 and W2 0.035 0.185
+Married (ref.) Whether R was married at both waves 0.576 0.494
+Widowed Whether R was a widow(er) at both waves 0.162 0.368
+Unmarried Whether R was not married at either wave for other reasons 0.163 0.369
+Became widowed Whether R was widowed between W1 and W2 0.070 0.255
+Became unmarried Whether R became separated/divorced between W1 and W2 0.015 0.123
+Got married Whether R got married between W1 and W2 0.013 0.115
+Functional
+impairment (W2)
+R's self-rated ability to complete each of seven activities of daily living on their
+own at W1. Responses range from "unable to do" (=1) to "no difficulty"
+(=4) ( = .841). Items are averaged together. Range: -4.790 to 0.390
+0.050 0.675
+Self-rated health (W2) R's self-rated overall health, ranging from "poor" (=1) to excellent (=5) 3.265 1.104
+Depressive
+symptoms (W2)
+Average of R's standardized responses to 10 ordinal items from the CES-D scale
+assessing depressive symptoms. Responses range from "rarely or none of the time"
+(=0) to "most of the time" (=3). Items are averaged together. Range: -0.602 to 2.832
+-0.017 0.564
+W1 network size Number of confidants at W1. Range: 1­5 3.587 1.392
+ in network size Network size at W2 minus network size at W1. Range: -5 to 4 0.187 1.576
+Lost for any reason Number of confidants lost between W1 and W2 1.486 1.252
+Lost (but not died) Number of confidants lost between W1 and W2 (not including deaths) 1.230 1.150
+Confidants died Number of confidants who died between W1 and W2 0.256 0.529
+Confidants added Number of new confidants added between W1 and W2 1.897 1.369
+Notes. CES-D = Center for Epidemiologic Studies Depression scale; R = respondent.
+aEstimates are weighted using National Social Life, Health, and Aging Project W1 person-weights (adjusted for attrition and selection at W2). Estimates are
+calculated for all respondents who have nonmissing data for key variables in the final models for all outcome variables.
+135
+Cornwell
+For each dependent variable, a second set of models
+include a set of life-course-related measures that cap-
+ture later-life transitions that may be related to network
+change. Life-course factors include baseline marital sta-
+tus and change in marital status between waves, as well
+as baseline employment status and change in employment
+status (Table 1). These models also include measures of
+functional health, self-reported health, and depression. To
+measure functional impairment, I use an index comprised
+of seven items ( = .84) that assesses how much difficulty
+respondents have with everyday tasks (e.g., walking). Self-
+rated health is reported by respondents as "poor," "fair,"
+"good," "very good," or "excellent." Depressive symptoms
+are measured using a modified Center for Epidemiologic
+Studies Depression scale (CES-D-ml), which is the aver-
+age of standardized responses to 10 ordinal items assess-
+ing depressive symptomology ( = .77). The CES-D-ml
+scale does not include one measure typically included in
+the CES-D, which asks respondents how often they feel
+"lonely," which helps to avoid endogeneity (Cornwell &
+Waite, 2009).
+Residential mobility is important to consider in any study
+of network change. The NSHAP included a leave-behind
+questionnaire (LBQ) that respondents could complete and
+mail in later. On this, respondents reported how long they
+had lived at their current residence. I use this to create an
+indicator of whether respondents moved during the past
+5 years. Unfortunately, 286 respondents did not complete
+the LBQ and 69 others did not respond to the residence
+question, creating additional selection issues. Therefore,
+I use the residential mobility indicator only in a set of sup-
+plemental analyses (Supplementary Table A1).
+All models take into account the clustering and stratifi-
+cation of NSHAP's sample and include weights to account
+for respondents' differential probabilities of selection at W1.
+I also take into account the nonrandom loss of respondents
+due to attrition between waves. I begin by creating a variable
+for each of the 3,005 W1 respondents that indicates whether
+they were part of the final W2 sample and in the final model
+for a given dependent variable. I predict this indicator using
+a logit model, with baseline sociodemographic variables,
+health, and other factors entered as predictors. From this,
+I derive a predicted probability that each W1 respondent
+appears in the analysis. I take the inverse of this probabil-
+ity and multiply it by the NSHAP-supplied weight for that
+person at W1. Using these adjusted weights as the sampling
+weights in the models give more weight to individuals who
+were less likely to be in the W2 sample, effectively adjusting
+estimates toward where they would have been had all W1
+respondents made it into the W2 sample (see Austin, 2011).
+Results
+The data reveal considerable change within these older
+adults' confidant networks over the 5-year study period.
+Of the 2,126 respondents who provided valid data, only
+7.2% reported a completely stable confidant network that
+involved neither losses nor additions. In general, respond-
+ents were more likely to add confidants than to lose them.
+Fully 81.6% of the sample added at least one new confidant
+between waves, whereas 73.5% lost at least one confidant.
+The average number of confidants lost between waves was
+1.48 (95% confidence interval [95% CI]: 1.40, 1.57), and
+the average number added was 1.90 (95% CI: 1.83, 1.97).
+Just over one fifth of respondents (21.9%) experienced the
+death of at least one confidant. All told, most older adults'
+networks grew between waves, with an average net change
+in network size of 0.19 (95% CI: 0.12, 0.26).
+Race/Ethnicity
+Race/ethnicity plays an important role in several aspects
+of change within these older adults' personal networks.
+Descriptively speaking, African Americans experienced
+more change than other groups. White respondents were
+91.4% more likely than African Americans, and Latinos
+were 110.9% more likely than African Americans, to
+maintain the same exact confidant network over the 5-year
+period (Supplementary Figure A1). Whereas 7.6% of white
+respondents and 8.3% of Latinos reported neither losing
+W1 confidants nor adding new confidants at W2, only 4.0%
+of African American respondents did. Likewise, African
+American respondents were 10.8% more likely to experi-
+ence turnover that involved both multiple confidants lost
+and multiple confidants gained than whites and 66.7%
+more likely than Latinos, with 44.1% of African Americans
+experiencing this level of turnover compared with 39.8% of
+whites and 26.4% of Latinos.
+These patterns are also evident in the multivariate analy-
+sis. As shown in the first column of regression coefficients
+in Table 2, African Americans experienced a 22.0% higher
+rate of loss from their confidant networks than whites over
+the study period (incidence rate ratio [IRR] = 1.220, stand-
+ard error [SE] = 0.052). This coefficient is reduced slightly
+but remains significant at p < .05 when life-course factors
+such as retirement, widowhood, and health are taken into
+account. These patterns reflect both losses due to the deaths
+of confidants and losses due to other reasons, such as resi-
+dential mobility and job changes. That African Americans
+expensed a significantly higher rate of nondeath-related
+confidant losses is shown in the third and fourth columns of
+regression coefficients. But perhaps even more importantly,
+African Americans reported a significantly higher confidant
+mortality rate (IRR = 1.321, SE = 0.156). This difference
+remains marginally significant (p < .07) even after life-
+course (e.g., widowhood) and health covariates are taken
+into account.
+Note that Latinos report only about half the rate of con-
+fidant mortality as whites (IRR = 0.549, SE = 0.136), a
+difference that remains when other factors are controlled.
+This is the only significant association between Latino race/
+136
+Social Disadvantage and Network Turnover
+Table 2. Coefficients From Multivariate Regression Models Predicting Different Aspects of Network Turnover Among Older Adults
+Predictor
+Poisson models predicting number of network members
+OLS models predictinga
+change in network size
+Lost for any reasonb
+Lost
+(but not died)b Diedb Addedc
+Age (divided by 10) 1.037
+(0.021)
+1.046
+(0.024)
+0.980
+(0.022)
+1.013
+(0.028)
+1.350***
+(0.089)
+1.212**
+(0.075)
+1.016
+(0.018)
+1.027
+(0.022)
+-0.093*
+(0.038)
+-0.120**
+(0.041)
+Female 0.960
+(0.031)
+0.903**
+(0.028)
+0.942
+(0.031)
+0.908**
+(0.029)
+1.045
+(0.119)
+0.887
+(0.106)
+0.978
+(0.026)
+0.955
+(0.025)
+0.227***
+(0.056)
+0.276***
+(0.062)
+African American 1.220***
+(0.052)
+1.171***
+(0.049)
+1.197***
+(0.056)
+1.149**
+(0.050)
+1.321*
+(0.156)
+1.271
+(0.159)
+1.079*
+(0.035)
+1.058
+(0.034)
+-0.297**
+(0.101)
+-0.281**
+(0.096)
+Latino 1.036
+(0.081)
+1.010
+(0.063)
+1.142
+(0.094)
+1.108
+(0.079)
+0.549*
+(0.136)
+0.542*
+(0.127)
+1.028
+(0.042)
+1.009
+(0.037)
+-0.106
+(0.114)
+-0.111
+(0.140)
+Other race 1.156
+(0.173)
+1.132
+(0.157)
+1.271
+(0.181)
+1.222
+(0.162)
+0.576
+(0.305)
+0.605
+(0.331)
+1.164
+(0.120)
+1.159
+(0.124)
+0.125
+(0.187)
+0.107
+(0.172)
+High school education 1.141*
+(0.057)
+1.081
+(0.052)
+1.100
+(0.058)
+1.070
+(0.057)
+1.375*
+(0.184)
+1.151
+(0.155)
+1.045
+(0.042)
+1.037
+(0.041)
+-0.215*
+(0.093)
+-0.177
+(0.088)
+Some college 1.058
+(0.044)
+1.042
+(0.042)
+1.036
+(0.056)
+1.038
+(0.055)
+1.193
+(0.175)
+1.067
+(0.184)
+1.054
+(0.028)
+1.054
+(0.028)
+-0.047
+(0.092)
+-0.036
+(0.088)
+Retired (W1 and W2) 0.894**
+(0.037)
+0.890*
+(0.043)
+0.928
+(0.132)
+0.930*
+(0.027)
+0.128
+(0.119)
+Other not working (W1
+and W2)
+1.099
+(0.070)
+1.074
+(0.088)
+1.255
+(0.216)
+0.985
+(0.041)
+-0.192
+(0.137)
+Became retired 1.000
+(0.055)
+0.999
+(0.055)
+1.025
+(0.179)
+0.997
+(0.031)
+0.119
+(0.123)
+Stopped working for other
+reasons
+1.119
+(0.078)
+1.208*
+(0.109)
+0.610
+(0.258)
+1.147**
+(0.053)
+0.518*
+(0.198)
+Started working 0.929
+(0.088)
+0.979
+(0.099)
+0.702
+(0.160)
+0.883
+(0.057)
+-0.141
+(0.191)
+Widowed (W1 and W2) 1.122**
+(0.047)
+1.096
+(0.053)
+1.292
+(0.184)
+1.022
+(0.037)
+0.039
+(0.082)
+Unmarried (W1 and W2) 1.154**
+(0.051)
+1.129*
+(0.054)
+1.309
+(0.216)
+1.060
+(0.037)
+-0.056
+(0.101)
+Became widowed 1.609***
+(0.068)
+1.116
+(0.080)
+4.517***
+(0.580)
+1.286***
+(0.060)
+-0.237
+(0.158)
+Became unmarried 1.460***
+(0.116)
+1.443**
+(0.172)
+1.586
+(0.682)
+1.278**
+(0.094)
+-0.168
+(0.221)
+Got married 1.094
+(0.111)
+1.121
+(0.137)
+0.926
+(0.375)
+1.005
+(0.060)
+0.297
+(0.279)
+Functional impairment 0.993
+(0.037)
+1.004
+(0.057)
+0.944
+(0.085)
+0.973
+(0.025)
+-0.012
+(0.083)
+Overall self-rated health 0.990
+(0.017)
+0.999
+(0.021)
+0.946
+(0.052)
+1.005
+(0.012)
+0.013
+(0.035)
+(Table 2 continues)
+137
+Cornwell
+ethnicity and network change. These associations are simi-
+lar (but stronger) in the supplemental analysis that includes
+information about residential mobility (Supplementary
+Table A1).
+An important analytic issue is that these models suffer
+from endogeneity due to the fact that death is present on
+both sides of the equation for respondents who named their
+spouses as confidants at W1 and who became widowed
+between waves. A supplemental analysis (available upon
+request) shows that even among those who did not become
+widowed between waves, African Americans suffered
+significantly higher rates of confidant death than whites
+(IRR = 1.561, SE = 0.227) and Latinos experienced lower
+rates of confidant death (IRR = 0.448, SE = 0.105).
+African Americans also report adding more new confi-
+dants than whites (IRR = 1.079, SE = 0.035). This associa-
+tion is reduced to nonsignificance and becomes marginally
+smaller (adjusted Wald F = 3.13, p < .08) when life-course
+factors are included. OLS regression analyses show that, in
+the end, African Americans experienced larger net losses in
+the sizes of their confidant networks than whites (b = -0.297,
+SE = 0.101), a difference that remains significant even
+after controlling for other covariates. This association is
+reinforced by the supplemental analysis that controls for
+residential mobility (Supplementary Table A1). The over-
+all change in network size measure is difficult to interpret,
+however, as it is difficult to determine whether networks are
+actually growing or shrinking. A supplemental multinomial
+logit model that predict three possible trajectories of overall
+network change (shrinkage, stability, or growth) show that
+African Americans have about 73% greater risk than whites
+of experiencing network shrinkage as opposed to network
+stability (relative risk ratio [RRR] = 1.730, SE = 0.312), but
+there is no significant difference in their relative risk of net-
+work growth (RRR = 0.860, SE = 0.224).
+Socioeconomic Status
+Socioeconomic status is also associated with confidant net-
+work turnover. The main significant difference with respect to
+education appears in the analysis of network loss. As shown
+in Table 2, those who had nothing beyond a high school edu-
+cation lost their confidants at a 14.1% greater rate than those
+who earned college degrees (IRR = 1.141, SE = 0.057). This
+association becomes nonsignificant when life-course and
+health measures are taken into account. Although not one set
+of these measures accounts for the reduction in the associa-
+tion, the health measures alone reduce the association to non-
+significance and also significantly reduces the magnitude of
+the association (adjusted Wald F = 7.56, p < .01). There are
+no statistically significant differences between those who had
+some college but did not earn a degree and those who went
+on to earn a college degree.
+There is a strong association between education and
+confidant mortality. The least-educated group experienced
+Predictor
+Poisson models predicting number of network members
+OLS models predictinga
+change in network size
+Lost for any reasonb
+Lost
+(but not died)b Diedb Addedc
+Depressive symptoms
+(CES-D)
+1.037
+(0.034)
+1.047
+(0.046)
+0.986
+(0.121)
+1.012
+(0.033)
+0.007
+(0.074)
+Constant 1.025
+(0.183)
+1.029
+(0.228)
+1.410
+(0.303)
+1.147
+(0.293)
+0.017***
+(0.012)
+0.041***
+(0.028)
+0.591**
+(0.102)
+0.549**
+(0.117)
+-0.657
+(0.349)
+-0.663
+(0.367)
+(Pseudo) R2 0.427 0.453 0.367 0.376 0.091 0.163 0.530 0.538 0.367 0.376
+F 27.47***
+(11, 40)
+31.13***
+(24, 27)
+17.11***
+(11, 40)
+12.82***
+(24, 27)
+11.24***
+(11, 40)
+29.69***
+(24, 27)
+58.55***
+(15, 36)
+50.53***
+(28, 23)
+74.96***
+(15, 36)
+58.42***
+(28, 23)
+N 2,124 2,124 2,124 2,113 2,124
+Notes. All models control for frequency of interaction with, emotional closeness to, and kin composition of W1 confidants, religious attendance, and the intercept. CES-D = CES-D = Center for Epidemiologic Studies
+Depression scale.
+aCoefficients are unstandardized coefficients from OLS regressions, and standard errors are presented in parentheses below these estimates. Number of W1 confidants is controlled using a set of dummy variables
+indicating baseline network size.
+bCoefficients are incidence rate ratios, and standard errors are presented in parentheses below these estimates. Number of W1 confidants is used as the exposure.
+cCoefficients are incidence rate ratios, and standard errors are presented in parentheses. W2 network size is used as the exposure, and W1 network size is controlled using a set of dummy variables indicating baseline
+network size.
+*p < .05. **p < .01. ***p < .001.
+Table 2 (continued)
+138
+Social Disadvantage and Network Turnover
+a 38.1% greater confidant mortality rate than those who
+earned college degrees (IRR = 1.381, SE = 0.185). It is
+worth noting that this association is explained by the mari-
+tal status/transition measures. This is mainly attributable
+to the fact that less-educated individuals were more likely
+to become widowed during the study period. (However,
+a supplemental analysis, which is available upon request,
+shows that even among those who did not become widowed
+between waves, low-SES individuals experienced margin-
+ally higher rates of confidant death [IRR = 1.308, p =. 08].)
+Controlling for the health measures without controlling for
+life-course transitions also reduces the association with
+marginal significance. Supplemental analyses that take into
+account residential mobility (Supplementary Table A1)
+echo these findings.
+Levels of formal education are not significantly asso-
+ciated with the addition of new confidants over the study
+period. The OLS regression analyses predicting overall net-
+work change show that, in the end, those with only a high
+school (or less) education had significantly more overall
+negative change in the sizes of their confidant networks than
+those who had a college degree (b = -0.215, SE = 0.093).
+This net difference in network size change remains nearly
+significant (p = .05) despite controlling for other covariates
+(b = -0.177, SE = 0.088). Note that the analysis shown in
+Supplementary Table A1 provides some evidence that those
+who had some college experienced more network growth
+than those who had a college degree. Additional analyses
+(not shown) suggest that finding is an artifact of the fact
+that less-educated people lost a greater proportion of their
+Wave 1 confidants, which left them more room in the roster
+to add confidants.
+Stratified Network Loss
+Although the earlier analyses provide some clues as to
+group differences in confidant network change, they are
+not definitive accounts of different groups' experiences
+with network instability. Nonetheless, there are system-
+atic differences in different groups' reports of why their
+confidant networks changed. Unfortunately, the NSHAP
+did not inquire about how new confidant relationships were
+developed. But the team did inquire about "lost" network
+members. For any W1 confidant who was not named again
+at W2, respondents reported whether that person was still
+alive and, if so, why the relationship ended. Based on cod-
+ing of these brief responses, the NSHAP team devised
+several broad classes of network loss. Key categories are
+presented in Table 3.
+Based on an analysis of the 1,551 individuals who expe-
+rienced the loss of at least one confidant and who provided
+valid information about these losses, Table 3 shows some
+significant differences in causes of network loss. Perhaps the
+most important finding echoes the multivariate results just
+discussed--that African Americans were more likely than
+members of other race/ethnic groups to experience the death
+of a confidant. Specifically, 34.9% of African Americans
+who lost a confidant lost one due to death, compared with
+30.6% of whites, 14.4% of Latinos, and 12.2% of mem-
+bers of other races. Although African Americans were more
+likely than whites to experience the loss of confidants due to
+residential mobility or some other distance issue (36.9% vs.
+31.5%, respectively), Latinos (57.5%) and members of other
+race groups (51.7%) were more likely to experience loss due
+to this. With respect to SES, the biggest difference between
+groups is that more highly educated respondents were most
+likely to lose a confidant due to a job-related change, as
+opposed to some other cause such as death.
+Conclusion
+Motivated by the dual observations that social network
+change is pervasive and consequential in later life (Cornwell
+& Laumann, in press; Eng et al., 2002; Holtzman et al.,
+2004) and that members of socially disadvantaged groups
+face more instability in general in their everyday social
+environments (Ajrouch et al., 2001; Hawkins & Abrams,
+2007; Peek & O'Neill, 2001; Shaw et al., 2007), this study
+has sought to assess the link between social disadvantage
+and personal network change. Members of disadvantaged
+Table 3. Distribution of Aspects of Confidant Network Change by Race/Ethnicity and Socioeconomic Status (N = 1,551)a
+Lost any confidant(s) for following reasonb
+Race/ethnicity Highest level of education
+White
+African
+American Latino Other 2 HS
+Some
+college College 2
+R or confidant moved/now too "distant" 31.5 36.9 57.5 51.7 19.67* 31.4 32.7 36.7 6.21
+The confidant died 30.6 34.9 14.4 12.2 35.59*** 31.4 31.0 25.0 10.59
+They "drifted apart"/circumstances changed 23.5 20.7 19.5 20.3 2.83 20.5 24.3 25.6 8.15
+R or confidant suffers from health problems 12.4 10.8 6.4 19.4 9.87 12.8 12.7 10.1 3.68
+There was a falling out/disagreement/conflict 7.9 10.6 4.1 2.1 10.05 6.4 8.4 9.5 6.98
+R or confidant retired or changed jobs 6.1 2.9 1.2 3.9 12.49 1.7 7.0 10.2 71.59***
+Notes. HS = high school; R = respondent.
+aEstimates are weighted using National Social Life, Health, and Aging Project W1 person-weights and adjusted using propensity score weighting. Significance
+of group differences as indicated by chi-square statistics is determined using a design-corrected F-test.
+bCategorization based on assessments of two independent coders (80.1% agreement). Estimates ignore those who had any trouble with the roster matching
+exercise or who had missing data on any alter. "Lost" confidants do not include those appearing in Roster B or C at W2.
+*p < .05. ***p < .001.
+139
+Cornwell
+groups indeed experience disproportionate amounts of
+change in their personal social networks in later life.
+Namely, African Americans and less-educated individuals
+lost more of their confidants over a 5-year period--espe-
+cially due to death--than did whites and those who had col-
+lege degrees, respectively. Interestingly, African Americans
+added network members at a greater rate than whites. Yet,
+neither African Americans nor low-SES individuals were
+able to match their substantial network losses with equal
+numbers of new additions to the same extent as others did,
+ultimately resulting in more network shrinkage and less net-
+work growth than was observed in other groups.
+Thus, it appears that disadvantaged older adults have
+both a greater need to replace losses to their social net-
+works that are associated with later-life transitions and
+greater difficulty in doing so. Indeed, these associations are
+partly due to socially disadvantaged groups' worse health
+and greater likelihood of transitioning out of marriage--
+either due to divorce or widowhood. This finding highlights
+one way in which disadvantage accumulates in later life
+and how personal social networks are implicated in that
+process (see Dannefer, 2003). Unfortunately, significant
+differences between these groups with respect to rates of
+confidant network turnover remain unexplained. Additional
+work is needed to understand how processes of adaptation
+and compensation in late life (e.g., Atchley, 1989; Bloem
+et al., 2008; Heckhausen, 2006; Lamme et al., 1996; Zettel
+& Rook, 2004) are experienced by especially disadvantaged
+groups, such as impoverished African Americans.
+A particularly disturbing finding is the strong associations
+between social disadvantage and confidant mortality. The
+greater propensity for less-educated individuals to experi-
+ence this is partly but not entirely a reflection of their higher
+rates of widowhood. For one, variation in physical and men-
+tal well-being helps to explain the association between both
+education and race and confidant mortality. Furthermore,
+even those who did not become widowed experienced
+higher rates of confidant mortality than their more socially
+advantaged counterparts. These findings likely reflect the
+influence of network homophily (McPherson, Smith-Lovin,
+& Cook, 2001). We know that people disproportionately
+form network ties with others of similar race/ethnicity and
+SES, so the confidants of disadvantaged individuals (who
+are themselves less healthy) are also at greater risk of mor-
+tality. It is also possible that health-related homophily (see
+Flatt, Agimi, & Albert, 2012; Schaefer, Kornienko, & Fox,
+2011) shapes older adults' closest network connections.
+Regardless of the mechanism, these patterns reflect the seg-
+regation of disadvantaged groups into social environments
+that are inherently less stable (e.g., see Desmond, 2012b)
+and that are largely disconnected from the networks of more
+advantaged social groups. Socially disadvantaged people
+are disproportionally connected to more vulnerable confi-
+dants, which in turn means that there is premature depletion
+of disadvantaged older adults' stock of healthy (potential)
+close social contacts, combined with limited capacity to
+cultivate new (healthy) ties. This has serious implications
+for these individuals' abilities to access social support and
+other resources in the face of already difficult later-life chal-
+lenges like widowhood and health decline.
+When combined with mounting evidence that socially
+disadvantaged groups have less access to valuable forms
+of social capital (see Lin, 2000; McDonald, Lin, & Ao,
+2009)--including in later life (Ajrouch et al., 2001)--the
+fact that the personal networks these groups do have are
+less stable suggests a precarious situation for aging African
+Americans and low-SES individuals. In light of the fact that
+social disadvantage is associated with less social capital (at
+the neighborhood level as well), which in turn is associated
+with higher rates of health problems and mortality (e.g.,
+see Cattell, 2001; Kawachi et al., 1997; Mendes de Leon
+& Glass, 2004), social gerontologists should examine the
+possibility that social network instability is a mechanism
+by which race- and SES-based health disparities develop
+and widen. The fact that Latinos reported the lowest levels
+of network loss of any group in this sample provides addi-
+tional impetus for this research direction, given ongoing
+attempts to understand the "Latino paradox" in health and
+mortality (Borrell & Lancet, 2012).
+Finally, these findings add a twist to the debate over
+whether (older) individuals' social networks are, on the
+whole, shrinking. McPherson, Smith-Lovin, and Brashears
+(2006) have argued that people's confidant networks are
+growing smaller. Likewise, some social gerontologists have
+argued that older adults' networks usually shrink, as they
+come to favor closer ties (see Charles & Carstensen, 2010)
+and have less incidental social contact (Marcum, 2013). My
+findings challenge these ideas in principle, as they show that
+older adults' personal networks are actually more likely to
+grow in size than to decline overall (see also Fischer, 2009;
+Paik & Sanchagrin, 2013). This may be because, even though
+later life is period of loss and transition, older adults are
+adaptive and compensate for such losses (e.g., Bloem et al.,
+2008; Donnelly & Hinterlong, 2010) and may be inclined
+to socialize even more beyond this. What the findings pre-
+sented here suggest is that the narrative of general network
+decline and later-life network shrinkage may be more valid
+for socially disadvantaged groups, who are likely less able to
+adapt to and compensate for network losses.
+Supplementary Material
+Supplementary material can be found at: http://psychsocgerontology.
+oxfordjournals.org/
+Funding
+The National Social Life, Health, and Aging Project is supported
+by the National Institutes of Health (R01AG021487, R37AG030481,
+R01AG033903), which also provided partial funding for this research.
+Acknowledgments
+I am indebted to ErinYork Cornwell and anonymous reviewers for many
+useful suggestions that improved this article.
+140
+Social Disadvantage and Network Turnover
+Correspondence
+Correspondence should be addressed to Benjamin Cornwell, PhD,
+Department of Sociology, Cornell University, 354 Uris Hall, Ithaca, NY
+14853. E-mail: btc49@cornell.edu.
+References
+Adler,N.E.,&Rehkopf,D.H.(2008).U.S.disparitiesinhealth:Descriptions,
+causes, and mechanisms. Annual Review of Public Health, 29, 235­
+252. doi:10.1146/annurev.publhealth.29.020907.090852
+Ajrouch, K. J., Antonucci, T. C., & Janevic, M. R. (2001). Social networks
+among blacks and whites: The interaction between race and age.
+The Journals of Gerontology, Series B: Psychological Sciences and
+Social Sciences, 56, S112­S118. doi:10.1093/geronb/56.2.S112
+Atchley, R. C. (1989). A continuity theory of normal aging. The
+Gerontologist, 29, 183­190. doi:10.1093/geront/29.2.183
+Atkinson, T., Liem, R., & Liem, J. H. (1986). The social costs of unem-
+ployment: Implications for social support. Journal of Health and
+Social Behavior, 27, 317­331. doi:10.2307/2136947
+Austin, P. C. (2011). An introduction to propensity score methods for
+reducing the effects of confounding in observational studies.
+Multivariate Behavioral Research, 46, 399­424. doi:10.1080/
+00273171.2011.568786
+Bailey, S., & Marsden, P. V. (1999). Interpretation and interview con-
+text: Examining the General Social Survey name generator using
+cognitive methods. Social Networks, 21, 287­309. doi:10.1016/
+S0378-8733(99)00013-1
+Bloem, B. A., van Tilburg, T. G., & Thomése, F. (2008). Changes in older
+Dutch adults' role networks after moving. Personal Relationships,
+15, 465­478. doi:10.1111/j.1475-6811.2008.00210.x
+Borrell, L. N., & Lancet, E.A. (2012). Race/ethnicity and all-cause mortal-
+ity in US adults: Revisiting the Hispanic paradox. American Journal
+of Public Health, 102, 836­843. doi:10.2105/AJPH.2011.300345
+Burt, R. S. (2005). Brokerage and closure: An introduction to social capi-
+tal. Oxford: Oxford University Press.
+Cantor, M. H. (1979). Neighbors and friends: An overlooked resource
+in the informal support system. Research on Aging, 1, 434­463.
+doi:10.1177/016402757914002
+Carreon, D., & Noymer, A. (2011). Health-related quality of life in older
+adults: Testing the double jeopardy hypothesis. Journal of Aging
+Studies, 25, 371­379. doi:10.1016/j.jaging.2011.01.004
+Cattell, V. (2001). Poor people, poor places, and poor health: The medi-
+ating role of social networks and social capital. Social Science &
+Medicine, 52, 1501­1516. doi:10.1016/S0277-9536(00)00259-8
+Charles, S. T., & Carstensen, L. L. (2010). Social and emotional aging.
+Annual Review of Psychology, 61, 383­409. doi:10.1146/annurev.
+psych.093008.100448
+Cornwell, B. (2009). Good health and the bridging of structural holes.
+Social Networks, 31, 92­103. doi:10.1016/j.socnet.2008.10.005
+Cornwell, B. (2011). Independence through social networks: Bridging
+potential among older women and men. The Journals of Gerontology,
+Series B: Psychological Sciences and Social Sciences, 66, 782­794.
+doi:10.1093/geronb/gbr111
+Cornwell, B., & Laumann, E. O. (in press). The health benefits of network
+growth: New evidence from a national survey of older adults. Social
+Science & Medicine.
+Cornwell, B., Laumann, E. O., & Schumm, L. P. (2008). The social con-
+nectedness of older adults: A national profile. American Sociological
+Review, 73, 185­203. doi:10.1177/000312240807300201
+Cumming, E., & Henry, W. E. (1961). Growing old. New York, NY: Basic
+Books.
+Dannefer, D. (1987). Aging as intracohort differentiation: Accentuation, the
+Matthew effect, and the life course. Sociological Forum, 2, 211­236.
+doi:10.1007/BF01124164
+Dannefer, D. (2003). Cumulative advantage/disadvantage and the life
+course: Cross-fertilizing age and social science theory. The Journals
+of Gerontology, Series B: Psychological Sciences and Social
+Sciences, 58, S327­S337. doi:10.1093/geronb/58.6.S327
+Deflem, M. (1989). From anomie to anomia and anomic depres-
+sion: A sociological critique on the use of anomie in psy-
+chiatric research. Social Science & Medicine, 29, 627­634.
+doi:10.1016/0277-9536(89)90182-2
+Desmond, M. (2012a). Eviction and the reproduction of urban poverty.
+American Journal of Sociology, 118, 88­133. doi:10.1086/666082
+Desmond, M. (2012b). Disposable ties and the urban poor. American
+Journal of Sociology, 117, 1295­1335. doi:10.1086/663574
+Donnelly, E. A., & Hinterlong, J. E. (2010). Changes in social participa-
+tion and volunteer activity among recently widowed older adults. The
+Gerontologist, 50, 158­169. doi:10.1093/geront/gnp103
+Eng, P. M., Rimm, E. B., Fitzmaurice, G., & Kawachi, I. (2002). Social ties
+and change in social ties in relation to subsequent total and cause-
+specific mortality and coronary heart disease incidence in men.
+American Journal of Epidemiology, 155, 700­709. doi:10.1093/
+aje/155.8.700
+Fischer, C. S. (2009). The 2004 GSS finding of shrunken social net-
+works: An artifact? American Sociological Review, 74, 657­669.
+doi:10.1177/000312240907400408
+Flatt, J. D., Agimi, Y., & Albert, S. M. (2012). Homophily and health
+behavior in social networks of older adults. Family & Community
+Health, 35, 312­321. doi:10.1097/FCH.0b013e3182666650
+Gerstorf, D., Röcke, C., & Lachman, M. E. (2011). Antecedent­conse-
+quent relations of perceived control to health and social support:
+Longitudinal evidence for between-domain associations across
+adulthood. The Journals of Gerontology, Series B: Psychological
+Sciences and Social Sciences, 66, 61­71.
+Giordano, G. N., & Lindstrom, M. (2010). The impact of changes in dif-
+ferent aspects of social capital and material conditions on self-rated
+health over time: A longitudinal cohort study. Social Science &
+Medicine, 70, 700­710. doi:10.1016/j.socscimed.2009.10.044
+Goffman, A. (2009). On the run: Wanted men in a Philadelphia
+ghetto. American Sociological Review, 74, 339­357.
+doi:10.1177/000312240907400301
+Hawkins, R. L., & Abrams, C. (2007). Disappearing acts: The social
+networks of formerly homeless individuals with co-occurring dis-
+orders. Social Science & Medicine, 65, 2031­2042. doi:10.1016/j.
+socscimed.2007.06.019
+Heckhausen, J. (2006). Developmental regulation in adulthood: Age-
+normative and sociostructural constraints as adaptive challenges.
+Cambridge, UK: Cambridge University Press.
+Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relation-
+ships and mortality risk: A meta-analytic review. PLoS Medicine, 7,
+e1000316. doi:10.1371/journal.pmed.1000316
+Holtzman, R. E., Rebok, G. W., Saczynski, J. S., Kouzis, A. C., Wilcox
+Doyle, K., & Eaton, W. W. (2004). Social network characteristics
+and cognition in middle-aged and older adults. The Journals of
+Gerontology, Series B: Psychological Sciences and Social Sciences,
+59, P278­P284. doi:10.1093/geronb/59.6.P278
+Kasarda, J. D., & Janowitz, M. (1974). Community attachment in mass soci-
+ety.AmericanSociologicalReview,39,328­339.doi:10.2307/2094293
+Kawachi, I., Kennedy, B. P., Lochner, K., & Prothrow-Stith, D. (1997).
+Social capital, income inequality, and mortality. American Journal of
+Public Health, 87, 1491­1498. doi:10.2105/AJPH.87.9.1491
+Kroenke, C. H., Kubzansky, L. D., Adler, N., & Kawachi, I. (2008).
+Prospective change in health-related quality of life and subsequent
+mortality among middle-aged and older women. American Journal
+of Public Health, 98, 2085­2091. doi:10.2105/AJPH.2007.114041
+Lamme, S., Dykstra, P. A., & van Groenou, M. I. B. (1996). Rebuilding the
+network: New relationships in widowhood. Personal Relationships,
+3, 337­349. doi:10.1111/j.1475-6811.1996.tb00120.x
+Lin, N. (2000). Inequality in social capital. Contemporary Sociology, 29,
+785­795. doi:10.2307/2654086
+141
+Cornwell
+Link, B. G., & Phelan, J. (1995). Social conditions as fundamental causes
+of disease. Journal of Health and Social Behavior, 35, 80­94.
+doi:10.2307/2626958
+Marcum, C. S. (2013). Age differences in daily social activities. Research
+on Aging, 35, 612­640. doi:10.1177/0164027512453468
+McDonald, S., Lin, N., &Ao, D. (2009). Networks of opportunity: Gender,
+race, and job leads. Social Problems, 56, 385­402. doi:10.1525/
+sp.2009.56.3.385
+McPherson, M., Smith-Lovin, L., & Brashears, M. (2006). Social iso-
+lation in America. American Sociological Review, 71, 353­375.
+doi:10.1177/000312240607100301
+McPherson, M., Smith-Lovin, L., & Cook, J. M. (2001). Birds of a feather:
+Homophily in social networks. Annual Review of Sociology, 27,
+415­444. doi:10.1146/annurev.soc.27.1.415
+Mendes de Leon, C. F., & Glass, T. A. (2004). The role of social and
+personal resources in ethnic disparities in late-life health. In N. B.
+Anderson, R. A. Bulatao, & B. Cohen (Eds.), Critical perspectives
+on racial and ethnic differences in health in late life (pp. 353­405).
+Washington, DC: National Research Council.
+Miller-Cribbs, J. E., & Farber, N. B. (2008). Kin networks and poverty
+among African Americans: Past and present. Social Work, 53, 43­51.
+doi:10.1093/sw/53.1.43
+Paik, A., & Sanchagrin, K. (2013). Social isolation in America:
+An artifact. American Sociological Review, 78, 339­360.
+doi:10.1177/0003122413482919
+Peek, M. K., & O'Neill, G. S. (2001). Networks in later life: An exami-
+nation of race differences in social support networks. International
+Journal of Aging & Human Development, 52, 207­229. doi:10.2190/
+F1Q1-JV7D-VN77-L6WX
+Perry, B. L., & Pescosolido, B. A. (2012). Social network dynamics and
+biographical disruption:The case of "first-timers" with mental illness.
+American Journal of Sociology, 118, 134­175. doi:10.1086/666377
+Pescosolido, B. A. (1992). Beyond rational choice: The social dynamics
+of how people seek help. American Journal of Sociology, 97, 1096­
+1138. doi:10.1086/229863
+Pillemer, K., & Suitor, J. J. (1992). Violence and violent feelings: What
+causes them among family caregivers? Journal of Gerontology, 47,
+S165­S172. doi:10.1093/geronj/47.4.S165
+Rose, D. R., & Clear, T. R. (1998). Incarceration, social capital, and crime:
+Implications for social disorganization theory. Criminology, 36, 441­
+480. doi:10.1111/j.1745-9125.1998.tb01255.x
+Schaefer, D. R., Kornienko, O., & Fox, A. M. (2011). Misery does
+not love company: Network selection mechanisms and depres-
+sion homophily. American Sociological Review, 76, 764­785.
+doi:10.1177/0003122411420813
+Schafer, M. H. (2013). Structural advantages of good health in
+old age investigating the health-begets-position hypothesis
+with a full social network. Research on Aging, 35, 348­370.
+doi:10.1177/0164027512441612
+Seeman, T. E., Miller-Martinez, D. M., Stein Merkin, S., Lachman, M. E.,
+Tun, P. A., & Karlamangla, A. S. (2011). Histories of social engage-
+ment and adult cognition: Midlife in the U.S. study. The Journals of
+Gerontology, Series B: Psychological Sciences and Social Sciences,
+66, i141­i152. doi:10.1093/geronb/gbq091
+Shaw, B. A., Krause, N., Liang, J., & Bennett, J. (2007). Tracking
+changes in social relations throughout late life. The Journals of
+Gerontology, Series B: Psychological Sciences and Social Sciences,
+62, S90­S99. doi:10.1093/geronb/62.2.S90
+Small, M. L. (2007). Racial differences in networks: Do neighbor-
+hood conditions matter? Social Science Quarterly, 88, 320­343.
+doi:10.1111/j.1540-6237.2007.00460.x
+Small, M. L. (2009). Unanticipated gains: Origins of network inequality in
+everyday life. New York, NY: Oxford University Press. doi:10.1093/
+acprof:oso/9780195384352.001.0001
+Smith, K. P., & Christakis, N. A. (2008). Social networks and health.
+Annual Review of Sociology, 34, 405­429. doi:10.1146/annurev.
+soc.34.040507.134601
+Smith, S. S. (2007). Lone pursuit: Distrust and defensive individualism
+among the black poor. New York, NY: Russell Sage Foundation.
+Snijders, T. A. B., & Doreian, P. (2010). Introduction to the special issue
+on network dynamics. Social Networks, 32, 1­3. doi:10.1016/j.
+socnet.2009.12.002
+Stephens, C.,Alpass, F., Towers,A., & Stevenson, B. (2011). The effects of
+types of social networks, perceived social support, and loneliness on
+the health of older people: Accounting for the social context. Journal
+of Aging and Health, 23, 887­911. doi:10.1177/0898264311400189
+Thomas, P. A. (2012). Trajectories of social engagement and mor-
+tality in late life. Journal of Aging and Health, 24, 547­568.
+doi:10.1177/0898264311432310
+van Eijk, G. (2010). Unequal networks: Spatial segregation, relationships
+and inequality in the city. Amsterdam, The Netherlands: IOS Press
+BV.
+van Tilburg, T. (1998). Losing and gaining in old age: Changes in personal
+network size and social support in a four-year longitudinal study.
+The Journals of Gerontology, Series B: Psychological Sciences and
+Social Sciences, 53, S313­S323. doi:10.1093/geronb/53B.6.S313
+Wasserman, S., & Faust, K. (1994). Social network analysis: Methods
+and applications. Cambridge, UK: Cambridge University Press.
+doi:10.1017/CBO9780511815478
+Wellman, B. (1983). Network analysis: Some basic principles. Sociological
+Theory, 1, 155­200. doi:10.2307/202050
+Wellman, B., Wong, R. Y., Tindall, D., & Nazer, N. (1997). A decade
+of network change: Turnover, persistence and stability in per-
+sonal communities. Social Networks, 19, 27­50. doi:10.1016/
+S0378-8733(96)00289-4
+Wellman, B., & Wortley, S. (1990). Different strokes from different folks:
+Community ties and social support. American Journal of Sociology,
+96, 558­588. doi:10.1086/229572
+Williams, D. R., & Collins, C. (1995). US socioeconomic and racial
+differences in health: Patterns and explanations. Annual Review
+of Sociology, 21, 349­386. doi:10.1146/annurev.so.21.080195.
+002025
+Wrzus, C., Hänel, M., Wagner, J., & Neyer, F. J. (2013). Social net-
+work changes and life events across the life span: A meta-analysis.
+Psychological Bulletin, 139, 53­80. doi:10.1037/a0028601
+York Cornwell, E. (2014). Social resources and disordered liv-
+ing conditions: Evidence from a national sample of commu-
+nity-residing older adults. Research on Aging, 36, 399­430.
+doi:10.1177/0164027513497369
+York Cornwell, E., & Waite, L. J. (2009). Social disconnectedness,
+perceived isolation, and health among older adults. Journal
+of Health and Social Behavior, 50, 31­48. doi:10.1177/00221
+4650905000103
+Zettel, L. A., & Rook, K. S. (2004). Substitution and compensation in the
+social networks of older widowed women. Psychology and Aging,
+19, 433­443. doi:10.1037/0882-7974.19.3.433
+142
+

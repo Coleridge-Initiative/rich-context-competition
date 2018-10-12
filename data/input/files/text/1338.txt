@@ -1,0 +1,750 @@
+Development of Health-Related Waist
+Circumference Thresholds Within BMI
+Categories
+Chris I. Ardern,* Ian Janssen,* Robert Ross,* and Peter T. Katzmarzyk*
+Abstract
+ARDERN, CHRIS I., IAN JANSSEN, ROBERT ROSS,
+AND PETER T. KATZMARZYK. Development of health-
+related waist circumference thresholds within BMI
+categories. Obes Res. 2004;12:1094­1103.
+Objective: To develop and cross-validate waist circumfer-
+ence (WC) thresholds within BMI categories. The utility of
+the derived values was compared with the single WC
+thresholds (women, 88 cm; men, 102 cm) recommended by
+NIH and Health Canada.
+Research Methods and Procedures: The sample included
+adults classified as normal weight (BMI  18.5 to 24.9),
+overweight (BMI  25 to 29.9), obese I (BMI  30 to
+34.9), and obese II (BMI  35) from the Third U.S.
+National Health and Nutrition Examination Survey
+(NHANES III; n  11,968) and the Canadian Heart Health
+Surveys (CHHS; n  6286). Receiver operating character-
+istic curves were used to determine the optimal WC thresh-
+olds that predicted high risk of coronary events (top quintile
+of Framingham scores) within BMI categories using the
+NHANES III. The BMI-specific WC thresholds were cross-
+validated using the CHHS.
+Results: The optimal WC thresholds increased across BMI
+categories from 87 to 124 cm in men and from 79 to 115 cm
+in women. The validation study indicated improved sensi-
+tivity and specificity with the BMI-specific WC thresholds
+compared with the single thresholds.
+Discussion: Compared with the recommended WC thresh-
+olds, the BMI-specific values improved the identification of
+health risk. In normal weight, overweight, obese I, and
+obese II patients, WC cut-offs of 90, 100, 110, and 125
+cm in men and 80, 90, 105, and 115 cm in women, respec-
+tively, can be used to identify those at increased risk.
+Key words: anthropometry, Framingham, receiver op-
+erating characteristic, U.S. National Health and Nutri-
+tion Examination Survey
+Introduction
+Evidence supporting the use of BMI and waist circum-
+ference (WC)1 measurements in the primary prevention of
+chronic diseases is mounting. The use of BMI and WC in
+predicting health risk has been recognized by the U.S.
+National Heart, Lung, and Blood Institute of the NIH (1)
+and Health Canada (2). The NIH and Health Canada clinical
+guidelines for identifying and managing obesity indicate
+that health risk increases in a graded fashion when moving
+from normal weight to obese BMI categories and that within
+each BMI category, individuals with high WC values are at
+a greater health risk than those with normal WC values
+(1,2). The current guidelines recommend that a single WC
+threshold (men, 102 cm; women, 88 cm) be used to denote
+a high WC, regardless of BMI category. These gender-
+specific thresholds were originally developed in a large
+sample of white men and women in which a WC of 102 cm
+in men and 88 cm in women corresponded to a BMI of 30.0
+kg/m2 (3). Thus, these thresholds were not developed based
+on the relationship between WC and health risk; rather, they
+were designed to be used in place of BMI as an alternative
+way to identify those in need of weight management.
+Received for review November 24, 2003.
+Accepted in final form May 7, 2004.
+The costs of publication of this article were defrayed, in part, by the payment of page
+charges. This article must, therefore, be hereby marked "advertisement" in accordance with
+18 U.S.C. Section 1734 solely to indicate this fact.
+*School of Physical and Health Education, Department of Community Health and Epide-
+miology, and Division of Endocrinology and Metabolism, Department of Medicine,
+Queen's University, Kingston, Ontario, Canada.
+Address correspondence to Peter T. Katzmarzyk, School of Physical and Health Education,
+Queen's University, Kingston, Ontario K7L 3N6, Canada.
+E-mail: katzmarz@post.queensu.ca
+Copyright © 2004 NAASO
+1 Nonstandard abbreviations: WC, waist circumference; NHANES III, Third U.S. National
+Health and Nutrition Examination Survey; TC, total cholesterol; HDL-C, high-density
+lipoprotein-cholesterol; SBP, systolic blood pressure; DBP, diastolic blood pressure; CHHS,
+Canadian Heart Health Surveys; CHDRI, coronary heart disease risk index; ROC, receiver
+operating characteristic; AUC, area under the curve.
+1094 OBESITY RESEARCH Vol. 12 No. 7 July 2004
+Despite these limitations, it has recently been confirmed
+that the NIH and Health Canada WC thresholds predict
+increased health risk within normal weight, overweight, and
+obese class I BMI categories (4,5). However, at present,
+there is no evidence to suggest that the current WC thresh-
+olds are the optimal cut-offs within a given BMI category,
+particularly given the potential redundancy between the WC
+and BMI thresholds. Indeed, these cut-offs may not ade-
+quately provide further discrimination of health risk, be-
+cause few normal weight individuals have WC values above
+the NIH and Health Canada cut-offs, whereas almost all
+obese individuals have WC values exceeding these thresh-
+olds (4,5).
+Given that the WC thresholds currently recommended by
+the NIH and Health Canada were developed based on their
+relationship with BMI and not health risk and that these
+cut-offs were not designed to be used in combination with
+BMI categories, a critical re-evaluation of the utility of
+using WC cut-offs within BMI categories is warranted. The
+objectives of this study were to 1) identify the optimal WC
+threshold within each BMI category for predicting those at
+a high risk of future coronary events and 2) test the use of
+these thresholds compared with the original thresholds
+(men, 102 cm; women, 88 cm) advocated by the NIH and
+Health Canada in a validation sample.
+Research Methods and Procedures
+Third U.S. National Heath and Nutrition Examination
+Survey
+The Third U.S. National Heath and Nutrition Examina-
+tion Survey (NHANES III; 1988 to 1994) is a nationally
+representative cross-sectional survey comprised of a ques-
+tionnaire and a mobile clinic visit, in which trained person-
+nel collected demographic, health practice, and risk factor
+information (6). During the clinic visit, body weight was
+measured to the nearest 0.1 kg using a Toledo self-zeroing
+electronic digital scale (Mettler-Toledo, Inc., Worthington,
+OH), and height was measured to the nearest 0.1 cm while
+the subject stood against a stadiometer. WC was measured
+at minimal respiration and reported to the nearest 0.1 cm by
+positioning a flexible anthropometric tape parallel to the
+floor and immediately above the iliac crest.
+Approximately 90 mL of blood was drawn from the
+antecubital vein after a 6-hour fast for the measurement of
+blood glucose and lipid/lipoprotein values. After centrifug-
+ing, the resulting serum was used to enzymatically measure
+total cholesterol (TC) through a series of peroxidase-cou-
+pled reactions. After the precipitation of other lipoproteins,
+high-density lipoprotein-cholesterol (HDL-C) was assayed
+in a separate run with a Boehringer Mannheim/Hitachi 714
+microcomputer (Indianapolis, IN).
+Three blood pressure measurements were obtained and
+averaged using the first and fifth Korotkoff sounds for
+systolic (SBP) and diastolic (DBP) blood pressures, respec-
+tively. Smoking status (0  nonsmokers; 1  regular cig-
+arette, cigar, or pipe smokers) was self-reported in the
+questionnaire portion of the survey. The presence of diabe-
+tes was based on self-reported physician-diagnosed diabetes
+(other than gestational diabetes) and from fasting blood
+glucose levels obtained during the clinic visit. The study
+protocol was approved by the National Center for Health
+Statistics, and all participants provided written informed
+consent before participation. The response rate for the clin-
+ical examination portion of the survey was 78% of those
+screened for NHANES III (6).
+Canadian Heart Health Surveys
+The Canadian Heart Health Surveys (CHHS) database is
+a compilation of cross-sectional surveys that were con-
+ducted within each of the 10 provinces between 1986 and
+1992. Participants were identified through provincial med-
+ical insurance registries and selected based on a stratified
+random sampling design, according to six age-by-sex
+groups. The survey included a home interview and clinical
+component in which cardiovascular risk factors were as-
+sessed.
+At the clinic visit, anthropometric variables were mea-
+sured with subjects barefoot and wearing normal indoor
+clothing. Weight (in kilograms) was measured using stan-
+dardized beam balance scales (Continental Scale Works,
+Chicago, IL), and height (in centimeters) was measured
+against a walled tape measure while subjects stood on a hard
+surface. In the case of pregnancy at the clinic visit, self-
+reported weight from the home interview was used in the
+calculation of BMI. After a normal expiration, WC was
+measured at the noticeable narrowing of the waist or mid-
+way between the 12th rib and the iliac crest, when the
+narrowest waist could not be determined (7).
+The average of four blood pressure readings was re-
+ported, using the first and fifth Korotkoff sounds to identify
+SBP and DBP, respectively. Eight-hour fasting venous
+blood samples (20 mL) were collected in Vacutainer tubes
+and stored in sodium EDTA before centrifuging. The re-
+sulting serum was sent to the Lipid Research Clinic Labo-
+ratory (University of Toronto, Ontario, Canada), where TC
+and HDL-C were assayed (8) in accordance with the Na-
+tional Heart, Lung, and Blood Institute Center for Disease
+Control Lipid Standardization Program, as described else-
+where (9).
+The presence of diabetes (0  no diabetes, 1  physi-
+cian-confirmed diabetes) and smoking status (0  non-
+smokers, 1  regular cigarette or pipe smokers) was self-
+reported in the questionnaire portion of the survey. All study
+protocols were approved after an institutional ethics review,
+and written informed consent was obtained from all partic-
+ipants. Of those screened for the CHHS, 78% were inter-
+viewed, and 69% of those invited attended the clinic (8).
+BMI-Specific WC Thresholds, Ardern et al.
+OBESITY RESEARCH Vol. 12 No. 7 July 2004 1095
+Framingham Algorithm
+The Framingham coronary heart disease risk index
+(CHDRI) (10) is a primary care algorithm that was selected
+as the health outcome in this study, from which WC thresh-
+olds would be developed. The CHDRI is a clinically rele-
+vant index of 10-year cardiovascular risk (recognized and
+unrecognized myocardial infarction and coronary heart dis-
+ease death) that is computed from age- and sex-specific
+categories of SBP, TC, HDL-C, and cigarette smoking
+status (10). Summary risk scores (range in men: 9 to 17;
+range in women: 7 to 25) were subsequently assigned
+and can be translated into a patient's risk of a 10-year
+coronary event.
+Study 1: WC Threshold Development
+The purpose of Study 1 was to develop health-based WC
+thresholds within BMI categories. To this end, data from
+NHANES III were used. Participants were included in the
+analysis if they had complete data for the calculation of the
+Framingham CHDRI, as well as measurements of WC and
+BMI. The sample was limited to individuals 20 to 65 years
+of age (N  11,968), corresponding with the lower age
+restriction of the Framingham algorithm (20 years) and
+for consistency with current age recommendations (65
+years) for the use of anthropometry in predicting health risk
+(11). All pregnant women were excluded.
+Framingham CHDRI scores were computed and dichot-
+omized (0  low risk; 1  high risk) based on the projected
+risk of adverse coronary events. The high-risk category
+included participants who were in the top quintile (20%) of
+the Framingham distribution in NHANES III (men:
+CHDRI  13; women: CHDRI  14), whereas the low-risk
+group included those in the bottom four quintiles (80%) of
+the distribution of the entire sample. The Third National
+Cholesterol Education Program Adult Treatment Panel des-
+ignates diabetes as a risk equivalent to coronary heart dis-
+ease; thus, 757 people with diabetes (men: N  307;
+women: N  450) were also included in the high-risk group.
+It should be noted that all analyses were also performed
+without people with diabetes in the high-risk group, and the
+results were virtually identical.
+Receiver operating characteristic (ROC) curves were
+used to select the optimal anthropometric thresholds that
+identified individuals at high risk of future coronary events.
+ROC curves displaying the sensitivity (y axis) and 1 
+specificity (x axis) of the diagnostic (WC) were used to
+predict high risk of coronary events. The area under the
+curve (AUC) is considered a measure of the use of WC and
+the trade-off between sensitivity and specificity for predict-
+ing high risk coronary events. An AUC of 1.0 would be a
+perfect predictor of those at high risk, whereas an AUC of
+0.5 would be expected to occur by chance alone. The
+optimal WC threshold was selected to be the point of
+convergence between sensitivity (correct identification of
+high-risk participants) and specificity (correct identification
+of low-risk participants) of each curve. We chose WC
+values one step above the point at which specificity ex-
+ceeded sensitivity as the optimal threshold, rounded to the
+nearest centimeter (12).
+BMI-specific analyses were conducted to identify the
+optimal WC threshold within normal weight (18 to 24.9
+kg/m2), overweight (25 to 29.9 kg/m2), obese I (30 to 34.9
+kg/m2), and obese II (35 kg/m2) categories. All analyses
+were weighted to be representative of the U.S. population
+using ROC graphics (version 11.0; SPSS, Chicago, IL) (13),
+and inferential statistics were conducted in STATA
+(STATA Inc., College Station, TX) (14) to account for the
+complex sampling strategy employed in the design of
+NHANES III.
+Study 2: WC Threshold Cross-Validation
+Once BMI-specific WC thresholds were obtained using
+the NHANES III sample, sensitivities and specificities were
+computed using data from the CHHS. For consistency with
+the developmental study, the sample was limited to those 20
+to 65 years of age within the five CHHS provinces (Ontario,
+Que
+´bec, Manitoba, Saskatchewan, and Alberta; N  6286)
+that measured WC. Together, these five provinces ac-
+counted for 79% of the Canadian population in 1991 (15).
+To ensure comparability across high-risk groups in the
+Canadian and U.S. samples, the high-risk group was defined
+using the same absolute CHDRI criteria as in Study 1 (men:
+CHDRI  13; women: CHDRI  14). An additional 340
+people with physician-confirmed diabetes (men: N  157;
+women: N  183) were included in the high-risk group. It
+should be noted that the analyses were also performed
+without including those with diabetes in the high-risk group,
+and the results were virtually identical.
+SAS (SAS Institute, Cary, NC) (16) was used for data-
+base management, and all inferential analyses were
+weighted to be representative of the population using
+STATA survey procedures (Intercooled 7; STATA) (14)
+that account for the stratified sampling design used in the
+CHHS.
+Because of discrepancies in the position of WC measure-
+ment in NHANES III vs. CHHS, adjustments were made to
+the BMI-specific WC thresholds before they were tested in
+the CHHS, based on the results of Wang et al. (17). In their
+study, there was a statistically significant difference (1.7
+cm) between WC measured immediately above the iliac
+crest (as in NHANES) and WC measured at the narrowest
+waist (as in the CHHS) in men. In women, the difference
+between measurement of WC at the iliac crest and narrow-
+est waist was 4.6 cm. Thus, based on these average
+differences, WC thresholds were lowered by 2 cm in men
+and by 5 cm in women before applying them to the CHHS
+sample to account for systematic measurement differences.
+BMI-Specific WC Thresholds, Ardern et al.
+1096 OBESITY RESEARCH Vol. 12 No. 7 July 2004
+Unfortunately, information on race/ethnicity was not col-
+lected in the CHHS; thus, only the general WC thresholds
+from NHANES III were validated. Given that a similar (but
+higher) proportion of the Canadian population (2001; 86%)
+(18) consists of "white" or nonminority individuals com-
+pared with the United States (1990; 76%) (19), we are
+confident that the validation can be generalized to the pop-
+ulation at large. However, where sample sizes permit, future
+studies should be aimed at validating the ethnic-specific
+thresholds.
+Results
+Table 1 describes the characteristics of study participants
+in the NHANES III and the CHHS. Cardiovascular risk
+(CHDRI scores), WC, and BMI measurements were some-
+what lower in the CHHS compared with the NHANES III.
+Compared with Americans, fewer Canadian men (10.6% vs.
+21.1%) and women (12.5% vs. 22.5%) were classified at
+high risk for future coronary events based on the cut-offs
+employed in this study (men: CHRI  13; women: CHRI 
+14). Independent samples Student's t tests show similar sex
+differences within the NHANES and CHHS samples, with
+the exception of BMI and TC.
+Study 1
+Table 2 presents the optimal WC thresholds for predict-
+ing future coronary events in the entire NHANES III sam-
+ple, stratified by sex but not BMI category. The optimal WC
+thresholds were higher in men (96 cm) than in women (90
+cm). The optimal WC thresholds also tended to vary slightly
+according to age and race/ethnicity.
+BMI category-specific analyses indicated that the optimal
+WC thresholds for future coronary risk differed consider-
+ably from the single thresholds proposed by the NIH and
+Health Canada (men, 102 cm; women, 88 cm). In general,
+the WC threshold associated with coronary risk increased
+when moving from the normal weight to class II obese
+BMI categories. In men, WC thresholds of 87, 98, 109, and
+124 cm were identified as optimal thresholds across normal
+weight, overweight, class I obese, and class II obese BMI
+groups, respectively (Table 3). The corresponding values in
+women were 79, 92, 103, and 115 cm. These thresholds also
+differed slightly (5 cm) according to age and race/ethnic-
+ity.
+Study 2
+Results of the cross-validation study (Table 4) indicate
+that the greatest improvements in sensitivity between the
+NIH and Health Canada cut-offs and the BMI-specific WC
+thresholds were seen in normal weight men and women.
+The balance between sensitivity and specificity (e.g., having
+a relatively high sensitivity and a relatively high specificity)
+improved in all groups. As expected, the sensitivity of the
+single NIH and Health Canada WC cut-offs increased
+across BMI categories at the expense of specificity, which
+consistently decreased. On the other hand, the BMI-specific
+thresholds had a balanced level of sensitivity and specificity
+across categories, indicating that the discrimination of
+health risk was improved.
+Another way to compare the performance of the devel-
+oped thresholds is by considering false-negative (1  sen-
+sitivity) and false-positive (1  specificity) cases. For ex-
+ample, using the single NIH and Health Canada WC
+Table 1. Characteristics of participants in the CHHS and NHANES III, weighted to be representative of each
+population
+NHANES III (1988 to 1994) CHHS (1986 to 1992)
+Men
+(N  5624)
+Women
+(N  6344)
+Men
+(N  3199)
+Women
+(N  3087)
+Age (years) 39.0  12.2 39.6  12.5 39.5  18.3 39.8  11.3
+BMI (kg/m2) 26.6  4.7 26.7  6.3 25.8  10.9 24.9  18.6
+WC (cm) 94.8  13.1 88.7  15.3* 90.8  33.7 78.6  20.3
+SBP (mm Hg) 124  15 118  17* 125  14 117  41
+DBP (mm Hg) 78  11 73  11* 80  15 75  29
+TC (mM) 5.2  1.1 5.2  1.1 5.1  2.0 5.0  1.9
+HDL-C (mM) 1.2  0.3 1.4  0.4* 1.2  0.7 1.5  0.3
+CHDRI score 5  7 6  7* 4  13 5  10
+Values are mean  SD; independent samples Student's t test.
+* P  0.05 between sexes in NHANES III.
+ P  0.05 between sexes in CHHS.
+BMI-Specific WC Thresholds, Ardern et al.
+OBESITY RESEARCH Vol. 12 No. 7 July 2004 1097
+thresholds, 97% of normal weight men and women at high
+risk for future coronary events would be misclassified. This
+is substantial, given that only 34% of normal weight men
+and 40.8% of normal weight women would be falsely clas-
+sified as low risk according to the BMI-specific thresholds.
+Similarly, the number of false-positive cases drops dramat-
+ically when BMI-specific thresholds are used for obese I
+(men: 75.9% vs. 40.9%; women: 91.1% vs. 27.6%) and
+obese II (men: 90.3% vs. 11.7%; women: 98.2% vs.
+28.3%) categories instead of the NIH and Health Canada
+thresholds. Using category-specific WC cut-offs means that
+more than twice the number of high-risk men (283 vs. 133)
+and slightly more women (215 vs. 196) would be correctly
+identified.
+Discussion
+The results of this study indicate that the current NIH and
+Health Canada recommendations to use a single WC thresh-
+old across all BMI categories are insufficient to identify
+those at increased health risk. Independent of sex, the use of
+BMI category-specific WC thresholds improved the identi-
+fication of individuals at a high risk of future coronary
+events. To simplify their use in clinical settings, the WC
+thresholds determined in this study have been rounded and
+are presented in Table 5. These thresholds can be used as a
+simple clinical tool for the screening of future coronary risk
+based on WC measurements within specific BMI categories.
+Although these WC thresholds are reasonable guidelines for
+the identification of increased health risk within specific
+BMI categories, they should be considered preliminary until
+further studies confirm our findings in other representative
+samples.
+The BMI-specific WC thresholds shift the prevalence of
+individuals with a high WC, within a given BMI category,
+compared with the single NIH and Health Canada WC
+threshold (Figure 1). The high sensitivity of the single NIH
+and Health Canada WC threshold within the normal weight
+BMI category can be explained by the low prevalence of
+normal weight individuals with WC levels above the pro-
+posed cut-off, whereas the high specificity in the obese II
+category is explained by the fact that almost all individuals
+in that category have a high WC. Although the resulting
+classification is impressive, the clinical use of the single
+thresholds is questionable. In contrast, the use of BMI-
+specific thresholds provides a more balanced prevalence of
+participants with a high WC across the BMI categories.
+A previous ROC analysis in the CHHS (20) showed that
+WC thresholds of 94 and 80 cm in men and women,
+respectively, provided the best compromise between sensi-
+tivity and specificity for the prediction of a cluster of three
+or more cardiovascular risk factors (hypertension, dyslipi-
+demia, diabetes, smoking, and sedentary lifestyle). After
+adjustment for differences in the site of WC measurement
+(men, 2 cm; women, 5 cm), the WC thresholds reported
+by Dobbelsteyn et al. (20) are identical to those reported
+here in men (96 cm), but differ by 5 cm in women (85 vs.
+90 cm). In a sample of white men and women from
+NHANES III, Zhu et al. (21) reported that the presence of at
+least one obesity-related risk factor (low HDL-C, high blood
+pressure, high blood glucose, or high low-density lipopro-
+teins) is predicted by WC thresholds of 98 cm in men and 87
+cm in women. These WC values are comparable with the
+values we determined for prediction of future coronary risk
+in white men (97 cm) and women (89 cm).
+Few studies have reported ethnic- or race-specific WC
+thresholds. Data from the Atherosclerosis Risk in Commu-
+nities study of incident diabetes in middle-aged adults (40 to
+65 years of age) provide the most relevant comparisons
+Table 2. Optimal WC thresholds for predicting participants at high risk of future coronary events in men and
+women 20 to 65 years of age in NHANES III
+Men Women
+AUC Cut-off Sensitivity Specificity AUC Cut-off Sensitivity Specificity
+Overall 0.71 96 69.0 63.0 0.73 90 69.4 66.3
+40 years 0.70 94 63.6 63.1 0.74 88 72.2 66.5
+40 years 0.63 99 60.7 57.6 0.67 92 64.0 63.3
+White 0.71 97 67.8 62.6 0.74 89 70.5 67.7
+Black 0.72 94 70.0 66.0 0.69 95 63.4 63.3
+Hispanic 0.74 96 67.9 65.8 0.71 94 65.9 63.6
+Other 0.72 91 77.0 60.2 0.73 89 67.6 66.2
+Cut-off, waist circumference (cm) threshold at which there is an optimal balance of sensitivity and specificity; sensitivity, true positive/(true
+positive  false negative); specificity, true negative/(true negative  false positive); other, all other race/ethnicities not classified into white,
+black, or Hispanic.
+BMI-Specific WC Thresholds, Ardern et al.
+1098 OBESITY RESEARCH Vol. 12 No. 7 July 2004
+Table 3. BMI-specific WC thresholds that identify participants at high risk of future coronary events in men and women 20 to 65 years of age in
+NHANES III
+Normal weight Overweight Obese I Obese II
+AUC
+Cut-
+off Sensitivity Specificity AUC
+Cut-
+off Sensitivity Specificity AUC
+Cut-
+off Sensitivity Specificity AUC
+Cut-
+off Sensitivity Specificity
+Men
+Overall 0.75 87 71.9 66.3 0.69 98 62.6 62.1 0.64 109 61.0 56.4 0.58 124 63.5 52.7
+40 years 0.70 84 67.8 57.9 0.66 96 65.4 57.0 0.62 108 60.8 60.5 0.59 125 75.0 60.6
+40 years 0.65 89 64.0 56.1 0.60 99 61.4 49.8 0.53 110 55.9 46.5 0.53 125 54.2 53.8
+White 0.74 88 69.6 65.7 0.67 98 64.7 57.0 0.64 109 63.3 53.1 0.57 125 61.7 54.5
+Black 0.71 82 69.7 66.0 0.73 95 72.3 60.9 0.68 106 71.5 60.8 0.53 122 52.5 48.8
+Hispanic 0.80 86 80.1 69.7 0.71 96 66.3 62.1 0.65 108 61.0 60.4 0.55 120 59.5 48.8
+Other 0.81 87 81.2 73.6 0.75 96 68.6 66.1 0.52 108 84.2 43.1 0.17 109 100 0.3
+Women
+Overall 0.72 79 70.0 63.2 0.68 92 64.9 61.3 0.66 103 63.7 58.3 0.58 115 59.7 51.7
+40 years 0.67 77 72.3 59.1 0.60 90 56.8 55.1 0.57 101 56.7 53.5 0.59 115 54.7 53.8
+40 years 0.64 81 62.4 56.1 0.64 93 61.7 57.1 0.63 104 63.1 59.6 0.54 116 54.6 52.2
+White 0.73 79 70.4 65.5 0.67 92 64.3 60.6 0.63 104 62.5 60.2 0.55 115 55.9 49.5
+Black 0.72 80 67.4 66.6 0.69 93 64.9 65.5 0.68 103 68.5 61.3 0.61 116 67.9 53.1
+Hispanic 0.73 81 67.9 67.5 0.69 92 68.9 60.6 0.68 101 67.9 60.0 0.63 114 60.1 55.9
+Other 0.66 80 63.0 57.8 0.70 90 73.9 64.1 0.80 100 82.7 65.7 0.74 112 84.5 69.1
+Cut-off, waist circumference (cm) threshold at which there is an optimal balance of sensitivity and specificity; sensitivity, true positive/(true positive  false negative); specificity,
+true negative/(true negative  false positive); other, all other race/ethnicities not classified into white, black, or Hispanic.
+BMI-Specific WC Thresholds, Ardern et al.
+OBESITY RESEARCH Vol. 12 No. 7 July 2004 1099
+(22). In that study, diabetes was best predicted by a WC of
+101 cm in black men, whereas in white men, the optimal
+cut-off was 95 cm. In black and white women, WC values
+of 99 and 101 cm, respectively, were the optimal cut-offs.
+We also report similar WC thresholds from our analysis
+(Table 2) in Hispanics to the WC cut-offs reported in the
+Mexican National Health Survey 2000 (20 to 69 years of
+age) for identifying diabetes (men: WC  95 cm, women:
+WC  97 cm,) and hypertension (men: WC  94 cm,
+women: WC  94 cm) (23).
+In this study, the WC thresholds were lower in younger
+(20 to 40 years of age) vs. older (41 to 65 years of age)
+participants, with a 5-cm difference in men and a 4-cm
+difference in women (Table 2). These findings are sup-
+ported by the study of Dobbelsteyn et al. (20), who also
+reported higher WC cut-points with increasing age for the
+prediction of risk factor clustering. Once stratified by BMI
+categories, the age differences persisted for normal weight
+and overweight men and women but were attenuated in the
+obese II category (Table 3). The adjustment of WC
+thresholds for a patient's age has been recommended (24);
+however, the clinical significance of such an adjustment
+within BMI categories has not yet been established, given
+the small sample sizes that would result from further subset
+Table 4. Capacity of BMI-specific and single (men, 102 cm; women, 88 cm) NIH and Health Canada WC
+thresholds to predict participants at high risk for future coronary events in men and women 20 to 65 years of age
+from the CHHS
+Prevalence
+of high risk*
+NIH/Health Canada
+threshold BMI-specific threshold
+Sensitivity Specificity Sensitivity Specificity
+Men
+Normal weight 6.6 3.3 100.0 66.0 64.3
+Overweight 16.5 21.7 39.9 69.5 61.2
+Obese I 24.0 77.5 24.1 59.2 59.1
+Obese II 24.2 100.0 9.7 45.6 88.3
+Overall 18.5 30.9 79.0 66.0 62.9
+Women
+Normal weight 11.2 3.7 96.2 59.2 65.2
+Overweight 16.5 52.6 54.0 39.4 67.0
+Obese I 31.0 96.3 8.9 30.1 72.4
+Obese II 21.8 99.4 1.8 54.7 71.7
+Overall 13.3 42.9 64.8 47.1 66.5
+* Prevalence of participants at high risk of future coronary events, within BMI categories [normal weight (18.5 to 24.9 kg/m2); overweight
+(25 to 29.9 kg/m2); obese I (30 to 34.9 kg/m2) and obese II (35 kg/m2)].
+See Table 2 for abbreviations.
+Table 5. Clinical guide for the measurement of WC within BMI categories in the assessment of health risk*
+Waist
+circumference (cm)
+BMI Category (kg/m2)
+Normal weight
+(18.5 to 24.9 kg/m2)
+Overweight
+(25 to 29.9 kg/m2)
+Obese I
+(30 to 34.9 kg/m2)
+Obese II and III
+(>35 kg/m2)
+Men 90 100 110 125
+Women 80 90 105 115
+* High risk of future coronary events (based on 10-year risk of coronary events or the presence of diabetes).
+ WC threshold indicating increased health risk within each BMI category.
+BMI-Specific WC Thresholds, Ardern et al.
+1100 OBESITY RESEARCH Vol. 12 No. 7 July 2004
+analyses. To accommodate age-related changes in body fat
+distribution and cardiovascular risk, Dobbelsteyn et al. (20)
+recommended adjusting WC thresholds according to 10-
+year age categories. When stratified by age categories (18 to
+24; 25 to 34; 35 to 39; 40 to 54; 55 to 64; and 65 to 74
+years), the optimal WC cut-off ranged from 88 to 99 and 72
+to 85 cm in men and women, respectively.
+There were consistent sex differences in the optimal WC
+thresholds across BMI categories. For a given level of BMI,
+men had a higher WC threshold than women. However,
+these values should not be used to interpret gender differ-
+ences in the absolute risk of heart disease attributable to a
+high WC. The optimal thresholds were obtained in sex-
+specific analyses comparing participants at low and high
+risk of future coronary events; thus, the thresholds represent
+the best point of discrimination of relative risk rather than
+absolute risk. For example, the Framingham CHDRI thresh-
+olds used were 13 in men and 14 in women, which
+correspond to 10-year absolute risks of coronary heart dis-
+ease of 12% for men and 2% for women (10).
+Figure 2 presents the weighted mean Framingham
+CHDRI scores across the BMI-specific waist circumference
+categories in the NHANES III sample. As expected, the
+CHDRI was lowest in the normal weight/low WC groups
+and increased with the level of obesity. Furthermore, those
+with a high WC had higher scores than those with a low WC
+within each BMI category. The patterns were similar in men
+and women and show that the proposed WC thresholds
+provide further discrimination of health risk beyond that of
+the BMI categories alone, particularly in normal weight and
+overweight individuals.
+There are several strengths and limitations to this study.
+A major strength is the use of large representative popula-
+tion samples from Canada and the United States, which
+ensures that the results can be generalized. The analyses are
+based on cross-sectional data; therefore, cause-and-effect
+conclusions cannot be inferred regarding the relation be-
+tween WC and health risk. However, the use of the Fra-
+mingham risk score for predicting 10-year risk of coronary
+events is a clinical tool that is strongly associated with the
+risk of future coronary events (25). Because the Framing-
+ham algorithm was derived using a predominately white
+sample, the CHDRI may not be entirely appropriate to
+predict 10-year risk in other ethnic groups (26,27).
+At this time, comparisons among studies and temporal
+analyses of changes in WC are hampered by methodological
+Figure 1: Prevalence of high WC within BMI categories. Data are from NHANES III for (A) men and (B) women and the CHHS for (C)
+men and (D) women. The NIH and Health Canada WC thresholds (men: 102 cm; women: 88 cm) and BMI-specific WC thresholds (men:
+87, 98, 109, and 124 cm; women: 79, 92, 103, and 115 cm) were compared across BMI categories [normal weight (18.5 to 24.9 kg/m2),
+overweight (25 to 29.9 kg/m2), obese I (30 to 34.9 kg/m2), and obese II (35 kg/m2), respectively].
+BMI-Specific WC Thresholds, Ardern et al.
+OBESITY RESEARCH Vol. 12 No. 7 July 2004 1101
+concerns, including the training of technicians, the use of
+different equipment, and the site of WC measurement. The
+adjustment of WC thresholds according to the site of mea-
+surement in our cross-validation study was based on the
+results of Wang et al. (17), who conducted three same-day
+measurements at four common WC sites in a sample of 93
+individuals (intraclass correlation  0.99). The magnitude
+of the differences across sites highlights the need for stan-
+dardized guidelines for WC measurement.
+In summary, our findings provide strong support for the
+use of specific WC thresholds within different BMI catego-
+ries for identifying increased health risk. In comparison, the
+currently recommended NIH and Health Canada WC
+thresholds are inadequate to discriminate health risk within
+all BMI categories.
+Acknowledgments
+This research was supported by the Heart and Stroke
+Foundation of Ontario (T4946). C. Ardern is supported by a
+fellowship from the Heart and Stroke Foundation of Canada
+and the Canadian Institutes of Health Research (Institutes of
+Gender and Health). I. Janssen is supported by a postdoc-
+toral fellowship from the Canadian Institutes of Health
+Research. The analyses are, in part, based on the Canadian
+Heart Health Database 1986 to 1992, which contains anon-
+ymized data collected in a coordinated series of heart health
+surveys carried out in the 10 provinces of Canada between
+1986 and 1992. The database was constructed by the Con-
+ference of Primary Investigators of provincial heart health
+programs from survey questions and clinical measures that
+were common to all surveys. All computation of these
+microdata was prepared by C. Ardern, and the responsibility
+of the use and interpretation of these data are entirely that of
+the authors.
+References
+1. National Institutes of Health. The Practical Guide: Identifi-
+cation, Evaluation and Treatment of Overweight and Obesity
+in Adults. Bethesda, MD: NIH; 2000, pp. 1­77.
+2. Health Canada. Canadian Guidelines for Body Weight Clas-
+sification in Adults. Ottawa, Canada: Health Canada; 2003, pp.
+1­40.
+3. Lean ME, Han TS, Morrison CE. Waist circumference as a
+measure for indicating need for weight management. BMJ.
+1995;311:158­64.
+4. Janssen I, Katzmarzyk PT, Ross R. Body mass index, waist
+circumference, and health risk: evidence in support of current
+National Institutes of Health guidelines. Arch Intern Med.
+2002;162:2074­9.
+5. Ardern CI, Katzmarzyk PT, Janssen I, Ross R. Discrimi-
+nation of health risk by combined body mass index and waist
+circumference. Obes Res. 2003;11:135­42.
+6. U.S. Department of Health and Human Services. National
+Center for Health Statistics, NHANES III Reference Manuals
+and Reports [CD-ROM]. Hyattsville, MD: Centers for Disease
+Control and Prevention; 1996.
+7. Health Canada. Canadian Heart Health Database, 1986­
+1992 [CD-ROM]. St. John's NF, Canada: Memorial Univer-
+sity; 1998.
+8. MacLean DR, Petrasovits A, Nargundkar M, et al. Cana-
+dian Heart Health Surveys: a profile of cardiovascular risk.
+Survey methods and data analysis. Canadian Heart Health
+Surveys Research Group. CMAJ. 1992;146:1969­74.
+9. Connelly PW, MacLean DR, Horlick L, O'Connor B,
+Petrasovits A, Little A. Plasma lipids and lipoproteins and
+the prevalence of risk for coronary heart disease in Canadian
+adults. CMAJ. 1992;146:1977­87.
+10. Expert Panel on Detection, Evaluation, and Treatment of
+High Blood Cholesterol in Adults. Executive summary of
+The Third Report of the National Cholesterol Education Pro-
+gram (NCEP) Expert Panel on Detection, Evaluation, and
+Treatment of High Blood Cholesterol In Adults (Adult Treat-
+ment Panel III). JAMA. 2001;285:2486­97.
+Figure 2: Framingham CHDRI scores in low and high BMI-
+specific WC categories across normal weight, overweight, obese
+class I, and obese class II categories in (A) men and (B) women
+in the U.S. NHANES III.
+BMI-Specific WC Thresholds, Ardern et al.
+1102 OBESITY RESEARCH Vol. 12 No. 7 July 2004
+11. Molarius A, Seidell JC, Visscher TL, Hofman A. Misclas-
+sification of high-risk older subjects using waist action levels
+established for young and middle-aged adults--results from
+the Rotterdam Study. J Am Geriatr Soc. 2000;48:1638­45.
+12. Brownie C, Habicht JP, Cogill B. Comparing indicators of
+health or nutritional status. Am J Epidemiol. 1986;124:1031­
+44.
+13. SPSS Inc. SPSS Base 11.0 User's Guide. 1st ed. Chicago, IL:
+Prentice Hall; 2001.
+14. StataCorp. Stata Statistical Software. Release 7.0. College
+Station, TX: Stata Corp.; 2001.
+15. Statistics Canada. A National Overview. Ottawa: Supply and
+Services Canada, 1992. Catalog no. 93-301. Ottawa, Ontario,
+Census of Canada; 1991.
+16. SAS Inc. SAS/STAT User's Guide. Cary, NC: SAS Institute;
+1989.
+17. Wang J, Thornton JC, Bari S, et al. Comparisons of waist
+circumferences measured at 4 sites. Am J Clin Nutr. 2003;77:
+379­84.
+18. Statistics Canada. Visible Minority Population, Provinces
+and Territories, Census of the Population, 2001. http://www.
+statcan.ca/english/Pgdb/ (Accessed June 11, 2004).
+19. Bureau of the Census. Census of Population and Housing,
+1990: Summary Tape File. 3 on CD-ROM. Washington, DC:
+Bureau of the Census; 1992.
+20. Dobbelsteyn CJ, Joffres MR, MacLean DR, Flowerdew G.
+A comparative evaluation of waist circumference, waist-to-hip
+ratio and body mass index as indicators of cardiovascular risk
+factors. The Canadian Heart Health Surveys. Int J Obes Relat
+Metab Disord. 2001;25:652­61.
+21. Zhu SK, Wan Z, Heshka S, Heo M, Faith MS, Heymsfield
+SB. Waist circumference and obesity-associated risk factors
+among whites in the third National Health and Nutrition
+Examination Survey: clinical action thresholds. Am J Clin
+Nutr. 2002;76:743­9.
+22. Stevens J, Couper D, Pankow J, et al. Sensitivity and
+specificity of anthropometrics for the prediction of diabetes in
+a biracial cohort. Obes Res. 2001;9:696­705.
+23. Sanchez-Castillo CP, Velazquez-Monroy O, Berber A, et
+al. Anthropometric cutoff points for predicting chronic dis-
+eases in the Mexican National Health Survey 2000. Obes Res.
+2003;11:442­51.
+24. Despre
+´s JP, Lemieux I, Prud'homme D. Treatment of obe-
+sity: need to focus on high risk abdominally obese patients.
+BMJ. 2001;322:716­20.
+25. Leaverton PE, Sorlie PD, Kleinman JC, et al. Representa-
+tiveness of the Framingham risk model for coronary heart
+disease mortality: a comparison with a national cohort study.
+J Chronic Dis. 1987;40:775­84.
+26. Cappuccio FP, Oakeshott P, Strazzullo P, Kerry SM. Ap-
+plication of Framingham risk estimates to ethnic minorities in
+United Kingdom and implications for primary prevention of
+heart disease in general practice: cross sectional population
+based study. BMJ. 2002;325:1271.
+27. D'Agostino RB Sr, Grundy S, Sullivan LM, Wilson P.
+Validation of the Framingham coronary heart disease predic-
+tion scores: results of a multiple ethnic groups investigation.
+JAMA. 2001;286:180­7.
+BMI-Specific WC Thresholds, Ardern et al.
+OBESITY RESEARCH Vol. 12 No. 7 July 2004 1103
+

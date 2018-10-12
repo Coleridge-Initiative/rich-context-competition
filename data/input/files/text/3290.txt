@@ -1,0 +1,996 @@
+SAGE Open
+April-June 2015: 1
+­10
+© The Author(s) 2015
+DOI: 10.1177/2158244015590442
+sgo.sagepub.com
+Creative Commons CC BY: This article is distributed under the terms of the Creative Commons Attribution 3.0 License
+(http://www.creativecommons.org/licenses/by/3.0/) which permits any use, reproduction and distribution of the work without further
+permission provided the original work is attributed as specified on the SAGE and Open Access page (http://www.uk.sagepub.com/aboutus/openaccess.htm).
+Article
+While delayed home-leaving has largely been examined
+through a sociodemographic lens and from the perspective of
+its psychological causes and effects (e.g., Allen, Hauser,
+Eickholt, Bell, & O'Connor, 1994; Kins, Beyers, Soenens, &
+Vansteenkiste, 2009; Kins, Soenens, & Beyers, 2011;
+McLean & Mansfield, 2012), there is a paucity of literature
+regarding developmentally appropriate interventions for this
+age group (Sachs, 2013), an age group that is significantly
+underserved despite its heightened risk for mental health
+problems (Blanco et al., 2008). Furthermore, there are no
+clinical studies that specifically address the mental health
+treatment of the co-residing emerging adult, a subgroup that
+is increasingly prevalent in the affluent communities we
+serve, and who, in our experience, can be quite clinically
+challenging. In the more difficult cases, the emerging adult is
+functioning at a delayed or regressive state, which we have
+termed unfinished adolescence. Indicators of such a state
+include a nocturnal sleep­wake cycle, an overriding focus on
+videogame playing and social media, a tepid engagement
+with work or school, a weak commitment toward seeking
+employment, and/or frequent conflicts with parents. In the
+most severe cases, the young adult is neither pursuing work
+nor higher education and is emotionally shut down or ver-
+bally abusive, if not physically threatening, to one or both
+parents who present as defeated, frozen, anxious, or angry.
+Most frequently, the parents present with an excruciating
+bind: They want to "kick the kid out" but they cannot take
+this step for fear that their child will suffer immensely from
+such an action.
+The purpose of this article is to address the needs of this
+developmentally distinct and growing clinical population
+from a specific theoretical model known as constructivist
+control mastery theory (Lieb & Kanofsky, 2003). This clini-
+cal approach appears to be particularly well suited for treating
+emerging adults and their parents. Constructivist control mas-
+tery theory's integration of narrative and psychodynamic
+paradigms provides a powerful set of clinical tools in facili-
+tating the acquisition of a healthy young adult identity which
+is being impeded by separation-individuation pathology.
+Because the definition of adulthood is so fluid during this cur-
+rent historical period, emerging adults require aid in creating
+a narrative identity, which is developed through their conver-
+sations with others (Cox & McAdams, 2012; Habermas &
+Bluck, 2000; McAdams et al., 2008; McLean, 2005; McLean
+& Mansfield, 2012). Parents play an especially important
+590442
+SGOXXX10.1177/2158244015590442SAGE OpenLieb and Auld
+research-article2015
+1Private Practice, San Mateo, CA, USA
+2Private Practice, San Francisco, CA, USA
+Corresponding Author:
+Robert J. Lieb, Private Practice, 177 Bovet Road, Suite 540, San Mateo,
+CA 94402, USA.
+Email: rlieb@pacificpsycare.com
+From Unfinished Adolescent to Young
+Adult: A Constructivist Control Mastery
+Theory Approach to the Treatment of the
+Emerging Adult Still Living at Home
+Robert J. Lieb1 and W. David Auld2
+Abstract
+The distinct time in life known as emerging adulthood presents its own unique developmental challenges, most centrally the
+creation of an adult identity. However, an increasing number of young adults today are not living on their own, as would be
+expected, but instead are living with their families of origin. For some, co-residence is largely a function of current economic
+forces. For others, it is evidence of problems with the separation-individuation process. Assessing relational maturity and the
+development of autonomously valued goals is crucial in forming a treatment plan. Constructivist control mastery theory is
+a treatment approach that integrates psychodynamic and narrative paradigms and is especially well suited for the treatment
+of this population, whether applied as a family therapy or individual therapy. This approach focuses on fostering mastery-
+oriented conversations that facilitate the emergence of adult identity.
+Keywords
+emerging adult, co-residence, control mastery, narrative therapy, psychotherapy
+2 SAGE Open
+role in scaffolding these identity-making stories (McLean &
+Mansfield, 2012). For this reason, our clinical approach is
+centered on creating those conversations that facilitate the
+emergence of adult identity.
+Overview of the Treatment Model
+Our approach to treating these unfinished adolescents/emerg-
+ing adults is based on the integration of control mastery the-
+ory (Weiss, Sampson, & The Mount Zion Psychotherapy
+Research Group, 1986), and narrative therapy (White &
+Epston, 1990) from a family systems perspective (Kanofsky
+& Lieb, 2007). Control mastery theory elaborates Freud's
+(1926) later idea that psychological problems are rooted in
+grim, largely unconscious beliefs that have been inferred
+from traumatic early experiences, usually within the family
+or with other primary caretakers. In line with attachment
+research (e.g., Beebe, Lachmann, & Jaffe, 1998; Bowlby,
+1988; Gopnik, Kuhl, & Meltzoff, 1999; Schor, 1997; Stern,
+1985), control mastery theory asserts that all children develop
+a set of beliefs about safe or unsafe ways to adapt to the fam-
+ily environment while simultaneously attempting to meet
+important personal developmental needs and strivings. The
+emphasis on the child's primary motives of adaptation to the
+family and altruistic concern for the well-being of family
+members, even at the child's expense, contributes to a
+humanistic, systemic, and non-pathologizing clinical stance.
+While highly adaptive in one sense, the beliefs inferred
+from traumatic experiences (trauma is loosely defined as any
+early experience or set of experiences that harm the child or
+important others) are termed pathogenic because they inhibit
+the child from pursuing preferred goals and give rise to trou-
+bling feelings, problematic behaviors, and interpersonal con-
+flicts. Pathogenic beliefs are formed in a number of ways.
+They most commonly occur when a child attempts to achieve
+certain developmentally appropriate goals and discovers that
+such attempts repeatedly lead to trauma for the child or par-
+ent. From these experiences, the child creates cognitive rep-
+resentations of the world that ultimately impede personal
+growth if they remain unquestioned and unconscious. Guilt
+is the feeling tone that validates these beliefs, its power
+rooted in deep attachment needs and altruistic impulses.
+When activated, these pathogenic beliefs have an emotional
+immediacy that makes them seem patently true. For exam-
+ple, omnipotent responsibility guilt involves a pathogenic
+belief that exaggerates the sense of responsibility for the
+well-being of loved ones. Separation guilt involves a patho-
+genic belief that one's separateness from loved ones causes
+them harm, and survivor guilt is characterized by the patho-
+genic belief that pursuing normal goals and achieving suc-
+cess and happiness will cause others to suffer simply by
+comparison (O'Connor, Berry, & Weiss, 1999; O'Connor,
+Berry, Weiss, Bush, & Sampson, 1997). Pathogenic beliefs
+also develop as a result of the child's compliance with paren-
+tal treatment and messages. Given their dependence and lack
+of prior experience, children are prone to believe that the
+treatment they receive from their parents is deserved. Finally,
+pathogenic beliefs are often perpetuated over generations as
+children identify unconsciously with certain behaviors, atti-
+tudes, and beliefs expressed by their parents, which are later
+transmitted to their own progeny.
+Control mastery theory further asserts that individuals
+come to therapy highly motivated to overcome the suffering
+derived from pathogenic beliefs and want to pursue their pre-
+ferred life goals. This guiding focus on the client's inherent
+motivation for health represents the mastery component of
+the theory and has a very hopeful and collaborative effect on
+treatment. Control mastery theory holds that, in the course of
+therapy, clients work to overcome their pathogenic beliefs
+primarily through a process of consciously and uncon-
+sciously testing their beliefs with the therapist. Testing of
+pathogenic beliefs is viewed as a fundamental activity in and
+out of therapy for adapting to one's interpersonal world and
+achieving personal goals.
+There are two types of testing. In transference testing, the
+client, initially in an unconscious fashion, behaves with the
+therapist as he or she responded to the caretakers involved
+with the original traumatization that led to the formation of
+pathogenic beliefs. The client is seen to be unconsciously
+hoping that the therapist will not repeat the traumatization. In
+the other primary form of testing, passive-into-active testing,
+clients switch roles and treat the therapist or others in the
+traumatizing ways they were treated in the development of
+their pathogenic beliefs. The unconscious goal of pas-
+sive-into-active testing is that the person being tested will not
+be traumatized and succumb to the same pathogenic beliefs,
+thus helping to overcome the client's beliefs by demonstrat-
+ing that such treatment is not deserved and by modeling vari-
+ous ways of coping with it.
+We believe that control mastery theory can be effectively
+reformulated as a critical constructivist approach to psycho-
+therapy. Critical constructivists take the postmodern position
+that we do not simply observe our world; we actively partici-
+pate in creating its meaning. In line with control mastery
+theory, critical constructivism emphasizes the centrality of
+subjective structures or schemas in fashioning the individu-
+al's adaptation to, and understanding of, various environ-
+mental realities (Dorpat & Miller, 1992; Lichtenberg, 1984;
+Slap & Saykin, 1983; Stern, 1985; Stolorow & Atwood,
+1979). Critical constructivists view the acquisition of these
+personal representations of reality as occurring through a
+social process of interaction with the environment (Mahoney,
+1991). This is fortuitous, from a clinical perspective, because
+it implies that these constructs are also amenable to change
+through a social process.
+We have used primarily the narrative therapy work of
+Michael White and David Epston (1990) in developing a
+methodology of change which is synergistic with a control
+mastery therapy, constructively conceived. Narrative therapy
+offers control mastery theory a new root metaphor: stories.
+Lieb and Auld 3
+This root metaphor generates a methodology of change that
+can vividly animate our control mastery work. The aim of
+narrative therapy is to focus on the person's unique story of
+their experience, realizing that his or her stories are construc-
+tions, and not universal or immutable truths. Each and every
+action is a "performance of meaning" (Bruner, 1986) that
+simultaneously re-authors past experience and frames subse-
+quent experience.
+Our model conceptualizes that the therapist is participat-
+ing, at any given moment, in one of three story lines that the
+client is telling about him/herself through their words and
+actions. One of these story lines is the problem story, which
+significantly limits the client's well-being. Participation in
+this pathogenic story, using control mastery language, is
+anti-plan and not helpful. In contrast, participation in the
+other two story lines is pro-plan and facilitates the attainment
+of the client's goals. The first of these pro-plan story engage-
+ments we call the deconstructive story of psychotherapy and
+the second we term the constructive story of psychotherapy.
+Control mastery theory provides a coherent and effective
+framework for deconstructing, or undermining, the client's
+pathogenic story, and we call on narrative techniques and
+tenets to further weaken its effect on the client. However,
+from our perspective, narrative therapy makes an even more
+important contribution to control mastery theory with its
+postmodern emphasis on the creative or constructive work of
+psychotherapy. We have found it extremely helpful to par-
+ticipate in our clients' constructions of their mastery stories,
+which can evolve as alternatives to their pathogenic beliefs/
+stories. It is our thesis that the limiting effect of pathogenic
+stories will lessen as we facilitate more preferred stories that
+are as elaborated and compelling as the pathogenic stories.
+While control mastery theory provides the compass, narra-
+tive therapy equips us with additional means to follow its
+direction.
+Assessment
+Our assessment protocol focuses on determining the extent
+to which the mastery story of emerging adulthood is evolv-
+ing in the family as evidenced by the interactions between
+the emerging adult and his or her parents. From this perspec-
+tive, it is important to understand what qualities are associ-
+ated with successful launching and placing presenting
+complaints in the context of their normative developmental
+baselines. This is a clinically important application ofArnett's
+(2000) assertion that emerging adulthood is a distinct life
+stage. In other words, if we do not know what is normal for
+this age, how can we determine what is pathological?
+Otherwise, we run the risk of treating normally developing
+young adults as if they were pathological and in so doing,
+iatrogenically increase family discord, heighten parental dis-
+tress, and create psychopathology in the young adult.
+Conversely, treating individuals who are developmentally
+delayed and suffering with mental health issues as if they
+were developing normally will only maintain or exacerbate
+the problem.
+While a certain level of instability is the norm at this age,
+there are certain individual and dyadic characteristics that are
+associated with the successful transition to adulthood and oth-
+ers that are associated with "separation-individuation pathol-
+ogy" (Kins et al., 2011). One key is the development of
+relational maturity (Aquilino, 2005; Nelson et al., 2007). We
+assess relational maturity by evaluating the extent to which
+there is a dynamic balance of autonomy coupled with a com-
+mensurate capacity to stay emotionally engaged with the par-
+ents (Baltes & Silverberg, 1994; Frank, Butler-Avery, &
+Laman, 1988; Grotevant & Cooper, 1986; Kins et al., 2011;
+Smollar & Youniss, 1989).Acompletely dismissive and disen-
+gaged relation to the parents is as strong an indicator of sepa-
+ration-individuation problems as is preoccupation with the
+parentsandover-dependency(Scharf,Mayseless,&Kivenson-
+Baron, 2004). In this regard, we assess the extent to which
+child and parent are creating a narrative of increasing symme-
+try and decreasing hierarchy in their relationship (Aquilino,
+1997; Grotevant & Cooper, 1986; Kins et al., 2009; Kins et al.,
+2011; Levy-Warren, 1999). We look for evidence that inde-
+pendence and interdependence are integrated, and a growing
+capacity to negotiate from more co-equal positions.
+One of the relational qualities that most clearly distin-
+guishes this phase of the life cycle from the previous adoles-
+cent phase is that the child is becoming increasingly aware of
+the capacity to influence his or her parents' well-being while
+the parents are increasingly more willing to be influenced
+and supported (Aquilino, 2005; Nydegger, 1991). Increased
+consideration of parental well-being represents a diminish-
+ment of egocentricity and sets the stage for later caregiving
+behavior (Aquilino, 2005; Badger, Nelson, & Barry, 2006).
+Therefore, we evaluate the young adult's capacity to empath-
+ically understand the parents' life experiences and needs
+from an independent point of view and not just as an exten-
+sion of their own wants and needs.
+In addition to assessing the emerging adult's relational
+maturity, we also are interested in evaluating the extent to
+which the emerging adult is capable of taking value-driven
+actions. We look for actions that express competence and self-
+direction as the primary motivators for moving forward in
+their lives (Moore, 1987; Ryan & Deci, 2000; Vansteenkiste,
+Williams, & Resnicow, 2012). We determine the extent to
+which the young adult is engaging in goal-setting and initiat-
+ing steps that are consistent with self-identified values. We
+inquire whether the young person is actively engaged in some
+process of intellectual development, regularly working or
+volunteering in an area of personal interest. Conversely, we
+evaluate whether the young adult's primary focus is on pas-
+sive pursuits or escapist entertainment that is inhibiting his or
+her ability to engage in adult-like challenges. Clearly addic-
+tion, which is prevalent in this population, impedes both the
+formation of relational maturity and the development of goal-
+directed behaviors based on autonomous values.
+4 SAGE Open
+We also assess through the lens of the family system.
+From this perspective, it is essential to evaluate the parents'
+attachment styles as manifested in their part of the relational
+equation. Relating to the emerging adult child from the
+standpoint of past parenting practices founded in adoles-
+cence is a recipe for disaster. We want to know if they are
+capable of bestowing their "blessing" on their child for
+becoming an adult (Blos, 1985). Can they empathically sup-
+port autonomy while remaining ready to provide emotional
+and, when appropriate, financial support?AsAquilino (2006)
+has stated, "In an ideal situation, parents are partners with
+their offspring in the quest for independence" (p. 201).
+Conversely, parental separation anxiety generates control-
+ling behaviors, which rob the young adult of the sense of
+autonomy and supplant it with compliance. It is imperative
+to assess the extent to which worry/intrusiveness and anger/
+rejection are dominant tones in the parents' relation to their
+emerging adult child.
+Finally, we assess the stability of the marital system and
+the level of schism between the parents, especially with
+regard to the parenting of their child. Instability and schism
+foster the pathogenic story that individuation-separation is
+an abandonment of the parents and creates unconscious guilt,
+which hobbles the emerging adult child. We need to know
+the family history of how the split developed and each par-
+ent's attachment history to determine the intergenerational
+contributions to the schism.
+Application of the Model
+Our approach is centered on changing the nature of the con-
+versation between parent and child. We continually seek to
+undermine pathogenic adult-to-adolescent conversational pat-
+terns and promote the enactment of adult-to-adult conversa-
+tions. We integrate control mastery theory and narrative
+therapy to change the conversation, not the people. This exter-
+nalizing shift (White & Epston, 1990) serves to depathologize
+the young adult in the parents' eyes, and more effectively sep-
+arates the young adult from their anachronistic adolescent
+identity. The shift to focusing on communication processes
+aligns the parents and child toward a common value: to have a
+more adult-to-adult relationship. We frame those instances
+when this is not happening, which is the majority of time in the
+beginning of treatment, as instances when the unfinished ado-
+lescent script is holding the family back. The richer we can
+make the alternative description, the more meaningful and
+sustainable the developmental progression. To this end, we
+vividly bring forward behaviors, thoughts, emotions, inten-
+tions, identities, and relationships through which the family is
+having influence over their problematic interactions and creat-
+ing new, developmentally appropriate patterns.
+Most commonly, we bifurcate treatment with one therapist
+seeing the young adult child and the other seeing the parents.
+However, there are times when we never meet the young
+adult, cases when we only see the young adult, and other
+instances when we "mix and match," including the young
+adult into some or all of the family sessions. In line with con-
+trol mastery theory, the approach is highly case specific. The
+decision of whom to work with is primarily based on how
+"stuck" the young adult is to his or her unfinished adolescent
+story. To the extent the young adult is fully oppressed by that
+story, for example with addiction issues, we opt to work with
+the parents; if that's less the case, then we work with the fam-
+ily. On the other hand, if the child is presenting more as an
+emerging adult then we actively promote that emerging qual-
+ity by choosing to see him or her individually. Along those
+lines, to the extent the young adult is developing adaptively,
+the emphasis is put on them to "take the lead" in constructing
+the family's emerging adult story.
+Parents tend to present for treatment with an enormous
+amount of worry and/or anger about their young adult child.
+Their worry emanates from a story that their child is inca-
+pacitated, which naturally calls for rescuing responses. From
+an attachment perspective, anything less is experienced as an
+act of abandonment. Over time, an under-functioning/over-
+functioning dynamic calcifies in the family. Operating from
+this narrative, it makes perfect sense that a parent would
+devote himself/herself to "fixing" their needy child, spend-
+ing hours on the Internet looking for jobs for their young
+adult, reminding them constantly to participate in the run-
+ning of the household, financially supporting them while
+they are engaged in no meaningful activities, or most cru-
+cially, allowing them to live at home when they are abusing
+drugs and/or abusive to the parents. Alternatively, the anger
+position emanates from a story of manipulation and defiance.
+This construction impels the parent to exercise their author-
+ity over their child, which only maintains a compliant-defi-
+ant interactional pattern. These parents feel punished by their
+child and adopt an authoritarian stance (Baumrind, 1966)
+focused on punishing their bad behavior, an extension of
+their adolescent parenting practices. However, the rub is that
+now they have very few "cards to play" other than to kick the
+child out of the house. In these cases, we see chronic, and, at
+times, violent conflict between parent and child.
+In our experience, worry and anger co-exist for the par-
+ents in these families. Unfortunately, the parents are almost
+always split across these two positions, and their conflicting
+views of the child gridlock their capacity to effectively par-
+ent and therefore perpetuate the developmental impasse in
+the young adult. However, underneath the marital schism,
+shared feelings of fear, guilt, and shame reflect a greater
+story of parental failure. The failure-based substrate of the
+parents' pathogenic story drives an explicit control agenda.
+The child must change for the parents to feel better about
+themselves. This context is not conducive for the child to
+emerge as a young adult.
+The Deconstructive Work
+Deconstructing content.The purpose of the deconstructive
+work of psychotherapy is to undermine the manifestations of
+the pathogenic story and its hold over the family. Like a
+Lieb and Auld 5
+literary critic, we seek to collapse the story on itself so that its
+participants increasingly experience its manifestations as
+dissonant, not who they are or want to be. The first step in
+undermining the hold of the pathogenic story is to help each
+member see how life-limiting these adult-to-adolescent
+interactions are. We deconstruct stories of despair in which
+parents view their child as incompetent and an object of
+worry with a powerful alternative thematic structure of altru-
+ism and nobility. For example, Haley's (1980) seminal book,
+Leaving Home, is replete with cases of young adults who
+handicap themselves to deflect attention away from their par-
+ents' unhappy marriages. In other words, the young adult's
+development is primarily inhibited by their concern that
+emancipation may hurt their parents and/or siblings. How-
+ever, in contrast to Haley's assumption that the family is
+invested in maintaining a homeostasis, we start with a more
+humanistic assumption. We believe these young adults and
+their parents want to achieve mastery over their difficulties.
+We also work to cultivate the parents' ability to generate
+their own counter-narratives and deconstruct pathogenic sto-
+ries. We have conceptualized this treatment component as
+teaching parents, to "think like a therapist and act like a par-
+ent." To accomplish this task, we use a psycho-educational
+approach that teaches them how to employ the control mas-
+tery theory plan formulation method (Curtis, Silberschatz,
+Sampson, & Weiss, 1994). As such, we work to promote an
+understanding of the young adult's behaviors as representing
+unconsciously planned efforts to test hypotheses about
+whether it is safe to grow up. Parents learn how to: identify
+their child's life values; the obstructions to realizing this
+value-based living; how those obstructions were developed;
+what tests their child is hoping the parents will pass to dis-
+confirm these hypotheses; what attitudes, behaviors, and dis-
+courses will pass these tests; and how their own family of
+origin experiences obstruct their capacity to act in a pro-plan
+manner.
+Deconstructing context.The cultural context is particularly
+germane for the deconstructive work with this population
+(Lieb & Kanofsky, 2003). Cultural prescriptions about what
+constitutes normal development at this stage of life are
+increasingly anachronistic, leaving families feeling lost and
+confused. Without a roadmap, parents pressure themselves,
+and each other, to coerce the young adult child into conform-
+ing to outdated cultural prescriptions of young adulthood.
+Under the critical gaze of the culture, these families are fail-
+ures, and so they feel and act like failures, demoralized and
+stuck. Of course, we, as therapists, can only be expert in our
+own local culture, aware of the ways its prescriptions oppress
+the individual or facilitate life satisfaction. In our local afflu-
+ent, high achieving culture, the bar that represents successful
+child-rearing is set very high and failure to conform to those
+standards can profoundly oppress and isolate the individual
+and family. Deconstructing this failure-soaked story into one
+in which the "culture is the culprit," not the child, is often
+key in fueling the family's capacity to construct a more adult-
+to-adult relationship. With families whose child is higher on
+the spectrum of emerging young adulthood, unmasking these
+oppressive cultural assumptions allows the family to take a
+common stand against their dictates and provides them the
+freedom to co-create their own path through this develop-
+mental phase.
+The Constructive Work
+Co-authoring new mastery stories means that parents and
+young adult children must actively participate in adult-to-
+adult conversations with each other. Often parents cannot
+recognize the non-dominant, hidden stories when the young
+adult is relating like an adult because they are so focused on
+the problem. Without witnessing this mastery story, progres-
+sive behavior never gets any traction. Our task is to bring
+forward these alternative narratives in the landscapes of con-
+sciousness and action.
+Taking the inward turn. We co-construct a new mastery story
+in a number of ways. To promote differentiation, we help
+the parents take an intrapersonal focus. The pull for parents
+to focus on and control the child's behavior is very strong
+and represents a continuation of earlier parenting practices
+that now function to retard development. Rather than coop-
+erating with the parents' presenting agenda to help them
+rectify their failures to "grow their child up," the patho-
+genic story, we encourage a focus on how to become less
+reactive to their own fear and guilt. Parents continually
+need to be re-directed to learn how to still themselves and
+hold their anxiety and guilt, and the narratives that generate
+these emotional states, with more psychological distance.
+The more emotionally differentiated the parents become,
+the more space there is for the young adult child to differ-
+entiate. Or as a client of ours once said, "My child can't
+launch unless I do."
+Fostering adult-to-adult interactions.Adult identity is nour-
+ished in every instance when members of the family, indi-
+vidually or collectively, demonstrate an adult-to-adult pattern
+of communication. It is important to note that we define
+mature attachment on an interactional basis, not as a property
+of the overall relationship. This dynamic definition of attach-
+ment and identity allows for the hallmark of the constructive
+work of psychotherapy: the focus on "unique outcomes"
+(White & Epston, 1990) or "sparkling moments" (Monk,
+Winslade, Crocket, & Epston, 1996). Whether we are con-
+ducting family therapy, individual therapy, or parent coun-
+seling, we are constantly trying to "catch" those instances
+when the young adult and parent are participating in more
+mature interactions. We ceaselessly highlight these occur-
+rences in the two previously described assessment catego-
+ries: relational maturity and goal-directed action based in
+autonomously held values.
+6 SAGE Open
+We actively scaffold adult identity by stimulating conver-
+sations that involve principled negotiation, which is based on
+accurate empathy of the other's interests and an appeal to the
+merits of one's interests (Fisher & Ury, 1981). In contrast,
+positional bargaining is descriptive of adolescent negotia-
+tions in which the primary goal is to fend off threats to auton-
+omy and exert as much control in the conflict as possible.
+Parents tend to counter with a hierarchical, power-based
+position. Unfortunately, these conversations gridlock the
+family during this developmental stage. The transformation
+to principled negotiation leads to autonomous relatedness
+and "learning conversations" (Stone, Patton, & Heen, 1999).
+To whatever extent the child defers to the parent's authority,
+we try to highlight those instances when this deferential posi-
+tion is expressed out of respect rather than compliance.
+Ideally, when parents involve themselves in their child's
+decisions, their involvement is invited, not enacted ex
+cathedra.
+Promoting self-authoring.The young adult is in a bind when
+held captive by the pathogenic story. The effort that is required
+to succeed in life is co-opted by the story that such effort is
+defined as an expression of compliance and represents a loss
+of autonomy. Therefore, we need to cultivate the adult child's
+capacity to "author their own story" (Lieb & Kanofsky, 2003),
+which is their ability to locate what they want their lives to
+stand for and then actively pursue a life course that harmo-
+nizes with these values. In our experience, there is a nascent
+spark of self-authoring in even the lowest functioning young
+adult. For instance, a young adult child with serious psychiat-
+ric illness assiduously practiced guitar and began playing at
+open mike nights. The parents of another young man only
+saw that he slept past noon every day and could not see that
+he was teaching himself computer programming. Our task is
+to kindle the spark of self-motivation.
+We often enrich the new description of the young adult
+through questions. Questions are used to create new mean-
+ing, not just to ascertain information (Freedman & Combs,
+1996). For example, we might wonder aloud how the guitar-
+playing young adult maintains such a rigorous and disci-
+plined schedule. What qualities and knowledge are called
+upon? What contributions did the parents make to the devel-
+opment of these attributes? How does a person favorably
+work with self-doubt? At the same time, from our middle-
+aged perspectives, we see the low probability of financial
+success with such an endeavor and do not deny the impor-
+tance of career development. In working directly with young
+adults, we utilize questions to create disequilibrium in their
+entitled adolescent story. How does financial dependence
+affect them? If they were writing a story, how would they
+write a character where passionate enterprises were not at
+odds with self-sufficiency? How would they engage their
+parents in that story?
+We also help parents actively promote their emerging
+adult child's self-directed, value-based goals. We formally
+train parents in motivational interviewing (Miller & Rollnick,
+2002) to enhance their emerging adult child's autonomous
+motivation, which appears to be an uncommon practice
+(Smeerdijk et al., 2012). We find that motivational interview-
+ing promotes a mastery conversation over a pathogenic one,
+and the conversation leads to changes at both a behavioral
+and identity level for parent and child.
+Setting boundaries versus setting limits.At the same time,
+autonomy support cannot be entirely permissive. Behavioral
+responses to the child's enactment of his or her pathogenic
+story must be established. However, by the time young adults
+have reached their twenties, parents do not have many "con-
+sequent cards" to play. Grounding a young adult would be as
+appropriate as giving poker chips to a teenager for positive
+behaviors. More importantly, giving consequences and set-
+ting limits only maintain the adult-to-adolescent conversa-
+tion. We do not favor abolishing the use of consequences, but
+we believe it is essential that there is a paradigmatic shift in
+the function of parental consequences. We want to change
+the parental paradigm from setting limits to constrain the
+child's maladaptive behavior to establishing boundaries to
+honor their own "right to a life" now that their child is an
+adult. This shift is an expression of a message that the quality
+of their lives matters; they are not just an extension of the
+young adult.
+Pushing out of the nest.The greatest challenge in treating
+young adults and their families is when the developmental
+process is not appreciably moved forward by the aforemen-
+tioned interventions. They are, essentially, "dying on the
+vine." In these cases, the only remaining measure is to offer
+the adult child a choice: either respect the parents' right to an
+adult-to-adult relationship or leave the home. The context for
+this action is its key to success. Done in anger, it is an act of
+rejection. In contrast, we want the difficult step of ending co-
+residence to represent a redefinition of attachment, not an act
+of abandonment.
+The most auspicious context for this dramatic inflection
+point in the family's life cycle is founded in the previously
+articulated components of the treatment model. Both parents
+are now aligned around this course of action. The anxious/
+worrying parent is capable of the internal work of tolerating
+their anxious images of a despairing child, and the angry par-
+ent is also able to "sit with" their discomfort and not act out
+of these states. Most importantly, we need to consistently
+reinforce that the parents are establishing their personal
+boundaries, not setting limits to control the behavior of the
+young adult. In line with the dictum to "think like a therapist
+and act like a parent," we try to help them see that their
+child's intractable stance is a form of passive-into-active
+testing. They will not pass this test by increasing their protec-
+tive actions, they will pass it by modeling that they can stand
+up to feelings of helplessness and exploitation by taking care
+of themselves, the same set of feelings the young adult is
+Lieb and Auld 7
+experiencing and unable to master. We believe the unfinished
+adolescent unconsciously wants their parents to demonstrate
+that they have a "right to a life" so they can claim this same
+right for themselves. The stance expresses the message that
+they want the young adult to emerge; they believe their child
+is capable, and they are rooting for him or her.
+The protocol we employ in these cases is fairly standard,
+but nuanced based on each family's case-specific profile. A
+number of factors must be taken into account for this inter-
+vention to be successful. Therapists need to assess the par-
+ents'capacity to tolerate anxiety, their financial situation, the
+young adult's level of impairment, and, of course, their risk
+for self-harm. It is very challenging to disentangle parental
+anxiety, manipulation, and real intent when the young adult
+is threatening self-harm if asked to leave. However, we can
+mitigate these circumstances by creating the contexts
+described above and by crafting safer solutions in which the
+young adult is living alone.
+For some families it is pro-plan to completely allow the
+young adult child to find his or her own alternatives to co-
+residence without providing any economic support. In other
+families, particularly when there are concerns, real or imag-
+ined, about potential for self-harm, it is pro-plan to initially
+subsidize this move on a time-limited basis. Of course, a cer-
+tain level of affluence is necessary to provide this kind of
+support, which is the case for much of the population we
+serve. Although such a move does not "fast track" the young
+adult forward as efficiently as simply asking them to leave, it
+does provide a softer landing and allows parents to sit with a
+tolerable level of anxiety and guilt. In cases where a pro-
+found mental health disturbance is present, parents must cali-
+brate their expectations to their child's ability, which we
+view as a form of narrative attunement.
+In fact, it is our experience that, under these softer condi-
+tions, all parties can tolerate, and even welcome, this move.
+Parents should not provide any more than the essentials and
+this financial support should either be paid directly, like the
+rent, or given as food or public transportation cards so that
+the young adult, who is often addicted, does not have the
+cash to buy drugs. Still, living alone allows young adults to
+directly experience the natural consequences of their devel-
+opmental impasse outside of the static of the oppositional/
+control struggles that have occluded that reality. Removed
+from the family home, they are better able to appreciate the
+unviability of their lifestyle and that they are not living rich,
+value-based lives. Over time, usually a few months, we
+advise the parents to retract their financial support and
+increase expectations that the young adult become finan-
+cially self-sufficient. In this way we scaffold the process.
+Throughout this period of time, it is important that the
+parents maintain their side of the adult-to-adult conversation.
+We encourage them to express a "revolving door policy," in
+which they state the young adult child is welcome to live in
+the home contingent on the young adult's ability to engage
+more fully in adult-to-adult conversations and interactions.
+Evidence that this is the case comes from the quality of the
+interactions as well as their actions. We advise parents to
+calibrate the extent to which they reach out to the child based
+on the response they get back. If the young adult continues to
+respond with angry defiance, we believe he or she is coach-
+ing the parents that parental nurturance cannot be accepted
+without the young adult feeling dependent and anxious about
+the relationship. In this way, we try to set up a "win-win"
+situation in which the young adult is either emerging or is
+increasingly dystonic with their limited life and asking for
+help in a healthy way.
+Conclusion
+Eighteen- to twenty-nine-year-olds are increasingly deciding
+to live with their family of origin rather than set up indepen-
+dent households. The road to young adulthood is becoming
+less a straightforward path toward independence and more a
+"circular migration" (Goldscheider & Goldscheider, 1999)
+as evidenced by the fact that the number of adult children
+living at home after high school graduation has swelled in
+the last generation. Roughly one quarter of adult children
+between 20 and 34 years of age now live with their parents,
+an increase of 7% in just the last 30 years (Qian, 2012).
+Furthermore, this demographic shift may only be the first
+wave of this trend as the Baby Boomers' 71 million children
+reach young adulthood. In fact, this increased rate of co-
+residence is twice as great in the younger range of that age
+group with roughly half living at home for at least some
+period of time after high school and almost a quarter living at
+home for more than a year (Payne, 2012).
+Incompletely launched emerging adults and the resulting
+"cluttered nest" (Boyd & Pryor, 1989) in the family have
+received much attention in professional journals as well as in
+the popular culture. However, contrary to its depiction in
+movies, the effect of co-residence on the mental health of
+emerging adults appears not to be uniformly negative. For
+some, co-residence seems to be beneficial and is associated
+with less distress compared with emerging adults who con-
+form to traditional expectations of in-time leaving (Lanz &
+Tagliabue, 2007; Seiffge-Krenke, 2006). Certainly, co-resi-
+dence provides financial benefits during current economic
+conditions that seem to particularly disfavor employment
+opportunities for young adults.
+This adaptation works for those whose decision is
+largely driven by financial considerations. For others, how-
+ever, it seems to represent an impasse or delay on the devel-
+opmental track of separation-individuation. In those
+instances where we assess the primary problem is that the
+individual is not living up to anachronistic cultural specifi-
+cations, we need to disabuse parents of their worry. Their
+pathologizing story of their 20-something child, which is
+causing them such distress, needs to be revised to allow
+them to engage their young adult child as an adult, not an
+object of worry.
+8 SAGE Open
+More problematic are those cases in which separation-
+individuation pathology is central to the decision to not leave
+home. In these cases, the young adult and his or her parents
+are struggling to develop a new level of relational maturity
+with each other. They are stuck in their old and familiar ado-
+lescent patterns. These unfinished adolescents are having
+difficulty becoming self-directed and orienting their devel-
+opmental course toward autonomous, as opposed to parent-
+controlled, values. Like a set of cogwheels, their parents
+participate in this dysfunctional pattern by intensifying their
+control-based parenting, which manifests as extreme worry
+and/or anger. Together, at its extreme, this dynamic creates a
+clinical nightmare.
+The purpose of this article has been to provide working
+clinicians, such as ourselves, with a roadmap showing them
+how to effectively work with this challenging, and clearly
+at-risk clinical population. Our local expertise is with the
+community we serve, which is largely affluent and White.
+However, we believe these treatment principles can be
+applied regardless of the specific cultural context in which
+young adulthood is being defined as long as the therapist is
+facilitating pro-plan conversations that move the individual
+and family into a developmental narrative that works in that
+culture. Depending where the young adult is on the develop-
+mental spectrum, we work with him or her individually, the
+parents, or the family. Regardless of who is in the room, we
+apply a theoretical model called constructivist control mas-
+tery theory, which integrates a psychodynamic approach
+with narrative therapy. Our treatment approach focuses on
+targeting the conversation, not the individuals, for change.
+Our therapeutic tasks are based on the assumption that iden-
+tity is socially constructed and fluid. Therefore, we seek to
+deconstruct, or collapse, the unviable elements of the narra-
+tive that maintain adolescent identity and construct, or catch,
+the emerging adult story of relational maturity and autono-
+mous, goal-directed action. Our efforts are geared toward
+enriching mastery-oriented interactions, behaviors, thoughts,
+emotions, intentions, identities, and relationships that com-
+prise the successful resolution of the developmental stage of
+emerging adulthood. We believe our approach provides a
+developmentally tailored intervention for the effective treat-
+ment of co-residing emerging adults.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research and/or
+authorship of this article.
+References
+Allen, J. P., Hauser, S. T., Eickholt, C., Bell, K. L., & O'Connor, T.
+G. (1994). Autonomy and relatedness in family interactions as
+predictors of expressions of negative adolescent affect. Journal
+of Research on Adolescence, 4, 535-552.
+Aquilino, W. S. (1997). From adolescent to young adult: A pro-
+spective study of parent-child relations during the transition to
+adulthood. Journal of Marriage and Family, 59, 670-686.
+Aquilino, W. S. (2005). Impact of family structure on parental
+attitudes toward the economic support of adult children over
+the transition to adulthood. Journal of Family Issues, 26,
+143-167.
+Aquilino, W. S. (2006). Family relationships and support systems in
+emerging adulthood. In J. Arnett & J. Tanner (Eds.), Emerging
+adults in America: Coming of age in the 21st century (pp. 193-
+217). Washington, DC: American Psychological Association.
+Arnett, J. J. (2000). Emerging adulthood: A theory of develop-
+ment from the late teens through the twenties. American
+Psychologist, 55, 469-480.
+Badger, S., Nelson, L. J., & Barry, C. M. (2006). Perceptions of the
+transitions to adulthood among Chinese and American emerg-
+ing adults. International Journal of Behavioral Development,
+30, 84-93.
+Baltes, M. M., & Silverberg, S. B. (1994). The dynamics between
+dependency and autonomy: Illustrations across the life span. In
+D. L. Featherman, R. M. Lerner, & M. Perlmutter (Eds.), Life-
+span development and behavior (Vol. 12, pp. 41-90). Hillsdale,
+NJ: Lawrence Erlbaum.
+Baumrind, D. (1966). Effects of authoritative parental control on
+child behavior. Child Development, 37, 887-907.
+Beebe, B., Lachmann, F., & Jaffe, J. (1998). Mother-infant interac-
+tion structures and presymbolic self and object representations.
+Psychoanalytic Dialogues, 7, 133-182.
+Blanco, C., Okuda, M., Wright, C., Hasin, D. S., Grant, B. F.,
+Liu, S., & Olfson, M. (2008). Mental health of college stu-
+dents and their non-college-attending peers: Results from the
+national epidemiologic study on alcohol and related conditions.
+Archives of General Psychiatry, 65, 1429-1437.
+Blos, P. (1985). Son and father: Before and beyond the Oedipus
+complex. New York, NY: Free Press.
+Bowlby, J. (1988). A secure base: Parent-child attachment and
+healthy human development. New York, NY: Basic Books.
+Boyd, M., & Pryor, E. T. (1989). The cluttered nest: The living
+arrangements of young Canadian adults. Canadian Journal of
+Sociology, 14, 461-477.
+Bruner, J. (1986). Actual minds, possible worlds. Cambridge, MA:
+Harvard University Press.
+Cox, K., & McAdams, D. P. (2012). The transforming self: Service
+narratives and identity change in emerging adulthood. Journal
+of Adolescent Research, 27, 18-43.
+Curtis, J., Silberschatz, G., Sampson, H., & Weiss, J. (1994).
+The plan formulation method. Psychotherapy Research, 4,
+197-207.
+Dorpat, T. L., & Miller, M. L. (1992). Clinical interaction and the
+analysis of meaning: A new psychoanalytic theory. Hillsdale,
+NJ: Analytic Press.
+Fisher, R., & Ury, W. (1981). Getting to yes: Negotiating agree-
+ment without giving in. New York, NY: Houghton Mifflin.
+Frank, S. J., Butler-Avery, C. B., & Laman, M. S. (1988). Young
+adults' perceptions of their relationships with their parents:
+Individual differences in connectedness, competence and emo-
+tional autonomy. Developmental Psychology, 24, 729-737.
+Lieb and Auld 9
+Freedman, J., & Combs, G. (1996). Narrative therapy: The social
+construction of preferred realities. New York, NY: W.W.
+Norton.
+Freud, S. (1926). Inhibitions, symptoms and anxiety. In J. Strachey
+(Ed. & Trans.), The standard edition of the complete psycho-
+logical works of Sigmund Freud (Vol. 20, pp. 77-175). London,
+England: Hogarth Press.
+Goldscheider, F., & Goldscheider, C. (1999). The changing tran-
+sition to adulthood: Leaving and returning home. Thousand
+Oaks, CA: SAGE.
+Gopnik, A., Kuhl, P., & Meltzoff, A. (1999). The scientist in the
+crib: Minds, brains and how children learn. New York, NY:
+Guilford Press.
+Grotevant, H. D., & Cooper, C. R. (1986). Individuation in fam-
+ily relationships: A perspective on individual differences in the
+development of identity and role-taking skill in adolescence.
+Human Development, 29, 82-100.
+Habermas, T., & Bluck, S. (2000). Getting a life: The emergence
+of the life story on adolescence. Psychological Bulletin, 126,
+748-769.
+Haley, J. (1980). Leaving home: The therapy of disturbed young
+people. New York, NY: McGraw-Hill Book.
+Kanofsky, S., & Lieb, R. J. (2007). Control mastery theory and
+family therapy. Psychotherapy: Theory, Research, Practice,
+Training, 44, 316-332.
+Kins, E., Beyers, W., Soenens, B., & Vansteenkiste, M. (2009).
+Patterns of home leaving and subjective well-being in emerg-
+ing adulthood: The role of motivational processes and parental
+autonomy support. Developmental Psychology, 45, 1416-1429.
+Kins, E., Soenens, B., & Beyers, W. (2011). "Why do they have
+to grow up so fast?" Parental separation anxiety and emerg-
+ing adults' pathology of separation-individuation. Journal of
+Clinical Psychology, 67, 647-664.
+Lanz, M., & Tagliabue, S. (2007). Do I really need someone in
+order to become an adult? Romantic relationships during
+emerging adulthood in Italy. Journal of Adolescent Research,
+22, 531-549.
+Levy-Warren, M. H. (1999). I am, you are, and so are we: A cur-
+rent perspective on adolescent separation-individuation theory.
+In A. H. Esman, L. T. Flaherty, & H. A. Horowitz (Eds.),
+Adolescent psychiatry, Developmental and clinical studies
+(pp. 3-24). Hillsdale, NJ: Analytic Press.
+Lichtenberg, J. (1984). Psychoanalysis and infant research.
+Hillsdale, NJ: Analytic Press.
+Lieb, R. J., & Kanofsky, S. (2003). Toward a constructivist con-
+trol mastery theory: An integration with narrative therapy.
+Psychotherapy: Theory, Research, Practice, Training, 40,
+187-202.
+Mahoney, M. J. (1991). Human chance processes. New York, NY:
+Basic Books.
+McAdams, D. P., Albaugh, M., Farber, E., Daniels, J., Logan, R.
+L., & Olson, B. (2008). Family metaphors and moral intuitions:
+How conservatives and liberals narrate their lives. Journal of
+Personality and Social Psychology, 95, 978-990.
+McLean, K. C. (2005). Late adolescent identity development:
+Narrative meaning-making and memory telling. Developmental
+Psychology, 41, 683-691.
+McLean, K. C., & Mansfield, C. D. (2012). The co-construction
+of adolescent narrative identity: Narrative processing as a
+function of adolescent age, gender, and maternal scaffolding.
+Developmental Psychology, 48, 436-447.
+Miller, W. R., & Rollnick, S. (2002). Motivational interview-
+ing: Preparing people for change (2nd ed.). New York, NY:
+Guilford Press.
+Monk, G., Winslade, J., Crocket, K., & Epston, D. (1996). Narrative
+therapy in practice. San Francisco, CA: Jossey-Bass.
+Moore, D. (1987). Parent-adolescent separation: The construction
+of adulthood by late adolescents. Developmental Psychology,
+23, 298-307.
+Nelson, L. J., Padilla-Walker, L. M., Carroll, J. S., Barry, C. M.,
+Madsen, S. D., & Badger, S. (2007). "If you want me to treat
+you like an adult, start acting like one!" Comparing the crite-
+ria that emerging adults and their parents have for adulthood.
+Journal of Family Psychology, 21, 665-674.
+Nydegger, C. (1991). The development of the paternal and filial
+maturity. In K. Pillemer & K. McCartney (Eds.), Parent-child
+relations throughout life (pp. 93-112). Hillsdale, NJ: Lawrence
+Erlbaum.
+O'Connor, L. E., Berry, J. W., & Weiss, J. (1999). Interpersonal
+guilt, shame, and psychological problems. Journal of Social &
+Clinical Psychology, 18, 181-203.
+O'Connor, L. E., Berry, J. W., Weiss, J., Bush, M., & Sampson,
+H. (1997). Interpersonal guilt: Development of a new measure.
+Journal of Clinical Psychology, 53, 73-89.
+Payne, K. K. (2012). Young adults in the parental home, 1940-2010.
+National Center for Family and Marriage Research. Retrieved
+from http://ncfmr.bgsu.edu/pdf/family_profiles/file122548.pdf
+Qian, Z. (2012, August). During the great recession, more young
+adultslivedwithparents(US2010Project).Retrievedfromhttp://
+www.s4.brown.edu/us2010/Data/Report/report08012012.
+pdf
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and
+the facilitation of intrinsic motivation, social development, and
+well-being. American Psychologist, 55, 68-78.
+Sachs, B. (2013). Family-centered treatment with struggling young
+adults: A clinician's guide to the transition from adolescence
+to autonomy. New York, NY: Rutledge.
+Scharf, M., Mayseless, O., & Kivenson-Baron, I. (2004).
+Adolescents' attachment representations and developmental
+tasks in emerging adulthood. Developmental Psychology, 40,
+430-444.
+Schor, A. (1997). Interdisciplinary developmental research as a
+source of clinical models. In M. Markowitz, C. Monk, C. Kaye,
+& S. Elman (Eds.), The neurobiological and developmental
+basis for psychotherapeutic intervention (pp. 1-71). Northvale,
+NJ: Jason Aronson.
+Seiffge-Krenke, I. (2006). Leaving home or still in the nest? Parent-
+child relationships and psychological health as predictors of
+different leaving home patterns. Developmental Psychology,
+42, 864-876.
+Slap, J. W., & Saykin, A. J. (1983). The schema: Basic concepts in
+a non-metapsychological model of the mind. Psychoanalysis
+and Contemporary Thought, 6, 305-325.
+Smeerdijk, M., Keet, R., Dekker, N., van Raaij, B., Krikke, M.,
+Koeter, M., . . .Linszen, D. (2012). Motivational interviewing
+and interaction skills training for parents to change cannabis
+use in young adults with recent-onset schizophrenia: A ran-
+domized controlled trial. Psychological Medicine, 42, 1627-
+1636.
+Smollar, J., & Youniss, J. (1989). Transformations in adolescents'
+perceptions of parents. International Journal of Behavioral
+Development, 12, 71-84.
+10 SAGE Open
+Stern, D. N. (1985). The interpersonal world of the infant: A view
+from psychoanalysis and developmental psychology. New
+York, NY: Basic Books.
+Stolorow, R. D., & Atwood, G. E. (1979). Faces in a cloud.
+Northvale, NJ: Jason Aronson.
+Stone, D., Patton, B., & Heen, S. (1999). Difficult conversa-
+tions: How to discuss what matters most. New York, NY:
+Penguin.
+Vansteenkiste, M., Williams, G. C., & Resnicow, K. (2012).
+Toward systematic integration between self-determina-
+tion theory and motivational interviewing as examples
+of top-down and bottom-up intervention development:
+Autonomy or volition as a fundamental theoretical principle.
+International Journal of Behavioral Nutrition and Physical
+Activity, 9, Article 23. Retrieved from http://www.ijbnpa.org/
+content/9/1/23
+Weiss, J., Sampson, H., & The Mount Zion Psychotherapy Research
+Group. (1986). The psychoanalytic process: Theory, clinical obser-
+vations and empirical research. New York, NY: Guilford Press.
+White, M., & Epston, D. (1990). Narrative means to therapeutic
+ends. New York, NY: W.W. Norton.
+Author Biographies
+Robert J. Lieb is a founding partner of Pacific Psycare Associates,
+a multi-disciplinary psychotherapy group and a member of the San
+Francisco Psychotherapy Research Group. He is a frequent lecturer
+on substance abuse, stress and control mastery theory.
+W. David Auld is in private practice in San Francisco and San
+Mateo, specializing in adolescent and family psychotherapy. He is
+a former trustee and long-term member of the San Francisco
+Psychotherapy Research Group.
+

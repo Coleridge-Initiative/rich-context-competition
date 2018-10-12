@@ -1,0 +1,562 @@
+ORIGINAL RESEARCH
+Capitated Payments to Primary Care Providers
+and the Delivery of Patient Education
+William S. Pearson, PhD, MHA, Dana E. King, MD, MS,
+and Chesley Richards, MD, MPH
+Introduction: Patient education is a critical component of the patient-centered medical home and is a
+powerful and effective tool in chronic disease management. However, little is known about the effect of
+practice payment on rates of patient education during office encounters.
+Methods: For this study we took data from the 2009 National Ambulatory Medical Care Survey. This
+was a cross-sectional analysis of patient visits to primary care providers to determine whether practice
+payment in the form of capitated payments is associated within patient education being included more
+frequently during office visits compared with other payment methods.
+Results: In a sample size of 9863 visits in which capitation status was available and the provider was
+the patient's primary care provider, the weighted percentages of visits including patient education were
+measured as a percentages of education (95% confidence intervals): <25% capitation, 42.7% (38.3­
+47.3); 26% to 50% capitation, 37.6% (23.5­54.2); 51% to 75% capitation, 38.4% (28.1­49.8); >75%
+capitation, 74.0% (52.2­88.1). In an adjusted logistic model controlling for new patients (yes/no),
+number of chronic conditions, number of medications managed, number of previous visits within the
+year, and age and sex of the patients, the odds of receiving education were reported as odds ratios
+(95% confidence intervals): <25% capitation, 1.00 (1.00­1.00); 26% to 50% capitation, 0.77 (0.38­
+1.58); 51% to 75% capitation, 0.81 (0.53­1.25); and >75% capitation, 3.38 (1.23­9.30).
+Conclusions: Patients are more likely to receive education if their primary care providers receive
+primarily capitated payment. This association is generally important for health policymakers construct-
+ing payment strategies for patient populations who would most benefit from interventions that incorpo-
+rate or depend on patient education, such as populations requiring management of chronic diseases.
+(J Am Board Fam Med 2013;26:350­355.)
+Keywords: Capitation Fee, Delivery of Health Care, Patient Education, Primary Health Care
+Patient education is an important tool for physicians in
+preventing the deterioration of health due to illness and
+for promoting healthy lifestyle choices.1 Multiple studies
+have examined interventions involving patient educa-
+tion, including several emphasizing shared decision
+making.2 Benefits of greater patient education include
+improved use of value-based choices, improved patient-
+practitioner communication, increased involvement of
+the patient in decision making, and improved knowl-
+edge and realistic perception of outcomes.3 For example,
+a nurse-led intervention to educate patients regarding
+nonpharmacologic strategies to reduce gastroesophageal
+reflux demonstrated reduced patient symptoms4; simi-
+larly, a patient education program to promote exercise
+resulted in greater exercise tolerance and fewer costs for
+patients with chronic obstructive pulmonary disease.5
+Numerous payment structures, including tradi-
+tional fee for service, risk-adjusted pay for perfor-
+mance, capitation, and bundled payments, have
+This article was externally peer reviewed.
+Submitted 13 November 2012; revised 10 January 2013;
+accepted 20 January 2013.
+From the Office of Prevention through Healthcare, Cen-
+ters for Disease Control and Prevention, Atlanta, GA (WSP,
+CR); the Department of Health Services, Policy and Man-
+agement, University of South Carolina, Columbia (WSP);
+and the Department of Family Medicine, West Virginia
+University, Morgantown (DEK).
+Funding: none.
+Disclaimer: The views presented in this article are those of
+the authors and do not necessarily represent the views of the
+Centers for Disease Control and Prevention.
+Conflict of interest: none declared.
+Corresponding author: William S. Pearson, PhD, Office
+of Prevention through Healthcare, Office of the Associate
+Director for Policy, Centers for Disease Control and
+Prevention, 1600 Clifton Road, Atlanta, GA 30333
+(E-mail: Wpearson@cdc.gov).
+350 JABFM July­August 2013 Vol. 26 No. 4 http://www.jabfm.org
+been discussed by health services researchers with
+regard to their impact on the quality of care deliv-
+ered to patients.6,7 Recent calls for increased qual-
+ity of care and reduced cost of care at a population
+level have focused on the redesign of primary
+care.8 Because of the accelerating interest in pay-
+ment reform and accountable care organizations,
+there has been renewed interest in the effect of
+population-based capitated payment on quality
+of care.9
+Previous work has shown that there are differ-
+ences in quality of primary care when comparing
+traditional fee-for-service payment arrangements
+to capitated payment systems.10 It is understood
+that capitated payment systems have significant ef-
+fects on how physicians deliver care11 and how
+patients trust their physicians.12 However, the ef-
+fect of capitated payment structures on the provi-
+sion of patient education in particular has not been
+fully elucidated in the literature.
+Therefore, we examined the association between
+the proportion of revenue received through capita-
+tion within a given practice and the proportion of
+patient visits indicating patient education was pro-
+vided during the visit. We hypothesized that prac-
+tices with higher levels of capitated payments
+would more often include patient education as part
+of a primary care outpatient visit.
+Methods
+We took the data for this study from the 2009
+National Ambulatory Medical Care Survey, a na-
+tionally representative survey of office visits made
+to non-federally employed physicians in private of-
+fices and community health centers throughout the
+United States. The Centers for Disease Control and
+Prevention's National Center for Health Care Statistics
+conducts this survey annually, and it is exempt from
+approval by the Centers for Disease Control and Pre-
+vention's institutional review board.
+The survey employs a multistage probability de-
+sign that accounts for 3 stages of probability sam-
+pling--geographic primary sampling units, physi-
+cian practices within the primary sampling units,
+and patient visits within the physician practices--to
+produce weighted national estimates of office visits.
+Office personnel use collection forms provided by
+the survey to obtain information about the visits,
+including patient demographics, medical condi-
+tions, treatments and medications ordered or pro-
+vided at the time of the visit, as well as other
+office-related information, during a 1-week sam-
+pling period.13
+This study entailed a cross-sectional analysis
+of data collected from visits where the provider
+identified themselves as the patient's primary
+care provider. Among these visits, levels of cap-
+itation for the practice were collected via a vari-
+able within the dataset that featured 4 levels of
+capitation: 25%, 26% to 50%, 51% to 75%,
+and 75%. These levels of capitation were prede-
+termined in the survey and a continuous measure of
+capitation was not available. Patient education was
+determined through a yes/no response to a question
+asking whether patient education was either provided
+or ordered at the time of the visit. Further informa-
+tion about the visit that was collected included
+the patient's age and sex, whether the patient had
+been seen before by the practice, the number of
+visits made by the patient to the practice within
+the past 12 months, the number of chronic con-
+ditions mentioned during the visit, the number of
+medications managed during the visit, and the
+expected source of payment for the visit. Own-
+ership of the practice was a variable available
+within the dataset and included health mainte-
+nance organization (HMO) as an option. How-
+ever, analysis of this variable found that 2% of
+the total number of sampled visits met this def-
+inition. More than 75% of all sampled visits were
+made to a practice that was owned by a physician
+or physician group. Therefore, it was not possi-
+ble to stratify ownership type by levels of revenue
+capitation because of the small sample size.
+The total sample size used for analyses was 9863
+patient visits. Initially, we used univariate descrip-
+tive analyses to demonstrate a general characteriza-
+tion of the sample. We then conducted bivariate
+analyses using 2 tests to determine significant dif-
+ferences in patient education across the different
+levels of practice capitation. Finally, we used a
+logistic regression model to test differences among
+the different levels of practice capitation while tak-
+ing into account other characteristics of the visits
+(mentioned earlier). All analyses were conducted
+using SUDAAN software (RTI International, Re-
+search Triangle Park, NC; available at http://
+www.rti.org/sudaan/) to account for the complex
+sampling design of the survey and to produce na-
+tional estimates.
+doi: 10.3122/jabfm.2013.04.120301 Payments to Providers and the Delivery of Patient Education 351
+Results
+The sample used in these analyses represented an
+estimated total of nearly 390 million patient visits.
+The vast majority (347.1 million) were visits to
+practices that had a rate of capitated payment
+25%, representing approximately 89% of the to-
+tal sample. Visits to practices with capitation rates
+of 25% to 50% represented nearly 4% of the sam-
+ple, visits to practices with capitation rates of 51%­
+75% represented nearly 5% of the sample, and
+visits to practices with capitation rates of 75%
+represented nearly 2% of the sample. Across the
+different levels of capitation there were no signifi-
+cant differences in the average age of patients seen,
+the percentage of female patients seen, the average
+number of chronic illnesses being managed, the
+average number of medications being managed, the
+percentage of visits by established patients, the av-
+erage number of visits by the patients within the
+past 12 months, or the percentage of visits where
+the expected primary source of payment was either
+Medicare or private insurance (Table 1).
+When we examined the percentage of visits
+where patient education was either ordered or de-
+livered at the time of the visit, again, we found no
+significant differences across the different levels of
+capitation. We found that among visits to practices
+that received 75% of their revenue from capita-
+tion, a larger proportion of visits had patient edu-
+cation involved compared with the proportion of
+visits to practices with lower levels of capitation.
+However, this proportion was not significantly
+higher (Table 2).
+The relationship between patient education and
+levels of practice capitation was more fully eluci-
+dated using logistic regression models. In an unad-
+justed model where practices receiving less than
+25% of their revenue from capitation was set as the
+reference, visits to practices with 75% capitation
+were nearly 4 times as likely to have patient edu-
+cation associated with the visit (odds ratio, 3.81;
+95% confidence interval, 1.44­10.09). This effect
+was somewhat attenuated in a fully adjusted model
+controlling for patient age and sex, whether the
+patient was established in the practice, the number
+of visits made to the practice within the past 12
+months by the patient, the number of chronic ill-
+nesses being managed, the number of medications
+being managed, and expected payment source for
+the visit. Even so, these visits were more than 3
+times as likely (odds ratio 3.38; 95% confidence
+interval, 1.23­9.30) to involve patient education
+(Table 3).
+Table 1. Visit Characteristics (n  9863) by Levels of Practice Capitation
+Visit Characteristics
+Levels of Capitated Payments
+25% 25­50% 51­75% 75%
+Visits (n) 8584 582 537 160
+Weighted n (in millions) 347.1 15.2 19.4 7.1
+Mean age of patients, years 42.6 (39.6­45.5) 39.0 (26.6­51.4) 31.1 (9.5­52.6) 40.0 (24.0­55.9)
+Female (%) 57.4 (55.4­59.4) 46.7 (39.2­54.4) 56.8 (48.1­65.1) 67.0 (57.7­75.2)
+Mean visits in past 12 months 4.8 (4.5­5.1) 4.4 (3.7­5.1) 4.8 (3.1­6.5) 3.7 (3.0­4.5)
+Mean chronic illnesses managed 1.4 (1.2­1.5) 1.4 (0.8­2.0) 1.2 (0.1­2.3) 1.7 (0.9­2.4)
+Mean medications managed 2.9 (2.6­3.2) 2.7 (2.0­3.3) 2.5 (1.2­3.9) 2.8 (2.0­3.6)
+Patients seen before in the practice 97.0 (96.4­97.6) 96.2 (92.9­98.0) 97.4 (97.4­98.8) 93.8 (87.1­97.1)
+Medicare/private insurance as expected
+source of payment
+83.0 (78.8­86.5) 83.2 (67.9­92.0) 58.7 (32.6­86.7) 79.4 (56.0­90.2)
+Values are percentage estimates (95% confidence intervals) unless otherwise indicated. Data are taken from the 2009 National
+Ambulatory Medical Care Survey.
+Table 2. Percentage Estimates of Visits With Patient
+Education (n  9863) by Level of Practice Capitation*
+Level of Practice Capitation (%)
+Visits With Patient
+Education
+25 42.7 (38.3­47.3)
+25­50 37.6 (23.5­54.2)
+51­75 38.4 (28.1­49.8)
+75 74.0 (52.2­88.1)
+Values are percentage estimates (95% confidence intervals).
+Data are taken from the 2009 National Ambulatory Medical
+Care Survey.
+*P  .18, 2 test.
+352 JABFM July­August 2013 Vol. 26 No. 4 http://www.jabfm.org
+Discussion
+Our analyses suggest that capitated payments are
+associated with increased delivery of health educa-
+tion to patients in a primary care setting. There are
+a couple of possible explanations for this finding,
+the first being the focus on prevention as a cost
+reduction strategy in a managed care environment.
+It is possible that patient education is provided as a
+means of giving the patient more information on
+how to manage chronic conditions before they be-
+come acute and require more costly emergency
+care. Another possible explanation of this finding
+may be that there is a reduced focus on patient
+volume in a capitated environment compared with
+a fee-for-service environment. However, it is not
+possible to determine the plausibility of either of
+these explanations because of the lack of more de-
+tailed data on practice characteristics such as own-
+ership of the practice. However, our data does
+provide a preliminary snapshot of national differ-
+ences in the provision of patient education, which is
+a proven tool in the management of chronic health
+conditions, by levels of revenue received through
+capitation within a practice.
+As health care reform unfolds and discussions on
+compensation strategies evolve, one method of re-
+imbursement that is beginning to gain greater trac-
+tion is capitated payments. Researchers have hy-
+pothesized that these capitated payments not only
+will reduce overall treatment costs in the long run,
+but that they are an incentive to provide care that
+will help reduce many unnecessary treatments in
+the short term and replace these treatments with
+more long-term solutions to good health, such as
+education about living a healthy lifestyle and self-
+management of chronic disease.
+Previous work has examined the effects of capi-
+tated payments on the delivery of services in a
+primary care setting. One such study examined the
+relationship between the level of managed care
+penetration within a practice and treatment behav-
+ior by physicians across patients.14 Those authors
+found that in practices where there are varied pay-
+ment sources, duration of the visit across patients,
+all with varied payment sources, remains constant
+as managed care penetration increases within the
+practice. However, in these same practices, among
+patients who fall under a capitated payment system,
+the number of medications prescribed during the
+visit drops. The authors concluded that changes in
+payment methods can change physician behaviors
+and that physicians adopt a treatment style that
+delivers similar treatment intensity to all patients
+regardless of payment source.
+Another similar study by Landon and col-
+leagues15 found that physicians who were in a
+highly capitated environment had lower total costs
+for patients covered under capitation and the in-
+tensity of care for these patients also was lower.
+These authors suggest that capitation is a strong
+incentive against providing additional services.
+However, there was no mention of the provision of
+health education, which could be a factor in con-
+trolling costly chronic conditions.
+Recent work has examined multiple variations in
+primary care reimbursement, including full capita-
+tion as well as pay-for-performance models. How-
+ever, critics of these models have pointed out that
+many of the proposed payment mechanisms fall
+short of fairly compensating primary care physi-
+cians for the complex management of multiple
+chronic diseases. Bereneson and Rich16 noted that
+as the public health care system begins to rely more
+heavily on primary care, extensive changes to the
+way primary care physicians are reimbursed for
+their work are necessary. Berenson and Rich17 go
+on to propose numerous payment plans combining
+traditional fee-for-service reimbursement with per-
+patient, per-month capitation payments that sup-
+Table 3. Logistic Regression Models Demonstrating
+the Likelihood of Patient Education by Level of
+Practice Capitation
+Level of Practice
+Capitation (%)  Odds Ratio
+95% Confidence
+Interval
+Unadjusted model
+75 1.34 3.81 1.44­10.09
+50­75 0.18 0.83 0.50­1.38
+25­50 0.21 0.81 0.40­1.62
+25 Reference Reference Reference
+Adjusted model*
+75 1.22 3.38 1.23­9.30
+50­75 0.21 0.81 0.53­1.25
+25­50 0.26 0.77 0.38­1.58
+25 Reference Reference Reference
+Total visits, n  9863. Data are taken from the 2009 National
+Ambulatory Medical Care Survey.
+*Controlling for age and sex of patient, whether patient has been
+seen in practice before, number of visits to the practice in
+previous 12 months, number of chronic medical conditions,
+number of medications managed, expected payment source for
+the visit, and ownership of the practice.
+doi: 10.3122/jabfm.2013.04.120301 Payments to Providers and the Delivery of Patient Education 353
+port the patient centered medical home concept,
+which is argued to be the lynchpin for a reformed
+health care system.
+Gorrol and colleagues18 have proposed a pay-
+ment system that goes beyond a basic bundled
+payment method and extends reimbursement in a
+risk-adjusted manner to better compensate primary
+care physicians who take care of patients with mul-
+tiple chronic conditions requiring complex care.
+More recently, Ash and Ellis19 used large claims
+databases to propose a payment model called the
+"primary care activity level model," which is a fur-
+ther extension of a risk-adjusted capitated payment
+and takes into account patients' socioeconomic sta-
+tus to predict outcomes. In this model, primary
+care physicians were reimbursed more accurately
+for the care that they provided by taking into ac-
+count a better picture of the whole patient and the
+desired outcomes for each patient, rather than sim-
+ply adjusting patient pools for risk.
+Limitations
+The findings of this study need to be consid-
+ered in light of a number of limitations. First,
+this is a cross-sectional study; therefore, we could
+establish only a limited temporal relationship be-
+tween capitation and the provision of health ed-
+ucation. A stronger relationship between the two
+variables could be established through a longitu-
+dinal design examining capitated payments and
+delivery of health education over time. These
+data demonstrate a statistical association at only
+one point in time.
+Second, we could not determine from these data
+whether each discrete visit was specifically reimbursed
+through a capitated payment. We could determine only
+the percentage of all payments received in the form of
+capitation for the entire office. Furthermore, many visits
+are reimbursed by multiple payers at different propor-
+tions of payment. A more granular data source that
+shows not only the expected payment source for a visit
+but also whether the visits were reimbursed from a
+larger capitation scheme would allow for a better under-
+standing.
+Third, it was not possible to determine the exact
+structure of the practice in terms of its ownership
+and governance. An ownership variable was avail-
+able in the dataset that defined ownership as being
+privately owned or being owned by an HMO, a
+community health center, an academic medical
+center, or a hospital or other health care organiza-
+tion. During analyses, however, it was determined
+that 2% of all practices in the available data were
+owned by an HMO. Therefore, it was not possible
+to stratify these practices by levels of capitated
+revenue because of small sample sizes. Since a small
+number of practices were owned by an HMO, it is
+believed that this would not have had a significant
+effect on the adjusted regression outcomes. Fur-
+thermore, practice ownership was highly correlated
+with the percentage of revenue that was received
+through capitation, which would have resulted in
+confounding.
+Fourth, the number of medications being man-
+aged and the number of chronic medical conditions
+for each patient are crude measurements of visit
+acuity. It is possible that patients with lower num-
+bers of medications and different types of chronic
+conditions may require a higher level of care that
+was not assessed in this data.
+Fifth, the definition of levels of capitated reve-
+nue in the dataset did not allow for a threshold
+effect to be tested. The levels were set at 25%,
+25% to 50%, 51% to 75%, and 75%. Future data
+collection could ask for a more granular estimate
+for revenue received through capitation, which
+would allow for better explanation of changes in
+practice behavior.
+Finally, the sample size for visits to practices
+with higher levels of capitated payments was rel-
+atively small compared with the number of visits
+to practices with lower levels of capitated pay-
+ments. This situation is suspect for the nonsig-
+nificant findings in the bivariate analyses. Among
+visits to practices with higher levels of capitated
+payments, the percentage of patients receiving
+health education was considerably higher. How-
+ever, those results were not significantly different
+compared with the other levels of capitated pay-
+ments because the smaller numbers of visits pro-
+duced larger confidence intervals for the percent-
+age estimates. We suspect that a larger sample
+size would have produced significant outcomes in
+the bivariate analyses. Even so, multivariate anal-
+yses demonstrated the significant relationship
+between increased capitation and the delivery of
+health education.
+Conclusions
+Despite these limitations, this study has provided a
+preliminary picture of capitation and the delivery of
+354 JABFM July­August 2013 Vol. 26 No. 4 http://www.jabfm.org
+health education in a primary care setting using
+recent nationally representative data. These find-
+ings speak to the current national discussion of how
+best to reduce rising health care costs while at the
+same time retaining or even increasing the quality
+of care that is delivered.
+New systems of health care delivery that focus
+on population health are now developing, and pri-
+mary care physicians along with patient-centered
+medical homes are at the root of such systems.20
+One of the foundations of the new model of care is
+the accountable care organization, which relies on
+primary care practitioners to decrease health care
+costs within a population, while at the same time
+increasing the overall health of that population.
+However, debates over the most efficient reim-
+bursement methods for this type of system seem to
+center on pay-for-performance measures that tar-
+get defined patient populations rather than com-
+munities at large.21 This model may work well with
+specific populations, but it may not benefit patients
+outside of the target diagnoses. Therefore, discus-
+sions of new health care reimbursement models
+could consider patient education an important fac-
+tor in promoting population health. Finding inno-
+vative reimbursement methods that reduce cost and
+increase quality for all patients is necessary to achieving
+a better performing US health care system.
+References
+1. Institute of Medicine. Crossing the quality chasm: a
+new health system for the 21st century. Available
+from: http://www.iom.edu/Reports/2001/Crossing-
+the-Quality-Chasm-A-New-Health-System-for-the-
+21st-Century.aspx. Accessed May 11, 2012.
+2. Legarge F, Turcotte S, Stacey D, et al. Patients'
+perceptions of sharing in decisions: a systematic review of
+interventions to enhance shared decision making in rou-
+tine clinical practice. Patient 2012;5:1­19.
+3. Stacey D, Bennett CL, Barry MJ, et al. Decisions
+aids for people facing health treatment or screen
+decisions. Cochrane Database Syst Rev 2011;(10):
+CD001431.
+4. Dibley LB, Norton C, Jones R. Non-pharmacological
+intervention for gastro-oesophageal reflux disease in pri-
+mary care. Br J Gen Pract 2010;60:e459­65.
+5. Ninot G, Moullec G, Picot MC, et al. Cost-saving
+effect of supervised exercise associated to COPD
+self-management education program. Respir Med
+2011;105:377­85.
+6. Pine M, Fry DE, Jones BL, et al. Controlling costs
+without compromising quality: paying hospitals for
+total knee replacement. Med Care 2010;48:862­8.
+7. Bitton A, Martin C, Landon BE. A nationwide sur-
+vey of patient centered medical home demonstration
+projects. J Gen Intern Med 2010;25:584­92.
+8. Berwick DM, Nolan TW, Whittington J. The triple
+aim: care, health and cost. Health Aff (Millwood)
+2008;27:759­69.
+9. Mechanic RE, Santos P, Landon BE, et al. Medical
+group responses to global payment: early lessons
+from the `Alternate Quality Contract' in Massachu-
+setts. Health Aff (Millwood) 2011;30:1734­42.
+10. Safran DG, Tarlov AR, Rogers WH. Primary care
+performance in fee-for-service and prepaid health
+care systems. JAMA 1994;271:1579­86.
+11. Goodson JD, Bierman AS, Fein O, et al. The future
+of capitation: the physician role in managing change
+in practice. J Gen Intern Med 2001;16:250­6.
+12. Kao AC, Green DC, Zaslavsky Am, et al. The rela-
+tionship between method of physician payment and
+patient trust. JAMA 1998;280:1708­14.
+13. Centers for Disease Control and Prevention (CDC).
+Ambulatory health care data. About the ambulatory
+health care surveys. Available from: http://www.cdc.
+gov/nchs/ahcd/about_ahcd.htm. Accessed May 17,
+2013.
+14. Glied S, Zivin JG. How do doctors behave when
+some (but not all) of their patients are in managed
+care? J Health Econ 2002;21:337­53.
+15. Landon BE, Reschovsky JD, O'Malley AJ, Pham
+HH, Hadley J. The relationship between physician
+compensation strategies and the intensity of care
+delivered to Medicare beneficiaries. Health Serv Res
+2011;46:1863­82.
+16. Berenson RA, Rich EC. U.S. approaches to physi-
+cian payment: the deconstruction of primary care.
+J Gen Intern Med 2010;25:613­8.
+17. Berenson RA, Rich EC. How to buy a medical
+home? Policy options and practical questions. J Gen
+Intern Med 2010;25:619­24.
+18. Goroll AH, Berenson RA, Schoenbaum SC, Gard-
+ner LB. Fundamental reform of payment for adult
+primary care: comprehensive payment for compre-
+hensive care. J Gen Intern Med 2007;22:410­5.
+19. Ash AS, Ellis RP. Risk-adjusted payment and perfor-
+mance assessment for primary care. Med Care 2012;
+8:643­53.
+20. Sweeney SA, Bazemore A, Phillips RL, Etz RS,
+Stange KC. A reemerging political space for linking
+person and community through primary health care.
+Am J Public Health 2012;S3:S336­41.
+21. Gourevitch MN, Cannell T, Boufford JI, Summers
+C. The Challenge of Attribution: Responsibility for
+Population Health in the Context of Accountable
+Care. American Journal of Public Health 2012;S3:
+S322­S324.
+doi: 10.3122/jabfm.2013.04.120301 Payments to Providers and the Delivery of Patient Education 355
+

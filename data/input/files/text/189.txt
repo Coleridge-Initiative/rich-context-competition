@@ -1,0 +1,817 @@
+Unfriendly Shores: How
+Immigrant Children Fare
+In The U.S. Health System
+Even children with legal citizenship, in working poor immigrant
+families, find it difficult to obtain basic access to care, and the
+problem is only getting worse.
+by Sylvia Guendelman, Helen Halpin Schauffler, and Michelle Pearl
+ABSTRACT: The proliferation of poor immigrant children in the United States
+raises concern about their high uninsurance rates and access to care. We
+examined the joint effects of health insurance status and place of birth on use
+of health services by children of the working poor. Of foreign-born children, 52
+percent were uninsured and 66 percent had a regular care source, compared
+with 20 percent and 92 percent, respectively, of native-born children. Foreign-
+born uninsured children were less likely than their native-born peers were to
+have a regular care source or to have sought care. Health insurance and
+immigration policies must act in concert to increase health care access for
+foreign-born children.
+More than one million children came to the United
+States from other countries between 1987 and 1990.1 Since
+1990 the number of children in immigrant families has
+expanded almost seven times faster than the number in U.S.-born
+families has. However, few studies have focused on access to health
+care for foreign-born children.2 A recent study shows that such chil-
+dren are at much higher risk of being uninsured than are native-born
+children of either immigrant or native parents.3 Furthermore, there
+are wide racial variations in insurance coverage among the foreign-
+born. While Southeast Asian children have low rates of uninsurance
+because of their refugee status, Latino immigrant children, who con-
+stitute 55 percent of all children in immigrant families, have high
+rates of uninsurance. Health insurance is a major determinant of
+access to health care for immigrants.4 It promotes financial access to
+care, connects children to a regular source of care, and enables use of
+©2001 ProjectHOPE­ThePeople-to-People Health Foundation,Inc.
+Sylvia Guendelman is an associate professor, Division of Health Policy and Management
+and Maternal and Child Health Program, School of Public Health, University of Califor-
+nia, Berkeley. Helen Schauffler is professor and director of the Center for Health and
+Public Policy Studies, School of Public Health. Michelle Pearl is an epidemiologist in the
+School of Public Health.
+DATAWATCH 257
+H E A L T H A F F A I R S ~ J a n u a r y / F e b r u a r y 2 0 0 1
+I M M I G R A N T C H I L D R E N
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+services.5 The extent to which foreign-born uninsured children ex-
+perience more access barriers than U.S.-born uninsured children has
+not been examined.
+In this paper we examine the joint effects of health insurance
+status and place of birth on access to care and use of health services
+by children of the working poor. We assess if crude differences in
+access and use along these two dimensions persist after socio-
+economic status, demographic characteristics, and health status are
+controlled for. We use a random probability sample of children from
+the 1997 National Health Interview Survey (NHIS).
+Study Methods
+n Sample and data source. The NHIS is a continuing survey of the
+civilian, noninstitutionalized U.S. population, sponsored by the Na-
+tional Center for Health Statistics (NCHS). Different households
+are sampled each year for this cross-sectional survey. It is adminis-
+tered face-to face by trained Census Bureau staff, using computer-
+assisted technology.6
+In 1997 one child per family was randomly selected for a more
+in-depth interview on access to and use of health care. Of the 15,350
+families with eligible children under age eighteen, 14,290 had inter-
+view data on a selected child. Adult family members provided infor-
+mation about their children. Compared with children whose par-
+ents responded to the survey, children of nonrespondents were
+more likely to be African American and in good rather than excellent
+health. They did not differ with respect to disability status, place of
+birth, receipt of public assistance, or insurance coverage.
+Sampled children's records were linked to their parents' records
+to determine parental work status. Children who did not live with a
+parent (n = 487) were excluded. Parents were considered working
+poor if they were either currently working or had been employed for
+at least six months in the past year, and if their combined family
+income was at or below 200 percent of the federal poverty level
+($31,822 for a family of four using 1996 poverty thresholds). Welfare
+recipients were assumed to have incomes below 200 percent of
+poverty. We imputed poverty level for 1,640 children who had miss-
+ing information on income and could not be otherwise classified as
+working poor. Imputation used a hot-decking approach, randomly
+assigning a poverty level category (in 25 percent increments) char-
+acterizing individuals with similar geographic location, parental
+education, race/ethnicity, and broad income levels, if available. The
+final sample included 5,342 children in working poor families.
+n Measures of access and use of care. Access to care was
+measured by the presence of a particular person or place to which a
+258 IMMIGRANT
+CHILDREN
+H E A L T H A F F A I R S ~ V o l u m e 2 0 , N u m b e r 1
+D a t a W a t c h
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+child usually goes for treatment when sick, for health advice, or for
+routine or preventive medical care; we also ascertained if the usual
+place of care was a doctor's office or a health maintenance organiza-
+tion (HMO) rather than a clinic, hospital, or some other place.
+Respondents also were asked if they delayed or missed getting
+medical care because they could not afford it, and the interval since
+they last spoke to or saw a health professional about their child's
+health. These variables were stratified by children's perceived health
+status (excellent versus less than excellent). Health care utilization
+variables included the number of visits to a doctor or other health
+care professional, the use of two or more emergency room (ER)
+visits, and the mean number of hospital episodes, all in the past year
+and stratified by perceived health status. Small sample size pre-
+cluded stratification on disability status.
+n Independent variables. Children were classified into foreign-
+and U.S.-born status. We used several questions from the health
+insurance supplemental questionnaire to classify children into in-
+sured (any private or public coverage) and uninsured status (if not
+covered by any insurance and used public or free clinics exclusively).
+Other independent variables included sex, age, ethnicity, health
+status (excellent, very good/good, and fair/poor), and disability
+status, defined as a reduction in daily living activities. Household
+characteristics consisted of family structure and size, poverty level,
+receipt of public assistance, highest parental education attainment,
+and parental employment. Geographical characteristics included re-
+gion and a metropolitan statistical area (MSA) location.
+n Data analysis. We first compare foreign- and U.S.-born chil-
+dren on sociodemographic characteristics and insurance status. We
+then present unadjusted percentages and means for access and utili-
+zation measures by place of birth and by the four combinations of
+birth/insurance status. We adjust for covariates by using logistic
+and linear regression. The covariates include the child's age, sex,
+ethnicity, family structure, family size, disability status, parental
+education, region, MSA, and perceived health status, where appro-
+priate. These variables have been shown to affect access to health
+care and utilization.7 In the main effects models for place of birth and
+for insurance status, the other factor is also included as a covariate.
+Adjusted rates are discussed in the text only.
+Because the design of the NHIS is a complex, multistage sample,
+the standard errors and significance tests are weighted and cor-
+rected for stratification and sampling clustering. The analyses were
+conducted using SAS version 6.12 and SUDAAN version 7.5.3.
+There are several limitations to our approach. The NHIS is a
+government survey that primarily interviews the legal population.
+DATAWATCH 259
+H E A L T H A F F A I R S ~ J a n u a r y / F e b r u a r y 2 0 0 1
+I M M I G R A N T C H I L D R E N
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+Undocumented persons who came to the United States illegally or
+overstayed their visas are likely to be underrepresented. Results,
+therefore, may underestimate the true problems of access and use for
+immigrants. However, the foreign-born may travel abroad and re-
+ceive care in the health care system of their country of origin, and
+these encounters may not be reported in the NHIS. Because our
+analysis is based on cross-sectional data, we cannot determine tem-
+poral relationships between health insurance status and access to
+and use of care. Furthermore, although our analysis of access and
+utilization differentials includes statistical adjustment for available
+covariates, some confounding inevitably remains. Finally, the recall
+of health events and visits is known to be difficult, especially for
+children who are frequent health care users.
+Study Results
+n Characteristics of foreign-born children of the working poor.
+Foreign-born children of working poor families in the United States
+in 1997 were more likely than their U.S.-born counterparts to be
+older and of Latino or Asian origin, and to live in two-parent house-
+holds, in families with six or more members, and in households
+where the head of the family has a low education (Exhibit 1). These
+EXHIBIT 1
+Characteristics Of U.S.-Born And Foreign-Born Children In Working Poor Families, 1997
+= = = =
+Male
+Female
+Under 6 years old
+6­12 years old
+13­18 years old
+51.9%
+48.1
+37.7
+39.7
+22.6
+55.4%
+44.6
+17.8
+45.5
+36.7
+Latino
+White
+Black
+Asian
+Other
+16.9%
+58.0
+20.4
+2.5
+2.3
+57.5%
+22.3
+5.8
+12.9
+1.6
+Single-parent household
+Two-parent household
+35.3
+64.7
+19.9
+80.1
+Fewer than 3 in family
+4­5 in family
+6 or more in family
+23.1
+53.3
+23.6
+11.4
+49.8
+38.7
+Under 50% of poverty
+50­74% of poverty
+75­99% of poverty
+100­124% of poverty
+125­149% of poverty
+150­174% of poverty
+175­199% of poverty
+13.6
+12.1
+13.8
+14.2
+13.7
+16.1
+16.5
+17.6
+20.2
+16.4
+13.5
+12.1
+11.8
+8.4
+AFDC or other assistance
+None
+Household head educated
+Fewer than 11 years
+12 years
+13 or more years
+13.9
+86.1
+21.2
+36.7
+42.1
+5.1
+94.9
+52.1
+19.5
+28.3
+No parent employed
+One parent employed
+Two parents employed
+8.9
+62.0
+29.1
+7.9
+64.9
+27.2
+Live in Northwest
+Live in Midwest
+Live in South
+Live in West
+15.4
+25.1
+38.4
+21.2
+21.2
+11.3
+27.1
+40.4
+Live in MSA
+Live in non-MSA
+74.8
+25.2
+90.0
+10.0
+Excellent health
+Very good/good health
+Fair/poor health
+47.0
+50.4
+2.6
+40.3
+56.4
+3.3
+Disabled
+Not disabled
+8.0
+92.0
+4.2
+95.8
+Insured
+Uninsured
+80.2
+19.8
+48.2
+51.8
+SOURCE: 1997 National Health Interview Survey (NHIS).
+NOTES: Chi-square tests for differences between category distributions for U.S.- and foreign-born children were performed on
+each major category. All categories had p < .01 except for sex (.26), parental employment (.63), and health status (.07). Values
+were adjusted for complex design effects. MSA is metropolitan statistical area. AFDC is Aid to Families with Dependent Children.
+H E A L T H A F F A I R S ~ V o l u m e 2 0 , N u m b e r 1
+D a t a W a t c h
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+children also were more likely to live in households with incomes
+below the federal poverty level yet not to depend on public assistance.
+Although foreign-born children are perceived to have health
+status that is similar to that of native-born children, the prevalence
+of disabilities was lower among foreign-born children. In addition,
+foreign-born children were two and one-half times more likely than
+native-born children were to be uninsured in 1997.
+n Access to care and use of services. Only 66 percent of the
+foreign-born children of the working poor had a regular source of
+care, compared with 92 percent of their U.S.-born counterparts, and
+among these children, the foreign-born were less likely to seek care
+in a doctor's office or HMO (Exhibit 2). The interval since foreign-
+born children last visited a doctor was also longer than was the case
+for native-born children. Among children in less-than-excellent
+health, 15 percent of the foreign-born versus 2 percent of the U.S.-
+born had never visited a physician or had not had a physician visit in
+more than three years before the survey.
+EXHIBIT 2
+Access To And Use Of Health Care Services Of Children In Working Poor Families,
+By Foreign-Born Status, 1997
+= = = =
+Has regular source of care
+Usual place of care is
+doctor's office or HMO
+92.3%
+67.7
+65.7%
+50.7
+Delayed or missed care
+because could not afforda 7.2% 8.3%
+Last spoke to or saw
+a health professional
+Less-than-excellent health
+6 months or less
+6 months to a year
+1­3 years
+More than 3 years
+Never
+70.7%
+17.3
+9.6
+2.2
+0.2
+47.0%
+17.7
+19.9
+11.3
+4.1
+Excellent health
+6 months or less
+6 months to a year
+1­3 years
+More than 3 years
+Never
+68.4%
+18.1
+11.1
+2.0
+0.5
+46.6%
+19.5
+25.1
+7.5
+1.4
+Number of doctor visits
+in past year
+Less-than-excellent health
+None
+Among those with at least 1
+1 visit
+2­3 visits
+4 or more visits
+16.7%
+22.2
+37.3
+40.5
+38.6%
+48.3
+24.2
+27.5
+Excellent health
+None
+Among those with at least 1
+1 visit
+2­3 visits
+4 or more visits
+14.5%
+27.7
+40.2
+32.1
+36.4%
+42.1
+43.2
+14.8
+Among children with at least
+1 doctor visit
+2 or more ER visits in past year
+Less-than-excellent health
+Excellent healthb
+12.2%
+7.5
+8.2%
+5.9
+Mean number of hospital
+episodes
+Less-than-excellent health
+Excellent healthc
+1.3
+1.1
+1.0
+1.1
+SOURCE: 1997 National Health Interview Survey (NHIS).
+NOTES: Chi-square tests for differences between category distributions for U.S.- and foreign-born children were performed on
+each major category. All categories had p < .01 except where noted otherwise. Values were adjusted for complex design effects.
+The reference group for foreign/U.S.-born comparisons is U.S.-born children. HMO is health maintenance organization. ER is
+emergency room.
+a p = .53
+b p = .49
+c p = .80
+H E A L T H A F F A I R S ~ J a n u a r y / F e b r u a r y 2 0 0 1
+I M M I G R A N T C H I L D R E N
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+Similarly, among children in less-than-excellent health who vis-
+ited a doctor in the previous year, foreign-born children had fewer
+doctor visits. ER visits and hospital episodes were also lower among
+foreign-born children than among U.S.-born children.
+n Access and use differentials. Disparities in health care ac-
+cess and use of service by health insurance status were found as
+expected among both U.S.- and foreign-born children of the work-
+ing poor (Exhibit 3). Yet among insured children, the foreign-born
+were less likely than the U.S.-born were to have a regular care source
+or to have visited a doctor in the previous year. Among those who
+visited a doctor in the past year, foreign-born children in both excel-
+lent and less-than-excellent health were less likely to have had four
+or more doctor visits than were U.S.-born children of the same
+health status. Furthermore, insured foreign-born children in less-
+than-excellent health were less likely to have had two or more ER
+visits than were their insured native-born counterparts. Differences
+in birth status, particularly for regular source of care, were not ap-
+parently attributable to differences in type of health insurance.
+Among U.S.-born children, 61 percent had private coverage, com-
+pared with 55 percent of foreign-born children.
+Among the uninsured, foreign-born children were less likely than
+U.S.-born children were to have a regular source of health care and
+to seek care in a doctor's office or HMO. A delay of more than one
+year since seeing a physician was also more likely for foreign-born
+than for native-born uninsured children, regardless of health status.
+Among uninsured children seeking care in the previous year,
+foreign-born children in less-than-excellent health were less likely
+to have four or more visits. The rates remained similar after adjust-
+ing for confounders, with two exceptions: (1) the number of doctor
+visits, which no longer showed birth-location disparities among the
+uninsured in less-than-excellent health; and (2) the interval since
+the last doctor visit, which was similar for foreign- and U.S.-born
+uninsured children in excellent health. After adjusting for confoun-
+ders, foreign-born uninsured children stood the highest risk of not
+having a regular care source, for that care source not to have been
+provided in a doctor's office or HMO, and for not having seen or
+visited a doctor on a timely basis, if in less-than-excellent health.
+We further examined differentials in access to care and utiliza-
+tion within ethnic groups along birth status lines. Sample sizes
+restricted this analysis to white and Latino children. Among white
+uninsured children of the working poor, foreign-born children were
+less likely than U.S.-born children were to delay or miss care be-
+cause of lack of affordability but more likely not to have seen a
+doctor in the past year, if they were in less-than-excellent health.
+262 IMMIGRANT
+CHILDREN
+H E A L T H A F F A I R S ~ V o l u m e 2 0 , N u m b e r 1
+D a t a W a t c h
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+Larger birth-location differentials were observed among Latinos
+than among white uninsured children of the working poor. Foreign-
+born Latinos were more likely than U.S.-born Latinos were to lack a
+EXHIBIT 3
+Access To And Use Of Health Care Services, By Insurance And Birth Status, Among
+Children In Working Poor Families, 1997
+= = = = <
+<
+Has regular source of care
+Usual place of care is doctor's
+office or HMO
+96.1%
+70.2
+87.9%
+61.0
+77.0%
+54.6
+45.1%
+32.0
+c,d,e
+c,d,e
+c,d,e
+c,d,e
+Delayed or missed care because
+could not afford 4.8 4.8 17.0 11.5 c,d c,d
+Last time spoke to or saw
+a health professional
+Less-than-excellent health
+Less than 6 months
+6 months to a year
+1 year to 3 years
+More than 3 years
+Never
+75.0%
+16.0
+7.5
+1.4
+0.1
+66.4%
+16.7
+10.3
+6.7
+0.0
+54.0%
+22.6
+17.8
+5.2
+0.5
+30.5%
+18.5
+28.1
+15.3
+7.6
+c,d,e,f c,d,e,f
+Excellent health
+Less than 6 months
+6 months to a year
+1 year to 3 years
+More than 3 years
+Never
+71.7%
+17.7
+9.1
+1.2
+0.3
+51.5%
+25.1
+20.6
+2.8
+0.0
+54.9%
+19.8
+19.1
+5.2
+1.0
+41.1%
+13.3
+30.0
+12.7
+2.9
+c,d,e,f c,f
+Number of doctor visits in past year
+Less-than-excellent health
+None
+Among those with at least 1 visit
+1 visit
+2­3 visits
+4 or more visits
+11.4%
+20.1
+37.3
+42.6
+19.7%
+45.3
+19.8
+34.9
+26.2%
+32.1
+37.2
+30.7
+53.4%
+52.7
+30.4
+16.9
+c,d,e
+c,d,e,g
+c,d,e
+c,g
+Excellent health
+None
+Among those with at least 1 visit
+1 visit
+2­3 visits
+4 or more visits
+13.8%
+26.0
+40.6
+33.3
+27.3%
+41.9
+46.1
+12.0
+28.7%
+36.2
+38.2
+25.6
+50.9%
+42.3
+38.4
+19.3
+c,d,e
+c,g
+c
+c,g
+Among those with at least 1 doctor visit
+2 or more ER visits in past year
+Less-than-excellent health
+Excellent health
+12.7%
+7.6
+7.2%
+5.0
+9.8%
+6.9
+9.7%
+7.3
+h
+h
+h
+h
+Number of hospitalizations
+Less-than-excellent health
+Excellent health
+1.05
+1.11
+1.37
+1.12
+1.05
+1.08
+1.00
+1.00
+c
+h
+h
+h
+SOURCE: 1997 National Health Interview Survey (NHIS).
+NOTES: The reference group for insurance/birth group comparisons is insured U.S.-born children. HMO is health maintenance
+organization. ER is emergency room.
+a Adjusted for complex design effects.
+b Adjusted for age, sex, race/ethnicity, family structure, family size (and perceived health status where appropriate), and complex
+design effects.
+c p-value based on chi-square testing the statistical significance of differences in health care use by insurance status for
+U.S.-born: U.S.-born insured versus U.S.-born uninsured.
+d p-value based on chi-square testing the statistical significance of differences in health care use by insurance status for
+foreign-born: foreign-born insured versus foreign-born uninsured.
+e p-value based on chi-square testing the statistical significance of differences in health care use by birth status among
+uninsured: U.S.-born uninsured versus foreign-born uninsured.
+f Comparing last time spoke to or saw a health professional (less than a year ago versus 1 year ago or more).
+g Comparing fewer than four doctor visits with four visits or more.
+h p-value not significant.
+H E A L T H A F F A I R S ~ J a n u a r y / F e b r u a r y 2 0 0 1
+I M M I G R A N T C H I L D R E N
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+regular source of care and were less likely to have sought care in a
+doctor's office or to have visited a doctor in the previous year. Latino
+foreign-born children in less-than-excellent health also had fewer
+than four doctor visits than did their Latino native-born counter-
+parts, and those in excellent health tended to have fewer ER visits
+than their native-born counterparts had (data not shown).
+Birth status had similar associations with access to care among
+the uninsured in the three age groups examined (younger than age
+six, ages six to twelve, and ages thirteen to eighteen). In most cases,
+foreign-born uninsured children were less likely to access care than
+native-born uninsured children were. However, foreign-born chil-
+dren over age six were more likely than their native-born counter-
+parts were to delay care because care was unaffordable, and foreign-
+born children ages thirteen to eighteen were the most likely to
+experience intervals of three or more years without visiting a doctor.
+Among the older children who had visited a doctor in the past year,
+foreign-born children in less-than-excellent health were more likely
+to have fewer doctor visits than were their native-born peers in
+similar health (data not shown).
+Discussion And Policy Implications
+Our findings suggest a clear hierarchy in access to health care for the
+children of America's working poor. On nearly every indicator we
+examined, foreign-born children in working poor families had lower
+access and health care use than did their U.S.-born counterparts,
+uninsured children were worse off than insured children, and unin-
+sured foreign-born children faced the worst access to health care.
+What is even more troubling is that among foreign-born uninsured
+children, those who had less-than-excellent health status faced
+more barriers to timely access to care than did those whose health
+status was excellent. Furthermore, consistent with other studies on
+minority health, Latino foreign-born children--who constitute 58
+percent of the foreign-born children of the working poor--faced
+more barriers if uninsured than their white counterparts did, per-
+haps because of cultural and legal barriers.8 These findings suggest
+that health care, immigration, and welfare policies may be hamper-
+ing access to health care for immigrants.9
+In fact, the disparities in coverage for immigrant children may be
+growing as a result of the Personal Responsibility and Work Oppor-
+tunity Reconciliation Act (PRWORA) of 1996, immigration poli-
+cies, and ballot initiatives.10 PRWORA gave states the option of
+terminating nonemergency Medicaid coverage for legal immigrants
+who arrived after 22 August 1996. After a five-year stay, the income
+of an immigrant's sponsor, along with the immigrant's personal in-
+264 IMMIGRANT
+CHILDREN
+H E A L T H A F F A I R S ~ V o l u m e 2 0 , N u m b e r 1
+D a t a W a t c h
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+come, are to be counted when determining the immigrant's eligibil-
+ity for public assistance and Medicaid. This is a marked change from
+the prior social contract, which treated legal immigrants and U.S.
+citizens alike in determining income and eligibility.11 Under
+PRWORA, children of undocumented immigrants are no longer
+able to receive Medicaid if designated as "permanently residing un-
+der color of law." Furthermore, insurance expansions created under
+the State Children's Health Insurance Program (SCHIP) exclude
+undocumented children.12 Many immigrant families have avoided
+enrolling in Medicaid or SCHIP for fear of being labeled a "public
+charge."
+Our findings suggest that simply extending health insurance cov-
+erage to uninsured foreign-born children of the working poor is
+likely to have a major impact on their access to and use of health
+care. Perhaps the most expedient policy solutions would be for
+Congress to amend PRWORA by removing states' option to termi-
+nate nonemergency Medicaid coverage and to prohibit states from
+excluding foreign-born children from SCHIP. However, increasing
+eligibility for public insurance programs may not be enough. Despite
+recent assurances by the government, immigrant families are reluc-
+tant to enroll their children in public programs for fear of becoming
+a public charge, which could jeopardize their green cards, future
+citizenship, and income.13 Nonfinancial barriers to care for foreign-
+born children also need to be addressed, by ensuring that children
+are connected to a continuous care source.
+Changes in immigration policy at the federal level may also enable
+access to health care for foreign-born children. Short of regularizing
+the legal status of undocumented families, developing an agreement
+with the government of Mexico to provide health insurance to guest
+workers in the United States, strengthening the enforcement of
+labor laws under the North American Free Trade Agreement
+(NAFTA), and subsidizing employers of working poor immigrants
+so that they can afford to provide health insurance to their employ-
+ees are policies that merit further consideration.
+If Congress does not revise the policies that enable foreign-born
+children to enroll in public health insurance programs, another op-
+tion for states is to seek Section 1115 waivers from the Health Care
+Financing Administration (HCFA) to require less documentation
+on immigration status for foreign-born children. Another option for
+"Changes in immigration policy at the federal level may enable
+access to health care for foreign-born children."
+DATAWATCH 265
+H E A L T H A F F A I R S ~ J a n u a r y / F e b r u a r y 2 0 0 1
+I M M I G R A N T C H I L D R E N
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+states, recognizing the political difficulty of changing these policies,
+is to strengthen the safety net of public clinics and hospitals that
+provide care for the uninsured.
+Given the rapid influx of immigrants into the United
+States, and their contributions to the U.S. labor market, it is
+short-sighted to ignore the health care needs of foreign-born
+children. Where a child is born and the income of his or her parents
+should not be the major determinants of access to immunizations
+against communicable diseases, regular check-ups to assess normal
+growth and development, and access to medical treatment when ill
+or injured. If the United States fails to extend health insurance
+coverage to the foreign-born children of the working poor, the wide
+disparities we have observed in their access to and use of health care
+services will continue.
+Partialfundingforthisstudywasobtainedfrom theHenryJ.KaiserFamilyFounda-
+tion. The authors thank Steve Samuels for statistical consultation and Connie Gee
+for clerical support.
+NOTES
+1. D. Hernandez, ed., Children of Immigrants: Health, Adjustment, and Public Assistance
+(Washington: National Academy Press, 1999).
+2. Institute of Medicine, Board on Children and Families, "Immigrant Children
+and Their Families: Issues for Research and Policy," Future of Children (Sum-
+mer/Fall 1995): 72­89.
+3. E.R. Brown et al., "Access to Health Insurance and Health Care for Children in
+Immigrant Families," in Hernandez, ed., Children of Immigrants.
+4. H. Thamer and C. Rinehart, "Public and Private Health Insurance of U.S.
+Foreign-Born Residents: Implications of the 1996 Welfare Reform Law," Eth-
+nicity and Health (February/May 1998): 19­29.
+5. H. Edmunds and M.J. Coye, eds., America's Children: Health Insurance and Access to
+Care (Washington: National Academy Press, 1998).
+6. Division of Health Interview Statistics, National Center for Health Statistics,
+The Health Interview Survey (Hyattsville, Md.: NCHS, February 2000).
+7. Edmunds and Coye, eds., America'sChildren.
+8. R. Burciaga Valdez et al., "Improving Access to Health Care in Latino Commu-
+nities," Public HealthReports (Sep/Oct 1993): 534­539.
+9. F. Leclere et al., "Health Care Utilization, Family Context, and Adaptation
+among Immigrants to the United States," Journal of Health and Social Behavior
+(December 1994): 370­384.
+10. J. Lewin, "Protecting the Health of Children of Immigrants, Innocent Victims
+of Adult Policy,"JournaloftheAmericanMedicalAssociation (26 February1997):672.
+11. M.R. Ellwood and L. Ku, "Welfare and Immigration Reforms: Unintended
+Side Effects for Medicaid," Health Affairs (May/June 1998): 137­151.
+12. S. Rosenbaum et al., "The Children's Hour: The State Children's Health Insur-
+ance Program," HealthAffairs (Jan/Feb 1998): 75­89.
+13. M.L. Berk et al., "Health Care Use among Undocumented Latino Immigrants,"
+Health Affairs (July/Aug 2000): 51­64.
+266 IMMIGRANT
+CHILDREN
+H E A L T H A F F A I R S ~ V o l u m e 2 0 , N u m b e r 1
+D a t a W a t c h
+Downloaded from HealthAffairs.org by ${individualUser.givenNames} ${individualUser.surname} on October 31, 2017.
+Copyright Project HOPE--The People-to-People Health Foundation, Inc.
+For personal use only. All rights reserved. Reuse permissions at HealthAffairs.org.
+

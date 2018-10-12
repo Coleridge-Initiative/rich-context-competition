@@ -1,0 +1,876 @@
+RESEARCH ARTICLE Open Access
+Understanding the sustainability of implementing
+HIV services in criminal justice settings
+Christy A Visher1*, Yang Yang2, Shannon G Mitchell3, Yvonne Patterson4, Holly Swan5 and Jennifer Pankow6
+Abstract
+Background: In the growing field of implementation science, sustainability is a critical component of the
+implementation process of moving evidence-based treatments to regular practice. This paper is intended to extend
+our understanding of factors that influence the sustainability of HIV services in correctional settings following an
+organization-level intervention designed to implement improvements in preventing, detecting, or treating HIV for
+persons under correctional supervision.
+Methods: Using semi-structured interviews to elicit perceptions from the principal researcher and executive
+sponsor at each of nine participating sites, this study explores the variations in the sustainability of HIV services in
+these criminal justice settings following the experimental implementation intervention.
+Results: In six of the nine sites, changes in HIV services implemented as a result of the organizational intervention
+were sustained six to nine months following the end of project implementation. Organizational endorsement at
+multiple levels is likely the principal factor that facilitates sustainability.
+Conclusions: The factors that result in the sustainability of changes to health services in correctional organizations
+include elements internal and external to the organization. Implementation strategies, such as the change team
+model strategy used in this study, are also sustainable and can be used to identify other changes that could be
+made, or improve other aspects of service delivery.
+Keywords: Implementation; Sustainability; HIV services; Correctional facility; Change team
+Evidence-based public health programs can deliver positive
+health outcomes, but only if they are able to sustain these
+actions over time. Although there is growing evidence
+about the types of interventions that may be successfully
+implemented (Grimshaw et al. 2012; Michie et al. 2009),
+there is considerably less knowledge regarding how and
+why new ways of working are sustained and become estab-
+lished in everyday practice (Aarons et al. 2011). This ques-
+tion of sustainability is critical to translating research on
+evidence-based practices into routine operations.
+Background
+In the implementation and dissemination literature, sus-
+tainability is considered a stage in an overall cycle of inter-
+vention development, adoption, implementation and
+adaptation (Proctor et al. 2009, 2011); thus, it is useful to
+consider sustainability in relation to the earlier stages. Proc-
+tor et al. (2009) regard sustainability as a type of implemen-
+tation outcome as distinct from service or client outcomes
+(e.g., satisfaction, symptomology) that results from the
+process of using evidence-based implementation strategies
+to establish new evidence-based treatments or services. The
+dynamics involved in the adoption and implementation
+stages often extend to the stage of sustainability.
+The existing literature on organizational change and the
+diffusion of innovations emphasizes that all of these pro-
+cesses are often affected by the complex nature of the
+organizational environment including external, institu-
+tional, and political forces (Fitzgerald et al. 2002; Dopson
+et al. 2002). Factors influencing sustainability include (1)
+characteristics of the intervention, particularly its flexibil-
+ity, cost, and effectiveness; (2) factors in the organizational
+setting, such as whether the intervention is a good fit with
+the organization, presence of an internal champion to
+advocate for the program, organization capacity and
+* Correspondence: visher@udel.edu
+1Center for Drug & Health Studies, Department of Sociology and Criminal
+Justice, University of Delaware, Newark, USA
+Full list of author information is available at the end of the article
+© 2015 Visher et al.; licensee Springer. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction
+in any medium, provided the original work is properly credited.
+Visher et al. Health and Justice (2015) 3:5
+DOI 10.1186/s40352-015-0018-2
+leadership, and attitudes of key staff; and (3) factors in the
+community environment, including partnerships and con-
+tinued funding. Scheirer and Dearing (2011) point out that
+sustainable outcomes for public health programs are likely
+to require processes that start long before the end of initial
+implementation and program funding.
+Operationalizing sustainability
+Definitions and the measurement of sustainability have
+also received increasing attention in the implementation
+and dissemination literature. According to Schell and
+colleagues, sustainability is not simply the result of a
+process but is action-oriented: the "ability to maintain
+programming and its benefits over time" (2013:15) and
+includes the set of organizational and contextual factors
+that build capacity for maintaining a program. These
+scholars identified nine domains of sustainability from a
+comprehensive literature review: political support, fund-
+ing stability, partnerships, organizational capacity, pro-
+gram evaluation, program adaptation, communications,
+public health impacts, and strategic planning (Schell
+et al. 2013). These domains further divide into factors
+internal to the program and factors external to the pro-
+gram. However, in a different review of 125 papers on sus-
+tainability, only 35 percent included a formal definition,
+which focused on the continuation of programs and prac-
+tices in organizations, systems, and communities during a
+post-implementation period (Wiltsey Stirman et al. 2012).
+Other researchers want attention paid to specifying
+the achievements that have been made in sustaining pro-
+grams. Scheirer and Dearing (2011) argue that research
+on sustainability needs to move beyond a simple dichot-
+omy of measuring: "Did the program continue or not?
+(p. 2061)". Other types of implementation outcomes
+might include continuation of benefits or outcomes for
+clients; continuation of program activities of original
+intervention; maintaining community-level partnerships
+developed during the intervention; maintaining new
+organizational practices, procedures, or policies; sustaining
+attention to issue or problem; and program diffusion and
+replication in other sites. There does not appear to be any
+consensus on which type of sustainability outcome should
+receive priority for research. Thus, a clear need exists for
+more research on sustainability outcomes and the factors
+that influence these outcomes following implementation
+of evidence­based interventions (Proctor et al. 2011; Wiltsey
+Stirman et al. 2012).
+This paper reports the results of a sustainability sub-
+study that was conducted as part of a larger implemen-
+tation project. The larger project was conducted in
+order to gain a better understanding of the processes
+that promote the integration of evidence-based, sub-
+stance abuse treatment and HIV services into criminal
+justice settings. Individuals incarcerated in U.S. prisons
+and jails are at high risk for mental health disorders,
+substance abuse disorders, and physical health problems
+such as HIV/AIDS, hepatitis, and other chronic and in-
+fectious diseases (Maruschak 2012). For individuals with
+HIV/AIDS, early detection and linkage to treatment are
+essential best practices for managing the disease and
+reducing the risk of transmission (Centers for Dis-
+ease Control and Prevention 2003). Unfortunately,
+HIV services in prisons and jails suffer from lack of ad-
+herence to best practices in HIV testing, prevention,
+and treatment access (Beckwith et al. 2010; Booker et al.
+2013; Springer and Altice 2005). Thus, it is important
+for correctional facilities to close these gaps in service
+delivery by initiating and maintaining evidence-based
+programs that improve access to testing for HIV, en-
+hance prevention through education programs, and fa-
+cilitate linkages to community-based HIV services for
+individuals exiting confinement.
+In 2008, the National Institute on Drug Abuse (NIDA) ini-
+tiated the second phase of the Criminal Justice Drug Abuse
+Treatment Studies (CJ-DATS 2) with a multisite cooperative
+of research centers across the U.S. CJ-DATS 2 protocols tar-
+geted three areas of service delivery to persons under cor-
+rectional supervision (in prison or jail) with substance abuse
+problems: (1) assessment and case planning; (2) medication-
+assisted treatment options; and (3) HIV services (see
+Ducharme et al. 2013). This paper is concerned with the
+third protocol of the CJ-DATS project, HIV Services and
+Treatment Implementation in Corrections (HIV-STIC),
+and the sustainability of the outcomes from that study.
+Methods
+To gain a better understanding of the processes that pro-
+mote implementation of evidence-based HIV services in
+correctional settings, the HIV Services and Treatment Im-
+plementation in Corrections (HIV-STIC) project utilized a
+multisite, cluster randomized trial to test an organizational
+process improvement strategy (Belenko et al. 2013). Each
+of nine research centers was paired with a criminal justice
+partner agency, generally a state- or county-level jail or
+prison agency. The experimental sites initiated improve-
+ments in evidence-based HIV services using a local change
+team (LCT) approach involving staff from correctional,
+medical, and community health agencies. With the help
+of a trained coach, the change teams were expected to
+engage in several actions, including a needs assessment,
+strategic planning, and a series of rapid cycle process
+improvement activities designed to improve either HIV
+testing, prevention, or linkage to care.
+The HIV service improvements implemented as a part of
+the HIV-STIC protocol varied considerably across research
+centers (Belenko et al. 2013). The change teams selected a
+variety of HIV services for improvement during the course
+of the intervention. Some examples include increasing HIV
+Visher et al. Health and Justice (2015) 3:5 Page 2 of 9
+prevention attendance among female inmates; increasing
+the percentage of inmates receiving an HIV test at admis-
+sion; and improving the linkage to community treatment
+for HIV positive inmates leaving prison.
+The majority of the literature on sustainability has in-
+vestigated the implementation and sustainability of com-
+munity programs promoting public health. Several
+factors deemed crucial in community programs may
+have a different impact on services implemented in a
+correctional setting, which is a highly organized environ-
+ment with distinctive priorities (i.e., public safety). The
+primary aims of the sustainability and success substudy
+were to carry out qualitative, comparative case-study re-
+search at the nine research sites to better understand:
+(1) organizational systems change and sustainability of
+improvements in HIV services in correctional agencies,
+and (2) organizational characteristics and processes that
+lead to "successful" and "unsuccessful" implementation.
+This paper addresses the first aim and reports on the
+findings about the sustainability of the HIV services im-
+provements using interviews with the principal re-
+searcher at each center and lead administrator of their
+partner criminal justice agency six to nine months after
+implementation ended. The perceptions of the key infor-
+mants who design and deliver the implementation are
+important for understanding pertinent factors related to
+service sustainability.
+Research questions
+The principal research question that this study sought to
+address was the following: What helps and hinders the
+medium-term sustainability of improvements in HIV ser-
+vices in correctional settings? Specifically, this study aims to
+explore three facets of sustainability: (1) What changes in
+the implementation process and outcome have been sus-
+tained? (2) To what extent has sustainability of policy or
+practice changes been achieved? (3) What factors were
+perceived by researchers and practitioners as facilitators or
+barriers that influenced the sustainability of implemented
+practices as well as the degree of sustainability?
+Participants
+The research center principal investigator (PI) and the lead
+administrator, or executive sponsor (ES), (or their desig-
+nees) in each of the nine study sites were recruited to
+participate in an in-depth, semi-structured telephone inter-
+view. In the HIV-STIC protocol, an ES is an agency-level
+administrator who determines the intervention focus in
+their state or county and passively monitors local progress
+without being involved in day-to-day management of the
+project implementation (Belenko et al. 2013). In the nine
+sites, these individuals held positions such as correctional
+medical director, chief medical executive, health care ad-
+ministrator, deputy commissioner of support services, and
+state infectious disease physician for corrections. PIs and
+ESs from nine research sites were contacted; nine PIs and
+eight ESs participated in the interviews (one ES was no
+longer with the organization by the time the interviews
+were conducted).
+Procedures and measures
+The semi-structured interview focused on each respon-
+dent's evaluation and perception of the implementation
+of the HIV-STIC intervention in their respective study
+sites. Examples of topics covered in the interview per-
+tinent to the current study included: (a) the impact of
+the protocol on each study site, (b) elements that had
+been sustained and why, and (c) lasting changes to the
+delivery of HIV services. The semi-structured interview
+guide was approved by the Internal Review Board at
+each research center. Six to nine months following the
+completion of HIV-STIC implementation, PIs and ESs
+were recruited for an interview, which was conducted
+by a senior qualitative researcher via telephone. Each
+interview lasted about one hour. Informed consent was
+obtained prior to each interview. Interviews were tran-
+scribed verbatim and imported into Altas.ti for analysis.
+Analyses
+Inductive coding was used to analyze the qualitative
+data, which generated seven primary codes: (1) change
+team issues, (2) communication, (3) environmental factors,
+(4) focus of intervention, (5) success, (6) sustainability, and
+(7) the appropriateness of the local change team process.
+Filtering on the primary code "sustainability," data were
+further inductively coded, which produced three secondary
+codes: (1) tangible elements of sustainability, (2) peripheral
+elements of sustainability, and (3) factors associated with
+sustainability. Two primary coders, supervised by a senior
+qualitative researcher, were involved in the primary and
+secondary coding processes. During the primary coding
+stage, two coders first coded four transcripts (two PI tran-
+scripts and two ES transcripts) independently and then dis-
+cussed the discrepancies and consolidated the codebook.
+Afterwards, coders split work but continued the discussion
+and debriefing during the entire coding process. The process
+was repeated during the secondary coding stage. In data
+analysis, three qualitative researchers (including the two pri-
+mary coders) immersed themselves in the data and dis-
+cussed the emergent themes until consensus was reached.
+The data analysis yielded three main themes and several
+subthemes, which are explicated in the following section.
+Results and discussion
+Analysis revealed that during the months after imple-
+mentation a majority (6 out of 9) of the research sites
+were able to sustain the practices or processes that were
+introduced through HIV-STIC, although the degree and
+Visher et al. Health and Justice (2015) 3:5 Page 3 of 9
+type of sustainability varied. Three types of sustainability
+were reported by study participants: sustainability of
+changes to HIV services, sustainability of the local
+change team implementation strategy, and sustainability
+of other peripheral elements related to the HIV-STIC
+study. In addition to variation in the type of sustainability
+that was reported, study participants indicated that the
+degree of sustainability was also multifaceted in that new
+practices or processes were adopted at both the agency-
+level and the system-level of the site. Finally, participants
+reported several factors that influenced the sustainability of
+changed HIV services. Each of these themes is discussed.
+Sustaining changes to HIV services
+Respondents from several sites stated that they were able
+to continue providing the services related to the focus
+area (i.e., prevention, testing, or linkage to treatment)
+that they implemented during the HIV-STIC study.
+Changes were sustained either by codifying the changes
+into system procedures or institutionalizing them into a
+system policy. As an example of codifying new practices
+into a system procedure, the PI from a site that focused
+on the linkage between prison-based agencies and com-
+munity treatment providers stated that:
+The other thing that they did was to get meetings
+scheduled with the providers and have...attendance at
+those meetings become a part of their probation and
+parole guidelines so that they actually had to do that
+as part of their... supervision plan.
+In this example, a new process for enhancing the linkage
+process ­ meeting with the community provider­ was co-
+dified into the standard procedures for the probation/parole
+officers to follow in developing their supervision plan.
+At several sites, changes in the provision of HIV services
+were sustained because the implemented changes had
+been institutionalized into the system policy. For example,
+one PI from a site focusing on enhancing the linkage to
+treatment said
+The...community partner and the change team leader
+created a communications form to fax back and forth
+between the two agencies. And...all of that work got
+instituted into DOC policy.
+In addition, some sites were able to disseminate the
+changes into a broader system context and reach a
+greater scope. For example, the ES of a site focusing on
+the linkage to treatment said:
+Whatever the intervention team produced if it was
+good we used it in both facilities [i.e., a male facility
+and a female facility]... I mean the intervention was
+finished by the time we got around to understanding
+this aspect of the problem [in the process for
+scheduling appointments] and investigating it in
+detail... We actually went [live] with our [new] pilot
+electronic medical records two weeks ago. And that's at
+all the facilities here that serve females, [in] three
+different facilities.
+For this site, changes to practices concerning linkage to
+HIV treatment (i.e., scheduling) were piloted as part of
+HIV-STIC. They started with implementing an intervention
+in one facility and expanded the intervention to the control
+group. In the few months after implementation, these
+changes were scaled-up into the broader system context
+across three different facilities. This scaling-up of the practice
+points to this site's ability to sustain the improvements.
+Sustaining the local change team implementation
+strategy
+In addition to sustaining the actual changes to HIV ser-
+vices, participants also highlighted the value of the Local
+Change Team (LCT) model to the sites and noted how
+its use was sustained beyond the HIV-STIC study as a
+strategy for continuing to improve HIV services. Add-
+itionally, in some sites, the LCT model was used for
+implementing changes to other service areas in the
+criminal justice agency. For example, a PI reported how
+their criminal justice partner applied the LCT model for
+promoting other health services:
+Our Executive Sponsor and his bureau [buy into this
+LCT model and] they've actually discussed using this
+model for other issues in their system. [Administrators
+in the] healthcare agency wanted to use the change
+team model to figure out linkages for other chronic
+health issues, not just HIV.
+The sustainability of the LCT model was particularly
+noteworthy when the LCT model was "scaling out"
+(Hendricks Brown 2014) in a correctional setting (e.g.,
+into a new environment with a different mission). For
+example, an ES in one research site noted that:
+I've [been] promoted to another facility that's much larger
+and [has] a much different mission [i.e., intake
+department] than where I was before. And so it's a
+completely different focus; it's a completely different
+mission and there are things that I have implemented in
+processes [in the new facility] and you know it's [using] the
+change model and it's served me well [in my new role].
+Other peripheral elements related to the HIV-STIC study
+During HIV-STIC, change team efforts were focused on
+improving HIV services. However, during this process,
+Visher et al. Health and Justice (2015) 3:5 Page 4 of 9
+several peripheral elements emerged as a result of the
+organizational intervention, including the establishment
+of networks between different stakeholders, and en-
+hanced collaboration and coordination between different
+agencies. These peripheral elements are implicitly associ-
+ated with the way agencies provide treatment services,
+and sustaining these elements often led to improved
+quality of client services. One ES stated that:
+[After the implementation ended], they were [still]
+using [the relationships with the community providers]
+... and [keeping] in contact with [those community
+providers] from our medical field prison...when
+making referrals.
+Likewise, one PI at another site reported that the
+HIV-STIC project brought corrections and community
+providers together and the communication persisted
+after the implementation ended.
+Once the project was over that relationship [between
+corrections and community providers] still existed and
+our change team leader actually got promoted to the
+prisons and she took that relationship with her and is
+now training her staff at the prisons to work with that
+community provider and go visit the community
+facility and get to know those people.
+Factors influencing sustainability of changes to HIV services
+In addition to identifying several facets of sustainability
+as it related to the HIV-STIC study, analyses identified
+several factors deemed critical for successfully sustaining
+implemented changes as well as barriers that were asso-
+ciated with sustaining these changes. These factors can
+be categorized into three themes: organizational en-
+dorsement, resources, and champions.
+Organizational endorsement
+Organizational endorsement, a theme composed of ad-
+ministrative and staff buy-in, emerged as a prominent
+facilitator to sustaining implemented changes to HIV
+services. Administrative buy-in refers to administrative-
+level acknowledgement of the value of the implemented
+changes and willingness to actively support the continuity
+of these changes. For example, one ES who confirmed that
+changes were sustained at his site stressed the value he
+places on service linkage:
+I keep saying it's because it's the continuity of care that
+we want to keep intact...And that gives us satisfaction
+and also makes us feel comfortable that when we are
+releasing our offender, making sure that [the offender]
+has full knowledge [of where he would receive his
+aftercare treatment].
+In this example, administrative buy-in facilitated the
+sustainability of the intervention because this ES under-
+stood the value of executing the service changes and was
+invested in sustaining them.
+Another participant, a PI, cited the importance of staff
+buy-in during project implementation for promoting the
+sustainability of implemented changes:
+The executive sponsor just said "yep this is what we're
+doing from here on out." And the folks that we
+involved, and the nice part is that [ES] doesn't even
+have to filter that down because the folks involved
+from the change team and even the person in the
+control group at the other institution are right there,
+they already know about it...The folks that are in
+charge of it were already involved and so they're
+already on board and it just becomes the procedure of
+the institution moving forward because they're already
+working on it themselves in a sense.
+Given the dynamic organizational context where the
+implementation took place, the organizational endorse-
+ment was not always granted and a lack of buy-in became
+a barrier to sustainability. For example, one PI identified
+the incompatibility between implemented changes and the
+organization's strategic priorities as a barrier to systematic
+dissemination and sustainability:
+When you look at the system's priority, not the
+correctional health services around HIV but the
+system's priority, that's not where they are right now
+because right now what they are seeing is that they are
+understaffed.
+At this site, insufficient organizational endorsement
+resulted from a mismatch between the project's goals
+and the current organizational focus, which prevented
+the sustainability of changes to HIV services imple-
+mented during the HIV-STIC study. In addition, this
+quote illustrates the influence of organizational re-
+sources in the sustainability of implemented practices, a
+prominent theme that is explicated in the following
+section.
+Resources and staff continuity
+Participants from several sites indicated the importance
+of continuous funding for sustaining services and the
+constraints of the lack of resources (including human re-
+sources) on sustaining the implemented changes. For ex-
+ample, one ES noted that changes were discontinued
+when the HIV-STIC study was over due to a lack of
+funding:
+Visher et al. Health and Justice (2015) 3:5 Page 5 of 9
+It is on the shelf and I continue to bother the DOC
+[Department of Corrections] to see if they will fund it.
+They kept saying "yes," "maybe," "yes," "maybe". And
+then I'm still working with [another agency] with the
+hopes that they can write a grant. The problem is that
+I'm overworked enough I don't have the time to write
+grants right now and so that's where it kind of fell flat.
+In this example, job priorities also served as a promin-
+ent barrier wherein staff's regular job responsibilities
+competed with the efforts in sustaining the changes.
+This alludes to another crucial factor in determining the
+sustainability of service changes: the availability and in-
+volvement of key players. In fact, several sites experi-
+enced administrative and line-staff turnover as a barrier
+to carrying on the implemented changes, as noted by
+one ES:
+The person who replaced me, I think she was brand
+new to the position, I think she had so much else on
+her plate, so to speak, with learning the new job and
+it's hard to say.
+At this site, the ES's job transition exerted a negative in-
+fluence on the continuity of practice adoption, which is in
+sharp contrast to the facilitative effect of organizational
+endorsement from the administrators and staff who
+remained in their positions.
+Likewise, the ES from another site was concerned
+about the staff turnover at the healthcare agency which
+may have produced the discontinuity of practices.
+So, even if you have the policy in place, even if you have
+the protocol in place, if you go through three people
+within the positions and contracted health care is like
+that, you have constant turnover, you know you're going
+to continue to have [turnover], those issues.
+Champion
+Disseminating evidence-based practices in service orga-
+nizations can range from "letting it happen" to "making
+it happen," depending on the degree of involvement by
+stakeholders (Greenhalgh et al. 2004). Indeed, participants
+highlighted the influence of administrators and LCT
+leaders who, beyond just buying-in and supporting the
+implementation efforts, actually served as a champion
+for the sustainability of implemented changes. For ex-
+ample, one PI stated that the ES at their site advocated
+for sustaining and scaling-up the changes to more sites:
+The executive sponsor in our state was aware of all
+the changes that were made and, as many might be
+helpful in other settings, she moved to suggest them
+and to have those kinds of changes made elsewhere.
+Moreover, administrators and LCT leaders took advan-
+tage of their professional experience and knowledge of
+the structure and operation of healthcare agencies in
+correctional settings to proactively identify the factors,
+especially potential barriers, pertinent to service sustain-
+ability. Illustrating this point, one PI said:
+[The change team leader] kept making that very clear
+along the whole way, to me and to the team and to
+everybody she was saying because her whole thing was
+we have to get the stuff in the policy... That was her
+pushing that this needs to be DOC policy. This needs
+to be DOC policy, which doesn't need to be this
+contractor's practice. This needs to be DOC policy.
+Clearly, this LCT leader employed her professional
+vision and influences to strategically promote the
+continuity of changes that emerged from the HIV-STIC
+organizational intervention.
+Conclusions
+Despite efforts being made to reduce the gap between
+evidence-based practices and routine practices (e.g.,
+Proctor et al. 2009; Greenhalgh et al. 2004), there remains
+a lack of literature regarding successful sustainability and
+dissemination of organizational changes in health-related
+settings (e.g., Goisman et al. 1999; McHugh and Barlow
+2010; Stewart and Chambless 2007). Limited research has
+identified the factors that influence sustainability including
+characteristics of the intervention, organizational factors,
+and contextual factors (e.g., Scheirer and Dearing 2011).
+More research is needed, particularly regarding the factors
+that influence the implementation of health services in a
+criminal justice setting. Anchored in the HIV-STIC proto-
+col, this study shed light on what elements were sustained
+and factors that facilitated or hindered the sustainability of
+the intervention across nine research sites, using principal
+investigators and lead agency administrators as key
+informants.
+Six out of nine research sites reported that the imple-
+mented services had been either codified at the site or in-
+stitutionalized into agency (i.e., Department of Correction)
+policy at the site, or scaled up to a broader context in
+terms of extending the services or practices to other fa-
+cilities. In addition, participants reported a peripheral
+element of sustainability--improvements in the relation-
+ship between different agencies providing HIV services.
+Inter-organizational collaboration and communication,
+which are opportunities for learning and information shar-
+ing in the pursuit of service enhancement, are believed to
+promote implementation processes and therefore quality
+of services provided in organizations. The relationships
+established during the course of implementation, either as
+a focus area of the intervention (e.g., linkage to treatment)
+Visher et al. Health and Justice (2015) 3:5 Page 6 of 9
+or an inevitable component peripheral to implementa-
+tion is a critical element of sustainability. Additionally,
+inter-organizational relationships developed during the
+HIV-STIC study strengthened the partnership between
+multiple organizations and facilitated the communication
+of organizational values and missions, which in turn led to
+alignment of practices and eventually better quality of
+care.
+There is a dearth of research investigating the factors
+that influence sustainability of health practices. The
+current findings showed that the sustainability of health
+services is contingent on organizational endorsement
+(including administrative and staff buy-in), staff con-
+tinuity, and having a champion driving the implemented
+services, whereas a mismatch between intervention and
+organizational priorities, a lack of resources, and staff
+turnover served as barriers to sustaining practices. Ac-
+cordingly, the lack of sustainability in three sites in this
+study was linked to one or more of several factors:
+the incompatibility of the implemented services with
+organizational priorities, staff turnover (especially among
+those who had participated in the intervention), and lack
+of funding to sustain the implemented services.
+Organizational endorsement at multiple levels is likely
+the principal factor that facilitates sustainability. Several
+sites identified that the buy-in and support from both
+administrators and staff were crucial to maintain the
+new or improved HIV services. When the value of prac-
+tices was salient to administrators or congruent with the
+organizational mission, administrators tended to buy-in
+and put efforts in place to sustain the practices. The
+buy-in of the staff, particularly those who had been en-
+gaged in the implementation process, also facilitated sus-
+tainability of the intervention because they actually
+served as the front-line workforce who continued those
+practices during the post-implementation period.
+The sustainability of implemented services depends on
+the congruence with organizational priorities. We found
+a lack of sustainability for sites where organizations set
+different priorities than goals of the implemented ser-
+vices. In particular, all three sites which did not continue
+implemented services did not view the services as a core
+component of the staff's job responsibilities. Therefore,
+the compatibility of organizational priorities must be
+considered in order to ensure the applicability of imple-
+mentation outcomes across a range of settings (Proctor
+et al. 2011).
+Having an administrative-level champion who maneu-
+vers in a dynamic, complex organizational structure and
+drives forward the sustainability of implemented prac-
+tices is also important. In the sites where practices were
+sustained, the executive sponsor either directly requested
+the scaling up of practices to a broader system or stra-
+tegically disseminated those practices (e.g., making the
+implemented practices part of existing agency policy).
+This is consistent with previous research indicating that
+having a champion with a managerial position who ad-
+vocates for the intervention is necessary to maintain
+changes (Goodson et al. 2001; Greenhalgh et al. 2004;
+Wandersman et al. 2000).
+One of the most commonly cited factors that hinder
+service sustainability is the availability of resources, par-
+ticularly the project funding (Blasinsky et al. 2006; Wiig
+et al. 2010), which also emerged in the current study. A
+deficiency in funding and issues with staffing, particu-
+larly prominent in sites which discontinued the imple-
+mented services, resulted in a lack of sustainability for
+the implemented HIV services. With staff turnover and
+work overburden, there was a lack of human resources
+to effectively continue the implemented practices, which
+was in turn detrimental to service sustainability. Staff
+who had been trained during the implementation played
+a critical role in sustaining the implemented practices.
+Another interesting, but rarely discussed outcome in the
+sustainability literature is the sustainability of implementation
+strategies. In addition to the endurance of actual implemen-
+tation outcomes, several sites have reported that they have
+extended or planned to extend the LCT model to improve
+services designed for other health-related problems.
+This indicates that stakeholders have not only acknowl-
+edged the value of improved HIV services and practices in
+a correctional setting but also adopted the organizational
+approach for implementing the practices. This finding is
+consistent with Burnes and Jackson's (2011) argument that
+the success of interventions relies on the acceptance of the
+content of the implementation as well as the approach
+used for implementation. The sustainability of the imple-
+mentation strategy is particularly crucial when the avail-
+ability of resources (e.g., funding, staff resources) does not
+allow for the continuation of implemented practices, but
+the implementation strategy or model still survives or
+penetrates through the system to identify other changes
+that could be made, or improve other aspects of service
+delivery.
+The significance of the HIV-STIC project
+This paper's analysis of policy and practice changes that
+were sustained as a result of the HIV-STIC change team
+intervention reinforces the study's findings on the positive
+impacts of the intervention on both service delivery and
+staff attitudes (see Pearson et al. 2014; Visher et al. 2014).
+The change teams selected a variety of HIV services for
+improvement during the course of the intervention,
+including increasing HIV prevention attendance among
+female inmates; increasing the percentage of inmates re-
+ceiving HIV education just prior to release; increasing the
+percentage of inmates receiving an HIV test at admission;
+increasing overall HIV testing; improving the linkage to
+Visher et al. Health and Justice (2015) 3:5 Page 7 of 9
+community treatment for HIV positive inmates leaving
+prison; reducing wait times and no-shows to the commu-
+nity HIV treatment provider; improving continuity of anti-
+retroviral therapy medications for inmates leaving prison;
+and expanding peer-led HIV prevention programs
+(Belenko et al. 2013). Using a prospective meta-analytic
+design, analysis of these outcomes revealed an overall
+positive effect that was statistically significant, with inter-
+vention facilities delivering more HIV services (prevention,
+testing, and/or linkage to treatment) for offenders under
+correctional supervision than the control facilities
+(Pearson et al. 2014). Moreover, staff in the facilities
+that implemented the change team approach for im-
+proving the delivery of HIV services increased their per-
+ceptions of the value of HIV services as compared to
+staff in the control facilities (Visher et al. 2014). Staff in
+the facilities that participated in the change team activ-
+ities rated implementing HIV services in their facility as
+more acceptable and feasible as compared with staff in
+the control facilities. Thus, the set of results from the
+current analysis indicating sustained changes in service
+outcomes implemented during the HIV-STIC study
+provides preliminary support for the use of a local
+change team approach to implementing evidence-based
+practices in criminal justice settings.
+Future directions
+This study was conducted between six and nine months
+after the end of the implementation. However, there
+might be a delay between when changes have been sus-
+tained and when they can be observed. Moreover, the
+persistence of implemented changes may fluctuate over
+time. Future studies could look at the sustainability from
+a long-term perspective and assess which aspects of the
+implemented services are sustained, with a focus on how
+to maximize the investment and capacity of an imple-
+mentation project.
+It is important to distinguish the sustainability of im-
+plementation processes and strategies (e.g., interagency
+relationship, LCT model) from the sustainability of ac-
+tual implementation outcomes. Even though they are
+two important pillars for a successful implementation,
+little attention has been paid to understand the extent to
+which implementation processes have been sustained and
+the pertinent factors that influence that sustainability. Fu-
+ture research could look at how implementation processes
+are sustained as well as how the organizational adoption
+of implementation processes serves as an instrument to
+enhancing the quality of health services.
+Abbreviations
+CJ-DATS: Criminal Justice Drug Abuse Treatment Studies; HIV-STIC: HIV
+Services and Treatment Implementation in Corrections; LCT: Local Change
+Team; PI: Principal investigator; ES: Executive sponsor.
+Competing interests
+The authors declare that they have no competing interests.
+Authors' contributions
+CV led the development of the research plan for the sustainability substudy
+and directed its implementation. YY and YP led the coding and analysis of
+the interviews with SH and HS as contributors. SM conducted the interviews.
+HS and JP contributed to the analysis, results and discussion, and edited
+parts of the manuscript. All authors read and approved the final manuscript.
+Acknowledgements
+This study is funded under a cooperative agreement from the U.S.
+Department of Health and Human Services, National Institutes of Health,
+National Institute on Drug Abuse (NIH/NIDA), with support from the
+Substance Abuse and Mental Health Services Administration (SAMHSA) and
+the Bureau of Justice Assistance, US Department of Justice. The authors
+gratefully acknowledge the collaborative contributions by NIDA; the
+Coordinating Center, AMAR International, Inc.; and the Research Centers
+participating in CJ-DATS. The Research Centers include: Arizona State University
+and Maricopa County Adult Probation (U01DA025307); University of Connecticut
+and the Connecticut Department of Correction (U01DA016194); University of
+Delaware and the Delaware Department of Corrections (U01DA016230); Friends
+Research Institute and the Maryland Department of Public Safety Correctional
+Services' Division of Parole and Probation (U01DA025233); University of Kentucky
+and the Kentucky Department of Corrections (U01DA016205); National Development
+and Research Institutes, Inc. and the Colorado Department of Corrections
+(U01DA016200); University of Rhode Island, Rhode Island Hospital and the Rhode
+Island Department of Corrections (U01DA016191); Texas Christian University and
+the Illinois Department of Corrections (U01DA016190); Temple University and
+the Pennsylvania Department of Corrections (U01DA025284); and the University
+of California at Los Angeles and the Washington State Department of Corrections
+(U01DA016211). The views and opinions expressed in this report are those of the
+authors and should not be construed to represent the views of NIDA nor any of
+the sponsoring organizations, agencies, CJ-DATS partner sites, or the U.S.
+government.
+Author details
+1Center for Drug & Health Studies, Department of Sociology and Criminal
+Justice, University of Delaware, Newark, USA. 2Department of Psychology,
+University of Louisiana at Lafayette, Lafayette, USA. 3Friends Research
+Institute, Baltimore, MD, USA. 4University of Connecticut, Storrs, USA. 5Center
+for Healthcare Organization and Implementation Research (CHOIR), Edith
+Nourse Rogers Memorial VA Medical Center, Bedford, USA. 6Institute of
+Behavioral Research, Texas Christian University, Fort Worth, USA.
+Received: 19 December 2014 Accepted: 23 February 2015
+References
+Aarons, G, Hurlburt, M, & Horwitz, S. (2011). Advancing a conceptual model of
+evidence based practice implementation in public service sectors.
+Administration and Policy in Mental Health, 38(1), 4­23.
+Beckwith, CG, Zaller, ND, Fu, JJ, Montague, BT, & Rich, JD. (2010). Opportunities to
+diagnose, treat, and prevent HIV in the criminal justice system. Journal of
+Acquired Immune Deficiency Syndromes, 55(Suppl 1), S49­S55.
+Belenko, S, Visher, CA, Copenhaver, M, Hiller, M, Melnick, G, O'Connell, D, Pearson,
+F, Fletcher, B, & and the HIV STIC Workgroup of CJ-DATS. (2013). A cluster
+randomized trial of utilizing a local change team approach to improve the
+delivery of HIV services in correctional settings: Study Protocol. Health &
+Justice, 1, 8. doi:10.1186/2194-7899-1-8.
+Blasinsky, M, Goldman, HH, & Untzer, J. (2006). Project IMPACT: A report on
+barriers and facilitators to sustainability. Administration and Policy in Mental
+Health and Mental Health Services Research, 33, 718­729.
+Booker, C, Flygare, C, Solomon, L, Ball, S, Pustell, M, Bazerman, L, & Spaulding, A.
+(2013). Linkage to HIV care for jail detainees: findings from detention to the
+first 30 days after release. AIDS and Behavior, 17(Suppl 2), 128­136.
+Burnes, B, & Jackson, P. (2011). Success and failure in organizational change: an
+exploration of the role of values. Journal of Change Management,
+11(2), 133­162.
+Centers for Disease Control and Prevention. (2003). Incorporating HIV prevention
+into the medical care of persons living with HIV: Recommendations of CDC,
+Visher et al. Health and Justice (2015) 3:5 Page 8 of 9
+the Health Resources and Services Administration, the National Institutes of
+Health, and the HIV Medicine Association of the Infectious Diseases Society
+of America. MMWR, 52(RR-12), 1­24.
+Dopson, S, Fitzgerald, L, Ferlie, E, Gabbay, J, & Locok, L. (2002). No magic targets:
+changing clinical practice to become more evidence based. Health Care
+Management Review, 27, 35­47.
+Ducharme, LJ, Chandler, RK, & Wiley, TR. (2013). Implementing drug abuse
+treatment services in criminal justice settings: Introduction to the CJ-DATS
+study protocol series. Health & Justice, 1, 5. doi:10.1186/2194-7899-1-5.
+Fitzgerald, L, Ferlie, E, Wood, M, & Hawkins, C. (2002). Interlocking interactions,
+the diffusion of innovations in health care. Human Relations, 55, 1429­1449.
+Goisman, RM, Warshaw, MG, & Keller, MB. (1999). Psychosocial treatment
+prescriptions for generalized anxiety disorder, panic disorder, and social
+phobia, 1991­1996. American Journal of Psychiatry, 156(11), 1819­1821.
+Goodson, P, Smith, MM, Evans, A, Meyer, B, & Gottlieb, NH. (2001). Maintaining
+prevention in practice survival of PPIP in primary care settings. American
+Journal of Preventive Medicine, 20(3), 184­189.
+Greenhalgh, T, Robert, G, Macfarlane, F, Bate, P, & Kyriakidou, O. (2004). Diffusion
+of innovations in service organizations: Systematic review and
+recommendations. Milbank Q, 82, 581­629.
+Grimshaw, JM, Eccles, MP, Lavis, JN, Hill, SJ, & Squires, JE. (2012). Knowledge
+translation of research findings. Implementation Science, 7, 50.
+doi:10.1186/1748-5908-7-50.
+Hendricks Brown C (2014). Construction of an implementation science for scaling
+out interventions. Accessed at http://www.slideshare.net/HopkinsCFAR/
+construction-of-an-implementation-science-for-scaling-out-interventions.
+Maruschak, L. (2012). HIV in Prisons, 2001­2010. (NCJ 228307). Washington, DC: U.S
+Department of Justice, Bureau of Justice Statistics.
+McHugh, RK, & Barlow, DH. (2010). The dissemination and implementation of
+evidence-based psychological treatments: a review of current efforts. American
+Psychologist, 65(2), 73­84.
+Michie, S, Fixsen, D, Grimshaw, J, & Eccles, MP. (2009). Specifying and reporting
+complex behaviour change interventions: the need for a scientific method.
+Implementation Science, 4, 40. doi:10.1186/1748-5908-4-40.
+Pearson, F, Shafer, MS, Dembo, R, Vega-Debién, G, Pankow, J, Duvall, JL, Belenko,
+S, Frisman, LK, Visher, CA, Pich, M, & Patterson, Y. (2014). Efficacy of a process
+improvement intervention on delivery of HIV services: A multi-site trial. Am J
+of Public Health, 104(12), 2385­2391.
+Proctor, EK, Landsverk, J, Aarons, G, Chambers, D, Glisson, C, & Mittman, B. (2009).
+Implementation research in mental health services: an emerging science
+with conceptual, methodological, and training challenges. Administration and
+Policy in Mental Health, 36, 24­34.
+Proctor, EK, Silmere, H, Raghavan, R, Hovmand, P, Aarons, G, Bunger, A, & Hensely,
+M. (2011). Outcomes for implementation research: conceptual distinctions,
+measurement challenges, and research agenda. Administration and Policy in
+Mental Health, 38, 65­76.
+Scheirer, MA, & Dearing, JW. (2011). An agenda for research on the sustainability
+of public health programs. Am J of Public Health, 11, 2059­2067.
+Schell, SF, Luke, DA, Schooley, MW, Elliott, MB, Herbers, SH, Mueller, NB, & Bunger,
+AC. (2013). Public health program capacity for sustainability: a new
+framework. Implementation Science, 8, 15. doi:10.1186/1748-5908-8-15.
+Springer, SA, & Altice, FL. (2005). Managing HIV/AIDS in correctional settings.
+Current HIV/AIDS Reports, 2(4), 165­170.
+Stewart, RE, & Chambless, DL. (2007). Does psychotherapy research inform
+treatment decisions in private practice? Journal of Clinical Psychology,
+63, 267­281.
+Visher, CA, Hiller, M, Belenko, S, Pankow, J, Dembo, R, Frisman, LK, Pearson, FS,
+Swan, H, & Wiley, TRA. (2014). The effect of a local change team intervention
+on staff attitudes towards HIV service delivery in correctional settings: a
+randomized trial". AIDS Education and Prevention, 26, 411­428.
+Wandersman, A, Imm, P, Chinman, M, & Kaftarian, S. (2000). Getting to outcomes:
+A results-based approach to accountability. Evaluation and Program Planning,
+23, 389­395.
+Wiig, J, Cocozzo, JJ, Morris, JL, Shufelt, JL, & Skowyra, KR. (2010). Sustaining
+Change: A Models for Change Guidebook. Child Welfare League of America.
+Washington DC: National Center for Mental Health and Juvenile Justice/
+Technical Assistance Collaborative Inc.
+Wiltsey Stirman, S, Kimberly, J, Cook, N, Galloway, A, Castro, F, & Carns, M. (2012).
+The sustainability of new programs and innovations: a review of the
+empirical literature and Recommendations for future research.
+Implementation Science, 7, 17. doi:10.1186/1748-5908-7-17.
+Submit your manuscript to a
+journal and benefit from:
+7 Convenient online submission
+7 Rigorous peer review
+7 Immediate publication on acceptance
+7 Open access: articles freely available online
+7 High visibility within the field
+7 Retaining the copyright to your article
+Submit your next manuscript at 7 springeropen.com
+Visher et al. Health and Justice (2015) 3:5 Page 9 of 9
+

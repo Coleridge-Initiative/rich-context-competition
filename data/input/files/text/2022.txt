@@ -1,0 +1,899 @@
+Association of candy consumption with
+body weight measures, other health risk
+factors for cardiovascular disease, and
+diet quality in US children and
+adolescents: NHANES 1999Á2004
+Carol E. O'Neil1*, Victor L. Fulgoni III2 and Theresa A. Nicklas3
+1Louisiana State University Agricultural Center, Baton Rouge, LA, USA; 2Nutrition Impact, LLC, Battle Creek, MI, USA;
+3Department of Pediatrics, USDA/ARS Children's Nutrition Research Center, Baylor College of Medicine, Houston,
+TX, USA
+Abstract
+Objective: The purpose of this study was to determine the effects of total, chocolate, or sugar candy
+consumption on intakes of total energy, fat, and added sugars; diet quality; weight/adiposity parameters; and
+risk factors for cardiovascular disease in children 2Á13 years of age (n07,049) and adolescents 14Á18 years
+(n04,132) participating in the 1999Á2004 National Health and Nutrition Examination Survey.
+Methods: Twenty-four hour dietary recalls were used to determine intake. Diet quality was determined using
+the Healthy Eating Index-2005 (HEI-2005). Covariate-adjusted means, standard errors, and prevalence rates
+were determined for each candy consumption group. Odds ratios were used to determine the likelihood of
+associations with weight status and diet quality.
+Results: In younger children, total, chocolate, and sugar candy consumption was 11.4 g91.61, 4.8 g90.35,
+and 6.6 g90.46, respectively. In adolescents, total, chocolate, and sugar candy consumption was 13.0 g90.87,
+7.0 g90.56, and 5.9 g90.56, respectively. Total candy consumers had higher intakes of total energy (2248.9
+kcals926.8 vs 1993.1 kcals915.1, pB0.0001) and added sugars (27.7 g90.44 vs 23.4 g90.38, pB0.0001)
+than non-consumers. Mean HEI-2005 score was not different in total candy and sugar candy consumers as
+compared to non-consumers, but was significantly lower in chocolate candy consumers (46.790.8 vs 48.39
+0.4, p00.0337). Weight, body mass index (BMI), waist circumference, percentiles/z-score for weight-for-age
+and BMI-for-age were lower for candy consumers as compared to non-consumers. Candy consumers were 22
+and 26%, respectively, less likely to be overweight and obese than non-candy consumers. Blood pressure,
+blood lipid levels, and cardiovascular risk factors were not different between total, chocolate, and sugar candy
+consumers and non-consumers (except that sugar candy consumers had lower C-reactive protein levels than
+non-consumers).
+Conclusion: This study suggests that candy consumption did not adversely affect health risk markers in
+children and adolescents.
+Keywords: children; adolescents; candy; chocolate; sugar candy; added sugars; discretionary calories; nutrient intake; dietary
+adequacy; health risk factors; healthy eating index; NHANES
+Received: 11 November 2010; Revised: 1 February 2011; Accepted: 17 May 2011; Published: 14 June 2011
+The prevalence of overweight and obesity in pedia-
+tric populations remains high; in 2007Á2008,
+16.9% of children were obese (Body Mass Index
+[BMI]-for-age percentile ]95) and 31.7% of children
+were overweight (BMI-for-age percentile ]85 to B95)
+(1). No statistically significant linear trends in high BMI
+were found over the time periods 1999Á2000, 2001Á2002,
+2003Á2004, 2005Á2006, and 2007Á2008 except among the
+heaviest males 6Á19 years of age. Current cutoffs for BMI
+in children can be used as an indication of adiposity (2).
+Obesity in children increases the risk of diseases
+previously seen mostly in adults, including hyperlipidemia
+(page number not for citation purpose)
+æ
+Original Article
+Food & Nutrition Research 2011. # 2011 Carol E. O'Neil et al. This is an Open Access article distributed under the terms of the Creative Commons Attribution-
+Noncommercial 3.0 Unported License (http://creativecommons.org/licenses/by-nc/3.0/), permitting all non-commercial use, distribution, and reproduction in any medium,
+provided the original work is properly cited.
+1
+Citation: Food & Nutrition Research 2011. 55 5794 - DOI: 10.3402/fnr.v55i0.5794
+(3), hypertension (3), metabolic syndrome (4), and type 2
+diabetes (4). Overweight children also suffer from dimin-
+ished health-related quality of life (5), bullying/teasing (6),
+and low self-esteem (7). Body mass index and waist
+circumference (WC) can also identify children and
+adolescents with a clustering of cardiovascular risk
+factors (8). Although studies are contradictory, over-
+weight in children may serve as a harbinger of adult
+disease (9). Overweight/obesity in childhood tracks into
+adulthood (10). Thus, it is important to understand the
+factors associated with pediatric obesity.
+One factor that may contribute to excess energy intake
+is the consumption of discretionary calories (11, 12). The
+2005 Dietary Guidelines for Americans (DGA) included
+a recommendation for discretionary calories that were
+defined as the difference between energy requirements
+and essential energy needed to meet recommended
+intakes (13). The concept of discretionary calories was
+translated into MyPyramid recommendations for con-
+sumers (14). The maximum number of discretionary
+calories recommended ranges from 100 to 300 kcals
+depending on age, gender, and physical activity level. The
+Healthy Eating Index-2005 (HEI) (15), which measures
+diet quality and adherence to the 2005 DGA, also
+includes discretionary calories. Solid fats, alcohol, and
+added sugars (AS) are major sources of discretionary
+calories. The 2010 Dietary Guidelines Advisory Commit-
+tee, however, suggested moving away from the concept of
+discretionary calories (16). Regardless, candy is a food
+source of calories.
+Intake of candy in US children is not well defined.
+Bachman et al. (17), did not provide the absolute intake
+of candy but showed using data from the National Health
+and Nutrition Examination Survey (NHANES) 2001Á
+2002 that candy was the fifth highest contributor of AS
+to the diet (6.2% of total AS) and was the sixth highest
+contributor of oils (4.6% of total oils). In 2008, per capita
+domestic disappearance of all candy/confectionery
+products was 21.7 pounds (18). Per capita food avail-
+ability data do not account for waste in the marketing
+system or the home; thus, data typically overestimate
+actual consumption. Candy has been shown to be the
+second most frequently purchased category of items
+(21.3% of all items) by children from `corner stores'
+(19). It has also been shown that the percentage of
+children consuming candy fell from 94% in 1973 to 71%
+in 1994, and that in that time, the gram amount of candy
+consumed fell from 45 g to approximately 35 g (20).
+Candy consumption has been associated with dental
+caries in children (21, 22), although caries development is
+dependent on factors other than just fermentable carbo-
+hydrate substrate in the mouth. These include oral
+hygiene, dental care, and fluoride use (23, 24). The effect
+of candy on weight and other health indicators is not well
+established, although it is intuitive that candy consump-
+tion would be positively associated with weight. Con-
+sumption of `sweets,' including, but not limited to candy,
+has been shown to be positively associated with weight
+(25) in children. In contrast, candy intake was inversely
+associated with weight in a longitudinal study of Swedish
+children (26). The goal of this study was to examine
+further the association between intake of candy and
+weight/adiposity, diet quality, and health risk indicators
+using a nationally representative sample of children.
+Subjects and methods
+Study population
+Data from children and adolescents 2Á18 years of age
+(n011,182) participating in the NHANES 1999Á2000,
+2001Á2002, and 2003Á2004 were combined for these
+analyses to increase sample size. Groups excluded from
+the analyses were females who were pregnant and/or
+lactating (n091), and those with 24-hour recall data
+judged to be incomplete or unreliable by the USDA's
+Food Surveys Research Group. This study was exempted
+by the Louisiana State University Agricultural Center's
+Institutional Review Board.
+Collection of dietary intake data
+Dietary intake data were obtained from in-person 24-
+hour dietary recall interviews administered using an
+automated multiple-pass method (27, 28). Parents/guar-
+dians of children 2Á5 years provided the 24-hour dietary
+recalls; children (6Á11 years) were assisted by an adult;
+and all others provided their own recall. For data
+collection years 1999Á2002, only a single 24-hour dietary
+recall was collected. Beginning in 2003Á2004, two 24-hour
+dietary recalls were collected; however, to ensure consis-
+tency within this study only data from the in-person
+interview (first recall) were used. Descriptions of the
+dietary interview methods are provided in the NHANES
+Dietary Interviewer's Training Manual; these include
+pictures of the Computer-Assisted Dietary Interview
+system screens, measurement guides, and charts that
+were used to collect dietary information (29).
+Candy consumption and nutrient intake data
+The survey food codes in USDA 1994Á1998 Survey
+Nutrient Database (30) and the Food and Nutrient
+Database for Dietary Studies (FNDDS), Versions 1.0
+(31) and 2.0 (32) were used in NHANES 1999Á2002 and
+2003Á2004, respectively, to determine intake of candy.
+Candy consumers were defined as those participants
+consuming any amounts of candy/confection except
+gum and were placed in one of three consumption
+groups: (a) any candy/confection (chocolate candy, sugar
+candy), (b) chocolate candy only, and (c) sugar candy
+Carol E. O'Neil et al.
+2
+(page number not for citation purpose)
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794
+only. To assess intake of energy, total fat, saturated fatty
+acids (SFA), and AS, the Food and Nutrient Database for
+Dietary Studies, versions 1 (31) and 2 (32) were used
+in NHANES, 2001Á2002 and 2003Á2004, respectively.
+The USDA 1994Á1998 Survey Nutrient Database was
+used to process the dietary interview data in NHANES
+1999Á2000 (30).
+The healthy eating index (HEI-2005)
+The HEI-2005 was used to determine diet quality (15, 33,
+34). The SAS code used to calculate HEI-2005 scores was
+downloaded from the Center for Nutrition Policy and
+Promotion website (35).
+Physiologic measures
+Height and weight were obtained according to NHANES
+protocols (36). Body Mass Index was calculated as body
+weight (kilogram) divided by height (meters) squared. The
+percentile and z-score of BMI-for-age was calculated using
+the Statistical Analysis Software (SAS) program for
+Growth Charts available from the Centers for Disease
+Control and Prevention (CDC) (37). Overweight was
+defined as a gender-and-specific BMI between the 85th
+and B95th percentile and obese was defined as a BMI ]
+95th percentile (38). Several measures of weight and
+adiposity were used in this study to look at the reliability
+in the results. The measures included BMI, BMI-percentile
+of weight for age, BMI-percentile of BMI for age, BMI
+z-score of BMI for age, z-score of weight for age, and
+triceps skinfolds.
+Waist circumference (36), blood pressure (39), labora-
+tory values of serum lipids (40), and other cardiovascular
+risk factors were determined according to NHANES
+protocols.
+Statistical analysis
+Sample-weighted data were used and all analyses were
+performed using SAS and SUDAAN Release 9.0.1
+(Research Triangle Institute, Research Triangle Park,
+NC) to adjust the variance for the complex sample
+design. For the years 1999Á2004, a 6-year weight variable
+was created by assigning two-thirds of the 4-year weight
+for 1999Á2002 if the person was sampled in 1999Á2002
+and assigning one-third of the 2-year weight for 2003Á
+2004 if the person was sampled in 2003Á2004. The 6-year
+sample weights were used in analyses of intake, body
+measurements, blood pressure, and laboratory data.
+Analyses of health parameters were adjusted for
+gender, ethnicity, age, and other relevant covariates (see
+footnote in tables for specifics). For certain analyses, self-
+reported exercise levels were used as a covariate; when
+inclusion of exercise in the regression models reduced the
+significance of the relationship of candy consumption
+with dependent variables of interest, the relationship was
+considered attenuated. Logistic regression was used to
+assess the risk of lower HEI-2005 scores, overweight, and
+obesity for candy consumers and non-consumers. Data
+are presented as means9standard errors, and a p-value
+of B0.05 was deemed significant. To further evaluate the
+association of candy intake with food/nutrient intake and
+health, we used methods of Huang et al. (41) to
+determine implausible energy intakes and certain ana-
+lyses were re-run to assess the impact of eliminating
+subjects with energy intakes too high or too low as related
+to expected energy requirements.
+Results
+Demographics
+Table 1 shows the demographics of the sample for child-
+ren 2Á13 years (n07,049) and adolescents 14Á18 years
+(n04,132). In children, a higher percentage of females
+than males consumed total candy (p00.0024); there was
+also a race/ethnicity difference among total candy (p0
+0.0064), chocolate candy (p00.0125), and sugar candy
+(p00.0001) consumers compared with non-consumers.
+Chocolate candy consumers were also older (8.091.6 vs
+7.690.05 years, p00.0222) than non-chocolate consu-
+mers. In adolescents, a higher percentage of females than
+males consumed total candy (p00.0007), chocolate candy
+(0.0024), and sugar candy (p00.0234). There was a race/
+ethnicity difference among total (pB0.0001), chocolate
+(p00.0064), and sugar candy (p00.0001) consumers
+when compared with non-consumers.
+Candy consumption
+In children 2Á13 years, the total (11.4 g91.61 vs 35.2 g9
+1.4), chocolate (4.8 g90.35 vs 35.8 g91.7), and sugar
+(6.6 g90.46 vs 29.0 g91.3) candy consumption for the
+total population and candy consumers only, respectively
+(Table 2). In adolescents, per capita and candy consumer
+intake was 13.0 g90.87 vs 46.2 g91.4, 7.0 g90.56 vs
+48.4 g92.0, and 5.9 g90.56 vs 36.1 g93.2 for total
+candy, chocolate candy, and sugar candy, respectively
+(Table 2).
+Nutrient intake and HEI-2005 scores
+Total candy consumers had higher intakes of energy
+(2248.9 kcals926.8 vs 1993.1 kcals915.1, pB0.0001)
+and AS (27.790.44 vs 23.490.38, pB0.0001) than non-
+consumers (Table 3). Chocolate candy consumers had
+higher intakes of energy (2333.8 kcals952.2 vs 2031.2
+kcals913.3, pB0.0001), total fat (79.0 g90.85 vs 75.2
+g90.40, p00.0001), SFA (28.8 g90.37 vs 26.5 g90.16,
+pB0.0001), and AS (27.7 g90.71 vs 24.3 g924.390.34,
+pB0.0001) than non-consumers. Sugar candy consumers
+had higher intakes of energy (2254.3929.4 vs 2024.49
+13.4, pB0.0001) and AS (28.490.51 vs 23.890.34,
+Effects of candy consumption in children
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794 3
+(page number not for citation purpose)
+Table 1. Demographics of total, chocolate, and sugar candy consumers and non-consumers 2Á13 years and 14Á18 years: National Health and Nutrition Examination Survey 1999Á2004
+Total candy-gum Chocolate candy Sugar candy
+Consumers Non-consumers Consumers Non-consumers Consumers Non-consumers
+Age group Mean9SE Mean9SE p-value Mean9SE Mean9SE p-value Mean9SE Mean9SE p-value
+2Á13 years
+Numbers n02,234 n04,815 n0857 n06,192 n01,594 n05,455
+Gender 0.0024 0.4983 0.9928
+Males 41.193.4 52.791.1 49.392.9 51.390.88 51.392.2 51.090.92
+Females 58.993.4 47.391.1 50.792.9 48.790.88 48.892.2 49.090.92
+Race/ethnicity 0.0064 0.0125 0.0001
+NH-White 71.892.6 70.892.1 76.792.8 68.892.0 69.892.4 68.892.1
+NH-Black 18.692.2 16.291.5 11.891.8 17.291.7 18.992.0 15.791.6
+Mexican Hispanic 9.691.7 13.091.6 11.491.8 15.091.6 11.391.5 15.591.7
+Age (years) 7.890.10 7.690.05 0.0619 8.090.16 7.690.05 0.0222 7.890.11 7.690.05 0.1077
+% 5 PIR 1.85 46.993.2 44.792.0 0.5474 48.393.5 51.291.7 0.4245 47.692.6 51.791.7 0.1155
+14Á18 years
+Numbers n01,224 n02,908 n0587 n03,545 n0745 n03,387
+Gender 0.0007 0.0024 0.0234
+Males 44.292.2 53.691.2 41.193.4 52.791.1 45.092.8 52.191.2
+Females 55.892.2 46.491.2 58.993.4 47.391.1 55.092.8 47.991.2
+Race/ethnicity B0.0001 0.0064 0.0001
+NH-White 67.892.3 72.392.1 71.892.6 70.892.1 64.792.6 72.392.0
+NH-Black 20.992.2 14.891.5 18.692.2 16.291.5 23.692.5 15.291.5
+Mexican
+Hispanic
+11.491.5 12.991.6 9.691.7 13.091.6 11.791.6 12.691.6
+Age (years) 16.090.06 16.090.03 0.9551 16.190.9 16.090.03 0.1726 15.990.07 16.090.04 0.4047
+% 5 PIR 1.85 46.392.3 44.592.1 0.5184 46.993.2 44.792.0 0.5474 44.492.6 45.191.9 0.8021
+Data are presented as sample-weighted means9SD.
+Abbreviations: NH, non-Hispanic; PIR, poverty income ratio.
+Carol E. O'Neil et al.
+4
+(page number not for citation purpose)
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794
+pB0.0001), and lower intakes of total fat (72.890.55 vs
+76.490.43, pB0.0001) and SFA (25.690.28 vs 27.19
+0.17, pB0.0001) than non-consumers.
+Mean HEI-2005 score was not different in total candy
+or sugar candy consumers as compared to non-consumers.
+However, the mean HEI-2005 score was significantly
+lower in chocolate candy consumers as compared to
+non-consumers (46.790.8 vs 48.390.4, p00.0337) (Table
+3). Results using reduced data set eliminating implausible
+intake provided similar results to those above.
+Anthropometrics, blood pressure, and laboratory values
+Mean adjusted levels of adiposity measures by candy
+consumption category are presented in Table 4. Total
+candy consumers had a significantly lower weight (42.1 kg9
+0.32 vs 43.5 kg90.27; p00.0001), BMI (19.590.12 vs
+20.190.10; pB0.0001), WC (67.7 cm90.35 vs 68.9 cm9
+0.28; p00.0001), triceps skinfolds (13.6 mm90.25 vs
+14.0 mm90.13; p00.0334), percentiles/z-scores for
+weight-for-age (59.190.71 vs 63.590.77, 0.3590.03 vs
+0.5190.03, respectively; both pB0.0001), and percen-
+tiles/z-scores for BMI-for-age (57.890.92 vs 62.790.76,
+0.2890.03 vs 0.4790.03; both pB0.0001) than non-
+consumers. Weight, BMI, and WC analyses were re-run
+adjusting for self-reported moderate/vigorous or vigorous
+physical activity and this did not change the results (data
+not shown). Chocolate candy consumers had a lower
+weight (41.9 kg90.46 vs 43.3 kg90.27, p00.0147),
+shorter stature (140.1 cm90.29 vs 141.0 cm90.17, p0
+0.0295, lower WC (67.8 cm90.42 vs 68.6 cm90.29, p0
+0.0448), and lower percentile BMI-for-age (58.991.3 vs
+61.690.79, p00.0352) than non-consumers. Sugar candy
+consumers had a lower weight (41.9 kg90.39 vs 43.4
+kg90.25, p00.0004), BMI (19.590.13 vs 20.190.10,
+pB0.0001), WC (67.6 cm90.38 vs 68.8 cm90.27, p0
+0.0004), triceps skinfold (13.5 mm90.28 vs 14.0 mm9
+0.14, p00.0356), and percentile/z-score for BMI-for-age
+(58.791.3 vs 62.890.99, p00.0167; 0.3190.05 vs 0.489
+0.03, p00.0164, respectively) than non-consumers.
+There were no differences in children regarding the
+likelihood to have a high quality diet, defined by HEI
+(80th percentile or better), among all three groups of
+candy consumers and non-consumers (Table 5). Using
+CDC growth charts to assess weight status, candy
+consumers were 22% less likely (pB0.0001) to be over-
+weight and 26% less likely to be obese (pB0.0001) than
+non-consumers (Table 5). Sugar candy consumers were
+21% less likely (p00.0015) to be overweight and 20% less
+likely to be obese (p00.0150) than non-consumers.
+The only physiologic parameter that was different was
+a lower C-reactive protein level of sugar candy consumers
+and non-consumers (0.12 mg/dL90.01 vs 0.15 mg/dL9
+0.01, p00.0085) (Table 6).
+Discussion
+These data showed that nearly 32% of children and 30%
+of adolescents reported consuming candy the day of the
+recall. These figures are much lower than those shown in
+the Bogalusa Heart Study (BHS) (20) potentially showing
+that candy consumption decreased from 1993Á1994 to
+1999Á2004. That study, which also used 24-hour diet
+recall methodology, showed that in 1973Á1974, 94% of
+10-year-old children consumed candy and in 1993Á1994,
+71% of 10-year-old children consumed candy. In that
+study, the diets of children of one age only were
+examined, a limited geographic range was examined,
+and participants were limited to black/white. Although
+we were unable to find a study examining geographic
+differences in candy intake in children, a recent study of
+adults showed that energy intake from candy was higher
+in Southeast Louisiana than in Los Angeles County (12).
+Additional studies assessing geographic variation in
+candy consumption are needed.
+Consumption of candy in this study was modest. There
+are few studies with which to compare these results. For
+the BHS study, Nicklas et al. (20) showed that in 1973Á
+1974, intake in 10-year-old children was 45.0 g and in
+1993Á1994, intake was 34.8 g; however, it was not clear if
+this was per capita consumption or reflected the intake of
+consumers only. Dietary data were obtained using 24-
+hour recalls; although the multiple pass method used in
+NHANES provides more accurate data than other recall
+methods (27, 28), over- and under-reporting may still
+occur. Individuals may selectively under-report foods
+generally known to be high in fats, carbohydrates, and
+sugars (42). Foods with a `negative health image' may be
+Table 2. Mean amount of candy consumed in grams by children 2Á13 years and adolescents 14Á18 years in candy consumption groups
+Total candy Chocolate candy Sugar candy
+Age group Consumers Per capita Consumers Per capita Consumers Per capita
+2Á13 years 35.291.4 11.491.61 35.891.7 4.890.35 29.091.3 6.690.46
+Number 2,234 7,049 857 7,049 1,594 7,049
+14Á18 years 46.292.2 13.090.87 48.492.0 7.090.56 36.193.2 5.990.56
+Number 1,224 4,132 587 4,132 745 4,132
+Data are presented as sample-weighted means9SD and numbers.
+Effects of candy consumption in children
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794 5
+(page number not for citation purpose)
+subject to higher levels of under-reporting than other
+foods (43). Since candy is a food potentially influenced by
+reporting errors, individuals with implausible intakes (41)
+were excluded from the data set and the reported
+relationships remained.
+This study showed that in total, chocolate, and sugar
+candy consumers, total energy intake was higher when
+compared with non-consumers. Using nationally repre-
+sentative data sets, from 1977 to 2006, energy from candy
+consumed as snacks by children increased from 5.7 to
+8.5%, although values were modest when compared with
+other snack foods such as desserts and sweetened
+beverages (44). Despite the higher intake of energy by
+candy consumers, consumption was not associated with
+higher levels of any weight parameter, but was associated
+with a lower risk of overweight and obesity. Future
+studies should include assessment of overall dietary and
+physical activity patterns of candy consumers, but long-
+itudinal studies are needed to understand more fully the
+relationship between higher energy intake and its associa-
+tion with weight in candy consumers.
+The Institute of Medicine (IOM) recommends that the
+population consume no more than 25% of energy from
+AS (45). Overall, candy consumers also had higher
+intakes of AS than non-consumers; however, mean
+energy from AS in consumers of total, chocolate, and
+sugar candy was only 4.9%, 4.7%, and 6.3%, respectively.
+Candy contributed very low levels of AS to the diet.
+The IOM recommendation for AS was based, in part,
+on the finding that AS in excess of 25% showed the
+greatest decline in micronutrient dilution (45). The
+majority of studies have suggested that consumption of
+foods high in AS were associated with poor overall diet
+quality (46Á50), whereas two reviews have failed to
+provide conclusive evidence that AS affects diet quality
+(51, 52). Overall, diet quality in this study was very poor
+in all groups, whether or not candy was consumed. Diet
+quality was lower only in chocolate candy consumers.
+This may be because of the increased intake of SFA, a
+component in calculating the HEI-2005 (15), in chocolate
+candy consumers. That SFA intake was higher in
+chocolate candy consumers was not surprising since
+SFA are found in higher proportions than unsaturated
+fatty acids in cocoa butter. Cacao seeds contain a
+significant amount of fat (40Á50% as cocoa butter) (53),
+but the fat content of chocolate candy is influenced not
+only by the percentage of cacao solids but by addition of
+other ingredients, e.g. milk or cream (54).
+The higher SFA intake may also be of concern from
+a standpoint of changes in serum lipid levels or other
+biomarkers of cardiovascular disease; however, recent
+evidence has questioned the role of SFA as a risk factor in
+heart disease (55). Children are less likely than adults to
+have lipid derangements; however, with the increasing
+levels of overweight and obesity in children, lipid levels
+Table 3. Covariate-adjusted mean daily intake of energy, total, and saturated fatty acids, added sugars and healthy eating index by consumption of candy type in children 2Á18 years of age:
+NHANES 1999Á2004
+Total candy-gum Chocolate candy Sugar candy
+Consumers
+(n03,458)
+Non-consumers
+(n07,724)
+Consumers
+(n01,444)
+Non-consumers
+(n09737)
+Consumers
+(n02,339)
+Non-consumers
+(n08,842)
+Nutrientsa Mean9SE Mean9SE p-value Mean9SE Mean9SE p-value Mean9SE Mean9SE p-value
+Energy (kcal)a 2248.9926.8 1993.1915.1 B0.0001 2333.8952.2 2031.2913.3 B0.0001 2254.3929.4 2024.4913.4 B0.0001
+Energy (kJ)a 9415.79112.2 8344.7963.2 B0.0001 9771.29218.6 8504.2955.7 B0.0001 9438.39123.1 8475.8956.1 B0.0001
+Total fat (g)b 75.290.52 75.990.47 0.2799 79.090.85 75.290.40 0.0001 72.890.55 76.490.43 B0.0001
+SFA (g)b 26.890.27 26.890.17 0.8799 28.890.37 26.590.16 B0.0001 25.690.28 27.190.17 B0.0001
+Added Sugars (g)b 27.790.44 23.490.38 B0.0001 27.790.71 24.390.34 B0.0001 28.490.51 23.890.34 B0.0001
+HEIb 47.490.58 48.390.36 0.1009 46.790.79 48.390.35 0.0337 47.590.59 48.290.36 0.1879
+Data are presented as sample-weighted means9SE using PROC DESCRIPT of SUDDAN.
+Abbreviations: Kcal, kilocalories; kJ, kilojoule; g, gram; SFA, saturated fatty acids; HEI, healthy eating index.
+aAdjusted for gender, ethnicity, and age.
+bAdjusted for gender, ethnicity, age, and energy.
+Carol E. O'Neil et al.
+6
+(page number not for citation purpose)
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794
+Table 4. Covariate-adjusted mean anthropometric measures in children 2Á18 years of age by consumption of candy type
+Total candy Chocolate candy Sugar candy
+Consumers
+(n03,458)
+Non-consumers
+(n07,724)
+Consumers
+(n01,444)
+Non-consumers
+(n09,737)
+Consumers
+(n02,339)
+Non-consumers
+(n08,842)
+Measure Mean9SE Mean9SE p-value Mean9SE Mean9SE p-value Mean9SE Mean9SE p-value
+Weight (kg)a 42.190.32 43.590.27 0.0001 41.990.46 43.390.27 0.0147 41.990.39 43.490.25 0.0004
+Height (cm)a 141.090.16 140.890.18 0.4863 140.190.29 141.090.17 0.0295 141.290.22 140.890.16 0.0537
+BMI (kg/m2)a 19.590.12 20.190.10 B0.0001 19.690.16 20.090.10 0.0537 19.590.13 20.190.10 B0.0001
+WC (cm)a 67.790.35 68.990.28 0.0001 67.890.42 68.690.29 0.0448 67.690.38 68.890.27 0.0004
+Triceps SF (mm)a 13.690.25 14.090.13 0.0334 14.090.27 13.890.15 0.4405 13.590.28 14.090.14 0.0356
+Percentile for weight-for-ageb 59.190.71 63.590.77 B0.0001 59.891.3 62.590.79 0.0792 61.591.7 63.690.89 0.2582
+z-score for weight-for-ageb 0.3590.03 0.5190.03 B0.0001 0.3890.04 0.4790.03 0.1071 0.4390.06 0.5190.04 0.2645
+Percentile BMI-for-ageb 57.890.92 62.790.76 B0.0001 58.991.3 61.690.79 0.0352 58.791.3 62.890.99 0.0167
+z-score for BMI-for-ageb 0.2890.03 0.4790.03 B0.0001 0.3190.05 0.4390.03 0.0522 0.3190.05 0.4890.03 0.0164
+Source: NHANES 1999Á2004, 2Á18 years of age, excluding pregnant/lactating females http://www.cdc.gov/nchs/nhanes.htm.
+Abbreviations: SE, Standard Error; kg, kilogram; cm, centimeter; m, meter; BMI, body mass index; WC, waist circumference; SF, skinfold.
+aAdjusted for gender, ethnicity, age, and energy.
+bAdjusted for gender, ethnicity, and energy.
+Effects of candy consumption in children
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794 7
+(page number not for citation purpose)
+and other cardiovascular risk factors have become of
+concern in pediatric populations (56). Palmitic and
+stearic acids constitute the main types of SFA (57) in
+cocoa butter. Stearic acid is unique among saturated fats
+in that it is not associated with the low density lipoprotein
+cholesterol raising potential of other SFA (58, 59). Diet
+can influence lipid levels in children (60), so it would not
+have been surprising to find that consumption of
+chocolate candy modified lipid levels in children. How-
+ever, unlike studies with adults that have shown that
+chocolate consumption may improve lipid profiles
+(61Á63), no differences were seen in any lipid markers.
+These findings may have resulted from the relatively small
+sample size for chocolate consumers or the type of
+chocolate consumed, since dark chocolate with a high
+cacao content or cocoa is associated with the greatest
+improvement in lipids (64, 65).
+Limitations
+NHANES is a cross-sectional study; thus, cause and
+effect associations cannot be drawn. Twenty-four hour
+dietary recalls have several inherent limitations. They may
+not reflect usual intake and they depend on memory.
+Parents/guardians reported or assisted with the 24-hour
+recalls of children 2Á11 years of age; whereas parents
+often report accurately what children eat at home, (66)
+but may not know what their children eat outside the
+home (67) that could result in reporting errors (68). In
+children and adolescents, a greater degree of under-
+reporting has been shown as relative adiposity increased
+(69, 70), which may have accounted for the results. To
+help obviate this potential problem, implausible energy
+intakes were deleted from the data set (41). Finally,
+chocolate candies were combined into a single group;
+thus, potential effects of dark chocolate could not be
+assessed.
+Conclusions
+This study showed that approximately one-third of
+children and adolescents consumed candy the day of
+the recall and that candy consumption was associated
+with higher intakes of energy and added sugars; choco-
+late candy consumption was also associated with higher
+total and SFA intake. Total, chocolate, and sugar candy
+consumption was not associated with weight/adiposity
+variables and candy consumers were less likely to be
+overweight or obese than non-candy consumers. Only
+chocolate candy consumers had a lower diet quality than
+non-consumers, but all individuals had poor diet quality
+regardless of whether they consumed candy. Current
+levels of candy consumption were not associated with
+adverse health parameters in children or adolescents.
+Table 5. Odds ratios for Healthy Eating Index and overweight/obesity by consumption of all types of candy
+Total candy-gum Chocolate candy Sugar candy
+Consumers
+(n03,458)
+Non-consumers
+(n07,724) p-value
+Consumers
+(n01,444)
+Non-consumers
+(n09,737) p-value
+Consumers
+(n02,339)
+Non-consumers
+(n08,842) p-value
+Measurea OR (95% CI) OR (95% CI) OR (95% CI) OR (95% CI) OR (95% CI) OR (95% CI)
+HEI 0.87 (0.71, 1.08) 1.00 (1.00, 1.00) 0.1979 0.94 (0.71, 1.23) 1.00 (1.00, 1.00) 0.6377 0.86 (0.70, 1.06) 1.00 (1.00, 1.00) 0.1456
+Overweightb 0.78 (0.68, 0.90) 1.00 (1.00, 1.00) B0.0001 0.83 (0.66, 1.03) 1.00 (1.00, 1.00) 0.0876 0.79 (0.69, 0.91) 1.00 (1.00, 1.00) 0.0015
+Obesec 0.74 (0.66, 0.82) 1.00 (1.00, 1.00) B0.0001 0.85 (0.62, 1.17) 1.00 (1.00, 1.00) 0.3166 0.80 (0.66, 0.95) 1.00 (1.00, 1.00) 0.0150
+Source: NHANES 1999Á2004, 2Á18 years of age, excluding pregnant/lactating females http://www.cdc.gov/nchs/nhanes.htm.
+Abbreviations: OR, odds ratio, CI, confidence interval; HEI, Healthy Eating Index.
+aAdjusted for gender, ethnicity, age, and energy.
+bOverweight0]85th percentile B95th percentile.
+cObese0]95th percentile.
+Carol E. O'Neil et al.
+8
+(page number not for citation purpose)
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794
+Table 6. Adjusted mean physiologic measures for total candy-gum, chocolate candy, and sugar candy consumers 2Á18 years
+Total candy-gum Chocolate candy Sugar candy
+Measure n Consumers Non-consumers p-value Consumers Non-consumers p-value Consumers Non-consumers p-value
+SBP, mmHga 7,581 105.890.40 106.390.32 0.2759 105.390.53 106.390.29 0.0827 105.990.47 106.290.31 0.5250
+DBP, mmHga 7,581 59.790.48 59.390.32 0.4349 60.190.58 59.390.29 0.1292 59.890.53 59.490.31 0.3299
+HDL-C, mg/dLb 2,835 54.990.82 53.090.73 0.0707 54.691.4 53.490.63 0.4487 55.290.84 53.290.70 0.0797
+LDL-C, mg/dLb 3,826 92.491.0 93.390.71 0.3924 93.791.5 92.890.70 0.5692 92.591.3 93.190.65 0.6295
+TG, mg/dLa 3,840 87.292.0 91.392.1 0.1174 86.292.9 90.691.9 0.2165 88.192.3 90.491.8 0.3286
+Serum folate, ng/mLc 9,140 16.490.23 16.190.20 0.1395 16.490.31 16.190.19 0.3578 16.390.26 16.190.20 0.4172
+Folate, RBC, ng/mLc 9,233 267.992.6 268.292.4 0.8994 267.194.4 268.392.0 0.7808 266.792.2 268.592.4 0.4881
+Homocysteine, mg/mLc 5,835 5.290.05 5.390.05 0.4283 5.290.08 5.390.04 0.7684 5.290.07 5.390.04 0.3110
+CRP, mg/dLd 9,226 0.1590.02 0.1490.01 0.6099 0.2090.04 0.1490.01 0.1492 0.1290.01 0.1590.01 0.0085
+Source: NHANES 1999Á2004, ages 2Á18 years of age, excluding pregnant/lactating females http://www.cdc.gov/nchs/nhanes.htm.
+Abbreviations: Kg, kilograms; cm, centimeters; BMI, Body Mass Index; m, meters; WC, waist circumference; SF, skinfold; mm, millimeter; SBP, systolic blood pressure; Hg, mercury; DBP, diastolic blood
+pressure; HDL-C, high density lipoprotein-cholesterol; mg, milligram; dL, deciliter; LDL-C, low density lipoprotein-cholesterol; TG, triglycerides; RBC, red blood cell; ng, nanogram; mL, milliliter; mg,
+microgram; CRP, C-reactive protein.
+aAdjusted for gender, ethnicity, age, BMI, and energy.
+bAdjusted for gender, ethnicity, age, BMI, energy, and saturated fatty acids and cholesterol intake.
+cAdjusted for gender, ethnicity, age, BMI, energy, folate, and vitamins B6 and B12.
+dAdjusted for gender, ethnicity, age, and energy.
+Effects of candy consumption in children
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794 9
+(page number not for citation purpose)
+Conflict of interest and funding
+This research project was supported by the USDA
+Agricultural Research Service through specific coopera-
+tive agreement 58-6250-6-003. Partial support was re-
+ceived from the USDA Hatch Project LAB 93951. Partial
+support was also received from the National Confec-
+tioners Association. None of the funding agencies played
+any role in the design, analysis, or writing of this
+manuscript. The authors have no conflicts of interest to
+declare.
+Acknowledgements
+This work is a publication of the United States Department of
+Agriculture (USDA/ARS) Children's Nutrition Research Center,
+Department of Pediatrics, Baylor College of Medicine, and Hous-
+ton, Texas. The contents of this publication do not necessarily reflect
+the views or policies of the USDA, nor does mention of trade names,
+commercial products, or organizations imply endorsement from the
+US government.
+References
+1. Ogden CL, Carroll MD, Curtin LR, Lamb MM, Flegal KM.
+Prevalence of high body mass index in US children and
+adolescents, 2007Á2008. JAMA 2010; 303: 242Á9.
+2. Flegal KM, Ogden CL, Yanovski JA, Freedman DS, Shepherd
+JA, Graubard BI, et al. High adiposity and high body mass
+index-for-age in US children and adolescents overall and by
+race-ethnic group. Am J Clin Nutr 2010; 91: 1020Á26.
+3. Ford ES, Mokdad AH, Ajani UA. Trends in risk factors for
+cardiovascular disease among children and adolescents in the
+United States. Pediatrics 2004; 114: 1534Á44.
+4. Dhuper S, Cohen HW, Daniel J, Gumidyala P, Agarwalla V,
+St Victor R, et al. Utility of the modified ATP III defined
+metabolic syndrome and severe obesity as predictors of insulin
+resistance in overweight children and adolescents: a cross-
+sectional study. Cardiovasc Diabetol 2007; 6: 4. DOI:
+10.1186/1475-2840-6-4
+5. Schwimmer JB, Burwinkle TM, Varni JW. Health-related
+quality of life of severely obese children and adolescents.
+JAMA 2003; 289: 1813Á9.
+6. Janssen I, Craig WM, Boyce WF, Pickett W. Associations
+between overweight and obesity with bullying behaviors in
+school-aged children. Pediatrics 2004; 13: 1187Á94.
+7. Strauss RS. Childhood obesity and self-esteem. Pediatrics 2000;
+105: e15.
+8. Adegboye AR, Andersen LB, Froberg K, Sardinha LB,
+Heitmann BL. Linking definition of childhood and adolescent
+obesity to current health outcomes. Int J Pediatr Obes 2010; 5:
+130Á42.
+9. Yarnell JW, Patterson CC, Thomas HF, Sweetnam PM.
+Comparison of weight in middle age, weight at 18 years, and
+weight change between, in predicting subsequent 14 year
+mortality and coronary events: Caerphilly Prospective Study.
+J Epidemiol Community Health 2000; 54: 344Á8.
+10. Freedman DS, Khan LK, Serdula MK, Ogden CL, Dietz WH.
+Racial and ethnic differences in secular trends for childhood
+BMI, weight, and height. Obesity (Silver Spring) 2006;
+14: 301Á8.
+11. Cohen DA, Sturm R, Lara M, Gilbert M, Gee S. Discretionary
+calorie intake a priority for obesity prevention: results of rapid
+participatory approaches in low-income US communities. J
+Public Health (Oxf) 2010; 32: 379Á86.
+12. Cohen DA, Sturm R, Scott M, Farley TA, Bluthenthal R. Not
+enough fruit and vegetables or too many cookies, candies, salty
+snacks, and soft drinks? Public Health Rep 2010; 125: 88Á95.
+13. Dietary Guidelines for Americans, 2005. Washington, DC: U.S.
+Department of Health and Human Services and U.S. Depart-
+ment of Agriculture. http://www.health.gov/dietaryguidelines/
+dga2005/document/html/executivesummary.htm [cited 18 July
+2010].
+14. USDA, Center for Nutrition Policy and Promotion. MyPyramid
+food intake patterns. http://www.mypyramid.gov/downloads/
+MyPyramid_Food_Intake_Patterns.pdf. [cited 24 April 2010].
+15. Guenther PM, Reedy J, Krebs-Smith SM, Reeve BB, Basiotis
+PP. Development and evaluation of the healthy eating index-
+2005: technical report. Center for Nutrition Policy and Promo-
+tion, U.S. Department of Agriculture. http://www.cnpp.usda.
+gov/HealthyEatingIndex.htm [cited 24 April 2010].
+16. USDA. 2010 dietary guidelines advisory committee report.
+http://www.cnpp.usda.gov/DGAs2010-DGACReport.htm [cited
+27 October 2010].
+17. Bachman JL, Reedy J, Subar AF, Krebs-Smith SM. Sources of
+food group intakes among the US population, 2001Á2002. J Am
+Diet Assoc 2008; 108: 804Á14.
+18. USDA. Economic Research Service. Food availability data sets.
+http://www.ers.usda.gov/Data/FoodConsumption/FoodAvailSpread
+sheets.htm#sweets [cited 14 July 2010].
+19. Borradaile KE, Sherman S, Vander Veur SS, McCoy T,
+Sandoval B, Nachmani J, et al. Snacking in children: the role
+of urban corner stores. Pediatrics 2009; 124: 1293Á98.
+20. Nicklas TA, Demory-Luce D, Yang SJ, Baranowski T, Zakeri I,
+Berenson G. Children's food consumption patterns have chan-
+ged over two decades (1973Á1994): the Bogalusa Heart Study.
+J Am Diet Assoc 2004; 104: 1127Á40.
+21. Ka
+¨llesta
+°l C, Fjelddahl A. A four-year cohort study of caries and
+its risk factors in adolescents with high and low risk at baseline.
+Swed Dent J 2007; 31: 11Á25.
+22. Ollila P, Larmas M. A seven-year survival analysis of caries
+onset in primary second molars and permanent first molars in
+different caries risk groups determined at age two years. Acta
+Odontol Scand 2007; 65: 29Á35.
+23. Gibson S, Williams S. Dental caries in pre-school children:
+associations with social class, toothbrushing habit and con-
+sumption of sugars and sugar-containing foods. Caries Res
+1999; 33: 101Á13.
+24. Van Loren C. Diet and dental caries: cariogenicity may depend
+more on oral hygiene using fluorides than on diet or type of
+carbohydrates. Eur J Pediat Dent 2000; 1: 55Á62.
+25. Nicklas TA, Yang SJ, Baranowski T, Zakeri I, Berenson G.
+Eating patterns and obesity in children. The Bogalusa Heart
+Study. Am J Prev Med 2003; 25: 9Á16.
+26. Huus K, Brekke HK, Ludvigsson JF, Ludvigsson J. Relation-
+ship of food frequencies as reported by parents to overweight
+and obesity at 5 years. Acta Paediatr 2009; 98: 139Á43.
+27. Moshfegh AJ, Rhodes DG, Baer DJ, Murayi T, Clemens JC,
+Rumpler WV, et al. The US Department of Agriculture
+Automated Multiple-Pass Method reduces bias in the collection
+of energy intakes. Am J Clin Nutr 2008; 88: 324Á32.
+28. Blanton CA, Moshfegh AJ, Baer DJ, Kretsch MJ. The USDA
+Automated Multiple-Pass Method accurately estimates group
+total energy and nutrient intake. J Nutr 2006; 136: 2594Á9.
+29. The NHANES 2003Á2004 dietary interviews procedure manual.
+Hyattsville, MD: National Center for Health Statistics.
+Carol E. O'Neil et al.
+10
+(page number not for citation purpose)
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794
+http://www.cdc.gov/nchs/data/nhanes/nhanes_03_04/DIETARY_
+MEC.pdf [cited 30 March 2010].
+30. USDA, Agricultural Research Service. Continuing survey of
+food intakes by individuals 1994Á1996, 1998 [CM-ROM; NTIS
+No. PB2000-500027] 2000.
+31. USDA Food and Nutrient Database for Dietary Studies, 1.0Á
+Documentation and User Guide. http://www.ars.usda.gov/
+services/docs.htm?docid07673 [cited 18 December 2009].
+32. USDA Food and Nutrient Database for Dietary Studies, 2.0Á
+Documentation and User Guide. http://www.ars.usda.gov/
+SP2UserFiles/Place/12355000/pdf/fndds2_doc.pdf#title [cited 2
+March 2009].
+33. Guenther PM, Reedy J, Krebs-Smith SM. Development of the
+healthy eating index-2005. J Am Diet Assoc 2008; 108: 1896Á
+1901.
+34. Guenther PM, Reedy J, Krebs-Smith SM, Reeve BB. Evaluation
+of the healthy eating index-2005. J Am Diet Assoc 2008; 108:
+1854Á64.
+35. Center of Nutrition Policy and Health Promotion. http://
+www.cnpp.usda.gov/HealthyEatingIndex-2005report.htm. [cited
+18 December 2009].
+36. National Health and Nutrition Examination Survey. Anthro-
+pometry procedures manual. Revised 2004. http://www.cdc.gov/
+nchs/data/nhanes/nhanes_03_04/BM.pdf [cited 19 December
+2009].
+37. Centers of Disease Control and Prevention. 2000 CDC growth
+charts for the United States: methods and development. Vital
+Health Stat 2002; 11: 246.
+38. Centers for Disease Control and Prevention. Defining childhood
+overweight and obesity. http://www.cdc.gov/obesity/childhood/
+defining.html [cited 24 April 2010].
+39. NHANES 2001Á2002 Data Release; May 2004. MEC Examina-
+tion. Blood pressure section of the physician's examination.
+http://www.cdc.gov/nchs/data/nhanes/nhanes_01_02/bpx_b_doc.
+pdf [cited 10 June 2010].
+40. NHANES Documentation, codebook, and frequencies: survey
+years 2003Á2004. MEC laboratory component: triglycerides
+and LDL-cholesterol. http://www.cdc.gov/nchs/data/nhanes/
+nhanes_03_04/l13am_c.pdf [cited 12 June 2010].
+41. Huang TT, Roberts SB, Howarth NC, McCrory MA. Effect of
+screening out implausible energy intake reports on relationships
+between diet and BMI. Obes Res 2005; 13: 1205Á17.
+42. Krebs-Smith S, Braubard B, Kahle L, Subar A, Cleveland L,
+Ballard-Barbash R. Low energy reporters vs others: a compar-
+ison of reported food intakes. Eur J Clin Nutr 2000; 54: 281Á7.
+43. Macdiarmid J, Blundell J. Assessing dietary intake: who, what
+and why of under-reporting. Nutr Res Rev 1998; 11: 231Á53.
+44. Piernas C, Popkin BM. Trends in snacking among U.S. children.
+Health Aff (Millwood) 2010; 29: 398Á404.
+45. Dietary reference intakes for energy, carbohydrate, fiber, fat,
+fatty acids, cholesterol, protein, and amino acids. Panel on
+Macronutrients. National Academy of Sciences. Institute of
+Medicine of the National Academies. Washington, DC: Na-
+tional Academy Press; 2002.
+46. Storey KE, Forbes LE, Fraser SN, Spence JC, Plotnikoff RC,
+Raine KD, et al. Diet quality, nutrition and physical activity
+among adolescents: the Web-SPAN (Web-Survey of Physical
+Activity and Nutrition) project. Public Health Nutr 2009; 12:
+2009Á17.
+47. Marriott BP, Olsho L, Hadden L, Connor P. Intake of added
+sugars and selected nutrients in the United States, National
+Health and Nutrition Examination Survey (NHANES)
+2003Á2006. Crit Rev Food Sci Nutr 2010; 50: 228Á58.
+48. Frary CD, Johnson RK, Wang MQ. Children and adolescents'
+choices of foods and beverages high in added sugars are
+associated with intakes of key nutrients and food groups. J
+Adolesc Health 2004; 34: 56Á63.
+49. Joyce T, Gibney MJ. The impact of added sugar consumption
+on overall dietary quality in Irish children and teenagers. J Hum
+Nutr Diet 2008; 21: 438Á50.
+50. Kranz S, Smiciklas-Wright H, Siega-Riz AM, Mitchell D.
+Adverse effect of high added sugar consumption on dietary
+intake in American preschoolers. J Pediatr 2005; 146: 105Á11.
+51. Ruxton CH, Gardner EJ, McNulty HM. Is sugar consumption
+detrimental to health? A review of the evidence 1995Á2006. Crit
+Rev Food Sci Nutr 2010; 50: 1Á19.
+52. Livingstone MB, Rennie KL. Added sugars and micronutrient
+dilution. Obes Rev 2009; 10: 34Á40.
+53. Rusconi M, Conti A. Theobroma cacao L., the food of the gods:
+a scientific approach beyond myths and claims. Pharmacol Res
+2010; 61: 5Á13.
+54. USDA. Agricultural Research Service. Nutrient Data Labora-
+tory. http://www.nal.usda.gov/fnic/foodcomp/search [cited 16
+July 2010].
+55. Siri-Tarino PW, Sun Q, Hu FB, Krauss RM. Meta-analysis of
+prospective cohort studies evaluating the association of satu-
+rated fat with cardiovascular disease. Am J Clin Nutr 2010; 91:
+535Á46.
+56. Costa GB, Horta N, Resende ZF, Souza G, Barreto LM,
+Correia LH, et al. Body mass index has a good correlation with
+proatherosclerotic profile in children and adolescents. Arq Bras
+Cardiol 2009; 93: 261Á67.
+57. Padilla FC, Liendo R, Quintana A. Characterization of cocoa
+butter extracted from hybrid cultivars of theobroma cacao L.
+Arch Latinoam Nutr 2000; 50: 200Á5.
+58. Hunter JE, Zhang J, Kris-Etherton PM. Cardiovascular disease
+risk of dietary stearic acid compared with trans, other saturated,
+and unsaturated fatty acids: a systematic review. Am J Clin Nutr
+2010; 91: 46Á63.
+59. Berry SE. Triacylglycerol structure and interesterification of
+palmitic and stearic acid-rich fats: an overview and implications
+for cardiovascular disease. Nutr Res Rev 2009; 22: 3Á17.
+60. Nicklas TA, Hayes D. American Dietetic Association. Position
+of the American Dietetic Association: nutrition guidance for
+healthy children ages 2 to 11 years. J Am Diet Assoc 2008; 108:
+1038Á44, 1046Á47.
+61. Hamed MS, Gambert S, Bliden KP, Bailon O, Singla A,
+Antonino MJ, et al. Dark chocolate effect on platelet activity,
+C-reactive protein and lipid profile: a pilot study. South Med J
+2008; 101: 1203Á8.
+62. Baba S, Natsume M, Yasuda A, Nakamura Y, Tamura T,
+Osakabe N, et al. Plasma LDL and HDL cholesterol and
+oxidized LDL concentrations are altered in normo- and
+hypercholesterolemic humans after intake of different levels of
+cocoa powder. J Nutr 2007; 137: 1436Á41.
+63. Jia L, Liu X, Bai YY, Li SH, Sun K, He C, et al. Short-term
+effect of cocoa product consumption on lipid profile: a meta-
+analysis of randomized controlled trials. Am J Clin Nutr 2010;
+92: 218Á25.
+64. Miller KB, Hurst WJ, Flannigan N, Ou B, Lee CY, Smith N,
+et al. Survey of commercially available chocolate- and cocoa-
+containing products in the United States. 2. Comparison of
+flavan-3-ol content with nonfat cocoa solids, total polyphenols,
+and percent cacao. J Agric Food Chem 2009; 57: 9169Á80.
+65. Miller KB, Stuart DA, Smith NL, Lee CY, McHale NL,
+Flanagan JA, et al. Antioxidant activity and polyphenol and
+procyanidin contents of selected commercially available cocoa-
+containing and chocolate products in the United States. J Agric
+Food Chem 2006; 54: 4062Á68.
+Effects of candy consumption in children
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794 11
+(page number not for citation purpose)
+66. Basch CE, Shea S, Arliss R, Contento IR, Rips J, Gutin B, et al.
+Validation of mothers' reports of dietary intake by four to seven
+year-old children. Am J Public Health 1990; 80: 1314Á17.
+67. Baranowski T, Sprague D, Baranowski JH, Harrison JA.
+Accuracy of maternal dietary recall for preschool children. J
+Am Diet Assoc 1991; 91: 669Á74.
+68. Schoeller DA. How accurate is self-reported dietary energy
+intake? Nutr Rev 1990; 48: 373Á9.
+69. Champagne CM, Baker NB, DeLany JP, Harsha DW, Bray GA.
+Assessment of energy intake underreporting by doubly labeled
+water and observations on reported nutrient intakes in children.
+J Am Diet Assoc 1998; 98: 426Á33.
+70. Bandini LG, Schoeller DA, Cyr HN, Dietz WH. Validity of
+reported energy intake in obese and nonobese adolescents. Am J
+Clin Nutr 1990; 52: 421Á5.
+*Carol E. O'Neil
+Class of 1941 Alumni Professor
+261 Knapp Hall
+LSU AgCenter
+Baton Rouge, Louisiana 70803, USA
+Tel: 225-578-1631
+Fax: 225-578-4443
+Email: coneil1@lsu.edu
+Carol E. O'Neil et al.
+12
+(page number not for citation purpose)
+Citation: Food & Nutrition Research 2011, 55: 5794 - DOI: 10.3402/fnr.v55i0.5794
+

@@ -1,0 +1,590 @@
+Positive Affect and Disability Among Older
+Mexican Americans With Arthritis
+MICHIELLE N. FISHER, SOHAM AL SNIH, GLENN V. OSTIR, AND JAMES S. GOODWIN
+Objective. To examine the relationship between positive affect and subsequent functional disability in older Mexican
+Americans with self-reported physician-diagnosed arthritis.
+Methods. We conducted a 2-year prospective cohort study using a population-based sample of 1,084 noninstitutionalized
+Mexican American subjects aged >65 years residing in 5 southwestern states. Measures included self-reported diagnoses
+of various medical conditions, functional ability, body mass index, and ratings of positive and negative affect.
+Results. For 937 subjects with arthritis who reported no limitations in activities of daily living (ADLs) at baseline, 697
+remained ADL independent, 84 became ADL dependent, 41 died, and 115 were lost to followup 2 years later. There was
+a significant association between high positive affect (score  12) and reduced risk of ADL disability 2 years later,
+controlling for baseline sociodemographic variables, medical conditions, and negative affect (odds ratio 0.46, 95%
+confidence interval 0.22­0.94). There was an interaction effect between positive affect and sex, with positive affect having
+a larger effect in reducing risk of ADL dependence in men than in women.
+Conclusion. High positive affect was associated with lower incidence of ADL disability in older Mexican Americans with
+self-reported physician-diagnosed arthritis. The strength of the positive affect is stronger in men than in women.
+KEY WORDS. Aging; ADL; Arthritis; Positive affect; Disability; Mexican Americans.
+INTRODUCTION
+Arthritis is the most commonly reported chronic condition
+and the leading cause of disability among older adults in
+the United States (1,2). The prevalence of arthritis is 5%
+for the adult population and increases to 50% for those
+aged 65 years (1,3). Women have a higher prevalence of
+arthritis than men (2,4,5). The prevalence is similar for
+non-Hispanic whites and African Americans, and some-
+what lower for Asians and Hispanics (3,6).
+Arthritis can lead to immobility and physical inactivity,
+which in turn are risk factors for disability and mortality
+(2,7,8). Studies have shown that disability is one of the
+most significant predictors of poor health-related out-
+comes in older persons (9­11). Older adults with disabil-
+ity also have a higher risk for depression and institution-
+alization (9,10,12). The annual direct cost associated with
+arthritis is nearly 65 billion dollars (13). The estimated
+annual costs for caring for disabled older adults is 80
+billion dollars in the United States (14).
+Several recent studies have suggested that positive affect
+may reduce functional decline in older adults (15­17).
+Positive affect entails a sense of emotional well-being and
+an optimistic attitude toward life (15). High positive affect
+reflects an individual's emotional relationship with his or
+her environment, communicating qualities such as happi-
+ness, personal satisfaction, optimism, and morale (18,19).
+The measurements of positive affect and negative affect
+have been shown to be relatively independent of each
+other, and the 2 measures correlate with different personal
+characteristics (20). Persons in a positive mood are likely
+to engage in social relationships (21), to be optimistic
+about their future (22), to cope successfully with stressful
+situations (23), and to feel in control of their lives (23).
+Among older adults, it has been shown that the presence
+of depressive symptoms is associated with functional de-
+cline, increased cognitive impairment, increased health
+care service utilization, and poorer outcomes (24­26). De-
+pression and its side effects have been studied extensively,
+but there has been limited research on positive affect and
+its consequences. Emerging studies have found that in-
+creasing positive affect decreases the risk of stroke, coro-
+nary heart disease, disability, and functional decline
+(15,17,27,28). Because arthritis is a major predictor of sub-
+Supported by grants, AG10939 and AG17231 from the
+National Institute on Aging. Dr. Ostir's work was supported
+by a grant from the Canadian Institutes of Health Research.
+Michielle N. Fisher, MD, Soham Al Snih, MD, Glenn V.
+Ostir, PhD, James S. Goodwin, MD: University of Texas
+Medical Branch, Galveston, Texas
+Address correspondence to Soham Al Snih, MD, Sealy
+Center on Aging, The University of Texas Medical Branch,
+Galveston, TX 77555-0460. E-mail: soalsnih@utmb.edu.
+Submitted for publication November 1, 2002; accepted in
+revised form March 25, 2003.
+Arthritis & Rheumatism (Arthritis Care & Research)
+Vol. 51, No. 1, February 15, 2004, pp 34­39
+DOI 10.1002/art.20079
+© 2004, American College of Rheumatology
+ORIGINAL ARTICLE
+34
+sequent functional decline, we were interested in whether
+a positive affect reduces the risk of functional decline in
+older adults with arthritis. In this study, we used data from
+the Hispanic Established Population for the Epidemiolog-
+ical Study of the Elderly (EPESE) to examine the relation-
+ship between positive affect and subsequent functional
+disability in older Mexican Americans with self-reported
+physician-diagnosed arthritis. We hypothesize that high
+positive affect would be associated with less incident dis-
+ability in older Mexican Americans with self-reported
+physician-diagnosed arthritis.
+SUBJECTS AND METHODS
+Sample. Data are from the EPESE, a longitudinal study
+of Mexican Americans aged 65 and older. The Hispanic
+EPESE was modeled after previous Established Popula-
+tions for the Epidemiological Study of the Elderly studies
+conducted in New Haven, East Boston, rural Iowa, and
+North Carolina (29).
+In the EPESE, subjects were selected from 5 southwest-
+ern states (Texas, California, Arizona, Colorado, and New
+Mexico) using area probability sampling procedures. In
+the first stage, counties were selected if at least 6.6% of the
+county population was of Mexican American ethnicity.
+The second stage involved the selection of 300 randomly
+chosen census tracts. The third stage involved the selec-
+tion of 3 randomly selected blocks. For the third stage, 1 or
+2 additional blocks were added to obtain at least 400
+households within each sampling unit. The fourth stage
+involved in-home assessments (up to 4 interviews per
+household) on sociodemographic characteristics, psycho-
+social factors, and objective and subjective health factors.
+The sampling procedure assures a sample that is general-
+izable to 500,000 older Mexican Americans living in the
+southwest (30,31). The response rate at baseline was 83%.
+In-home interviews were conducted in Spanish or English
+depending on the respondent's preference.
+At the baseline interview, 2,873 subjects were inter-
+viewed in person and 177 (5.8%) by proxy. At the 2-year
+followup interview (1995­1996), 2,167 subjects were rein-
+terviewed in person and 272 (8.9%) by proxy. The analysis
+reported below is based on 1,084 subjects with self-re-
+ported physician-diagnosed arthritis who completed the
+followup.
+Arthritis. A prior physician diagnosis of arthritis was
+assessed with the following question: "Have you ever been
+told by a doctor that you have arthritis or rheumatism?"
+Similar questions were used in the first and second Na-
+tional Health and Nutrition Examination Surveys (32). Re-
+sponses were coded as "Yes" or "No."
+Positive and negative affect. A 4-item positive affect
+scale was formulated from the Center for Epidemiologic
+Studies Depression Scale (CES-D) (33). We had previously
+identified 4 items that load into a single positive affect
+factor (34); this result was also reported by Sheehan et al
+(35). The 4-item positive scale is presented in Table 1. The
+responses were scored on a 4-point scale from 0 to 3. A
+score of 0 corresponded to a response of rarely or none of
+the time, a score of 1 corresponded to some or a little of the
+time, a score of 2 corresponded to occasionally or a mod-
+erate amount of time, and a score of 3 corresponded to
+most or all the time. Scores were divided into approximate
+quartiles (0­6, 7­9, 10­11, and 12) with higher scores
+indicating increased positive affect. The 4-item positive
+affect scale showed high internal consistency (  0.76).
+Factor analysis by Krause and Markides (36) identified a
+7-item negative affect scale from the CES-D (Table 1). The
+responses were scored on a 4-point scale (0­3, ranging
+from rarely or none of the time to most or all of the time)
+with potential total scores ranging from 0 to 21. Of the
+subjects, 25% scored 0 on the negative affect scale and
+were given a value of 0; 75% scored 1 and were given a
+value of 1. The internal consistency of the 7-item scale is
+high (  0.91). The 4-item positive scale was weakly
+correlated with the 7-item negative affect scale ( 
+­0.32).
+Functional disability. Functional disability was as-
+sessed by self report with a modified version of Katz's
+Activities of Daily Living (ADL) scale. The scale includes
+5 items from the original Katz ADL scale (37) and 2 items
+developed by Branch et al (38). The modified ADL scale is
+one of the most commonly used measures assessing phys-
+ical functioning in community-dwelling populations
+(37,38). The 7 items of the ADL index are presented in
+Table 1. Respondents were asked to indicate if they could
+perform the activity without help, with help, or if they
+were unable to do it. Disability was dichotomized as no
+help needed versus needing help with or unable to per-
+form 1 or more of the 7 ADLs.
+Table 1. Descriptions of positive affect scale, negative
+affect scale, and activities of daily living index
+Positive affect scale
+"I felt that I was just as good as other people"
+"I felt hopeful about the future"
+"I was happy"
+"I enjoyed life"
+Negative affect scale
+"I felt that I could not shake off the blues even with
+help from my family and friends"
+"I felt depressed"
+"I thought my life had been a failure"
+"I felt fearful"
+"I felt lonely"
+"I had crying spells"
+"I felt sad"
+Activities of daily living index
+Walking across a small room
+Bathing
+Grooming
+Dressing
+Eating
+Transferring from a bed to a chair
+Using the toilet
+Arthritis and Positive Affect in Older Mexican Americans 35
+Covariates. Baseline sociodemographic variables in-
+cluded age, sex, marital status (married versus unmarried),
+and education (8 years versus 8 years). A summary
+medical conditions variable was created at baseline. The
+summary measure included diabetes, heart attack, stroke,
+hypertension, cancer, and hip fracture (range 0­6). The
+body mass index (BMI) was computed as weight in kilo-
+grams divided by height in meters squared. Anthropomet-
+ric measurements were collected in the home using the
+methods and instructions similar to those employed in
+other EPESE studies. Height was measured using a tape
+placed against the wall and weight using a Metro 9800
+measuring scale (Scale People, Beltsville, MD). Subjects
+with a BMI  30 were categorized as obese (39).
+Outcome. Incidence of disability was defined as a new
+onset of any ADL limitation (needing help with or unable
+to perform 1 or more of the 7 ADLs) at the 2-year followup.
+Statistical analysis. Cronbach's coefficient alpha as-
+sessed the internal consistency of the 4-item positive affect
+scale and the 7-item negative affect scale. Correlation co-
+efficient was used to test the association between the pos-
+itive and negative affect scales. Univariate analysis esti-
+mated the unadjusted odds of any ADL limitation at the
+2-year followup interview for nondisabled subjects at
+baseline. Multivariate analysis estimated the odds of any
+ADL limitation at the 2-year followup for nondisabled
+subjects at baseline as a function of positive affect, con-
+trolling for demographic characteristics (age, sex, marital
+status, and education), medical conditions, negative affect,
+and BMI. Interaction effects were performed between pos-
+itive affect and age, sex, education, marital status, medical
+conditions, and obesity. All analyses were performed us-
+ing the SAS System for Windows, version 8 (SAS Institute,
+Cary, NC).
+RESULTS
+Of the 3,050 noninstitutionalized older Mexican Ameri-
+cans interviewed at baseline, 1,084 had been told they had
+arthritis by a physician. Table 2 presents baseline charac-
+teristics of this sample. The average age was 72.8 years and
+70.7% of respondents were female. More than half of the
+sample was currently married and 75.5% had 8 years of
+formal education. The average number of medical condi-
+tions was 1.1 (SD 0.9), 36.7% had a BMI  30 kg/m2, and
+13.6% reported at least 1 ADL limitation. The mean posi-
+tive affect and negative affect scores were 8.4 (SD 3.4) and
+3.9 (SD 4.6), respectively.
+Of the 937 subjects who reported no activities of daily
+living (ADL) limitation at baseline, 697 (74.4 %) remained
+ADL independent 2 years later, 84 (8.9 %) became ADL
+dependent, 115 (12.3 %) refused to be reinterviewed or
+were lost to followup, and 41 (4.4 %) were confirmed dead
+through Epidemiology Resources Incorporated using the
+Social Security Administration's Death Master Files and
+reports from relatives.
+Table 3 presents results of a univariate analysis predict-
+ing odds of any ADL limitation at followup among subjects
+who were not disabled at baseline. Subjects in the highest
+positive affect quartile (odds ratio [OR] 0.97, 95% confi-
+dence interval [95% CI] 0.25­0.95) and married (OR 0.63,
+95% CI 0.40­0.99) were significantly less likely to report
+ADL limitations 2 years later. Older age (OR 1.11, 95% CI
+1.07­1.15) and number of medical conditions (OR 1.52,
+95% CI 1.20­1.93) increased the odds of reporting ADL
+limitations 2 years later.
+Table 2. Baseline characteristics of the sample (n  1,084)*
+Independent variables No. Value
+Age, years, mean  SD 1,084 72.8  6.3
+Sex, female, % 766 70.7
+Marital status, married, % 562 51.9
+Education, years, %
+8 265 24.5
+8 819 75.5
+Number of medical condition, Mean  SD 1,084 1.1  0.9
+BMI 30 kg/m2, % 388 35.8
+Positive affect score, possible range 0­12,
+mean  SD
+1,084 8.4  3.4
+Positive affect score, %
+0­6 278 25.7
+7­9 356 32.8
+10­11 169 15.6
+12 281 25.9
+Negative affect score, possible range 0­21,
+mean  SD
+1,084 3.9  4.6
+Negative affect score, %
+0 882 76.8
+1 252 23.2
+Any ADL limitation, % 1,084 13.6
+* BMI  body mass index; ADL  activity of daily living.
+36 Fisher et al
+Table 4 presents the results of a multivariate analysis
+predicting odds of any ADL limitation at followup among
+subjects who were not disabled at baseline, as a function of
+positive affect score at baseline controlling for demo-
+graphic variables, number of medical conditions, negative
+affect, and BMI. There was a significant association be-
+tween high positive affect (score  12) and reduced risk of
+ADL disability 2 years later, controlling for baseline socio-
+demographic variables, medical conditions, and negative
+affect (OR 0.46, 95% CI 0.22­0.94). Positive affect was also
+used as a continuous variable in a logistic regression
+model and included the variables listed above. Each unit
+increase in positive affect score at baseline (0­12) was
+associated with a 9% decreased risk of reporting any ADL
+limitation (OR 0.91, 95% CI 0.85­0.98).
+A number of 2-way interactions were tested for positive
+affect. The only significant interaction was positive affect
+by sex (OR 1.17, 95% CI 1.00­1.37). Men who scored in
+the top 2 quartiles (score  10) were significantly less
+likely to report any ADL limitation at followup, control-
+ling for demographic variables, number of medical condi-
+tions, negative affect, and BMI. A nonsignificant relation-
+ship between positive affect score and ADL disability was
+observed for women (Table 4).
+DISCUSSION
+The objective of this study was to assess the relationship
+between positive affect and subsequent ADL disability in
+older Mexican Americans with arthritis. We found that
+higher scores of positive affect at baseline were associated
+with a lower incidence of ADL disability 2 years later,
+controlling for sociodemographic variables, prevalent ma-
+jor medical conditions, and respondents' scores on the
+negative affect questions of the CES-D scale at baseline.
+It is important to note that the effect of positive affect on
+ADL was independent of negative affect. In fact, control-
+ling for negative affect in the overall sample had little
+effect on the strength of association of positive affect with
+ADL incidence. Bradburn and Caplovitz (40) and other
+investigators (41,42) have argued that the absence of neg-
+ative affect is not the same as the presence of positive
+affect (18). Measures of positive and negative affect have
+been shown to be weakly correlated with each other
+(18,20,43) and share common correlates, such as physical
+health.
+Individuals with arthritis and high positive affect may
+reduce their risk of becoming ADL disabled through dif-
+ferent mechanisms. First, they may have healthier life-
+styles and a better adherence to treatment regimens. Sec-
+ond, positive affect may be a measure of an individual's
+resilience in the face of stress and capacity to cope with
+stress. Third, they may be able to cope with environmental
+or physical stressors that lead to better maintenance of
+physiologic homeostasis.
+Escalante and del Rincon (44,45) have developed a
+map of the disablement process in rheumatoid arthritis,
+where they emphasize the influence of psychosocial fac-
+Table 3. Univariate analysis predicting odds of any ADL
+limitation at followup among nondisabled older Mexican
+Americans with arthritis*
+Independent variables
+OR (95% CI)
+n  781
+Positive affect score (0­6)
+7­9 0.97 (0.56­1.70)
+10­11 0.57 (0.26­1.24)
+12 0.49 (0.25­0.95)
+Negative affect score (1) 0.94 (0.54­1.65)
+Age (1 year increase) 1.11 (1.07­1.15)
+Sex (female) 1.59 (0.92­2.75)
+Marital status (married) 0.63 (0.40­0.99)
+Education (8 years) 0.69 (0.38­1.23)
+Number of medical conditions 1.52 (1.20­1.93)
+BMI (30 kg/m2) 1.00 (0.63­1.60)
+* Reference categories given in parentheses. ADL  activity of daily
+living; OR  odds ratio; 95% CI  95% confidence interval; BMI 
+body mass index.
+Table 4. Multivariate analysis predicting odds of any ADL limitation at followup among nondisabled older Mexican
+Americans with arthritis stratified by sex*
+Independent variable
+Total sample
+OR (95% CI)
+n  781
+Male
+OR (95% CI)
+n  229
+Female
+OR (95% CI)
+n  552
+Positive affect score
+0­6 1.00 1.00 1.00
+7­9 0.85 (0.47­1.56) 0.63 (0.20­2.00) 0.94 (0.47­1.88)
+10­11 0.45 (0.19­1.02) 0.17 (0.03­0.96) 0.69 (0.27­1.75)
+12 0.46 (0.22­0.94) 0.05 (0.01­0.49) 0.73 (0.33­1.62)
+Negative affect score (1) 0.66 (0.35­1.25) 0.42 (0.08­2.23) 0.71 (0.36­1.40)
+Age (1 year increase) 1.12 (1.07­1.16) 2.14 (0.74­6.13) 2.83 (1.61­4.98)
+Gender (female) 1.38 (0.75­2.56) -- --
+Marital status (married) 1.01 (0.59­1.72) 0.52 (0.16­1.70) 0.96 (0.55­1.70)
+Education (8 years) 0.86 (0.47­1.59) 1.34 (0.42­4.30) 0.65 (0.31­1.34)
+Number of medical conditions 1.59 (1.24­2.06) 1.36 (0.84­2.20) 1.66 (1.23­2.24)
+BMI (30 kg/m2) 1.23 (0.74­2.04) 0.76 (0.22­2.63) 1.17 (0.67­2.04)
+* Reference categories given in parentheses. ADL  activity of daily living; OR  odds ratio; 95% CI  95% confidence interval; BMI  body mass
+index.
+Arthritis and Positive Affect in Older Mexican Americans 37
+tors on the disablement process. Their proposed model
+provides a framework to study factors that can prevent
+disability. The model specifies stages at which disabling
+factors, such as depressive symptoms, stress, self efficacy,
+and coping, exert their influence on the disability process.
+This may allow clinicians to broaden their understanding
+of the disability process. Similarly, previous researchers
+have demonstrated that high positive affect is a protective
+factor against functional decline in older populations with
+myocardial infarction and stroke (15,27,28,46) and is associ-
+ated with increased survival in older populations (15).
+Also, we found an interaction effect between positive
+affect and sex, with positive affect associated with a larger
+reduction in risk of ADL dependence in men than in
+women. Additional studies are needed to replicate our
+findings that positive affect is more protective against dis-
+ability in men than in women.
+Little is known about factors that allow individuals to
+maintain positive affect in the face of disabling condi-
+tions. More research is needed to examine the role that pos-
+itive affect plays in the psychological adaptation to disease. It
+is likely that the ability to maintain high levels of positive
+affect enables individuals to persevere in the face of obstacles
+and to recover more rapidly from illness.
+Our study has some limitations. First is our reliance on
+self-reported physician diagnosis of arthritis. This allows
+for errors by both physicians and subjects. Diagnosing
+arthritis in the elderly is particularly difficult because vir-
+tually all older adults have radiographic evidence of de-
+generative joint changes. The correlation among symptoms
+(e.g., pain), signs (e.g., crepitus, swelling, joint instability),
+and radiographic changes is also poor in those aged 65
+years and older, compared with younger populations (47).
+Thus, the determination of arthritis, particularly in epide-
+miologic surveys, is always somewhat arbitrary. Second,
+the association between positive affect and decreased risk
+of subsequent disability is not necessary causal. It is pos-
+sible that this association is due to some unmeasured
+correlate of both. However, this association remained after
+controlling for relevant factors.
+Finally, our measure of positive affect is relatively
+crude. Because positive affect encompasses such overlap-
+ping concepts as happiness, self efficacy, personal growth,
+optimism, autonomy, and morale, one could argue that it
+would not be well represented by a 4-item scale (23).
+However, this scale was relatively robust and an indepen-
+dent predictor of future functional disability.
+In summary, our results suggest that a high positive
+affect is associated with lower incidence of ADL disability
+among older Mexican Americans with arthritis. These find-
+ings provide evidence indicating the importance of promot-
+ing and helping older adults maintain a high level of emo-
+tional wellbeing. The development of comprehensive
+programs that include attention of emotional state may aid in
+preventing disability experienced by older arthritis patients.
+REFERENCES
+1. Al Snih S, Markides K, Ray L, Freeman J, Goodwin JS. Prev-
+alence of arthritis in older Mexican Americans. Arthritis Care
+Res 2000;13:409­16.
+2. Hughes S, Dunlop D. The prevalence and impact of arthritis in
+older persons. Arthritis Care Res 1995;8:257­64.
+3. Arthritis prevalence and activity limitations: United States
+1990. MMWR Morb Mortal Wkly Rep 1994;43:433­8.
+4. Peek MK, Coward R. Gender differences in the risk of devel-
+oping disability among older adults with arthritis. J Aging
+Health 1999;11:131­50.
+5. Impact of arthritis and other rheumatic conditions on the
+health-care system: United States 1990. MMWR Morb Mortal
+Wkly Rep 1999;48:350­3.
+6. Prevalence and impact of arthritis and ethnicity: United
+States 1989­91. MMWR Morb Mortal Wkly Rep 1996;45:
+373­8.
+7. Al Snih S, Markides, Ostir G, Goodwin JS. Impact of arthritis
+on disability among older Mexican Americans. J Gerontol A
+Biol Sci Med Sci 2001;56A:M400­4.
+8. Verbrugge LM, Gates DM, Ike RW. Risk factors for disability
+among US adults with arthritis. J Clin Epidemiol 1991;44:
+167­82.
+9. Ostir GV, Carlson JE, Black S, Rudkin L, Goodwin JS,
+Markides K. Disability in older adults: prevalence, causes,
+and consequences. Behav Med 1999;24:147­56.
+10. Penninx BW, Messier SP, Rejeski WJ, Williamson JD, DiBari
+M, Cavazzini C, et al. Physical exercise and the prevention of
+disability in activities of daily living in older persons with
+osteoartritis. Arch Intern Med 2001;161:2309­16.
+11. Hirvensalo M, Rantanen T, Heikkinen E. Mobility difficulties
+and physical activity as predictors of mortality and loss of
+independence in the community-living older population.
+J Am Geriatr Soc 2000;48:493­8.
+12. Fried LP, Guralnik JM. Disability in older adults: evidence
+regarding significance, etiology and risk. J Am Geriatr Soc
+1997;45:92­100.
+13. Centers for Disease Control and Prevention. Arthritis: one of
+three U.S. adults are affected by arthritis or chronic joint
+symptoms. Accessed November 5, 2003. URL: www.cdc.gov/
+nccdphp/arthritis/index.htm.
+14. Miller M, Rejeski W, Reboussin B, Ten Have T, Ettinger W.
+Physical activity, functional limitations, and disability in
+older adults. J Am Geriatr Soc 2000;48:1264­72.
+15. Ostir GV, Markides K, Black S, Goodwin JS. Emotional well-
+being predicts subsequent functional independence and sur-
+vival. J Am Geriatr Soc 2000;48:473­8.
+16. Penninx BW. A happy person, a healthy person. J Am Geriatr
+Soc 2000;48:590­2.
+17. Penninx BW, Guralnik JM, Bandeen-Roche K, Kasper JD, Si-
+monsick EM, Ferrucci L, et al. The protective effect of emo-
+tional vitality on adverse health outcomes in disabled older
+women. J Am Geriatr Soc 2000;48:1359­66.
+18. Diener E. Subjective well-being. Psychol Bull 1984;95:542­
+75.
+19. Hilleras PK, Jorm AF, Herlitz A, Winbald B. Negative and
+positive affect among the very old: a survey on a sample age
+90 years or older. Res Aging 1998;20:593­610.
+20. Diener E. The independence of positive and negative affect. J
+Pers Soc Psychol 1984;47:1105­17.
+21. Colantonio A, Kasl SV, Ostfeld AM. Depressive symptoms
+and other psychosocial factors as predictors of stroke in the
+elderly. Am J Epidemiol 1992;136:884­94.
+22. Simonsick EM, Wallace RB, Blazer DG, Berkman LF. Depres-
+sive symptomatogy and hypertension-associated morbidity
+and mortality in older adults. Psychosom Med 1995;57:427­
+35.
+23. Ryff CD, Singer B. Psychological well-being: meaning, mea-
+surement, and implications for psychotherapy research. Psy-
+chother Psychosom 1996;65:14­23.
+24. Black S, Markides K. Depressive symptoms and mortality in
+older Mexican Americans. Ann Epidemiol 1999;9:45­52.
+25. Katz IR, Streim J, Parmelee P. Prevention of depression, re-
+currences, and complications in late life. Prev Med 1994;23:
+743­50.
+26. Ormel J, Kempen G, Deeg D, Brilman E, van Sonderen E,
+Relyveld J. Functioning, well-being, and health perception in
+late middle-age and older people: comparing the effects of
+38 Fisher et al
+depressive symptoms and chronic medical condition. J Am
+Geriatr Soc 1998;46:39­48.
+27. Ostir GV, Markides KS, Peek MK, Goodwin JS. The associa-
+tion between emotional well-being and the incidence of
+stroke in older adults. Psychosom Med 2001;63:210­5.
+28. Ostir GV, Peek MK, Markides KS, Goodwin JS. The associa-
+tion of emotional well-being on future risk of myocardial
+infarction in old adults. Prim Psychiatry 2001;8:34­8.
+29. Cornoni-Huntley J, Brock DB, Ostfeld AM, Taylor JO, Wallace
+RB, editors. Established populations for epidemiologic stud-
+ies of the elderly, resource data book. NIH publication no.
+86-2443. Bethesda (MD): National Institutes of Health; 1986.
+30. Markides KS, Stroup-Benham CA, Black S, Satish S,
+Perkowski L, Ostir G. The health of Mexican American
+elderly: selected findings from the Hispanic EPESE. In: Wykle
+ML, Ford AB, editors. Serving minority elders in the 21st
+century. New York: Springer Publishing Company; 1999. p.
+72­90.
+31. Markides KS, Stroup-Benham CA, Goodwin JS, Perkowski
+LC, Lichtenstein M, Ray LA. The effect of medical conditions
+on the functional limitations of Mexican-American elderly.
+Ann Epidemiol 1996;6:386­91.
+32. Miles TP, Flegal K, Harris T. Musculoskeletal disorders. Time
+trends, comorbid conditions, self-assessed health status, and
+associated activity limitations. Vital Health Stat 3 1993;27:
+275­88.
+33. Radloff LS. The CES-D scale: a self-report depression scale for
+research in the general population. Appl Psychol Meas 1977;
+1:385­401.
+34. Miller TQ, Markides KS, Black SA. The factor structure of the
+CES-D in two surveys of elderly Mexican Americans. J Ger-
+ontol Soc Sci 1997;52:S259­69.
+35. Sheehan TJ, Fifield J, Reisine S, Tennen H. The measurement
+structure of the Center for Epidemiologic Studies Depression
+Scale. J Pers Assess 1995;64:507­21.
+36. Krause N, Markides KS. Employment and psychological well-
+being in Mexican American women. J Health Soc Behav 1985;
+26:15­26.
+37. Katz S, Ford AB, Moskowitz RW, Jackson BA, Jaffe MW. The
+index of ADL: a standardized measure of biological and psy-
+chosocial function. JAMA 1963;185:914­9.
+38. Branch LG, Katz S, Kniepmann K. A prospective study of
+functional status among community elders. Am J Public
+Health 1984;74:266­8.
+39. Bray GA. Overweight is risking fate: definition, classification,
+prevalence, and risks. Ann N Y Acad Sci 1987;499:14­28.
+40. Bradburn NM, Caplovitz D. Reports on happiness. Chicago:
+Aldine; 1965.
+41. Costa PT, McCrae RR. Influence of extroversion and neuroti-
+cism on subjective well-being: happy and unhappy people. J
+Pers Soc Psychol 1980;38:668­78.
+42. Harding SD. Psychological well-being in Great Britain: an
+evaluation of the Bradburn Affect Scale. Per Individ Diff
+1982;3:167­75.
+43. Watson D, Clark LA, Tellegen A. Development and validation
+of brief measures of positive and negative affect: the PANAS
+scales. J Pers Soc Psychol 1988;54:1063­70.
+44. Escalante A, del Rincon I. How much disability in rheumatoid
+arthritis is explained by rheumatoid arthritis? Arthritis
+Rheum 1999;42:1712­21.
+45. Escalante A, del Rincon I. The disablement process in rheu-
+matoid arthritis. Arthritis Rheum (Arthritis Care Res) 2002;
+47:333­42.
+46. Benyamini Y, Idler E, Leventhal H, Leventhal E. Positive
+affect and function as influences on self-assessments of heath:
+expanding our view beyond illness and disability. J Gerontol
+B Psychol Sci Soc Sci 2000;55B:P107­16.
+47. Gresham GE, Rathey UK. Osteoarthritis in knees of aged per-
+sons. Relationship between roentgenographic and clinical
+manifestations. JAMA 1975;233:168­70.
+Arthritis and Positive Affect in Older Mexican Americans 39
+

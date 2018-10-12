@@ -1,82 +1,802 @@
 [
     {
-        "pub_date": "1982-01-01",
-        "unique_identifier": "http://www.jstor.org/stable/1963728",
-        "text_file_name": "1.txt",
-        "pdf_file_name": "1.pdf",
-        "title": "The decline of electoral participation in America",
-        "publication_id": 1
+        "publication_id": 143,
+        "unique_identifier": "bbk-42",
+        "title": "The determinants of service imports: The role of cost pressure and financial constraints",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "143.pdf",
+        "text_file_name": "143.txt"
     },
     {
+        "publication_id": 153,
+        "unique_identifier": "bbk-52",
+        "title": "Tax vs. Regulation Policy and the Location of ,Financial Sector FDI*",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "153.pdf",
+        "text_file_name": "153.txt"
+    },
+    {
+        "publication_id": 163,
+        "unique_identifier": "bbk-62",
+        "title": "Who Goes East? The Impact of Enlargement on the Patterns of German FDI",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "163.pdf",
+        "text_file_name": "163.txt"
+    },
+    {
+        "publication_id": 189,
+        "unique_identifier": "10.1377/hlthaff.20.1.257",
+        "title": "Unfriendly shores: How immigrants children fare in the U.S. health system",
+        "pub_date": "2001-01-01",
+        "pdf_file_name": "189.pdf",
+        "text_file_name": "189.txt"
+    },
+    {
+        "publication_id": 192,
+        "unique_identifier": "10.1093/geront/40.3.286",
+        "title": "The Future of Age Integration in Unemployment",
+        "pub_date": "2000-01-01",
+        "pdf_file_name": "192.pdf",
+        "text_file_name": "192.txt"
+    },
+    {
+        "publication_id": 339,
+        "unique_identifier": "10.1186/1471-2458-9-421",
+        "title": "Accuracy and usefulness of BMI measures based on self-reported weight and height: Findings from the NHANES & NHIS 2001-2006",
+        "pub_date": "2009-01-01",
+        "pdf_file_name": "339.pdf",
+        "text_file_name": "339.txt"
+    },
+    {
+        "publication_id": 765,
+        "unique_identifier": "10.1093/geront/36.4.474",
+        "title": "Older adults as a community resource: Results from the National Survey of Self-Care and Aging",
+        "pub_date": "1996-01-01",
+        "pdf_file_name": "765.pdf",
+        "text_file_name": "765.txt"
+    },
+    {
+        "publication_id": 770,
+        "unique_identifier": "10.1093/geront/39.6.658",
+        "title": "Caregiving as a life course transition among older husbands: A prospective study",
+        "pub_date": "1999-01-01",
+        "pdf_file_name": "770.pdf",
+        "text_file_name": "770.txt"
+    },
+    {
+        "publication_id": 793,
+        "unique_identifier": "10.1377/hlthaff.18.6.183",
+        "title": "Comparing employee health benefits in the public and private sectors, 1997",
+        "pub_date": "1999-01-01",
+        "pdf_file_name": "793.pdf",
+        "text_file_name": "793.txt"
+    },
+    {
+        "publication_id": 876,
+        "unique_identifier": "10.1161/01.HYP.8.11.1067",
+        "title": "Dietary calcium and blood pressure in National Health and Nutrition Examination Surveys I and II",
         "pub_date": "1986-01-01",
-        "unique_identifier": "http://www.jstor.org/stable/2111292",
-        "text_file_name": "2.txt",
-        "pdf_file_name": "2.pdf",
-        "title": "Generational Replacement and Value Change in Six West European Societies",
-        "publication_id": 2
+        "pdf_file_name": "876.pdf",
+        "text_file_name": "876.txt"
     },
     {
-        "pub_date": "1991-01-01",
-        "unique_identifier": "http://www.jstor.org/stable/1962884",
-        "text_file_name": "3.txt",
-        "pdf_file_name": "3.pdf",
-        "title": "Macropartisanship: An empirical reassessment",
-        "publication_id": 3
+        "publication_id": 991,
+        "unique_identifier": "10.1093/aje/152.5.463",
+        "title": "Relation of Demographic and Lifestyle Factors to Symptoms in a Multi-Racial/Ethnic Population of Women 40-55 Years of Age",
+        "pub_date": "2000-01-01",
+        "pdf_file_name": "991.pdf",
+        "text_file_name": "991.txt"
     },
     {
+        "publication_id": 1067,
+        "unique_identifier": "10.1038/oby.2004.9",
+        "title": "Childhood overweight and academic performance: National study of kindergartners and first-graders",
+        "pub_date": "2004-01-01",
+        "pdf_file_name": "1067.pdf",
+        "text_file_name": "1067.txt"
+    },
+    {
+        "publication_id": 1113,
+        "unique_identifier": "10.1038/oby.2007.331",
+        "title": "Maternal obesity is associated with younger age at obesity onset in U.S. adolescent offspring followed into adulthood",
+        "pub_date": "2007-01-01",
+        "pdf_file_name": "1113.pdf",
+        "text_file_name": "1113.txt"
+    },
+    {
+        "publication_id": 1134,
+        "unique_identifier": "10.1093/schbul/sbm069",
+        "title": "Cumulative traumas and psychosis: An analysis of the National Comorbidity Survey and the British Psychiatric Morbidity Survey",
+        "pub_date": "2008-01-01",
+        "pdf_file_name": "1134.pdf",
+        "text_file_name": "1134.txt"
+    },
+    {
+        "publication_id": 1145,
+        "unique_identifier": "10.1186/1747-597X-3-17",
+        "title": "State policy influence on the early diffusion of buprenorphine in community treatment programs",
+        "pub_date": "2008-01-01",
+        "pdf_file_name": "1145.pdf",
+        "text_file_name": "1145.txt"
+    },
+    {
+        "publication_id": 1150,
+        "unique_identifier": "10.1377/hlthaff.27.1.188",
+        "title": "Financial burden of health care, 2001-2004",
+        "pub_date": "2008-01-01",
+        "pdf_file_name": "1150.pdf",
+        "text_file_name": "1150.txt"
+    },
+    {
+        "publication_id": 1178,
+        "unique_identifier": "10.1001/archpedi.160.4.417",
+        "title": "Television exposure and overweight risk in preschoolers",
+        "pub_date": "2006-01-01",
+        "pdf_file_name": "1178.pdf",
+        "text_file_name": "1178.txt"
+    },
+    {
+        "publication_id": 1282,
+        "unique_identifier": "10.1186/1471-2458-9-107",
+        "title": "Enforcement of underage sales laws as a predictor of daily smoking among adolescents -- a national study",
+        "pub_date": "2009-01-01",
+        "pdf_file_name": "1282.pdf",
+        "text_file_name": "1282.txt"
+    },
+    {
+        "publication_id": 1293,
+        "unique_identifier": "10.1002/art.20079",
+        "title": "Positive affect and disability among older Mexican Americans with arthritis",
+        "pub_date": "2004-01-01",
+        "pdf_file_name": "1293.pdf",
+        "text_file_name": "1293.txt"
+    },
+    {
+        "publication_id": 1338,
+        "unique_identifier": "10.1038/oby.2004.137",
+        "title": "Development of health-related waist circumference thresholds within BMI categories",
+        "pub_date": "2004-01-01",
+        "pdf_file_name": "1338.pdf",
+        "text_file_name": "1338.txt"
+    },
+    {
+        "publication_id": 1524,
+        "unique_identifier": "10.1093/geronb/gbn022",
+        "title": "The use of dried blood spot sampling in the National Social Life, Health, and Aging Project",
+        "pub_date": "2009-01-01",
+        "pdf_file_name": "1524.pdf",
+        "text_file_name": "1524.txt"
+    },
+    {
+        "publication_id": 1575,
+        "unique_identifier": "10.1086/322606",
+        "title": "Trends in mortality due to invasive mycotic diseases in the United States, 1980-1997",
+        "pub_date": "2001-01-01",
+        "pdf_file_name": "1575.pdf",
+        "text_file_name": "1575.txt"
+    },
+    {
+        "publication_id": 1665,
+        "unique_identifier": "10.1111/j.1752-7325.2008.00116.x",
+        "title": "Prevalence of early childhood caries among very young urban Boston children compared with US children",
+        "pub_date": "2009-01-01",
+        "pdf_file_name": "1665.pdf",
+        "text_file_name": "1665.txt"
+    },
+    {
+        "publication_id": 1776,
+        "unique_identifier": "10.1186/1476-069X-7-27",
+        "title": "Association of urinary phthalate metabolite concentrations with body mass index and waist circumference: A cross-sectional study of NHANES data, 1999-2002",
+        "pub_date": "2008-01-01",
+        "pdf_file_name": "1776.pdf",
+        "text_file_name": "1776.txt"
+    },
+    {
+        "publication_id": 1935,
+        "unique_identifier": "10.2215/CJN.06460710",
+        "title": "Pediatric GFR estimating equations applied to adolescents in the general population",
+        "pub_date": "2011-01-01",
+        "pdf_file_name": "1935.pdf",
+        "text_file_name": "1935.txt"
+    },
+    {
+        "publication_id": 1968,
+        "unique_identifier": "10.1377/hlthaff.2011.0196",
+        "title": "Evidence links increases in public health spending to declines in preventable deaths",
+        "pub_date": "2011-01-01",
+        "pdf_file_name": "1968.pdf",
+        "text_file_name": "1968.txt"
+    },
+    {
+        "publication_id": 2022,
+        "unique_identifier": "10.3402/fnr.v55i0.5794",
+        "title": "Association of candy consumption with body weight measures, other health risk factors for cardiovascular disease, and diet quality in US children and adolescents: NHANES 1999-2004",
+        "pub_date": "2011-01-01",
+        "pdf_file_name": "2022.pdf",
+        "text_file_name": "2022.txt"
+    },
+    {
+        "publication_id": 2119,
+        "unique_identifier": "10.1093/geronb/gbs034",
+        "title": "Contributing to others, contributing to oneself: Perceptions of generativity and health in later life",
+        "pub_date": "2012-01-01",
+        "pdf_file_name": "2119.pdf",
+        "text_file_name": "2119.txt"
+    },
+    {
+        "publication_id": 2148,
+        "unique_identifier": "10.3945/ajcn.111.025353",
+        "title": "Reducing the sodium-potassium ratio in the US diet: A challenge for public health",
+        "pub_date": "2012-01-01",
+        "pdf_file_name": "2148.pdf",
+        "text_file_name": "2148.txt"
+    },
+    {
+        "publication_id": 2152,
+        "unique_identifier": "10.1093/geront/39.3.261",
+        "title": "Types of conflicts and tensions between older parents and adult children",
         "pub_date": "1999-01-01",
-        "unique_identifier": "http://www.jstor.org/stable/2525141",
-        "text_file_name": "4.txt",
-        "pdf_file_name": "4.pdf",
-        "title": "Minimum wages and poverty",
-        "publication_id": 4
+        "pdf_file_name": "2152.pdf",
+        "text_file_name": "2152.txt"
     },
     {
-        "pub_date": "1990-01-01",
-        "unique_identifier": "http://www.jstor.org/stable/2137171",
-        "text_file_name": "5.txt",
-        "pdf_file_name": "5.pdf",
-        "title": "Explaining the recent decline in cocaine use among young adults: Further evidence that perceived risks and disapproval lead to reduced drug use",
-        "publication_id": 5
+        "publication_id": 2241,
+        "unique_identifier": "10.1080/07370000802177235",
+        "title": "Mathematical knowledge for teaching and the mathematical quality of instruction: An exploratory study",
+        "pub_date": "2008-01-01",
+        "pdf_file_name": "2241.pdf",
+        "text_file_name": "2241.txt"
     },
     {
-        "pub_date": "1999-01-01",
-        "unique_identifier": "http://www.jstor.org/stable/2648055",
-        "text_file_name": "6.txt",
-        "pdf_file_name": "6.pdf",
-        "title": "Shifting family definitions: The effect of cohabitation and other nonfamily household relationships on measures of poverty",
-        "publication_id": 6
+        "publication_id": 2283,
+        "unique_identifier": "10.1093/ije/dyh099",
+        "title": "Adult mortality: Time for a reappraisal",
+        "pub_date": "2004-01-01",
+        "pdf_file_name": "2283.pdf",
+        "text_file_name": "2283.txt"
     },
     {
+        "publication_id": 2328,
+        "unique_identifier": "10.3122/jabfm.2013.04.120301",
+        "title": "Capitated payments to primary care providers and the delivery of patient education",
+        "pub_date": "2013-01-01",
+        "pdf_file_name": "2328.pdf",
+        "text_file_name": "2328.txt"
+    },
+    {
+        "publication_id": 2358,
+        "unique_identifier": "10.1136/fn.88.5.F391",
+        "title": "Prenatal drug exposure and maternal and infant feeding behaviour",
+        "pub_date": "2003-01-01",
+        "pdf_file_name": "2358.pdf",
+        "text_file_name": "2358.txt"
+    },
+    {
+        "publication_id": 2541,
+        "unique_identifier": "10.1186/s40352-015-0018-2",
+        "title": "Understanding the sustainability of implementing HIV services in criminal justice settings",
+        "pub_date": "2015-01-01",
+        "pdf_file_name": "2541.pdf",
+        "text_file_name": "2541.txt"
+    },
+    {
+        "publication_id": 2556,
+        "unique_identifier": "10.1093/geronb/gbs050",
+        "title": "Intergenerational relationship quality across three Generations",
+        "pub_date": "2012-01-01",
+        "pdf_file_name": "2556.pdf",
+        "text_file_name": "2556.txt"
+    },
+    {
+        "publication_id": 2593,
+        "unique_identifier": "10.1093/geronb/gbu078",
+        "title": "Social disadvantage and network turnover",
+        "pub_date": "2015-01-01",
+        "pdf_file_name": "2593.pdf",
+        "text_file_name": "2593.txt"
+    },
+    {
+        "publication_id": 2683,
+        "unique_identifier": "10.1371/journal.pone.0068219",
+        "title": "Socioeconomic inequalities in non-communicable diseases prevalence in India: Disparities between self-reported diagnoses and standardized measures",
+        "pub_date": "2013-01-01",
+        "pdf_file_name": "2683.pdf",
+        "text_file_name": "2683.txt"
+    },
+    {
+        "publication_id": 2707,
+        "unique_identifier": "10.3390/rel7050055",
+        "title": "Congregations and social services: An update from the third wave of the National Congregations Study",
+        "pub_date": "2016-01-01",
+        "pdf_file_name": "2707.pdf",
+        "text_file_name": "2707.txt"
+    },
+    {
+        "publication_id": 2819,
+        "unique_identifier": "bbk-68",
+        "title": "Securities trading by banks and credit supply: Micro-evidence",
         "pub_date": "1969-01-01",
-        "unique_identifier": "bbk-1",
-        "text_file_name": "102.txt",
-        "pdf_file_name": "102.pdf",
-        "title": "How does P2P lending fit into the consumer credit market?",
-        "publication_id": 102
+        "pdf_file_name": "2819.pdf",
+        "text_file_name": "2819.txt"
     },
     {
+        "publication_id": 2820,
+        "unique_identifier": "bbk-69",
+        "title": "Centrality-based capital allocations",
         "pub_date": "1969-01-01",
-        "unique_identifier": "bbk-2",
-        "text_file_name": "103.txt",
-        "pdf_file_name": "103.pdf",
-        "title": "Moral Suasion in Regional Government Debt Markets",
-        "publication_id": 103
+        "pdf_file_name": "2820.pdf",
+        "text_file_name": "2820.txt"
     },
     {
+        "publication_id": 2850,
+        "unique_identifier": "bbk-100",
+        "title": "Does trade openness increase firm-level volatility?",
         "pub_date": "1969-01-01",
-        "unique_identifier": "bbk-3",
-        "text_file_name": "104.txt",
-        "pdf_file_name": "104.pdf",
-        "title": "International monetary policy spillovers through the bank funding channel",
-        "publication_id": 104
+        "pdf_file_name": "2850.pdf",
+        "text_file_name": "2850.txt"
     },
     {
+        "publication_id": 2896,
+        "unique_identifier": "bbk-146",
+        "title": "The effects of taxation on the location decision of multinational firms: M&A vs. Greenfield investments",
         "pub_date": "1969-01-01",
-        "unique_identifier": "bbk-4",
-        "text_file_name": "105.txt",
-        "pdf_file_name": "105.pdf",
-        "title": "Cheap Talk? Financial Sanctions and Non-Financial Activity",
-        "publication_id": 105
+        "pdf_file_name": "2896.pdf",
+        "text_file_name": "2896.txt"
+    },
+    {
+        "publication_id": 2906,
+        "unique_identifier": "bbk-156",
+        "title": "Do banks diversify loan portfolios? A tentative answer based on individual bank loan portfolios",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "2906.pdf",
+        "text_file_name": "2906.txt"
+    },
+    {
+        "publication_id": 2907,
+        "unique_identifier": "bbk-157",
+        "title": "German Firms in Service Trade",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "2907.pdf",
+        "text_file_name": "2907.txt"
+    },
+    {
+        "publication_id": 2951,
+        "unique_identifier": "bbk-201",
+        "title": "Monetary transmission in Germany: New Perspectives on Financial Constraints and Investment Spending",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "2951.pdf",
+        "text_file_name": "2951.txt"
+    },
+    {
+        "publication_id": 3025,
+        "unique_identifier": "10.1001/jama.284.20.2606",
+        "title": "Smoking and mental illness: A population-based prevalence study",
+        "pub_date": "2000-01-01",
+        "pdf_file_name": "3025.pdf",
+        "text_file_name": "3025.txt"
+    },
+    {
+        "publication_id": 3048,
+        "unique_identifier": "10.1001/jama.280.10.893",
+        "title": "Has the California Tobacco Control Program reduced smoking?",
+        "pub_date": "1998-01-01",
+        "pdf_file_name": "3048.pdf",
+        "text_file_name": "3048.txt"
+    },
+    {
+        "publication_id": 3074,
+        "unique_identifier": "10.1001/jama.279.21.1709",
+        "title": "Relationship between Cancer Patients' Predictions of Prognosis and their Treatment Preferences",
+        "pub_date": "1998-01-01",
+        "pdf_file_name": "3074.pdf",
+        "text_file_name": "3074.txt"
+    },
+    {
+        "publication_id": 3118,
+        "unique_identifier": "10.1001/archinte.163.12.1440",
+        "title": "Relationship of walking to mortality among US adults with diabetes",
+        "pub_date": "2003-01-01",
+        "pdf_file_name": "3118.pdf",
+        "text_file_name": "3118.txt"
+    },
+    {
+        "publication_id": 3163,
+        "unique_identifier": "bbk-382",
+        "title": "Price rigidity, the mark-up and the dynamics of the current account",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "3163.pdf",
+        "text_file_name": "3163.txt"
+    },
+    {
+        "publication_id": 3164,
+        "unique_identifier": "bbk-289",
+        "title": "Instability and indeterminacy in a simple search and matching model",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "3164.pdf",
+        "text_file_name": "3164.txt"
+    },
+    {
+        "publication_id": 3165,
+        "unique_identifier": "bbk-257",
+        "title": "Unconventional monetary policy in an open economy",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "3165.pdf",
+        "text_file_name": "3165.txt"
+    },
+    {
+        "publication_id": 3166,
+        "unique_identifier": "bbk-234",
+        "title": "Interest-rate pegs, central bank asset purchases and the reversal puzzle",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "3166.pdf",
+        "text_file_name": "3166.txt"
+    },
+    {
+        "publication_id": 3167,
+        "unique_identifier": "bbk-393",
+        "title": "Unemployment, Factor Substitution, and Capital Formation",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "3167.pdf",
+        "text_file_name": "3167.txt"
+    },
+    {
+        "publication_id": 3168,
+        "unique_identifier": "bbk-361",
+        "title": "Financial integration and systemic risk",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "3168.pdf",
+        "text_file_name": "3168.txt"
+    },
+    {
+        "publication_id": 3169,
+        "unique_identifier": "bbk-319",
+        "title": "Comparing the DSGE model with the factor model: an out-of-sample forecasting experiment",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "3169.pdf",
+        "text_file_name": "3169.txt"
+    },
+    {
+        "publication_id": 3170,
+        "unique_identifier": "bbk-226",
+        "title": "The Fisher paradox: A primer",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "3170.pdf",
+        "text_file_name": "3170.txt"
+    },
+    {
+        "publication_id": 3171,
+        "unique_identifier": "bbk-340",
+        "title": "Open-end real estate funds in Germany: genesis and crisis",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "3171.pdf",
+        "text_file_name": "3171.txt"
+    },
+    {
+        "publication_id": 3172,
+        "unique_identifier": "bbk-335",
+        "title": "Does anticipation of government spending matter? Evidence from an expectation augmented VAR",
+        "pub_date": "1969-01-01",
+        "pdf_file_name": "3172.pdf",
+        "text_file_name": "3172.txt"
+    },
+    {
+        "publication_id": 3258,
+        "unique_identifier": "10.1177/2158244012443544",
+        "title": "African American Students\u2019 Participation in Online Distance Education in STEM Disciplines",
+        "pub_date": "2012-04-10",
+        "pdf_file_name": "3258.pdf",
+        "text_file_name": "3258.txt"
+    },
+    {
+        "publication_id": 3259,
+        "unique_identifier": "10.1177/2041669516643244",
+        "title": "Visual Search Revived: The Slopes Are Not That Slippery: A Reply to Kristjansson (2015)",
+        "pub_date": "2016-05-05",
+        "pdf_file_name": "3259.pdf",
+        "text_file_name": "3259.txt"
+    },
+    {
+        "publication_id": 3260,
+        "unique_identifier": "10.1177/2158244013480789",
+        "title": "Universal Design for Learning Principles in a Hybrid Course",
+        "pub_date": "2013-03-06",
+        "pdf_file_name": "3260.pdf",
+        "text_file_name": "3260.txt"
+    },
+    {
+        "publication_id": 3261,
+        "unique_identifier": "10.1177/2041669516664530",
+        "title": "Touching and Hearing Unseen Objects: Multisensory Effects on Scene Recognition",
+        "pub_date": "2016-07-01",
+        "pdf_file_name": "3261.pdf",
+        "text_file_name": "3261.txt"
+    },
+    {
+        "publication_id": 3262,
+        "unique_identifier": "10.1177/2158244013504207",
+        "title": "Association Between Old Firm Football Matches and Reported Domestic (Violence) Incidents in Strathclyde, Scotland",
+        "pub_date": "2013-09-17",
+        "pdf_file_name": "3262.pdf",
+        "text_file_name": "3262.txt"
+    },
+    {
+        "publication_id": 3263,
+        "unique_identifier": "10.1177/1474704916640780",
+        "title": "Eyes Wide Open",
+        "pub_date": "2016-04-14",
+        "pdf_file_name": "3263.pdf",
+        "text_file_name": "3263.txt"
+    },
+    {
+        "publication_id": 3264,
+        "unique_identifier": "10.1177/2041669517698149",
+        "title": "Adaptation-Induced Blindness Is Orientation-Tuned and Monocular",
+        "pub_date": "2017-03-08",
+        "pdf_file_name": "3264.pdf",
+        "text_file_name": "3264.txt"
+    },
+    {
+        "publication_id": 3265,
+        "unique_identifier": "10.1177/2158244013476053",
+        "title": "Color-Coding Politics",
+        "pub_date": "2013-02-04",
+        "pdf_file_name": "3265.pdf",
+        "text_file_name": "3265.txt"
+    },
+    {
+        "publication_id": 3266,
+        "unique_identifier": "10.1177/0256090915611773",
+        "title": "Anomalous Price Behaviour around Open Market Stock Repurchase Announcements in India",
+        "pub_date": "2015-12-01",
+        "pdf_file_name": "3266.pdf",
+        "text_file_name": "3266.txt"
+    },
+    {
+        "publication_id": 3267,
+        "unique_identifier": "10.1177/1470320315588234",
+        "title": "Association of angiotensin \u0406\u0406 type 1 receptor (A1166C) polymorphism with breast cancer risk: An update meta-analysis",
+        "pub_date": "2015-06-03",
+        "pdf_file_name": "3267.pdf",
+        "text_file_name": "3267.txt"
+    },
+    {
+        "publication_id": 3268,
+        "unique_identifier": "10.1177/2059799115622767",
+        "title": "ZombieApocalypse: Modeling the social dynamics of infection and rejection",
+        "pub_date": "2016-03-02",
+        "pdf_file_name": "3268.pdf",
+        "text_file_name": "3268.txt"
+    },
+    {
+        "publication_id": 3269,
+        "unique_identifier": "10.1177/1471301218795289",
+        "title": "A mixed methods systematic review of multimodal non-pharmacological interventions to improve cognition for people with dementia",
+        "pub_date": "2018-09-07",
+        "pdf_file_name": "3269.pdf",
+        "text_file_name": "3269.txt"
+    },
+    {
+        "publication_id": 3270,
+        "unique_identifier": "10.1177/1524838017697312",
+        "title": "Facilitators and Barriers to Child Sexual Abuse (CSA) Disclosures",
+        "pub_date": "2017-03-23",
+        "pdf_file_name": "3270.pdf",
+        "text_file_name": "3270.txt"
+    },
+    {
+        "publication_id": 3271,
+        "unique_identifier": "10.1177/2041669516681308",
+        "title": "The Role of Vertical Disparity in Distance and Depth Perception as Revealed by Different Stereo-Camera Configurations",
+        "pub_date": "2016-12-01",
+        "pdf_file_name": "3271.pdf",
+        "text_file_name": "3271.txt"
+    },
+    {
+        "publication_id": 3272,
+        "unique_identifier": "10.1068/i0435",
+        "title": "Effect of Speed Overestimation on Flash-Lag Effect at Low Luminance",
+        "pub_date": "2011-01-01",
+        "pdf_file_name": "3272.pdf",
+        "text_file_name": "3272.txt"
+    },
+    {
+        "publication_id": 3273,
+        "unique_identifier": "10.1177/0300060513507389",
+        "title": "Preliminary study on the mechanism of oridonin-induced apoptosis in human squamous cell oesophageal carcinoma cell line EC9706",
+        "pub_date": "2014-05-29",
+        "pdf_file_name": "3273.pdf",
+        "text_file_name": "3273.txt"
+    },
+    {
+        "publication_id": 3274,
+        "unique_identifier": "10.1177/2053951716669530",
+        "title": "Big Data, epistemology and causality: Knowledge in and knowledge out in EXPOsOMICS",
+        "pub_date": "2016-09-22",
+        "pdf_file_name": "3274.pdf",
+        "text_file_name": "3274.txt"
+    },
+    {
+        "publication_id": 3275,
+        "unique_identifier": "10.1177/2041669516651366",
+        "title": "The Change Detection Advantage for Animals: An Effect of Ancestral Priorities or Progeny of Experimental Design?",
+        "pub_date": "2016-06-01",
+        "pdf_file_name": "3275.pdf",
+        "text_file_name": "3275.txt"
+    },
+    {
+        "publication_id": 3276,
+        "unique_identifier": "10.1177/1753465818755091",
+        "title": "Effect of 12 weeks of once-daily tiotropium/olodaterol on exercise endurance during constant work-rate cycling and endurance shuttle walking in chronic obstructive pulmonary disease",
+        "pub_date": "2018-01-01",
+        "pdf_file_name": "3276.pdf",
+        "text_file_name": "3276.txt"
+    },
+    {
+        "publication_id": 3277,
+        "unique_identifier": "10.1177/2158244016684911",
+        "title": "Thai Entrepreneur and Community-Based Enterprises\u2019 OTOP Branded Handicraft Export Performance",
+        "pub_date": "2017-01-01",
+        "pdf_file_name": "3277.pdf",
+        "text_file_name": "3277.txt"
+    },
+    {
+        "publication_id": 3278,
+        "unique_identifier": "10.1177/2041669517744221",
+        "title": "About Face: Matching Unfamiliar Faces Across Rotations of View and Lighting",
+        "pub_date": "2017-11-29",
+        "pdf_file_name": "3278.pdf",
+        "text_file_name": "3278.txt"
+    },
+    {
+        "publication_id": 3279,
+        "unique_identifier": "10.1177/2053168015590681",
+        "title": "Measurements of cognitive skill by survey mode: Marginal differences and scaling similarities",
+        "pub_date": "2015-07-03",
+        "pdf_file_name": "3279.pdf",
+        "text_file_name": "3279.txt"
+    },
+    {
+        "publication_id": 3280,
+        "unique_identifier": "10.1177/1474704916678626",
+        "title": "An Evolutionary Perspective on Mate Rejection",
+        "pub_date": "2016-10-17",
+        "pdf_file_name": "3280.pdf",
+        "text_file_name": "3280.txt"
+    },
+    {
+        "publication_id": 3281,
+        "unique_identifier": "10.1177/0300060514548288",
+        "title": "Ambulatory arterial stiffness index correlates with ambulatory pulse pressure but not dipping status in patients with grade 1/grade 2 essential hypertension",
+        "pub_date": "2014-10-20",
+        "pdf_file_name": "3281.pdf",
+        "text_file_name": "3281.txt"
+    },
+    {
+        "publication_id": 3282,
+        "unique_identifier": "10.1177/1478929917750311",
+        "title": "Heuristics and Political Elites\u2019 Judgment and Decision-Making",
+        "pub_date": "2018-02-01",
+        "pdf_file_name": "3282.pdf",
+        "text_file_name": "3282.txt"
+    },
+    {
+        "publication_id": 3283,
+        "unique_identifier": "10.1177/2158244012472687",
+        "title": "Fighting Child Sexual Abuse",
+        "pub_date": "2013-01-08",
+        "pdf_file_name": "3283.pdf",
+        "text_file_name": "3283.txt"
+    },
+    {
+        "publication_id": 3284,
+        "unique_identifier": "10.1177/2053951714538417",
+        "title": "Official statistics and Big Data",
+        "pub_date": "2014-04-01",
+        "pdf_file_name": "3284.pdf",
+        "text_file_name": "3284.txt"
+    },
+    {
+        "publication_id": 3285,
+        "unique_identifier": "10.1177/2158244015610172",
+        "title": "Managing School Internal Mechanisms for Performance Improvement in Secondary Education",
+        "pub_date": "2015-12-07",
+        "pdf_file_name": "3285.pdf",
+        "text_file_name": "3285.txt"
+    },
+    {
+        "publication_id": 3286,
+        "unique_identifier": "10.1177/0300060517704140",
+        "title": "Predicting the outcome of different protocols of in\u00a0vitro fertilization with anti-Mu\u00fcllerian hormone levels in patients with polycystic ovary syndrome",
+        "pub_date": "2017-04-28",
+        "pdf_file_name": "3286.pdf",
+        "text_file_name": "3286.txt"
+    },
+    {
+        "publication_id": 3287,
+        "unique_identifier": "10.1177/1746197917694183",
+        "title": "Ideology, utopia and Islam on campus: How to free speech a little from its own terrors",
+        "pub_date": "2017-03-28",
+        "pdf_file_name": "3287.pdf",
+        "text_file_name": "3287.txt"
+    },
+    {
+        "publication_id": 3288,
+        "unique_identifier": "10.1177/147470491000800206",
+        "title": "Understanding of Evolution May Be Improved by Thinking about People",
+        "pub_date": "2010-04-01",
+        "pdf_file_name": "3288.pdf",
+        "text_file_name": "3288.txt"
+    },
+    {
+        "publication_id": 3289,
+        "unique_identifier": "10.1177/2158244014560551",
+        "title": "DVR and Its Impact on Indian Market",
+        "pub_date": "2014-12-02",
+        "pdf_file_name": "3289.pdf",
+        "text_file_name": "3289.txt"
+    },
+    {
+        "publication_id": 3290,
+        "unique_identifier": "10.1177/2158244015590442",
+        "title": "From Unfinished Adolescent to Young Adult",
+        "pub_date": "2015-06-15",
+        "pdf_file_name": "3290.pdf",
+        "text_file_name": "3290.txt"
+    },
+    {
+        "publication_id": 3291,
+        "unique_identifier": "10.1177/1745691614526414",
+        "title": "Banishing the Control Homunculi in Studies of Action Control and Behavior Change",
+        "pub_date": "2014-09-01",
+        "pdf_file_name": "3291.pdf",
+        "text_file_name": "3291.txt"
+    },
+    {
+        "publication_id": 3292,
+        "unique_identifier": "10.1177/147470491401200208",
+        "title": "Revisiting the Survival Mnemonic Effect in Children",
+        "pub_date": "2014-04-01",
+        "pdf_file_name": "3292.pdf",
+        "text_file_name": "3292.txt"
+    },
+    {
+        "publication_id": 3293,
+        "unique_identifier": "10.1177/2158244013497025",
+        "title": "The Effects of Situated Learning Through a Community Partnership in a Teacher Preparation Program",
+        "pub_date": "2013-08-05",
+        "pdf_file_name": "3293.pdf",
+        "text_file_name": "3293.txt"
+    },
+    {
+        "publication_id": 3294,
+        "unique_identifier": "10.1177/147470491501300201",
+        "title": "Functional Flexibility in Women's Commitment-Skepticism Bias",
+        "pub_date": "2015-04-01",
+        "pdf_file_name": "3294.pdf",
+        "text_file_name": "3294.txt"
+    },
+    {
+        "publication_id": 3295,
+        "unique_identifier": "10.1177/1759091415609613",
+        "title": "A Distinct Class of Antibodies May Be an Indicator of Gray Matter Autoimmunity in Early and Established Relapsing Remitting Multiple Sclerosis Patients",
+        "pub_date": "2015-10-15",
+        "pdf_file_name": "3295.pdf",
+        "text_file_name": "3295.txt"
+    },
+    {
+        "publication_id": 3296,
+        "unique_identifier": "10.1177/0300060517707076",
+        "title": "Research in the precaution of recombinant human erythropoietin to steroid-induced osteonecrosis of the rat femoral head",
+        "pub_date": "2017-06-12",
+        "pdf_file_name": "3296.pdf",
+        "text_file_name": "3296.txt"
+    },
+    {
+        "publication_id": 3297,
+        "unique_identifier": "10.1177/0300060517710885",
+        "title": "\u201cPharming out\u201d support: a promising approach to integrating clinical pharmacists into established primary care medical home practices",
+        "pub_date": "2017-08-08",
+        "pdf_file_name": "3297.pdf",
+        "text_file_name": "3297.txt"
     }
 ]

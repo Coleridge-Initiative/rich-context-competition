@@ -1,0 +1,1077 @@
+Original Article
+A Distinct Class of Antibodies May Be
+an Indicator of Gray Matter Autoimmunity
+in Early and Established Relapsing Remitting
+Multiple Sclerosis Patients
+Ann J. Ligocki1,*, Jacqueline R. Rivas1,*, William H. Rounds1,
+Alyssa A. Guzman1, Min Li1, Melania Spadaro2, Lauren Lahey3,
+Ding Chen1, Paul M. Henson1, Donna Graves1,
+Benjamin M. Greenberg1, Elliot M. Frohman1, E. Sally Ward4,
+William Robinson3, Edgar Meinl2, Charles L. White III5,
+Ann M. Stowe1, and Nancy L. Monson1,4
+Abstract
+We have previously identified a distinct class of antibodies expressed by B cells in the cerebrospinal fluid (CSF) of early and
+established relapsing remitting multiple sclerosis (RRMS) patients that is not observed in healthy donors. These antibodies
+contain a unique pattern of mutations in six codons along VH
+4 antibody genes that we termed the antibody gene signature
+(AGS). In fact, patients who have such B cells in their CSF are identified as either having RRMS or developing RRMS in the
+future. As mutations in antibody genes increase antibody affinity for particular antigens, the goal for this study was to
+investigate whether AGSþ antibodies bind to brain tissue antigens. Single B cells were isolated from the CSF of 10 patients
+with early or established RRMS. We chose 32 of these B cells that expressed antibodies enriched for the AGS for further
+study. We generated monoclonal full-length recombinant human antibodies (rhAbs) and used both immunological assays and
+immunohistochemistry to investigate the capacity of these AGSþ rhAbs to bind brain tissue antigens. AGSþ rhAbs did not
+recognize myelin tracts in the corpus callosum. Instead, AGSþ rhAbs recognized neuronal nuclei and/or astrocytes, which are
+prevalent in the cortical gray matter. This pattern was unique to the AGSþ antibodies from early and established RRMS
+patients, as AGSþ antibodies from an early neuromyelitis optica patient did not display the same reactivity. Prevalence of CSF-
+derived B cells expressing AGSþ antibodies that bind to these cell types may be an indicator of gray matter-directed
+autoimmunity in early and established RRMS patients.
+Keywords
+multiple sclerosis, clinically isolated syndrome, autoantibody, B cell, gray matter, myelin tracts
+Introduction
+B cells and antibodies are present in both the cerebro-
+spinal fluid (CSF) and the central nervous system
+(CNS) of patients with relapsing remitting multiple scler-
+osis (RRMS), as well as clinically isolated syndrome
+(CIS) patients who are at high risk of developing
+RRMS (Krumbholz and Meinl, 2014). B cells are
+involved in RRMS in multiple ways, including antigen
+presentation and activation of T cells toward antigens
+in the brain (Harp et al., 2010), production of proinflam-
+matory cytokines (Ireland et al., 2012), and possibly the
+1Department of Neurology and Neurotherapeutics, University of Texas
+Southwestern Medical Center, Dallas, TX, USA
+2Institute of Clinical Neuroimmunology, Ludwig-Maximilian-University,
+Munich, Germany
+3Department of Immunology and Rheumatology, Stanford University, CA,
+USA
+4Department of Immunology, University of Texas Southwestern Medical
+Center, Dallas, TX, USA
+5Department of Pathology, University of Texas Southwestern Medical
+Center, Dallas, TX, USA
+Corresponding Author:
+Nancy L. Monson, Department of Neurology and Neurotherapeutics,
+University of Texas Southwestern Medical Center, NL9.110, 6000 Harry
+Hines Blvd, Dallas, TX 75390, USA.
+Email: nancy.monson@utsouthwestern.edu
+*These authors contributed equally to the work in this manuscript.
+ASN Neuro
+September-October 2015: 1­16
+! The Author(s) 2015
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/1759091415609613
+asn.sagepub.com
+Creative Commons CC-BY: This article is distributed under the terms of the Creative Commons Attribution 3.0 License
+(http://www.creativecommons.org/licenses/by/3.0/) which permits any use, reproduction and distribution of the work without further permission
+provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+production of autoantibodies. In addition, depletion of
+B cells is an effective treatment for many RRMS patients
+(Hauser et al., 2008).
+The most common multiple sclerosis (MS) lesion is
+characterized by deposition of both antibodies and com-
+plement, and patients with this pattern of pathology can
+improve with plasmapheresis treatment, which removes
+circulating antibodies (Lucchinetti et al., 2000). In fact,
+elevated B cells in the CSF correlate with lesion activity
+on MRI (Cepok et al., 2005), and both increased intra-
+thecal immunoglobulin synthesis (Sellebjerg et al., 2000)
+and complement activation (Sellebjerg et al., 1998) are
+also associated with a more aggressive disease course.
+Sera from MS patients contain antibodies that mediate
+damage in myelinating cultures containing astrocytes,
+neurons, and oligodendrocytes (Elliott et al., 2012).
+Collectively, these findings implicate a role for antibodies
+in the pathoetiology of MS.
+We recently discovered that B cells from the CSF of
+early and established RRMS patients express a distinct
+class of VH
+4 antibody genes (Cameron et al., 2009;
+Rounds et al., 2014). In fact, the prevalence of this dis-
+tinct class of VH
+4 antibody genes in the CSF-derived
+B cell pool can support identification of patients who
+either have or will develop RRMS with 85% to 94%
+accuracy depending on the sequencing platform used
+(Cameron et al., 2009; Rounds et al., 2014; Rounds
+et al., 2015). What identifies this unique subclass of
+VH
+4 antibody genes is that they have acquired somatic
+hypermutations (SHMs) at six codons (31b, 40, 56, 57,
+81, and 89, Kabat numbering) within the variable region
+at an excessive rate compared with controls. We call this
+unusual antibody gene feature the antibody gene signa-
+ture (AGS) for RRMS.
+The purpose of SHM is to create B cells with higher
+affinity for their antigen. After accumulating SHMs
+in their immunoglobulin genes, B cells expressing antibo-
+dies with higher affinity for their antigen outcompete their
+sister cells for survival and activation signals. Considering
+this, the enrichment of the AGS in CSF B cells of RRMS
+patients could indicate a selection for B cells with affin-
+ity for antigens prevalent in the brain. Therefore, we
+hypothesized that AGSþ B cells may express antibodies
+that bind to targets within the CNS. CNS tissue harbors
+AGSþ B cells (Ligocki et al., 2010), and CSF B cells from
+RRMS patients represent those that are found in the
+tissue itself (Owens et al., 2003). Given this, we generated
+32 full-length recombinant human antibodies (rhAbs)
+from single AGSþ CSF B cells of 10 early or established
+RRMS patients and two AGSþ CSF B cells from
+1 patient with similar symptoms who converted to neu-
+romyelitis optica (NMO).
+Immunohistochemistry on both mouse and human
+brain tissue demonstrated that 30 of the 32 AGSþ
+rhAbs targeted cellular components of the cortex.
+Immunofluorescence (IFC) confirmed the rhAbs bind
+either astrocyte cell bodies and processes or neuronal
+nuclei and, in some cases, bind both cellular targets.
+This pattern was unique to the AGSþ antibodies from
+early and established RRMS patients, as AGSþ antibo-
+dies from an early NMO patient did not display the same
+reactivity. This is the first known description of a distinct
+class of RRMS-derived antibodies sharing a mutational
+pattern that targets astrocytes and neurons. The preva-
+lence of B cells expressing AGSþ antibodies may be an
+indicator of gray matter-directed autoimmunity in early
+and established RRMS patients.
+Materials and Methods
+Patient Sample Acquisition and Processing
+CSF was obtained by lumbar puncture from patients
+recruited in accordance with the University of Texas
+Southwestern Medical Center (UTSWMC) institutional
+review board. Patient summary is provided in Table 1.
+This study includes patient samples as previously pub-
+lished by our group (Cameron et al., 2009; Ligocki
+et al., 2013) containing established CDMS patients (clin-
+ically definite MS) with the relapsing remitting form
+and early MS patients (CIS) with symptoms of either
+optic neuritis (ONCIS
+) or transverse myelitis (TMCIS
+).
+The ONCIS
+and TMCIS
+patients all had gadolinium-
+enhancing lesions at the time of sampling and converted
+to RRMS subsequent to the time of sampling, with
+the exception of the one patient who converted to
+NMO. The samples were stained with fluorescently
+labeled antibodies and sorted for single CD19þ B cells
+as previously described, into 96-well plates using either
+the BD FACSAria flow cytometer (Becton Dickinson,
+San Jose, CA) or the MoFlo High-Performance Cell
+Sorter (Cytomation, Fort Collins, CO).
+Single-Cell Polymerase Chain Reaction
+and Genetic Analysis of Variable Heavy
+and Variable Kappa Genes
+After the single cell sort and cell lysis, antibody variable
+regions were reverse transcribed from messenger RNA,
+and genetic analyses were performed as previously
+described (Ligocki et al., 2013). Antibody variable
+heavy (VH
+) and variable kappa (VK
+) sequences were
+analyzed and compiled using a Perl program developed
+at UTSWMC (Ligocki et al., 2010; Ligocki et al., 2013)
+using IMGT/V-QUEST as the initial source for
+sequence alignment. AGS scores are determined by cal-
+culating a Z score as a sum of (replacement mutation
+frequency % À 1.6%) for each AGS codon (31b, 40, 56,
+57, 81, and 89) divided by 0.9%, where replacement muta-
+tion frequency percentage is calculated as replacement
+2 ASN Neuro
+mutations at a specific codon divided by total replacement
+mutations (Cameron et al., 2009).
+Cloning and Production of Full-Length Recombinant
+Human Immunoglobin G Antibodies
+Only those CSF B cells expressing the distinct VH
+4
+subclass of antibody genes with replacement mutations
+at two or more of the six AGS codons (31b, 40, 56, 57,
+81, and 89) were considered for cloning into full-length
+expression vectors (i.e., ``AGSþ''; Supplemental Tables
+1 and 2). These AGSþ rhAbs were cloned from 10 CSF
+patient repertoires: 9 rhAbs from four established MS
+patients, 23 rhAbs from six early MS patients, and 2
+rhAbs from one early NMO patient, which served as
+controls for the AGSþ rhAbs cloned from the early
+and established MS patients. Sixty percent of the MS
+and early MS rhAbs were clonally expanded and were
+identified by the presence of another VH
+sequence
+within the same patient's antibody repertoire with iden-
+tical amino acids in the third complementarity deter-
+mining region (CDR3). The corresponding VK
+sequence was amplified from the same well as the VH
+sequence to identify the antibody binding region of the
+single CSF B cell. Expression vectors for both the
+Immunoglobin G and Immunoglobin kappa chains
+and the procedure for production of monoclonal
+human Immunoglobin G1
+is well described (Tiller
+et al., 2008). One additional control rhAb, B1, was
+cloned from systemic lupus erythematosus (SLE)
+patient B cells and provided by Dr. Betty Diamond
+as a construct control that does not bind to mouse
+brain (Zhang et al., 2009). Production of monoclonal
+rhAbs and their biotinylation procedure is detailed in
+the Supplemental Methods.
+Brain Tissue Processing and Immunohistochemistry
+Detailed methodology for immunohistochemistry and
+IFC to detect rhAb binding on brain tissue is provided
+in the Supplemental Material. Notable differences
+employed in this current study compared with previ-
+ously used protocols (von Budingen et al., 2008;
+Owens et al., 2009) are (a) the usage of 4% paraformal-
+dehyde as a gentle fixative for previously frozen mater-
+ial, rather than paraffin embedding and (b) staining
+performed on both healthy and diseased white matter
+(WM) and gray matter (GM) from both mouse and
+human brain tissues. WM and GM were normal appear-
+ing, with the exception of MS plaque tissue. Of note, the
+presence of lipofuscin, which is typical for mature neu-
+rons (Double et al., 2008), is detectable in some of the
+human brain staining. Also, only the corticospinal sub-
+class of neurons express YFP2.2 in the mice used for
+IFC (Figure 9; Feng et al., 2000).
+Myelin Oligodendrocyte Glycoprotein, Myelin Basic
+Protein, and Lysate ELISAs
+The rhAbs were tested for binding to myelin oligodendro-
+cyte glycoprotein (MOG), myelin basic protein (MBP),
+and tissue lysates (brain and kidney) by ELISA using
+Table 1. Patient Summary.
+Patient numbera Diagnosis Age Gender MRI activity AGS scoreb % AGSþ B cellsc
+1 RRMS 19 F GDþ 17.6 22
+2 ONCIS
+40 F GDþ 6.1 50
+3 ONCIS
+40 F GDþ 10.7 27
+4 TMCIS
+28 F GDþ 17.9 18
+5 TMCIS
+20 F GDþ 16.7 28
+6 TMCIS
+33 M GDþ 22.3 13
+7 RRMS 32 F GDþ 14.0 14
+8 RRMS 44 F GDþ 14.0 11
+9 RRMS 35 F GDþ 15.0 23
+10 ONCIS
+34 F GDþ 13.1 25
+11 TMNMO
+57 F GDþ 13.8 12
+Note. AGS ¼ antibody gene signature; GDþ ¼ gadolinium enhancing lesion positive; F ¼ female; M ¼ male; MRI ¼ magnetic resonance
+imaging; ONCIS
+¼ clinically isolated syndrome with optic neuritis symptoms; RRMS ¼ relapsing remitting multiple sclerosis;
+TMCIS
+¼ transverse myelitis; TNMO
+¼ transverse myelitis that converted to neuromyelitis optica.
+aOverall antibody repertoire data were originally presented for Patient 7 in (Monson et al., 2005), Patients 8 and 9 in (Harp et al.,
+2007), Patients 4, 5, and 6 in the study by Ligocki et al. (2013) and Patients 1, 3, and 10 in the study by Rounds et al. (2014). bAGS
+scores were originally presented for Patients 7 to 9 in the study by Cameron et al. (2009) and Patients 1, 3 to 6, and 10 in the study by
+Rounds et al. (2014). cAGS+ B cells indicate percent of B cells in the CSF of the patient that had 2 or more mutated AGS codons.
+Ligocki et al. 3
+adapted methods (Kinnunen et al., 2013). Detailed meth-
+ods of rhAb-binding detection are provided in the
+Supplemental Methods.
+Flow Cytometry of Human Myelin Oligodendrocyte
+Glycoprotein-Transfected HeLa cells
+The rhAbs were tested for binding to hMOG-transfected
+HeLa cells by fluorescence-activated cell sorter-staining
+as described (Mayer et al., 2013). Detailed methods are
+provided in the Supplemental Methods.
+Myelin Array
+The rhAbs were tested for binding to a myelin array
+(Robinson et al., 2003) comprising 406 antigens (375 pep-
+tides, 28 proteins, and 3 nucleic acids) plus controls
+representing major components of the myelin sheath,
+including MOG and MBP. Detailed methods are pro-
+vided in the Supplemental Methods.
+Results
+AGSþ rhAbs Bind to Cellular Components
+of the Cortical GM
+As MS is considered a demyelinating disease (Hauser and
+Oksenberg, 2006; Compston and Coles, 2008; Steinman,
+2014; Ransohoff et al., 2015), we first sought to determine
+whether the AGSþ rhAbs recognized components of the
+corpus callosum, which is enriched for myelin tracts. To
+do this, we utilized brain tissue from a mouse model of
+transient stroke as a source of inflammation (Stowe et al.,
+2011), which provided generalized non-antigen-directed
+inflammation to minimize any potential bias of CNS anti-
+gens. 3,30-Diaminobenzidine (DAB) was used to detect
+binding to brain tissue of 32 AGSþ rhAbs from early
+and established MS patients and 2 AGSþ rhAbs from a
+patient with NMO. All but 2 of the 32 AGSþ rhAbs from
+early and established MS patients (WR01 and WR11)
+bound to mouse poststroke brain albeit with a wide
+range of staining intensity (27 AGSþ rhAbs are shown
+in Figure 1, and the remaining 5 are not shown).
+However, binding to myelinated tracts in the corpus cal-
+losum was either nonexistent or sporadic for all 32 AGSþ
+rhAbs from MS patients. The 2 AGSþ rhAbs from an
+NMO patient (R1 and R2) did not bind to any compo-
+nent of the brain tissue.
+Instead, the 30 positively staining AGSþ rhAbs that
+demonstrated reactivity to the mouse stroke brain tissue
+bound to cellular components of the cortical GM. This
+binding preference was also confirmed in sections of
+healthy mouse brain tissue and experimental autoimmune
+encephalomyelitis (mouse model of MS) brain tissue
+Figure 1. AGSþ rhAbs bind to poststroke mouse brain cortex.
+DAB images are shown at 20Â magnification of the cortex and
+corpus callosum CC (CC within the dotted outline) as indicated.
+The upper three panels are the negative controls: B1, an rhAb
+isolated from the brain of a SLE patient with no known reactivity
+to human or mouse brain tissue; R1, an rhAb isolated from the
+CSF of an early NMO patient; and R2, an rhAb isolated from the
+CSF of the same early NMO patient. The nine rhAbs in the first
+column below these controls are from CDMS patients, the nine
+rhAbs in the second column below these controls are from
+ONCIS
+patients, and the nine rhAbs in the third column below
+these controls are from TMCIS
+patients. The rhAb designation,
+patient type, and patient number are shown in the upper
+right corner of each image. Data are representative of three
+coronal sections per rhAb. Scale bar represents 100 mm.
+AGS ¼ antibody gene signature; CC ¼ corpus callosum;
+CDMS ¼ clinically definite multiple sclerosis; CSF ¼ cerebrospinal
+fluid; NMO ¼ neuromyelitis optica; ONCIS
+¼ optic neuritis;
+rhAb ¼ recombinant human antibody; SLE ¼ systemic lupus
+erythematosus; TMCIS
+¼ transverse myelitis.
+4 ASN Neuro
+(Figure 2) using a subset of AGSþ rhAbs. Only one of the
+AGSþ rhAbs, AJL10, demonstrated reactivity to healthy
+mouse liver control tissue (Figure 2). The control rhAbs
+(B1, R1, and R2) did not bind to either brain or liver
+tissue (Figures 1 and 2).
+AGSþ rhAbs Target Neurons and Astrocytes
+in the Cortical GM
+Due to the focused cellular binding in the cortical GM by
+these AGSþ rhAbs from MS patients, we hypothesized
+that the AGSþ rhAbs were binding to either neurons or
+astrocytes in the cortex. Therefore, IFC colocalization
+experiments were performed on a subset of AGSþ
+rhAbs that demonstrated strong binding by DAB
+(Figures 1 and 2). NeuN was utilized as a marker for
+neuronal nuclei, and glial fibrillary acidic protein
+(GFAP) was utilized as a marker for astrocytes. Figure
+3 features three of these rhAbs that bound to neurons but
+not astrocytes, Figure 4 features three of these rhAbs that
+bound to astrocytes but not neurons, and Figure 5 fea-
+tures four of these rhAbs that bound both neurons and
+astrocytes. Negative control IFC using the B1, R1, and
+R2 rhAbs are shown in Figure 3.
+Three of the AGSþ rhAbs (AJL03, AJL10, and
+AJL15) expressed by CSF-derived B cells from three dif-
+ferent early MS patients colocalized with neuronal nuclei,
+as demonstrated in Figure 3 (top panels). Each rhAb
+contained replacement SHMs at two or more of the six
+AGS codons (Supplemental Table 1). No additional
+clones of AJL03 or AJL10 were detected in their respect-
+ive patients' CSF, but additional clones of AJL15 were
+detected. None of these rhAbs cross-reacted with astro-
+cytes as demonstrated by the lack of colocalization with
+the astrocyte specific antibody, GFAP (Figure 3, bottom
+panels). The control rhAbs (B1, R1, and R2) did not
+colocalize with NeuN or GFAP (Figure 3, Panels D­F).
+Three different AGSþ rhAbs (AJL01, WR12, and
+WR13) expressed by CSF-derived B cells from early MS
+patients colocalized with the astrocyte specific antibody
+GFAP, as shown in Figure 4 (top panels). WR12 and
+WR13 were from the same patient, but AJL01 was from a
+different patient. Each rhAb contained replacement SHMs
+at two or more of the six AGS codons (Supplemental Table
+1), and all three rhAbs had additional clones detected in
+their respective patients' CSF. None of these rhAbs cross-
+reacted with neuronal nuclei as demonstrated by the lack of
+colocalization with NeuN (Figure 4, bottom panels).
+Four remaining AGSþ rhAbs (AJL02, AJL07, AJL19,
+and WR10) expressed by CSF-derived B cells from early
+MS patients colocalized with both neurons (Figure 5, top
+panels) and astrocytes (Figure 5, bottom panels). Like the
+previous rhAbs, these rhAbs contained replacement
+SHMs at two or more of the six AGS codons
+(Supplemental Table 1), and though they all were
+Figure 2. AGSþ rhAbs bind to healthy and experimental auto-
+immune encephalomyelitis mouse brain but not mouse liver. DAB
+images of negative controls and AGSþ rhAbs binding to the cortex
+and corpus callosum of healthy mouse brain and EAE brain as well as
+healthy liver tissue are shown at 20Â magnification. The upper nine
+panels are the negative controls (B1, R1, and R2) on these three
+tissue types. The patient types of the 10 AGSþ rhAbs (two from
+CDMS patients, four from ONCIS
+patients and four from TMCIS
+patients) are shown at the left of each panel set and the rhAb des-
+ignation, patient type, and patient number in the upper right corner
+of each image. Data are representative of three sections per rhAb.
+Scale bar represents 100 mm. AGS¼ antibody gene signature;
+CDMS ¼ clinically definite multiple sclerosis; ONCIS
+¼ optic neuritis;
+rhAb ¼ recombinant human antibody; TMCIS
+¼ transverse myelitis.
+Ligocki et al. 5
+cloned from different patients, three of the four rhAbs
+(AJL07, AJL19, and WR10) had additional clones
+detected in their respective patients' CSF.
+These 10 rhAbs that bound to either neurons or astro-
+cytes in mouse brain tissue were tested for binding of
+human brain tissue (Figure 6). All 10 AGSþ rhAbs recog-
+nized cellular targets in the cortical GM from fixed brain
+tissue of an MS patient (Figure 6(a)) and a healthy donor
+unfixed cortical GM (Figure 6(b)). However, none of the
+AGSþ rhAbs recognized cellular targets in the fixed WM of
+an MS patient (Figure 6(c)) or fixed WM of a healthy donor
+(Figure 6(d)). Minimal recognition of fixed plaque tissue of
+an MS patient was observed for all AGSþ rhAbs (Figure
+6(e)). Cellular targets of human GM were identified with
+colocalization experiments using NeuN and GFAP to rep-
+licate what was done in mouse tissue (Figures 3­5). All 10
+AGSþ rhAbs recognized either neuronal nuclei or astro-
+cytes in human brain tissue as demonstrated by colocaliza-
+tion with either NeuN or GFAP (Figure 7).
+AGSþ rhAbs Do Not Bind to Common Myelin
+Antigens
+We used ELISA, myelin array, and flow cytometry
+(Figure 8) to evaluate binding of the AGSþ rhAbs to
+the well-known myelin antigens, MBP and MOG
+(Fraussen, Claes, de Bock, & Somers, 2014). With the
+exception of AJL01, which was reactive to both MBP
+and MOG by ELISA, all of the remaining AGSþ
+rhAbs that we tested did not bind MBP or MOG
+by ELISA (Figure 8(a) and (b)) or by myelin array
+(Figure 8(c)). Finally, none of the AGSþ rhAbs that we
+tested reacted to MOG expressed on the cell surface of
+HeLa cells as assessed by flow cytometry (Figure 8(d)).
+As the majority of AGSþ rhAbs did not bind to the
+common myelin antigens, we next sought to confirm this
+by staining myelin tracts in the corpus callosum simul-
+taneously with one of the AGSþ rhAbs. Brain slices from
+mice whose corticospinal neurons express YFP2.2 (Feng
+et al., 2000) were dual stained with a commercial anti-
+MBP antibody and the AGSþ rhAb AJL10 that did not
+bind to MBP or MOG in the myelin assays (Figure 8).
+As illustrated in Figure 9, the WM tracts in the corpus
+callosum were readily identifiable using the anti-MBP
+antibody colocalized with YFP-expressing axons (Panel
+B, 10Â magnification; Panel F, 63Â magnification).
+AJL10 did not bind to myelin tracts in the corpus callo-
+sum, but instead, bound to cellular components in the
+cortex (Panels C and G), with specific colocalization to
+layer V neuronal nuclei. Given the prevalence of NeuN
+Figure 3. IFC of AGSþ rhAbs targeting neuronal nuclei. Confocal images are shown at 63Â magnification. The primary rhAb is shown in
+green in all overlay panels. The experimental rhAbs (AJL03, AJL10, and AJL15) are shown in Panels A to C and the negative control rhAbs
+(B1, R1, and R2) are shown in Panels D to F. The upper overlay panels include the colocalization marker, NeuN (for neuronal nuclei),
+shown as red. The lower overlay panels include the colocalization marker, GFAP (for astrocytes), shown as red. The independent red and
+green channel images are located above each overlay and include the nuclear 40,6-diamidino-2-phenylindole counterstain. Data are rep-
+resentative of six coronal sections per rhAb. Scale bar represents 10 mm. AGS ¼ antibody gene signature; IFC ¼ immunofluorescence;
+rhAb ¼ recombinant human antibody.
+6 ASN Neuro
+and AJL10 colocalization in Figure 3, many of the other
+nuclei identified may belong to other subclasses of neu-
+rons, including interneurons.
+To determine whether these AGSþ rhAbs bind
+CNS-specific antigens or antigens expressed in other tis-
+sues, ELISAs on tissue lysates from wild-type mice were
+performed. Many of the AGSþ rhAbs colocalized with
+nuclei, much like antinuclear antibodies (ANAs) found in
+other autoimmune diseases such as SLE. As deposition of
+ANAs in the kidneys of SLE patients often leads to glom-
+erulonephritis (acute inflammation of the kidney), we
+tested our AGSþ rhAbs for binding to kidney lysate in
+comparison to brain lysate. But unlike SLE ANAs,
+the AGSþ rhAbs from these patients showed specificity
+for brain proteins over kidney proteins (Figure 9(i)).
+For example, AJL10 bound to mouse brain lysate
+antigens with five times greater signal compared to
+mouse kidney lysate.
+Discussion
+In this study, we used AGS enrichment as the selection
+criteria for rhAb generation, as this distinct class of anti-
+bodies is unique to B cells in the CSF (Cameron et al.,
+2009; Rounds et al., 2014; Rounds et al., 2015), and brain
+tissue (Ligocki et al., 2010) of established and early MS
+patients with evidence of MRI activity. Previously, our
+laboratory (Lambracht-Washington et al., 2007) and
+others (Yu et al., 2006; von Budingen et al., 2008;
+Owens et al., 2009; Yu et al., 2011) chose antibodies to
+generate in the laboratory based on whether the CSF-
+derived B cell had undergone clonal expansion or had
+Figure 4. IFC of AGSþ rhAbs targeting astrocytes. Confocal images are shown at 63Â magnification. The primary rhAb is shown as green
+in all overlay panels. The experimental rhAbs (AJL01, WR12, and WR13) are shown in Panels A to C. The negative control rhAbs (B1, R1,
+and R2) are shown in Panels D to F of Figure 3. The upper overlay panels include the colocalization marker, GFAP (for astrocytes), shown
+as red. The lower overlay panels include the colocalization marker, NeuN (for neuronal nuclei), shown as red. The independent red and
+green channel images are located above each overlay and include the nuclear 40,6-diamidino-2-phenylindolecounterstain. Data are rep-
+resentative of six coronal sections per rhAb. Scale bar represents 10 mm. AGS ¼ antibody gene signature; IFC ¼ immunofluorescence;
+rhAb ¼ recombinant human antibody.
+Ligocki et al. 7
+differentiated to an antibody secreting plasma cell.
+Yu et al. identified peptide targets of 10 rhAbs generated
+from plasma cells of two MS patients, none of which
+demonstrated homology to any known human proteins,
+including myelin components (Yu et al., 2006). von
+Budingen et al. demonstrated that eight of nine rhAbs
+generated from clonally expanded plasma cells of four
+MS patients recognized myelin in MS lesion tissue, but
+reactivity was not to the well-characterized myelin anti-
+gens, MBP, MOG, or proteolipid protein (Von Budingen
+et al., 2008). Interestingly, one of these nine rhAbs recog-
+nized astroglia in MS lesion tissue. Finally, Owens and
+Bennett demonstrated that 53 rhAbs generated from
+plasma cells of nine MS patients did not recognize indi-
+vidual myelin antigens using multiple immunoassays
+(Owens et al., 2009). Interestingly, two of these rhAbs
+recognized neuronal nuclei in MS brain tissue. Taken
+together, these data indicate that neither myelin-asso-
+ciated or non-myelin antigens can be ruled out as possible
+targets of antibodies produced by plasma cells in the CSF
+of MS patients.
+For this study, we exclusively chose only those CSF-
+derived CD19þ B cells that expressed AGSþ antibodies,
+which are enriched in the CSF of RRMS patients. Indeed,
+RRMS patients or patients who will develop RRMS in
+the future can be identified by the prevalence of AGSþ B
+cells in their CSF (Cameron et al., 2009). We generated 32
+AGSþ rhAbs from 10 early and established MS patients
+and 2 AGSþ rhAbs from one early NMO patient. DAB
+staining of the AGSþ rhAbs from the early and estab-
+lished MS patients showed binding to cellular compo-
+nents in the cortical GM, with only mild non-myelin
+cellular staining of satellite astrocytes or oligodendro-
+cytes along the corpus callosum WM. The two AGSþ
+rhAbs from an early NMO patient did not bind to
+brain tissue. If these rhAbs were strongly targeting
+WM, there would be an accumulation of staining in the
+corpus callosum that is composed of highly myelinated
+Figure 5. IFC of AGSþ rhAbs targeting both neurons and astrocytes. Confocal images are shown at 63Â magnification. The primary
+rhAb is shown as green in all overlay panels. The experimental rhAbs (AJL02, AJL07, AJL19, and WR10) are shown in Panels A to D. The
+negative control rhAbs (B1, R1, and R2) are shown in Panels D to F of Figure 3. The upper overlay panels include the colocalization marker,
+NeuN (for neuronal nuclei), shown in red. The lower overlay panels include the colocalization marker, GFAP (for astrocytes) shown in red.
+The independent red and green channel images are located above each overlay and include the nuclear 40,6-diamidino-2-phenylindole
+counterstain. Data are representative of six coronal sections per rhAb. Scale bar represents 10 mm. AGS ¼ antibody gene signature;
+IFC ¼ immunofluorescence; rhAb ¼ recombinant human antibody.
+8 ASN Neuro
+Figure 6. AGSþ rhAbs recognize cellular targets in the GM from MS patients and healthy donors but not MS plaques or WM. DAB
+images are shown at 20Â magnification of fixed GM brain tissue from an MS patient (a), GM of unfixed brain tissue from a healthy donor
+(b), WM of fixed brain tissue from an MS patient (c), WM of fixed brain tissue from a healthy donor (d), and plaque area of fixed brain tissue
+from an MS patient (e). The rhAb designation, patient type, and patient number are shown in the upper right corner of all figures. DAB data
+of 10 AGSþ rhAbs and the B1 control rhAb are representative of three sections per rhAb. Scale bar represents 10 mm. AGS ¼ antibody
+gene signature; GM ¼ gray matter; MS ¼ multiple sclerosis; rhAb ¼ recombinant human antibody; WM ¼ white matter.
+Ligocki et al. 9
+Figure 7. IFC of AGSþ rhAbs targeting neurons and astrocytes in GM brain tissue from an MS patient. IFC images are shown at
+126Â magnification of fixed GM brain tissue from an MS patient. The primary rhAb is shown in green in all overlay panels. The 10
+AGSþ rhAbs and the negative control rhAb (B1) are shown. The upper row of three overlay panels include the colocalization marker,
+GFAP (for astrocytes) shown in red, and the lower rows of eight overlay panels include the colocalization marker, NeuN (for
+neuronal nuclei) shown in red. The independent red and green channel images are located above each overlay and include the nuclear
+40,6-diamidino-2-phenylindole counterstain. The rhAb designation, patient type, patient number and counter-stain antibody (NeuN or
+GFAP) are shown in the upper right corner of all figure overlays. IFC data are representative of three sections per rhAb. Scale bar
+represents 100 mm. AGS ¼ antibody gene signature; GM ¼ gray matter; IFC ¼ immunofluorescence; rhAb ¼ recombinant human
+antibody.
+10 ASN Neuro
+axonal tracks, as well as high reactivity in the MBP and
+MOG ELISA, myelin array, and MOG-focused flow
+cytometry assays. Instead, we did not observe dominant
+reactivity by these AGSþ rhAbs to any WM component
+as emphasized by the dual tissue staining of the AGSþ
+rhAb, AJL10, with a commercial anti-MBP antibody
+(Figure 9).
+We did, however, find that the AGSþ rhAbs bound
+to cellular structures in the cortical GM. Interestingly,
+GM pathology has recently gained appreciation for
+involvement in MS symptoms and disease progression
+(Bo et al., 2003; Fisniku et al., 2008; Rudick et al.,
+2009; Calabrese et al., 2010; Magliozzi et al., 2010;
+Howell et al., 2011; Schlaeger et al., 2014; Calabrese
+et al., 2015; Jehna et al., 2015; Kawachi and Nishizawa,
+2015; van Munster et al., 2015). More than 50% of all
+GM-related manuscripts available over the last three dec-
+ades were published in the last 5 years; decreasing the
+WM:GM publication ratio to 2.6 compared with 4.9 in
+the previous two decades. These studies have demon-
+strated that lesions are more extensive in the GM than
+in the WM (26.5% vs. 6.5%), such that GM pathology
+increases with disability and disease length (Bo et al.,
+2003). Progressive GM loss over time occurs at both
+the early and established MS stages (Chard et al., 2004;
+Valsasina et al., 2005), which suggest that the underlying
+pathology responsible for the loss is not restricted to
+either later disease stages or the WM myelin tracts.
+Indeed, others have demonstrated that myelin loss in
+MS can occur secondary to axonal and neuronal
+damage (Trapp et al., 1998), and a loss of neuronal pre-
+cursors can reduce the ability of oligodendrocytes to
+remyelinate (Einstein et al., 2009). More recently, others
+have begun to dissect the interaction of T cells with glia in
+the mouse model of MS (Huseby et al., 2015) and in
+humans, GM atrophy was higher in patients with evi-
+dence of disease activity (Freeman et al., 2015; Nygaard
+et al., 2015).
+As the AGSþ rhAbs described in the present study
+were cloned from B cells in the CSF, which is in close
+contact with the meninges, the antibodies produced
+by these AGSþ B cells may be strategically located to
+contribute to GM neuronal damage. For example, anti-
+bodies in MS CSF recognize neurofilaments, which com-
+prise the axonal/neuronal cytoskeleton (Fialova et al.,
+2013). Immunizing mice with neurofilament results in
+deposition of IgG within neuronal cell bodies and
+axons and subsequent GM damage (Huizinga et al.,
+2007). Coincubation of CSF from aggressive MS with
+neurons in vitro induced cell damage, transected axons,
+and correlated with poor recovery post relapse (Cid et al.,
+2002).
+There were four AGSþ rhAbs that did not recognize
+components of the brain tissue, which was surprising to
+us, as they all carry two or more replacement mutations
+in the AGS codons. Two of these AGSþ rhAbs that did
+Figure 8. AGSþ rhAbs do not bind strongly to common myelin components. (a) and (b) Binding of 10 AGSþ rhAbs to common myelin
+proteins MOG and MBP by ELISA. A dashed line represents the threshold for background signal, as observed with the negative control
+antibody B1. Commercial anti-MBP (a) and the established anti-MOG antibody 818C5 (b) are included as positive controls. (c) Binding of 8
+AGSþ rhAbs to myelin-derived peptides demonstrate no reactivity compared to positive controls (an EAE mouse serum antibody pool and
+anti-MBP). (d) Binding of 10 rhAbs to HEK293 cells mock transfected (left column) or transfected with MOG (right column) demonstrated
+no reactivity compared to a control MOG antibody (8-18C5). AGS ¼ antibody gene signature; MBP ¼ myelin basic protein; MOG ¼ myelin
+oligodendrocyte glycoprotein.
+Ligocki et al. 11
+not bind brain tissue were from early MS patients (WR01
+and WR11) and two were from an early NMO patient
+(R1 and R2). However, we had previously noted
+(Cameron et al., 2009) that VH
+4þ B cells from the CSF
+of MS patients had a depressed accumulation of SHM at
+codons 30, 43, 77, and 82. We considered that replace-
+ment mutations at these four ``cold spots'' may extinguish
+binding to CNS components. Indeed, upon closer exam-
+ination of these four AGSþ rhAbs' antibody genetics, we
+noticed that three of them had accumulated replacement
+mutations at one of more of these cold spots. The AGSþ
+rhAb from an early NMO patient, R1, had not, but it is
+possible that there are other cold spots in the VH
+4 anti-
+body rearrangements that counteract binding to CNS
+components that we could not identify due to the small
+sample size of that data set. Further characterization of
+the binding specificity of these AGSþ rhAbs would need
+to be done to clarify this issue.
+Figure 9. AGSþ rhAbs do not bind to myelin tracts, but demonstrate specificity for brain lysate. Panels A to D show a low magnification
+image (10Â) of MBP and AJL10 double IFC staining in brain tissue from YFP2.2 mice, which express soluble YFP in subsets of corticospinal
+neurons throughout the brain. YFP fluorescence is shown in green (Panel A), MBP in red (Panel B), and AJL10 in blue (Panel C). A merged
+image containing all three channels is shown in Panel D. Scale bar, 100 mm. Panels E to H show a high magnification image (63Â) taken in
+cortical layer V of MBP and AJL10 double IFC staining in brain tissue from YFP2.2 mice. The immunostaining remained the same as for
+Panels A to D. A merged image containing all three channels is shown in Panel H. Scale bar represents 20 mm. Data are representative of six
+coronal sections. The AGSþ rhAbs were queried for binding to mouse brain lysate by ELISA (Panel I) using mouse kidney lysate as a control
+antigen pool. Data are shown as mean and standard deviation of two separate assays with secondary only antibody absorbance subtracted.
+B1 and G11 are negative and positive controls (respectively) for the brain.
+12 ASN Neuro
+Many of the AGSþ rhAbs that were investigated in
+this study colocalized with neuronal nuclei or appear to
+be binding intracellular components of neurons and
+astrocytes. However, unlike ANAs from lupus patients,
+the majority of these AGSþ rhAbs were not reactive to
+nuclei in liver tissue and had higher affinity for brain
+extract than kidney extract, indicating their specificity
+for CNS tissue. There are many known proteins that
+are expressed specifically in the nuclei of neurons
+(Maroteaux et al., 1988; Cohen and Roenigk, 1991;
+Matsuoka et al., 1994; Sakakibara et al., 1996; Coy
+et al., 2002; Chandrasekar and Dreyer, 2010) and some
+of these are antigenic targets in other neurological dis-
+orders such as paraneoplastic opsoclonus myoclonus
+ataxia (Buckanovich et al., 1996; Yang et al., 1998) and
+paraneoplastic encephalomyelitis (Levine et al., 1993;
+Darnell, 1996; Rauer and Kaiser, 2000) that can cause
+damage to cells in vitro (Graus et al., 1991; Greenlee
+et al., 1993). Multiple autoimmune diseases have autoan-
+tibodies to intracellular antigens and ANAs including
+systemic sclerosis, SLE, Sjo
+¨ gren's syndrome, mixed con-
+nective tissue disease, and rheumatoid arthritis (Racanelli
+et al., 2011). While it is currently unknown how autoan-
+tibodies to intracellular antigens contribute to disease,
+there is often a correlation between particular antibodies
+and involvement of specific organs, disease activity, or
+even prognosis (Racanelli et al., 2011). Autoantibodies
+to intracellular antigens may enter cells through recep-
+tor-mediated entry (Yanase et al., 1997), endocytosis
+(Jang et al., 2009), or even electrostatic interactions
+with membrane proteins (Song et al., 2008) and
+exhibit cytotoxic effects (Song et al., 2008; Jang et al.,
+2009).
+Despite numerous examples of how antibodies may
+contribute to MS pathology, it remains unclear whether
+this distinct class of AGSþ antibodies we presented here
+will display a similar pathological capacity. Nevertheless,
+these results suggest that this distinct class of AGSþ
+antibodies may be an indicator of cortical GM-directed
+autoimmunity in early and established MS patients.
+Understanding early disease progression and identifying
+novel therapeutic targets will optimize treatment for MS,
+a disease that globally affects millions of people, while
+establishing mechanisms for study in other autoimmune
+diseases of the CNS.
+Summary
+B cells in the cerebrospinal fluid of patients with early and estab-
+lished relapsing remitting multiple sclerosis make a distinct class of
+antibodies that bind to areas of the brain that have not been trad-
+itionally investigated in this disease.
+Acknowledgments
+We thank the patients who consented to sampling for this study,
+including families for postmortem tissues. We appreciate the
+generosity of Dr. Betty Diamond for providing the B1 expression
+vectors and Dr. Michel Nussenzweig for providing the backbone
+expression vector constructs for the rhAb cloning. We thank
+Dr. Mark Goldberg for providing the YFP2.2 mice. We thank
+Dr. Eric Meffre for providing a protocol to perform tissue lysate
+ELISAs. Human brain tissue was kindly provided by the Human
+Brain and Spinal Fluid Resource Center (West Los Angeles
+Healthcare Center, Los Angeles, CA). The UTSWMC Live Cell
+Imaging Facility is thanked for confocal microscope training and
+usage. Mr. Chan Foong and Ms. Dawn Bogard of the UTSW
+Neuropathology Division prepared the unfixed human tissue sam-
+ples. Finally, we thank the UTSW Whole Brain Microscopy
+Facility (WBMF) for performing immunostaining experiments on
+tissue from YFP2.2 mice.
+Author Contributions
+A. J. L., J. R. R., and W. H. R.: experimental design, data gener-
+ation and interpretation, manuscript drafting; M. L.: data gener-
+ation; A. A. G., M. S., L. L., D. C., and P. M. H.: data
+generation and interpretation; D. G., B. M. G., and E. M. F.: patient
+recruitment; E. S. W., W. R., E. M., and C. L. W.: data interpret-
+ation; and A. M. S. and N. L. M: experimental design, data inter-
+pretation, and manuscript drafting.
+Declaration of Conflicting Interests
+The authors declared the following potential conflicts of interest
+with respect to the research, authorship, and/or publication of this
+article: EMF has received speaker and consulting fees from TEVA,
+Biogen Idec, Acorda, and Novartis. EMF has received consulting
+fees from Abbott Laboratories and Genzyme. BMG has received
+consulting fees from EMD Serono, Novartis, and Medimmune. All
+the other authors declare no conflict of interest.
+Funding
+The authors disclosed receipt of the following financial support for
+the research, authorship, and/or publication of this article: This
+study was supported by Grants from the National Multiple
+Sclerosis Society (NMSS) to NLM (RG3267 and RG4653) and
+DioGenix, Inc. to NLM. AJL and WHR were supported by Grant
+no. NIH NRSA5 T32 A1 005284-28 from NIAID. EM is supported
+by the KKNMS and the Gemeinnu
+¨tzigeHertieFornadation. AMS
+was supported by the American Heart Association and the
+Haggerty Center for Brain Injury and Repair (UT Southwestern).
+WBMF is supported by the Texas Institute for Brain Injury and
+Repair (TIBIR). BMG has received research funding from Biogen,
+Medimmune, Chugai, PCORI, NIH, and Acorda Therapeutics.
+NLM has received grant funding from DioGenix, MedImmune,
+Inc., Teva Neuroscience, and the National MS Society. EM
+received a grant from Novartis.
+References
+Bo, L., Vedeler, C. A., Nyland, H. I., Trapp, B. D., & Mork, S. J.
+(2003). Subpial demyelination in the cerebral cortex of multiple
+sclerosis patients. Journal of Neuropathology & Experimental
+Neurology, 62, 723­732.
+Buckanovich, R. J., Yang, Y. Y., & Darnell, R. B. (1996). The
+onconeural antigen Nova-1 is a neuron-specific RNA-binding
+Ligocki et al. 13
+protein, the activity of which is inhibited by paraneoplastic
+antibodies. Journal of Neuroscience, 16, 1114­1122.
+Calabrese, M., Filippi, M., & Gallo, P. (2010). Cortical lesions in
+multiple sclerosis. Nature Reviews Neurology, 6, 438­444.
+Calabrese, M., Reynolds, R., Magliozzi, R., Castellaro, M., Morra,
+A., Scalfari, A., . . . Monaco, S. (2015). Regional distribution
+and evolution of gray matter damage in different populations
+of multiple sclerosis patients. PLoS One, 10, e0135428.
+Cameron, E. M., Spencer, S., Lazarini, J., Harp, C. T., Ward, E. S.,
+Burgoon, M., . . . Monson, N. L. (2009). Potential of a unique
+antibody gene signature to predict conversion to clinically def-
+inite multiple sclerosis. Journal of Neuroimmunology, 213,
+123­130.
+Cepok, S., Rosche, B., Grummel, V., Vogel, F., Zhou, D., Sayn,
+J., . . . Hemmer, B. (2005). Short-lived plasma blasts are the
+main B cell effector subset during the course of multiple scler-
+osis. Brain, 128, 1667­1676.
+Chandrasekar, V., & Dreyer, J. L. (2010). The brain-specific Neural
+Zinc Finger transcription factor 2b (NZF-2b/7ZFMyt1) causes
+suppression of cocaine-induced locomotor activity.
+Neurobiology of Disease, 37, 86­98.
+Chard, D. T., Griffin, C. M., Rashid, W., Davies, G. R., Altmann,
+D. R., Kapoor, R., . . . Miller, D. H. (2004). Progressive grey
+matter atrophy in clinically early relapsing-remitting multiple
+sclerosis. Multiple Sclerosis Journal, 10, 387­391.
+Cid, C., Alcazar, A., Regidor, I., Masjuan, J., Salinas, M., Alvarez-
+Cermeno, J. C. (2002). Neuronal apoptosis induced by cerebro-
+spinal fluid from multiple sclerosis patients correlates with
+hypointense lesions on T1 magnetic resonance imaging.
+Journal of the Neurological Sciences, 193, 103­109.
+Cohen, S. J., & Roenigk, R. K. (1991). Nerve blocks for cutaneous
+surgery on the foot. Journal of Dermatologic Surgery and
+Oncology, 17, 527­534.
+Compston, A., & Coles, A. (2008). Multiple sclerosis. Lancet, 372,
+1502­1517.
+Coy, J. F., Wiemann, S., Bechmann, I., Bachner, D., Nitsch, R.,
+Kretz, O., . . . Poustka, A. (2002). Pore membrane and/or fila-
+ment interacting like protein 1 (POMFIL1) is predominantly
+expressed in the nervous system and encodes different protein
+isoforms. Gene, 290, 73­94.
+Darnell, R. B. (1996). Onconeural antigens and the paraneoplastic
+neurologic disorders: at the intersection of cancer, immunity,
+and the brain. Proceedings of the National Academy of
+Sciences of the United States of America, 93, 4529­4536.
+Double, K. L., Dedov, V. N., Fedorow, H., Kettle, E., Halliday, G.
+M., Garner, B., . . . Brunk, U. T. (2008). The comparative biol-
+ogy of neuromelanin and lipofuscin in the human brain. Cellular
+and Molecular Life Sciences: CMLS, 65, 1669­1682.
+Einstein, O., Friedman-Levi, Y., Grigoriadis, N., & Ben-Hur, T.
+(2009). Transplanted neural precursors enhance host brain-
+derived myelin regeneration. Journal of Neuroscience, 29,
+15694­15702.
+Elliott, C., Lindner, M., Arthur, A., Brennan, K., Jarius, S., Hussey,
+J., . . . Linington, C. (2012). Functional identification of patho-
+genic autoantibody responses in patients with multiple sclerosis.
+Brain, 135, 1819­1833.
+Feng, G., Mellor, R. H., Bernstein, M., Keller-Peck, C., Nguyen, Q.
+T., Wallace, M., . . . Sanes, J. R. (2000). Imaging neuronal sub-
+sets in transgenic mice expressing multiple spectral variants of
+GFP. Neuron, 28, 41­51.
+Fialova, L., Bartos, A., Svarcova, J., Zimova, D., & Kotoucova, J
+(2013). Serum and cerebrospinal fluid heavy neurofilaments and
+antibodies against them in early multiple sclerosis. Journal of
+Neuroimmunology, 259, 81­87.
+Fisniku, L. K., Chard, D. T., Jackson, J. S., Anderson, V. M.,
+Altmann, D. R., Miszkiel, K. A., . . . Miller, D. H. (2008).
+Gray matter atrophy is related to long-term disability in multiple
+sclerosis. Annals of Neurology, 64, 247­254.
+Fraussen, J., Claes, N., de Bock, L., & Somers, V. (2014). Targets
+of the humoral autoimmune response in multiple sclerosis.
+Autoimmunity Reviews, 13, 1126­1137.
+Freeman, L., Garcia-Lorenzo, D., Bottin, L., Leroy, C., Louapre,
+C., Bodini, B., . . . Stankoff, B. (2015). The neuronal component
+of gray matter damage in multiple sclerosis: A [11 C]flumazenil
+positron emission tomography study. Annals of Neurology, 78,
+554­567.
+Graus, F., Illa, I., Agusti, M., Ribalta, T., Cruz-Sanchez, F., Juarez,
+C. (1991). Effect of intraventricular injection of an anti-Purkinje
+cell antibody (anti-Yo) in a guinea pig model. Journal of the
+Neurological Sciences, 106, 82­87.
+Greenlee, J. E., Parks, T. N., & Jaeckle, K. A. (1993). Type IIa
+(`anti-Hu') antineuronal antibodies produce destruction of rat
+cerebellar granule neurons in vitro. Neurology, 43, 2049­2054.
+Harp, C., Lee, J., Lambracht-Washington, D., Cameron, E., Olsen,
+G., Frohman, E., . . . Monson, N. (2007). Cerebrospinal fluid B
+cells from multiple sclerosis patients are subject to normal ger-
+minal center selection. Journal of Neuroimmunology, 183,
+189­199.
+Harp, C. T., Ireland, S., Davis, L. S., Remington, G., Cassidy, B.,
+Cravens, P. D., . . . Monson, N. L. (2010). Memory B cells from
+a subset of treatment-naive relapsing-remitting multiple scler-
+osis patients elicit CD4(þ) T-cell proliferation and IFN-gamma
+production in response to myelin basic protein and myelin oligo-
+dendrocyte glycoprotein. European Journal of Immunology, 40,
+2942­2956.
+Hauser, S. L., & Oksenberg, J. R. (2006). The neurobiology of
+multiple sclerosis: genes, inflammation, and neurodegeneration.
+Neuron, 52, 61­76.
+Hauser, S. L., Waubant, E., Arnold, D. L., Vollmer, T., Antel, J.,
+Fox, R. J., . . . Smith, C. H. (2008). B-cell depletion with ritux-
+imab in relapsing-remitting multiple sclerosis. New England
+Journal of Medicine, 358, 676­688.
+Howell, O. W., Reeves, C. A., Nicholas, R., Carassiti, D., Radotra,
+B., Gentleman, S. M., . . . Reynolds, R. (2011). Meningeal
+inflammation is widespread and linked to cortical pathology
+in multiple sclerosis. Brain, 134, 2755­2771.
+Huizinga, R., Heijmans, N., Schubert, P., Gschmeissner, S., t' Hart,
+B. A., Herrmann, H., . . . Amor, S. (2007). Immunization with
+neurofilament light protein induces spastic paresis and axonal
+degeneration in Biozzi ABH mice. Journal of Neuropathology
+& Experimental Neurology, 66, 295­304.
+Huseby, E. S., Kamimura, D., Arima, Y., Parello, C. S., Sasaki, K.,
+Murakami, M. (2015). Role of T cell-glial cell interactions in
+creating and amplifying central nervous system inflammation
+and multiple sclerosis disease symptoms. Frontiers in Cellular
+Neuroscience, 9, 295.
+Ireland, S. J., Blazek, M., Harp, C. T., Greenberg, B., Frohman, E.
+M., Davis, L. S., . . . Monson, N. L. (2012). Antibody-indepen-
+dent B cell effector functions in relapsing remitting multiple
+14 ASN Neuro
+sclerosis: Clues to increased inflammatory and reduced regula-
+tory B cell capacity. Autoimmunity, 45, 400­414.
+Jang, J. Y., Jeong, J. G., Jun, H. R., Lee, S. C., Kim, J. S., Kim, Y.
+S., . . . Kwon, M. H. (2009). A nucleic acid-hydrolyzing anti-
+body penetrates into cells via caveolae-mediated endocytosis,
+localizes in the cytosol and exhibits cytotoxicity. Cellular and
+Molecular Life Sciences, 66, 1985­1997.
+Jehna, M., Pirpamer, L., Khalil, M., Fuchs, S., Ropele, S.,
+Langkammer, C., . . . Enzinger, C. (2015). Periventricular
+lesions correlate with cortical thinning in multiple sclerosis.
+Annals of Neurology, 78, 530­539.
+Kawachi, I., & Nishizawa, M. (2015). Significance of gray matter
+brain lesions in multiple sclerosis and neuromyelitis optica.
+Neuropathology, 35, 481­486.
+Kinnunen, T., Chamberlain, N., Morbach, H., Cantaert, T., Lynch,
+M., Preston-Hurlburt, P., . . . Meffre, E. (2013). Specific periph-
+eral B cell tolerance defects in patients with multiple sclerosis.
+Journal of Clinical Investigation, 123, 2737­2741.
+Krumbholz, M., & Meinl, E. (2014). B cells in MS and NMO:
+pathogenesis and therapy. Seminars in Immunopathology, 36,
+339­350.
+Lambracht-Washington, D., O'Connor, K. C., Cameron, E. M.,
+Jowdry, A., Ward, E. S., Frohman, E., . . . Monson, N. L.
+(2007). Antigen specificity of clonally expanded and receptor
+edited cerebrospinal fluid B cells from patients with relapsing
+remitting MS. Journal of Neuroimmunology, 186, 164­176.
+Levine, T. D., Gao, F., King, P. H., Andrews, L. G., & Keene, J. D.
+(1993). Hel-N1: an autoimmune RNA-binding protein with spe-
+cificity for 30 uridylate-rich untranslated regions of growth
+factor mRNAs. Molecular and Cellular Biology, 13,
+3494­3504.
+Ligocki, A. J., Lovato, L., Xiang, D., Guidry, P., Scheuermann, R.
+H., Willis, S. N., . . . Monson, N. L. (2010). A unique antibody
+gene signature is prevalent in the central nervous system of
+patients with multiple sclerosis. Journal of Neuroimmunology,
+226, 192­193.
+Ligocki, A. J., Rounds, W. H., Cameron, E. M., Harp, C. T.,
+Frohman, E. M., Courtney, A. M., . . . Monson, N. L. (2013).
+Expansion of CD27high plasmablasts in transverse myelitis
+patients that utilize VH4 and JH6 genes and undergo extensive
+somatic hypermutation. Genes & Immunity, 14, 291­301.
+Lucchinetti, C., Bruck, W., Parisi, J., Scheithauer, B., Rodriguez,
+M., Lassmann, H. (2000). Heterogeneity of multiple sclerosis
+lesions: Implications for the pathogenesis of demyelination.
+Annals of Neurology, 47, 707­717.
+Magliozzi, R., Howell, O. W., Reeves, C., Roncaroli, F., Nicholas,
+R., Serafini, B., . . . Reynolds, R. (2010). A gradient of neuronal
+loss and meningeal inflammation in multiple sclerosis. Annals
+of Neurology, 68, 477­493.
+Maroteaux, L., Campanelli, J. T., & Scheller, R. H. (1988).
+Synuclein: a neuron-specific protein localized to the nucleus
+and presynaptic nerve terminal. Journal of Neuroscience, 8,
+2804­2815.
+Matsuoka, K., Taoka, M., Satozawa, N., Nakayama, H., Ichimura,
+T., Takahashi, N., . . . Isobe, T. (1994). A nuclear factor contain-
+ing the leucine-rich repeats expressed in murine cerebellar neu-
+rons. Proceedings of the National Academy of Sciences of the
+United States of America, 91, 9670­9674.
+Mayer, M. C., Breithaupt, C., Reindl, M., Schanda, K., Rostasy, K.,
+Berger, T., . . . Meinl, E. (2013). Distinction and temporal
+stability of conformational epitopes on myelin oligodendrocyte
+glycoprotein recognized by patients with different inflammatory
+central nervous system diseases. Journal of Immunology, 191,
+3594­3604.
+Monson, N. L., Brezinschek, H. P., Brezinschek, R. I., Mobley, A.,
+Vaughan, G. K., Frohman, E. M., . . . Lipsky, P. E. (2005).
+Receptor revision and atypical mutational characteristics in
+clonally expanded B cells from the cerebrospinal fluid of
+recently diagnosed multiple sclerosis patients. Journal of
+Neuroimmunology, 158, 170­181.
+Nygaard, G. O., Celius, E. G., de Rodez Benavent, S. A., Sowa, P.,
+Gustavsen, M. W., Fjell, A. M., . . . Harbo, H. F. (2015). A lon-
+gitudinal study of disability, cognition and gray matter atrophy
+in early multiple sclerosis patients according to evidence of
+disease activity. PLoS One, 10, e0135974.
+Owens, G., Ritchie, A., Burgoon, M., Williamson, R., Corboy, J.,
+Gilden, D. (2003). Single cell repertoire analysis demonstrates
+clonal expansion is prominent feature of the B cell response in
+multiple sclerosis spinal fluid. Journal of Immunology, 171,
+2725­2733.
+Owens, G. P., Bennett, J. L., Lassmann, H., O'Connor, K. C.,
+Ritchie, A. M., Shearer, A., . . . Gilden, D. (2009). Antibodies
+produced by clonally expanded plasma cells in multiple scler-
+osis cerebrospinal fluid. Annals of Neurology, 65, 639­649.
+Racanelli, V., Prete, M., Musaraj, G., Dammacco, F., & Perosa, F.
+(2011). Autoantibodies to intracellular antigens: generation and
+pathogenetic role. Autoimmunity Reviews, 10, 503­508.
+Ransohoff, R. M., Hafler, D. A., & Lucchinetti, C. F. (2015).
+Multiple sclerosis--A quiet revolution. Nature Reviews
+Neurology, 11, 134­142.
+Rauer, S., & Kaiser, R. (2000). Demonstration of anti-HuD specific
+oligoclonal bands in the cerebrospinal fluid from patients with
+paraneoplastic neurological syndromes. Qualitative evidence of
+anti-HuD specific IgG-synthesis in the central nervous system.
+Journal of Neuroimmunology, 111, 241­244.
+Robinson, W. H., Fontoura, P., Lee, B. J., de Vegvar, H. E., Tom,
+J., Pedotti, R., . . . Steinman, L (2003). Protein microarrays guide
+tolerizing DNA vaccine treatment of autoimmune encephalomy-
+elitis. Nature Biotechnology, 21, 1033­1039.
+Rounds, W. H., Ligocki, A. J., Levin, M. K., Greenberg, B. M.,
+Bigwood, D. W., Eastman, E. M., . . . Monson, N. L. (2014). The
+antibody genetics of multiple sclerosis: comparing next-genera-
+tion sequencing to sanger sequencing. Frontiers in Neurology,
+5, 166.
+Rounds, W. H., Salinas, E. A., Wilks, T. B. 2nd, Levin, M. K.,
+Ligocki, A. J., Ionete, C., . . . Monson, N. L. (2015). MSPrecise:
+A molecular diagnostic test for multiple sclerosis using next
+generation sequencing. Gene, 572, 191­197.
+Rudick, R. A., Lee, J. C., Nakamura, K., & Fisher, E. (2009). Gray
+matter atrophy correlates with MS disability progression mea-
+sured with MSFC but not EDSS. Journal of the Neurological
+Sciences, 282, 106­111.
+Sakakibara, S., Imai, T., Hamaguchi, K., Okabe, M., Aruga, J.,
+Nakajima, K., . . . Okano, H. (1996). Mouse-Musashi-1, a
+neural RNA-binding protein highly enriched in the mammalian
+CNS stem cell. Developmental Biology, 176, 230­242.
+Schlaeger, R., Papinutto, N., Panara, V., Bevan, C., Lobach, I. V.,
+Bucci, M., . . . Henry, R. G. (2014). Spinal cord gray matter atro-
+phy correlates with multiple sclerosis disability. Annals of
+Neurology, 76, 568­580.
+Ligocki et al. 15
+Sellebjerg, F., Jaliashvili, I., Christiansen, M., & Garred, P. (1998).
+Intrathecal activation of the complement system and disability
+in multiple sclerosis. Journal of the Neurological Sciences, 157,
+168­174.
+Sellebjerg, F., Jensen, C. V., & Christiansen, M. (2000). Intrathecal
+IgG synthesis and autoantibody-secreting cells in multiple scler-
+osis. Journal of Neuroimmunology, 108, 207­215.
+Song, Y. C., Sun, G. H., Lee, T. P., Huang, J. C., Yu, C. L., Chen,
+C. H., . . . Sun, K. H. (2008). Arginines in the CDR of anti-
+dsDNA autoantibodies facilitate cell internalization via electro-
+static interactions. European Journal of Immunology, 38,
+3178­3190.
+Steinman, L. (2014). Immunology of relapse and remission in mul-
+tiple sclerosis. Annual Review of Immunology, 32, 257­281.
+Stowe, A. M., Altay, T., Freie, A. B., & Gidday, J. M. (2011).
+Repetitive hypoxia extends endogenous neurovascular protec-
+tion for stroke. Annals of Neurology, 69, 975­985.
+Tiller, T., Meffre, E., Yurasov, S., Tsuiji, M., Nussenzweig, M. C.,
+Wardemann, H. (2008). Efficient generation of monoclonal
+antibodies from single human B cells by single cell RT-PCR
+and expression vector cloning. Journal of Immunological
+Methods, 329, 112­124.
+Trapp, B. D., Peterson, J., Ransohoff, R. M., Rudick, R., Mork, S.,
+Bo, L. (1998). Axonal transection in the lesions of multiple
+sclerosis. New England Journal of Medicine, 338, 278­285.
+Valsasina, P., Benedetti, B., Rovaris, M., Sormani, M. P., Comi, G.,
+Filippi, M. (2005). Evidence for progressive gray matter loss in
+patients with relapsing-remitting MS. Neurology, 65,
+1126­1128.
+van Munster, C. E., Jonkman, L. E., Weinstein, H. C., Uitdehaag,
+B. M., & Geurts, J. J. (2015). Gray matter damage in multiple
+sclerosis: Impact on clinical symptoms. Neuroscience, 303,
+446­461.
+von Budingen, H. C., Harrer, M. D., Kuenzle, S., Meier, M., &
+Goebels, N. (2008). Clonally expanded plasma cells in the cere-
+brospinal fluid of MS patients produce myelin-specific antibo-
+dies. European Journal of Immunology, 38, 2014­2023.
+Yanase, K., Smith, R. M., Puccetti, A., Jarett, L., & Madaio, M. P.
+(1997). Receptor-mediated cellular entry of nuclear localizing
+anti-DNA antibodies via myosin 1. Journal of Clinical
+Investigation, 100, 25­31.
+Yang, Y. Y., Yin, G. L., & Darnell, R. B. (1998). The neuronal
+RNA-binding protein Nova-2 is implicated as the autoantigen
+targeted in POMA patients with dementia. Proceedings of the
+National Academy of Sciences of the United States of America,
+95, 13254­13259.
+Yu, X., Burgoon, M., Green, M., Barmina, O., Dennison, K.,
+Pointon, T., . . . Gilden, D. (2011). Intrathecally synthesized
+IgG in multiple sclerosis cerebrospinal fluid recognizes identical
+epitopes over time. Journal of Neuroimmunology, 240­241,
+129­136.
+Yu, X., Gilden, D. H., Ritchie, A. M., Burgoon, M. P., Keays, K.
+M., Owens, G. P. (2006). Specificity of recombinant antibodies
+generated from multiple sclerosis cerebrospinal fluid probed
+with a random peptide library. Journal of Neuroimmunology,
+172, 121­131.
+Zhang, J., Jacobi, A. M., Wang, T., Berlin, R., Volpe, B. T.,
+Diamond, B. (2009). Polyreactive autoantibodies in systemic
+lupus erythematosus have pathogenic potential. Journal of
+Autoimmunity, 33, 270­274.
+16 ASN Neuro
+

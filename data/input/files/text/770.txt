@@ -1,0 +1,1337 @@
+Copyright 1999 by
+The Cerontologicsl Society of America
+The Cerontologist
+Vol. 39, No. 6, 658-667
+Guided primarily by transitions theory, this study examined changes over two points in
+time (approximately 5 years apart) in multiple life domains (i.e., household tasks, social
+life, marital relationship, and well-being) between two groups of husbands aged 60 and
+older, who indicated that their wives were not in need of care or assistance due to an
+illness or disability at the initial interview. The two groups included husbands who
+identified themselves as a provider of care at Time 2 (T2; i.e., they had transitioned into
+the caregiver role; n = 26), and those married to healthy wives at T2 (i.e., noncaregivers;
+n = 262). Data came from a national probability sample of U.S. adults who were primary
+respondents to the National Survey of Families and Households in 1987-88, and who were
+followed up longitudinally in 1992-93. Findings suggested that husbands who entered the
+caregiving role demonstrated significant changes in household responsibilities, social
+integration, marital relationship, and well-being. Implications for practice and future
+research on the older husband caregiver are highlighted.
+Key Words: Male caregiver, Household tasks, Social life, Well-being
+Caregiving as a Life Course Transition Among
+Older Husbands: A Prospective Study
+Betty J. Kramer, PhD1 and James David Lambert, PhC2
+Although men "provide care in substantial numbers"
+(Marks, 1996, p. 34), making up nearly 30% of all
+caregivers (Cantor, 1983; Chang & White-Means, 1991)
+and over 36% of spouse caregivers (Stone, Cafferata,
+& Sangl, 1987), the vast majority of research has
+centered on the experience of the female caregiver.
+Attention to the experience of the male caregiver, par-
+ticularly the husband caregiver, is important for three
+primary reasons. First, husbands play a major and im-
+portant role in caring for older women with chronic
+illness. We know that they are the first persons usu-
+ally called upon to meet their wives' needs for care,
+they are the oldest subgroup of caregivers, and they
+report spending the greatest number of extra hours
+fulfilling caregiver responsibilities (Chang & White-
+Means, 1991; Stone et al., 1987). Second, husbands
+are severely underrepresented in interventions de-
+signed for assisting caregivers (Toseland & Rossiter, 1989),
+which is perhaps a reflection of our failure to craft
+interventions that respond to the unique needs of the
+male caregiver. Finally, the current national prevalence
+of male caregiving and projected future demographic
+This research was supported by a grant from the University of Wiscon-
+sin, Graduate School. The National Survey of Families and Households
+(NSFH) was funded by CPR-NICHD Grant HD21000. NSFH was designed
+and carried out at the Center for Demography and Ecology at the Univer-
+sity of Wisconsin-Madison under the direction of Larry Bumpass and James
+Sweet. The authors gratefully acknowledge the statistical consultation pro-
+vided by Ronald C. Serlin and Roger Brown, and comments of Marsha
+M. Seltzer, Jan S. Greenberg, Nadine F. Marks, Leonard I. Pearlin, Arthur
+Reynolds, and Dan Meyer.
+1Address correspondence to Betty J. Kramer, School of Social Work,
+University of Wisconsin-Madison, 1350 University Ave., Madison, Wl 53706-
+1575. E-mail: ejkramer@facstaff.wisc.edu
+department of Psychology, Edgewood College, Madison, Wl.
+trends suggest that increases in men's rates of mar-
+riage and declines in male mortality will significantly
+increase the number and proportion of husband care-
+givers in the future (Himes, 1992; Marks, 1996). Identify-
+ing the ways in which the transition into the caregiving
+role may reorganize the internal and external world
+of the older man is vital to planning interventions and
+services for this unique and growing population.
+Caregiver Role Acquisition
+as a Life Course Transition
+Over the past three decades, a tremendous amount
+of attention has been given to the study of transitions
+across the life span, but only recently has this con-
+cept emerged in the caregiving literature (Pearlin &
+Aneshensel, 1994; Schumacher, 1995; Seltzer & Li,
+1996; Skaff, Pearlin, & Mullan, 1996). Pearlin and
+Aneshensel (1994) have suggested that caregiving may
+be conceptualized as a "career" that changes through
+time and involves several major transitions. The es-
+sential transition into the caregiving role is referred to
+as role acquisition or role enactment. Because prior
+research has relied on samples of persons already oc-
+cupying the caregiving role, this is the least studied
+transition, and yet the one about which most assump-
+tions have been made (i.e., assuming that the effects
+reported by caregivers currently occupying the caregiver
+role are the result of role acquisition). Role acquisi-
+tion is believed to be highly insidious when the con-
+ditions requiring care are chronic and progressive, as
+are the majority of later life illnesses (Pearlin & Aneshensel,
+1994; Seltzer & Li, 1996). Seltzer and Li (1996) pointed
+out that it is very difficult for family caregivers to identify
+658 The Gerontologist
+the beginning of caregiving because much of what is
+done in this role is an "extension of an ongoing car-
+ing relationship and grows out of prior patterns of sup-
+port and assistance" (p. 614). This is especially true
+for spouses because of the personal and legal com-
+mitments made in the marital contract (Montgomery,
+1996).
+Although life course transitions have traditionally been
+conceptualized as occurring with the onset of certain
+discrete events (e.g., birth of a baby, first day at school,
+retirement), theoreticians in this area are urging for a
+redefinition--one that views transitions as long-term
+social processes (Elder, 1991; Cowan, 1991). Within
+this contemporary view, transitions may be defined as
+life changes and long-term "processes" that influence
+both external (e.g., changes in behavior, role arrange-
+ments, social and interpersonal relationships) and in-
+ternal (e.g., shifts in perceptions) aspects of one's life
+(Cowan, 1991). As recommended by George (1993),
+this study integrates a life course perspective, social
+stress theory, and role theory to yield a richer under-
+standing of life transitions experienced by husbands
+in later life. The primary intent of this study is to ex-
+amine changes over two points in time (approximately
+5 years apart) in multiple life domains (i.e., household
+tasks, social integration, marital relationship, and well-
+being) between two groups of husbands who all indi-
+cated that their wives were not in need of care or
+assistance due to an illness or disability at the initial
+interview. The two groups of husbands included those
+who identified themselves as providers of care at Time
+2 (T2; i.e., they had transitioned into the caregiver
+role) and those married to healthy wives at T2 (i.e.,
+noncaregivers). It is proposed that husbands who have
+transitioned into the caregiving role will show evidence
+of changes in household tasks, social integration, marital
+relationship, and well-being, whereas husbands who
+have well spouses at both times of measurement will
+not.
+The Existing Evidence
+Household Tasks.--From a life course perspective,
+it is not surprising that research on the division of house-
+hold labor indicates significant cohort differences in
+the amount of time spent by husbands in household
+tasks (Stoller & Cutler, 1992). Despite some change
+toward somewhat more egalitarian patterns of house-
+hold work among younger cohorts of married couples,
+several small- and large-scale investigations have dem-
+onstrated the presence of traditional gender differen-
+tiation in the division of household responsibilities in
+later-life families, which persists after taking employ-
+ment status and retirement into consideration (Ade-
+Ridder & Brubaker, 1988; Keith, 1980, 1985, 1994;
+Szinovacz, 1989). Common responsibilities tradition-
+ally and consistently reported by older wives include
+indoor activities and tasks such as cooking, washing
+dishes and clothes, writing letters, and cleaning; whereas
+common responsibilities reported by husbands include
+outdoor activities and tasks such as yard work, car main-
+tenance, and home repairs (Brubaker & Kinsel, 1985;
+Szinovacz, 1980). Although men after retirement do
+more housework than other husbands (Rexroat & Shehan,
+1987), their contribution remains small compared to
+that of their wives (Dorfman & Heckert, 1988; Keith
+& Schafer, 1986). However, these studies do not take
+caregiving status into account. Family caregivers com-
+monly report work role disruptions (Kramer & Kipnis,
+1995), and spouses become more involved in house-
+hold tasks that are not traditional for their gender if
+their partner has serious health problems (e.g., see Kaye
+& Applegate, 1994; Szinovacz, 1980; Wright, 1993).
+As suggested by role theory this may result in role
+incongruence for men as they take on entirely new
+household roles (Allen, 1994). In one of the few care-
+giving studies to simultaneously compare time spent
+in house-hold tasks among noncaregiving and caregiv-
+ing husbands and wives, Wright (1993) reported that
+among noncaregiving spouses, the division of labor fell
+along traditional gender lines; however, the caregiving
+spouses spent significantly more time engaging in all
+household tasks and responsibilities than their afflicted
+spouses.
+Social Integration.--Life transitions commonly involve
+reorganization in relationships between individuals and
+their social networks (Cowan, 1991). Recent evidence
+from longitudinal studies suggests that there tends to
+be stability in time spent in social and recreational
+activities across the life span, but that more change is
+evident in the later years (Singleton, Forbes, & Agwani,
+1993). Many of the changes that accompany chronic
+illness and caregiving may lead to significant declines
+in the social life and contacts of the later-life couple
+(Biegel, Sales, & Schulz, 1991). Restrictions in social
+activities are greatest among spousal caregivers when
+compared witn other subgroups of caregivers (Barber
+& Pasley, 1995). In a study of predominantly male
+spouses living with wives with chronic illness, Revenson
+and Majerovitz (1991) reported that nearly one third
+of husbands interviewed reported declines in social
+and recreational activities. In a cross-sectional study
+comparing caregivers to a noncaregiving random com-
+munity sample, George and Gwyther (1986) reported
+that caregivers had substantially lower levels of social
+participation for multiple social activity indicators, with
+the exception of church attendance.
+For many older adults, religious involvement is an
+important source of social connection and support. Na-
+tional estimates suggest that religious involvement is
+higher among older adults than among any other age
+group (Princeton Religion Research Center, 1994). Al-
+though some longitudinal studies have suggested that
+religious involvement is relatively stable over time
+(Markides, 1983), others have found a decline in reli-
+gious activity with age but stability in religious atti-
+tudes (Blazer & Palmore, 1976). Data from a three-
+wave longitudinal study revealed that "indicators of
+religiosity remained fairly stable over time, with the
+possible exception of religious attendance, which de-
+clined slightly among the very old" (Markides, Levin,
+& Ray, 1987, p. 664). One possible explanation for
+this finding is that illness may reduce the ability of
+older adults to attend church. This has not yet been
+investigated among caregiving samples.
+Vol. 39, No. 6, 1999 659
+The restrictions in social life that often accompany
+chronic illness and caregiving may simultaneously limit
+the availability of emotional support to the older man.
+Given that older men have been found to rely almost
+exclusively on their spouses for emotional support
+(Chappell, 1990), spousal illness and the accompany-
+ing symptoms, pain, or preoccupation with illness con-
+ditions may further reduce the availability of emotional
+support from ill wives (Hafstrom & Schram, 1984; Reven-
+son, 1994). Several studies have indicated that hus-
+bands with ill spouses were reluctant to add to their
+wives' concerns by seeking their support (Leiber, Plumb,
+Gerstenzang, & Holland, 1976; Lichtman & Taylor,
+1986; Van der Does & Duyvis, 1989).
+Marital Relationship.--A large proportion of the
+caregiving research that has examined changes in the
+marital relationship has focused on samples of per-
+sons caring for spouses with dementia. These studies
+reported that significant declines in marital intimacy
+and quality were associated with the caregiving role
+(Blieszner & Shifflett, 1990; Morris, Morris, & Britton,
+1988; Wright, 1991). Social exchange and equity theo-
+ries would suggest that persons who transition into
+caregiving will experience less marital happiness than
+noncaregivers as the result of the inequities in ben-
+efits and costs that are associated with the caregiving
+role (Buunk & Hoorens, 1992). Role theory suggests
+that marriages coping with chronic illness and caregiv-
+ing may "suffer a crisis because of the resulting chal-
+lenge to the established roles and myths that main-
+tained the system" (Thompson & Pitts, 1991, p. 121).
+Indeed, caregiver spouses have reported significantly
+more changes in their marital relationship over time
+than noncaregivers (Russo & Vitaliano, 1995). Spousal
+illness may affect marital quality, marital interaction,
+and marital status (Burman & Margolin, 1992). Using
+a longitudinal design and a national sample of 1,298
+married persons, Booth and Johnson (1994) reported
+that decrements in health were associated with a de-
+cline in marital happiness and an increase in divorce
+proneness.
+Psychological Well-Being.--Stress and coping theo-
+ries commonly propose that stressful life events will
+be associated with poorer well-being (George, 1993),
+and many variations of social stress theory have been
+used to study family caregiving (see Kramer & Vitaliano,
+1994, for a review of the literature). Two reviews of
+the caregiving literature have concluded that although
+studies are largely limited by their cross-sectional na-
+ture, a fairly consistent pattern of elevated rates of de-
+pression is found among caregivers when compared
+to noncaregiving controls or population norms (Kriegs-
+man, Penninx, & van Eljk, 1994). Findings of higher
+levels of depressive symptoms among caregivers as
+compared to age-matched controls are documented
+in both large- and small-scale studies (Kiecolt-Glaser
+et al., 1987; McNaughton, Patterson, Smith, & Grant,
+1995; Reese, Gross, Smalley, & Messer, 1994; Russo,
+Vitaliano, Brewer, Katon, & Becker, 1995). In the few
+studies that have contrasted caregiving husbands
+with noncaregiving husbands in particular, caregiving
+husbands have reported significantly higher scores on
+depression than noncaregiving controls (Fuller-Jonap
+& Haley, 1995; Marks, 1998). Less attention has been
+given to examining happiness as a well-being out-
+come in caregiving, but several longitudinal studies have
+supported the premise that stressful life transitions re-
+suited in decrements in happiness over time (Chiriboga,
+1996).
+Research Question and Hypotheses
+The primary research question guiding this study is
+to what extent will husbands who transition into the
+caregiving role show evidence of changes in the amount
+of time spent in household tasks, social integration,
+marital relationship, and psychological well-being? Based
+on previous research and drawing upon a life course
+perspective, role theory, stress theory, and transitions
+theory, four hypotheses were tested.
+1. Husbands who have transitioned into the caregiving
+role will report a greater increase than noncaregiving
+husbands in time spent doing household tasks that
+are traditionally performed by older wives.
+2. Husbands who have transitioned into the caregiv-
+ing role will be more likely than noncaregiving
+husbands to report a decline in their social and
+recreational activities, church social events, and emo-
+tional support.
+3. Husbands who have transitioned into the caregiving
+role will be more likely than noncaregiving hus-
+bands to report a decline in marital happiness and
+to view that their marriage is in trouble.
+4. Husbands who have transitioned into the caregiving
+role will be more likely than noncaregiving hus-
+bands to report an increase in depression and a
+decrease in happiness.
+Methods
+Data
+The data used for this research are from the first
+and second waves of the National Survey of Families
+and Households (NSFH). The first wave (T1), collected
+in 1987 and 1988, included a nationally representa-
+tive sample of 13,008 noninstitutionalized American
+adults aged 19 and older. This survey included a main
+sample of 9,637 respondents, with an additional over-
+sample of African Americans, Mexican Americans, Puerto
+Ricans, single parents, stepparents, cohabitors, and re-
+cently married persons. The second wave (T2) of the
+NSFH, collected between 1992 and 1994, includes
+reinterviews with 10,008 of the original primary re-
+spondents from the first wave.
+A random selection was done in each of the sampled
+households to choose a primary respondent. Data for
+both waves were collected during face-to-face inter-
+views and, at various segments of the interviews, re-
+spondents were asked to complete a self-administered
+questionnaire in order to facilitate the collection of
+sensitive information. The response rate at T1 (1987-
+88) was about 75%. The response rate at T2 was about
+660 The Gerontologist
+82% of first wave respondents. This yielded national
+population coverage at a rate of about 61% (.75 x
+.82) for data from both waves (see Sweet, Bumpass,
+& Call, 1988, for more design details).
+Selecting the Analytic Sample
+The analytic sample for this study consisted of
+NSFH primary respondents who (a) were age 55 or
+older at T1; (b) were married to the same spouse at
+both T1 and T2; (c) responded that they had not given
+care or assistance to a spouse due to illness or disabil-
+ity at T1 (described in more detail below), and who
+were also respondents again at T2; and (d) were not
+themselves impaired in activities of daily living (ADLs),
+and indicated that they did not receive care or assis-
+tance due to illness or disability at T1 or T2 (18 non-
+caregivers and 3 caregivers were eliminated on this
+criterion). This final criterion was used because it is
+plausible that being a recipient of care and the condi-
+tions that require one to need care may affect one's
+ability to perform household tasks, and may also
+effect changes in one's social life, marital relationship,
+and psychological well-being. These criteria yielded a
+sample of 322 husbands.
+To assess caregiver status at T1, respondents were
+asked, "Do you (or does anyone living here) require
+care or assistance because of a disability or chronic
+illness?" As discussed above, respondents in the ana-
+lytic sample were included on the basis of responding
+"no" to this inquiry. At T2, respondents were asked,
+"During the last 12 months have you, yourself, given
+anyone living with you at the time any help or assis-
+tance because of tneir long-term physical or mental
+condition, illness, or disability?" If the respondent an-
+swered "yes," he was asked, "Who did you give the
+most personal care of this kind?" If respondents an-
+swered anyone other than their spouse, they were ex-
+cluded from this study. Respondents who answered
+"yes" to the inquiry regarding giving help and assis-
+tance at T2, but not at T1, and who also indicated
+"spouse" as the person they gave the assistance to,
+were classified as spousal caregivers. Participants who
+responded "no" were classified as noncaregivers. Thirty-
+four of the husbands in the noncaregiving group were
+excluded from the study because they reported that
+their spouses had serious chronic illnesses that were
+similar to the illnesses reported by the caregiver group.
+Among the caregiver group, primary illnesses speci-
+fied included the following: malignant cancer or tu-
+mors {n = 7); serious respiratory disease (n = 2); heart
+attack or serious ongoing heart conditions (n = 4);
+stroke (n = 1); digestive and/or urinary disorder (n =
+2); mental illness (n = 1); chronic musculoskeletol dis-
+ease (n = 3); and arthritis (n = 2). Four of the care-
+giving husbands did not specify their spouse's illness
+condition. The following primary conditions were iden-
+tified by the 34 husbands in the noncaregiving group:
+malignant cancer (n = 5); serious respiratory disease
+(n = 4); heart attack or serious ongoing heart condi-
+tions (n = 14); stroke (n - 2); chronic musculoskeletol
+disease (n = 6); serious neurological disorder (n = 1);
+amputation (n = 1); and mental illness (n = 1). These
+men were excluded from the analyses because these
+illness conditions may negatively effect changes over
+time in the domains under investigation, and it is pos-
+sible that these men are providing care to their wives
+even though they do not identify themselves as care-
+givers. In addition, because illness conditions for spouses
+were not ascertained at T1 for respondents who did
+not report caregiving, it can not be concluded with
+any certainty that these men experienced a "transi-
+tion" concerning the onset of spousal illness. In sum,
+the final sample included 288 husbands aged 60 or
+older who were married to the same wife at T1 and
+T2, who did not initially report providing care to a
+spouse, who responded to both survey points, and
+who were not receiving care themselves. Approximately
+10% (n = 26) made the transition into caregiving dur-
+ing the 5-year study period, and the remaining 262
+husbands served as noncaregiving controls.
+Measures
+Functional Impairment of Spouse.--At T2 only, spouses
+were asked if their partner needed assistance with five
+primary ADLs. These were bathing, dressing, eating,
+transferring, and toileting. A scale was computed for
+ADLs summing these five conditions (alpha = .70).
+Household Tasks.--Respondents were asked to in-
+dicate the number of hours typically spent per week
+on the following tasks: meal preparation, washing dishes,
+cleaning house, shopping, laundry, auto maintenance,
+driving, outdoor tasks, and paying bills. This is the cus-
+tomary measurement approach used in research stud-
+ies examining time spent in household tasks and it
+has good face validity (Rexroat & Shehan, 1987; Szinovacz
+& Harpster, 1994). The first five of these items (i.e.,
+those traditionally associated with the female role) scaled
+well together (i.e., alpha = .90) and were of primary
+interest to this study. A decision was made to drop
+the auto maintenance and outdoor tasks variables as
+they are traditionally performed by men and there is
+little reason to believe that they may be changed as a
+result of caregiver role acquisition. Driving and paying
+bills are two household tasks variables that are not as
+clearly differentiated by gender. Although they were
+not of central interest to this study, these are variables
+that may be influenced by caregiving (e.g., driving spouse
+to medical appointments or taking over the bill-pay-
+ing chores as spouse becomes ill). These two items
+are examined separately. Descriptives for all T1 and
+T2 household task measures and all other outcome
+measures are provided in Table 1.
+Social Integration.--Three primary indicators of so-
+cial integration were identified. The respondents' in-
+volvement in social recreational activities was assessed
+by asking how often they "participate in a group rec-
+reational activity, such as bowling, golf, square danc-
+ing, etc." Responses were reported on a 5-point scale
+that included 1 = never, 2 = once a year or less, 3
+= about once a month, 4 = about once a week, and
+5 = several times a week. Participation in church
+social events was assessed by inquiring how often
+Vol.39, No. 6, 1999 661
+Table 1. Descriptive Statistics for Analysis Variables
+Household Tasks3
+Traditional tasks of older wivesb
+Driving
+Paying bills
+Social Integration
+Social recreational activities
+Religious social events
+Emotional support
+Marital Relationship
+Marital happiness
+Perception that marriage in trouble
+Psychological Well-Being
+Depression
+Happiness
+Well
+Time 1
+Mean (SD)
+7.42 (9.49)
+.91 (2.13)
+1.41 (1.99)
+.76 (1.22)
+1.27 (1.27)
+.72 (.45)
+6.25 (1.23)
+.07 (.26)
+2.49 (1.69)
+5.92 (1.38)
+Spouse Group
+(n -262)
+Time2
+Mean (SD)
+9.90 (9.08)
+.76 (1.99)
+1.47 (1.77)
+.90 (1.31)
+1.26 (1.09)
+.61 (.49)
+6.27 (1.35)
+.05 (.23)
+2.46 (1.47)
+5.92 (1.32)
+Caregiver
+(n =
+Time 1
+Mean (SD)
+6.24 (6.49)
+1.08 (1.60)
+2.08 (2.05)
+.87 (1.26)
+1.72 (1.31)
+.87 (.34)
+6.04 (1.17)
+.08 (.28)
+2.61 (1.48)
+5.71 (1.27)
+Croup
+26)
+Time 2
+Mear
+17.16 I
+1.24
+1.44
+.60
+1.80
+.44
+5.83
+.16
+3.61
+5.35
+i (SD)
+[15.81)
+(2.04)
+(1.80)
+(1.12)
+(1.08)
+(.51)
+(1.75)
+(.37)
+(1.27)
+(1.36)
+Notes: Descriptive statistics calculated using unweighted data. Dichotomous variable means are proportions.
+Source: National Survey of Families and Households, 1987-1993.
+aMean number of hours spent per week on these tasks.
+bScale included meal preparation, dishes, cleaning, shopping, and laundry.
+respondents "attend a social event at your church or
+synagogue." Again, responses ranged from 1 = never
+to 5 = several times a week. Emotional support was
+elicited by asking respondents the following question:
+"During the past month, from whom have you re-
+ceived advice, encouragement, moral, or emotional
+support?" Responses were coded 0 for none received
+and 1 for some received.
+Marital Relationship.--Marital happiness was assessed
+using the question, "Taking things all together, how
+would you describe your marriage?" Responses ranged
+from very unhappy (1) to very happy (7). Marital trouble
+was indicated by responses to the following inquiry:
+"During the past year, have you ever thought that your
+marriage might be in trouble?" Responses were coded
+0 = no and 1 = yes.
+Psychological Weil-Being.--Depression was opera-
+tionalized using a modified (12-item) version of the
+Center for Epidemiological Studies-Depression (CES-
+D) scale (Radloff, 1977). This measure is a brief self-
+report scale designed to identify depressive symptomol-
+ogy and has been used extensively in caregiver re-
+search. The CES-D has satisfactorily high internal con-
+sistency and test-retest reliability (Radloff, 1977) and
+is predictive of clinical depression (Roberts & Vernon,
+1983). Respondents were asked, "On how many days
+during the last week did you: feel bothered by things
+that usually don't bother you, not feel like eating, feel
+you could not shake off the blues, have trouble keep-
+ing your mind on what you were doing, feel depressed,
+feel that everything you did was an effort, feel fearful,
+sleep restlessly, talk less than usual, feel lonely, feel
+sad, feel you could not get going?" Each of the 12
+symptoms was scored from 0 days of the symptom to
+7 days of the symptom. The log transformation of the
+depression score was used as the continuous outcome
+measure to help correct the positively skewed distri-
+bution. In the current study, the Cronbach's alphas
+for this index for T1 and T2 were .92 and .89, re-
+spectively. Global happiness was measured with a stand-
+ard one-item indicator: "Taking things all together, how
+would you say things are these days?" Respondents
+answered this question in a self-administered booklet
+that provided a 7-point scale anchored at one end by
+"very unhappy" and at the other end by "very happy."
+Demographic Controls.--Several additional demo-
+graphic variables were also controlled in all analyses
+to control for T1 differences in the sample. As will be
+discussed in the section on demographic comparisons,
+three social demographic variables differentiated the
+two samples at T1. These included age, household in-
+come (continuous measure totaled across all types of
+earned and unearned income for all household mem-
+bers at T1), and employment status (dichotomously
+coded 1 = employed vs 0 = not employed). National
+studies document that with increasing age caregiving
+is more likely, that older spousal caregivers are less
+likely to be employed, and that they have lower in-
+comes (Soldo & Myllyluoma, 1983; Stone et al., 1987);
+all of these variables have known associations with the
+outcomes investigated. Another covariate entered in
+all analyses was race/ethnicity (dichotomously coded
+1 = non-White vs 0 = non-Hispanic White). Relative
+to the total aged population, persons of color are more
+likely to suffer from functional and health limitations
+(Macken, 1986), to experience poorer well-being re-
+sulting from marginalized economic and social oppor-
+tunities (Markides, Liang, & Jackson, 1990), and to snow
+a differential pattern of change in health, well-being,
+and social integration in later life (Beckett & Dungee-
+Anderson, 1992).
+662 The Gerontologist
+Analytic Plan
+Prior to analysis, all variables were examined for
+missing values, and fit between their distributions and
+the analytic assumptions. As recommended by Tabach-
+nick and Fidell (1989), procedures were followed to
+determine whether the data were missing randomly.
+A variable was constructed that included missing and
+nonmissing cases. Then tests for differences were ex-
+amined on demographic and other study variables, and
+no systematic pattern was identified. Inspection of z
+scores and graphical methods were used to identify
+several outliers on household tasks within each group,
+and procedures were followed to reduce their influ-
+ence. For example, as recommended by Tabachnick
+and Fidell, 1989 extreme outliers (i.e., cases for which
+the standardized z scores were in excess of + or
+-3.00) were truncated (i.e., high scores exceeding the
+allowed high value were recoded to the highest al-
+lowable vafue) so that they remained deviant, but not
+so deviant that they would unduly skew the results.
+Variables transformed to improve the distributions of
+moderately skewed variables were analyzed, resulting
+in a similar pattern of findings as with those not trans-
+formed. For ease of interpretation, results using untrans-
+formed data will be presented (with the exception of
+depression, which was more seriously skewed).
+The research question involves examining changes
+over time and the differences between the means of
+two groups of husbands, while holding constant their
+T1 scores and covariates. Analysis of covariance (ANCOVA)
+was used to test the mean differences while controlling
+for covariates (Cohen & Cohen, 1983). All of the covari-
+ates have known association with the dependent vari-
+ables and as such, the ANCOVA approach helps to
+minimize error variance (Stevens, 1986; Tabachnick &
+Fidell, 1989). Although the ANCOVA approach is best
+suited to continuous variables, it has been found to
+be highly robust against nonnormality for type 1 error
+(Stevens, 1986), and as such the two dichotomous
+variables (i.e., emotional support and perception of
+marital trouble) were retained for these analyses.
+Results
+Sample Description
+Demographic Comparisons.--A description of the
+analytic sample (N = 288) is presented in Table 2 by
+caregiver status. The two groups differed significantly
+in age, income, and employment status. Members of
+the caregiver group were approximately 3 years older,
+had lower incomes, and were less likely to be em-
+ployed than the well spouse group. There were no
+significant differences oetween the two samples in
+education, race, duration of marriage, and marital his-
+tory. There was also no significant difference between
+the caregivers (M = 3.73) and noncaregivers {M =
+3.95) in their T1 health status, which was measured
+on a 5-point scale from 1 = very poor to 5 = excel-
+lent, t(268) = 1.18, p = .24.
+Care Receiver Level of Impairment.--At T2, all spouses
+were asked whether their partner needed assistance
+Table 2. T1 Comparisons of Social Demographic
+Characteristics by Caregiver Status
+Demographic
+Characteristics
+Well Spouse
+Group
+(n - 262)
+Mean (SD)
+Caregiver
+Group
+(n = 26)
+Mean (SD)
+Test
+Statistic
+Age
+Education
+Non-Caucasian
+Income ($ in
+thousands)
+Employed
+Duration
+of Marriage
+Married More
+Than Once
+64.66 (7.26)
+11.63 (3.97)
+.17
+39.78 (42.04)
+.50
+68.09 (7.23)
+11.08 (4.60)
+.23
+29.74 (21.72)
+.23
+t = -2.40*
+t = .65
+X2 = -65
+t = 2.04*
+X2= 6.87**
+33.88(13.77) 38.64(12.10) t = -1.85
+.25 .15 = 1.24
+Notes: Descriptive statistics calculated using unweighted data.
+Dichotomous variable means are proportions.
+Source: National Survey of Families and Households, 1987-
+1993.
+*p < .05; **p < .01.
+with bathing, dressing, eating, transferring, and toileting.
+Five (19%) of the 26 husbands in the caregiver group
+indicated that their wives had one or more ADL im-
+pairments at T2. All five of these men reported that
+their spouses required assistance with bathing, three
+reported ADL impairments in dressing, and one addi-
+tionally reported ADL spousal impairments in mobility
+and toileting. Interestingly, 21 (81%) of the caregiving
+husbands reported that their wives did not require
+assistance with ADLs. None of the noncaregiving hus-
+bands reported spousal ADL impairment.
+Changes Associated With Caregiver
+Role Acquisition
+Household Tasks.--As shown in Table 3, there was
+a significant difference between the two groups of hus-
+bands in the performance of household tasks tradi-
+tionally performed by older wives. As hypothesized,
+husbands who entered the caregiving role reported
+more time spent doing these household tasks than
+noncaregiving husbands. Indeed, after controlling for
+the T1 measure and the covariates, caregivers were
+spending approximately 7 more hours per week on
+average than husbands with well spouses performing
+the tasks of meal preparation, dishes, cleaning, shop-
+ping, and laundry. As reported in Table 1, prior to
+taking on the caregiving role, husbands in the caregiving
+group did an average of 6 hours per week of house-
+hold tasks, which increased to approximately 17 hours
+after taking on the caregiving role. In contrast, in the
+well spouse group, there was only a 2-hour increase
+in the amount of time spent on household tasks. There
+was no difference between the two groups of hus-
+bands in the amount of time spent driving or paying
+bills.
+Social Integration.--Table 3 reveals that there were
+changes over time in two social integration variables
+Vol. 39, No. 6, 1999 663
+Table 3. Adjusted Means and Analysis of Covariance of T2 Household Tasks, Social Life, Marital Relationship,
+and Weil-Being by Caregiver Status (N = 288)
+Household Tasks0
+Traditional tasks of older wivesd
+Driving
+Paying bills
+Social Integration
+Social recreational activities
+Religious social events
+Emotional support
+Marital Relationship
+Marital happiness
+Perception that marriage in trouble
+Psychological Well-Being
+Depression
+Happiness
+Well Spouse
+Group
+(n = 262)
+9.95
+.81
+1.55
+.89
+1.35
+.61
+6.36
+.07
+2.42
+5.94
+Caregiver
+Croup
+(n = 26)
+17.11
+1.19
+1.36
+.64
+1.80
+.39
+5.80
+.17
+3.38
+5.26
+P
+Covariates
+9.65***
+14.55***
+8.82***
+35.48***
+16.96***
+2.01
+5.19***
+20.24***
+10.15***
+6.46***
+Fb
+Caregiver
+Status
+13.29***
+.84
+.17
+1.29
+4.68*
+3.98*
+3.77*
+4.51*
+10.70***
+6.80***
+(df)
+(1,255)
+(1,255)
+(1,255)
+(1,241)
+(1, 239)
+(1, 241)
+(1, 237)
+(1, 226)
+(1, 236)
+(1, 219)
+Notes: Analyses included controls for age, non-White ethnicity, income, employment status, and T1 measures for each variable, and
+were calculated using unweighted data.
+Source: National Survey of Families and Households, 1987-1988; 1992-1994.
+aThe overall F ratio for the covariates age, race, income, employment status, and T1 measure is presented.
+bAll comparisons adjusted for covariates.
+cMean number of hours spent per week on these tasks.
+dScale included meal preparation, dishes, cleaning, shopping, and laundry.
+*p < .05, **p < .01, ***p < .001.
+that differentiated the groups of husbands, though one
+was not in the expected direction. As hypothesized,
+husbands who transitioned into the caregiving role were
+more likely than noncaregiving husbands to report a
+decline in their perception of emotional support from
+T1 to 12. As shown in Table 1, prior to taking on the
+caregiving role, approximately 87% of husbands in the
+caregiver group reported receiving emotional support
+at T1, which declined to 44% at 12. Alternatively, there
+was only a 10% difference in the perception of emo-
+tional support received between T1 and T2 among
+the well spouse group (i.e., from 72% to 61%). The
+adjusted means reported in Table 3 indicate that after
+controlling for the T1 score and covariates, only 39%
+of the caregivers at T2 reported receiving some form
+of emotional support as compared to 61% of the
+noncaregivers. Although it was anticipated that the
+caregiver group would report a decrease in religious
+social events as compared to the noncaregiving group,
+the results suggested that they actually reported an in-
+crease in time spent in religious social events.
+Marital Relationship.--As shown in Table 3, both
+of the marital relationship indicators significantly dis-
+tinguished the two groups. As hypothesized, husbands
+who transitioned into the caregiving role were more
+likely than noncaregiving husbands with well spouses
+to report a decline in marital happiness and to view
+that their marriages were in trouble. As reflected in
+Table 1, the T1 and the T2 means among the well
+spouse group for marital happiness (i.e., 6.25 and 6.27)
+and for the perception that the marriage is in trouble
+(.07 and .05) demonstrated little change over time.
+Alternatively, the mean marital happiness rating among
+the caregiver group declined from 6.04 to 5.83, and
+the perception that the marriage was in trouble ap-
+proximately doubled from .08 to .16.
+Psychological Well-Being.--Table 3 indicates signifi-
+cant differences between the two groups of husbands
+in the adjusted means for both indicators of psycho-
+logical well being. As hypothesized, the caregiving hus-
+bands were more likely than the noncaregiving hus-
+bands who had well spouses to report an increase in
+depression and a decrease in happiness from T1 to
+T2. As reflected in Table 1, there is little evidence of
+change among the noncaregiving group in mean
+levels of T1 and T2 depression (i.e., 2.49 to 2.46) or
+happiness (i.e., 5.92 to 5.92). In contrast, mean levels
+of T1 and T2 scores among the caregiver group for
+depression increased from 2.61 to 3.61, and decreased
+from 5.71 to 5.35 for happiness.
+Examination of Other Possible Transitions
+One might hypothesize that the transition to an-
+other living environment or to retirement could influ-
+ence changes in several of the dependent variables
+under investigation (Rexroat & Shehan, 1987). The care-
+giving and noncaregiving husbands were additionally
+compared to determine possible differences in these
+two transitions that are often associated with aging and
+that may offer competing explanations to the patterns
+of findings. There were no significant differences be-
+tween the two groups in relocation status or retire-
+ment status (i.e., they were comparable in the likeli-
+hood of these events).
+664 The Gerontologist
+Discussion
+This longitudinal study is the first to examine the
+transition into the caregiving role among older hus-
+bands. The incidence of caregiving role acquisition was
+approximately 10% among the relatively healthy, con-
+tinuously married men aged 60 and older, who re-
+sponded at both time points. The primary conclusion
+drawn from this study is that husbands who have tran-
+sitioned into the caregiving role experience signifi-
+cant changes in their household tasks, social integra-
+tion, marital relationship, and well-being, albeit not
+always in the expected directions. This conclusion will
+be highlighted in the next section, followed by a dis-
+cussion of limitations and possible implications for re-
+search and practice.
+Evidence of Change.--Compared with noncaregiving
+husbands, men who transitioned into the caregiving
+role demonstrated significant changes in multiple life
+domains. Even after controlling for T1 differences be-
+tween the samples, caregiving husbands were spend-
+ing significantly more time engaged in household re-
+sponsibilities that are traditionally performed by older
+wives. This finding supports the premise that spousal
+illness may require significant changes in role behav-
+ior. According to transitions theory, transitional life events
+are typified by changes in patterns of behavior and
+roles that may be added, redefined, or involve shifts
+in the salience of currently occupied roles (Cowan,
+1991).
+Husbands who entered the caregiving role showed
+significant changes in two aspects of social integration.
+They reported a greater increase in participation in
+religious social events, and a greater decline in their
+emotional support than husbands with well spouses.
+Although one prior cross-sectional study noted no dif-
+ference in church attendance between caregivers rela-
+tive to a random community sample (George & Gwyther,
+1986), it is interesting to note that caregiving husbands
+in this study actually reported an increase in partici-
+pation in religious social events. This finding was sur-
+prising as it was expected that illness and disability of
+the spouse might reduce the ability of older adults to
+attend religious events. An interesting question that
+remains to be examined is the extent to which the
+increase in church attendance might be a function of
+the decreased availability of emotional support. For
+many older adults, religious involvement is an impor-
+tant source of social connection and support. Does
+attendance at religious social events provide needed
+social contact that those who are typically isolated ex-
+perience? Idler and Kasl (1997) noted.that disabled
+older adults who were actively involved in religious
+activities "received particular benefits in terms of ad-
+ditional contacts and closeness with friends, more nu-
+merous holiday celebrations, more optimism, and more
+positive affects" (p. S3O3). Suitor and Pillemer (1990)
+proposed that family caregiving may be viewed as
+social status acquisition that is typically accompanied
+by reduced contact with social network members who
+have become less similar and a desire to intensify or
+develop relationships with others who are perceived
+to be more similar. It is possible that caregiving hus-
+bands are looking for ways to be connected with
+others who possess similar values through religious
+social events. Alternatively, the church or synagogue
+may be perceived as a place where husbands may
+provide opportunities for socialization for wives who
+are not as functional as they have been in the past.
+Contrary to the expectation, there was no signifi-
+cant difference found for time spent in social and recrea-
+tional activities among caregiving husbands, although
+several cross-sectional studies have noted differences
+between caregivers and noncaregivers in social activi-
+ties. Some evidence suggests that social activity restric-
+tions are more frequently reported among spouses with
+cognitive impairments (Bass, McClendon, Deimling, &
+Mukherjee, 1994), and most of the illnesses reported
+by our analytic sample would preclude such condi-
+tions. It is also possible that we have captured a sample
+that has not yet experienced such restrictions. Alter-
+natively, it may be that the relatively small size of the
+caregiver group limits our power to detect the differ-
+ences that do exist. For example, the mean for T2 is
+lower for the caregiving group and higher for the non-
+caregiving group than the T1 scores; however, the sample
+size may not allow for detection of these differences
+or the differences may not yet be great enough to
+detect. Another explanation might be that although
+women are often found to cut back on their social
+activities to care for their husbands, men might not
+cut back to care for their wives, possibly because they
+do not have an extensive and active social life to be-
+gin with.
+Husbands who entered the caregiving role showed
+evidence of potentially detrimental changes in the
+marital relationship. Caregiving husbands reported a
+significantly greater decline in marital happiness and
+were more likely to perceive that their marriage was
+in trouble than husbands in the well spouse group.
+This is consistent with findings reported by Russo and
+Vitaliano (1995) in which greater decrements in mari-
+tal relationship were reported among caregivers as com-
+pared to noncaregiving spouses. We do not know how
+many later-life marriages end in divorce as a result of
+illness. But given that declines in marital happiness are
+strongly linked to divorce (Johnson & Booth, 1998),
+these findings suggest that more attention should be
+given to the potential implications of these findings
+for later-life families.
+Finally, this study found evidence of reduced psy-
+chological well-being among husbands who have tran-
+sitioned into the caregiving role. Not surprisingly, these
+husbands are becoming less happy and more depressed
+than husbands with well spouses, even after control-
+ling for age, employment status, income, and race.
+Although these findings are not surprising, they do sug-
+gest that older men who acquire the spousal caregiving
+role are worse off in terms of psychological well-being
+than noncaregiving husbands, and that further atten-
+tion should be paid to understanding how the ex-
+perience of caregiving is unique for the older man. A
+sizable body of research has emerged to explore the
+contributors to well-being among caregivers, yet mini-
+mal attention has been given to the male caregiver in
+Vol. 39, No. 6, 1999 665
+this regard. What is it about this later-life transition
+that affects these changes in well-being? Is it the
+mere presence of spousal illness and concern about
+their health? Is it the strain associated with providing
+care? Answers to these questions could be central to
+gender-sensitive intervention development.
+Although we believe this analysis fills an important
+gap in the caregiving literature, we readily acknowl-
+edge several of its limitations. First, we are well aware
+that our inclusion criteria restrain the extent to which
+these results may be generalizable beyond the rela-
+tively healthy husbands aged 60 or over who make
+up this sample. The changes experienced over time
+in household tasks, social life, marital relationship, and
+well-being may indeed be very different for older men
+who themselves have serious chronic conditions and
+need care. Similarly, we recognize that many of the
+wives receiving care in this sample were not restricted
+in ADLs. Results may vary among husbands caring for
+wives with more intense caregiving needs. Second, the
+caregiver group has a relatively small n, and this fact
+limits the power to detect group differences and also
+raises the question of stability of findings if a replica-
+tion study were done. It is noteworthy that, even with
+such a small sample, several significant findings emerged.
+Third, although secondary analysis of national prob-
+ability data holds many advantages, there are also
+measurement and design limitations. For example, though
+less than ideal, there are several single-item indicators
+that were used in order to obtain a breadth of data in
+multiple domains, and the duration of time between
+T1 and T2 is 5 years. Finally, we do not have data on
+duration of caregiving, duration of illness, or additional
+resources that husbands may or may not have in meet-
+ing the needs of their wives, so we do not control for
+these variables. Our hope is that this population-level
+study will suggest areas for further inquiry into the older
+male caregiver and complement the richer and more
+in-depth studies of caregiving that are underway.
+Conclusions and Implications.--These limitations
+not withstanding, the results from this study demon-
+strate that there are several changes in multiple life
+domains over time among husbands who transition into
+the caregiving role. The particular changes that occur
+suggest several potential implications for practitioners
+who work with older caregiving men. First, their in-
+creased participation in religious social events might
+suggest alternative settings in which supportive or educa-
+tional interventions might be offered to later-life couples.
+Greater emphasis could be placed on providing inter-
+ventions in religious settings that could help to pre-
+pare the growing population of male caregivers for
+the transitions associated with spousal illness. Programs
+could be developed to help noncaregiving members
+of religious institutions to become better educated about
+the best ways to support those in caregiving roles and
+those who become ill. Second, we would advocate
+that interventions be designed with couples in mind,
+as opposed to targeting programs to individual care-
+givers. Spousal illness and spousal caregiving are highly
+interpersonal endeavors, and this study suggests that
+they may potentially have a detrimental impact on the
+marital relationship. As one partner experiences loss
+associated with illness and the other responds, and
+both partners experience the changing roles that ac-
+company transitions in later life, it seems preferable
+to consider ways to intervene therapeutically with both
+the husband and his ill wife. Third, as mentioned pre-
+viously, further investigation is required to understand
+better what the changes in household tasks mean to
+the older husband caregiver and the role that these
+changes play in the husband's well-being. Such un-
+derstanding could reveal potential implications for in-
+tervention (e.g., educational programs for skill devel-
+opment in household tasks).
+In conclusion, the image portrayed by these find-
+ings concerning husbands' shifting household roles and
+the decline in emotional support, accompanied by a
+heightened sense of marital instability and depressive
+symptoms, does not suggest the benign experience of
+male caregiving that is so frequently conveyed in gen-
+der comparative studies. The results also suggest the
+importance of carefully examining the characteristics
+of persons included in noncaregiving comparison groups.
+For example, many caregiving studies use spousal ill-
+ness condition as an indicator of caregiving. We found
+that 11% of older husbands in this sample had wives
+with serious chronic illness conditions that are similar
+to those reported by caregiving husbands, yet they did
+not identify with trie caregiving role. This study has
+revealed several important findings, but it has also
+raised many more questions that require investigation
+so that a fuller understanding of the unique experi-
+ence of the older male caregiver may be revealed.
+References
+Ade-Ridder, L, & Brubaker, T. (1988). Expected and reported division of
+responsibility of household tasks among older wives in two residential
+settings. Journal of Consumer Studies and Home Economics, 12, 59- 70.
+Allen, S. M. (1994). Gender differences in spousal caregiving and unmet
+need for care. Journal of Gerontology: Social Sciences, 49, S187-195.
+Barber, C. E., & Pasley, B. K. (1995). Family care of Alzheimer's patients:
+The role of gender and generational relationship on caregiver out-
+comes. Journal of Applied Gerontology, 14, 172-192.
+Bass, D. M., McClendon, M. J., Deimling, G. T., & Mukherjee, S. (1994).
+The influence of a diagnosed mental impairment on family caregiver
+strain. Journal of Gerontology: Social Sciences, 49, S146-S155.
+Beckett, J. O., & Dungee-Anderson, D. (1992). Older minorities: Asian,
+Black, Hispanic, and Native Americans. In R. Schneider & N. Kropf
+(Eds.), Gerontological social work: Knowledge, service settings, and
+special populations (pp. 277-322). Chicago, IL: Nelson-Hall Publishers.
+Biegel, D. E., Sales, E., & Schulz, R. (1991). Family caregiving in chronic
+illness: Alzheimer's disease, cancer, heart disease, mental illness, and
+stroke. Newbury Park, CA: Sage.
+Blazer, D., & Palmore, E. (1976). Religion and aging in a longitudinal
+panel. The Gerontologist, 16, 82-85.
+Blieszner, R., & Shifflett, P. A. (1990). The effects of Alzheimer's disease
+on close relationships between patients and caregivers. Family Rela-
+tions, 39, 57-62.
+Booth, A., & Johnson, D. R. (1994). Declining health and marital quality.
+Journal of Marriage and the Family, 56, 218-223.
+Brubaker, T. H., & Kinsel, B. I. (1985). Who is responsible for household
+tasks in long-term marriages of the "young-old" elderly? Lifestyles, 7,
+23Q-274.
+Burman, B., & Margolin, G. (1992). Analysis of the association between
+marital relationships and health problems: An interactional perspec-
+tive. Psychological Bulletin, 112, 39-63.
+Buunk, B., & Hoorens, V. (1992). Social support and stress: The role of
+social comparison and social exchange processes. British Journal of
+Clinical Psychology, 31, 445-457.
+Cantor, M. (1983). Strain among caregivers: A study of experience in the
+United States. The Gerontologist, 23, 597-604.
+Chang, C. F., & White-Means, S. I. (1991). The men who care: An analy-
+sis of male primary caregivers who care for frail elderly at home. The
+Journal of Applied Gerontology, 10, 343-358.
+666 The Gerontologist
+Chappell, N. L. (1990). Aging and social care. In R. H. Binstock & L. K.
+George (Eds.), Handbook on aging and the social sciences (3rd ed.,
+pp. 438-454). New York: Academic Press.
+Chiriboga, D. A. (1996). In search of continuities and discontinuities across
+time and culture. In V. L. Bengtson (Ed.), Adulthood and aging: Re-
+search on continuities and discontinuities (pp. 173-199), New York:
+Springer.
+Cohen, J., & Cohen, P. (1983). Applied multiple regression/correlation
+analysis for the behavioral sciences (2nd ed.). Hillsdale, NJ: Laurence
+Erlbaum Associates.
+Cowan, P. A. (1991). Individual and family life transitions: A proposal for
+a new definition. In P. A. Cowan & M. Hetherington (Eds.), Family
+transitions (pp. 3-30). Hillsdale, NJ: Lawrence Erlbaum Associates.
+Dorfman, L. T., & Heckert, D. A. (1988). Egalitarianism in retired rural
+couples: Household tasks, decision making, and leisure activities. Family
+Relations, 37, 73-78.
+Elder, G. H. (1991). Family transitions, cycles, and social change. In P. A.
+Cowan & M. Hetherington (Eds.), Family transitions (pp. 31-57). Hillsdale,
+NJ: Lawrence Erlbaum Associates.
+Fuller-Jonap, F., & Haley, W. E. (1995). Mental and physical health of
+male caregivers of a spouse with Alzheimer's disease. Journal of Aging
+and Health, 7, 99-118.
+George, L. K. (1993). Sociological perspectives on life transitions. Annual
+Review of Sociology, 19, 353-373.
+George, L. K., & Gwyther, L. P. (1986). Caregiver well-being: A multidi-
+mensional examination of family caregivers of demented adults. The
+Gerontologist, 26, 253-259.
+Hafstrom, J. L., & Schram, V. R. (1984). Chronic illness in couples: Se-
+lected characteristics, including wife's satisfaction with and perception
+of marital relationships. Family Relations, 33, 195-203.
+Himes, C. L. (1992). Future caregivers: Projected family structures of older
+persons. Journal of Gerontology: Social Sciences, 47, S17-S26.
+Idler, E. L., & Kasl, S. V. (1997). Religion among disabled and nondis-
+abled persons I: Cross-sectional patterns in health practices, social
+activities, and well-being. Journal of Gerontology: Social Sciences, 52B,
+S294-S305.
+Johnson, D. R., & Booth, A. (1998). Marital quality: A product of the
+dyadic environment or individual factors? Social Forces, 76, 883-904.
+Johnson, C, & Catalano, D. (1983). A longitudinal study of family sup-
+ports to impaired elderly. The Gerontologist, 23, 612-618.
+Kaye, L. W., & Applegate, J. S. (1994). Older men and the family caregiving
+orientation. In E. H. Thompson, Jr. (Ed.)., Older men's lives (pp. 218-
+236). Thousand Oaks, CA: Sage.
+Keith, P. M. (1980). Sex differences in household involvement of the un-
+married. Journal of Gerontological Social Work, 2, 331-334.
+Keith, P. M. (1985). Work, retirement and well-being among unmarried
+men and women. The Gerontologist, 25, 410-416.
+Keith, P. M. (1994). A typology of orientations toward household and
+marital roles of older men and women. In E. H. Thompson, Jr. (Ed.),
+Older men's lives (pp. 141-158). Thousand Oaks, CA: Sage.
+Keith, P. M., & Schafer, R. B. (1986). Housework, disagreement, and
+depression among younger and older couples. American Behavioral
+Scientist, 29, 405-422.
+Kiecolt-Glaser, J. K., Glaser, R., Shuttleworth, E. C, Dyer, C. S., Ogrocki, P.,
+& Speicher, C. E. (1987). Chronic stress and immunity in family caregivers
+of Alzheimer's disease victims. Psychosomatic Medicine, 49, 523-535.
+Kramer, B. J., & Kipnis, S. (1995). Eldercare and work-role conflict: To-
+ward an understanding of gender differences in caregiver burden. The
+Gerontologist, 35, 340-348.
+Kramer, B. J., & Vitaliano, P. P. (1994). Coping: A review of the theoreti-
+cal frameworks and the measures used among caregivers of individual
+with dementia. Journal of Gerontological Social Work, 23, 151-174.
+Kriegsman, D. M. W., Penninx, B. W. J. H., & van Eljk, J. Th. M. (1994).
+Chronic disease in the elderly and its impact on the family: A review
+of the literature. Family Systems Medicine, 12, 249-267.
+Leiber, L., Plumb, M. M., Gerstenzang, M. L., & Holland, J. (1976). The
+communication of affection between cancer patients and their spouses.
+Psychosomatic Medicine 38, 379-389.
+Lichtmann, R. R., & Taylor, S. E. (1986). Close relationships and the fe-
+male cancer patient. In B. L. Andersen (Ed.), Women with cancer
+(233-256). New York: Springer-Verlag.
+Macken, C. L. (1986). A profile of functionally impaired elderly persons
+living in the community. Health Care Financing Review, 7(4), 33-49.
+Marks, N. F. (1996). Caregiving across the lifespan: National prevalence
+and predictors. Family Relations, 45, 27-36.
+Markides, K. S. (1983). Aging, religiosity, and adjustment: A longitudinal
+analysis. Journal of Gerontology, 38, 621-625
+Markides, K. S., Levin, J. S., & Ray, L. A. (1987). Religion, aging, and life
+satisfaction: An eight-year, three-wave longitudinal study. The Geron-
+tologist, 27, 660-665.
+Markides, K. S., Liang, J., & Jackson, J. (1990). Race, ethnicity, and aging.
+In R. H. Binstock, & L. K. George (Eds.), Handbook of aging and the
+social sciences (3rd ed., pp. 112-129). San Diego, CA: Academic Press.
+McNaughton, M. E., Patterson, T. L., Smith, T. L., & Grant, I. (1995). The
+relationship among stress, depression, locus of control, irrational be-
+liefs, social support, and health in Alzheimer's disease caregivers. The
+Journal of Nervous and Mental Disease, 183(2), 78-85.
+Montgomery, R. J. V. (1996). The influence of social context on the caregiving
+experience. In Z. S. Khachaturian & T. S. Radebaugh (Eds.), Alzheimer's
+disease: Cause(s), diagnosis, treatment and care (pp. 313-321). Boca
+Raton, FL: CRC Press.
+Morris, L. W., Morris, R. G., & Britton, P. G. (1988). The relationship
+between marital intimacy, perceived strain, and depression in spouse
+caregivers of dementia sufferers. British Journal or Medical Psychol-
+ogy, 61, 231-236.
+Pearlin, L. I., & Aneshensel, C. S. (1994). Caregiving: The unexpected
+career. Social Justice Research, 7, 373-390.
+Princeton Religion Research Center. (1994). Importance of religion climb-
+ing again. Emerging Trends, 16, 1-4.
+Radloff, L. (1977). The CES-D scale: A self-report depression scale for
+research in the general population. Applied Psychological Measure-
+ment, 1, 385-401.
+Reese, D. R., Gross, A. M., Smalley, D. L, & Messer, S. C. (1994). The
+Gerontologist, 34, 534-540.
+Revenson, T. A., (1994). Social support and marital coping with chronic
+illness. Annals of Behavioral Medicine, 16, 122-130.
+Revenson, T. A., & Majerovitz, S. D. (1991). The effects of chronic illness
+on the spouse: Social resources as stress buffers. Arthritis Care & Re-
+search, 4(2), 63-72.
+Rexroat, C, & Shehan, C. (1987). The family life cycle and spouses' time
+in housework. Journal of Marriage and the Family, 49, 737-750.
+Roberts, R., & Vernon, S. (1983). The Center for Epidemiological Studies
+Depression Scale: Its use in a community sample. American Journal of
+Psychiatry, 140, 41.
+Russo, J., & Vitaliano, P. P. (1995). Life events as correlates of burden in
+spouse caregivers of persons with Alzheimer's disease. Experimental
+Aging Research, 21, 273-294.
+Russo, J., Vitaliano, P. P., Brewer, D. D., Katon, W., & Becker, J. (1995).
+Psychiatric disorders in spouse caregivers of care recipients with Alz-
+heimer's disease and matched controls: A diathesis-stress model of
+psychopathology. Journal of Abnormal Psychology, 104, 197-204.
+Schumacher, K. L. (1995). Family caregiver role acquisition: Role-making
+through situated interaction. Scholarly Inquiry for Nursing Practice:
+An International Journal, 9, 211-229.
+Seltzer, M. M., & Li, L. W. (1996). The transitions of caregiving: Subjec-
+tive and objective definitions. The Gerontologist, 36, 614-626.
+Singleton, J. F., Forbes, W. F., & Agwani, N. (1993). Stability of activity
+across the lifespan. Activities, Adaptation, & Aging, 18, 19-27.
+Skaff, M. M., Pearlin, L. I., & Mullan, J. T. (1996). Transitions in the
+caregiving career: Effects on sense of mastery. Psychology and Aging,
+11, 247-257.
+Soldo, B. J., & Myllyluoma, J. (1983). Caregivers who live with dependent
+elderly. The Gerontologist, 23, 605-611.
+Stevens, J. (1986). Applied multivariate statistics for the social sciences.
+Hillsdale, NJ: Lawrence Erlbaum Associates.
+Stoller, E. P., & Cutler, S. (1992). The impact of gender on configurations of
+care among married elderly couples. Research on Aging, 14, 313-330.
+Stone, R., Cafferata, G., & Sangl, J. (1987). Caregivers of the frail elderly:
+A national profile. The Gerontologist, 27, 616-626.
+Suitor, J. J., & Pillemer, K. (1990). Transitions to the status of family caregiver:
+A new framework for studying social support and well-being. In S. M.
+Stahl (Ed.), The legacy of longevity: Health and health care in later life
+(pp. 310-320). Newbury Park, CA: Sage.
+Sweet, J. A., Bumpass, L. L., & Call, V. (1988). The design and content of
+the National Survey of Families and Households (NSFH Working Pa-
+per #1). Madison, Wl: Center for Demography and Ecology, Univer-
+sity of Wisconsin.
+Szinovacz, M. (1980). Female retirement: Effects on spousal roles and
+marital adjustment. Journal of Family Issues, 1, 423-440.
+Szinovacz, M. (1989). Retirement, couples, and household work. In S. J.
+Bahr & E. T. Peterson (Eds.), Aging and the family (pp. 33-58). New
+York: Lexington Books.
+Szinovacz, M., & Harpster, P. (1994). Couples' employment/retirement
+status and the division of household tasks. Journal of Gerontology:
+Social Sciences, 49, S125-S136.
+Tabachnick, B. G., & Fidell, L. S. (1989). Using multivariate statistics. New
+York: Harper Collins.
+Thompson, S. C, & Pitts, J. S. (1991). In sickness and in health: Chronic
+illness, marriage, and spousal caregiving. In S. Spacapan, & S. Oskamp
+(Eds.), Helping and being helped: Naturalistic studies (pp. 115-151).
+Newbury Park, CA: Sage.
+Toseland, R. W., & Rossiter, C. M. (1989). Group interventions to support
+family caregivers: A review and analysis. The Gerontologist, 29, 438-
+448.
+Van der Does, J. V. S., & Duyvis, D. J. (1989). Psychosocial adjustment of
+spouses of cervical carcinoma patients. Journal of Psychosomatic in
+Obstetrics and Gynaecology 10, 163-171.
+Wright, L. K. (1991). The impact of Alzheimer's disease on the marital
+relationship. The Gerontologist, 31, 224-237.
+Wright, L. K. (1993). Alzheimer's disease and marriage: An intimate ac-
+count. Newbury Park, CA: Sage.
+Received April 22, 1999
+Accepted August 24, 1999
+Vol. 39, No. 6, 1999 667
+

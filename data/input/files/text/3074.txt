@@ -1,0 +1,1151 @@
+Relationship Between Cancer Patients'
+Predictions of Prognosis and
+Their Treatment Preferences
+Jane C. Weeks, MD; E. Francis Cook, ScD; Steven J. O'Day, MD; Lynn M. Peterson, MD; Neil Wenger, MD;
+Douglas Reding, MD; Frank E. Harrell, PhD; Peter Kussin, MD; Neil V. Dawson, MD;
+Alfred F. Connors, Jr, MD; Joanne Lynn, MD; Russell S. Phillips, MD
+Context.--Previous studies have documented that cancer patients tend to
+overestimate the probability of long-term survival. If patient preferences about the
+trade-offs between the risks and benefits associated with alternative treatment
+strategies are based on inaccurate perceptions of prognosis, then treatment
+choices may not reflect each patient's true values.
+Objective.--To test the hypothesis that among terminally ill cancer patients an
+accurateunderstandingofprognosisisassociatedwithapreferencefortherapythat
+focuses on comfort over attempts at life extension.
+Design.--Prospective cohort study.
+Setting.--Five teaching hospitals in the United States.
+Patients.--A total of 917 adults hospitalized with stage III or IV non­small cell
+lung cancer or colon cancer metastatic to liver in phases 1 and 2 of the Study to
+Understand Prognoses and Preferences for Outcomes and Risks of Treatments
+(SUPPORT).
+Main Outcome Measures.--Proportion of patients favoring life-extending
+therapy over therapy focusing on relief of pain and discomfort, patient and physi-
+cian estimates of the probability of 6-month survival, and actual 6-month survival.
+Results.--Patientswhothoughttheyweregoingtoliveforatleast6monthswere
+more likely (odds ratio [OR], 2.6; 95% confidence interval [CI], 1.8-3.7) to favor life-
+extending therapy over comfort care compared with patients who thought there was
+at least a 10% chance that they would not live 6 months. This OR was highest (8.5;
+95% CI, 3.0-24.0) among patients who estimated their 6-month survival probability
+at greater than 90% but whose physicians estimated it at 10% or less. Patients
+overestimated their chances of surviving 6 months, while physicians estimated
+prognosis quite accurately. Patients who preferred life-extending therapy were
+more likely to undergo aggressive treatment, but controlling for known prognostic
+factors, their 6-month survival was no better.
+Conclusions.--Patients with metastatic colon and lung cancer overestimate
+their survival probabilities and these estimates may influence their preferences
+about medical therapies.
+JAMA.1998;279:1709-1714
+From the Department of Adult Oncology, Dana-
+FarberCancerInstitute,Boston,Mass(DrsWeeksand
+O'Day); Section of Clinical Epidemiology, Division of
+General Medicine (Dr Cook), and Department of Sur-
+gery (Dr Peterson), Brigham and Women's Hospital,
+Boston, Mass; Department of Medicine, University of
+California, Los Angeles Medical Center (Dr Wenger);
+the Marshfield Medical Research Foundation/
+Marshfield Clinic, Marshfield, Wis (Dr Reding); Divi-
+sion of Biostatistics and Epidemiology, Department
+of Health Evaulation Sciences, University of Virginia
+School of Medicine, Charlottesville (Dr Harrell); De-
+partment of Medicine, Duke University Medical Cen-
+ter, Durham, NC (Dr Kussin); Department of Medi-
+cine, Case Western Reserve University, MetroHealth
+Medical Center, Cleveland, Ohio (Drs Dawson and
+Connors); and Center to Improve Care of the Dying,
+George Washington University, Washington, DC (Dr
+Lynn);DivisionofGeneralMedicineandPrimaryCare,
+Department of Medicine, Beth Israel Hospital, Bos-
+ton, Mass (Dr Phillips).
+The opinions and findings contained in the manu-
+script are those of the authors and do not necessarily
+represent the views of the Robert Wood Johnson Foun-
+dation and their Board of Trustees.
+Reprints: Jane C. Weeks, MD, Dana-Farber Cancer
+Institute, 44 Binney St, Boston, MA 02115-6084 (e-mail:
+jane_weeks@dci.harvard.edu).
+MOST METASTATIC solid tumors, in-
+cluding lung and colon cancer, are incur-
+able and life expectancy is short. Cancer
+patients and their physicians are often
+facedwithafundamentalchoicebetween
+cancer-directed therapy and supportive
+care that emphasizes symptom manage-
+ment rather than control of the underly-
+ing disease. Even in incurable solid tu-
+mors, cancer-directed therapy may pro-
+long average life expectancy by several
+months and palliate symptoms in some
+but is often associated with treatment-
+related toxic effects. There is substantial
+variability in the choices that are made
+about these alternatives. For example,
+among patients diagnosed as having
+metastatic colon cancer in 1990, 42% re-
+ceived chemotherapy as a component of
+their treatment, while 58% did not.1
+For editorial comment see p 1746.
+We believe that patient preferences
+should drive choices between alternative
+therapies,especiallywhenlifeexpectancy
+varies little and quality-of-life consider-
+ations are prominent. Cancer patients'
+ability to participate in making decisions
+abouttheircaremaybelimitedbyseveral
+factors, however. Some patients may be
+too ill or too overwhelmed emotionally to
+play a major role in establishing the goals
+oftherapy.Amongthosewhowishtopar-
+ticipate, potential barriers include lack of
+physician support for patient decision
+making,insufficientpatientknowledgeof
+the likely outcomes of their disease, and
+lack of information concerning the effect
+of alternative strategies on outcomes.
+Several studies have documented that
+cancer patients' understanding of their
+prognosis is imperfect and that they tend
+to overestimate the probability of long-
+termsurvival.2-6 Forexample,in1survey
+of patients with metastatic cancer, 37 be-
+lieved that treatment would cure them
+JAMA, June 3, 1998--Vol 279, No. 21 Perceived Prognosis and Treatment Preference--Weeks et al 1709
+©1998 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ on 05/23/2014
+and 60% thought that it would control
+their metastatic disease.5
+Patients' preferences for care reflect
+their values, their understanding of their
+illness,andtheirunderstandingoftherisks
+and benefits associated with treatment
+choices.7-10 Studiesofcancerpatients'val-
+ues regarding trade-offs between quality
+and quantity of life have shown substan-
+tial interpatient variability.11-13 If pa-
+tients do not understand their prognoses
+accurately, then their decisions about
+trade-offsbetweentreatmentchoicesmay
+not reflect their true values.
+Weexaminedtherelationshipbetween
+cancer patients' estimates of their prog-
+nosis and their life-support and treat-
+ment preferences. The objectives of the
+analysis were to determine (1) whether
+patients'prognosticestimateswereinde-
+pendent predictors of their treatment
+choice, (2) whether patients' prognostic
+estimates were concordant with their
+physicians' estimates, (3) whether pa-
+tients' or physicians' estimates were
+more accurate, and (4) whether patients'
+treatment preferences influenced their
+medical outcomes.
+METHODS
+Study Population
+Patients enrolled in phases 1 and 2 of
+the Study to Understand Prognoses and
+Preferences for Outcomes and Risks of
+Treatments (SUPPORT) were eligible
+for the study. Although the study in-
+cluded hospitalized patients with any of
+9 different diagnoses, only data pertain-
+ing to patients with non­small cell lung
+cancer and colon cancer will be present-
+ed in this report. A full description of the
+SUPPORTprojectobjectivesandmeth-
+ods has been published previously.14
+Phase 1 was a prospective observa-
+tionalstudythatdescribedtheprocessof
+decision making and patient outcomes.
+Phase 2 was a cluster-randomized, con-
+trolled clinical trial to test the effect of
+an intervention in which physicians were
+provided with information about both
+prognosis and patient preferences and in
+whichanurseattemptedtofacilitatecom-
+munication to enhance decision making.
+Enrollment, data collection, and inter-
+viewing were virtually identical during
+the 2 phases.15 Phase 1 enrolled patients
+from June 1989 through June 1991, and
+phase 2 enrolled patients from January
+1992 through January 1994. Patients
+were enrolled at the time of hospitaliza-
+tion at 1 of 5 medical centers (Beth Israel
+Hospital,Boston,Mass;DukeUniversity
+Medical Center, Durham, NC; Metro-
+Health Medical Center, Cleveland, Ohio;
+St Joseph's Hospital/Marshfield Clinic,
+Marshfield, Wis; and University of Cali-
+fornia, Los Angeles, Medical Center. No
+differences in any of 5 outcome measures
+(timing of do not resuscitate orders, pa-
+tient and physician agreement on prefer-
+encesregardingresuscitation,daysspent
+in the intensive care unit while in coma
+or receiving mechanical ventilation, fre-
+quency and severity of pain, and hospital
+resourceuse)werefoundbetweenphases
+1 and 2.15 Therefore, in the analyses pre-
+sented herein, patients from the 2 phases
+are pooled in a single sample.
+To be eligible for the diagnostic cat-
+egory of non­small cell lung cancer, pa-
+tients were required to be hospitalized
+with non­small cell lung cancer, stage
+III or IV. To be eligible for the diagnos-
+tic category of colon cancer, they were
+required to be hospitalized with colon
+cancer metastatic to the liver. Patients
+whose conditions had been newly diag-
+nosed (within 1 month) and who were
+hospitalized for the first time since diag-
+nosis, as well as patients who had been
+hospitalized for reasons unrelated to
+their cancer, were ineligible. Patients
+were excluded from enrollment in
+SUPPORT if they were non­English
+speaking,hadaplannedadmissionofless
+than72hours,werepregnant,orhaddied
+or been discharged from the hospital
+within 48 hours of study entry.
+All study patients were asked to iden-
+tifyasurrogatedecisionmaker,whompa-
+tients "would want to help [their] doc-
+tor[s]makeadecisionabout[their]medical
+careif[they]weretooilltodoso."Forpa-
+tientswhowereunabletodesignateasur-
+rogate,thephysicianand/ornextofkinwas
+asked to name a surrogate. Physicians in-
+terviewedwerethoseidentifiedbyadmis-
+sion records as the responsible physician
+and were confirmed by physician inter-
+view to be the individual having primary
+responsibility for that patient's care.
+Data Collection
+Data were gathered prospectively by
+chartreview,patientinterview,andsur-
+rogate interview. An attempt was al-
+ways made to interview the surrogate
+even if patient data were complete.
+Chart reviews were performed by
+trained research nurses, while inter-
+views were performed by trained inter-
+viewers. Data collected by chart review
+included in this analysis were insurance,
+disease type, disease stage, time from
+cancer diagnosis, number of readmis-
+sions to the study hospital, resuscita-
+tions attempted,anddeathwhilereceiv-
+ing ventilatory assistance.
+Data collected by patient and/or surro-
+gate interview included demographics
+(age, sex, race, education, income); global
+quality of life (rated on a single-item scale
+from0-100);activitiesofdailyliving(ADL)
+using a modified Katz ADL scale16,17;
+patient's estimates of the probability of
+2-and6-monthsurvival;andpatient'spref-
+erence for receiving life-extending treat-
+ment. Regarding their prognoses, pa-
+tients were specifically asked, "What are
+thechancesthatyouwilllivefor2months
+or more if the current plan of care stays
+the same?" and "How about 6 months or
+more?"Patientswereaskedtochoosefrom
+the following responses: "90% or better,"
+"about 75%," "about 50-50," "about 25%,"
+"10% or less," or "don't know." Regard-
+ingtreatmentpreferences,theywerespe-
+cificallyasked,"Ifyouhadtomakeachoice
+at this time, would you prefer a course of
+treatment that focuses on extending life
+as much as possible, even if it means hav-
+ingmorepainanddiscomfort,orwouldyou
+want a plan of care that focuses on reliev-
+ingpainanddiscomfort,evenifthatmeans
+notlivingaslong?"Responseoptionswere
+"extendlifeasmuchaspossible,""relieve
+pain or discomfort as much as possible,"
+and "don't know."
+Information obtained by physician in-
+terviewincludedphysicianestimatesfor
+the patient's likelihood of survival at 6
+months. This question was asked prior
+to providing any computer-based prog-
+nosticinformationtophysiciansinphase
+2.Physicianswereaskedtorespondwith
+a number ranging from 0% to 100% to
+the question "What is the probability
+that this patient will live for 6 months
+or more?"
+Statistical Methods
+Bivariable analysis and a logistic re-
+gression model were used to test the re-
+lationshipbetweenpatient-prognostices-
+timatesandtheirtreatmentpreferences.
+The fit of a logistic regression model was
+assessedbytheHosmer-Lemeshowgood-
+ness-of-fittest.18 Asecondaryanalysiswith
+stratification by the physician-prognos-
+tic estimates was performed. Physician-
+prognosticestimatesweremeasuredasa
+continuousvariable.Forpurposesofcom-
+parison with patients, these estimates
+were grouped into 5 categories similar to
+those available to the patients (90%,
+61%-89%, 40%-60%, 11%-39%, and 10%).
+Correlation coefficients for patient esti-
+matevsphysicianestimateof6-monthsur-
+vival did not differ between categorized
+and continuous physician-prognostic
+variables,soonlytheresultsoftheanaly-
+ses using categorized estimates are re-
+ported herein.
+Theaccuracyofpatientandphysicianes-
+timates of the probability of the patients'
+beingaliveat6monthswerecomparedus-
+ingreceiveroperatingcharacteristic(ROC)
+curves.19 In this technique, the discrimi-
+nationofatestorpredictionisassessedby
+plottingthesensitivityofthetest(thetrue-
+positiverate)against1minusthespecific-
+ity (the false-positive rate). The points on
+the ROC curve are generated by calculat-
+1710 JAMA, June 3, 1998--Vol 279, No. 21 Perceived Prognosis and Treatment Preference--Weeks et al
+©1998 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ on 05/23/2014
+ingthesensitivityandspecificityofthetest
+or prediction at various criteria of positiv-
+ity. The greater the area under the curve
+(onascaleof0.5-1),thebetterthediscrimi-
+nation of the test or prediction. The sensi-
+tivity of the patients' estimates at a crite-
+rion of positivity of 90%, for example,
+represented, among patients who lived 6
+months or more, the ratio of the number
+who estimated their probability of being
+alive at 6 months at 90% or higher to the
+totalnumberofpatientsinthesubset.The
+specificity of the "test" at this criterion of
+positivityrepresented,amongpatientswho
+lived less than 6 months, the ratio of the
+number of patients who estimated their
+probabilityofbeingaliveat6monthsatless
+than 90% to the total number of patients
+in this subset.
+Thedegreeofcorrelationbetweenpa-
+tientandphysicianprognosticestimates
+was evaluated with a -b statistic.20 Bi-
+variable analysis and a logistic regres-
+sion model were used to test the rela-
+tionship between patients' treatment
+preferences and their 6-month survival.
+The relationship between treatment
+preference and occurrence of adverse
+events was evaluated with a 2 statistic.
+When information on income, educa-
+tion, functional status, or quality of life
+was not available, we substituted surro-
+gate reports, calibrated to patient re-
+sponseorimputedvaluesusingmethods
+described previously.21
+Only patients for whom patient or sur-
+rogate prognostic estimates were avail-
+ablewereincludedintheanalysis(n=917,
+63% of otherwise eligible subjects). For
+somepatients,dataonperceivedprogno-
+sis were not available because they were
+cognitively impaired, intubated, or oth-
+erwise too ill to participate in the inter-
+view. All analyses involving patient esti-
+mates of prognoses were performed on 2
+data sets. The first data set included only
+those patients who provided an estimate
+of the probability of their being alive at 6
+months (n=546). In the second data set
+(n=917), when patient estimates were
+missing but a surrogate estimate of the
+probabilityofbeingaliveat6monthswas
+available, this value, adjusted in accor-
+dance with the observed relationship be-
+tweensurrogateandpatientestimatesin
+the group for whom both variables were
+present, was used to replace missing val-
+ues (n=271). When a surrogate estimate
+of the probability of the patient's being
+alive at 6 months was not available, the
+patient'sestimateoftheprobabilityofthe
+patient's being alive at 2 months, cubed,
+was used in place of the missing value
+(n=33). (The 6-month probability of be-
+ing alive would equal the cube of the 2-
+monthprobabilityofbeingaliveifthehaz-
+ard function were constant.) For the re-
+maining patients used in this analysis,
+onlyasurrogateestimateoftheprobabil-
+ity of being alive at 2 months was avail-
+able, and this value cubed was used in
+place of the missing value (n=67). There
+were no meaningful differences between
+the 2 data sets in any of the analyses;
+therefore, only the results from the sec-
+ond data set are reported here.
+RESULTS
+Patient Characteristics
+The characteristics of all eligible sub-
+jects are shown in Table 1. The average
+age of study patients was 62 years. Most
+(84%) were white, and 62% were male.
+Thirty-nine percent of the patients had
+metastatic colon cancer and 61% had
+lung cancer, most of which were stage
+IV. At 6 months of follow-up, 500 (55%)
+of the 917 patients had died. Character-
+istics of patients not included in the
+analysis because data on their 6-month
+survival estimates were not available
+proved to be similar to study patients
+exceptthatahigherproportionhadnon­
+small cell lung cancer and their 6-month
+survival was poorer. These patients also
+had slightly lower incomes, fewer years
+of education, and poorer scores on qual-
+ity-of-life and ADL scales. Characteris-
+tics of patients for whom data on pref-
+erences for life-extending therapy were
+missing (34%) were similar to patients
+forwhomthisinformationwasavailable,
+although they were also more likely to
+have non­small cell lung cancer, their
+mean age was 1 year higher, and they
+had slightly poorer 6-month survival,
+lower incomes, and poorer scores on
+quality-of-life and ADL scales.
+Preferences
+The distribution of patient 6-month
+survival estimates and their prefer-
+ences for life-extending therapy and ac-
+tual survival stratified by their prognos-
+tic estimates are shown in Table 2.
+Because there were relatively few pa-
+tients in each category below 75%, pa-
+tient-estimated prognosis at 6 months
+was treated as a dichotomous variable
+(90% vs 90%) in analyses of the rela-
+tionship between survival estimates and
+preference for life-extending therapy
+Table 1.--Characteristics of Study Patients*
+Characteristics
+Patients, No. (%)
+Included
+in Analysis
+(n = 917)
+Excluded: No Prognostic
+Estimate Available
+(n = 542)
+Mean age, y 62 63
+Race
+White 771 (84) 451 (83)
+Black 100 (11) 67 (12)
+Hispanic 23 (3) 9 (2)
+Other 23 (3) 10 (2)
+Unavailable 0 (0) 5 (1)
+Male 567 (62) 312 (58)
+Insurance
+Private 420 (46) 242 (45)
+Medicare 388 (42) 237 (44)
+Medicaid/none 109 (12) 63 (12)
+Annual income
+$11 000 302 (33) 320 (59)
+$11 000-$24 999 224 (24) 89 (16)
+$25 000-$50 000 222 (24) 93 (17)
+$50 000 169 (18) 40 (7)
+Mean years of education 12.4 11.9
+Disease type
+Colon cancer metastatic to liver 362 (39) 158 (29)
+Non­small cell lung cancer 555 (61) 384 (71)
+Stage IIIA 38 (7) 24 (6)
+Stage IIIB 59 (11) 47 (12)
+Stage IV 397 (72) 278 (72)
+Stage unavailable 61 (11) 35 (9)
+Duration of cancer diagnosis, mo
+6 months 452 (49) 281 (52)
+6 months 415 (45) 233 (43)
+Unavailable 50 (5) 28 (5)
+Mean quality-of-life score* 3.35 3.78
+Mean No. of activities of daily living impairments 1.1 1.8
+Alive at 6 mo 417 (45) 207 (38)
+*Data are presented as number (percent) of patients unless otherwise indicated.
+P.05.
+On a scale from 1 to 5, where 1 is excellent and 5 is poor.
+JAMA, June 3, 1998--Vol 279, No. 21 Perceived Prognosis and Treatment Preference--Weeks et al 1711
+©1998 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ on 05/23/2014
+(Table 3). In unadjusted analyses, the
+patients who estimated their probability
+of being alive at 6 months to be 90% or
+better were more likely to favor life-
+extending therapy (odds ratio [OR], 2.6;
+95% confidence interval [CI], 1.8-3.7)
+(Table3).TheORforthiscomparisonwas
+unchanged in logistic regression models
+that examined the need to adjust for age,
+sex, race, education, income, insurance,
+disease site and stage, time since diagno-
+sis,functionalstatus,andglobalqualityof
+life (Hosmer-Lemeshow P=.54 for final
+model).Astatisticallysignificantrelation-
+ship between patient-prognostic esti-
+matesandtreatmentpreferenceswasob-
+served in both phase 1 and phase 2. In
+addition, no significant difference in pa-
+tientpreferenceorintherelationshipbe-
+tween patient-prognostic estimates and
+preference was observed between inter-
+vention and control patients in phase 2.
+Stratification of patients by physician
+estimate of survival demonstrated that
+therelationshipbetweenperceivedprog-
+nosis and desire for life-extending
+therapy was particularly strong among
+patientswhosephysiciansbelievedthem
+to have a poor prognosis. For example,
+among patients whose physicians esti-
+mated a less than 10% probability of 6-
+month survival, the odds of patients who
+thought they had a 90% probability of 6-
+month survival choosing life-extending
+therapywere8.5timeshigherthanthose
+of patients in this category who thought
+theyhadlessthan90%probabilityofsur-
+viving 6 months (Table 3). The progres-
+sive increase in the OR for the relation-
+ship of self-perceived prognosis to desire
+for life-extending therapy with declin-
+ing physician estimates of the probabil-
+ity of 6-month survival was statistically
+significant (P=.02).
+Comparison of Patient and
+Physician Estimates of Survival
+Patients were substantially more op-
+timisticabouttheirprognosesthantheir
+physicians were (-b = 0.29) (Table 4). In
+82% of physician-patient pairs, the pa-
+tients' estimate of their chance of living
+6 months was higher than the physi-
+cians'; in 59%, the patient estimate ex-
+ceededthephysicianestimateby2prog-
+nostic categories or more.
+Patient- and Physician-Prognostic
+Estimate Accuracy Comparison
+The percentage of patients actually
+surviving 6 months or more within each
+physician- and patient-prognostic cat-
+egory is shown in Table 5. Although pa-
+tients who believed they had at least a
+90% probability of surviving 6 months
+lived longer than patients who were less
+optimistic about their prognoses (Table
+5), physician estimates were better cali-
+brated than those of patients. The dis-
+crimination of physician and patient es-
+timates of the probability of surviving 6
+months were compared with ROC
+curves. Using this technique, physician
+estimates of survival were significantly
+more accurate than patient estimates,
+with ROC curve areas of 0.78 and 0.66,
+respectively (P.0001).
+Life-Extending Therapy
+Preference and Outcomes
+The relationship between patient
+treatment preference and the occur-
+renceofadverseeventsisshowninTable
+6.Patientswhopreferredlife-extending
+therapy were 1.6 (95% CI, 1.04-2.39)
+times more likely to experience a read-
+mission to the hospital, an attempted re-
+suscitation, or death while receiving
+ventilatory assistance (42/146 [29%])
+than patients who preferred therapy di-
+rected at pain relief (29/159 [18%])
+(P=.03). In bivariable analysis, patients
+who preferred life-extending therapy
+were more likely to be alive at 6 months
+(P=.005). However, in a logistic regres-
+sion model that controlled for age, race,
+sex, education, income, insurance sta-
+tus, site and stage of disease, functional
+status, overall quality of life, and physi-
+cian-prognostic estimates, there was no
+statistically significant difference in 6-
+month survival between those who fa-
+vored life-extending therapy and those
+who did not (Hosmer-Lemeshow P=.17
+for final model).
+COMMENT
+In a large cohort of terminally ill can-
+cer patients, we found that how patients
+estimated their prognoses influenced
+their treatment preferences. Specifi-
+cally, patients who believed that they
+would survive for at least 6 months fa-
+vored life-extending therapy over com-
+fort care at more than double the rate of
+those who believed that there was at
+leastasmallchance(aslittleas10%)that
+they would not live 6 months. This asso-
+ciationwasmostmarkedinpatientswho
+were optimistic about their probability
+of surviving 6 months despite physician
+estimates to the contrary. In addition,
+we found that patients greatly overesti-
+mated their chances of surviving 6
+months, while physician-prognostic es-
+timates were more accurate. Finally, we
+found that patients who expressed a
+preference for life-extending therapy
+were more likely to undergo aggressive
+treatment, but controlling for known
+prognostic factors, their 6-month sur-
+vival was no better.
+This study confirms the findings of a
+number of smaller case series showing
+thatcancerpatientstendtooverestimate
+their prognoses.2-6 But it is the first to
+demonstrate that patients' beliefs about
+their prognoses are associated with their
+Table 2.--Patient Treatment Preferences and Survival by Their 6-Month Survival Estimates (n = 917)
+Patient Estimate
+of Chances for
+6-mo Survival, %
+No. of Patients
+(% of Total)
+Proportion of Patients Favoring
+Life-extending Therapy*
+(% of Row)
+No. of Patients
+Alive at 6 mo
+(% of Row)
+90 543 (59) 198/390 (51) 314/543 (58)
+75 238 (26) 37/128 (29) 74/238 (31)
+50 96 (11) 16/56 (29) 20/96 (21)
+25 18 (2) 4/13 (31) 6/18 (33)
+10 22 (2) 4/19 (21) 3/22 (14)
+*Preference for life-extending therapy data were missing from 311 patients.
+Table 3.--Relationship Between Patients' Estimates of Their 6-Month Survival and Their Preference for
+Life-Extending Therapy*
+Physician Estimate
+of Chances for
+6-mo Survival, %
+Patient Estimate
+of Chances for
+6-mo Survival, %
+Proportion of Patients
+Favoring Life-Extending
+Therapy
+Odds Ratio
+(95% CI)
+90 90 20/36
+0.83 (0.12-5.6)
+90 3/5
+61-89 90 34/66
+2.6 (0.81-8.0)
+90 5/17
+40-60 90 58/130
+1.7 (0.90-3.2)
+90 21/65
+11-39 90 31/54
+3.5 (1.6-7.8)
+90 15/54
+10 90 23/38
+8.5 (3.0-24.0)
+90 7/46
+Total 90 198/390
+2.6 (1.8-3.7)
+90 61/216
+*Of the 917 patients in the analytic sample, 311 had missing data on preference for life-extending therapy, and
+95 additional patients had missing data for physician estimate of 6-month survival; therefore, these patients are not
+included in rows 1-5 and the "n" for these rows is 511 (917 - 311 - 95). Because the "Total" row is not stratified by
+physician estimate of survival, these 95 patients are included in that row, resulting in an "n" of 606 (511 + 95).
+The increase in odds ratio with decreasing physician estimate of 6-month survival is statistically significant
+(P = .02). CI indicates confidence interval.
+1712 JAMA, June 3, 1998--Vol 279, No. 21 Perceived Prognosis and Treatment Preference--Weeks et al
+©1998 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ on 05/23/2014
+overalltreatmentpreferences.Oneofthe
+justifications that has been offered for
+withholdingprognosticinformationfrom
+patients with a terminal disease is that,
+while promoting quality of life by main-
+taining hope, it will have little effect on
+medical choices.22 Our findings suggest
+thatthemostfundamentalmedicalchoice
+patients with incurable cancer face--the
+decision between life-extending therapy
+and comfort care--may be highly influ-
+enced by their understanding of their
+prognoses. These results are consistent
+withtheempiricdatademonstratingthat
+patient preferences about resuscitation
+dependonthenatureoftheexpectedout-
+comes.23-28 Ourfindingstakethisworkone
+step further by showing that a patient's
+preference about overall therapy goals is
+also associated with his or her perceived
+prognosis.
+Whataretheimplicationsofthisstudy
+for patient care? One possible interpre-
+tation of the findings is that enhanced
+communicationfromphysiciantopatient
+about prognosis could help patients
+make better-informed treatment deci-
+sions that are more consonant with their
+values. The observed relationship be-
+tween patient preferences for life-ex-
+tending therapy and their likelihood of
+experiencing aggressive therapy and
+adverse events suggests that this com-
+munication might also diminish patient
+suffering at the end of life. Our data sug-
+gest that these efforts might be particu-
+larly helpful in patients with poorer
+prognoses. Most importantly, we found
+that it is not necessary for patients to
+have a precise understanding of their
+prognoses to alter their treatment pref-
+erences. Study patients who simply un-
+derstood that there was at least a 10%
+probability that they might not survive
+6monthsexpressedsubstantiallydiffer-
+ent treatment preferences from those
+whodidnot.Thissuggeststhatitmaybe
+quite possible both to maintain patient
+hope and to provide sufficient prognos-
+tic information so that patients would be
+abletomaketreatmentdecisionsconsis-
+tent with their underlying values.29,30
+One important lesson from phase 2 of
+SUPPORT is that an understanding of
+the sources of patients' beliefs, and pref-
+erences, and of the processes by which
+they arrive at decisions about their care
+may be critical to designing interven-
+tions that are effective in changing end-
+of-life patterns of care and communica-
+tion. Although our data provide compel-
+ling evidence that the cancer patients
+participating in this study did not have
+anaccurateunderstandingoftheirprog-
+noses,datawerenotcollectedthatwould
+allow us to identify what was driving
+these estimates. In particular, we do not
+know what sources of prognostic infor-
+mation patients used, how and whether
+physicians provided accurate prognos-
+tic estimates to patients, and why pa-
+tients did not understand them or chose
+not to believe them. Analysis of the ac-
+curacy of patient-prognostic estimates
+in the SUPPORT cohort as a whole
+showed no association with study site,
+disease category, or whether patients
+were in the intensive care unit.31 This
+suggests that there may be pervasive
+and fundamental barriers to effective
+communication about prognosis among
+seriouslyillpatientsthatshouldbemore
+fully investigated if effective interven-
+tionstoaddressthemaretobedesigned.
+Our findings with respect to influence
+of patient-prognostic estimates on their
+treatment preferences, and, in turn, of
+those preferences on actual patterns of
+care, highlight the critical importance
+of gaining a better understanding of the
+sources of these estimates.
+Severallimitationsofthisstudydesign
+should be noted. First, because data on
+patient- or surrogate-perceived progno-
+sis were available for only 63% of other-
+wise eligible study subjects, the results
+may not be generalizable to all patients
+with these incurable solid tumors. And
+although the patients for whom data on
+perceived prognosis or treatment pref-
+erence were missing resembled those
+with complete data with respect to most
+sociodemographic and clinical variables,
+these patients did have slightly lower in-
+comes, quality-of-life scores and ADL,
+and a higher proportion had lung cancer
+and died within 6 months of study enroll-
+ment. Questions asked of the terminally
+ill patients in this study are difficult ones
+and, despite considerable investment in
+study procedures designed to minimize
+missing data, response rates were not
+ideal.Weattemptedtoaddressthisprob-
+lem by including subjects for whom only
+surrogates' estimates of prognoses were
+available, and it was reassuring to find
+that this did not alter any of the findings
+of the study. But it is important to recog-
+nize that our results describe the beliefs
+and preferences of only those patients
+who were willing to share their views
+with the study team and should not be
+generalized to the entire population.
+Generalizability is also limited by the
+fact that all patients participating in this
+studywerehospitalizedfortreatmentof
+their disease or disease-related compli-
+cations at an academic medical center.
+The characteristics of hospitalized pa-
+tients may differ in systematic ways
+from those of ambulatory patients. Fur-
+thermore, patients opting for care in an
+academic setting may be especially in-
+terested in obtaining state-of-the-art or
+aggressive therapy. Future studies in
+different settings would be valuable in
+elucidatingtheinfluenceofthesefactors
+on the relationship between patient per-
+ceptionofprognosisandtreatmentpref-
+erences.
+Finally, and most importantly, dem-
+onstration of an association between
+self-perceived prognosis and treatment
+preference does not prove a causal rela-
+Table 4.--Comparison of Patient and Physician Estimates of 6-month Survival (N = 776)*
+Physician Estimate
+of Chances for
+6-mo Survival, %
+Patient Estimate of Chances for 6-mo Survival, %
+Total
+90 75 50 25 10
+90 49 5 1 2 1 58
+61-89 94 25 1 1 1 122
+40-60 178 60 25 6 3 272
+11-39 78 55 23 5 5 166
+10 55 62 31 3 7 158
+Total 454 207 81 17 17 776
+*Of the 917 patients in the analytic sample, 141 had missing data on physician estimate of 6-month survival,
+resulting in an "n" for this table of 776 (917-141).
+Table 5.--Percentage of Patients Surviving 6
+Months or More by Patients' and Physicians' Esti-
+mates of 6-Month Survival Probabilities (N = 776)*
+Estimated
+Probability of
+6-mo Survival, %
+Proportion (%)
+of Patients
+Surviving at 6 mo
+Patients
+90 260/454 (57)
+75 65/207 (31)
+50 16/81 (20)
+25 5/17 (30)
+10 1/17 (6)
+Physicians
+90 41/58 (71)
+61-89 103/122 (84)
+40-60 146/272 (54)
+11-39 40/166 (24)
+10 17/158 (11)
+*Of the 917 patients in the analytic sample, 141 had
+missing data on physician estimate of 6-month survival,
+resulting in an "n" for this table of 776 (917 - 141).
+Table 6.--Relationship Between Patient Treatment
+Preference and the Occurrence of Adverse Events
+(Phase 2 Patients Only)*
+No. (Row %)
+Total
+No Adverse
+Event
+Adverse
+Event
+Extend life 104 (71) 42 (29) 146 (48)
+Relieve pain 130 (82) 29 (18) 159 (52)
+Total 234 (77) 71 (23) 305 (100)
+*There were 169 patients with missing data on treat-
+ment preference.
+Adverse events are defined as a readmission to the
+study hospital of at least 72 hours, 1 or more resusci-
+tation attempts, or death while receiving ventilator
+assistance.
+JAMA, June 3, 1998--Vol 279, No. 21 Perceived Prognosis and Treatment Preference--Weeks et al 1713
+©1998 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ on 05/23/2014
+tionship.Itispossiblethatthesameper-
+sonality traits or coping strategies that
+lead certain patients to cling to overly
+optimistic views of their prognoses may
+also lead those patients to opt for life-
+extending therapy. Although our multi-
+variable analysis suggests that the as-
+sociation between self-perceived prog-
+nosis and treatment preference is not
+explained by sociodemographic, clinical,
+or quality-of-life variables, this does not
+prove causation.
+The real value of this observational
+study is not that it provides definitive
+proof that improving cancer patients'
+understanding of their prognoses would
+enable them to make better decisions
+about their treatment. Rather, it is im-
+portant preliminary evidence that could
+be used to justify an intervention study
+to examine the issue. The potential costs
+ofeffectivelyeducatingincurablecancer
+patients about their prognoses might in-
+clude the loss of hope and associated del-
+eterious effect on quality of life. How-
+ever,ourdatasuggestthattheremaybe
+realbenefitsaswell,includingtreatment
+choicesthataremoreconsonantwithpa-
+tient preferences, which could lead to a
+diminisheddemandforaggressive,toxic
+interventions driven by unrealistic ex-
+pectations. Furthermore, our findings
+indicate that physicians may be able to
+provide prognostic data that are suffi-
+ciently accurate to achieve these ben-
+efits.
+The results of the phase 2 SUPPORT
+intervention trial demonstrated that
+providingprognosticinformationtophy-
+sicians was not effective in changing the
+patterns of care of the seriously ill.15 The
+results of this analysis suggest that to
+achieve the goals of making care at the
+end of life consistent with patient values
+and minimizing futile therapy, we may
+need to change what physicians tell pa-
+tients about their prognoses and be sure
+that patients hear and understand what
+their physicians have said. Meticulous
+carewouldberequiredtodesignanethi-
+cal and informative study of the impact
+educatingcancerpatientsaboutprogno-
+sis has on a variety of outcomes. The po-
+tential benefit of such findings to pa-
+tients, their families, and society could
+be substantial.
+This study was supported by the Robert Wood
+Johnson Foundation and the American Society of
+Clinical Oncology.
+References
+1. Steele GD. The National Cancer Data Base report
+on colorectal cancer. Cancer. 1994;74:1979-1989.
+2. Siminoff LA, Fetting JH, Abeloff MD. Doctor-
+patient communication about breast cancer adju-
+vant therapy. J Clin Oncol. 1989;7:1192-1200.
+3. Bernheim JL, Ledure G, Souris M, Razav D. Dif-
+ferences in perception of disease and treatment be-
+tween cancer patients and their physicians. Monogr
+Ser Eur Organ Res Treatment Cancer. 1987;17:285-
+295.
+4. Pronzato P, Bertelli G, Losardo P, Landucci M.
+What do advanced cancer patients know of their
+disease? a report from Italy. Support Care Cancer.
+1994;2:242-244.
+5. Eidinger RN, Schapira DV. Cancer patients' in-
+sight into their treatment, prognosis and unconven-
+tional therapies. Cancer. 1984;53:2736-2740.
+6. Yellen SB, Cella DF. Ignorance is bliss? beliefs
+about illness and perception of well-being. In: Pro-
+gram and abstracts of the Fourth International So-
+ciety of Behavioral Medicine; March 13-16, 1996;
+Washington, DC. Abstract 45B.
+7. Forrow L, Wartman SA, Brock DW. Science,
+ethics, and the making of clinical decisions: implica-
+tions for risk factor intervention. JAMA. 1988;259:
+3161-3167.
+8. Wanzer SH, Federman DD, Adelstein JS, et al.
+The physician's responsibility toward hopelessly ill
+patients: a second look. N Engl J Med. 1989;320:844-
+849.
+9. Singer PA, Choudhry S, Armstrong J, et al. Pub-
+lic opinion regarding end-of-life decisions: influence
+ofprognosis,practiceandprocess.SocSciMed.1995;
+41:1517-1521.
+10. Mezey M, Kluger M, Maislin G, Mittelman M.
+Life-sustaining treatment decisions by spouses of
+patients with Alzheimer's disease. J Am Geriatr
+Soc. 1996;22:144-150.
+11. Singer PA, Tasch ES, Stocking C, et al. Sex or
+survival: trade-offs between quality and quantity of
+life. J Clin Oncol. 1991;9:328-334.
+12. Slevin ML, Stubbe L, Plant HJ, et al. Attitudes
+to chemotherapy: comparing views of patients with
+cancer with those of doctors, nurses and the general
+public. BMJ. 1990;300:1458-1460.
+13. McQuellon RP, Muss HB, Hoffman SL, et al.
+Patient preferences for treatment of metastatic
+breast cancer: a study of women with early-stage
+breast cancer. J Clin Oncol. 1995;13:858-868.
+14. MurphyDJ,CluffLE,eds.SUPPORT:Studyto
+Understand Prognoses for Outcomes and Risks of
+Treatments, study design. J Clin Epidemiol. 1990;
+43(suppl): 1S-108S.
+15. The SUPPORT Principal Investigators. A con-
+trolled trial to improve care for seriously ill hospi-
+talized patients. JAMA. 1995;274:1591-1598.
+16. Katz S, Ford AB, Moskowitz RW, Jackson BA,
+Jaffe MW. Studies of illness in the aged, the index of
+ADL: a standardized measure of biological and psy-
+chosocial function. JAMA. 1963;185:914-919.
+17. Katz S, Apkom CA. A measure of primary so-
+ciobiological functions. Int J Health Serv. 1976;6:
+493-507.
+18. HosmerDW,LemeshowS.AppliedLogisticRe-
+gression. New York, NY: John Wiley & Sons Inc;
+1989.
+19. Hanley JA, McNeil BJ. The meaning and use of
+a receiver operating characteristic (ROC) curve.
+Radiology. 1982;143:29-36.
+20. Goodman LA, Kruskal WH. Measures of asso-
+ciationforcross-classificationI,II,IIIandIV.JAm
+Stat Assoc. 1972;67:415-421.
+21. Phillips RS, Hamel MB, Teno JM, et al. Race,
+resource use and survival in seriously ill hospital-
+ized adults. J Gen Intern Med. 1996;11:387-396.
+22. MiyajiNT.Thepowerofcompassion:truth-tell-
+ing among American doctors in the care of dying
+patients. Soc Sci Med. 1993;36:249-264.
+23. Schneiderman LJ, Kronick R, Kaplan RM,
+Anderson JP, Langer RD. Effects of offering ad-
+vance directives on medical treatments and costs.
+Ann Intern Med 1992;117:599-606.
+24. Seckler AB, Meier DE, Mulvihill M, Paris BEC.
+Substituted judgment: how accurate are proxy pre-
+dictions? Ann Intern Med. 1991;115:92-98.
+25. Shmerling RH, Bedell SE, Lilienfeld A, Del-
+banco TL. Discussing cardiopulmonary resuscita-
+tion: a study of elderly outpatients. J Gen Intern
+Med. 1988;3:317-321.
+26. Danis M, Southerland LI, Garrett JM, et al. A
+prospective study of advance directives for life-sus-
+taining care. N Engl J Med. 1991;324:882-888.
+27. Emanuel LL, Barry MJ, Stoeckle JD, et al. Ad-
+vance directives for medical care: a case for greater
+use. N Engl J Med. 1991;324:889-895.
+28. Murphy DJ, Burrows D, Santilli S, Kemp AW,
+Tenner S, Kreling B. The influence of the probabil-
+ity of survival on patients' preferences regarding
+cardiopulmonaryresuscitation.NEnglJMed.1994;
+330:545-549.
+29. Miyaji NT. Informed consent, cancer and truth
+in prognosis. N Engl J Med. 1994;331:810.
+30. Holcombe RF. Informed consent, cancer and
+truth in prognosis. N Engl J Med. 1994;331:811.
+31. Dawson NV, Arkee H, Conners AP, et al. Phy-
+sician-patient discussion does not increase agree-
+ment about prognosis in severely ill patients. J Gen
+Intern Med. 1995;10(suppl 4):41.
+1714 JAMA, June 3, 1998--Vol 279, No. 21 Perceived Prognosis and Treatment Preference--Weeks et al
+©1998 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ on 05/23/2014
+phylactic mastectomy should be performed (FIGURE). Re-
+spondents' answers were not correlated with women's age
+at the time of the survey, their disease status, or their ge-
+netic risk. In contrast, the age at which surgery hypotheti-
+cally would be scheduled was strongly associated with the
+acceptability of prophylactic mastectomy. Only 4.7% (22)
+of patients and 10.9% (76) of physicians found the surgical
+intervention acceptable in women younger than age 35 years.
+Comment. Although prophylactic mastectomy may pro-
+long life in women with a BRCA1 or BRCA2 mutation who
+accept the intervention, if the intervention is unacceptable
+to most women, particularly when suggested to women
+younger than 35 years, the age at which the benefit is ex-
+pected to be the highest, prophylactic mastectomy is un-
+likely to have a substantial impact. The convergence of pa-
+tientaversion,physicianreluctance,andcautiousinstitutional
+guidelines4 will likely make prophylactic mastectomy a rarely
+performed procedure in France, even if other populations
+may find this strategy more acceptable.4-6
+Francois Eisinger, MD
+Claire Julian-Reynier, MD
+Hagay Sobol, MD
+INSERM
+Marseille, France
+Dominique Stoppa-Lyonnet, MD
+Curie Institute
+Paris, France
+Christine Lasset, MD
+Leon Berard Centre
+Lyon, France
+Catherine Nogues, MD
+Rene Huguenin Centre
+Saint-Cloud, France
+Funding/Support: This study was funded by the National Institute for Health and
+Medical Research (INSERM decision No. 4M612C, by the Association for Cancer
+Research (ARC) and by the National Coalition Against MD Cancer (LNCC) and its
+Local Committee (Bouches du Rhone)
+Acknowledgment: We thank the patients and physicians and Philippe Vermin, MD,
+H. Mignotte, MD, and Franc
+¸oise Chabal, RN, for their valuable contribution to
+this work (data collection).
+1. Claus EB, Schildkraut JM, Thompson JM, Risch NJ. The genetic attributable risk
+of breast and ovarian cancer. Cancer. 1996;77:2318-2324.
+2. Hartmann LC, Schaid DJ, Woods JE, et al. Efficacy of bilateral prophylactic mas-
+tectomy in women with a family history of breast cancer. N Engl J Med. 1999;
+340:77-84.
+3. Easton DF, Ford D, Bishop DT, and the Breast Cancer Linkage Consortium. Breast
+and ovarian cancer incidence in BRCA1-mutation carriers. Am J Hum Genet. 1995;
+56:265-271.
+4. Eisinger F, Geller G, Burke W, Holtzman N. Cultural basis for differences be-
+tween US and French clinical recommendations for women at increased risk of
+breast and ovarian cancer. Lancet. 1999;353:919-920.
+5. Meijers-Heijboert EJ, van Geel AN, Seynaeve C, et al. Uptake presymptomatic
+DNA test and preventive measures in families with inherited breast and/or ovar-
+ian cancer. Am J Hum Genet. 1997;61(suppl):A403.
+6. Geller G, Bernhardt BA, Doksum T, Helzlsouer KJ, Wilcox P, Holtzman NA. De-
+cision-making about breast cancer susceptibility testing: how similar are the atti-
+tudes of physicians, nurse practitioners, and at-risk women? J Clin Oncol. 1998;
+16:2868-2876.
+CORRECTION
+Incorrect Wording: In the Original Contribution entitled "Relationship Between
+Cancer Patients' Predictions of Prognosis and Their Treatment Preferences," pub-
+lished in the June 3, 1998, issue of THE JOURNAL (1998;279:1709-1714), there was
+incorrect wording in a table. On page 1712, in Table 2, in the first row under the
+column "Proportion of Patients Favoring Life-Extending Therapy" the numbers
+that read "148/390" should have read "198/390." In the third row, under the
+column "Proportion of Patients Favoring Life-Extending Therapy" "16/50" should
+have read "16/56."
+Figure. Acceptability Reported by Patients and Computed
+Effectiveness of Prophylactic Mastectomy by Age at Surgery
+<35 35-40 41-50 >50
+Age at Which Prophylactic Mastectomy
+Is Hypothetically Scheduled, y
+100
+90
+81
+Effectiveness
+Acceptability
+73
+44
+4.7 6.6
+11.6
+20.3
+80
+60
+40
+20
+0
+Rate, %
+The acceptability of prophylactic mastectomy to women potentially at risk was
+assessed prior to the first cancer genetic consultation. We plotted the rate at which
+women and physicians said surgery would be acceptable according to age at which
+the intervention is hypothetically scheduled. Effectiveness (Ef) of the strategy was
+computed using the following formula: Ef = C (Dfw), where Dfw is the propor-
+tion of cancer-prone women still disease free who accept prophylactic mastec-
+tomy at a given age based on Breast Cancer Linkage Consortium penetrance data,3
+and C is the efficacy of the intervention (90%) as given by Hartmann et al.2
+LETTERS
+©2000 American Medical Association. All rights reserved. JAMA, January 12, 2000--Vol 283, No. 2 203
+Downloaded From: http://jama.jamanetwork.com/ on 05/23/2014
+

@@ -1,0 +1,1872 @@
+Discussion Paper
+Deutsche Bundesbank
+No 08/2015
+Securities trading by banks
+and credit supply: micro-evidence
+Puriya Abbassi
+(Deutsche Bundesbank)
+Rajkamal Iyer
+(Massachusetts Institute of Technology)
+José-Luis Peydró
+(ICREA-Universitat Pompeu Fabra, Cass Business School, CREI, Barcelona GSE and CEPR)
+Francesc R. Tous
+(Unversitat Pompeu Fabra, Barcelona and Deutsche Bundesbank)
+Discussion Papers represent the authors` personal opinions and do not
+necessarily reflect the views of the Deutsche Bundesbank or its staff.
+Editorial Board: Daniel Foos
+Thomas Kick
+Jochen Mankart
+Christoph Memmel
+Panagiota Tzamourani
+Deutsche Bundesbank, Wilhelm-Epstein-Straße 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-0
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978­3­95729­1­ (Printversion)
+ISBN 978­3­95729­­ (Internetversion)
+Non-technical summary
+Research question
+The role of securities trading by banks has assumed significant importance in the modern
+financial system. Commercial banks today hold a significant amount of securities in their asset portfolio.
+In the aftermath of the recent financial crisis, there is considerable debate both in academic and policy
+circles about the implications of security trading by banks' for credit supply and securities markets. A
+recurrent argument has been that securities trading activities by banks in the crisis have led to a reduction
+in credit supply. Moreover, there have been several policy initiatives to impose some restrictions on
+banks' trading activities as there are claims that weak banks take excessive risk through securities trading
+(Volcker rule in USA, the Liikanen Report in the European Union and the Vickers Report in the UK).
+However, empirical analysis is scant due to the lack of comprehensive micro datasets.
+Contribution
+In this paper, we empirically analyze securities trading by banks, and the associated spillovers to
+the supply of credit to the real sector. We use the German securities' register that contains information on
+investments made by German banks at the security level as well as the German credit register with
+information on the credit given by German banks to each firm. The main testable hypothesis, which we
+examine is that banks with trading expertise will increase their investments in securities during the crisis,
+especially in those securities that had a (larger) drop in price, to profit from the trading opportunities,
+thereby withdrawing funds from lending.
+Results
+We find that, during the crisis, banks with trading expertise increase their overall investments in
+securities, especially in those that had a larger price drop. The quantitative effects are largest for trading
+banks with higher capital and in securities with lower rating and longer maturity. In fact, there are no
+differential effects for triple-A securities. Moreover, banks with trading expertise reduce their overall
+supply of credit in crisis times ­ i.e., for the same borrower at the same time, trading banks reduce lending
+relative to other banks. The credit reduction is stronger for trading banks with higher capital and is
+binding at the firm level. All these differential effects for trading banks are not present outside the crisis
+period. The use of detailed micro data allows us to control for a number of characteristics that deal with
+several other interpretations, which makes our results robust. Our results suggest that during a crisis,
+security-trading activities can crowd out lending. However, at the same time, we also find that banks buy
+securities that have a larger drop in price, especially in long-term and low rated securities, in turn acting
+as risk absorbers.
+Nichttechnische Zusammenfassung
+Forschungsfrage
+Die Rolle des Wertpapierhandels der Banken hat in dem modernen Finanzsystem an Bedeutung gewonnen.
+Die Geschäftsbanken halten heute eine erhebliche Menge an Wertpapieren in ihrem Anlagebestand. Nach der
+jüngsten Finanzkrise entstand sowohl in akademischen als auch in politischen Kreisen eine tiefgreifende Debatte
+darüber, wie der Wertpapierhandel der Banken auf deren Kreditvergabe und die Wertpapiermärkte wirken würde.
+Hierbei wurde stets argumentiert, dass die Wertpapierhandelsaktivitäten der Banken zu einer Verringerung der
+Kreditversorgung in der Krise geführt haben. Darüber hinaus gab es mehrere Initiativen, die Handelsaktivitäten der
+Banken einzuschränken, da vermutet wurde, dass gerade schwache Banken durch den Wertpapierhandel geneigt
+sein könnten, übermäßige Risiken einzugehen (Volcker-Regel in den USA, der Liikanen-Bericht in der
+Europäischen Union und der Vickers-Bericht in Großbritannien). Evidenzbasierte Studien hierzu sind allerdings
+aufgrund mangelnder umfassender Mikrodatensätze kaum vorhanden.
+Beitrag
+In diesem Papier untersuchen wir empirisch den Wertpapierhandel der Banken und analysieren die damit
+verbundenen Konsequenzen für die Kreditvergabe an die Realwirtschaft. Wir nutzen dazu die Statistik über
+Wertpapierinvestments, die Informationen über Investitionen deutscher Banken auf Wertpapierebene ausweist,
+sowie das deutsche Kreditregister (MiMiK), das Informationen über die Kreditvergabe deutscher Banken an
+Unternehmen widerspiegelt. Unsere zugrundeliegende Hypothese lautet, dass Banken mit eingehender Erfahrung im
+Handelsgeschäft in der Krise vor allem in Wertpapiere investieren, deren Kurse überdurchschnittlich gefallen sind,
+um von möglichen Werterholungen zu profitieren, und dabei ihre Kreditvergabe reduzieren.
+Ergebnisse
+Unsere Ergebnisse zeigen, dass während der Krise Banken mit eingehender Handelserfahrung ihre
+Wertpapierinvestitionen insgesamt erhöhen, vor allem aber ihre Anlagen in Wertpapieren, für die ein größerer
+Preisrückgang zu beobachten war. Diese Ergebnisse scheinen quantitativ besonders stark für die Banken mit
+eingehender Handelserfahrung zu sein. Weiterhin scheinen Wertpapiere mit niedrigerem Rating und längerer
+Laufzeit bei diesem Ergebnis im Vordergrund zu stehen, denn wir finden keine Effekte für Triple-A bewertete
+Wertpapiere. Darüber hinaus beobachten wir für Banken mit eingehender Handelserfahrung eine Reduktion ihrer
+aggregrierten Kreditvergabe in der Krisenperiode ­ d.h. für den gleichen Kreditnehmer zum gleichen Zeitpunkt
+reduzieren Banken mit eingehender Handelserfahrung ihre Kredite mehr als andere Banken. Hier finden wir
+ebenfalls, dass der Rückgang der Kreditvergabe insbesondere bei Banken mit eingehender Handelserfahrung und
+erhöhter Kapitalausstattung vorliegt und diese auf Unternehmensebene bindend sind. Diese Ergebnisse für
+handelserfahrene Banken werden nicht außerhalb der Krisenzeit beobachtet. Unsere robusten Ergebnisse legen nahe,
+dass in der Krise Wertpapierinvestmentaktivitäten die Kreditvergabe `verdrängen' (`crowding out'). Jedoch muss
+auch festgestellt werden, dass diese Banken mit dem Kauf langlaufender Wertpapiere oder solcher mit niedriger
+Bonität oder solcher, die zuvor im Kurs gefallen sind, dämpfend auf die Märkte wirken.
+Securities Trading by Banks and Credit Supply: Micro-Evidence
+Puriya Abbassi Rajkamal Iyer José-Luis Peydró Francesc R. Tous*
+Abstract
+We analyze securities trading by banks and the associated spillovers to the supply of credit.
+Empirical analysis has been elusive due to the lack of securities register for banks. We use
+a unique, proprietary dataset that has the investments of banks at the security level for
+2005-2012 in conjunction with the credit register from Germany. Analyzing data at the
+security level for each bank in each period, we find that during the crisis, banks with higher
+trading expertise increase their overall investments in securities, especially in those that had
+a larger price drop. The quantitative effects are largest for trading-expertise banks with
+higher capital and in securities with lower rating and long-term maturity. In fact, there are
+no differential effects for triple-A rated securities. Moreover, banks with higher trading
+expertise reduce their overall supply of credit in crisis times ­ i.e., for the same borrower at
+the same time, trading-expertise banks reduce lending relative to other banks. This effect is
+more pronounced for trading-expertise banks with higher capital, and the credit reduction is
+binding at the firm level. Finally, these differential effects for trading-expertise banks are
+not present outside the crisis period.
+JEL codes: G01, G21, G28.
+Keywords: banking, investments, bank capital, credit supply, risk-taking.
+* This version is from February 2015. Puriya Abbassi: Bundesbank, puriya.abbassi@bundesbank.de;
+Rajkamal Iyer: MIT, riyer@mit.edu; José-Luis Peydró: ICREA-Universitat Pompeu Fabra, Cass Business
+School, CREI, Barcelona GSE, CEPR, jose.peydro@upf.edu; Francesc R. Tous: UPF and Bundesbank,
+francesc.rodriguez@upf.edu. We are extremely thankful to Jeremy Stein for his comments and suggestions,
+and we also thank Nittai Bergman, Jean-Noel Barrot, Markus Brunnermeier, Mathias Dewatripont, Douglas
+Diamond, Xavier Freixas, Marcel Gorenflo, Stefan Gissler, Xavier Giroud, Zhiguo He, Leonid Kogan,
+Christian Laux, Christian Leuz, Debbie Lucas, Andrey Malenko, Elena Manresa, Stefanie von Martinez,
+Sergio Mayordomo, Christoph Memmel, Atif Mian, Jun Pan, Jonathan Parker, Michael Schmidt, Antoinette
+Schoar, Amit Seru, Andrei Shleifer, Leonid Silbermann, Suresh Sundaresan, Adrien Verdelhan, Annette
+Vissing-Jørgensen, Björn Wehlert, and seminar participants at MIT, UPF, CREI, Universitad de Navarra,
+Imperial College, Deutsche Bundesbank, EBRD, ECB, Banque de France, Bank of England, NBER Corporate
+Finance meetings, and BCBS-CEPR-JFI `Banking and Regulation: the Next Frontier' workshop in Basel. We
+thank Santeri Niemelä for his excellent research assistance. Peydró acknowledges financial support from
+project ECO2012-32434 of the Spanish Ministry of Economics and Competitiveness. The views expressed in
+the paper are those of the authors and do not necessarily represent the views of the Bundesbank or the
+Eurosystem.
+BUNDESBANK DISCUSSION PAPER NO 08/2015
+
+1. Introduction
+The role of securities trading by banks has assumed significant importance in the
+modern financial system (Langfield and Pagano, 2014). Commercial banks today hold a
+significant amount of securities in their asset portfolios (e.g., 20% in the US and 19% in
+Germany). In the aftermath of the financial crisis, there is considerable debate both in
+academic and policy circles about the implications of securities trading by banks for credit
+supply and securities markets. A recurrent argument is that during the crisis, banks'
+securities trading activities led to a reduction in credit supply (Stein, 2013).1
+Moreover,
+there have been several policy initiatives to impose restrictions on banks' trading activities
+(the Volcker rule in the US, the Liikanen Report in the EU, and the Vickers Report in the
+UK). However, empirical analysis is scant due to the lack of comprehensive micro datasets
+on securities holdings by banks in conjunction with bank credit ­ i.e., both security and
+credit registers for banks. In this paper, we empirically analyze securities trading by banks
+and the associated spillovers to the supply of credit to the real sector.
+On the theoretical front, there is a growing literature that analyzes the role of
+securities trading by banks and its implications for credit supply and securities markets.
+Diamond and Rajan (2011) show that during a crisis, fire sales in securities markets can
+lead banks that have higher expertise in securities trading to increase their investment in
+securities and reduce the supply of credit to the real sector. In effect, they argue that in the
+presence of funding constraints, banks with trading expertise may reduce credit supply as
+they withdraw funds from lending to profit from trading opportunities. Shleifer and Vishny
+(2010) show that during a crisis, as a result of fire sales in securities markets, the returns
+from investing in distressed securities are higher than the returns from lending. In sum,
+these theories highlight an externality, from security investments of banks during a crisis to
+a reduction in the supply of credit to the real sector.
+Despite the importance for theory and policy of understanding banks' securities
+investments during a crisis and its implications for credit supply, the empirical analysis has
+
+1
+"Adverse spillovers from a fire sale of this sort may also take the form of a credit crunch that affects
+borrowers more generally. Such a credit crunch may arise as other financial intermediaries (e.g., banks)
+withdraw capital from lending, so as to exploit the now-more-attractive returns to buying up fire-sold assets.
+Ultimately, it is the risk of this credit contraction, and its implications for economic activity more broadly,
+that may be the most compelling basis for regulatory intervention" Jeremy C. Stein, Governor of the Federal
+Reserve Board.
+1
+
+been elusive. The main constraint that has hampered empirical research is the lack of
+comprehensive micro data at the security level on banks' trading activities. Comparing
+aggregate data on banks' securities holdings does not present a precise, clear picture of
+investment behavior as it does not take into account the time-varying, unobservable
+heterogeneity in security characteristics (e.g., risk, liquidity, outstanding volumes, etc.).2
+In this paper, we use a unique, proprietary dataset from the Bundesbank (the
+German central bank) that provides information on security-level holdings for all banks in
+Germany, a bank-dominated system, at a quarterly frequency for the period between 2005
+and 2012. Each security is also matched with security-level information, notably price,
+rating, coupons, and maturity. Importantly, not only do we have the security-level holdings
+of each bank, but also the credit register containing information on the individual loans
+made by banks. The security and credit registers are matched with comprehensive bank
+balance sheet information.
+The main testable hypothesis, which we motivate in the paper with a simple,
+stylized theoretical model, is that during a crisis, banks with higher trading expertise will
+increase their investments in securities, especially in securities that had a (larger) price drop,
+to profit from the trading opportunities, thereby withdrawing funds from lending. To
+examine this channel, we first examine the investment behavior of banks that are most
+active in securities markets. The idea being that banks that are generally active in securities
+markets are better at identifying trading opportunities during a crisis, as compared to other
+banks that do not routinely engage in high levels of securities trading. To proxy for active
+presence and expertise in securities markets, we use membership of banks to the largest
+fixed-income trading platform in Germany (Eurex Exchange), as banks that trade actively
+would have direct membership rather than use an intermediary. We also further analyze
+heterogeneous effects based on bank capital and security characteristics, notably rating and
+maturity.
+For identification, we analyze the data at the security-quarter-bank level and
+include security*time fixed effects to account for the unobserved time-varying
+heterogeneity across securities, e.g., risk, liquidity, outstanding volumes, etc. Thus, we
+
+2
+Aggregate data may show that two banks have very similar overall level of security investments, however,
+risk, maturity, coupons, and other characteristics of these securities could be very different. Moreover, in
+crisis times, as some securities are more affected than others (even within a same rating category),
+comparison of bank holdings even within the same rating category using aggregate data becomes difficult.
+2
+
+examine the changes in level of holdings for the same security at the same time by different
+banks. Furthermore, to isolate compositional effects (based on security price changes), we
+can include bank*time (or bank) fixed effects to control exhaustively for time-varying
+heterogeneity across banks. Finally, we identify the associated lending behavior of banks
+by analyzing borrower-quarter-bank level data and controlling for time-varying,
+unobserved firm fundamentals that proxies for credit demand using borrower*time fixed
+effects (see, e.g., Khwaja and Mian, 2008). Thus, we compare lending by different banks to
+the same firm during the same time period.
+In crisis times, we find that banks with higher trading expertise ("trading banks")
+increase their level of security investments as compared to other banks ("non-trading
+banks").3
+Trading banks especially buy more of the securities that had a larger drop in price.
+Moreover, the investment in securities that had a larger drop in price is primarily
+concentrated in lower-rated and long-term securities.
+FIGURE 14
+(a) Market price of a seven-year JP Morgan note (b) Securities holdings of the seven-year JP Morgan note
+The investment behavior of banks can be illustrated by the following example. One
+can see from Figure 1 (left panel) that after the failure of Lehman Brothers in September
+
+3
+For trading banks, securities as a fraction of total assets increases from 19% in the pre-crisis period to 23%
+during the crisis, whereas there is no significant change for non-trading banks. Note that securities as a
+fraction of total assets for non-trading banks are not trivial (18% on average), though these banks buy and sell
+a substantially lower fraction of their securities in each period as compared to trading banks. We define the
+crisis period starting in the third quarter of 2007, when banking problems surfaced, to the last quarter of 2009,
+when Germany came out of the economic recession.The results are not sensitive to the way we define crisis
+period.
+4
+Subfigure (a) shows the monthly price development of the seven-year JP Morgan medium-term floating rate
+note. Subfigure (b) depicts the euro-denominated holdings (in millions) of this security by trading banks and
+non-trading banks. The first vertical line refers to the start of the financial crisis in 2007:Q3, and the second
+vertical line denotes 2009:Q4, the end of the crisis in Germany.
+85 90 95 100
+2007:Q1 2008:Q1 2009:Q1 2010:Q1 2011:Q1 2012:Q1
+150 200 250 300 350
+2007:Q1 2008:Q1 2009:Q1 2010:Q1 2011:Q1 2012:Q1
+Trading banks Nonítrading banks
+3
+
+2008, there is a sharp drop in the price of JP Morgan medium-term note (falls from 100 to
+85 Euro cents). Around this period, German banks with higher trading expertise increase
+their holdings of this JP Morgan note (right panel). After the price rebounds back to 100
+over the subsequent quarters, they reduce their holdings.5
+In contrast, other banks do not
+increase their holdings around the Lehman crisis (dashed line).
+While trading banks in general buy more of securities that had a larger fall in price,
+we also find that the capital level of banks plays an important role. The level of investments
+in securities is increasing in the level of capital for trading banks. Furthermore, trading
+banks with a higher level of equity capital buy a greater volume of securities that had a
+larger price drop in the previous quarter. We then examine how these effects vary based on
+credit ratings and maturity. We find the strongest quantitative impact of capital on
+investments for securities with credit ratings below triple-A and with residual maturity
+higher than one year. In fact, we do not find differential effects for triple-A rated securities.
+These effects are robust to inclusion of bank*time fixed effects that control for overall
+time-varying heterogeneity in bank characteristics.
+Moreover, we also find that the prices of securities revert over the subsequent
+quarters. Thus, trading banks invest more in securities with higher ex-ante yield (proxied by
+previous fall in price, especially in securities with lower ratings and long-term maturity)
+and obtain higher ex-post returns. Finally, during the crisis we do not find any significant
+differences in selling behavior across securities that had a larger drop in price, either based
+on trading expertise or on the level of bank capital. We also find that banks sell more of
+securities where they have higher accumulated losses. This effect is more pronounced for
+non-trading banks with a higher level of capital.
+While we find that trading banks invest more in securities that had a larger price
+drop, a crucial question that arises is whether this has any spillovers on the supply of credit
+to the real economy. One could be concerned that trading banks lend to corporate
+borrowers who have different fundamentals such as risk, size, and growth opportunities.
+We use borrower*time fixed effects to control for time-varying, unobserved borrower
+fundamentals that proxies for credit demand. Thus, we examine ­ at the same time for the
+same borrower ­ whether there is differential lending behavior by banks based on their
+
+5
+See also Figure A1 in the Appendix for investments in Greek government bonds by trading and non-trading
+banks. We find increasing investments by trading banks in these securities at the point when CDS spreads of
+Greece were widening.
+4
+
+trading expertise. In addition, given that for trading banks, capital significantly affects the
+level of securities investment, we also examine whether the level of bank capital matters for
+the supply of credit to firms.
+We find that trading banks decrease their supply of credit to non-financial firms
+during the crisis as compared to other banks ­ i.e., for the same borrower at the same time,
+trading banks reduce lending relative to other banks. Furthermore, there is a larger drop in
+credit supply by trading banks with a higher level of capital. That is, for trading banks, a
+higher level of capital is associated with a larger reduction in lending as compared to other
+banks. These results are the mirror opposite of results for security investments by banks
+with trading expertise.6
+The results are robust to the inclusion of bank*firm fixed effects (in addition to
+firm*time fixed effects) to account for time-invariant bank characteristics and bank-firm
+relationships.7
+In addition, controlling for accumulated gains/losses on banks' existing
+securities portfolio (which controls for potential hangover of losses on existing investments
+or profits from trading in the crisis) does not alter the results. In fact, we find that banks
+with higher unrealized gains on existing investments lend less than other banks. The
+previous finding and the finding that trading banks with a higher level of capital decrease
+their lending by more while investing more in securities that had a larger drop in price are
+more consistent with the securities channel crowding out credit rather than the accumulated
+losses channel.8
+We also do not find any differences in the subsequent default rates for borrowers
+between trading and non-trading banks. Thus, there is no differential risk-taking in terms of
+lending associated with banks based on trading expertise. Moreover, the results on credit
+availability are binding at the firm level, which suggests that firms cannot compensate for
+
+6
+As discussed later in the model, and also in other papers cited in this Introduction, during a crisis, in the
+presence of funding constraints, increasing investment in securities by some banks can lead to a reduction in
+credit supply by these banks.
+7
+We also find that the main bank coefficient is almost identical in value (and statistically not different) if we
+do not control for borrower*time fixed effects, despite that the R-squared decreases by almost 40 points. This
+suggests that the covariance between bank characteristics (trading and capital) and unobserved firm
+fundamentals is zero.
+8
+If hangover of losses on existing investments was the main reason for lower credit supply, one would expect
+the overall effect of trading banks on credit reduction to be smaller (not higher) for banks with a higher level
+of capital, and that banks with unrealized losses on investment to lend less (not more).
+5
+
+the reduction in credit by trading banks with credit from other banks.9
+Note also that credit
+from trading banks constitutes an important fraction of the total lending in the economy and,
+therefore, our results could have important macro effects. Finally, in contrast to the crisis,
+in the pre-crisis and post-crisis periods, all the main effects of trading versus non-trading
+banks are not present for credit and investments.10
+We examine several potential alternative channels (see robustness section) and find
+that the above results are most consistent with trading banks increasing their investments in
+securities during the crisis to profit from the trading opportunities, which results in
+crowding out of credit supply by five percentage points.11 We find that the average realized
+returns (annualized) on investments made, especially after the failure of Lehman Brothers,
+are approximately 12.5% over the next year.12
+The finding that banks with higher capital
+buy more of securities that had a larger price drop is consistent with these banks having
+higher risk-bearing capacity to absorb negative shocks in case the price of securities drops
+below their purchase price.
+Our results contribute to the literature that shows that securities trading by banks
+during a crisis can affect credit supply (Shleifer and Vishny, 2010; Diamond and Rajan,
+2011). Given that we find that banks with higher trading expertise withdraw funds from
+lending, our results also contribute to the literature that analyses liquidity provision by
+private intermediaries to firms and the role of government intervention (Holmstrom and
+Tirole, 1998). In addition, our results also contribute to theories that highlight strong
+synergies between the assets and liabilities of banks (Diamond and Dybvig, 1983; Diamond
+and Rajan, 2001; Kashyap, Stein, and Rajan, 2002; Gennaioli, Shleifer, and Vishny, 2013;
+
+9
+Some of the largest firms could substitute credit with debt securities, though evidence using our dataset on
+fixed-income securities does not support this. Note that Germany is a bank-dominated system with bank
+credit being the main source of finance.
+10
+While we find that trading banks buy and sell more of securities in the pre-crisis and post-crisis periods,
+they do not increase their overall investments in securities as a fraction of total assets. This is consistent with
+the idea that, in general, when security prices are not very depressed (and also when funding constraints are
+not binding), there is no significant crowding out of lending due to securities investment.
+11
+In the periodic survey conducted by ECB, most banks reported funding constraints as an important factor
+affecting banking operations mainly in the middle of the crisis.
+12
+See Figure 4. As discussed later, we compute realized returns in several different ways and find magnitudes
+between 12% and 15%. We also find that trading banks report higher net profits and income from trading,
+which suggests that these trading activities are not a part of a hedge. Moreover, though we do not have the
+loan rate at the loan level, the average loan rate in our credit data was approximately 5% during the crisis,
+thus significantly lower than the return on securities by banks.
+6
+
+Hanson, Shleifer, Stein, and Vishny, 2014).13
+Our results highlight these synergies as banks
+with a higher level of capital (stronger liabilities) buy riskier securities in the crisis
+(securities that had a larger drop in price, especially those with long-term maturity and
+lower rating).
+Given our findings on bank capital and securities trading, our results are consistent
+with models of financial intermediation where the capital level of banks affects asset
+demand (Xiong, 2001; Gromb and Vayanos, 2002; Brunnermeier and Pedersen, 2009;
+Adrian and Shin, 2010; He and Krishnamurthy, 2013; Brunnermeier and Sannikov, 2014).
+Our results suggest that in a crisis, the capital level of banks plays an important role in their
+investments in securities markets. Our results suggest that trading banks with higher capital
+can buy more of the securities that had a larger drop in price, especially lower-rated and
+long-term securities, as higher equity capital provides buffers to absorb potential negative
+shocks in these riskier securities. Moreover, the results are also consistent with models of
+fire sales and lack of arbitrage capital (Shleifer and Vishny, 1992, 1997; Allen and Gale,
+1994, 1998, 2005; Duffie, 2010; Acharya, Shin, and Yorulmazer, 2013).
+Our results also add to the literature that examines investment behavior of banks in
+sovereign debt during the European sovereign crisis (Acharya and Steffen, 2014; Battistini,
+Pagano, and Simonelli, 2014; Drechsler et al., 2014).14
+The main focus of these papers is to
+examine risk-shifting incentives and financial repression by euro area governments.15
+One
+limitation of these papers is that they only have data on investments in sovereign securities
+in some particular periods or only collateral posted by the banks with the European Central
+Bank. In addition, these papers do not focus on credit supply during the crisis.
+Finally, our results also contribute to the literature that examines the effects on
+credit supply during a crisis (see e.g. Ivashina and Scharfstein, 2010; Iyer et al., 2014;
+
+13
+Hanson et al. (2014) analyze synergies between bank assets and liabilities and argue that safer financial
+institutions with stronger liabilities (e.g., banks with higher capital) have a comparative advantage in crisis
+times at holding relatively illiquid, fixed-income assets with substantial transitory price volatility.
+14
+See also Becker and Ivashina, 2015 for evidence on search for yield by insurance companies.
+15
+These papers examine sovereign debt investments of banks during the sovereign debt crisis (corresponding
+to the post-crisis period in our data). Acharya and Steffen (2014) find that weakly capitalized banks increase
+their investments in risky sovereign debt consistent with risk shifting and moral suasion (using a sample of
+euro area banks). Drechsler et al. (2014) examine the collateral posted by banks in the euro area to avail
+liquidity from ECB and find evidence consistent with risk-shifting incentives of weakly capitalized banks.
+Note, however, that these papers do not find risk-shifting behavior in the period after the failure of Lehman
+Brothers. We instead find that the banks that buy securities that had a larger price drop (especially securities
+with lower rating and long-term maturity) are the banks with higher capital, although these results are mainly
+for the 2008-2009 period.
+7
+
+Jiménez et al., 2012, 2014). These papers document a decrease in lending by banks during
+the crisis, especially those banks more exposed to the shock. To the best of our knowledge,
+we are the first paper that uses detailed data on both security investments and credit ­ i.e., a
+security register and a credit register ­ which are crucial for comprehensive empirical
+analysis of the trading behavior of banks in the crisis and the associated effects on the
+supply of credit to the real sector.
+The remainder of the paper is structured as follows. Section 2 presents the data and
+the testable hypotheses using a stylized theoretical model. Section 3 presents the estimation
+approach and discusses the results. Section 4 concludes.
+2. Data and hypotheses
+In this section we present the data and a simple model to guide the empirical
+analysis.
+2.1. Data
+We use the proprietary security and credit registers from the Deutsche Bundesbank,
+which is the micro and macro-prudential supervisor of the German banking system.16
+We
+have access to the micro data on securities investments of banks (negotiable bonds and debt
+securities, equities, and mutual fund shares) at the security level for each bank in Germany,
+on a quarterly frequency from the last quarter of 2005 to the last quarter of 2012.17
+For each
+security, banks report the notional amount they hold at the end of each quarter (stock of
+individual securities at the end of each quarter). We use the unique International Security
+Identification Number (ISIN) associated with every security to merge the data on security
+investments with (i) the Eurosystem's Centralized Securities Database (CSDB) to obtain
+further information regarding the issuer of the security (domicile country and sector); (ii)
+Bloomberg to obtain price data (nominal currency, market price);18
+(iii) FactSet to obtain
+security-level information on rating, coupons, and maturity. Moreover, we supplement this
+database on security investments with confidential supervisory monthly balance sheet
+
+16
+For micro-prudential regulation the responsibilities are coordinated with `BaFin'.
+17
+The reporting requirement specifies that securities holdings, which are passed on or acquired as part of a
+repo contract, are not double-counted in the securities database. Thus, the transactions captured in analysis are
+not a mechanical artifact of repo transactions. Also, securities holdings of banks in special purpose vehicles
+are not reported, as these are off-balance sheet items.
+18
+We verified the accuracy of the price data from Bloomberg for a subset of securities using the price data
+that is reported by CSDB.
+8
+
+statistics at the bank level. In particular, we collect monthly balance sheet items such as
+each bank's equity capital, total assets, Tier 1 capital ratio, interbank borrowings, and
+savings deposits.
+Finally, we obtain data on individual loans made by banks from the German credit
+register maintained by the Deutsche Bundesbank. Banks must report on a quarterly
+frequency all borrowers whose overall credit exposure exceeds EUR 1.5 million. Note that
+lending to small and medium-sized firms is not fully covered by this dataset. However, the
+credit register covers nearly 70% of the total credit volume in Germany. The credit register
+provides information on the amount of loans outstanding at the borrower level for each
+bank. In addition, it also provides information on the date of default (where applicable).
+The credit register, however, does not record the maturity and interest rate associated with
+the loans.
+The complete securities holdings data consists of all securities held by 2,057 banks
+in the German banking system. We prune this data as follows. We consider only debt
+securities and exclude equities and shares of mutual funds. As a fraction of total holdings of
+securities, fixed income securities comprise 99% of the investments. Then, we delete the
+securities for which the total holdings for the entire banking sector were below EUR 10
+million.19
+The resulting set of securities comprise 95% of the total holdings. We also
+exclude from the analysis banks with total assets below EUR 1 billion. In addition, we
+exclude Landesbanks and mortgage banks from the analysis.20
+The final sample consists of
+504 banks holding 89% of the securities holdings of the total banking system.
+2.2. Hypotheses
+Before we present the results, and as a complement to the theoretical papers we
+highlighted in the Introduction, we present a simple model to guide the empirical analysis.
+The main intuition behind the model is the following. In a crisis, when the expected returns
+from investing in securities are high, banks with higher trading expertise invest more in
+securities and cut back on credit in the presence of funding constraints (see Diamond and
+
+19
+We do this for computational reasons. These securities also account for a very small fraction of the overall
+asset holdings. We also drop banks below EUR 1 billion in total assets. These banks are generally not active
+in securities markets and account for a small fraction of the aggregate securities holdings and credit.
+20
+Landesbanks are (at least partly) owned by the respective federal state and thus considered to enjoy an
+implicit fiscal guarantee. Law prohibits mortgage banks to engage in (risky securities) investments. The
+results are robust to including these banks in the sample.
+9
+
+Rajan, 2011; Shleifer and Vishny, 2010).21
+In addition, trading banks with higher risk-
+bearing capacity (higher capital ratio) will invest even more in securities and further
+decrease the supply of credit (much in line with He and Krishnamurthy, 2013). We now
+proceed to a more detailed exposition.
+Assume a two-period world with one security that has random returns. We denote
+the security's price at    as . At   ,  can be either  or , with probability 
+(without loss of generality, we assume 
+ ). Banks receive a private signal at   
+regarding the price of the security at   . The signal can have two values:  and . We
+assume that the signal is informative:   
+ 
+      
+ 
+  . We
+interpret the precision of the signal, , as the "trading expertise" of banks. That is, banks
+that have trading expertise receive signals with lower noise.
+After receiving the private signal, banks decide on how much to invest in securities
+at the given price . If a bank receives a good signal, , then it buys  units of this
+security (otherwise the bank does not buy any unit of the security). If the price of the
+security at    is , the bank obtains the amount 
+ 
+. The probability of this
+event happening is   
+   
+   . The bank also obtains 
+ 
+ with
+probability   .
+The bank's optimization problem can be summarized as follows:
+
+
+   
+ 
+  
+
+ 
+  
+   subject to the following
+funding constraint: 
+    
+where  is the amount invested in securities,  is the credit supplied to the real economy,
+and  is the available funding. The first part of the objective function is the expected
+return of the risky security, the second part is the variance of this return, and the last part,
+, is the payoff from the lending investment.  can be interpreted as the risk-bearing
+capacity of the bank, which can come from capital constraints stemming from the market or
+regulation or from risk aversion (see He and Krishnamurthy, 2012, 2013). We assume that
+the budget constraint W in the model is binding during a crisis ­ i.e., banks cannot easily
+
+21
+The assumption is that expertise is required to identify profitable trading opportunities in securities market
+during the crisis. See also Gorton and Metrick (2012) and Dang, Gorton and Holmstrom (2013) for papers
+that argue about breakdown in trading of debt securities during a crisis due to lack of expertise to evaluate the
+quality of the debt securities.
+10
+
+raise more funds to invest.22
+Therefore, banks need to choose how much of their funds (W)
+to allocate to investments in securities (
+) and how much to allocate to lending (L).
+The first order condition, assuming that the funding constraint is binding, is:
+
+   
+ 
+ 
+
+  
+ 
+    
+  . Solving for the
+optimal 23
+:   
+
+
+
+
+and     
+
+Given these optimality conditions, we obtain the following testable predictions:
+Proposition 1: 
+
+  , 
+
+  . Banks with higher trading expertise have higher
+investment in securities and reduce the supply of credit as compared to banks with lower
+trading expertise.
+Proposition 2: 
+
+ ,
+
+
+ . The trading ability and risk-bearing capacity reinforce
+each other with regard to investment in securities and consequently, this implies further
+reduction in credit supplied. Thus, the effects are reinforced with higher bank capital.
+Proposition 3: 
+
+ ,
+
+
+ . A decrease in the initial security price (an increase in the
+expected return) increases the overall investment in securities and decreases lending.24
+Proposition 4:  
+
+  ,
+
+
+  ,
+
+
+  ,
+
+
+  . The effects described in
+Proposition 3, both in terms of securities investments and lending, are stronger for banks
+with higher trading expertise and higher risk-bearing capacity.
+
+22
+In the periodic survey conducted by ECB, most banks reported funding constraints as an important factor
+affecting banking operations in the middle of the crisis.
+23
+To derive this equation, we have assumed linear loan returns:   . We have assumed that loans are
+riskless with constant returns to scale (marginal profit equals ). Note that as long as the volatility of a loan
+portfolio is sufficiently low with respect to the volatility of securities' returns, the main propositions would
+hold. Note also that we take prices and returns as given in the model and ignore other equilibrium
+considerations. We also assume that capital and level of funding constraints are independent (see, e.g., He and
+Krishnamurthy, 2013, and Brunnermeier et al., 2012, for models that relate both).
+24
+To get this relation, one needs to further assume that gross returns from investing in securities are below
+twice of those from investing in loans (
+   
+
+   ). To obtain an interior solution, we
+also need     . The first condition,   
+, is satisfied as long as the expected return in securities
+is higher than the expected return in lending: 
+   
+ 
+ 
+. The second condition only states
+that the bank needs to have enough funds to finance its investment in securities. In other words, the returns
+from securities investments need to be higher than those from lending so that there is positive investment in
+securities, but not too high so that there is still some lending.
+11
+
+It is important to highlight that the negative externality from securities investment
+by banks to lending relies on three features: (1) an increase in expected returns from
+investing in securities; (2) funding constraints; and (3) securities markets and lending
+markets have some degree of segmentation (i.e., that loan rates do not adjust immediately
+to be equal to security returns). See Stein (2013) and Diamond and Rajan (2011) for a
+discussion of the externalities.25
+To examine whether the testable predictions of the model are borne out in the data,
+we analyze the crisis, when there was a sudden shock to the securities markets and there
+were constraints to bank funding. We first analyze security investments by banks with
+higher trading expertise and examine how it varies based on their level of capital. In
+particular, we examine investments in securities that were most affected by the crisis, i.e.
+those that had a large drop in price. Moreover, we identify the associated lending behavior
+of trading banks and the effects based on their level of capital. Finally, we analyze these
+results outside the crisis period when securities markets were less volatile and funding
+constraints were lower.
+3. Results
+In this section, we first discuss the summary statistics. We then present the
+equations that we use for the estimation along with the results for both the securities and
+credit analyses. Finally, we discuss other potential alternative channels and further
+robustness.
+3.1. Summary statistics and initial results
+Table 1, Panel A, presents the summary statistics of the portfolio holdings of banks
+with (higher) trading expertise decomposed into three subsamples covering the key time
+periods. We denote the period from 2005:Q4 until 2007:Q2 as the pre-crisis period, while
+we define the subsample 2007:Q3 ­ 2009:Q4 as the crisis period.26
+Since 2009:Q4 is the
+last quarter with year-to-year negative GDP growth in Germany, we refer to the period
+thereafter as the post-crisis sample. To empirically proxy for trading expertise of banks, we
+
+25
+Note that it is also difficult for banks to increase interest rates substantially to compensate for the returns
+from security investments due to the risk of adverse selection and moral hazard that arise in lending (Stiglitz
+and Weiss, 1981).
+26
+For references that the financial crisis starts in Europe in 2007:Q3, see Iyer et al. (2014) and the references
+therein.
+12
+
+create a dummy that takes the value of one when a bank has membership to the largest
+fixed-income trading platform in Germany (Eurex Exchange).27
+The idea is that banks that
+are generally more active and with higher expertise in securities trading will have
+membership to the trading platform rather than using an intermediary. Supporting this
+classification, we find that banks with trading expertise buy and sell a significantly larger
+fraction of securities (relative to other banks reported in Panel B of Table 1). Both the
+amount of securities bought and sold (as a fraction of total assets) are consistently larger for
+banks with trading expertise across all the periods.
+Interestingly, looking at the securities to total assets, we find that trading banks
+increase their securities holdings in the crisis period. The fraction of securities to total
+assets goes up from 19% in the pre-crisis period to 23% during the crisis and then comes
+down to 22% in the post-crisis period. We do not find any significant difference for non-
+trading banks (from 18% to 19%).28
+Thus ­ unconditionally ­ trading banks on average
+increase their securities holdings in the crisis period.
+While the securities holdings of trading banks increase during the crisis, loans as a
+fraction of total assets decreases. From the pre-crisis level of 67%, it decreases to 64% in
+the crisis. In contrast, for the non-trading banks, loans as a fraction of total assets increases
+from 69% to 70%. Note that, in general, the quality of loans in Germany was not bad and
+also Germany had a faster recovery from the crisis as compared to other European
+countries.29
+All in all, the summary statistics reported above suggest that trading banks increase
+their overall level of security investments in the crisis and decrease credit. These patterns
+appear clearly in the data ­ i.e., comparing only trading banks across the pre-crisis and
+crisis period, or comparing trading versus non-trading banks in the crisis period with
+respect to the pre-crisis period.
+
+27
+Eurex Exchange is a German trading platform for bonds, repo, and other alternative asset classes.
+28
+Note that our classification does not exhaust the entire set of banks that have trading expertise. Thus, it is
+possible that there are other banks in the group classified as non-experts that also have trading ability. This
+classification bias should reduce the likelihood of us finding any significant differences across the two groups.
+29
+The average default rate on loans at the peak of the crisis was 1.1%. Some of the German banks (mainly
+Landesbanks) experienced problems due to investments in securities originated by banks from other countries
+and not from defaults arising from loans to German borrowers. As discussed earlier, we exclude Landesbanks
+from the main analysis.
+13
+
+A very similar picture also emerges from a graphical representation of the main
+variables of interest. Figure 3 presents the investments in securities by trading banks as
+compared to non-trading banks. Trading banks invest more in securities, especially during
+the crisis period. Furthermore, in line with Figure 1 (discussed earlier in the introduction)
+there is a sharp spike in their security investments in the period after the failure of Lehman
+Brothers. In contrast, an opposite picture emerges when we look at credit growth (Figure 4).
+We see that during the crisis, trading banks decrease their credit growth relative to non-
+trading banks.
+Examining the composition of securities holdings of banks, we see that for trading
+banks, the fraction of triple-A securities to total securities holdings decreases from 49% in
+the pre-crisis period to 37% in the crisis and then increases to 55% in the post-crisis period;
+instead, for non-trading banks, the fraction of triple-A securities remains stable at around
+44% across the three different periods. Therefore, there are substantial differences in
+composition of securities across different ratings for trading and non-trading banks. In
+particular, trading banks not only substantially increase their overall securities holding
+during the crisis, but they add more of non-triple-A securities.
+For trading banks, the ratio of long-term securities goes up from 71% in the pre-
+crisis period to 78% in the crisis (and further to 86% in the post-crisis period); instead, for
+the non-trading banks, the fraction of long-term securities remains stable in the pre-crisis
+and crisis periods at 78%. Thus, trading banks also buy relatively more of long-term
+securities. Thus, trading banks increase overall investments in the crisis, and especially in
+lower-rated and long-term securities (looking only at trading banks across periods or
+comparing trading versus non-trading banks across periods).
+Moreover, for trading banks, the fraction of domestic securities to total securities
+decreases from 64% to 49% and increases to 57% in the post-crisis period, and the fraction
+of sovereign securities held decreases from 37% in the pre-crisis period to 31% during the
+crisis, increasing to 42% in the post-crisis period. Instead, for the non-trading banks, the
+fraction of sovereign securities is at around 23% in the pre-crisis, 22% in the crisis period,
+and at 23% in the post-crisis period, and the fraction of domestic securities is 79% in the
+pre-crisis, 72% in the crisis, and further decreases to 67% in the post-crisis period. In terms
+of size, trading banks vis-à-vis other banks are on average larger, and we also find that
+14
+
+during the crisis, both trading and non-trading banks increase in size.30
+The average capital
+ratio (equity to total assets) is 4.8% for trading banks in the pre-crisis period and remains at
+the same level in the crisis (4.81%), increasing to 5.44% in the post-crisis period; for non-
+trading banks, the capital ratio is 5.07% in the pre-crisis and crisis periods and 5.22% in the
+post-crisis period.
+In terms of the prices of securities, Figure 2 presents the evolution of prices over the
+sample period. There is a wide variation in the prices of securities. We find large price
+drops in the crisis period (2007:Q3 to 2009:Q4), though there is also a recovery of prices.
+On average, in some quarters, the average prices of securities drop by around 20%
+(annualized price change). However, there is also wide heterogeneity in the price changes
+across different securities. One can see that there are hardly any significant price drops for
+securities that are rated triple-A and securities with maturity lower than one year (non-
+triple-A and long maturity securities have the largest price drops). This again highlights the
+importance of examining investment behavior at the security level, since using aggregate
+data would mask these differences and could be misleading.
+3.2. Securities analysis
+We now examine the investment behavior in securities using the micro data. The
+summary statistics and graphs presented above suggest that in the crisis period, trading
+banks increase investments in securities and decrease credit as compared to non-trading
+banks. However, to understand the underlying mechanism, and for empirical identification,
+one needs to analyze data at the micro level (both for securities and credit). We formally
+examine the differential behavior of trading banks relative to non-trading banks using a
+regression framework. Table 2 reports the results for banks' investment behavior in the
+crisis period based on trading expertise.31
+Before we move to the security-level data, we start by examining whether trading
+banks increase their overall fraction of investments in securities relative to non-trading
+banks. In column 1 of Panel A, we examine at the bank level the change in the level of
+securities holdings as a fraction of total assets in the crisis period. We find that trading
+
+30
+A similar pattern is also reported (He, Khang and Krishnamurthy, 2010) for U.S banks. In all the
+specifications, we control for bank characteristics.
+31
+In some of the estimations the number of observations varies due to missing data. However, this does not
+affect the robustness of the results.
+15
+
+banks increase their level of securities holdings relative to non-trading banks over the crisis
+period. This result lines up with the summary statistics and Figure 3, where we find that
+trading banks increase their securities holdings in the crisis. Therefore, both conditionally
+(controlling for other bank characteristics in Table 2) and unconditionally (without any
+control in Table 1 and Figure 3), we find that trading banks increase their level of
+investments during the crisis.
+We then move on to separately examining buying and selling behavior across
+securities. Our model for buying and selling behavior is at the security-quarter-bank level
+(to be able to control for time-varying, unobserved heterogeneity in securities) and takes the
+following form:
+Log(Amountbuy/sell)ibt
+=ETradingexpertiseb
++
+it
++Controlst1
++
+ibt
+(1)
+where Amount refers to the nominal amount bought (`buy') or sold (`sell') of security `i' by
+bank `b' at quarter `t', 0 otherwise ­ i.e., when there is a buy, we calculate the nominal
+amount by calculating the absolute difference in the holdings between quarter `t' and
+quarter `t-1' and then taking the logarithm of this amount. For example, when examining
+buying behavior, the dependent variable takes a positive value if the bank has a net positive
+investment in the particular security and zero if there is no change in the level of holdings
+or if there is a net sell of the security. We also include security*time fixed effects (
+) to
+control for time-varying, unobserved characteristics of individual securities.32
+Note that
+inclusion of security*time fixed effects controls for all unobserved and observed time-
+varying heterogeneity, including all the price variation in securities, thus the estimated
+coefficients are similar whether we use nominal holdings or holdings at market value as a
+dependent variable.
+We use equation (1) as a baseline and modify it based on the hypothesis we are
+testing. In some estimations, we exploit interactions of bank variables (trading and capital)
+and security variables (e.g., price variation in the previous quarter) and thus modify the
+equation accordingly. Furthermore, we can also include bank (or bank*time) fixed effects
+to account for time-invariant (time-varying) heterogeneity in bank characteristics.
+
+32
+The inclusion of security*time fixed effects also helps us to control ­ in each time period ­ for how much
+of each security is issued and outstanding and, therefore, isolate the demand of securities. Also, when we use
+security*time fixed effects, we do not control for security-level variables as these are absorbed by the fixed
+effects.
+16
+
+In columns 2 and 3, Panel A, we examine, respectively, the overall buying and
+selling behavior of banks at the security-quarter-bank level. We find that trading banks in
+general buy and sell more of securities as compared to non-trading banks (nearly twice as
+much, with a higher coefficient for buying than selling).33
+These results from columns 2
+and 3 further help validate our classification of banks with higher trading expertise.34
+In
+columns 4 and 5, Panel A, we add security*time fixed effects and find similar coefficients
+as in columns 2 and 3. We also find a similar pattern when we examine buying behavior
+across securities with different ratings and maturity (see Appendix, Panel A). We further
+examine whether there are differences in the composition of investments, conditional on
+buying (see Panel B of Table 2). Based on the theoretical model described earlier, one
+would expect that, conditional on buying, banks with higher trading expertise would
+selectively increase investments in securities that had a larger price drop (in the previous
+period) as compared to other banks. To examine this, we estimate equation (1), restricting
+the sample to securities and banks where there are only buys.
+In column 1, we find that trading banks buy more of the securities that had a larger
+percentage drop in price in the previous quarter (interaction of trading expertise dummy
+and lagged percentage change in price). Note that we introduce bank fixed effects, in
+addition to security-time fixed effects, to take into account time-invariant heterogeneity in
+bank characteristics and to isolate the compositional effects of buys. In columns 2 to 5, we
+analyze compositional effects depending on rating and maturity. We find that the effects are
+not significant for triple-A and short-term securities, but are significant only for non-triple-
+A rated securities and securities with a maturity longer than one year.
+In Panel C of Table 2, we examine whether trading banks differ in the composition
+of securities they sell. Panel C is identical to Panel B, the only difference being that we
+examine sells. As one can see, we do not find any significant differences in selling behavior
+for securities that had a larger drop in price across banks based on trading expertise. We
+also do not find any compositional effects depending on rating or maturity.
+While the results above show that trading banks buy more of securities that had a
+larger percentage drop in price, an important question that arises is whether there are
+
+33
+We also ran the estimations where the dependent variable takes the value of one if the bank has a net
+positive investment in a security and zero otherwise, and we find similar results.
+34
+We also find similar results for the pre-crisis and post-crisis periods, though in these periods there is no
+higher overall investment in securities for trading banks, as Table 7, Panel B, shows.
+17
+
+differences in the level of investments based on bank capital. As discussed earlier, the
+capital level of banks could proxy for risk-bearing capacity. In Table 3, columns 1 to 4, we
+limit the analysis to banks with trading expertise. Thus, we examine whether trading banks
+differ in their investment behavior based on the level of capital. In column 1, we find that
+for trading banks, higher bank capital (lagged) not only implies a higher level of
+investments (buys), but also the coefficient on the interaction term with previous price
+change is negative and significant. Thus, trading banks with higher capital levels buy more
+of securities in general, especially those securities that had a larger drop in price.35
+In terms
+of economic magnitudes, a one percentage point increase in capital, on average, increases
+the amount of security bought by 11.1%. Furthermore, there is an additional 6.1% increase
+if the security fell in the previous quarter by one standard deviation. In column 2, we
+include both bank*time and security*time fixed effects to account for all time-varying
+heterogeneity in bank and security characteristics.36
+The results obtained are similar to those
+reported in column 1.
+In column 3, we include as controls the lagged cumulative gains/losses for
+individual securities that are present in the banks' investment portfolios. We do not find
+that banks buy more of securities where they have higher accumulated losses. In fact, we do
+not find any significant effect. Moreover, the interaction term of cumulative gains with
+capital is also not significant. These findings do not support the view that banks buy
+securities that had a larger drop in price in an effort to increase the price of these securities
+to make their existing portfolio look better. Thus, this finding is not consistent with window
+dressing activities being the driver of banks' investment in securities that had a larger price
+drop. Also, as discussed later, we find that banks with a higher level of capital sell more of
+securities where they have larger accumulated losses in their existing investment portfolio.
+In column 4, we estimate the regressions conditional on the bank buying a security. We
+again find similar results to those reported earlier. In columns 5 to 8, we report the
+estimations for non-trading banks. For these banks, we find that the overall level of
+investment in securities is not increasing in the level of capital (column 5). The coefficient
+on capital is not statistically significant. Moreover, unlike for trading banks, we do not find
+
+35
+We find similar results when we estimate the model without any bank fixed effects (not reported).
+36
+The results are robust to inclusion of other interactions of bank characteristics with lagged percentage
+change in price. The results are also robust to inclusion of bank*security fixed effects and double clustering at
+the bank and security level.
+18
+
+that higher capital is consistently associated with a higher level of investments in securities
+that had a larger drop in price (column 8 is not significant). In addition, whenever it is
+significant, the estimated magnitude is very small ­ the coefficient is less than one quarter
+of the estimated coefficient for trading banks. We also do not find any effect of cumulative
+gains/losses on existing investments on buying behavior (column 7). In column 8, when we
+condition on securities where there is a buy by a bank, we do not find any relation between
+the amount bought of a security that had a larger price drop and the capital level.37
+In Table 4, we further examine whether the buying behavior of banks differs across
+securities with different ratings and maturity. In Panel A, we report the results for trading
+banks. In columns 1, 2, and 3, we find that the coefficient on the interaction term is only
+significant for non-triple-A rated securities. These results show that across all categories
+(except for triple-A), trading banks with a higher level of capital invest more in securities
+that had a larger drop in price.
+Examining the buying behavior across securities with different maturities presents a
+very similar pattern (columns 4, 5, and 6). The coefficients are larger for securities with
+maturities longer than one year and not significant for securities with maturity less than one
+year. These results suggest that banks with a higher level of capital buy more of securities
+whose prices have previously fallen, especially in investments with lower ratings and long-
+term maturity. In fact, there are not significant effects for triple-A rated securities or for
+securities with residual maturity less than one year.
+In Panel B, we report the results for non-trading banks. Again, in line with the
+results reported in Table 3, we find that the coefficient on the interaction term for capital
+and percentage change in price is substantially smaller in magnitude relative to those
+reported for trading banks, not statistically significant from columns 2 to 6. It is only
+significant for triple-A category (column 1), just the opposite of trading banks.38
+The results above capture the differential investment behavior of banks with
+different levels of capital for securities. Note that most banks in Germany follow the
+German local GAAP (HGB) for regulatory reporting and for reporting financial statements.
+Under HGB, historical cost accounting prevails in contrast to fair value accounting (IFRS),
+
+37
+This could be because of the small sample size in this estimation coupled with the large number of fixed
+effects. In fact, the cumulative gains cannot be estimated (we report the coefficients as 0.000).
+38
+In general, we find that relative to non-trading banks, trading-banks buy more of securities across all
+different credit categories and maturities (see Appendix, Panel A).
+19
+
+which suggests that the association of capital and buying behavior is unlikely due to mark-
+to-market accounting concerns (Laux and Leuz, 2010).39 
+While in Tables 3 and 4 we examine the buying behavior of banks, it is also
+important to examine the selling behavior to understand whether banks are reluctant to
+book losses in their investment portfolios. Table 5 reports the regression results for the
+selling behavior of banks in the crisis period. In columns 1 through 4, we find that there is
+no significant effect of bank capital on selling behavior for trading banks. In column 3, we
+examine whether trading banks sell a higher volume of securities where they have larger
+accumulated gains or losses in their existing investment portfolio. We find that trading
+banks do not sell a higher volume of securities where they have larger accumulated losses.
+However, banks with higher levels of capital sell a higher volume of securities where they
+have larger accumulated losses. However, when we estimate the results conditional on only
+sells (column 4), we do not find significant effects.
+Examining the selling behavior for non-trading banks (columns 5 to 8) across all
+different specifications, we find that they sell more of securities where they have higher
+accumulated losses. This effect is more pronounced for banks with a higher level of capital
+(column 8).
+The overall results show that during a crisis, banks with higher trading expertise buy
+more of securities, especially those that had a larger fall in price. We also find that these
+effects are stronger for banks with higher capital levels. Furthermore, the strongest
+quantitative impact of capital on investments is for lower credit ratings (below triple-A) and
+for securities with residual maturity higher than one year. A crucial question that arises is
+whether these effects on securities trading by banks have spillovers on credit supply. That
+is, whether banks with higher trading expertise while increasing their investments in
+securities reduce their supply of credit to non-financial firms.
+
+39
+Under HGB, securities must be written down to the market value only when the market value falls below
+the reported amortized cost (unlike mark-to-market accounting). This decrease of the market value below
+historical cost has a direct impact on net income (unlike under IFRS) except when securities are placed in the
+held-to-maturity category. We do not have the data on categorization for banks; however, based on some
+studies (see Georgescu and Laux, 2013), for German banks, the average in held-to-maturity category is quite
+low (lower than 2.17%).
+20
+
+3.3. Credit analysis
+To examine whether banks with higher trading expertise reduce their supply of
+credit relative to other banks, we exploit the data at the borrower-bank-time level. We use
+the following estimation equation:
+'Log(loancredit)jbt
+=ETradingexpertiseb
++Jjt
++Controlst1
++
+jbt
+
+
+where the dependent variable is the change in the log of credit granted by bank b to firm j
+during quarter t. We use borrower*time fixed effects (J) to control for time-varying,
+unobserved heterogeneity in borrower fundamentals (e.g., risk and growth opportunities)
+that proxy for credit demand (see e.g., Khwaja and Mian, 2008). Thus, we compare the
+change in the level of credit for the same borrower in the same time period across banks
+with different levels of trading expertise. Moreover, we also analyze the effect of bank
+capital on credit supply for trading and non-trading banks. In these regressions, we can use
+bank fixed effects to control for time-invariant heterogeneity in bank characteristics or
+include borrower*bank fixed effects to additionally control for different banking
+relationships for a firm. Finally, we also analyze whether there are implications for credit
+availability at the firm level (using aggregate changes in firm credit).
+In Table 6, column 1, we start with examining the lending behavior of banks based
+on trading expertise and capital relative to other banks. We find that, in the crisis period,
+banks with (higher) trading expertise lend less to the same borrower (firm) at the same time
+as compared to other banks. The lending by trading banks is five percentage points lower
+than that of non-trading banks. In column 2, we examine whether trading banks with higher
+capital reduce lending by more. For banks with higher trading expertise, we find that higher
+capital is associated with a larger decline in credit. Thus, consistent with the model
+discussed earlier, trading banks with higher capital invest more in securities and also reduce
+the supply of credit by more. Note that the coefficient of non-trading banks and capital has
+the opposite sign than that for trading banks (higher capital implies more lending), although
+it is not statistically significant.
+In column 3, we introduce controls for other bank characteristics and find that the
+coefficients reported in column 2 are almost identical and still remain statistically
+significant. In column 4, we control for the accumulated losses or potential gains on the
+existing security investments of banks. For instance, one could be concerned that trading
+banks reduce credit supply primarily due to losses on existing investments. While this
+21
+
+argument does not explain why banks with higher trading expertise and a higher level of
+capital cut back more on credit, it is still important to examine the effects after controlling
+for unrealized losses or gains on a bank's investment portfolio. Again, we find that
+controlling for unrealized losses or gains does not change the magnitude or significance of
+the estimated coefficients.40
+Interestingly, we find that banks with higher unrealized gains
+on existing securities investments lend less relative to other banks (columns 5 to 7),
+although the result is not robust.
+While the results above compare the lending behavior of two banks to the same firm
+at the same time period, one could still be concerned about borrowers matching with banks
+differentially. To analyze this differential matching channel, in columns 5 and 6, we run the
+estimation including bank(lender)*firm(borrower) fixed effects. The inclusion of bank
+fixed effects also helps to account for all time-invariant characteristics of banks. In column
+5, even after controlling for bank*borrower fixed effects, we find that trading banks with a
+higher level of capital decrease supply of credit relative to other banks. Also, we find that
+the main bank coefficient remains very similar in magnitude to the earlier estimations.
+Moreover, in column 6, we also find that non-inclusion of borrower*time fixed effects does
+not alter at all the magnitude of the coefficients on the bank capital for trading banks,
+despite substantially reducing the R-squared from 64% to 27%. These results suggest that
+the covariance between bank capital for trading banks (supply) and firm fundamentals
+(demand) is negligible, thus suggesting that differential borrower demand arising due
+unobserved matching between banks and borrowers is unlikely to be the driver of the
+results. It also suggests that our main bank variable coefficients are exogenous to a large set
+of unobserved borrower fundamentals (see Altonji, Elder and Taber, 2005).41
+To examine whether banks differentially take incremental risk in loans, we also
+examine the interaction of trading banks with future loan defaults (two years down).
+Column 7 reports the results from this estimation. We find that the coefficient on the
+interaction term of trading banks with future default is not significantly different from
+
+40
+The results are also robust to controlling for realized gains and losses, though given that sells are low, the
+majority of gains and losses are unrealized.
+41
+We also estimated the regressions controlling for the loan exposures of banks to different sectors, and the
+results remain unchanged (not reported). The results are also robust to double clustering at the bank and
+borrower level.
+22
+
+zero.42
+These results suggest that trading banks did not differentially take on more risk in
+loans.
+Finally, in column 8, we examine whether firms can substitute the decrease in credit
+supply from trading banks by borrowing more from other banks. For instance, imagine a
+firm that had two banking relationships before the crisis, one with a trading bank, and the
+other with a non-trading bank. Can the firm increase the credit from the non-trading bank
+and not suffer any overall restriction of credit? To examine this issue, we first create the
+fraction of borrowing of a firm from banks with trading expertise before the crisis
+(2007:Q2). This variable does not vary at the firm level and therefore we cannot introduce
+firm fixed effects (credit change is at the firm level). In column 8, we find that for firms
+with a higher fraction of borrowing from trading banks, the total change in credit is
+negative and significant. Moreover, we also construct other measures of a firms' exposure
+to trading banks (such as higher than 50% of the firms total borrowing, or weighted
+averages based on the capital level of trading banks) and find similar results (not reported).
+Note that this specification (column 8), unlike the ones reported earlier (columns 1 to 7),
+does not account for firm fundamentals, but the results in previous columns suggest that the
+main bank variables are not correlated with firm heterogeneity.
+These results suggest that firms that were borrowing more from banks with higher
+trading expertise faced a higher reduction in total credit (from banks). While we do not find
+firms issuing debt securities to compensate for the reduction in bank credit, we cannot
+observe whether they substitute from other sources such as trade credit. To the extent that
+this is not the case, which seems plausible given that Germany is a bank-dominated system,
+there could be real effects.
+3.4. Further robustness
+While the results above show that in the crisis period, banks with higher trading
+expertise (especially the ones with higher capital) increase their investments in securities
+and reduce the supply of credit to non-financial firms, analysis of the pre-crisis and the
+post-crisis periods can help further shed light on the main mechanism. The main channel
+highlighted in the theoretical models described earlier relies on a large shock to securities
+markets (returns) during the crisis and the presence of bank funding constraints. This also
+
+42
+Loan defaults without the interaction is absorbed by the firm*time fixed effects, as we have loan defaults at
+the firm-time level.
+23
+
+suggests that in periods when there are no large shocks to securities markets or bank
+funding constraints are not binding, one would not expect to find similar results as in the
+crisis period. Note that even if returns from investing in securities markets are high, if the
+bank funding constraints are less binding, the spillover effects of higher investment in
+securities on credit supply should be lower or non-existent.
+In Table 7, Panel A, we examine the lending behavior of banks in the pre-crisis and
+post-crisis periods. For both these periods, we do not find any significant difference in
+supply of credit by trading banks as compared to non-trading banks. In addition, the
+coefficient on capital for trading banks is not significant. In fact, in columns 2 and 3, for the
+pre-crisis period, the coefficient is positive, although not significant at conventional levels.
+Finally, there are also no significant differences in future default rates in these periods
+between banks with trading expertise relative to other banks (columns 3 and 6).
+In Panel B, we examine the investment in securities in the pre-crisis and post crisis
+periods. While banks with higher trading expertise buy and sell more securities in general
+across all the periods (see summary statistics in Table 1), we do not find them substantially
+changing the proportion of investments in securities in the pre-crisis and post-crisis periods
+(columns 1 and 2 of Table 7, Panel B). In the post crisis period, we see that there is some
+volatility in securities markets, especially around the initial Greek crisis and also in
+2011:Q2. It is interesting to note that trading banks buy into Greek bonds at the time when
+their spreads are widening but before the worst moments of the Greek crisis (see Figure A1
+in the Appendix).43
+However, we do not find a significant reduction in credit supply relative
+to other banks (also not significantly different from the coefficient in the pre-crisis period).
+Note that as compared to the crisis period, when most banks report capital and wholesale
+funding constraints as important factors affecting business operations, this is substantially
+less the case during the post-crisis period, especially in Germany (see Bundesbank and the
+ECB survey of Euro area banks).44
+Also, banks equity capital base is higher, at 5.4%, in the
+
+43
+When we examine these particular quarters, we again see that there is a significant increase in securities as a
+fraction of total assets for trading banks as compared to other banks. See the spike in change in total securities
+for trading banks in Figure 2 for mid-2010.
+44
+Though the bank liquidity problems can be solved with the ECB liquidity assistance, bank capital problems
+are not eliminated by ECB liquidity assistance. See Bernanke (1983) and Freixas and Rochet (2008) for
+discussion on why bank capital is costly, especially in crisis times. Admati and Hellwig (2013) question part
+of these costs.
+24
+
+post-crisis period as compared to 4.8% in the crisis (see summary statistics in Table 1), thus
+also suggesting that capital constraints are less binding.
+A crucial quantitative question is, what are the ex-post returns that banks with
+higher trading expertise obtain in the crisis? To do this, we examine the average return on a
+portfolio of securities formed by mimicking the investments of banks with higher trading
+expertise. We create a portfolio by selecting the same securities (that had fallen in price)
+and the same timing of investments. Using this method, we find that the realized returns
+(annualized) on investments made after the failure of Lehman Brothers are approximately
+12.5% over the subsequent quarters (see Figure 4). The realized return on investments in
+securities with maturity of more than five years is higher at approximately 21% and non-
+triple-A is at 15%.45
+While the results above are consistent with banks with higher trading expertise
+increasing their investment in securities during the crisis to profit from trading
+opportunities, thereby reducing the supply of credit, we examine several other alternative
+explanations. The first channel is through liquidity preference. That is, trading banks have a
+preference for liquid assets like securities as compared to loans. Based on this explanation,
+one should expect trading banks to buy more of securities that are liquid. However, this
+explanation is difficult to reconcile with the finding that trading banks with higher capital
+buy more of securities that are long-term rather than short-term and securities with lower
+ratings as compared to triple-A securities. For example, trading banks invest more in Greek
+sovereign debt exactly at the point when the spreads widen, which is difficult to reconcile
+with a purely liquidity preference based explanation. Note that liquidity preference by itself
+is not inconsistent with the banks trying to exploit trading opportunities in securities
+markets. For instance, several theoretical papers (Allen and Gale, 1998; Diamond and
+Rajan, 2011; Acharya, Shin, and Yorulmazer, 2013) argue that banks will hoard on
+liquidity rather than lock funds into loans, in anticipation of making high returns from
+acquiring securities in fire sales.46
+We also investigate whether gains from trading act as a hedge against lending
+income. The idea being that trading banks expect future interest rates to be low, which in
+
+45
+We assume that the securities are sold in 2009:Q4. We also estimated the realized returns using the actual
+buying and selling behavior of banks. For the 2009:Q2, we find that returns are approximately 11.9%.
+46
+See Allen and Carletti (2008) for a recent overview of the issues.
+25
+
+turn reduces their income from lending. Therefore, trading banks may invest in securities
+whose prices rise with lower interest rates, thus acting as a hedge against drop in lending
+income. To examine this channel, we use the data on lending income and trading income at
+the bank level from 1998 and find that they are positively correlated. This suggests that
+trading income from securities does not provide a hedge against lending income declines.
+In addition, while during a crisis there is generally a flight to highly rated securities, (e.g.,
+holding high quality, German sovereign bonds provides a hedge), this is not generally the
+case for securities with long-term maturity and lower ratings. Thus it is difficult to explain
+the increase in investments in securities that had a larger price drop (especially in lower-
+rated and long-term maturity) and a reduction in credit supply purely by a hedging based
+explanation. The example that we discussed in the Introduction on the JP Morgan bond is
+illustrative of the trading opportunities for banks with higher trading expertise to obtain
+high returns on investments.
+Another possible channel is that banks that have higher trading expertise buy more
+of securities that had a larger drop in price due to their market making activities and hence
+cut back on credit. While this explanation again suggests that banks reduce their credit
+supply to profit from income from market making, the channel is different from directly
+investing for trading purposes. Firstly, if market making was the main driver, one should
+also find trading banks selling more of the securities that had a larger price drop (or
+differential selling depending on the maturity and rating), whereas we only find results
+related to buys and not to sells. Also, we do not find these effects in the other periods.
+Furthermore, we find that the estimated gains from investments in securities that had a
+larger drop in price are positively correlated with trading income and net profits that banks
+report. This suggests that banks directly benefit from their trading activities.47
+Finally, we also find similar results for investments in securities and reduction in
+credit for trading banks when we use Tier 1 capital ratios. Column 1 of Panel B in the
+Appendix reports the results for buying behavior of trading banks using Tier 1 capital ratios.
+Similar to the results reported earlier (Table 3, column 1), we find that banks with a higher
+level of Tier 1 capital buy more of securities. Furthermore, investment in securities that had
+a larger price drop is increasing in the level of Tier 1 capital. We also find that trading
+
+47
+The finding that estimated gains from security investments are positively correlated with net profits that
+banks report also suggests that these security investments are not simply hedges.
+26
+
+banks with higher Tier 1 capital decrease their credit supply by more (column 2). The
+economic magnitudes are also similar to the ones reported earlier.48
+Moreover, another
+concern could be that some loans in the sample are under a model-based approach
+implemented under Basel II, which came into force in Germany before the crisis period.
+Thus, to make sure that the results are not driven by pro-cyclicality of lending that could
+arise due to Basel II, we estimate the results excluding these loans.49
+We find similar results
+to those reported earlier. The estimated coefficient (not reported) on trading banks is -0.079,
+and the interaction of trading expertise and capital is -0.03, both statistically significant and
+slightly higher in absolute value than the ones for the whole sample in Table 6.
+In sum, the results are most consistent with banks that have higher trading expertise
+increasing their investments in securities to profit from the trading opportunities and
+withdrawing funds from lending.50
+Furthermore, banks with higher capital increase their
+investments by more and also reduce their credit supply by more. We also find that the
+capital level of banks plays an important role in their securities investment behavior. We
+find that banks with a higher level of capital buy more of the securities that had a larger
+drop in price. These results are consistent with equity capital providing buffers to absorb
+risk in case the price of securities further drops below their purchase price (and affects
+profits and capital).
+4. Conclusion
+We analyze security-trading activities of banks during a crisis and the associated
+spillovers to the supply of credit. Empirical analysis has been elusive due to the lack of
+comprehensive securities register for banks. We overcome this problem by using a
+proprietary dataset of the investments of banks at the security-level for each bank in each
+quarter for the period between 2005-2012, in conjunction with the credit register from
+Germany.
+
+48
+The standard deviation of Tier 1 capital ratio is nearly twice that of the ratio of capital/total assets. Hence,
+they have similar economic effects.
+49
+Under model-based regulation, banks report probability of default for loans using internal models, which
+affects risk weights. For loans under standard approach, the risk weights are static.
+50
+See also Chakraborty, Goldstein and MacKinlay (2014) for evidence on banks reducing commercial
+lending when the increase their mortgage lending portfolio.
+27
+
+We find that banks with higher trading expertise increase their overall investments
+in securities during a crisis, especially in securities that had a larger drop in price.
+Furthermore, this effect is more pronounced for banks with a higher level of capital and in
+lower-rated and long-term securities. In fact, we do not find significant differential effects
+for triple-A rated securities. Interestingly, the overall ex-post returns are about 12.5% for
+trading-expertise banks in the crisis. In contrast to behavior in securities markets, banks
+with higher trading expertise reduce their overall supply of credit in crisis times. The
+estimated magnitude of decrease in lending is approximately five percentage points. The
+reduction in credit supply is more pronounced for trading banks with higher capital. We
+also find that the credit reduction is binding at the firm level. Given that credit from banks
+with trading expertise constitutes a large fraction of overall credit in Germany, and that
+Germany is a bank-dominated economy, the results suggest that this could have a
+significant impact on the availability of credit to firms during the crisis at the macro level.
+The question that this naturally raises is whether banks should engage in securities
+trading. While there has been a move by some regulators to limit proprietary trading
+activities of banks, the welfare consequences are not clear. Our results suggest that during a
+crisis, securities trading by banks can crowd out lending. However, at the same time, we
+also find that banks buy securities that had a larger drop in price (especially long-term and
+lower-rated securities), in turn acting as risk absorbers. Importantly, the trading banks with
+higher capital are the ones that buy more of these securities, which is contrary to claims that
+banks with low capital engage more in risk-taking through securities investment. Thus, to
+the extent that banks are large players in these markets, the results suggest that restrictions
+on securities trading by banks could affect the liquidity of these markets. The lingering
+questions that remain are, absent banks, would other intermediaries/governments be able to
+absorb the risk and provide liquidity to the securities markets? To what extent do the
+benefits associated with securities trading by banks outweigh the costs arising due to
+reduction in credit supply and the potential increase in systemic risk?51
+While these
+questions are beyond the scope of this paper, addressing them is an important avenue for
+future research.
+
+51
+See Brunnermeier et al. (2012), Saunders et al., (2014), and Freixas et al. (2015) for analyses of systemic
+risk implications of bank trading activities.
+28
+
+References
+Acharya, Viral, and Sascha Steffen, 2014, "The Greatest Carry Trade Ever?
+Understanding Eurozone Bank Risks", Journal of Financial Economics (forthcoming).
+Acharya, Viral, Hyun-Song Shin, and Tanju Yorulmazer, 2011, "Crisis Resolution
+and Bank Liquidity", Review of Financial Studies, 24(6): 2166-2205.
+Acharya, Viral, Hyun-Song Shin, and Tanju Yorulmazer, 2013, "A Theory of
+Arbitrage Capital", Review of Corporate Financial Studies, 2(1): 62-97.
+Admati, Anat, and Martin Hellwig, 2013, "The Bankers' New Clothes: What's
+Wrong with Banking and What to do about it", Princeton University Press.
+Adrian, Tobias, and Hyun Song Shin, 2010, "Liquidity and Leverage", Journal of
+Financial Intermediation, 19(3): 418-437.
+Allen, Franklin, and Douglas Gale, 1994, "Liquidity Preference, Market
+Participation and Asset Price Volatility", American Economic Review, 84(4): 933­55.
+Allen, Franklin, and Douglas Gale, 1998, "Optimal Financial Crises", Journal of
+Finance, 53(4): 1245-1284.
+Allen, Franklin, and Douglas Gale, 2005, "From Cash-in-the-Market Pricing to
+Financial Fragility", Journal of the European Economic Association, 3(2-3): 535­46.
+Allen, Franklin, and Elena Carletti, 2008, "The Role of Liquidity in Financial
+Crises", 2008, Jackson Hole Conference Proceedings, Federal Reserve Bank of Kansas City,
+279-412.
+Altonji, Joseph G., Todd E. Elder and Christopher R. Taber, 2005. "Selection on
+Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools",
+Journal of Political Economy, 113(1), 151-184.
+Battestini, Niccolò, Marco Pagano, and Saverio Simoncelli, 2014, "Systemic Risk,
+Sovereign Yields and Bank Exposures in the Euro Crisis", Economic Policy, 29(78): 203-
+251.
+Becker, Bo, and Victoria Ivashina, 2015, "Reaching for Yield in the Bond Market",
+Journal of Finance (forthcoming).
+29
+
+Bernanke, Ben, 1983, "Nonmonetary Effects of the Financial Crisis in Propagation
+of the Great Depression", American Economic Review, 73(3): 257-76.
+Brunnermeier, Markus K., and Lasse Pedersen, 2009, "Market Liquidity and
+Funding Liquidity", Review of Financial Studies, 22(6): 2201-2238.
+Brunnermeier, Markus, and Yuliy Sannikov, 2014, "A Macroeconomic Model of
+the Financial Sector", American Economic Review, 104(2): 379-421.
+Brunnermeier, Markus, Gang Dong, and Darius Palia, 2012, "Banks' Non-Interest
+Income and Systemic Risk", Working Paper.
+Chakraborty, Indraneel, Itay Goldstein and Andrew MacKinlay, 2014, "Do Asset
+Price Booms have Negative Real Effects", Working Paper.
+Dang, Tri Vi, Gary Gorton, and Bengt Holmström, 2013, "Ignorance, Debt and
+Financial Crises", Working Paper.
+Diamond, Douglas, and Philip Dybvig, 1983, "Bank Runs, Deposit Insurance and
+Liquidity", Journal of Political Economy, 99(3): 401-19.
+Diamond, Douglas W., and Raghuram G. Rajan, 2001, "Liquidity Risk, Liquidity
+Creation and Financial Fragility: A Theory of Banking", Journal of Political Economy,
+109(2): 287-327.
+Diamond Douglas W. and Raghuram G. Rajan, 2011, "Fear of Fire Sales, Illiquidity
+Seeking, and Credit Freezes", Quarterly Journal of Economics, 126(2): 557-591.
+Drechsler, Itamar, Thomas Drechsel, David Marques, and Philipp Schnabl, 2014,
+"Who Borrows from the Lender of Last Resort?", Working paper.
+Duffie, Darrell, 2010, "Asset Price Dynamics with Slow-Moving Capital", Journal
+of Finance, 65(4): 1237-1267.
+Freixas, Xavier, and Jean-Charles Rochet, 2008, "Microeconomics of Banking", 2nd
+edition, MIT Press.
+Freixas, Xavier, Luc Laeven, and José-Luis Peydró, 2015, "Systemic Risk, Crises
+and Macroprudential Policy", MIT Press.
+30
+
+Gennaioli, Nicola, Andrei Shleifer, and Robert W. Vishny, 2013, "A Model of
+Shadow Banking", Journal of Finance, 68(4): 1331-1363.
+Georgescu, Oana, and Christian Laux, 2013, "Financial Reporting, Financial
+Regulation, and Financial Stability: Evidence from German Bank Failures in 2007",
+Working Paper.
+Gorton, Gary, and Andrew Metrick, 2012, "Securitized Banking and the Run on
+Repo", Journal of Financial Economics, 104(3): 425-451.
+Gromb, Denis, and Dimitri Vayanos, 2002, "Equilibrium and Welfare in Markets
+with Financially Constrained Arbitrageurs", Journal of Financial Economics, 66: 361­407.
+Hanson, Samuel G., Andrei Shleifer, Jeremy C. Stein, and Robert W. Vishny, 2014,
+"Banks as Patient Fixed Income Investors", Working paper.
+He, Zhiguo, and Arvind Krishnamurthy, 2012, "A Model of Capital and Crises",
+Review of Economic Studies, 79(2): 735-777.
+He, Zhiguo, and Arvind Krishnamurthy, 2013, "Intermediary Asset Pricing",
+American Economic Review, 103(2): 732-770.
+He, Zhiguo, Khang In Gu and Arvind Krishnamurthy, 2010, "Balance sheet
+adjustments during the 2008 crisis", IMF Economic Review 58(1): 118-156.
+Holmstrom, Bengt, and Jean Tirole, 1998, "Private and Public Supply of Liquidity",
+Journal of Political Economy, 106(1): 1­39.
+Ivashina, Victoria, and David Scharfstein, 2010, "Bank Lending during the
+Financial Crisis of 2008", Journal of Financial Economics, 97(3): 319-338.
+Iyer, Rajkamal, José-Luis Peydró, Samuel da-Rocha-Lopes, and Antoinette Schoar,
+2014, "Interbank Liquidity Crunch and the Firm Liquidity Crunch: Evidence from the
+2007-2009 Crisis", Review of Financial Studies, 27(1): 347-372.
+Jiménez, Gabriel, Steven Ongena, José-Luis Peydró, and Jesús Saurina, 2012,
+"Credit Supply and Monetary Policy: Identifying the Bank Balance-Sheet Channel with
+Loan Applications", American Economic Review, 102(5): 2301-2326.
+31
+
+Jiménez, Gabriel, Steven Ongena, José-Luis Peydró, and Jesús Saurina, 2014,
+"Hazardous Times for Monetary Policy: What do 23 Million Loans Say about the Impact of
+Monetary Policy on Credit Risk-Taking?", Econometrica, 82(2): 463-505.
+Kashyap Anil K., Raghuram G. Rajan, and Jeremy C. Stein, 2002, "Banks as
+Liquidity Providers: an Explanation for the Co-existence of Lending and Deposit-Taking",
+Journal of Finance, 57(1): 33­73.
+Khwaja, Asim Ijaz, and Atif Mian, 2008, "Tracing the Impact of Bank Liquidity
+Shocks: Evidence form an Emerging Market", American Economic Review ,98(4): 1413-42.
+Langfield, Sam, and Marco Pagano, 2014, "Bank Bias in Europe: Effects on
+Systemic Risk and Growth", Working paper.
+Laux, Christian, and Christian Leuz, 2010, "Did Fair-Value Accounting Contribute
+to the Financial Crisis?", Journal of Economic Perspectives, 24(1): 93-118.
+Saunders Anthony, Schmid Markus and Ingo Walter, "Non-Interest Income and
+Bank Performance: Is Banks' Increased Reliance on Non-Interest Income Bad?", Working
+paper.
+Shleifer, Andrei, and Robert W Vishny, 1992, "Liquidation Values and Debt
+Capacity: A Market Equilibrium Approach", Journal of Finance, 47(4): 1343-1366.
+Shleifer, Andrei, and Robert W. Vishny, 1997, "The Limits of Arbitrage", Journal
+of Finance, 52(1): 35-55.
+Shleifer, Andrei, and Robert W. Vishny, 2010, "Unstable Banking", Journal of
+Financial Economics, 97(3): 306-318.
+Stein, Jeremy C., 2013, "The Fire-Sales Problem and Securities Financing
+Transactions", Speech by Governor Jeremy C. Stein at the Federal Reserve Bank of New
+York during the Workshop on Fire Sales as a Driver of Systemic Risk in Triparty Repo and
+other Secured Funding Markets, New York, October 4, 2013.
+Stiglitz, Joseph E., and Andrew Weiss, 1981, "Credit Rationing in Markets with
+Imperfect Information", American Economic Review, 71(3): 393-410.
+Xiong, Wei, 2001, "Convergence Trading with Wealth Effects: An Amplification
+Mechanism in Financial Markets", Journal of Financial Economics, 62(2): 247­92.
+32
+Figures
+Figure 2:
+Security Prices
+90 95 100 105
+2006:Q1 2007:Q1 2008:Q1 2009:Q1 2010:Q1 2011:Q1 2012:Q1
+All Aaa rating
+Maturity up to 1 year
+This figure depicts the monthly average price (equally weighted) of all securities in our sample (black solid line) for the period from 2006:Q1 through 2012:Q4. It also shows the
+average price of Aaa-rated securities (gray dashed line) and securities with remaining residual maturity below one year (gray solid line). The first vertical line refers to the start of
+financial crisis in 2007:Q3, and the second vertical line denotes 2009:Q4, the end of the crisis in Germany.
+33
+Figure 3:
+Security Holdings
+.9 1 1.1 1.2 1.3 1.4
+2006:Q1 2007:Q1 2008:Q1 2009:Q1 2010:Q1 2011:Q1 2012:Q1
+Trading banks Non-trading banks
+This figure presents the evolution of total security holdings as a fraction of total assets (normalized to 2007:Q2). The black solid line refers to `Trading banks' and the gray dashed
+line represents `Non-trading banks'. We classify a bank as a `Trading bank' (higher trading expertise) when it has membership to the largest fixed income platform in Germany
+(Eurex Exchange). The first vertical line refers to the start of financial crisis in 2007:Q3, and the second vertical line denotes 2009:Q4, the end of the crisis in Germany.
+34
+Figure 4:
+Credit Growth
+-1 0 1 2 3
+2007:Q1 2008:Q1 2009:Q1 2010:Q1 2011:Q1 2012:Q1
+Trading banks Non-trading banks
+This figure shows the evolution of the annualized credit growth for borrowers (firms) across the sample period (normalized to 2007:Q2). The black solid line refers to `Trading banks'
+and the gray dashed line represents `Non-trading banks'. We classify a bank as a `Trading bank' (higher trading expertise) when it has membership to the largest fixed income
+platform in Germany (Eurex Exchange). The first vertical line refers to the start of financial crisis in 2007:Q3, and the second vertical line denotes 2009:Q4, the end of the crisis in
+Germany.
+35
+Figure 5:
+Returns from Security Investments
+5 10 15 20
+2007:Q1 2007:Q3 2008:Q1 2008:Q3 2009:Q1 2009:Q3
+All Non-Aaa
+Bbb and below Maturity above 1 year
+Maturity of 5 to 10 years
+This figure shows the average annualized returns from investments in securities that fell in price (in %). We compute returns by mimicking the investments of banks with (higher)
+trading expertise in securities that had a fall in price. We consider the buys of the securities that have fallen in price in the previous quarter and assume that banks hold these
+securities until 2009:Q4. The return for each security (at a point in time) equals the annualized percentage difference in price from that quarter in which it is purchased and 2009:Q4,
+plus the coupon of the security. The average is a simple average across all securities bought in a given quarter. We do this including securities that have different ratings and maturity.
+The vertical line refers to the start of the financial crisis in 2007:Q3.
+36
+Tables
+Table 1:
+Summary statistics
+Panel A: Trading banks
+Pre-crisis Crisis Post-crisis
+Mean Std. Obs. Mean Std. Obs. Mean Std. Obs.
+Securities holdings/TA 0.19 0.12 150 0.23 0.14 296 0.22 0.13 353
+% Aaa securities 48.61 96.93 150 36.73 217.41 295 55.63 25.84 353
+% domestic securities 64.09 27.72 150 57.60 30.24 296 49.45 53.37 348
+% long-term securities 71.73 33.73 150 78.30 21.54 292 86.41 41.37 353
+% sovereign securities 36.99 44.01 134 31.58 32.43 284 41.87 43.88 353
+Buys/TA 0.035 0.035 150 0.039 0.046 296 0.029 0.030 353
+Sells/TA 0.017 0.022 150 0.011 0.015 296 0.013 0.016 353
+Loans/TA 0.67 0.13 150 0.64 0.15 296 0.61 0.15 353
+Capital/TA 4.80 3.88 150 4.81 3.98 296 5.44 5.48 353
+Size 16.65 1.91 150 16.80 1.88 296 16.85 1.94 353
+Panel B: Non-trading banks
+Pre-crisis Crisis Post-crisis
+Mean Std. Obs. Mean Std. Obs. Mean Std. Obs.
+Securities holdings/TA 0.18 0.11 2513 0.19 0.10 4983 0.20 0.11 5979
+% Aaa securities 45.49 23.04 2281 44.13 25.02 4451 43.12 21.98 5491
+% domestic securities 79.27 21.06 2503 72.39 24.99 4974 67.29 26.77 5941
+% long-term securities 78.06 17.90 2502 78.12 20.13 4923 83.83 22.87 5950
+% sovereign securities 23.66 19.03 1981 21.98 19.04 3634 23.14 18.67 4977
+Buys/TA 0.019 0.042 2513 0.022 0.026 4983 0.015 0.018 5979
+Sells/TA 0.007 0.037 2513 0.004 0.008 4983 0.003 0.007 5979
+Loans/TA 0.69 0.12 2513 0.70 0.11 4983 0.68 0.12 5979
+Capital/TA 5.07 1.31 2513 5.07 1.32 4983 5.22 1.34 5979
+Size 14.46 0.84 2513 14.55 0.81 4983 14.65 0.78 5979
+This table reports the summary statistics of the variables used in the paper, across three periods. We define
+pre-crisis (2006:Q1 - 2007:Q2), crisis (2007:Q3 - 2009:Q4), and post-crisis (2010:Q1 - 2012:Q4). Panel A reports
+the summary statistics for `Trading banks'. Panel B reports the summary statistics for `Non-trading banks'.
+We classify a bank as a `Trading bank' (higher trading expertise) when it has membership to the largest fixed
+income platform in Germany (Eurex Exchange). `Aaa' refers to the rating of securities. Domestic securities
+are securities where the issuer is German. Long-term securities are securities that have a remaining residual
+maturity higher than one year. Sovereign securities are securities issued by countries. `Capital/TA' measures
+the book value of equity as a fraction of total assets (in %) for bank b. `Size' refers to the logarithm of total
+assets (in EUR thousands) for bank b. The definition of the other variables can be found in the Appendix.
+37
+Table 2 Panel A:
+Trading behavior during the crisis
+Dependent variable:
+Sec/TA Buys Sells Buys Sells
+(1) (2) (3) (4) (5)
+Trading bankb 5.215** 2.419*** 2.255*** 2.043*** 1.837***
+(2.563) (0.571) (0.54) (0.475) (0.411)
+Bank controls Y Y Y Y Y
+Security*Time fixed effects N N N Y Y
+Bank fixed effects N N N N N
+Observations 504 248,399 258,731 248,399 258,731
+R-squared 0.073 0.114 0.088 0.323 0.476
+The dependent variable in column 1 is the change in Securities holdings/TA for each bank from 2007:Q2 to 2009:Q4. The dependent variable for the
+`Buys' is Log(Amount)i,b,t
+, which is the logarithm of the amount bought (in nominal value) by bank b of security i during quarter t, and zero otherwise.
+For the `Sells', the dependent variable is the logarithm of the amount sold (in nominal value) by bank b of security i during quarter t, and zero otherwise.
+`Trading bank' is a binary variable that equals the value of one when bank b has membership to the largest fixed income platform in Germany (Eurex
+Exchange), and zero otherwise, which proxies for banks with higher trading expertise. All regressions are estimated using ordinary least squares. Lagged,
+time-varying bank controls (Size, Capital/TA, Interbank borrowing/TA, Deposits/TA) are either included (`Y') or not included (`N'). The definition of the
+main independent variables can be found in the Appendix. A constant is included, but its coefficient is left unreported. Fixed effects are either included
+(`Y'), not included (`N'), or spanned by another set of fixed effects (`-'). Robust standard errors clustered at bank level following Arellano (1987) are
+reported in parentheses. ***: Significant at 1 percent level; **: Significant at 5 percent level; *: Significant at 10 percent level.
+38
+Table 2 Panel B:
+Buying behavior during the crisis across securities
+Dependent variable: Buys
+All Aaa-rated Below Aaa-rated Up to 1 Year Above 1 Year
+(1) (2) (3) (4) (5)
+Trading bankb*pricei,t-1
+-0.231** -0.160 -0.241* 0.164 -0.248***
+(0.113) (0.159) (0.138) (0.748) (0.113)
+Bank controls Y Y Y Y Y
+Security*Time fixed effects Y Y Y Y Y
+Bank fixed effects Y Y Y Y Y
+Observations 36,885 11,918 24,967 6,336 30,549
+R-squared 0.703 0.682 0.721 0.714 0.708
+The estimations report the buying behavior of banks across different securities conditional on buying. The dependent variable is Log(Amount)i,b,t
+, which
+is the logarithm of the amount bought (in nominal value) by bank b of security i during quarter t. The splits are based on ratings and remaining residual
+maturity of the securities. `Trading bank' is a binary variable that equals the value of one when bank b has membership to the largest fixed income platform
+in Germany (Eurex Exchange), and zero otherwise, which proxies for banks with higher trading expertise. All regressions are estimated using ordinary
+least squares. The percentage price change of security i, `pricei,t-1
+', is demeaned by the sample mean and standardized using the standard deviation of
+the respective subset of securities in the crisis sample. Lagged, time-varying bank controls (Size, Capital/TA, Interbank borrowing/TA, Deposits/TA) are
+either included (`Y') or not included (`N'). The definition of the main independent variables can be found in the Appendix. A constant is included, but its
+coefficient is left unreported. Fixed effects are either included (`Y'), not included (`N'), or spanned by another set of fixed effects (`-'). Robust standard
+errors clustered at bank level following Arellano (1987) are reported in parentheses. ***: Significant at 1 percent level; **: Significant at 5 percent level;
+*: Significant at 10 percent level.
+39
+Table 2 Panel C:
+Selling behavior during the crisis across securities
+Dependent variable: Sells
+All Aaa-rated Below Aaa-rated Up to 1 Year Above 1 Year
+(1) (2) (3) (4) (5)
+Trading bankb*pricei,t-1
+0.073 0.159 0.057 0.162 0.058
+(0.075) (0.258) (0.085) (0.188) (0.086)
+Bank controls Y Y Y Y Y
+Security*Time fixed effects Y Y Y Y Y
+Bank fixed effects Y Y Y Y Y
+Observations 48,546 14,682 33,864 16,055 32,491
+R-squared 0.658 0.663 0.665 0.620 0.688
+The estimations report the selling behavior of banks across different securities conditional on selling. The dependent variable is Log(Amount)i,b,t
+, which
+is the logarithm of the amount sold (in nominal value) by bank b of security i during quarter t. The splits are based on ratings and remaining residual
+maturity of the securities. `Trading bank' is a binary variable that equals the value of one when bank b has membership to the largest fixed income
+platform in Germany (Eurex Exchange), and zero otherwise, which proxies for banks with higher trading expertise. The percentage price change of
+security i, `pricei,t-1
+', is demeaned by the sample mean and standardized using the standard deviation of the respective subset of securities in the
+crisis sample. All regressions are estimated using ordinary least squares. Lagged, time-varying bank controls (Size, Capital/TA, Interbank borrowing/TA,
+Deposits/TA) are either included (`Y') or not included (`N'). The definition of the main independent variables can be found in the Appendix. A constant
+is included, but its coefficient is left unreported. Fixed effects are either included (`Y'), not included (`N'), or spanned by another set of effects (`-').
+Robust standard errors clustered at bank level following Arellano (1987) are reported in parentheses. ***: Significant at 1 percent level; **: Significant at
+5 percent level; *: Significant at 10 percent level.
+40
+Table 3:
+Buying behavior during the crisis based on capital
+Dependent variable: Buys
+Trading banks Non-trading banks
+(1) (2) (3) (4) (5) (6) (7) (8)
+Capital/TAb,t-1 0.111* 0.027
+(0.061) (0.068)
+Capital/TAb,t-1*pricei,t-1
+-0.061*** -0.049* -0.049* -0.061** -0.013*** -0.010*** -0.010*** -0.035
+(0.018) (0.027) (0.027) (0.025) (0.005) (0.003) (0.003) (0.101)
+Cumulative gains/TAb,i,t-1 6.184 6.380 6.227 6.663 0.0125 0.369 0.307 0.000
+(5.444) (5.817) (5.824) (13.98) (0.356) (0.356) (0.364) 0.000
+Capital/TAb,t-1*Cumulative -0.166 5.776 -0.176 0.000
+gains/TAb,i,t-1 (0.585) (8.482) (0.139) (0.000)
+Bank controls Y - - - Y - - -
+Security*Time fixed effects Y Y Y Y Y Y Y Y
+Bank fixed effects Y - - - Y - - -
+Bank*Time fixed effects N Y Y Y N Y Y Y
+Observations 90,167 90,167 90,167 20,088 141,430 141,430 141,430 8,051
+R-squared 0.502 0.507 0.507 0.793 0.340 0.375 0.375 0.958
+The dependent variable is the Log(Amount)i,b,t
+, which is the logarithm of the amount bought (in nominal value) by bank b of security i during quarter t,
+and zero otherwise, and column 4 and 8 report the results of the estimations conditional on buying a security. Columns 1 to 4 report the results for trading
+banks, and columns 5 to 8 for the other banks. `Capital/TAb,t-1
+' measures the book value of equity as a fraction of total assets (in %) for bank b in quarter
+t - 1. The percentage price change of security i, `pricei,t-1
+', is demeaned by the sample mean and standardized using its standard deviation in the
+crisis sample. All regressions are estimated using ordinary least squares. Lagged, time-varying bank controls (Size, Capital/TA, Interbank borrowing/TA,
+Deposits/TA) are either included (`Y') or not included (`N'). The definition of the main independent variables can be found in the Appendix. A constant
+is included, but its coefficient is left unreported. Fixed effects are either included (`Y'), not included (`N'), or spanned by another set of effects (`-').
+Robust standard errors clustered at bank level following Arellano (1987) are reported in parentheses. ***: Significant at 1 percent level; **: Significant at
+5 percent level; *: Significant at 10 percent level.
+41
+Table 4:
+Buying behavior during the crisis across different types of securities
+based on capital
+Panel A: Trading banks
+Dependent variable: Buys
+Trading banks
+Aaa-rated Aa to A
+rated
+Bbb-rated
+and below
+Up to 1
+Year
+1 to 5
+Year
+5 to 10
+Year
+(1) (2) (3) (4) (5) (6)
+Capital/TAb,t-1*pricei,t-1
+0.023 -0.085*** -0.062** -0.037 -0.102*** -0.111***
+(0.038) (0.032) (0.030) (0.045) (0.028) (0.032)
+Security*Time fixed effects Y Y Y Y Y Y
+Bank*Time fixed effects Y Y Y Y Y Y
+Observations 29,037 25,791 23,860 17,615 52,182 21,603
+R-squared 0.417 0.486 0.533 0.497 0.468 0.452
+Panel B: Non-trading banks
+Dependent variable: Buys
+Non-trading banks
+Aaa-rated Aa to A
+rated
+Bbb-rated
+and below
+Up to 1
+Year
+1 to 5
+Year
+5 to 10
+Year
+(1) (2) (3) (4) (5) (6)
+Capital/TAb,t-1*pricei,t-1
+-0.086* -0.011 -0.001 -0.007 -0.010 -0.021
+(0.045) (0.025) (0.005) (0.006) (0.008) (0.014)
+Security*Time fixed effects Y Y Y Y Y Y
+Bank*Time fixed effects Y Y Y Y Y Y
+Observations 35,679 41,539 40,181 27,094 87,135 29,164
+R-squared 0.516 0.456 0.490 0.530 0.415 0.516
+The dependent variable is the Log(Amount)i,b,t
+, which is the logarithm of the amount bought (in nominal value)
+by bank b of security i during quarter t, and zero otherwise. The splits are based on ratings and remaining
+residual maturity of the securities. Panel A shows the results for trading banks and Panel B for the other banks.
+`Capital/TAb,t-1
+' measures the book value of equity as a fraction of total assets (in %) for bank b in quarter t-1.
+The percentage price change of security i, `pricei,t-1
+', is demeaned by the sample mean and standardized using
+the standard deviation of the respective subset of securities in the crisis sample. All regressions are estimated
+using ordinary least squares. Lagged, time-varying bank controls (Size, Capital/TA, Interbank borrowing/TA,
+Deposits/TA) are either included (`Y') or not included (`N'). The definition of the main independent variables
+can be found in the Appendix. A constant is included, but its coefficient is left unreported. Fixed effects are
+either included (`Y'), not included (`N'), or spanned by another set of effects (`-'). Robust standard errors
+clustered at bank level following Arellano (1987) are reported in parentheses. ***: Significant at 1 percent level;
+**: Significant at 5 percent level; *: Significant at 10 percent level.
+42
+Table 5:
+Selling behavior during the crisis based on capital
+Dependent variable: Sells
+Trading banks Non-trading banks
+(1) (2) (3) (4) (5) (6) (7) (8)
+Capital/TAb,t-1 0.011 0.013
+(0.054) (0.128)
+Capital/TAb,t-1*pricei,t-1
+0.0002 -0.005 -0.003 0.008 -0.025** -0.003 0.001 -0.024
+(0.026) (0.033) (0.033) (0.018) (0.010) (0.009) (0.008) (0.054)
+Cumulative gains/TAb,i,t-1 0.054 -0.097 -0.227 -0.949 -0.248*** -0.171* -0.221* -2.391***
+(0.326) (0.312) (0.328) (0.675) (0.094) (0.098) (0.130) (0.335)
+Capital/TAb,t-1*Cumulative -0.136** -0.027 -0.139 -0.419**
+gains/TAb,i,t-1 (0.064) (0.312) (0.119) (0.171)
+Bank controls Y - - - Y - - -
+Security*Time fixed effects Y Y Y Y Y Y Y Y
+Bank fixed effects Y - - - Y - - -
+Bank*Time fixed effects N Y Y Y N Y Y Y
+Observations 96,033 96,033 96,033 30,877 146,708 146,708 146,708 13,781
+R-squared 0.537 0.542 0.542 0.722 0.639 0.678 0.678 0.893
+The dependent variable is the Log(Amount)i,b,t
+, which is the logarithm of the amount sold (in nominal value) by bank b of security i during quarter
+t, and zero otherwise, and columns 4 and 8 report the results of the estimations conditional on selling a security. `Capital/TAb,t-1
+' measures the book
+value of equity as a fraction of total assets (in %) for bank b in quarter t - 1. The percentage price change of security i, `pricei,t-1
+', is demeaned by
+the sample mean and standardized using its standard deviation in the crisis sample. All regressions are estimated using ordinary least squares. Lagged,
+time-varying bank controls (Size, Capital/TA, Interbank borrowing/TA, Deposits/TA) are either included (`Y') or not included (`N'). The definition of the
+main independent variables can be found in the Appendix. A constant is included, but its coefficient is left unreported. Fixed effects are either included
+(`Y'), not included (`N'), or spanned by another set of effects (`-'). Robust standard errors clustered at bank level following Arellano (1987) are reported
+in parentheses. ***: Significant at 1 percent level; **: Significant at 5 percent level; *: Significant at 10 percent level.
+43
+Table 6:
+Lending behavior during the crisis
+Dependent variable: Change in credit
+(1) (2) (3) (4) (5) (6) (7) (8)
+Trading bankb -0.050* -0.061** -0.058** -0.058** -0.022***
+(0.027) (0.026) (0.026) (0.026) (0.002)
+Trading bankb*Capital/TAb,t-1 -0.014** -0.014*** -0.014*** -0.017* -0.018** -0.017*
+(0.006) (0.005) (0.005) (0.009) (0.007) (0.010)
+Non-trading bankb*Capital/TAb,t-1 0.0041 0.0039 0.0039 0.0094 0.002 0.0094
+(0.003) (0.003) (0.003) (0.025) (0.028) (0.025)
+Trading bankb*Future defaultj,t -0.0863
+(0.070)
+Cumulative gains/TAb,t-1 0.002 -0.005** -0.003** -0.005**
+(0.003) (0.002) (0.001) (0.002)
+Bank controls N N Y Y Y Y Y N
+Borrower*Time fixed effects Y Y Y Y Y N Y N
+Bank*Borrower fixed effects N N N N Y Y Y
+Time fixed effects - - - - - Y - Y
+Observations 502,243 502,243 502,243 501,786 501,786 501,786 501,786 228,547
+R-squared 0.499 0.499 0.499 0.5 0.642 0.272 0.636 0.003
+The dependent variable from columns 1 to 7 is  Log(Credit)b,j,t
+, which is the change in the log of credit granted by bank b to firm j during quarter t,
+whereas in column 8, the dependent variable is the change in log of the total firm credit of firm j during quarter t by all banks. The independent variable
+for column 8 is the fraction of borrowing of a firm from banks with trading expertise before the crisis (2007:Q2). `Trading bank' is a binary variable
+that equals the value of one when bank b has membership to the largest fixed income platform in Germany (Eurex Exchange), and zero otherwise, which
+proxies for banks with higher trading expertise. `Non-trading banks' is a binary variable that equals the value of one when bank b does not have a direct
+Eurex Exchange membership and zero otherwise. `Capital/TAb,t-1
+' measures the book value of equity as a fraction of total assets (in %) for bank b in
+quarter t - 1. All regressions are estimated using ordinary least squares. Lagged, time-varying bank controls (Size, Capital/TA, Interbank borrowing/TA,
+Deposits/TA) are either included (`Y') or not included (`N'). The definition of the main independent variables can be found in the Appendix. A constant
+is included, but its coefficient is left unreported. Fixed effects are either included (`Y'), not included (`N'), or spanned by another set of effects (`-').
+Robust standard errors clustered at bank level following Arellano (1987) are reported in parentheses. ***: Significant at 1 percent level; **: Significant at
+5 percent level; *: Significant at 10 percent level.
+44
+Table 7:
+Lending and Investment behavior in the pre-crisis and post-crisis period
+Panel A: Lending behavior
+Dependent variable: Change in credit
+Pre-crisis Post-crisis
+(1) (2) (3) (4) (5) (6)
+Trading bankb -0.007 -0.007
+(0.0066) (0.005)
+Trading bankb* -0.001 0.014 0.012 -0.0001 -0.001 0.001
+Capital/TAb,t-1 (0.002) (0.014) (0.020) (0.002) (0.003) (0.004)
+Non-trading bankb* 0.001 -0.016 -0.022 0.001 -0.0001 0.006
+Capital/TAb,t-1 (0.002) (0.010) (0.013) (0.001) (0.003) (0.003)
+Trading bankb* 0.018 -0.004
+Future Defaultj,t (0.039) (0.021)
+Cumulative Gains/TAb,t-1 -0.795 -0.619 -0.933 0.273 -0.233 -0.002
+0.558 (1.559) (1.930) (0.191) (0.355) (0.004)
+Bank controls Y Y Y Y Y Y
+Borrower*Time fixed effects Y Y Y Y Y Y
+Bank fixed effects N Y N N Y N
+Observations 192,051 192,051 192,051 689,124 689,124 689,124
+R-squared 0.546 0.548 0.673 0.533 0.535 0.613
+Panel B: Investment behavior
+Dependent variable: Sec/TA
+Pre-crisis Post-crisis
+(1) (2)
+Trading bankb -1.596 1.670
+(1.559) (1.806)
+Bank controls Y Y
+Observations 502 501
+R-squared 0.026 0.013
+The dependent variable in Panel A is  Log(Credit)b,j,t
+, which is the change in the log of credit granted by bank
+b to firm j during quarter t. In Panel B, the dependent variable is the change in Securities/Total Assets for each
+bank over the respective period. `Trading bank' is a binary variable that equals the value of one when bank b
+has membership to the largest fixed income platform in Germany (Eurex Exchange), and zero otherwise, which
+proxies for banks with higher trading expertise. `Non-trading banks' is a binary variable that equals the value of
+one when bank b has not a direct Eurex Exchange membership, and zero otherwise. `Capital/TAb,t-1
+' measures
+the book value of equity as a fraction of total assets (in %) for bank b in quarter t-1. All regressions are estimated
+using ordinary least squares. Lagged, time-varying bank controls (Size, Capital/TA, Interbank borrowing/TA,
+Deposits/TA) are either included (`Y') or not included (`N'). The definition of the main independent variables
+can be found in the Appendix. A constant is included, but its coefficient is left unreported. Fixed effects are
+either included (`Y'), not included (`N'), or spanned by another set of effects (`-'). Robust standard errors
+clustered at bank level following Arellano (1987) are reported in parentheses. ***: Significant at 1 percent level;
+**: Significant at 5 percent level; *: Significant at 10 percent level.
+45
+Appendix
+Figure A1:
+Greek Government Bonds
+(a) 5-year Greek sovereign CDS spread (in basis points)
+0 500 1000 1500 2000 2500
+2006:Q1 2007:Q1 2008:Q1 2009:Q1 2010:Q1 2011:Q1 2012:Q1
+(b) Security holdings
+0 .5 1 1.5
+2006:Q1 2007:Q1 2008:Q1 2009:Q1 2010:Q1 2011:Q1 2012:Q1
+Trading banks Non-trading banks
+Subfigure (a) shows the spreads (in basis points) of a 5-year Greek sovereign CDS. Subfigure (b) reflects the total notional amount of Greek sovereign bonds as a fraction of total
+assets for the period from 2006:Q1 through 2012:Q4 (normalized to 2007:Q2). The black solid line refers to `Trading banks' and the gray dashed line represents `Non-trading banks'.
+We classify a bank as a `Trading bank' (higher trading expertise) when it has membership to the largest fixed income platform in Germany (Eurex Exchange). The first vertical line
+refers to the start of financial crisis in 2007:Q3, and the second vertical line denotes 2009:Q4, the end of the crisis in Germany.
+46
+Table A1:
+Investment and Lending behavior during the crisis
+Panel A: Buying behavior across different ratings and maturities
+Dependent variable: Buys
+Aaa-rated Aa to A
+rated
+Bbb-rated
+and below
+Up to 1
+Year
+1 to 5
+Year
+5 to 10
+Year
+(1) (2) (3) (4) (5) (6)
+Trading bankb 1.936*** 1.873*** 2.337*** 2.369*** 1.874*** 2.063***
+(0.522) (0.456) (0.586) (0.460) (0.503) (0.533)
+Bank Controls Y Y Y Y Y Y
+Security*Time fixed effects Y Y Y Y Y Y
+Observations 64,716 67,330 64,041 44,709 139,317 50,767
+R-squared 0.322 0.301 0.335 0.352 0.307 0.302
+Panel B: Investment and lending behavior based on Tier 1 capital ratio
+Dependent variable:
+Buys Change in credit
+(1) (2)
+Tier 1/RWAb,t-1 0.058* Trading bankb -0.065*
+(0.035) (0.035)
+Tier 1/RWAb,t-1*pricei,t-1 -0.024* Trading bankb* -0.008*
+(0.015) Tier 1/RWAb,t-1 (0.005)
+Non-trading bankb* 0.001
+Tier 1/RWAb,t-1 (0.003)
+Bank controls Y Y
+Security*Time fixed effects Y
+Bank fixed effects Y N
+Borrower*Time fixed effects Y
+Observations 83,635 488,726
+R-squared 0.506 0.505
+Panel A reports the estimations reported in Table 2, Column 4, split by different ratings and maturities. Panel
+B presents the estimates of the investment regression reported in Table 3, Column 1 and the credit regression
+reported in Table 6, Column 4 using Tier 1 capital ratios. See the description of the econometric specifications
+in the corresponding tables. Lagged, time-varying bank controls (Size, Capital/TA, Interbank borrowing/TA,
+Deposits/TA) are either included (`Y') or not included (`N'). The definition of the main independent variables
+can be found in Table A2. A constant is included, but its coefficient is left unreported. Fixed effects are either
+included (`Y'), not included (`N'), or spanned by another set of effects (`-'). Robust standard errors clustered
+at bank level following Arellano (1987) are reported in parentheses. ***: Significant at 1 percent level; **:
+Significant at 5 percent level; *: Significant at 10 percent level.
+47
+Table A2:
+Definition of main independent variables
+Variable name Definition
+Trading bankb
+Binary variable that equals the value of one when bank b has membership to the
+largest fixed income platform in Germany (Eurex Exchange), and zero otherwise.
+Non-trading bankb
+Binary variable that equals the value of one when bank b does not have membership to
+the largest fixed income platform in Germany (Eurex Exchange), and zero otherwise.
+pricei,t-1 Percentage price change of security i from t - 2 to t - 1.
+Capital/TAb,t-1
+Measures the book value of equity as a fraction of total assets (in %) for bank b in
+quarter t - 1.
+Cumulative gainsb,i,t-1
+Unrealized gains/losses (in EUR) as a fraction of total assets that a bank b generates
+with holding the security i in quarter t - 1. We compute profits by multiplying the
+change of the market-to-book ratio of security i with the amount held (in nominal
+values) by bank b in quarter t - 1. We further cumulate the profits of this security
+from the quarter, in which it has been purchased, until quarter t - 1.
+Cumulative gainsb,t-1
+Unrealized gains/losses (in EUR) as a fraction of total assets that a bank generates
+from all its securities holdings on quarter t - 1. We compute this by aggregating the
+cumulative gains for individual securities held by the bank (described above) at the
+bank level.
+Future defaultj,t Binary variable that equals the value of one when borrower j defaults on its loan at
+any point in time during the lifetime of the credit contract after quarter t, and zero
+otherwise.
+Ratingi,t Rating of security i in quarter t, where rating equals a numeric scale of Moody's rating
+codes that range from category `Aaa' through `C'.
+Maturityi,t Number of months remaining (residual maturity) from quarter t onwards until security
+i matures.
+48
+

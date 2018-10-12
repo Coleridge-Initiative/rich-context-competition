@@ -1,0 +1,591 @@
+Reducing the sodium-potassium ratio in the US diet: a challenge
+for public health1­3
+Adam Drewnowski, Matthieu Maillot, and Colin Rehm
+ABSTRACT
+Background: The 2010 Dietary Guidelines emphasized that dietary
+sodium should be limited to 2300 mg/d, with a lower limit of 1500
+mg/d for adults aged .50 y, non-Hispanic blacks, and those with
+diabetes, hypertension, or chronic kidney disease. The potassium
+goal remained at 4700 mg/d.
+Objective: The objective was to identify subpopulations for whom
+the 1500- or 2300-mg Na/d goals applied and to examine the joint
+sodium and potassium intakes for these persons.
+Design: The analyses were based on NHANES 2003­2008 data for
+12,038 adult men and women aged $20 y. Persons aged .50 y,
+non-Hispanic blacks, and persons with hypertension, diabetes, and
+chronic kidney disease were identified. Mean sodium, potassium,
+and energy intakes were obtained from 2 nonconsecutive 24-h di-
+etary recalls. Historical analyses of the sodium-potassium ratios in
+the American diet were based on NHANES 1971­2006.
+Results: Among persons recommended to consume ,2300 mg Na/
+d, ,0.12% jointly met the sodium and potassium guidelines. In the
+1500-mg/d group, the guidelines were jointly met by ,0.015%.
+Based on Dietary Guidelines, the corresponding dietary sodium-
+potassium ratio was either 0.49 (2300/4700) or 0.32 (1500/4700).
+Historical analyses of NHANES data by age-sex groups from 1971
+to 2006 showed that sodium-potassium ratios were never ,0.83.
+Conclusions: Joint dietary guidelines for sodium and potassium,
+intended for most American adults, are currently being met by
+#0.015% of the population. Extraordinary efforts will be needed
+to meet the recommendations of the Dietary Guidelines. Am J
+Clin Nutr 2012;96:439­44.
+INTRODUCTION
+Adult Americans consume too much sodium and not enough
+potassium (1). Current sodium consumption is estimated at 2300­
+4500 mg/d, whereas potassium consumption is estimated at
+2400­3200 mg/d, depending on age and sex (1). The health
+consequences of excessive sodium intakes and a high sodium-
+potassium ratio are severe, leading to high blood pressure, heart
+disease, and stroke (2­5). In recent analyses of deaths linked to
+NHANES III data (1988­1994), higher sodium-potassium ratios
+were associated with a higher risk of all-cause and cardiovas-
+cular disease mortality (6).
+Public health recommendations have stressed a reduction in so-
+dium and a simultaneous increase in potassium intakes (1). The 2010
+Dietary Guidelines advise Americans to reduce daily sodium intake
+to ,2300 mg/d per person, with an even lower goal of 1500 mg/
+d for persons who are aged $51 y, are African American, or have
+hypertension, diabetes, or chronic kidney disease (CKD)4. The 1500-
+mg/d goal applies to about half of the US population, including
+children, and to most adults. The 2010 Dietary Guidelines kept
+potassium goals at the current amount of 4700 mg/d per person (1).
+To our knowledge, no study has examined the extent of si-
+multaneous compliance with the sodium and potassium guidelines
+using nationally representative data. A recent report from the CDC
+noted that among persons aged $18 y with a recommendation of
+2300 mg Na/d, 5% met this goal (7). Among persons aged $18 y
+with a recommendation of 1500 mg Na/d, only 0.6% met this goal.
+The CDC report concluded that meeting the Dietary Guidelines
+recommendations will require new population-based strategies and
+increased public health and private efforts (7).
+The current hypothesis was that joint compliance with the
+sodium and potassium guidelines by the targeted groups would be
+substantially lower than the 0.6% observed for sodium alone. The
+current research objective was to identify those subpopulations
+for whom the 1500-mg/d and 2300-mg/d recommendations ap-
+plied and to estimate their joint compliance with dietary sodium
+and potassium goals, as based on two 24-h dietary recalls from
+a nationally representative sample. The associated public health
+policy objective was to determine whether the analyses of
+published federal databases would offer insight into the feasi-
+bility of the Dietary Guidelines themselves and their likely
+adoption by the American public, given the current food supply.
+METHODS
+Analyses of the NHANES 2003­2008 database
+The current analyses used data for 2003­2008 from NHANES
+2003­2008. NHANES is a nationally representative survey of
+the US noninstitutionalized population aged $2 y. The current
+1 Fromthe Nutritional Sciences Program and Center for Public Health Nu-
+trition, School of Public Health, University of Washington, Seattle, WA (AD
+and CR); INRA, UMR1260 "Nutriments Lipidiqueset Pre
+´vention des Maladies
+Me
+´taboliques," Marseille, France (MM); and Universite
+´ Aix-Marseille 1 and 2,
+Faculte
+´ de Me
+´decine, Marseille, France (MM).
+2 Supported by NIH grants R01 DK 077068-04 and R21 DK085406.
+3 Address correspondence to A Drewnowski, University of Washington,
+Box 353410, Nutritional Sciences, Raitt Hall 305E, Seattle, WA 98195.
+E-mail: adamdrew@uw.edu.
+4 Abbreviations used: CKD, chronic kidney disease; DASH, Dietary Ap-
+proaches to Stop Hypertension; GFR, glomerular filtration rate.
+ReceivedAugust 17, 2011. Accepted for publication May 14, 2012.
+First published online July 3, 2012; doi: 10.3945/ajcn.111.025353.
+Am J Clin Nutr 2012;96:439­44. Printed in USA. Ó 2012 American Society for Nutrition 439
+by guest on May 18, 2016
+ajcn.nutrition.org
+Downloaded from
+25353.DC1.html
+http://ajcn.nutrition.org/content/suppl/2012/07/31/ajcn.111.0
+Supplemental Material can be found at:
+sample was limited to adults aged $20 y with 2 completed and
+valid 24-h dietary recalls. The following exclusions were made:
+missing information on diagnosed diabetes, missing information
+on taking prescriptions to control hypertension, serum creatinine
+(needed to estimate glomerular filtration rate [GFR]), or missing
+ratio of urinary albumin to creatinine. The final sample was
+12,038 adults aged .20 y.
+Information on age, race-ethnicity, CKD, and self-reported
+hypertension and diabetes was used to identify individuals in
+the population recommended to consume #1500 mg Na/d. All
+respondents aged .50 y, who reported being non-Hispanic
+black, who took prescriptions to control hypertension, who re-
+ported being told by a medical professional that they have di-
+abetes, or who had a GFR ,60 mL $ min21 $ m22 or a urinary
+albumin-to-creatinine ratio .30 mg/g were included in the re-
+duced-sodium group. GFR was estimated by using the Modifi-
+cation of Diet in Renal Disease study estimating equation (8).
+All other respondents were included in the 2300-mg Na group.
+Self-reported hypertension and diabetes assessments were used
+rather than clinical or laboratory measurements to preserve a
+sufficiently large sample size and to keep the focus on in-
+dividuals with known, rather than undiagnosed, diabetes and
+hypertension.
+For each survey participant, sodium, potassium, and energy
+intakes were obtained from 2 nonconsecutive 24-h dietary recalls.
+The average of these 2 d was the estimated intake used in this
+study. This measure reflects less variability than a single 24-h
+dietary recall, although the means are generally the same.
+However, the second 24-h dietary recall is done by telephone and
+systematically results in lower reported energy intakes (and
+consequently lower nutrient intakes). Although the 2-d values
+better reflect the true distribution of nutrient intakes, as compared
+with a single 24-h dietary recall, they do not reflect true estimates
+of habitual intake. They do provide an upper bound of the
+proportion of the population meeting a given recommendation,
+because intakes based on data from multiple days will have less
+variable distributions. The current purpose was to estimate the
+more optimistic upper bound for joint adherence to the sodium
+and potassium guidelines from a representative sample of US
+adults. Several studies have made the point that a low dietary
+sodium-potassium ratio may be a marker of high intake of plant
+foods and lower intake of processed foods (9). Examining food
+choices characteristic of low-sodium, high-potassium diets may
+provide additional insight as to how Dietary Guidelines ought to
+be communicated to the public. All analyses of 2003­2008
+NHANES data were conducted by using Stata 11.0 (StataCorp)
+and accounted for the complex survey design.
+Analyses of NHANES data for 1971­2006
+Previously published results from federal dietary surveys were
+evaluated with the goal of identifying any population groups that
+came close to achieving the current recommendations. Published
+sodium and potassium intakes for males and females aged 12­74
+y, by age-sex groups, were based on federal dietary surveys
+conducted between 1971 and 2006.
+Details on NHANES I, which was conducted in 1971­1975,
+were previously published (10, 11). NHANES II was conducted
+in 1976­1980 and was based on one 24-h dietary recall. In-
+dividual estimates of sodium added in cooking or at the table
+were not available. NHANES III was conducted in 1988­1994.
+The data on separate sodium and potassium intakes by age-sex
+groups, based on NHANES data, were published in the suc-
+cessive Nutrition Monitoring in the United States Reports (12­
+14). Additional historical data came from the 2005­2006 cycle
+of NHANES as reported in the 2010 Dietary Guidelines for
+Americans (15). It is important to note that these sodium-
+potassium ratios were based on aggregate as opposed to individual-
+level data.
+RESULTS
+Two-day mean sodium and potassium intakes from NHANES
+2003­2008 for adults aged $20 y are shown in Figure 1. Persons
+FIGURE 1. Two-day mean sodium and potassium intakes among US adults (age $20 y), NHANES 2003­2008. Persons with recommended sodium goals
+of 1500 and 2300 mg/d, respectively, are indicated. Regression lines show the current (broken line) sodium-potassium ratio. Dietary recommendations for
+sodium and potassium in relation to actual intakes are indicated.
+440 DREWNOWSKI ET AL
+by guest on May 18, 2016
+ajcn.nutrition.org
+Downloaded from
+with recommended sodium intakes of 2300 mg/d and those
+with recommended sodium intakes of 1500 mg/d are identi-
+fied. The figure was cropped to exclude potassium intakes
+.6000 mg/d and sodium intakes .8000 mg/d; however, those
+persons were included in all other analyses. The recommended
+sodium and potassium goals (solid lines) and the observed
+dietary sodium-potassium ratio (dashed line) are also shown in
+Figure 1.
+The current estimate was that the recommendation to consume
+,2300 mg Na/d applied to 49.7% of adults, whereas the
+1500-mg/d recommendation applied to 50.3% of adults. Among
+persons recommended to consume ,2300 mg Na/d, 0.12%
+(95% CI: 0.043, 0.31%; n = 6) jointly met the sodium and po-
+tassium guidelines. Among those recommended to consume
+,1500 mg Na/d, 0.015% (95% CI: 0.002, 0.11%; n = 1) jointly
+met the sodium and potassium guidelines. Because these values
+are based on only 2 d of dietary intakes, they are likely over-
+estimates (or an upper bound) of the true proportion in the
+population who jointly adhere to the 2 recommendations. Thus,
+the proportion of the US population to whom the 1500-mg/d and
+2300-mg/d recommendations apply and who were currently
+complying with the joint sodium-potassium recommendations
+can be estimated at being between 0% and 0.015% and 0% and
+0.12%, respectively.
+A secondary analysis excluded those individuals with CKD
+from the evaluation of joint adherence to sodium and potassium
+guidelines, because it is recommended that this population should
+be consuming a low-potassium diet (16). After this exclusion was
+applied (n = 2177 excluded), the proportion of the US pop-
+ulation to whom the 1500-mg/d recommendation applied and
+who were currently complying with the joint sodium-potassium
+recommendations rose from 0.015% to 0.021% (n = 1). The
+corresponding percentage for those recommended to consume
+,2300 mg Na/d remained at 0.12%. Even after this sub-
+population was excluded, the estimates of joint adherence re-
+mained extremely low, between 0% and 0.02% for the reduced
+sodium group and 0.12% for the 2300 mg/d group.
+Additional analyses addressed the correlation between so-
+dium, potassium, and energy intakes. These data are presented in
+Table 1. The correlation between sodium consumption and en-
+ergy intakes was 0.81, whereas the correlation between potas-
+sium and energy intakes was 0.72. Further analyses evaluated
+the foods and beverages consumed by the individual whose
+average 2-d intakes met the recommended guidelines for sodium
+and potassium (Table 2). The 6 recalls that jointly met the
+2300-mg daily sodium and potassium recommendations are
+provided elsewhere (see supplemental tables under "Supple-
+mental data" in the online issue).
+Sodium intakes in the NHANES I data were in the range of
+1473 to 3219 mg/d, depending on age and sex, whereas potassium
+intakes were in the range of 1683 to 3287 mg/d (Figure 2). On
+the basis of these aggregate data, the mean sodium-potassium
+ratio was 1.05 (range: 0.83­1.49). The lowest ratios were ob-
+served for older women, who had the lowest sodium and energy
+intakes.
+Sodium intakes in NHANES II data, also shown in Figure 2,
+were in the range of 1903 to 4030 mg/d, depending on age and
+sex, whereas potassium intakes were in the range of 1952 to 3510
+mg/d. The mean sodium-potassium ratio was 1.14 (range: 0.96­
+1.22). Sodium intakes in NHANES III were in the range of 2360
+to 4783 mg/d, whereas potassium intakes were in the range of
+1984 to 3451 mg/d. The mean sodium-potassium ratio was 1.24
+(range: 1.01­1.49). The sodium and potassium intakes for 16
+different age-sex groups in the NHANES 2005­2006 cycle were
+published in the 2010 Dietary Guidelines (1). The previously
+unpublished mean sodium-potassium ratio was 1.29 (range:
+1.08­1.56). At no point from 1971 to 2006 did any age or sex
+group come close to jointly adhering to the current sodium and
+potassium recommendations.
+DISCUSSION
+The 2010 Dietary Guidelines recommend that Americans
+simultaneously reduce sodium and increase potassium intakes.
+This is the first report to address simultaneous compliance with
+the published sodium and potassium goals. Estimates of com-
+pliance with the 1500-mg/d and 2300-mg/d sodium goals alone
+were published by the CDC only recently (7).
+The current analyses of NHANES 2003­2008 data used age,
+sex, race-ethnicity, and health status to distinguish between
+those adults to whom the 1500-mg/d goal applied and those to
+whom the 2300-mg/d goal applied. The estimated joint com-
+pliance in the first group (1500 mg/d) was 0.015%. The esti-
+mated joint compliance in the second group (2300 mg/d) was
+0.12%. Because the estimates were based on two 24-h dietary
+recalls as opposed to habitual intakes, they represent upper bounds.
+In other words, the true joint compliance with the published
+sodium and potassium guidelines by the American population
+was between 0% and 0.015%
+To comply with the Dietary Guidelines, sodium intakes would
+need to decrease by two-thirds from existing intakes, whereas
+potassium intakes would need to double. This will not be easy,
+given that both potassium and sodium intakes are closely tied to
+energy consumption (r = 0.72 for potassium and r = 0.81 for
+sodium observed here) (17). Young adults with high energy
+intakes may be able to consume adequate potassium but may not
+be able to reduce energy intakes sufficiently to meet the low-
+sodium goals. In contrast, older adults with low energy intakes
+may meet the low-sodium goals but will not reach adequate
+potassium levels. To complicate matters further, potassium and
+sodium are sometimes contained in the same foods (18, 19).
+It is a potential problem that the potassium and sodium goals
+were formulated in terms of milligrams per person per day, re-
+gardless of energy needs. One way to address this issue is to index
+sodium and potassium goals to energy requirements. Such
+a nutrient-indexing model was used in 1999 for the Dietary
+Approaches to Stop Hypertension (DASH) diet (20). The 2010
+Dietary Guidelines DASH eating plan indicates that sodium is to
+remain at #2300 mg/d regardless of caloric requirements (1).
+TABLE 1
+Survey-weighted correlation coefficients (and P values) between
+potassium, sodium, and energy intakes among US adults (n = 12,038)1
+Potassium (mg) Sodium (mg)
+Sodium (mg) 0.62 (P , 0.001) --
+Energy (kcal) 0.72 (P , 0.001) 0.81 (P , 0.001)
+1 These values were obtained by taking the square root of the r2 from
+bivariate survey-weighted linear regression models.
+DIETARY GUIDELINES FOR SODIUM AND POTASSIUM 441
+by guest on May 18, 2016
+ajcn.nutrition.org
+Downloaded from
+On the basis of published goals, the sodium-potassium ratio
+ought to be ,1.0. Historical NHANES data from 1971 to 2006,
+previously published in US Government reports, show that
+even 40 y ago the sodium-potassium ratio was never ,0.83 for
+any age-sex group. The feasibility of a dramatic 75% reduction
+in the population-wide sodium-potassium ratio remains to be
+determined.
+Lowering the dietary sodium-potassium ratio by increasing the
+consumption of potassium-rich foods can be a useful component
+of dietary advice (21, 22). Increases in dietary potassium have
+been shown to delay the incidence of hypertension (23). There
+have also been proposals to replace the absolute potassium and
+sodium goals with recommended sodium-potassium ratios (6, 24).
+For example, the DASH eating plan is low in saturated fat, cho-
+lesterol, and total fat but encourages the consumption of fruit,
+vegetables, low-fat milk and dairy products, whole grains, fish,
+poultry, nuts, and seeds (25). The diet was generally well ac-
+cepted by study participants and has been shown to have ben-
+eficial effects on blood pressure (26, 27) and on heart disease
+and colorectal cancer (28, 29). Despite the effectiveness of the
+DASH eating plan, adherence to the plan remains quite low (30).
+The 2010 Dietary Guidelines stresses the importance of in-
+creasing the consumption of potassium-rich foods. White pota-
+toes, prune and carrot juices, tomato paste and juice, citrus
+juices, beet greens, spinach, lentils, halibut, yellow fin tuna, and
+bananas were listed among potassium sources (1). Recent
+studies on diet quality and cost suggest that meeting dietary
+guidelines for potassium was associated with sharply higher diet
+costs (31). In contrast, sodium was not as sensitive to cost as
+were other components of the 2005 Healthy Eating Index (32).
+The selection of high-potassium foods may be influenced by
+cost, taste, accessibility, and acceptability. Many people may
+find it easier to achieve higher potassium intakes with com-
+monly eaten foods/beverages, such as coffee, potatoes, and milk
+than with some vegetables, fish, nuts, and seeds. For the 7 in-
+dividuals who jointly met the reduced sodium and potassium
+recommendations, coffee, potatoes, dairy products, bananas, fruit
+juices, dried fruit, nuts, and vegetables were keys to achieving the
+FIGURE 2. Sodium-potassium ratios calculated from published means by
+age-sex groups, NHANES 1971­1975, 1976­1980, 1988­1994, and 2005­
+2006. The values on the plot correspond to mean values of sodium and
+potassium by different age and sex groups from 4 cycles of NHANES.
+TABLE 2
+Foods and beverages consumed over 2 d by a single participant (recommended to consume ,1500 mg Na/d) whose diet
+was consistent with the joint sodium and potassium guidelines (,1500 mg Na/d and .4700 mg K/d)
+Recall day Food description Weight Energy Sodium Potassium
+g kcal mg mg
+1 Coffee, made from grounds, regular 4277 43 86 2096
+1 Milk, cow, fluid, whole 244 146 98 349
+1 Sugar, white, granulated, or lump 50 194 0 1
+1 Yogurt, fruit variety, not specific as to milk type 85 87 49 166
+1 Cookie, peanut 45 215 187 75
+1 White potato, chips (including flavored) 11 59 57 177
+1 Pork roast, not specific as to cut, cooked, lean only 208 432 121 879
+1 White potato, not further specified 80 83 19 255
+1 Carrots, cooked, from fresh, fat added 80 45 58 183
+1 Celery, cooked, fat added 77 31 82 213
+1 Ice cream, regular, chocolate 200 431 152 497
+2 Coffee, made from grounds, regular1 385 4 8 189
+2 Chicken, breast, coated, baked/fried, skin eaten 158 412 447 339
+2 Coffee, made from grounds, regular1 474 5 9 232
+2 Yogurt, fruit variety, low-fat milk 170 174 99 332
+2 Coffee, made from grounds, regular1 192 2 4 94
+2 Pork chop, fried, lean, and fat 76 212 46 315
+2 White potato, baked, peel eaten, fat added in cooking 429 466 116 2225
+2 White potato skins, with adhering flesh, fried 85 356 25 852
+2 Squash, summer, cooked, from canned, fat added 139 52 24 259
+2 Corn, yellow, cooked, from frozen, fat added 354 439 123 854
+2 Margarine, stick, salted 15 106 98 3
+2 Coffee, made from grounds, regular1 385 4 8 189
+2 Ice cream, regular, not chocolate 175 351 140 347
+1 Each row represents a unique food at a unique eating occasion. Therefore, coffee is repeated because it was consumed
+at different times of the day.
+442 DREWNOWSKI ET AL
+by guest on May 18, 2016
+ajcn.nutrition.org
+Downloaded from
+potassium recommendation, and moderate consumption of pro-
+cessed foods aided in achieving the sodium recommendation
+(Table 2; see supplemental tables under "Supplemental data" in
+the online issue). Identifying potassium sources that are both
+affordable and appealing ought to be a component of practical
+dietary advice.
+The current analyses point to the difficulty of complying with
+multiple nutrient requirements simultaneously. The Dietary
+Guidelines are based, in part, on food patterns that were de-
+signed to meet sodium and potassium goals at different levels of
+energy need (1). Linear programming, a mathematical optimi-
+zation technique, offers an alternative approach to the creation
+of food patterns that meet multiple nutrient recommendations,
+while taking into account consumption patterns and cost con-
+straints (33, 34). For example, very-low-sodium diets can be
+achieved, in principle, by using high amounts of fruit juices,
+nuts, and seeds and very few grains or meats. However, math-
+ematical modeling, analogous to the Thrifty Food Plan, has
+shown that the recommended amounts of other nutrients cannot
+be met at that level of sodium restriction for some age-sex
+groups. Notably, for all persons aged ,50 y, the 1500-mg goal
+was not feasible, and no mathematical solution was obtained,
+primarily because of the relatively high energy requirements for
+this group (35).
+The current study had some limitations. First, data analyses
+were based on the average intake over two 24-h food recalls as
+opposed to habitual intakes. However, recently developed sta-
+tistical approaches that can be used to estimate habitual intakes
+do not allow evaluation of more than one nutrient at a time on an
+absolute scale or permit the identification of specific persons (and
+diets) that meet the recommendation. As a result, our population
+estimates represent a range from 0% to 0.015%. Second, all
+nutrient intakes were based on self-reports and thus were subject
+to underreporting or overreporting. Urinary sodium excretion is
+the gold standard measure of sodium consumption, but it was not
+available in this large nationally representative sample. Third,
+sodium intakes from table salt and supplements were not in-
+cluded, which indicates that the current values are underestimates
+of actual intakes. Last, whereas all cycles of NHANES data have
+relied on data from a 24-h dietary recall and excluded sodium
+from table salt in estimating sodium intakes, the methods used in
+these recalls (eg, nutrient composition tables to estimate intakes
+and presence of additional queries relevant to sodium intakes)
+varied from cycle to cycle (36). Even with the disparate and often
+poor quality of dietary sodium measurements, it can be seen that
+the sodium-potassium ratios were .1 (Figure 2). Combining
+NHANES data from more recent cycles (2003­2004, 2005­
+2006, and 2007­2008) is a standard practice, and the 24-h recall
+methods are comparable. Despite these limitations, the current
+data represent the best source of information on the dietary
+habits of a large and nationally representative sample of adults
+that informs the nation's food and nutrition policy (7, 10, 11).
+The current analyses of federal data raise some final questions
+about the role of feasibility research in the formulation of public
+policy. First, the fact that the proposed sodium and potassium
+goals are currently met by ,0.015% of the US population should
+be an indication of potential problems ahead. Dealing with
+99.985% noncompliance will be a challenge for public health
+practitioners. Reducing the sodium content of the US diet may
+be a challenge for the food industry (7, 31, 37). Preliminary
+analyses showed that reducing the sodium content of all foods
+and beverages in NHANES participants by as much as 25%
+would raise compliance levels to 0.044% (n = 3) in the 1500-mg
+Na/d group and to 0.3% (n = 16) in the 2300 mg Na/d group.
+Future dietary guidelines might also note whether the proposed
+goals are intended as realistic or aspirational. Ideally, cost and
+feasibility analyses ought to precede or accompany the issuing
+of dietary guidelines instead of following them by .1 y.
+We thank 4 anonymous reviewers for helpful comments on a previous draft.
+The authors' responsibilities were as follows--AD, MM, and CR: de-
+signed and conducted the research and wrote the manuscript; AD and CR:
+analyzed the data; and AD: had primary responsibility for the final content.
+All authors read and approved the final manuscripts. No conflicts of interest
+were declared.
+REFERENCES
+1. US Department of Agriculture, US Department of Health and Human
+Services. Dietary Guidelines for Americans, 2010. 7th ed. Washington,
+DC: US Government Printing Office, 2010
+2. He J, Ogden LG, Vupputuri S, Bazzano LA, Loria C, Whelton PK.
+Dietary sodium intake and subsequent risk of cardiovascular disease in
+overweight adults. JAMA 1999;282:2027­34.
+3. Appel LJ, Frohlich ED, Hall JE, Pearson TA, Sacco RL, Seals DR,
+Sacks FM, Smith SC Jr, Vafiadis DK, Van Horn LV. The importance of
+population-wide sodium reduction as a means to prevent cardiovascular
+disease and stroke: a call to action from the American Heart Associ-
+ation. Circulation 2011;123:1138­43.
+4. Cook NR, Obarzanek E, Cutler JA, Buring JE, Rexrode KM, Kumanyika
+SK, Appel LJ, Whelton PK; Trials of Hypertension Prevention Collab-
+orative Research Group. Joint effects of sodium and potassium intake on
+subsequent cardiovascular disease: the Trials of Hypertension Prevention
+Follow-up Study. Arch Intern Med 2009;169:32­40.
+5. Strazzullo P, D'Elia L, Kandala NB, Cappuccio FP. Salt intake, stroke,
+and cardiovascular disease: meta-analysis of prospective studies. BMJ
+2009;339:b4567.
+6. Yang Q, Liu T, Kuklina EV, Flanders WD, Hong Y, Gillespie C, Chang
+MH, Gwinn M, Dowling N, Khoury MJ, et al. Sodium and potassium
+intake and mortality among US adults: prospective data from the Third
+National Health and Nutrition Examination Survey. Arch Intern Med
+2011;171:1183­91.
+7. Usual sodium intakes compared with current dietary guidelines--
+United States, 2005-2008. MMWR Morb Mortal Wkly Rep 2011;60:
+1413­7.
+8. Levey AS, Coresh J, Balk E, Kausz AT, Levin A, Steffes MW, Hogg
+RJ, Perrone RD, Lau J, Eknoyan G, et al. National Kidney Foundation
+practice guidelines for chronic kidney disease: evaluation, classifica-
+tion, and stratification. Ann Intern Med 2003;139:137­47.
+9. Dietary Guidelines Advisory Committee. Report of the Dietary
+Guidelines Advisory Committee on the Dietary Guidelines for Amer-
+icans, 2010, to the Secretary of Agriculture and the Secretary of Health
+and Human Services. Washington, DC: US Department of Agriculture,
+Agricultural Research Service, 2010.
+10. McDowell A, Engel A, Massey JT, Maurer K. Plan and operation of the
+Second National Health and Nutrition Examination Survey, 1976-1980.
+Vital Health Stat 1 1981;15:1­144.
+11. Engel A, Murphy RS, Maurer K, Collins E. Plan and operation of the
+HANES I augmentation survey of adults 25-74 years United States,
+1974-1975. Vital Health Stat 1 1978;14:1­110.
+12. Nutrition Monitoring in the United States­an update report on nutrition
+monitoring. Life Sciences Research Office, Federation of American
+Societies for Experimental Biology. Available from: http://www.cdc.
+gov/nchs/data/misc/nutri89acc.pdf (cited 10 September 2011.
+13. Third Report on Nutrition Monitoring in the United States­Executive
+Summary. Life Sciences Research Office, Federation of American
+Societies for Experimental Biology. Available from: http://www.cdc.
+gov/nchs/data/misc/tronm.pdf (cited 5 September 2011).
+14. US Department of Agriculture, Human Nutrition Information Service,
+Nutritional Monitoring Division. Nationwide Food Consumption Sur-
+vey Continuing Survey of Food Intakes by Individuals--women 19-50
+DIETARY GUIDELINES FOR SODIUM AND POTASSIUM 443
+by guest on May 18, 2016
+ajcn.nutrition.org
+Downloaded from
+years and their children 1-5 years, 4 days. Washington, DC: USDA,
+1987:63.
+15. What we eat in America, NHANES 2005-2006. US Department of
+Health and Human Services. Available from: http://www.ars.usda.gov/
+Services/docs.htm?docid=13793 (cited 11 August 2011).
+16. Nutrition and Chronic Kidney Disease. National Kidney Foundation.
+Available from: http://www.kidney.org/atoz/pdf/nutri_chronic.pdf (cited 10
+November 2011).
+17. Arbeit ML, Nicklas TA, Berenson GS. Considerations of dietary-sodium
+potassium energy ratios of selected foods. JAm Coll Nutr 1992;11:210­22.
+18. NCI, Applied Research Program. Sources of sodium among the US
+population. 2005­06. Updated 21 December 2010. Risk Factor Mon-
+itoring and Methods Branch. Available from: http://riskfactor.cancer.
+gov/diet/foodsources/sodium/ (cited 13 November 2011).
+19. NCI, Applied Research Program. National Cancer Institute. Sources of
+potassium among the US population. 2005­06. Updated 21 December
+2010. Risk Factor Monitoring and Methods Branch. Available from:
+http://riskfactor.cancer.gov/diet/foodsources/potassium/ (cited 13 No-
+vember 2011.
+20. Lin PH, Windhauser MM, Plaisted CS, Hoben KP, McCullough ML,
+Obarzanek E. The Linear Index Model for establishing nutrient goals in
+the Dietary Approaches to Stop Hypertension trial. DASH Collabora-
+tive Research Group. J Am Diet Assoc 1999;99:S40­4.
+21. Mozaffarian D, Appel LJ, Van Horn L. Components of a cardioprotective
+diet: new insights. Circulation 2011;123:2870­91.
+22. Grimes CA, Campbell KJ, Riddell LJ, Nowson CA. Sources of sodium
+in Australian children's diets and the effect of the application of so-
+dium targets to food products to reduce sodium intake. Br J Nutr 2011;
+105:468­77.
+23. Morris RC Jr, Sebastian A, Forman A, Tanaka M, Schmidlin O. Nor-
+motensive salt sensitivity: effects of race and dietary potassium. Hy-
+pertension 1999;33:18­23.
+24. Meneton P, Lafay L, Tard A, Dufour A, Ireland J, Me
+´nard J, Volatier
+JL. Dietary sources and correlates of sodium and potassium intakes in
+the French general population. Eur J Clin Nutr 2009;63:1169­75.
+25. National Heart Lung and Blood Institute. Your guide to lowering your
+blood pressure with DASH. Revised April 2006. Available from: http://
+www.nhlbi.nih.gov/health/public/heart/hbp/dash/new_dash.pdf (cited
+15 October 2011).
+26. Appel LJ, Moore TJ, Obarzanek E, Vollmer WM, Svetkey LP, Sacks
+FM, Bray GA, Vogt TM, Cutler JA, Windhauser MM, et al. A clinical
+trial of the effects of dietary patterns on blood pressure. DASH Col-
+laborative Research Group. N Engl J Med 1997;336:1117­24.
+27. Sacks FM, Svetkey LP, Vollmer WM, Appel LJ, Bray GA, Harsha D,
+Obarzanek E, Conlin PR, Miller ER III, Simons-Morton DG, et al.
+Effects on blood pressure of reduced dietary sodium and the Dietary
+Approaches to Stop Hypertension (DASH) diet. DASH-Sodium Col-
+laborative Research Group. N Engl J Med 2001;344:3­10.
+28. Levitan EB, Wolk A, Mittleman MA. Relation of consistency with the
+dietary approaches to stop hypertension diet and incidence of heart
+failure in men aged 45 to 79 years. Am J Cardiol 2009;104:1416­20.
+29. Fung TT, Hu FB, Wu K, Chiuve SE, Fuchs CS, Giovannucci E. The
+Mediterranean and Dietary Approaches to Stop Hypertension (DASH)
+diets and colorectal cancer. Am J Clin Nutr 2010;92:1429­35.
+30. Mellen PB, Gao SK, Vitolins MZ, Goff DC Jr, Mellen PB, Gao SK,
+Vitolins MZ, Goff DC Jr. Deteriorating dietary habits among adults
+with hypertension: DASH dietary accordance, NHANES 1988-1994
+and 1999-2004. Arch Intern Med 2008;168:308­14.
+31. Monsivais P, Aggarwal A, Drewnowski A. Following federal guide-
+lines to increase nutrient consumption may lead to higher food costs for
+consumers. Health Aff (Millwood) 2011;30:1471­7.
+32. Rehm CD, Monsivais P, Drewnowski A. The quality and monetary
+value of diets consumed by adults in the United States. Am J Clin Nutr
+2011;94:1333­9.
+33. Darmon N, Ferguson EL, Briend A. A cost constraint alone has adverse
+effects on food selection and nutrient density: an analysis of human
+diets by linear programming. J Nutr 2002;132:3764­71.
+34. Rambeloson ZJ, Darmon N, Ferguson EL. Linear programming can
+help identify practical solutions to improve the nutritional quality of
+food aid. Public Health Nutr 2008;11:395­404.
+35. Maillot M, Drewnowski A. A conflict between nutritionally adequate
+diets and meeting the 2010 dietary guidelines for sodium. Am J Prev
+Med 2012;42:174­9.
+36. Loria CM, Obarzanek E, Ernst ND. Choose and prepare foods with less
+salt: dietary advice for all Americans. J Nutr 2001;131:536S­51S.
+37. Bernstein AM, Willett WC. Trends in 24-h urinary sodium excretion in
+the United States, 1957-2003: a systematic review. Am J Clin Nutr
+2010;92:1172­80.
+444 DREWNOWSKI ET AL
+by guest on May 18, 2016
+ajcn.nutrition.org
+Downloaded from
+

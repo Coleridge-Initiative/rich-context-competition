@@ -1,0 +1,2076 @@
+Do banks diversify loan portfolios?
+A tentative answer based on individual
+bank loan portfolios
+Andreas Kamp
+(University of Münster)
+Andreas Pfingsten
+(University of Münster)
+Daniel Porath
+(Deutsche Bundesbank)
+Discussion Paper
+Series 2: Banking and Financial Studies
+No 03/2005
+Discussion Papers represent the authors' personal opinions and do not necessarily reflect the views of the
+Deutsche Bundesbank or its staff.
+Editorial Board: Heinz Herrmann
+Thilo Liebig
+Karl-Heinz Tödter
+Deutsche Bundesbank, Wilhelm-Epstein-Strasse 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-1
+Telex within Germany 41227, telex from abroad 414431, fax +49 69 5601071
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Reproduction permitted only if source is stated.
+ISBN 3-86558-061-0
+Abstract
+Theory of financial intermediation gives contradicting answers to the question whether
+banks should diversify or focus their loan portfolios. Our aim is to find out which of the
+two strategies is predominant in the German banking market. To this end we measure
+diversification for all German banks in the period from 1993 to 2002. As measures we use a
+broad set of heuristic approaches which capture the deviation of a bank's portfolio from a
+specified benchmark. Conceivable benchmarks are naive diversification across all industries
+or, alternatively, the economy's industry structure. With this framework our analysis
+comprises the widespread measures of concentration, like the Hirschman-Herfindahl index,
+but also the less known and in this context innovative group of distance measures. We find
+that different statistical measures of diversification may indicate contradicting results on
+the individual bank level. Since distance measures are more appealing from a theoretical
+point of view, the common practice to rely on measures of concentration only in the debate
+about diversification and focus, may be misleading. We further find that, despite these
+differences on the individual bank level, both approaches reveal that the majority of banks
+significantly increased loan portfolio diversification over the last decade. This tendency is
+especially driven by the large number of credit cooperatives and savings banks. However,
+some banks (especially regional banks and subsidiaries of foreign banks) reveal a strategy
+that seems to be more focused on certain industries.
+Keywords:
+bank lending, loan portfolio, portfolio theory, diversification, concentration measures, dis-
+tance measures, focus
+JEL classification:
+G11, G21, C43
+Non-technical Summary
+Should banks diversify their loan portfolios, or should they focus on homogenous lenders?
+From a theoretical point of view there is no clear answer to this question. Diversification
+may reduce risk in the sense of the classical portfolio theory (Markowitz (1952)). Focus,
+on the other hand, may improve the bank's knowledge of a specific segment and therefore
+enhance the profitability of the loan portfolio. In our study we analyse how German banks
+have actually operated in the period between 1993 and 2002. To this end we calculate
+different statistical measures of the banks' industrial diversification. The data are taken
+from the Deutsche Bundesbank's borrowers statistics, which contain a panel of all German
+banks' loans to various industries.
+The most customary benchmarks of diversification measure concentration, examples be-
+ing the Hirschman-Herfindahl index and the Gini coefficient. The common feature of
+these measures is that they capture the extent to which a portfolio differs from naive
+diversification. If markets are concentrated, however, naive diversification may not be
+an appropriate benchmark. We therefore additionally draw on distance measures (Pfing-
+sten and Rudolph (2002)). Distance measures capture the difference to any user-defined
+benchmark portfolio.
+The results are:
+1. In the period between 1993 and 2002 German banks showed a trend towards increas-
+ing diversification.
+2. The general trend towards increasing diversification is mainly driven by the large
+number of savings banks and cooperative banks. Regional banks and subsidiaries
+of foreign banks, by contrast, have tended to focus their loan portfolios. Big banks,
+in the aggregate, seem to have neither focused nor diversified. However, at the
+beginning of the sample their loan portfolios were more diversified than those of the
+other banking groups.
+3. Measures of concentration and measures of distance often produce contradictory
+results when applied to individual banks. Since distance measures are theoretically
+more convincing, they should be used more often as measures of diversification.
+Nichttechnische Zusammenfassung
+Sollten Banken ihre Kreditportfolien diversifizieren, oder sollten sie sich auf bestimmte
+Marktsegmente spezialisieren? Vom theoretischen Standpunkt her l¨
+asst sich die Frage
+nicht eindeutig beantworten. Diversifikation kann zu einer Risikoreduktion im Sinne der
+klassischen Portfoliotheorie (Markowitz (1952)) f¨
+uhren. Spezialisierung hingegen kann die
+Marktkenntnisse einer Bank und damit die Profitabilit¨
+at der Kreditb¨
+ucher verbessern. In
+der vorliegenden Studie wird untersucht, wie sich deutsche Banken im Zeitraum von 1993
+bis 2002 tats¨
+achlich verhalten haben. Zu diesem Zweck werden die Branchenportfolien der
+Banken mit verschiedenen Diversifikationsmaßen untersucht. Datenbasis ist die Kredit-
+nehmerstatistik der Deutschen Bundesbank, die die Kreditvergabe der einzelnen deutschen
+Banken an verschiedene Branchen im Zeitablauf enth¨
+alt.
+Die gebr¨
+auchlichsten Diversifikationsmaße sind Konzentrationsmaße, wie z. B. der Hirsch-
+man-Herfindahl-Index oder der Gini Koeffizient. Konzentrationsmaße verbindet die Eigen-
+schaft, dass sie den Unterschied zur naiven Diversifikation messen. In konzentrierten
+M¨
+arkten ist naive Diversifikation aber m¨
+oglicherweise keine geeignete Benchmark. Da-
+her setzen wir dar¨
+uber hinaus auch Distanzmaße (Pfingsten und Rudolph (2002)) ein.
+Distanzmaße messen die Abweichung zu beliebig festlegbaren Benchmarkportfolios.
+Die Ergebnisse der Untersuchung sind:
+1. Deutsche Banken haben im Zeitraum zwischen 1993 bis 2002 tendenziell ihre na-
+tionalen Kreditportfolien fortw¨
+ahrend st¨
+arker diversifiziert.
+2. Der allgemeine Trend zur Diversifikation ist in erster Linie auf den Sparkassen- und
+Kreditgenossenschaftssektor zur¨
+uckzuf¨
+uhren. Regionalbanken und Zweigstellen aus-
+l¨
+andischer Kreditinstitute haben sich eher spezialisiert. Großbanken zeigen weder
+einen Trend zur Diversifikation noch zur Spezialisierung, weisen aber schon zum
+Untersuchungsbeginn einen h¨
+oheren Grad an Diversifikation auf als alle anderen
+Bankengruppen.
+3. Auf individueller Ebene kommen Konzentrations- und Distanzmaße oft zu entge-
+gengesetzten Ergebnissen. Aufgrund der theoretischen Vorz¨
+uge sollten daher Dis-
+tanzmaße verst¨
+arkt zur Messung von Diversifikation herangezogen werden.
+Contents
+1 Introduction 1
+2 Related empirical literature 2
+3 Data and empirical methods 4
+3.1 Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.2 Different concepts of diversification . . . . . . . . . . . . . . . . . . . . . . . 5
+3.3 Diversification measures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3.3.1 Measures of naive diversification . . . . . . . . . . . . . . . . . . . . 7
+3.3.2 Benchmark measures . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+3.4 Statistical analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+4 Empirical results 11
+4.1 Statistical analysis of diversification . . . . . . . . . . . . . . . . . . . . . . 11
+4.2 Relationship between different measures of diversification . . . . . . . . . . 18
+5 Conclusion 23
+Appendix 24
+References 38
+Do banks diversify loan portfolios? A tentative
+answer based on individual bank loan portfolios
+1 Introduction
+Theoretical and empirical studies in corporate finance yield differing observations regard-
+ing diversification. While it is performance-improving in the classical theory following
+Markowitz (1952), it reduces firm value at least for large conglomerates (cf Lang and
+Stulz (1994) or Berger and Ofek (1995)). A loan portfolio is an investment in risky assets,
+to which none of these observations necessarily directly applies, since banks are interme-
+diaries. In financial intermediation theory we find recommendations that banks should
+diversify to reduce risk as well as suggestions to focus in their loan origination on indus-
+tries about which they have superior knowledge, as their superior monitoring abilities will
+then increase risk-adjusted returns.
+Those who believe that banks are quite naturally diversified should note that the area
+a bank covers may have an unbalanced industry structure, or the bank may willingly
+focus on, or at least build up special knowledge in, particular industries. Some examples
+that have a flavour of both aspects may suffice for the moment to make this point: HSH
+Nordbank, a regional state bank active especially along Germany's North Sea and Baltic
+Sea coasts, is the world's largest ship financier.1 Stadtsparkasse K¨
+oln, a regional savings
+bank in one of Germany's media centres, claims to have superior knowledge of the media
+business and to be among the leading loan originators for the German media industry.2
+Deutsche Apotheker- und ¨
+Arztebank, Germany's largest primary cooperative bank, only
+originates loans to the medical professions.3
+The question of diversification versus focus is a question within the very nature of banks
+as delegated monitors in the sense of Diamond (1984). Diamond (1984) argues that diver-
+sification reduces the threat of financial distress as returns of projects are assumed to be
+imperfectly correlated. This reasoning is in line with classical portfolio theory (Markowitz
+(1952)). However, monitoring costs are considered to be constant in the Diamond model.
+Moreover, the quality of monitoring cannot be influenced by a bank. A group of theoreti-
+cal models challenges these points. Stomper (2004) analyses a bank's incentive to build up
+sector expertise. In the equilibrium of his model we observe a coexistence of specialized
+and diversified banks. The more banks invest in hiring sector or industry experts, the less
+benefit can be derived from building up sector or industry expertise. Winton (1999) points
+out that banks' chances of failure are endogenously affected by the choice of loan port-
+folio structures. In his theoretical framework, the risks and costs of poor diversification
+We are indebted to the discussants and participants at conferences including a Research Seminar at
+Deutsche Bundesbank (Frankfurt, Germany, March 2004), a Banking Workshop at the University of
+M¨
+unster (M¨
+unster, Germany, May 2004), the 66th Annual Conference of the Association of University
+Professors of Management (Graz, Austria, June 2004), the 19th Annual Meeting of the European
+Economic Association (Madrid, Spain, August 2004) and the 11th Annual Meeting of the German
+Finance Association (T¨
+ubingen, Germany, October 2004) for helpful comments on an earlier version
+of the paper. All remaining errors are, of course, ours. The first author is indebted to the Verein f¨
+ur
+Socialpolitik and Deutsche Bundesbank for a travel grant in order to attend the European Economic
+Association conference.
+Some additional material concerning our statistical analysis is available upon request.
+1 See HSH Nordbank (2003).
+2 See Stadtsparkasse K¨
+oln (2003).
+3 See Deutsche Apotheker- und ¨
+Arztebank (2004).
+-1-
+versus benefits in monitoring due to specialisation affect a bank's choice of loan portfolio
+structure. Diversification across industries appears to be the superior strategy when the
+downside risks of loans are moderate. If loans are characterised by high downside risks,
+banks should focus on their monitoring abilities and limit loan origination to industries
+about which they have superior knowledge. The work of Winton shows that credit risk is
+endogenously affected by a bank's monitoring decisions. The credit risk of an individual
+loan or a homogenous group of borrowers is not, as assumed by loan portfolio models as
+CreditMetrics, CreditRisk+ or CreditPortfolioView, exogenous. Banks can influence the
+credit risk of a loan investment by building up expertise and strengthening monitoring
+quality. Winton (1999) also hints at the "winner's curse" problem when banks expand
+their loan origination into new industries, especially when they face strong competition in
+that new industry. That may make diversification into new sectors very costly. The theo-
+retical work of Gehrig (1998), Dell'Ariccia et al. (1999), Dell'Ariccia (2001) and Marquez
+(2002) explicitly shows that there is a winner's curse problem when banks expand their
+loan origination into new sectors or geographic regions. Shaffer (1998) provides empiri-
+cal evidence for the winner's curse effect. Newly founded banks experience substantially
+higher loan chargeoff rates during their third through ninth years than their longer-existing
+competitors.
+Considering these contradicting suggestions on how to optimize a loan portfolio, it is
+surprising that there is hardly any empirical work (for the few exceptions see the next
+section) on the composition of banks' loan portfolios.4 Which lending strategy is actually
+used by banks ? Do banks diversify their loan portfolios or do they focus on certain
+industries? We will shed light on this question by analysing the loan portfolio compositions
+of all German banks. To this end we suggest a set of several measures of statistical
+diversification in order to quantify banks' loan portfolio diversification. A second aim of
+our paper is to analyse possible differences between measures of diversification.
+The paper is organised as follows. Section 2 provides a brief overview of the scarce em-
+pirical literature related to our own work. In Section 3 our data and methodology will
+be described in some detail. In particular different concepts of diversification and their
+related measures will be discussed. Section 4 collects our empirical results for various mea-
+sures of diversification and analyses the relationship between them. Finally, conclusions
+are drawn and extensions suggested in Section 5.
+2 Related empirical literature
+An overview of the existing empirical work on loan portfolios will illustrate that it is
+entirely unclear how loan portfolio diversification should be measured. There are three
+empirical papers that are closely linked to our research question, but each having a different
+focus.
+Acharya et al. (2004) analyse the effects of loan portfolio diversification on risk and return
+figures. They examine 105 Italian banks over the period from 1993 to 1999. As a measure
+of diversification, they use the Hirschman-Herfindahl Index (HHI), which they compute
+for industrial and sectoral diversification. The industrial HHI (I-HHI) is the sum of the
+squares of relative exposures under the given classification of industries. The sectoral HHI
+is calculated analogously. The boundaries of the HHI are given by
+4 One possible explanation for this gap in the literature may be the lack of suitable data.
+-2-
+1
+n
+ HHI  1 , (1)
+where n stands for the number of segments. Note that the index reaches its minimum
+when the exposures to all segments (industries, sectors) are equal. It is 1 when all loans
+are originated in one segment.
+The effect of diversification on different return and risk figures is analysed using panel
+regressions. The results show that industrial diversification is linked to a decrease in
+performance, expressed as declining returns and even an increase in risk. The sectoral
+diversification has an unclear effect on banks with moderate risk but decreases the perfor-
+mance of banks characterised by a high level of risk. Acharya et al. (2004) conclude that
+"diversification, per se, is no guarantee of superior performance or greater bank safety" (p
+36).
+A study on the effects of diversification for financial services firms in the Unites States is
+performed by Elyasiani and Deng (2004). However, bank supervisors in the United States
+do not collect data on the loan portfolio composition by industry. Therefore, the analysis
+comprises sectoral, geographical and activity diversification. Sectoral diversification means
+the diversification of loans over six sectors: Commercial and industrial, depository insti-
+tutions, real estate, agriculture, individual, and other loans. Geographical diversification
+captures the composition of loan portfolios by loans originated by domestic and foreign
+offices of a bank. Activity diversification stands for the composition of non-interest in-
+come by activity lines as eg trading income or service charges.5 Similar to Acharya et al.
+(2004) all dimensions of diversification are quantified by using the HHI. Elyasiani and
+Deng (2004) find that all dimensions of diversification lead to decreasing returns as well as
+decreasing income. They therefore conclude that the question of diversification is a very
+typical question of a risk and return tradeoff.6
+One can derive from Acharya et al. (2004) and Elyasiani and Deng (2004) the tentative
+recommendation that loan portfolio policy should not be driven by diversification but by
+a bank's specific monitoring abilities in industries or sectors. Given this statement, it
+would be interesting to know which strategy banks actually follow in managing their loan
+portfolios. The work of Acharya et al. (2004) and Elyasiani and Deng (2004) lacks a time
+series analysis in order to identify trends towards diversification or specialisation.
+The work of Pfingsten and Rudolph (2002) partially fills this gap for Germany. Their
+analysis is based on aggregate data of German bank groups covering the period from
+1970 to 2001. The authors measure diversification by distance measures, quantifying the
+distance between a bank group's loan portfolio and the market's loan portfolio. The
+diversification by industry is considered for up to 16 industries. The data comprise the
+lending to businesses and only involve national loan origination.
+In running a time series analysis, Pfingsten and Rudolph (2002) find that bank groups
+increased their loan portfolio diversification over time. However, this result might be
+driven by the aggregation of data. Aggregating data of banks that specialise in different
+industries may still lead to an increasingly diversified loan portfolio at bank group level.
+Thus, an analysis of individual banks is necessary to confirm or reject the result that
+portfolio diversification is the leading strategy in the recent lending practice of German
+banks.
+5 See Elyasiani and Deng (2004), pp 19-20.
+6 See Elyasiani and Deng (2004), pp 40-41.
+-3-
+Our work combines aspects from the studies cited above. Like Acharya et al. (2004) and
+Elyasiani and Deng (2004), we work with individual bank data and use the HHI as one,
+but in our case not the only measure of diversification. We add several other measures
+including distance measures as suggested by Pfingsten and Rudolph (2002) and perform
+both a panel analysis and a time series analysis. This enables us not only to examine
+which of the two strategies - diversification or focus - individual German banks follow, but
+also how their behaviour seems to have changed over time.
+3 Data and empirical methods
+3.1 Data
+We use individual bank-level data, which, in our case, are provided by the Deutsche
+Bundesbank and are part of the borrowers statistics. All banks with a banking licence
+for the German market have to report their exposures to corporate borrowers, private
+borrowers, and non-profit organisations. Exposures to private borrowers are subdivided
+into loans for housing, consumer loans, and other private loans like credit card loans.
+Exposures to corporate clients are reported for 23 industries. An overview of the lending
+towards the 23 industries is provided in Table 1. The data set only comprises national
+loan origination. As most banks in the data set are small regional institutions without any
+international business, this limitation does not appear to be crucial. However, we cannot
+measure geographical diversification outside Germany.
+The segmentation of private borrowing is rather heterogeneous. Loans to one individual
+customer might, for instance, occur in all three segments, limiting an analysis of a bank's
+loan portfolio strategy considerably. A bank's loan portfolio strategy might therefore best
+be analysed by focusing on loan origination to corporate clients, as diversification across
+industries does best represent our understanding of diversification. Therefore, we restrict
+our analysis to the origination of loans to corporate clients in 23 industries. Our data set
+consists of semi-annual data for the period from 1993 to 2002, ie 20 observations for each
+bank.
+Additional attention must be given to the handling of mergers. Especially within the group
+of savings banks and credit cooperatives, we have observed much consolidation over the
+last decade. To isolate our analysis from effects of mergers, we include only banks existing
+in December 2002 and treat all banks that merged during the period of our analysis as if
+they had been merged over the whole period. As a consequence, the banks in our data set
+will probably be more diversified in the beginning than they actually were.7
+The data set comprises all banks that have a license for the German banking market. At
+the end of 2002 this number amounted to 2, 231 banks. Our analysis covers 2, 218 banks,
+as 13 banks have no exposures to corporate customers at all. The banks are grouped in
+10 different bank groups, which can be assigned to 4 categories. These groups are (in
+brackets the number of banks within a group):
+1. Commercial banks
+(a) Big banks (4)
+7 Analysing the effects of mergers on loan portfolio diversification will be an issue for our future research.
+-4-
+(b) Regional banks (134)
+(c) Subsidiaries of foreign banks (33)
+2. Banks under public law
+(a) Savings banks (520)
+(b) State banks (13)
+3. Cooperative banks
+(a) Credit cooperatives (1485)
+(b) Regional cooperative institutions (2)
+4. Other banks
+(a) Special-purpose banks (8)
+(b) Private mortgage banks (16)
+(c) State mortgage banks (3)
+Credit cooperatives and savings banks are by numbers the biggest bank groups in the
+German banking market. Savings banks (Sparkassen) are publicly owned by communities,
+cities, counties or other (groups of) jurisdictions. Credit cooperatives (Kreditgenossen-
+schaften) aim to provide support to their members and have their very origin in rural
+communities as well as craft communities. Credit cooperatives as well as savings banks
+offer similar services to commercial banks. Banks of these groups only operate in a local
+market which should not overlap with markets of other banks within the same group. The
+group of regional commercial banks mainly comprises private bankers. Results for the
+category of other banks are, due to their minor importance, not displayed separately. In
+order to avoid identification of single banks, results for the two regional cooperative banks
+are not presented separately, either.
+3.2 Different concepts of diversification
+Following Markowitz (1952) a portfolio is efficient if there is no other portfolio with lower
+risk and an (at least) equal expected return and no portfolio with a higher expected
+return and (at most) equal risk. In this context diversification is a means to change the
+risk of the portfolio. For liquid assets the portfolio's risk can be measured as the standard
+deviation from expected returns. This setting can hardly be applied to loan portfolios. For
+one thing, the distribution of returns from loans is highly skewed, making the standard
+deviation inappropriate. For another, the distribution depends on the correlations between
+returns. In contrast to liquid assets, the correlation between returns from loans cannot
+easily be observed. One must also remember that the figures needed would be specific
+to each bank as credit risk is endogenously affected by a bank's expertise and monitoring
+abilities. We presume that, for these reasons, most banks of our sample apply heuristics
+to determine the diversification of their loan portfolios.
+Acharya et al. (2004) apply a measure of the HHI in order to quantify loan portfolio diver-
+sification. In addition to the HHI we will introduce several other measures of concentration
+and (in-)equality as statistical measures of loan portfolio diversification. Concentration
+measures refer to diversification in a naive form: one may remember, for example, from
+-5-
+Equation 1 that the HHI reaches its minimum when all exposures to different classes are
+equal, ie the HHI quantifies naive diversification with a 1/n-diversification strategy as the
+benchmark. Generally concentration measures come with the drawback that they ignore
+the size difference of an economy's industries. An example may illustrate the relevance of
+this problem: From Table 1, we can see that "manufacturing of non-metallic mineral prod-
+ucts is one of the smallest industries within the set of 23 industries, whereas "wholesale
+and retail trade" belongs to the biggest industries.8 Having the same exposure to a highly
+specialised and very small industry as to a major industry of an economy might already
+be regarded as specialisation in the first industry. Thus, industry weights should matter
+when measuring diversification. Therefore, we suggest applying a benchmark which re-
+flects the industry composition of an economy when measuring portfolio diversification.
+We follow Pfingsten and Rudolph (2002) and use distance measures to quantify statistical
+diversification. The distance from a benchmark can be measured by describing a loan port-
+folio composition as the (normalised) vector of relative industry shares. In this setting,
+diversification is at its maximum when a bank's loan portfolio composition reflects the
+industry shares of the benchmark under review. Distance measures are better heuristics
+for portfolio management since they use the market as a benchmark.
+In the following, we will test whether the bias which occurs when using naive diversification
+as a benchmark is empirically relevant. To this end we compute a set of concentration
+measures (which incude the HHI, Gini coefficient and Shannon entropy measures) and a
+set of distance measures and then compare the results.
+To formalise, loans are partitioned into n segments. Let Xb,t
+i
+be the nominal exposure of
+bank b at time t to loan segment i. Then Xb,t = (Xb,t
+1
+, ..., Xb,t
+n ) is the vector of nominal
+loan exposures of bank b at time t to all loan segments i = 1, ...., n. By xb,t
+i
+we denote the
+corresponding relative exposure,
+xb,t
+i
+=
+Xb,t
+i
+n
+j=1
+Xb,t
+j
+, (2)
+and xb,t = (xb,t
+1
+, ..., xb,t
+n
+) is the vector of these shares in the portfolio of bank b at time
+t.9 By yt = (yt
+1
+, ..., yt
+n
+) we denote the shares of the loan segments in a benchmark's loan
+portfolio.
+We distinguish between two groups of measures. The first group of measures quantifies
+naive diversification. We will use the HHI, the Gini coefficient and the Shannon entropy
+measures in order to quantify naive diversification. The second group of measures takes
+into account the fact that an economy's industries differ in size. These measures relate
+to benchmarks that reflect the industry composition of the economy. Given the tradeoff
+between diversification of loan portfolios and focus on homogenous lenders as depicted in
+the introduction, measuring diversification of loan portfolios does not imply quantifying
+the risk of a loan portfolio.
+8 At the end of 2002 manufacturing of non-metallic mineral products accounted for 0.65% of Germany's
+loan market, trade for 12.69%.
+9 When later defining diversification measures, we suppress the superscripts b, t for simplicity.
+-6-
+3.3 Diversification measures
+3.3.1 Measures of naive diversification
+The Hirschman-Herfindahl Index (HHI) is a commonly accepted measure of market con-
+centration. In our study we use the HHI of bank b at time t,
+HHI(x) =
+n
+i=1
+(xi
+)2 , (3)
+as a measure of diversification, where small values mean high diversification. Note that
+the lower limit for the HHI is 1/23 and is attained when exposures to all loan segments
+are equal. The HHI is equal to 1 when all loans are granted to one segment.
+The Gini coefficient (G) is often used as a measure of inequality. However, it can also be
+used to quantify the concentration of a loan portfolio. If one considers the Lorenz curve
+of an individual bank's loan portfolio, the Gini index is the ratio of the area between the
+diagonal and the Lorenz curve of a bank and the area of the whole triangle below the
+diagonal. The Gini coefficient of an individual bank b at time t is calculated as:
+G(x) = 1 -
+2
+n
+·
+n
+j=1
+vj
+-
+1
+2
+, (4)
+with
+vj
+=
+j
+i=1
+^
+xi
+, (5)
+where ^
+xi
+represents the relative industry shares of a loan portfolio, sorted by size in
+ascending order. Thus, vj
+is the cumulated share of the j smallest industries in a loan
+portfolio.
+Maximum diversification is reached when we observe equal exposures to all industries.
+That is, the Lorenz curve is diagonal. The Gini coefficient is zero. Maximum focus will
+lead to a Gini coefficient of 22/23.
+Entropy measures are also powerful instruments to indicate variety in distributions at a
+given point in time. Their potential applications include measuring industrial concen-
+tration or corporate diversification.10 We apply the Shannon entropy11 (S) in order to
+measure loan portfolio diversification:
+S(x) =
+n
+i=1
+xi
+· ln(
+1
+xi
+) (6)
+It is standard practice to define xi
+· ln( 1
+xi
+) = 0 if xi
+= 0.12 For the HHI and the Gini
+coefficient, large values of these measures stand for focus whereas small values stand for
+diversification. In order to maintain this idea we define ^
+S = -S. If all loans are to one
+industry ^
+S is 0, representing maximum focus. Perfect naive diversification is expressed as
+a value of -ln(23).
+10 See Frenken (2004).
+11 See Shannon (1948).
+12 See Theil (1972).
+-7-
+3.3.2 Benchmark measures
+As was pointed out earlier, measures of naive diversification apply an equal distribution
+of loans across all industries as their benchmark, incorporating the unpleasant feature of
+not being independent of the definition and aggregation of industries. Therefore Pfingsten
+and Rudolph (2002) have suggested measuring diversification with respect to more general
+benchmarks.
+As suggested by Pfingsten and Rudolph (2002) the industry composition of the economy's
+loan market portfolio can be used as a benchmark for statistical diversification. However,
+this benchmark neglects regional business structures. If the loan portfolio of a bank
+reflects the industry structure of its region, than a decline in distance of an individual
+bank to the national market loan portfolio might be due to a change in regional industry
+structures. Therefore, our analysis also comprises the distance of an individual bank's loan
+portfolio to regional benchmarks. These benchmarks are the composition of a state's loan
+portfolio and the composition of a county's loan portfolio. Another possible nationwide
+benchmark is to use the industries' contributions to GNP as reference point for loan
+portfolio diversification.13 Thus, we apply 4 benchmarks as reference points for statistical
+diversification:
+1. composition by industry of the whole German loan market portfolio (DNation
+j
+),
+2. composition by industry of a state's loan market portfolio (DState
+j
+),
+3. composition by industries of a county's loan market portfolio (DCounty
+j
+),
+4. composition of industries' contributions to GNP (DGNP
+j
+).
+When setting distance measures, diversification is measured by quantifying the distance
+between a bank's loan portfolio and the benchmark's loan portfolio. Larger values mean
+less diversification.14
+Following Pfingsten and Rudolph (2002), we use several measures:
+Measure 1 Maximum Absolute Difference
+D1
+(x, y) = max
+i
+{|xi
+- yi
+|} . (7)
+Measure 2 Normalised Sum of Absolute Differences
+D2
+(x, y) =
+1
+2
+n
+i=1
+|xi
+- yi
+| . (8)
+Measure 3 Normalised Sum of Squared Differences
+D3
+(x, y) =
+1
+2
+n
+i=1
+(xi
+- yi
+)2 . (9)
+13 An overview of the contribution to GNP by industries is given by Table 1. The classification of
+industries does not perfectly reflect the classification of industries used in the loan statistics. Thus,
+when referring to the GNP as a benchmark, we only take those 21 industries in consideration where
+the same classification of industries applies for both data sets.
+14 For some basic properties of distance measures see Pfingsten and Rudolph (2002).
+-8-
+Measure 4 Average Relative Difference
+D4
+(x, y) =
+1
+n
+n
+i=1
+|xi
+- yi
+|
+xi
++ yi
+. (10)
+Measure 5 Average Squared Relative Difference
+D5
+(x, y) =
+1
+n
+n
+i=1
+xi
+- yi
+xi
++ yi
+2
+. (11)
+Before we start analysing the data, it is important to understand some characteristics
+of these measures. Note that all are normalised to the interval [0, 1]. D1
+just gives
+the maximum absolute difference across all loan segments, |xi
+- yi
+|, between a bank's
+portfolio x and the benchmark portfolio y. Thus, it is only sensitive to the segment with
+the biggest absolute difference. D2
+is a normalised version of the arithmetic mean of the
+absolute differences across all segments. It can be interpreted as the proportion of a bank's
+portfolio x which would have to be rearranged in order to achieve the composition of the
+benchmark portfolio. D3
+assigns higher weights to large deviations from the benchmark.15
+Measures D4
+and D5
+represent measures based on relative differences |xi
+-yi
+|
+xi+yi
+.16 The relative
+measures D4
+and D5
+have the property that the deviation in each segment is seen relative
+to the size of this segment. However, these measures come with a disadvantage when
+some of the segments are not relevant (that is xi
+= 0). Each segment i with xi
+= 0
+contributes 1/n towards the distance measure, irrespective of the related yi
+. Measures
+D4
+and D5
+correspond to measures D2
+(average deviations) and D3
+(squared deviations)
+respectively.17
+A further set of indices is given by calculating the ratio of an individual bank's Gini
+coefficient and a benchmark's Gini coefficient. All benchmarks presented before can be
+used for this set of indices. We will refer to these indices as:18
+BGBenchmark =
+G
+GBenchmark
+(12)
+Figure 1 illustrates the idea of these indices.19 A ratio that is greater than 1 means
+that the individual bank is more concentrated than the benchmark portfolio, whereas
+an index smaller than 1 indicates that a bank is more diversified than the benchmark
+portfolio. In contrast to our distance measures these measures do not use the whole
+industry structure as a benchmark but only the industry concentration. A ratio of 1
+indicates equal concentration yet concentration may still occur on different industries.
+15 It should be noted that a large difference in one segment implies another large difference or a number
+of smaller differences in other segments.
+16 More precisely the relative differences should be called relative absolute differences as they are, in turn,
+calculated from absolute values.
+17 The measure corresponding to D1
+would be the Maximum Relative Difference. See Pfingsten and
+Rudolph (2002). It equals 1 as soon as at least one xi
+equals zero. Due to the fine division of
+loan segments, the measure indeed becomes 1 for most banks and is therefore not taken into further
+consideration.
+18 The superscripts b, t are again suppressed for simplicity,
+19 In this example with North Rhine-Westfalia as the state and D¨
+usseldorf as the county, we do not see
+much deviation in industry concentration. One would expect greater deviation for more rural counties.
+-9-
+0
+0,1
+0,2
+0,3
+0,4
+0,5
+0,6
+0,7
+0,8
+0,9
+1
+0
+0,04
+0,09
+0,13
+0,17
+0,22
+0,26
+0,3
+0,35
+0,39
+0,43
+0,48
+0,52
+0,57
+0,61
+0,65
+0,7
+0,74
+0,78
+0,83
+0,87
+0,91
+0,96
+1
+cumulative share of industries
+cumulative share of loan volume
+Germany
+North Rhine-Westphalia
+Düsseldorf
+Individual Bank
+Figure 1: Gini coefficient
+Finally we apply Spearman's rank correlation coefficient (RC; see, for instance, Zar (1972))
+in order to quantify loan portfolio diversification. The basic idea is to compute the rank
+correlation coefficient between the industry structure of an individual bank's loan port-
+folio and one of our benchmarks as described above. The rank correlation coefficient is
+standardised between -1 and 1. A rank correlation of 1 indicates that the structure of
+a bank's loan portfolio is perfectly rank correlated with the structure of the benchmark's
+portfolio. That is to say, all industries sorted by size have the same rank in the bank's loan
+portfolios as in the benchmark's loan portfolio. Within this setting a RC of 1 therefore
+stands for perfect diversification. Since for all other measures described before, large val-
+ues stand for focus whereas small values stand for diversification, we define ^
+RC = -RC.
+That is to say, a ^
+RC of -1 stands for perfect diversification, whereas 1 represents perfect
+focus.
+3.4 Statistical analysis
+Using the set of data with 2, 218 banks, all measures of statistical diversification are
+calculated for 20 observations per bank.20
+For all of these measures, a fixed-effect panel estimation is performed in order to check for
+trends towards diversification or focus over time. We regress the measures of diversification
+on a linear trend variable:
+20 One exception applies: The analysis based on the industries' contribution to the GNP is based on
+annual data, as semiannual data of the industries' contribution is not available. Moreover, industries'
+GNP data for 2002 was not yet available at the time of our analysis. Our analysis therefore only covers
+9 points of observation from 1993 to 2001 when the composition of the GNP is used as a benchmark.
+-10-
+DMt
+b
+=  +  · time + t
+b
+(13)
+DMt
+b
+stands for the diversification measure of bank b at time t. We perform fixed effects
+panel estimations on the whole banking sector as well as on bank groups for savings
+banks, credit cooperatives, state banks, big banks, regional banks, and subsidiaries of
+foreign banks. The panel estimator reflects the average behaviour of the whole banking
+sector/group, because the coefficient of the trend variable is restricted to be equal for all
+banks considered in the regression.
+To assess the behaviour of individual banks we perform bank- level estimations. All mea-
+sures of diversification are regressed on a linear trend variable for each individual bank:
+DMt
+b
+= b
++ b
+· time + t
+b
+(14)
+Thus, the distribution of the trend coefficients of the bank-level regressions allows us to
+assess the deviation from the average behaviour given by the panel estimator.
+However, trends need not necessarily be linear. We therefore also calculate the Spearman
+rank correlation coefficient (RC) of a diversification measure with time on the bank level.
+The distribution of RC gives us a descriptive answer to the question of whether banks'
+behaviour follows a monotonic trend that is not restricted to be linear. A rank correlation
+of 1 indicates that a measure increased with every step in time. A rank correlation of
+-1 shows that a measure decreased with every step in time. Note that we use the RC
+coefficient as a measure of diversification (RC of the industry structure of an individual
+bank's loan portfolio with a benchmark) as well as a statistical tool in order to analyse
+changes in a diversification measure over time (RC of a diversification measure with time).
+4 Empirical results
+4.1 Statistical analysis of diversification
+Table 221 gives a first impression of the time paths of a selection of our diversification
+measures by listing their means over all banks. These figures indicate that banks have
+moved towards diversification and therefore support, at the individual bank level, the
+results obtained by Pfingsten and Rudolph (2002) on a highly aggregated level. Note
+that, for all measures, a trend towards diversification is expressed as a decrease in the
+measure.
+As we aim merely at an overview, we will not present a detailed analysis of all diversifica-
+tion measures suggested in section 3.3.22 We start our more thorough inspection of some
+measures with a closer inspection of the HHI as a measure of diversification.
+21 All Tables are displayed in the Appendix.
+22 Tables with some key statistics for all measures are provided upon request.
+-11-
+Hirschman-Herfindahl index
+Table 3 shows key statistics of the HHI for different banking groups. Looking at the abso-
+lute magnitude of the HHI, we see that big banks have the lowest average HHI, followed
+by savings banks. That means these banks have, on average, the strongest naive diver-
+sification. Subsidiaries of foreign banks and regional banks have on average the weakest
+diversification.
+Let us now turn to changes over time. For all banks, the panel estimator shows a highly
+significant negative trend of the HHI over time. Note that a decline in the HHI stands
+for an increase in diversification. The individual trend estimations reveal that 50.72% of
+all banks significantly (at a 5% significance level) increased naive diversification over the
+last decade. Furthermore, we use the rank correlation coefficient (RC) of a diversification
+measure with time in order to identify monotone but not necessarily linear trends over
+time. A negative RC indicates that the HHI is declining over time while diversification
+increases. The mean (median) of the RC coefficient over all banks is -0.2543 (-0.4015).
+67.63% of all banks have a negative RC, hinting at an increase in diversification.
+When analysing the different banking groups, we see that these results are mainly driven
+by credit cooperatives (CC) and savings banks (SB). Both groups show strong tenden-
+cies towards diversification in terms of highly significant panel trends, of majorities of
+individual banks with significant trends, as well as of majorities of individual banks with
+a negative rank correlation of the HHI over time. For the group of state banks (StB),
+the panel estimation reveals a significant trend towards diversification. However, at the
+individual bank level, 5 out of 13 state banks show a significant trend towards diversifica-
+tion, whereas 5 other state banks show a significant trend towards specialisation. Results
+are also mixed for the groups of big banks (BB) and regional banks (RB). Subsidiaries
+of foreign banks (SFB) reveal a trend towards specialisation, indicated by the panel es-
+timator and by a slight majority of individual banks for whom this trend is significant.
+Such a specialisation of subsidiaries of foreign banks is not surprising because often these
+banks accompany the foreign business activities of firms from their home market. For
+these banks, then, a specialisation in one country can still be consistent with a diversified
+portfolio at the international level.
+Figure 2 further illustrates our results. It shows histograms of the Spearman rank corre-
+lation coefficients of the HHI over time. The upper left-hand panel shows the histogram
+for all banks. It can easily be seen that a majority of banks increased their loan portfolio
+diversification. The upper right-hand panel shows the corresponding histogram for credit
+cooperatives whereas the lower left-hand panel shows the histogram for savings banks.
+Corresponding to the figures from Table 3, one can see the strong tendencies towards
+naive diversification within these two groups. The less pronounced histogram in the lower
+right hand panel is based on commercial banks, combining big banks, regional banks and
+subsidiaries of foreign banks.
+Gini coefficient
+The results for the Gini coefficient in Table 4 are apparently quite similar to the results
+for the HHI. Note that a Gini coefficient of 0 represents perfect naive diversification.
+Considering the absolute magnitude of this diversification measure, we see that again big
+banks followed by savings banks have the strongest diversification whereas regional banks
+and subsidiaries of foreign banks are more focused. Moroever, changes in the measure over
+time are also in line with our results from the HHI.
+-12-
+0 5 10 15 20 25
+Frequency
+-1 -.5 0 .5 1
+RC (HHI)
+0 20 40 60 80
+Frequency
+-1 -.5 0 .5 1
+RC (HHI)
+0 50 100 150
+Frequency
+-1 -.5 0 .5 1
+RC (HHI)
+0 50 100 150 200
+Frequency
+-1 -.5 0 .5 1
+RC (HHI)
+All banks
+Savings banks
+Credit cooperatives
+Commercial banks
+Figure 2: Histogram of RC between HHI and time for all banks, CC, SB, and CB
+Shannon entropy
+The results for the Shannon entropy ( ^
+S) in Table 5 are basically in line with our results
+for the HHI and the Gini coefficient. Remember that maximum naive diversification is
+expressed as an entropy value of -ln(23)  -3.14 whereas maximum focus equals an
+entropy value of 0. Among others, we again see the remarkably clear trend towards
+diversification for the groups of credit cooperatives and savings banks.
+Distance Measures
+All measures applied so far quantify naive diversification, ie diversification is maximised
+when a bank has equal exposures towards all industries. This understanding of diversifica-
+tion makes little sense when industries differ dramatically in size. Let us suppose that the
+industries' total loan volumes are used as the benchmark for distance measures.23 Then,
+firstly, not all banks can achieve perfect naive diversification if industries' loan volumes
+differ, but they all can diversify perfectly with respect to distance measures. This also
+shows, secondly, that measures of naive diversification, unlike distance measures, are sen-
+sitive with respect to the definition of industries, which we think is a somewhat unpleasant
+feature for empirical research. We therefore turn now to distance measures.
+23 Contributions to GNP and total assets are other conceivable indices of size.
+-13-
+Distance measure D2
+We start with D2
+as an example of an absolute distance measure. As a first benchmark we
+apply the composition of the national loan market by industry. Our results are displayed
+in Table 6.
+Big banks and savings banks appear to be closest to the market, whereas regional banks
+and subsidiaries of foreign banks reveal the biggest distance from the national loan market
+portfolio.24 Recall that the mean of D2
+, as of December 2002, of 29.45% for savings banks
+means that they would have to rearrange, on average, 29.45% of their loan portfolio in order
+to achieve the industry composition of the national loan market portfolio. Considering
+the distance to the market, it can be concluded that regional banks and subsidiaries of
+foreign banks are rather specialised in their loan origination.
+Again, the panel estimation reveals a highly significant trend towards diversification. It is
+underpinned by the bank-level regressions, showing that at a 5% significance level 48.33%
+of all banks reveal a significant decline in distance to the national loan market portfolio.
+According to the rank correlation, 70.47% of all banks reduced their distance to the loan
+market portfolio.
+Again, this trend towards diversification is best viewed for credit cooperatives and savings
+banks. Both groups reveal highly significant trends towards diversification based on the
+panel estimator. This trend is strongest for credit cooperatives whereas for the bank-level
+regressions the group with the highest percentage of banks with a significant trend towards
+diversification is that of savings banks. Results for state banks, big banks, and regional
+banks are, as almost always, rather mixed. Subsidiaries of foreign banks increased their
+distance to the national loan market; this is indicated by the panel estimator and by a
+majority of individual banks showing a trend towards specialisation.
+Once more we use histograms to illustrate our results. Figure 3 shows histograms of
+the rank correlation coefficients of DNation
+2
+over time. It can easily be seen from the
+different panels that large majorities of credit cooperatives and savings banks decreased
+their distance to the national loan portfolio and therefore increased diversification over
+the past decade. The histogram of commercial banks (big banks, regional banks, and
+subsidiaries of foreign banks) underlines the fact that a majority of commercial banks
+increased specialisation according to DNation
+2
+.
+A comparison between the lower right-hand panel of Figure 3 and the lower right-hand
+panel of Figure 2 shows that measuring diversification according to a concentration mea-
+sure such as the HHI and according to distance measures such as DNation
+2
+can provide
+contradicting results. This can also be seen when comparing the results of the individual
+bank regressions for the four big banks. The HHI indicates that two big banks significantly
+increased naive diversification and one of the big banks has an insignificant trend towards
+diversification. Applying DNation
+2
+as measure of diversification, we see that only one bank
+has a significant trend towards diversification. Three out of four big banks show a positive
+slope of the coefficient on the time variable. We will examine the relationship between the
+various distance measures in more detail in Section 4.2.
+24 Note that the short-hand expression "market portfolio", used for the set of all loans considered here,
+does not intend to suggest that this benchmark portfolio is efficient in the sense of Markowitz.
+-14-
+0 5 10 15 20
+Frequency
+-1 -.5 0 .5 1
+RC (D2)
+0 20 40 60
+Frequency
+-1 -.5 0 .5 1
+RC (D2)
+0 20 40 60 80 100
+Frequency
+-1 -.5 0 .5 1
+RC (D2)
+0 50 100 150
+Frequency
+-1 -.5 0 .5 1
+RC (D2)
+All banks
+Savings banks
+Credit cooperatives
+Commercial banks
+Figure 3: Histogram of RC between DNation
+2
+and time for all banks, CC, SB, and CB
+Distance measure D4
+After having analysed the results for the group of absolute distance measures, we will now
+focus on the group of relative distance measures.25 As D4
+corresponds to D2
+, we will
+analyse it in some detail. Table 7 gives an overview of our findings based on DNation
+4
+.
+The results for DNation
+4
+support the findings based on DNation
+2
+. Credit cooperatives and
+savings banks show a highly significant trend towards diversification whereas big banks,
+regional banks, and subsidiaries of foreign banks show a tendency towards specialisation
+as indicated by the panel estimator. The regressions on the bank level show majorities of
+individual banks with a significant trend towards focus for state banks, regional banks and
+subsidiaries of foreign banks. Big banks reveal a slight tendency towards an increase in
+distance to the national loan market, but it must be taken into account that these banks
+are on average still closest to the market.
+Distance measure D2 with regional benchmarks
+We have found a movement towards the nation's loan market portfolio especially for the
+groups of credit cooperatives and savings banks. However, the individual banks within
+these groups operate in regional markets. Hence the observed tendency towards diversi-
+fication is economically not fully convincing and may be merely the result of changes in
+25 By and large our results for measure D2
+are supported by the other absolute distance measures.
+-15-
+regional industry structures. Thus, it seems preferable to consider regional benchmarks
+such as the compositions of a state's loan portfolio or a county's loan portfolio. We will
+substantiate our findings using distance measure D2
+. Tables 8 and 9 report the results
+for DState
+2
+and DCounty
+2
+respectively. Note that regional benchmarks do not make sense
+for big banks and subsidiaries of foreign banks as they generally operate nationwide. Fur-
+thermore, the composition of a county's loan portfolio is not an appropriate benchmark
+for state banks.
+The composition of a state's loan portfolio must be considered the appropriate benchmark
+for state banks. Applying DState
+2
+indeed reveals a significant trend towards diversification
+for this group of banks, indicated by the panel trend coefficient as well as by a majority
+of banks with such behaviour. DState
+2
+also still shows highly significant trends towards
+diversification for credit cooperatives and savings banks. For these banks, the results
+continue to hold even if the benchmark is broken down to county level.
+For both benchmarks, however, D2
+reveals a tendency towards focus for the group of
+regional banks, as indicated by the panel estimator, and a majority of individual banks
+with a significant trend towards focus. Moreover, this group of banks is characterised
+by having, on average, the greatest deviation from the two local benchmarks. This sup-
+ports our earlier impression that regional banks seem to be more specialised in their loan
+origination.
+Distance measure D2 with contribution to GNP as benchmark
+As a fourth benchmark to be applied with distance measures, we analyse the composition of
+the industries' contribution to GNP. This time we must refer to annual data, as semiannual
+data of the industries' contribution to GNP were not readily available. Again we use D2
+as the example to illustrate our results. The key statistics of DGNP
+2
+are provided in Table
+10.
+Despite significance levels many other studies would be happy about, the results for DGNP
+2
+are not as clear as for other measures. For most groups of banks we see mixed results.
+Only credit cooperatives still display a tendency towards diversification and, to a lesser
+extent, subsidiaries of foreign banks towards specialisation. As a tentative explanation for
+the much lesser significance, we offer the thesis that contribution to the GNP and loan
+financing may not necessarily be highly correlated, eg due to variations in equity ratios,
+and hence banks do not use GNP figures as a guideline for limits on their exposure to
+industries.
+Benchmark Gini
+We wind up our analysis with BGNation and RCNation. Let us recall that BGNation stands
+for the ratio of an individual bank's Gini coefficient and the national loan market's Gini
+coefficient. Remember that a ratio bigger than 1 means that the individual bank is more
+focused than the national loan portfolio. Thus, a decrease in this measure stands for an
+increase in diversification. Results for BGNation are displayed in Table 11.
+It is striking to see that all bank groups have a highly significant panel trend towards
+diversification as measured by BGNation. Moreover, for all bank groups we see clear
+absolute majorities of individual banks with such a trend being significant and even vast
+majorities, from about 70% to almost 90%, of banks with rank correlation indicating this
+trend.
+-16-
+Considering Figure 1, this finding means that the Lorenz curve for most individual banks
+has approached the diagonal, and hence naive diversification, more (or moved away from
+it less) than the Lorenz curve of the national loan portfolio has over the last decade.
+As long as a bank's individual loan portfolio started out more concentrated than the
+nation's, which seems to be the dominant case according to the initial group-wise means
+of BGNation, this implies that the former has come closer to the latter.
+Interestingly, at the end of 2002 the four big banks had, on average, the same Gini coeffi-
+cient as the national market loan portfolio BGNation. The Gini coefficient of the national
+loan portfolio had a significant positive trend over this period. That is to say, the concen-
+tration of the national loan portfolio significantly increased over time. For the big banks,
+this means that their slightly higher loan portfolio concentration compared to the national
+loan portfolio increased less than the latter.
+Rank correlation
+The key statistics for the ^
+RC = -RC as a measure of diversification are displayed in Table
+12. Remember that a RC ( ^
+RC) of 1 (-1) represents perfect rank correlation of individual
+bank's loan portfolio structure with the structure of the benchmark portfolio. Economi-
+cally, the largest industry in both portfolios is the same, as is the second largest, and so
+on. Thus, within this setting a RC ( ^
+RC) of 1 (-1) represents perfect diversification.26
+As the readers will by now expect, the results for credit cooperatives and savings banks
+indicate a trend towards diversification. Surprisingly, we see a trend towards diversification
+within the group of regional banks. The panel estimator reflects a significant trend towards
+diversification. Moreover, we observe a majority of individual regional banks with a trend
+towards diversification. State banks and subsidiaries of foreign banks show a trend towards
+focus, whereas the results for the big banks are not conclusive.
+Brief summary
+We can sum up by saying that for all measures (concentration measures as well as distance
+measures) most banks show a significant trend towards diversifying their loan portfolios.
+A comparison of the analysed measures of diversification for the group of all banks is
+provided in Table 13. The trend towards diversification is especially driven by the large
+number of credit cooperatives and savings banks. However, we also see that regional
+banks and subsidiaries of foreign banks are and becoming even more specialised in their
+loan origination. Their concentration measures are, on average, higher than those of other
+banking groups, and distance measures of these banks deviate rather widely from the
+benchmark loan portfolios. Moreover, time series analyses, by and large, reveal no trend
+towards diversification for these groups. For the state banks and the big banks, the latter
+being closest to the market, the results are rather mixed.27
+26 Admittedly, this is a rather weak property here, in particular when there are noticeable size differences
+between industries.
+27 Results for the groups of big banks and state banks must be interpreted very carefully. First of all,
+these banks are involved in the market for credit derivatives. Thus, the data of the loan statistics
+might not perfectly reflect the exposures of these banks. Secondly, these banks (especially the big
+banks) have the strongest influence of all banks on the benchmarks. It is therefore not surprising that
+they are closest to the benchmarks.
+-17-
+4.2 Relationship between different measures of diversification
+The previous section has shown that different measures of diversification may lead to
+different results. We therefore now turn to a more detailed analysis of the relationship
+between different measures of diversification.
+We start our analysis with a correlation matrix of a selection of our diversification measures
+(Table 14). The correlations between the measures of diversification are calculated with 20
+observations for each bank.28 RCNation, only taking into account the rankings of industry
+shares but not the actual industry shares within a portfolio, has the lowest correlation (in
+absolute value) with all other diversification measures. HHI is next. Although we have
+obtained some differences in significance in our previous results when using the composition
+of GNP as a benchmark in comparison to other benchmarks, the correlations of DGNP
+2
+and DGNP
+4
+with other measures do not indicate a major divergence.
+Comparing the HHI with distance measures
+In a next step, we condense each time series for a bank into one observation. More
+specifically, we compare the relationship of the rank correlations of various measures over
+time. The corresponding differences that appear in the bank trend in diversification when
+measured, for example, by the HHI and a distance measures are emphasised by Figure 4.
+Its four panels display the relationship between the rank correlation over time of the HHI
+and the distance measures DNation
+1
+, DNation
+2
+, DNation
+3
+, and DNation
+4
+. Each dot in a scatter
+plot represents a single one of our total set of 2218 banks.
+An example should help to understand the bottom line of these scatter plots: Let us
+consider an individual bank located close to the upper left-hand corner of one of these
+panels. Such an individual bank has a negative rank correlation of the HHI over time,
+in fact, of just a little above the minimum of -1, and at the same time a positive rank
+correlation, close to the maximum of 1, of the distance measure used in this panel over time.
+This tells us that this individual bank simultaneously increased the naive diversification
+of its loan portfolio and increased its distance towards the national loan market portfolio.
+We have already seen this phenomenon for the big banks before. A bank close to the lower
+right corner of a panel in one of these scatter plots represents the opposite effect: It has
+increased its specialisation over time as measured by the HHI but decreased the distance
+towards the national loan market portfolio at the same time.
+Contradicting results for the HHI and a distance measure can be caused, for instance, by
+increasing the share of loans towards small industries at the expense of the share of loans
+towards larger industries. As mentioned before, glass and ceramics, for example, only
+accounted for 0.6% of Germany's loan market at end-2002 but trade for 12.7%. Thus, if
+a bank increases its share in glass and ceramics from 0.7% to 1.0%, say, and reduces its
+share in trade from 12.6% to 12.3%, it would increase its naive diversification but at the
+same time increase its separation from the national loan market.
+28 One exception applies: When calculating the correlation with a measure that uses GNP as a benchmark,
+only 9 observations for each bank are used.
+-18-
+Figure 4: Relationship between RC of HHI over time and RC of DNation
+1
+, DNation
+2
+, DNation
+3
+,
+and DNation
+4
+with time
+There are plausible arguments for using the HHI as well as distance measures as statisti-
+cal measures of diversification. If both were just different numerical representations of the
+same concept, the scatter plots would have all dots on an upward sloping, but not nec-
+essarily straight, line. Alas, this is not what we see. Instead, we find that diversification
+according to the HHI is not very closely correlated with diversification according to dis-
+tance measures. In many cases the HHI shows a strong increase in focus, whereas distance
+measures indicate that the bank's loan portfolio distance towards the market decreased
+and vice versa.
+The scatterplots reveal that for individual banks different diversification measures may
+lead to contradicting results. However, the aggregate results for Germany presented so
+far were robust to the choice of the diversification measure and revealed trends towards
+diversification for virtually all measures. This is reflected in the high frequency of banks
+in the south-western quadrant of the scatterplots. These banks show a trend towards
+naive diversification and a decline in distance to the market at the same time. Moreover,
+readers may also wonder why we observe similar levels of significance for different measures,
+although these measures may lead to contradicting results on an individual bank level. We
+offer the following explanation: In basically all scatter plots shown so far and later on, we
+find similar numbers of banks above and below a line that might serve as an approximate
+monotonic relation between the measures being compared. Therefore, even when the
+trends found for bank groups were about the same for different measures and had similar
+levels of significance, it is still possible that the banks with such a trend and those with
+opposite behaviour were not the same for both measures. Put differently, a lack of striking
+-19-
+differences between measures at the aggregate level does not imply that their assessment
+for individual banks will be very similar.
+It is interesting to note that, among the group of distance measures, the results for DNation
+1
+and DNation
+3
+seem to be most consistent with the results from the HHI (cf the scatter plots
+on the left-hand side of Figure 4). This is not much of a surprise since the HHI is an abso-
+lute measure (with the 1/n benchmark), and one would certainly expect the most similar
+results to show up with the absolute and not the relative distance measures. Not quite
+in line with this, and unfortunately for no obvious reason, the results for the normalised
+sum of absolute differences (DNation
+2
+; cf upper right-hand panel) differ considerably from
+the results for the HHI. The lack of agreement of the measures for individual banks is less
+surprising and even more obvious when comparing the relative distance measure DNation
+4
+(lower right-hand panel of Figure 4) with the HHI.
+Comparing different distance measures
+These findings urge us to take a closer look at the relationships between different distance
+measures. Figure 5 illustrates the divergences in results between the rank correlation of
+DNation
+2
+over time and the rank correlation over time of other distance measures using
+the same benchmark. Similar scatter plots for the relationship of DNation
+4
+with the other
+distance measures using the national loan portfolio as the benchmark are illustrated in
+Figure 6.
+Figure 5: Relationship between RC of DNation
+2
+over time and RC of DNation
+1
+, DNation
+3
+,
+DNation
+4
+, DNation
+5
+over time
+-20-
+Figure 6: Relationship between RC of DNation
+4
+over time and RC of DNation
+1
+, DNation
+2
+,
+DNation
+3
+, DNation
+5
+over time
+Applying the two absolute measures D2
+and D3
+apparently leads to very similar results
+(upper right-hand panel of Figure 5). The same holds for a pair of relative distance
+measures, D4
+and D5
+(lower right-hand panel of Figure 6). In contrast, we see major
+divergences in results when calculating diversification according to an absolute distance
+measure, on the one hand, and a relative distance measure, on the other. In many cases
+these measures indicate movements in opposite directions. And even within the group of
+absolute distance measures we see a pair of measures with a clear disagreement, D2
+and
+D1
+(upper left-hand panel of Figure 5).
+Relevance of benchmarks
+Finally, we examine the outcome when one diversification measure is applied with various
+benchmarks. Figure 7 shows scatter plots of the RC of D2
+over time, where the three
+panels differ in the benchmarks being used. It is not surprising that results for the national
+loan portfolio and the states' loan portfolios (panel on the upper left-hand side) are more
+consistent with each other than the results for the national loan portfolio and the counties'
+loan portfolios (panel on the upper right-hand side).
+-21-
+Figure 7: Relationship between RC of DNation
+2
+, RC of DState
+2
+, RC of DCounty
+2
+, and of RC
+DGNP
+2
+over time
+The bottom panel of Figure 7 illustrates the fairly large differences when the national
+loan portfolio and the industries' contribution to the GNP are used as benchmarks with
+distance measure D2
+. Readers may recall that the results for GNP as a benchmark were
+less clear-cut (cf Table 10). This is also visible here because, unlike in the other panels,
+the entries above and below a virtual line for an approximate monotonic relationship
+between the measures seem to be very different in numbers and also biased to the bottom
+right-hand corner.
+At any rate, we can infer that results regarding diversification versus focus in general do
+not only depend on the choice of a particular distance measure but also vary with the
+benchmark used when a distance measure is applied.
+In the absence of reliable risk and return data on loan segments, it is common practice
+to use the HHI as a measure of statistical diversification. Our findings show that this
+practice can be misleading, at least at the individual bank level. The results illustrate
+the informational power of distance measures as measures of statistical diversification. It
+would therefore be interesting to test the robustness of the results of Acharya et al. (2004)
+when applying other measures of diversification, eg the distance measures advocated here.
+However, even different distance measures can sometimes indicate contradicting trends on
+the individual bank level. Thus, we have to be very careful when working with necessarily
+simplifying measures of statistical diversification. To date, no single measure seems to be
+unanimously superior, and hence more research is needed to discriminate between different
+alternatives. In order to do so, more reference to initial principles or very specific purposes
+for applications may be required.
+-22-
+5 Conclusion
+We have applied a broad set of diversification measures to the national loan portfolios
+of German banks for the period from 1993 to 2002. The measures used in this paper
+are concentration measures and distance measures. Concentration measures capture the
+difference between a portfolio and naive diversification. Distance measures allow the use
+of benchmarks that reflect the industry structure of an economy. For all measures we find
+that the majority of banks exhibit a significant trend towards increasing diversification.
+We find a strong trend towards diversification within the group of credit cooperatives and
+savings banks, a phenomenon indicated by highly significant trend coefficients of the panel
+estimations and the majority of single bank estimations. The results for state banks and
+big banks are mixed. However, concerning the absolute magnitude of our diversification
+measures, big banks show the highest level of diversification across all measures. Given
+the level of diversification, it is therefore not surprising that they do not show any further
+trends towards diversification. However, it must be mentioned that results for big banks
+and state banks are probably influenced by the usage of credit derivatives. Regional banks
+and subsidiaries of foreign banks have, on average, the highest concentration measures and
+are found to have the biggest distance to the benchmark loan portfolios. Moreover, by
+and large they reveal no tendency towards diversification. Therefore, the overall result of
+an increasing diversification of German banks' loan portfolios seems to be driven by the
+large number of credit cooperatives and savings banks.
+Our findings are independent of the large number of mergers over the last decade, since
+in our analysis all banks that have merged during the period of observation have been
+treated as being merged over the whole period. A possible explanation for our results
+might be that bank managers have become more aware of loan portfolio diversification
+and that, in the same period, sophisticated techniques of managing loan portfolios have
+become more and more available to small banks, too. The tendency toward diversification
+might have been enforced by the broad debate on credit risk in the context of Basel II
+and some defaults and problems of German banks due to the poor quality of their loan
+portfolios in recent years.
+The specialisation observed for subsidiaries of foreign banks is not surprising, since these
+banks typically accompany their national enterprises abroad. Therefore, specialisation
+of the national loan portfolio does not imply international specialisation. For the group
+of regional banks (which according to the Deutsche Bundesbank's classification mainly
+includes private bankers) the observed specialisation may be explained as a strategy of
+seeking niches in the competitive German banking market.
+Although the trends described so far are revealed by virtually all measures, we find that,
+at an individual level, the diversification measures may differ significantly. It is notable
+that concentration measures and distance measures often produce contradicting results.
+The difference is relevant for banks, which, in the absence of reliable loan portfolio risk
+measurement tools, rely on diversification measures for portfolio management. We believe
+that distance measures are generally superior to concentration measures, since by their
+very definition they are well-suited to incorporate the structure of the market a bank
+serves as the natural reference point.
+-23-
+Appendix
+Table 1: Lending to industries and contribution to GNP by industries
+Lending to Contribution to
+industries GNP by industries
+June 1993 Dec 2002 1993 2001
+Agriculture, hunting and forestry, fishing and fish farming 2.95% 2.44% 0.77% 0.72%
+Electricity, gas and water supply; mining and quarrying 2.80% 2.92% 1.74% 1.26%
+Manufacture of
+chemical products, coke, refined petroleum products and nuclear fuel 1.20% 0.93% 1.48% 1.55%
+rubber and plastic products 0.88% 0.62% 0.70% 0.64%
+non-metallic mineral products 1.05% 0.65% 0.63% 0.46%
+basic metals and fabricated metal products 1.71% 1.97% 1.83% 1.69%
+machinery and equipment; manufacture of vehicles 4.34% 2.26% 3.74% 4.10%
+electrical and optical equipment 3.16% 1.39% 2.19% 1.76%
+wood, paper wood and paper products, furniture etc.; printing and publishing; recycling 2.57% 2.38% 1.90% 1.59%
+textiles and textile products; leather and leather products 1.32% 0.57% 0.52% 0.29%
+food products, beverage and tobacco 2.66% 1.82% 1.38% 1.20%
+Construction 5.24% 5.04% 4.10% 2.85%
+Wholesale and retail trade, repair of motorvehicles and personal household goods 15.72% 12.69% 6.29% 6.32%
+Transport, storage and communication 6.48% 4.01% 3.53% 3.69%
+Financial institutions (excluding MFIs)* and insurance 2.81% 3.08% 0.89% 0.75%
+Services Sector (including the professions)
+Housing Enterprises 11.67% 12.87% 6.42% 7.36%
+Holding companies 1.82% 3.92% not available
+Other real estate companies 11.40% 16.17% not available
+Hotels and restaurants 2.73% 2.20% 0.84% 0.78%
+Computer and related activities, research and development 5.38% 7.92% 5.73% 7.07%
+Health, veterinary and social work (enterprises and the professions) 4.45% 5.88% 3.49% 3.70%
+Letting of movables 0.58% 1.91% 0.91% 1.02%
+Other services 7.09% 6.04% 9.59% 9.00%
+* MFI = Monetary Financial Institution. Thus, interbank lending is not included.
+-24-
+Table 2: Means of selected diversification measures over time
+Date HHI G ^
+S DNation
+2
+DNation
+4
+DState
+2
+DState
+4
+DCounty
+2
+DCounty
+4
+DGNP
+2
+DGNP
+4
+BGNation ^
+RCNation
+Jun-93 0.1706 0.6527 -2.2477 0.4390 0.5197 0.3936 0.5003 0.3517 0.4769 0.4306 0.5116 1.4907 -0.4773
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Dec-97 0.1603 0.6446 -2.2894 0.4077 0.4905 0.3769 0.4755 0.3344 0.4503 0.4253 0.5035 1.3813 -0.5269
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Dec-02 0.1518 0.6331 -2.3252 0.4119 0.4869 0.3859 0.4719 0.3315 0.4406 0.4187 0.4973 1.3236 -0.5182
+-25-
+Table 3: Key statistics of HHI
+All CC SB StB BB RB SFB
+Number of banks 2218 1485 520 13 4 134 33
+HHI
+Mean of HHI (June 1993) 0.1706 0.1707 0.1148 0.1936 0.0851 0.2916 0.4056
+Mean of HHI (Dec 2002) 0.1529 0.1468 0.1046 0.1356 0.0867 0.3015 0.4717
+Panel estimation
+Panel trend -0.000935 -0.001227 -0.000562 -0.001550 -0.000124 -0.000364 0.004451
+t-statistic -25.23*** -34.83*** -30.96*** -2.72*** -1.65 -1.00 4.17***
+Bank-level regression
+Percentage of banks with trend1
+significantly< 0 (5% level) 50.72% 51.63% 52.50% 38.46% 50.00% 41.18% 30.30%
+significantly< 0 (10% level but not 5% level) 3.25% 3.77% 2.12% 0.00% 0.00% 3.00% 3.03%
+insignificantly< 0 14.65% 14.20% 17.31% 7.69% 25.00% 14.23% 3.03%
+insignificantly> 0 12.26% 12.66% 10.96% 7.69% 0.00% 11.98% 24.24%
+significantly> 0 (10% level but not 5% level) 1.89% 1.55% 1.73% 7.69% 0.00% 5.24% 3.03%
+significantly> 0 (5% level) 17.22% 16.19% 15.38% 38.46% 25.00% 24.37% 36.36%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.2543 -0.2746 -0.2773 0.0584 -0.2662 -0.1181 0.1195
+Median of RC -0.4015 -0.4135 -0.4338 0.1639 -0.4368 -0.2368 0.2030
+Percentage of banks with RC< 0 67.63% 68.96% 69.62% 38.46% 75.00% 55.97% 39.39%
+CC = Credit Cooperatives, SB = Savings Banks, StB = State Banks, BB = Big Banks, RB = Regional Banks, SFB = Subsidiaries of Foreign Banks
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent and 10 percent significance level (two-sided t-test).
+-26-
+Table 4: Key statistics of Gini coefficient (G)
+All CC SB StB BB RB SFB
+Number of banks 2218 1485 520 13 4 134 33
+G
+Mean of G (June 1993) 0.6527 0.6648 0.5853 0.6073 0.4503 0.7325 0.7995
+Mean of G (Dec 2002) 0.6331 0.6399 0.5691 0.6074 0.4769 0.7435 0.8183
+Panel estimation
+Panel trend -0.001189 -0.001437 -0.001027 -0.000882 0.000561 0.000247 0.000859
+t-statistic -48.06*** -52.20*** -23.57*** -2.14** 1.39 1.57 2.15**
+Bank-level regression
+Percentage of banks with trend1
+significantly< 0 (5% level) 46.93% 49.21% 44.81% 38.46% 50.00% 35.19% 33.33%
+significantly< 0 (10% level but not 5% level) 3.56% 3.37% 4.04% 0.00% 0.00% 3.00% 9.09%
+insignificantly< 0 15.55% 16.56% 14.23% 0.00% 0.00% 17.97% 3.03%
+insignificantly> 0 12.40% 12.99% 11.54% 23.08% 0.00% 10.48% 12.12%
+significantly> 0 (10% level but not 5% level) 2.75% 2.69% 3.08% 0.00% 0.00% 1.50% 6.06%
+significantly> 0 (5% level) 18.8% 15.18% 22.31% 38.46% 50.00% 31.86% 36.36%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.2199 -0.2684 -0.1715 0.0316 0.0658 -0.0393 0.0667
+Median of RC -0.3549 -0.3842 -0.3023 0.2481 0.0421 -0.1203 0.1970
+Percentage of banks with RC< 0 65.33% 68.75% 61.54% 61.54% 50.00% 53.73% 45.45%
+CC = Credit Cooperatives, SB = Savings Banks, StB = State Banks, BB = Big Banks, RB = Regional Banks, SFB = Subsidiaries of Foreign Banks
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent and 10 percent significance level (two-sided t-test).
+-27-
+Table 5: Key statistics of the negative of Shannon entropy ( ^
+S)
+All CC SB StB BB RB SFB
+Number of banks 2218 1485 520 13 4 134 33
+Shannon Entropy ( ^
+S)
+Mean of ^
+S (Dec 1993) -2.25 -2.22 -2.50 -2.31 -2.77 -1.83 -1.46
+Mean of ^
+S (Dec 2002) -2.33 -2.32 -2.55 -2.43 -2.74 -1.79 -1.31
+Panel estimation
+Panel trend -0.004242 -0.005341 -0.002942 -0.005061 0.000650 -0.000298 0.008795
+t-statistic -41.78*** -52.94*** -28.61*** -2.92*** 1.05 -0.32 3.38***
+Bank-level regression
+Percentage of banks with trend1
+significantly< 0 (5% level) 49.95% 52.17% 48.46% 38.46% 50.00% 37.44% 36.36%
+significantly< 0 (10% level but not 5% level) 3.61% 3.84% 3.46% 0.00% 0.00% 2.25% 3.03%
+insignificantly< 0 14.97% 15.15% 15.58% 0.00% 0.00% 17.97% 6.06%
+insignificantly> 0 12.35% 12.93% 11.35% 23.08% 0.00% 9.73% 12.12%
+significantly> 0 (10% level but not 5% level) 1.49% 1.41% 1.35% 0.00% 0.00% 2.25% 6.06%
+significantly> 0 (5% level) 17.63% 14.5% 19.81% 38.46% 50.00% 30.36% 36.36%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.2528 -0.2962 -0.2213 0.0816 0.0015 -0.0832 0.0662
+Median of RC -0.3985 -0.4346 -0.3729 0.3714 -0.0248 -0.1936 0.2376
+Percentage of banks with RC< 0 67.94% 70.91% 65.96% 38.46% 50.00% 55.97% 49.00%
+CC = Credit Cooperatives, SB = Savings Banks, StB = State Banks, BB = Big Banks, RB = Regional Banks, SFB = Subsidiaries of Foreign Banks
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent and 10 percent significance level (two-sided t-test).
+-28-
+Table 6: Key statistics of DNation
+2
+All CC SB StB BB RB SFB
+Number of banks 2218 1485 520 13 4 134 33
+DNation
+2
+Mean of DNation
+2
+(June 1993) 0.4389 0.4631 0.3292 0.3576 0.2117 0.5377 0.6319
+Mean of DNation
+2
+(Dec 2002) 0.4128 0.4350 0.2945 0.3194 0.2164 0.5452 0.7249
+Panel estimation
+Panel trend -0.001961 -0.002224 -0.002235 -0.001186 0.001069 0.000347 0.005063
+t-statistic -59.93*** -60.28*** -41.07*** -2.11** 2.42** 1.58 10.63***
+Bank-level regression
+Percentage of banks with trend1
+significantly< 0 (5% level) 48.33% 49.88% 52.88% 23.08% 25.00% 27.70% 6.06%
+significantly< 0 (10% level but not 5% level) 3.88% 3.97% 4.04% 0.00% 0.00% 2.25% 3.03%
+insignificantly< 0 18.08% 18.38% 17.50% 7.69% 0.00% 18.72% 27.27%
+insignificantly> 0 13.62% 13.80% 12.31% 30.77% 50.00% 14.98% 12.12%
+significantly> 0 (10% level but not 5% level) 1.76% 1.68% 1.92% 0.00% 0.00% 2.25% 3.03%
+significantly> 0 (5% level) 14.34% 12.28% 11.35% 38.46% 25.00% 34.11% 48.48%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.2520 -0.2792 -0.3107 0.1215 0.0733 0.0555 0.3075
+Median of RC -0.3579 -0.3820 -0.4083 0.3053 0.2158 0.0489 0.4662
+Percentage of banks with RC< 0 70.47% 72.66% 74.23% 30.77% 25.00% 48.51% 36.36%
+CC = Credit Cooperatives, SB = Savings Banks, StB = State Banks, BB = Big Banks, RB = Regional Banks, SFB = Subsidiaries of Foreign Banks
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent and 10 percent significance level (two-sided t-test).
+-29-
+Table 7: Key statistics of DNation
+4
+All CC SB StB BB RB SFB
+Number of banks 2218 1485 520 13 4 134 33
+DNation
+4
+Mean of DNation
+4
+(June 1993) 0.5196 0.5434 0.4091 0.3938 0.2392 0.6232 0.7420
+Mean of DNation
+4
+(Dec 2002) 0.4869 0.5081 0.3688 0.3764 0.2490 0.6283 0.7761
+Panel estimation
+Panel trend -0.001969 -0.002206 -0.002219 -0.000126 0.000705 0.000438 0.001633
+t-statistic -62.17*** -62.70*** -38.97*** -0.21 2.16** 2.05** 3.45***
+Bank-level regression
+Percentage of banks with trend1
+significantly< 0 (5% level) 48.69% 50.39% 51.92% 23.08% 0.00% 28.12% 30.30%
+significantly< 0 (10% level but not 5% level) 4.87% 5.32% 3.85% 7.69% 0.00% 3.74% 6.06%
+insignificantly< 0 17.31% 17.84% 17.88% 0.00% 25.00% 14.23% 15.15%
+insignificantly> 0 13.48% 13.87% 11.54% 0.00% 50.00% 16.47% 12.12%
+significantly> 0 (10% level but not 5% level) 1.44% 1.41% 1.54% 7.69% 0.00% 1.50% 0.00%
+significantly> 0 (5% level) 14.20% 11.18% 13.27% 61.54% 25.00% 35.94% 36.36%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.2618 -0.2983 -0.2966 0.2502 0.2767 0.0633 0.0775
+Median of RC -0.3759 -0.4030 -0.4233 0.5489 0.2233 0.0722 -0.1233
+Percentage of banks with RC< 0 70.56% 73.13% 73.65% 30.77% 25.00% 45.52% 51.51%
+CC = Credit Cooperatives, SB = Savings Banks, StB = State Banks, BB = Big Banks, RB = Regional Banks, SFB = Subsidiaries of Foreign Banks
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent and 10 percent significance level (two-sided t-test).
+-30-
+Table 8: Key statistics of DState
+2
+All CC SB StB RB
+Number of banks 2218 1485 520 13 134
+DState
+2
+Mean of DState
+2
+(June 1993) 0.3936 0.4156 0.2776 0.3490 0.5233
+Mean of DState
+2
+(Dec 2002) 0.3859 0.4072 0.2631 0.2658 0.5421
+Panel estimation
+Panel trend -0.001100 -0.001377 -0.001058 -0.003201 0.000723
+t-statistic -32.09*** -35.00*** -18.56*** -5.65*** 3.29***
+Bank-level regression
+Percentage of banks with trend1
+significantly< 0 (5% level) 40.40% 41.74% 41.92% 46.15% 26.96%
+significantly< 0 (10% level but not 5% level) 3.61% 3.97% 3.46% 0.00% 1.50%
+insignificantly< 0 18.21% 17.97% 19.04% 15.38% 16.47%
+insignificantly> 0 14.07% 14.34% 12.31% 15.38% 17.97%
+significantly> 0 (10% level but not 5% level) 2.39% 2.63% 1.92% 0.00% 1.50%
+significantly> 0 (5% level) 21.33% 19.35% 21.35% 23.08% 35.60%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.1377 -0.1616 -0.1549 -0.2223 0.0705
+Median of RC -0.2241 -0.2556 -0.2195 -0.2556 0.0902
+Percentage of banks with RC< 0 62.26% 64.38% 58.08% 69.23% 43.28%
+CC = Credit Cooperatives, SB = Savings Banks, StB = State Banks, RB = Regional Banks
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent and 10 percent significance level (two-sided t-test).
+-31-
+Table 9: Key statistics of DCounty
+2
+All CC SB RB
+Number of banks 2218 1485 520 134
+DCounty
+2
+Mean of DCounty
+2
+(June 1993) 0.3517 0.3701 0.2380 0.5013
+Mean of DCounty
+2
+(Dec 2002) 0.3315 0.3438 0.2216 0.5200
+Panel estimation
+Panel trend -0.001370 -0.0018272 -0.000904 0.000752
+t-statistic -37.33*** -42.53*** -15.27*** 3.32***
+Bank-level regression
+Percentage of banks with trend1
+significantly< 0 (5% level) 42.56 45.37 40.58 28.45
+significantly< 0 (10% level but not 5% level) 3.65 3.77 3.85 2.25
+insignificantly< 0 15.60 14.94 17.31 14.98
+insignificantly> 0 14.16 14.2 13.27 15.72
+significantly> 0 (10% level but not 5% level) 1.80 1.88 1.73 1.50
+significantly> 0 (5% level) 22.23 19.82 23.27 37.10
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.1463 -0.1886 -0.1211 -0.1467
+Median of RC -0.2383 -0.3083 -0.2060 -0.2383
+Percentage of banks with RC< 0 61.27% 63.57% 61.54% 44.03%
+CC = Credit Cooperatives, SB = Savings Banks, RB = Regional Banks
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent and 10 percent significance level (two-sided t-test).
+-32-
+Table 10: Key statistics of DGNP
+2
+All CC SB StB BB RB SFB
+Number of banks 2218 1485 520 13 4 134 33
+DGNP
+2
+Mean of DGNP
+2
+(Dec 1993) 0.4306 0.4487 0.3371 0.4210 0.2424 0.5185 0.6374
+Mean of DGNP
+2
+(Dec 2001) 0.4187 0.4311 0.3369 0.4429 0.2552 0.5103 0.6706
+Panel estimation
+Panel trend -0.000690 -0.001020 -0.000200 0.000630 0.000975 0.000129 0.001925
+t-statistic -13.47*** -17.46*** -2.60** 0.96 1.74* 0.35 2.13**
+Bank-level regression
+Percentage of banks with trend1
+significantly< 0 (5% level) 26.33% 28.81% 20.19% 15.38% 25.00% 23.96% 21.21%
+significantly< 0 (10% level but not 5% level) 4.55% 4.58% 4.23% 0.00% 0.00% 7.49% 3.03%
+insignificantly< 0 24.93% 25.31% 26.54% 23.08% 0.00% 19.47% 15.15%
+insignificantly> 0 21.87% 21.74% 22.5% 23.08% 0.00% 22.46% 24.24%
+significantly> 0 (10% level but not 5% level) 3.20% 3.03% 3.08% 7.69% 25.00% 4.49% 0.00%
+significantly> 0 (5% level) 19.12% 16.52% 23.46% 30.77% 50.00% 22.13% 36.36%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.0781 -0.1235 0.0002 0.2500 0.3208 -0.0286 0.1742
+Median of RC -0.1333 -0.1833 -0.0050 0.4667 0.5917 -0.0333 0.3667
+Percentage of banks with RC< 0 55.46% 58.05% 51.35% 38.46% 0.25% 52.99% 39.39%
+CC = Credit Cooperatives, SB = Savings Banks, StB = State Banks, BB = Big Banks, RB = Regional Banks, SFB = Subsidiaries of Foreign Banks
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent and 10 percent significance level (two-sided t-test).
+This analysis is based on annual data, as semiannual data of the industries' contribution to the GNP is not available.
+-33-
+Table 11: Key statistics of BGNation
+All CC SB StB BB RB SFB
+Number of banks 2218 1485 520 13 4 134 33
+BGNation
+Mean of BGNation (Dec 1993) 1.49 1.52 1.34 1.39 1.03 1.67 1.83
+Mean of BGNation (Dec 2002) 1.32 1.34 1.19 1.27 1.00 1.55 1.71
+Panel estimation
+Panel trend -0.007372 -0.007964 -0.006537 -0.00651 -0.002314 -0.005065 -0.004235
+t-statistic -136.43*** -130.52*** -68.67*** -6.99*** -2.71*** -14.49*** -4.78***
+Bank-level regression
+Percentage of banks with trend1
+significantly< 0 (5% level) 73.04% 76.14% 70.77% 53.85% 50.00% 59.15% 54.55%
+significantly< 0 (10% level but not 5% level) 2.98% 2.89% 3.27% 7.69% 0.00% 3.74% 0.00%
+insignificantly< 0 10.64% 10.23% 11.35% 7.69% 25.00% 9.73% 18.18%
+insignificantly> 0 6.54% 6.29% 6.73% 7.69% 0.00% 7.90% 6.06%
+significantly> 0 (10% level but not 5% level) 1.35% 1.08% 1.73% 0.00% 0.00% 0.75% 3.03%
+significantly> 0 (5% level) 5.46% 3.37% 6.15% 23.08% 25.00% 18.72% 18.18%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.5421 -0.5826 -0.1714 -0.3287 -0.3248 -0.3354 -0.2906
+Median of RC -0.7135 -0.7323 -0.3023 -0.5759 -0.4714 -0.5744 -0.6045
+Percentage of banks with RC< 0 86.29% 89.02% 84.81% 69.23% 75.00% 71.64 72.73%
+CC = Credit Cooperatives, SB = Savings Banks, StB = State Banks, BB = Big Banks, RB = Regional Banks, SFB = Subsidiaries of Foreign Banks
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent and 10 percent significance level (two-sided t-test).
+-34-
+Table 12: Key statistics of the negative of RC ( ^
+RCNation
+)
+All CC SB StB BB RB SFB
+Number of banks 2218 1485 520 13 4 134 33
+^
+RCNation
+Mean of ^
+RCNation
+(Dec 1993) -0.4773 -0.4456 -0.5988 -0.7400 -0.6872 -0.3740 -0.2245
+Mean of ^
+RCNation
+(Dec 2002) -0.5182 -0.4857 -0.6541 -0.7383 -0.7085 -0.4206 -0.0455
+Panel estimation
+Panel trend -0.003121 -0.003702 -0.002609 0.002251 -0.000624 -0.001964 0.008627
+t-statistic -45.91*** -45.00*** -23.38*** 3.30*** -0.53 -5.13*** 9.11***
+Bank level regression
+Percentage of banks with trend1
+significantly< 0 (5% level) 39.00% 41.06% 36.73% 7.69% 25.00% 34.44% 15.15%
+significantly< 0 (10% level but not 5% level) 4.73% 4.78% 4.42% 0.00% 0.00% 7.49% 0.00%
+insignificantly< 0 22.41% 22.08% 26.35% 23.08% 25.00% 15.72% 9.09%
+insignificantly> 0 16.01% 15.72% 16.92% 38.46% 50.00% 10.89% 15.15%
+significantly> 0 (10% level but not 5% level) 2.03% 2.22% 1.35% 0.00% 0.00% 3.00% 3.03%
+significantly> 0(5% level) 15.83% 14.14% 14.23% 30.77% 0.00% 28.45% 57.58%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.1725 -0.2019 0.5167 0.1551 -0.1485 -0.0465 0.2971
+Median of RC -0.2493 -0.2917 0.6887 0.1865 -0.0910 -0.1275 0.4752
+Percentage of banks with RC< 0 65.24% 66.94% 67.12% 30.77% 50.00% 54.48% 24.24%
+CC = Credit Cooperatives, SB = Savings Banks, StB = State Banks, BB = Big Banks, RB = Regional Banks, SFB = Subsidiaries of Foreign Banks
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent and 10 percent significance level (two-sided t-test).
+-35-
+Table 13: Comparison of diversification measures (results for all banks)
+HHI G ^
+S DNation
+2
+DNation
+4
+Number of banks 2218 2218 2218 2218 2218
+Mean of Diversification Measure (DM)
+Mean of DM (June 1993) 0.1706 0.6527 -2.25 0.4389 0.5196
+Mean of DM (Dec 2002) 0.1529 0.6331 -2.33 0.4128 0.4869
+Panel estimation
+Panel trend -0.000935 -0.001189 -0.004242 -0.001961 -0.001969
+t-statistic -25.23*** -48.06*** -41.78*** -59.93*** -62.17***
+Bank level regression
+Percentage of banks with trend1
+significantly< 0 50.72% 46.93% 49.95% 48.33% 48.69%
+insignificantly 32.05% 34.26% 32.42% 37.34% 37.10%
+significantly> 0 17.22% 18.80% 17.63% 14.34% 14.20%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.2543 -0.2199 -0.2528 -0.2520 -0.2618
+Median of RC -0.4015 -0.3549 -0.3985 -0.3579 -0.3759
+Percentage of banks with RC< 0 67.63% 65.33% 67.94% 70.47% 70.56%
+DState
+2
+DCounty
+2
+DGNP
+2
+BGNation ^
+RCNation
+Number of banks 2218 2218 2218 2218 2218
+Mean of Diversification Measure (DM)
+Mean of DM (June 1993) 0.3936 0.3517 0.4306 1.49 -0.4773
+Mean of DM (Dec 2002) 0.3859 0.3315 0.4187 1.32 -0.5182
+Panel estimation
+Panel trend -0.001100 -0.001370 -0.000690 -0.007372 -0.003121
+t-statistic -32.09*** -37.33*** -13.47*** -136.43*** -45.91***
+Bank level regression
+Percentage of banks with trend1
+significantly< 0 40.40% 42.56 26.33% 73.04% 39.00%
+insignificantly 38.28% 35.21% 54.52% 21.51% 45.18%
+significantly> 0 21.33% 22.23% 19.12% 5.46% 15.83%
+Spearman rank correlation coefficient (RC)
+Mean of RC -0.1377 -0.1463 -0.0781 -0.5421 -0.1725
+Median of RC -0.2241 -0.2383 -0.1333 -0.7135 -0.2493
+Percentage of banks with RC< 0 62.26% 61.27% 55.46% 86.29% 65.24%
+***,**,* indicate statistical significance at the 1, 5, 10 percent level respectively.
+1 Trend tested at 5 percent (two-sided t-test).
+-36-
+Table 14: Correlation matrix of diversification measures
+HHI G ^
+S DNation
+2
+DNation
+4
+DState
+2
+DState
+4
+DCounty
+2
+DCounty
+4
+DGNP
+2
+DGNP
+4
+BGNation ^
+RCNation
+HHI 1
+G 0.7941 1
+^
+S 0.9570 0.9292 1
+DNation
+2
+0.7772 0.8771 0.8757 1
+DNation
+4
+0.7346 0.8853 0.8638 0.9431 1
+DState
+2
+0.7460 0.8261 0.8367 0.9356 0.8983 1
+DState
+4
+0.7185 0.8634 0.8449 0.9194 0.9779 0.9343 1
+DCounty
+2
+0.7146 0.7758 0.7927 0.8227 0.8025 0.8456 0.8146 1
+DCounty
+4
+0.6996 0.8543 0.8278 0.8778 0.9382 0.8719 0.9455 0.9050 1
+DGNP
+2
+0.7930 0.8837 0.8828 0.9317 0.8907 0.8653 0.8593 0.7586 0.8208 1
+DGNP
+4
+0.7548 0.8939 0.8779 0.9089 0.9714 0.8649 0.9458 0.7761 0.9087 0.9230 1
+BGNation 0.7889 0.9943 0.9238 0.8756 0.8832 0.8222 0.8608 0.7717 0.8517 0.8769 0.8873 1
+^
+RCNation
+0.3466 0.4275 0.4161 0.6918 0.5953 0.6422 0.5938 0.5110 0.5482 0.5976 0.5231 0.4299 1
+-37-
+References
+Acharya, V., Hasan, I., Saunders, A., 2004. Should Banks Be Diversified? Evidence from
+Individual Bank Loan Portfolios. Tech. rep., London Business School, London, forth-
+coming in: Journal of Business.
+Berger, P. G., Ofek, E., 1995. Diversification's Effect on Firm Value. Journal of Financial
+Economics 37, 39­65.
+Dell'Ariccia, G., 2001. Asymmetric Information and the Structure of the Banking Industry.
+European Economic Review 45, 1957­1980.
+Dell'Ariccia, G., Friedman, E., Marquez, R., 1999. Adverse Selection as a Barrier to Entry
+in the Banking Industry. RAND Journal of Economics 30, 515­534.
+Deutsche Apotheker- und ¨
+Arztebank, 2004. Corporate Profile.
+http://www.apobank.de/70partner/20ir/20ir en/index.html (October 7, 2004).
+Diamond, D., 1984. Financial Intermediation and Delegated Monitoring. Review of Eco-
+nomic Studies 51, 393­414.
+Elyasiani, E., Deng, S., 2004. Diversification Effects on the Performance of Financial
+Services Firms. Tech. rep., Temple University, Philadelphia.
+Frenken, K., 2004. Entropy Statistics and Information Theory. In: Foster, J., H¨
+olzl, W.
+(Eds.), The Elgar Companion to Neo-Schumpeterian Economics. Edward Elgar, Chel-
+tenham and Northampton, p. forthcoming.
+Gehrig, T., 1998. Screening, Cross-Border Banking, and the Allocation of Credit. Research
+in Economics 52, 387­407.
+HSH Nordbank, 2003. Schifffahrt. http://www.hsh-nordbank.de/home/kunden/ schiff-
+fahrt/ schifffahrt.jsp (December 8, 2003).
+Lang, L., Stulz, R., 1994. Tobin's q, Corporate Diversification, and Firm Performance.
+Journal of Political Economy 102, 1248­1280.
+Markowitz, H. M., 1952. Portfolio Selection. Journal of Finance 7, 77­91.
+Marquez, R., 2002. Competition, Adverse Selection, and Information Dispersion in the
+Banking Industry. The Review of Financial Studies 15, 901­926.
+Pfingsten, A., Rudolph, K., 2002. German Banks' Loan Portfolio Composition: Market-
+Orientation Vs. Specialisation. Tech. Rep. 02-02, Institut f¨
+ur Kreditwesen, M¨
+unster.
+Shaffer, S., 1998. The Winner's Curse in Banking. Journal of Financial Intermediation 7,
+359­392.
+Shannon, C. E., 1948. A Mathematical Theory of Communication. Bell System Technical
+Journal 27, 623­656.
+Stadtsparkasse K¨
+oln, 2003. Kurzprofil. http://www.sk-koeln.de/ueber uns/unter
+nehmen/kurzprofil (December 8, 2003).
+-38-
+Stomper, A., 2004. A Theory of Banks' Industry Expertise, Market Power, and Credit
+Risk. Tech. rep., University of Vienna.
+Theil, H., 1972. Statistical Decomposition Analysis. North-Holland, Amsterdam.
+Winton, A., 1999. Don't Put All Your Eggs in One Basket? Diversification and Specializa-
+tion in Lending. Tech. rep., Finance Department, University of Minnesota, Minneapolis.
+Zar, J., 1972. Significance Testing of the Spearman Rank Correlation Coefficient. Journal
+of the American Statistical Association 67, 578­580.
+-39-
+-40-
+The following Discussion Papers have been published since 2004:
+Series 1: Economic Studies
+1 2004 Foreign Bank Entry into Emerging Economies:
+An Empirical Assessment of the Determinants
+and Risks Predicated on German FDI Data Torsten Wezel
+2 2004 Does Co-Financing by Multilateral Development
+Banks Increase "Risky" Direct Investment in
+Emerging Markets? ­
+Evidence for German Banking FDI Torsten Wezel
+3 2004 Policy Instrument Choice and Non-Coordinated Giovanni Lombardo
+Monetary Policy in Interdependent Economies Alan Sutherland
+4 2004 Inflation Targeting Rules and Welfare
+in an Asymmetric Currency Area Giovanni Lombardo
+5 2004 FDI versus cross-border financial services: Claudia M. Buch
+The globalisation of German banks Alexander Lipponer
+6 2004 Clustering or competition? The foreign Claudia M. Buch
+investment behaviour of German banks Alexander Lipponer
+7 2004 PPP: a Disaggregated View Christoph Fischer
+8 2004 A rental-equivalence index for owner-occupied Claudia Kurz
+housing in West Germany 1985 to 1998 Johannes Hoffmann
+9 2004 The Inventory Cycle of the German Economy Thomas A. Knetsch
+10 2004 Evaluating the German Inventory Cycle
+Using Data from the Ifo Business Survey Thomas A. Knetsch
+11 2004 Real-time data and business cycle analysis
+in Germany Jörg Döpke
+-41-
+12 2004 Business Cycle Transmission from the US
+to Germany ­ a Structural Factor Approach Sandra Eickmeier
+13 2004 Consumption Smoothing Across States and Time: George M.
+International Insurance vs. Foreign Loans von Furstenberg
+14 2004 Real-Time Estimation of the Output Gap
+in Japan and its Usefulness for
+Inflation Forecasting and Policymaking Koichiro Kamada
+15 2004 Welfare Implications of the Design of a
+Currency Union in Case of Member Countries
+of Different Sizes and Output Persistence Rainer Frey
+16 2004 On the decision to go public: Ekkehart Boehmer
+Evidence from privately-held firms Alexander Ljungqvist
+17 2004 Who do you trust while bubbles grow and blow?
+A comparative analysis of the explanatory power
+of accounting and patent information for the Fred Ramb
+market values of German firms Markus Reitzig
+18 2004 The Economic Impact of Venture Capital Astrid Romain, Bruno
+van Pottelsberghe
+19 2004 The Determinants of Venture Capital: Astrid Romain, Bruno
+Additional Evidence van Pottelsberghe
+20 2004 Financial constraints for investors and the
+speed of adaption: Are innovators special? Ulf von Kalckreuth
+21 2004 How effective are automatic stabilisers?
+Theory and results for Germany and other Michael Scharnagl
+OECD countries Karl-Heinz Tödter
+-42-
+22 2004 Asset Prices in Taylor Rules: Specification, Pierre L. Siklos
+Estimation, and Policy Implications for the Thomas Werner
+ECB Martin T. Bohl
+23 2004 Financial Liberalization and Business
+Cycles: The Experience of Countries in Lúcio Vinhas
+the Baltics and Central Eastern Europe de Souza
+24 2004 Towards a Joint Characterization of
+Monetary Policy and the Dynamics of
+the Term Structure of Interest Rates Ralf Fendel
+25 2004 How the Bundesbank really conducted Christina Gerberding
+monetary policy: An analysis based on Andreas Worms
+real-time data Franz Seitz
+26 2004 Real-time Data for Norway: T. Bernhardsen, Ø. Eitrheim,
+Challenges for Monetary Policy A.S. Jore, Ø. Røisland
+27 2004 Do Consumer Confidence Indexes Help
+Forecast Consumer Spending in Real Time? Dean Croushore
+28 2004 The use of real time information in Maritta Paloviita
+Phillips curve relationships for the euro area David Mayes
+29 2004 The reliability of Canadian output Jean-Philippe Cayen
+gap estimates Simon van Norden
+30 2004 Forecast quality and simple instrument rules - Heinz Glück
+a real-time data approach Stefan P. Schleicher
+31 2004 Measurement errors in GDP and Peter Kugler
+forward-looking monetary policy: Thomas J. Jordan
+The Swiss case Carlos Lenz
+Marcel R. Savioz
+-43-
+32 2004 Estimating Equilibrium Real Interest Rates Todd E. Clark
+in Real Time Sharon Kozicki
+33 2004 Interest rate reaction functions for the euro area
+Evidence from panel data analysis Karsten Ruth
+34 2004 The Contribution of Rapid Financial
+Development to Asymmetric Growth of
+Manufacturing Industries: George M.
+Common Claims vs. Evidence for Poland von Furstenberg
+35 2004 Fiscal rules and monetary policy in a dynamic
+stochastic general equilibrium model Jana Kremer
+36 2004 Inflation and core money growth in the Manfred J.M. Neumann
+euro area Claus Greiber
+37 2004 Taylor rules for the euro area: the issue Dieter Gerdesmeier
+of real-time data Barbara Roffia
+38 2004 What do deficits tell us about debt?
+Empirical evidence on creative accounting Jürgen von Hagen
+with fiscal rules in the EU Guntram B. Wolff
+39 2004 Optimal lender of last resort policy Falko Fecht
+in different financial systems Marcel Tyrell
+40 2004 Expected budget deficits and interest rate swap Kirsten Heppke-Falk
+spreads - Evidence for France, Germany and Italy Felix Hüfner
+41 2004 Testing for business cycle asymmetries
+based on autoregressions with a
+Markov-switching intercept Malte Knüppel
+1 2005 Financial constraints and capacity adjustment
+in the United Kingdom ­ Evidence from a Ulf von Kalckreuth
+large panel of survey data Emma Murphy
+-44-
+2 2005 Common stationary and non-stationary
+factors in the euro area analyzed in a
+large-scale factor model Sandra Eickmeier
+3 2005 Financial intermediaries, markets, F. Fecht, K. Huang,
+and growth A. Martin
+4 2005 The New Keynesian Phillips Curve
+in Europe: does it fit or does it fail? Peter Tillmann
+5 2005 Taxes and the financial structure Fred Ramb
+of German inward FDI A. J. Weichenrieder
+6 2005 International diversification at home Fang Cai
+and abroad Francis E. Warnock
+7 2005 Multinational enterprises, international trade,
+and productivity growth: Firm-level evidence Wolfgang Keller
+from the United States Steven R. Yeaple
+8 2005 Location choice and employment S. O. Becker,
+decisions: a comparison of German K. Ekholm, R. Jäckle,
+and Swedish multinationals M.-A. Muendler
+9 2005 Business cycles and FDI: Claudia M. Buch
+evidence from German sectoral data Alexander Lipponer
+10 2005 Multinational firms, exclusivity, Ping Lin
+and the degree of backward linkages Kamal Saggi
+11 2005 Firm-level evidence on international Robin Brooks
+stock market comovement Marco Del Negro
+12 2005 The determinants of intra-firm trade: in search Peter Egger
+for export-import magnification effects Michael Pfaffermayr
+-45-
+13 2005 Foreign direct investment, spillovers and
+absorptive capacity: evidence from quantile Sourafel Girma
+regressions Holger Görg
+14 2005 Learning on the quick and cheap: gains James R. Markusen
+from trade through imported expertise Thomas F. Rutherford
+15 2005 Discriminatory auctions with seller discretion:
+evidence from German treasury auctions Jörg Rocholl
+16 2005 Consumption, wealth and business cycles: B. Hamburg,
+why is Germany different? M. Hoffmann, J. Keller
+17 2005 Tax incentives and the location of FDI: Thiess Buettner
+evidence from a panel of German multinationals Martin Ruf
+18 2005 Monetary Disequilibria and the Dieter Nautz
+Euro/Dollar Exchange Rate Karsten Ruth
+19 2005 Berechnung trendbereinigter Indikatoren für
+Deutschland mit Hilfe von Filterverfahren Stefan Stamfort
+-46-
+Series 2: Banking and Financial Studies
+1 2004 Forecasting Credit Portfolio Risk A. Hamerle,
+T. Liebig, H. Scheule
+2 2004 Systematic Risk in Recovery Rates ­
+An Empirical Analysis of US Corporate Klaus Düllmann
+Credit Exposures Monika Trapp
+3 2004 Does capital regulation matter for bank Frank Heid
+behaviour? Evidence for German savings Daniel Porath
+banks Stéphanie Stolz
+4 2004 German bank lending during F. Heid, T. Nestmann,
+emerging market crises: B. Weder di Mauro,
+A bank level analysis N. von Westernhagen
+5 2004 How will Basel II affect bank lending to T. Liebig, D. Porath,
+emerging markets? An analysis based on B. Weder di Mauro,
+German bank level data M. Wedow
+6 2004 Estimating probabilities of default for
+German savings banks and credit cooperatives Daniel Porath
+1 2005 Measurement matters ­ Input price proxies
+and bank efficiency in Germany Michael Koetter
+2 2005 The supervisor's portfolio: the market price
+risk of German banks from 2001 to 2003 ­ Christoph Memmel
+Analysis and models for risk aggregation Carsten Wehn
+3 2005 Do banks diversify loan portfolios? Andreas Kamp
+A tentative answer based on individual Andreas Pfingsten
+bank loan portfolios Daniel Porath
+

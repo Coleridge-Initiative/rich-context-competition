@@ -1,0 +1,823 @@
+https://doi.org/10.1177/1746197917694183
+Education, Citizenship and
+Social Justice
+2017, Vol. 12(2) 159
+­176
+© The Author(s) 2017
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/1746197917694183
+journals.sagepub.com/home/ecsj
+ecsj
+Ideology, utopia and Islam on
+campus: How to free speech
+a little from its own terrors
+Alison Scott-Baumann
+SOAS University of London, UK
+Abstract
+A dominant narrative on many British campuses is `Prevent', which is part of the government's counter-
+terror policy, an ideology based on fear. Muslims, in particular, are considered to be at risk of radicalisation
+on campus, and being under suspicion makes them self-censor. Additionally, the no-platforming student lobby
+creates a utopian, idealised atmosphere that seeks to reduce dissent. Self-censorship and no-platforming are
+reducing the diversity of opinions expressed at universities, yet there is no evidence of illegality on campus.
+Spinoza, JS Mill and Hannah Arendt demanded various forms of free speech for a healthy society, and the
+free speech issue is the key to `Prevent' which suppresses opinions that are different from the dominant
+government narratives. The challenge now, in the tide of BREXIT and Trump, is how to free speech, even a
+little, from the pincer grip of establishment ideology and student utopia. Between the extremes of ideology
+and utopia is a vacuum that must be filled; if we do not fill it with free speech and discussion, others can
+colonise it with stories that inspire fear and suspicion. Similarly, a vacuum exists naturally between laws (that
+set norms) and state guidance on laws (application). If we do not use debate to negotiate the contents of
+this vacuum, it will be filled with the bureaucracy of fear and even a state of exception. A vacuum demands
+to be filled. In both cases, we need to actively reclaim each `vacuum' for discussion, debate and questioning
+in order to try and understand our current cultural imagination and develop a better one.
+Keywords
+ideology, law, logic, Prevent, racism, solitude, state of exception, terror, utopia
+Different and contradictory stories abound around Islam on the British university campus. How do
+they all survive and multiply so successfully, and why do some seem more plausible than others?
+Some of these stories have become rooted in the national discourse; taxi drivers and politicians tell
+each other stories about radicalisation on campus with confidence and conviction. The most funda-
+mentally important question is to consider whether we are free to challenge the veracity of all these
+stories or only of some. Freedom of speech is surely one of the necessary privileges of university
+Corresponding author:
+Alison Scott-Baumann, SOAS University of London, Thornhaugh Street, London WC1H 0XG, UK.
+Email: as150@soas.ac.uk
+694183
+ESJ0010.1177/1746197917694183Education, Citizenship and Social JusticeScott-Baumann
+research-article2017
+Article
+160 Education, Citizenship and Social Justice 12(2)
+life: this is not a self-indulgent liberal position that can be trumped by those who argue that freedom
+must be restricted when there are existential risks. Rather, I propose that open ­ civil ­ discussion is
+vitally important if we are to manage existential risks, not least by challenging the perceived sever-
+ity of some such risks. Thus, the issues around Islam on campus are inextricably bound up with free
+speech across the whole of the university and I will analyse the counterproductive polarisation of
+ideological and utopian thinking on campus.
+French philosopher Paul Ricoeur identified the natural gaps both between and within ideology
+and utopia: ideology seeks to maintain domination, and utopia seeks to liberate us with extreme
+versions of humanity at its best. The two dialectically imply each other, and there is always a gap,
+a distance between them which I will call a vacuum. Currently, we are ignoring the vacuum which
+the bureaucratic state locates and fills with reified fear, following ideology's development through
+three stages: distortion (`we will die ...'), legitimation (`if we don't watch these people ...') and
+symbolisation (`who can be recognised by their skin colour and clothes'). Yet, filling this vacuum
+with a bureaucratisation of fear is not inevitable. A vacuum is neutral; it demands to be filled and
+can be populated with pathological or idealistic and transformative impulses. The possibilities of
+such impulses form our cultural imagination. Ricoeur (1976) argued that it is precisely these irre-
+solvable yet instructive tensions between the imposed and the ideal that allow us to work towards
+better cultural imaginations. I will also show how Ricoeur's understanding of cultural imagination
+shares some similarities with Agamben's state of exception and how they each help us to under-
+stand our cultural imagination, in which the vacuum created by tension between ideology and
+utopia is currently filled with surveillance, when it should be full of constructive and questioning
+discussion leading to social action.
+For now, we need to consider Arendt, who is more in sympathy with Mannheim; for her, ideol-
+ogy and utopia exemplify the totalitarian state. When Mannheim paired up ideology and utopia, he
+viewed them as deviant social realities. Learning from Mannheim and Arendt, I will argue that
+these two disparate yet interrelated phenomena are choking free speech on campus in a pincer grip
+by, on the one hand, government surveillance ideology that seeks to eliminate non-violent extrem-
+ism and, on the other hand, students' utopian no-platforming that seeks to reduce offence to the
+audience.1 These phenomena, if unchecked, will diminish the individual and the university sector
+by giving staff and students less experience, fewer powers of discussion, less robust debate and
+decision-making and less understanding of political realities. All issues are political issues and
+university is a good place to begin to be a citizen (in Britain, subject of the crown). We must
+encourage confidence in the Orwellian sense of politics being everything, and yet, that is precisely
+what is being lost with the denial of free speech. However, speech is never really free, and I will
+consider the price to be paid for suppressing it and the price to be paid for encouraging it as well as
+the possibility of adopting Ricoeur's dialectical model: he detected tensions and a vacuum between
+and within ideology and utopia and believed we should reclaim the vacuum for discussion to
+develop cultural imagination. It is this tension between ideology and utopia that creates our cultural
+imagination, which is currently in a state of exception.
+In order to understand the many narratives about Islam on campus, I therefore propose to
+describe the major stories, to seek and then analyse some of the inconsistencies between them by
+using thinkers who can help us to see where these stories come from and how believable they are.
+In academic writing and the media, various different narratives have arisen to both create and
+explain the situation by which the government has created new quasi-legal guidance for surveil-
+lance of staff and students on campus. The most dominant narrative is that of `Counter-terror Law
+and guidance' that demonstrates Agamben's state of exception. Then we have a sequence of five
+stories listed in descending order of potency: first, there is the `campus as breeding grounds for
+terror' story. Second, there is the `impending doom/Islam as pathology' story. Third, there is the
+Scott-Baumann 161
+story that pleads for `balanced understanding'. Fourth, there is the story that Muslims ask of
+Muslims: `how can we make this better?' Finally, there is the `moderate hopeful story' that is
+hardly ever told and even less heard. I will show how the `breeding grounds for terror' and the
+`Islam as pathology' stories choke free speech and need to be discussed openly on campus.
+In his Theologico-Political Treatise, Spinoza (2004) argued that the human mind can and should
+never be fully controlled and also that state attempts to do so will breed resentment. He wanted
+freedom of expression to be guaranteed for these moral and practical reasons and also for utilitarian
+reasons, since the state requires creative ideas and open debate for its survival and its well-being. He
+differentiated between thought and action yet also wanted rulers to be able to control seditious talk,
+which he hoped they themselves would define. This is a difficulty, as we shall see that the current
+surveillance policies depend upon unclear definitions of seditious talk coming from government.
+Here, we can instructively consider the tension between ideology and utopia: I take ideology to
+mean ideas and ideals about governance, such that they form an unchallenged and hegemonic basis
+for political and economic policies, claims and practice. I take utopian thought to assert that it must
+be possible to develop a place where life and laws are deemed perfect and everyone is in agree-
+ment. Clearly ideology can be uplifting and productive, yet because it is used to legitimate power,
+it is extremely difficult to challenge: it brooks no discussion, no dissent. Ideology will seek to
+reduce any serious discrepancies that emerge between evidence and claim, when that discrepancy
+maps onto a population group whose own evidence base may be at odds with its government's
+claims. This may be the case for Muslims in Britain right now, whose views on British foreign
+policy may differ from those of government ­ and they will not be alone in this. Ideology seeks to
+shape the ideal state that is its goal, and utopia presents this idealised dream. The tension between
+ideology and utopia, and their capacity to be allies, necessitates our constant challenging of
+received wisdoms. In order to present a utopian vision, it is necessary that ideology distorts reality
+and in the process, it will have to distort the complexities of human life. Ideology may seek to
+simplify reality by overrating human differences and underrating similarities; it may assert the
+superiority of one group over another, and it will make it impossible to challenge these postulated
+superiorities by denying that such arguments have ever been used, as Ricoeur (1981: 155) shows
+us. Cultural imagination arises from the creative tension between the ideological and the utopian.
+No evidence has been produced to demonstrate that universities radicalise students into terrorist
+sympathy (non-violent extremism) and then into violent action (violent extremism). Advisory par-
+liamentary groups have been expressing grave concerns for the last 2 years about this lack of evi-
+dence and lack of clear terms. This is stated emphatically by the House of Lords, House of
+Commons Joint Committee on Human Rights (2016):
+107. The Government's approach, set out in its Counter-Extremism Strategy, appears to be based on the
+assumption that there is an escalator that starts with religious conservatism and ends with support for
+jihadism; and that combating religious conservatism is therefore the starting point in the quest to tackle
+violence. However, it is by no means proven or agreed that conservative religious views are, in and of
+themselves, an indicator of, or even correlated with, support for jihadism. (Counter-Extremism Second
+Report of Session 2016­2017)
+At the time of writing (winter 2016), Lords Dubs and Macdonald tabled an amendment to the
+Higher Education and Research Bill, to disapply the statutory Prevent duty insofar as it applies to
+higher education institutions.2 However, despite various joint committees'pleas for an independent
+review and for clarification of terms that are vague and yet nevertheless used for court rulings, it is
+likely that the dominant `Prevent' ideology will prevail. So we may need to step outside the policy
+documentation and the research literature for guidance, and seek alternative and equally radical
+162 Education, Citizenship and Social Justice 12(2)
+interpretations that can help us to understand. In Arendt's (1954) essay, On the nature of totalitari-
+anism (pp. 341­360), she alerts us to four major tools of totalitarian thinking: terror, racism, logic
+and solitude. She was writing at a time that resembles ours in several ways, including the mass and
+uncontrolled migrations of displaced people across Europe and economic weaknesses across the
+continent. There are parallels in Europe now, so let us see if we can identify her four features of
+repressive regimes.
+I will begin with the legal story that focusses upon terrorism and analyse it with the help of
+Agamben's state of exception. Then I will look at a range of five stories and conclude with an
+attempt to configure a new cultural imagination in which I propose that we need to consider the
+chilling effect on free expression across the campus, not only with regard to Islam and especially
+with regard to students (Scott-Baumann and Tomlinson 2016).
+The legal story
+In the light of conflicting and often colourful stories about campus risks, it is necessary to see what
+the law says. The Counter Terrorism and Security Act 2015 places certain duties on higher educa-
+tion authorities, of which three are worth discussing. The Act includes, firstly, a reiteration of the
+1986 Act instruction to universities to `have particular regard' to actively protecting academic
+freedom and freedom of speech, secondly a duty to `have due regard' to the need to prevent people
+from being drawn into terrorism and thirdly a duty to `have due regard'to the guidance that accom-
+panies the Act. So the Act gives the Secretary of State the power to issue guidance about how the
+duty should be exercised and universities must `have regard' to such guidance. Contrary to what
+many public and media discussions assume, this does not place a statutory duty on universities to
+monitor or record information or to use surveillance techniques. Moreover, as one would expect, if
+the guidance to a law goes beyond or is contradictory of the law, the law takes precedence over the
+guidance.
+The 1986 Education Act, to which the CTSA 2015 refers, pays particular attention to the
+importance of free expression: it confers on universities not just a duty to `have regard' to free-
+dom of speech but a much stronger duty to `take such steps as are reasonably practicable to
+ensure that freedom of speech within the law is secured for members, students and employees ...
+and visiting speakers'. Universities must ensure, insofar as is reasonably practicable, that no
+individual is denied use of university premises on any ground connected with `the beliefs or
+views of that individual'. JS Mill (1985: 108) in his extended essay On Liberty presents an
+Austinian-type speech-act distinction: constatives are legally acceptable even when highly
+offensive while performatives with malign or dangerous perlocutionary effects may be subject
+to legal intervention. (Mill does not use Austin's terms, and of course, Derrida warns us that the
+distinction is not so clear, yet such distinctions must be attempted). Research evidence is build-
+ing up to show that current understanding is implemented in a uniformly risk averse manner and
+does not attempt such distinctions:
+The state is trying to attack Islam. It's now problematic to bring a scholar in to speak. If you do this you
+need to evaluate the risk of being excluded from public debate. If you protest the ban, the Daily Mail gets
+your name and shames you as un-British. This shaming is then on all your twitter stuff and Facebook and
+any online bits about you. You go for a job, they can find this easily if they look. (Anonymous PhD student
+statement, November 20163)
+Universities are public authorities and are therefore also prevented by the Human Rights Act
+1998 from acting in a way that is incompatible with the European Convention on Human Rights.
+Scott-Baumann 163
+The Convention stipulates that everyone has the right to freedom of expression, and that right can
+only be restricted if the restriction is legal, for a proper purpose and if the restriction is necessary
+and proportionate to achieve that purpose. It is only legal to restrict visiting speakers or to restrict
+the expression of ideas by students or staff if they can be shown to fail to comply with this: the fact
+that a speaker may say something provocative or offensive does not mean that his or her rights can
+lawfully be interfered with.4 JS Mill guides us here, and David Bromwich's (2016) article in
+London Review of Books provides up-to-date examples. As long as what is said does not incite,
+threaten or provoke violence nor is otherwise contrary to the criminal law, it can be unlawful for a
+university to prohibit or restrict it.
+Certainly, universities need to carefully monitor events such as outside speakers, decide what to
+do on a case-by-case basis and keep proper records. They should record the fact that they have
+considered the risks and explain why they have decided that a particular event should proceed. But
+they would be in breach of their duty to ensure freedom of speech and of duties under the Counter
+Terrorism Act if they adopted any strict rules and applied them to every situation without specific
+consideration of individual circumstances.
+However, the manner in which the Act and the Guidance are presented to the higher education
+sector by the Higher Education Funding Council for England's (HEFCE) Prevent monitoring
+framework demonstrates suppression of legal free speech, seen in visiting speaker protocols (Scott-
+Baumann 2017). The lengthy paperwork for inviting a speaker must seek to remove all risk of
+difficulties and
+This form [for external speakers] is so long [29 pages] and has to be agreed by all parties some weeks
+before the event. This is impractical and people often give up. The form may not say PREVENT, we just
+all know it is. It takes away personal agency, it gives a false sense of security because it actually takes away
+your agency for thinking for yourself; is this really a risk or not? Survival becomes based on cautiousness.
+Stifling. We should have some trust in the level of intelligence of people to recognise what is useful to hear.
+(Anonymous student officer statement, November 20165)
+Moreover HEFCE's `Prevent' monitoring framework strikes a different note from the meas-
+ured tone of the Counter Terror and Security Act 2015, giving the impression that the guidance
+must be followed as if it is law. The monitoring framework presents the guidance in terms of the
+onerous-sounding `Prevent duty obligation', and many universities fear reputational damage if
+they do not take the guidance seriously. The revised guidance upon which the HEFCE monitor-
+ing framework is based is also imprecise and therefore difficult to implement. Its broad defini-
+tion of extremism seems to be linked to equally imprecise definitions of `terrorism', `non-violent
+extremism', `radicalisation' and `fundamental British values', which could be taken to imply
+that people who, for example, discriminate against different faiths and beliefs would be at risk
+of radicalisation. Yet, that act of discrimination is what universities are being instructed to imple-
+ment for Prevent. By doing so, they will in fact contravene the government's vague definition of
+fundamental British values:
+We define `extremism' as vocal or active opposition to fundamental British values, including democracy,
+the rule of law, individual liberty and mutual respect and tolerance of different faiths and beliefs. (Channel
+Duty Guidance, 2015: 3)
+It is clear then that the Prevent and Channel Guidances are shifting on a quicksand of opaque
+lexical items. In particular, the term non-violent extremism must be challenged: in a functioning
+democracy, non-violent extremism means questioning the status quo.
+164 Education, Citizenship and Social Justice 12(2)
+The term non-violent extremism threatens freedom of speech
+Terrorism is very loosely defined to include many criminal activities and it also includes extremism
+and non-violent extremism.6 Here is the definition of non-violent extremism which is also highly
+unsatisfactory: in the quotation below, terrorism's propinquity to non-violent extremism makes it
+seem causally related. Yet no evidence is provided for such inferred causality:
+8. The Prevent strategy was explicitly changed in 2011 to deal with all forms of terrorism and with non-
+violent extremism, which can create an atmosphere conducive to terrorism and can popularise views
+which terrorists then exploit. It also made clear that preventing people becoming terrorists or supporting
+terrorism requires challenge to extremist ideas where they are used to legitimise terrorism and are shared
+by terrorist groups. And the strategy also means intervening to stop people moving from extremist (albeit
+legal) groups into terrorist-related activity.7
+At the time of writing (winter 2016), the government had also established an Extremism
+Analysis Unit (EAU) which monitors extremism, yet the EAU has no Statutory Code of Conduct,
+produces no publicly available guidance or functions and is, I believe, the product of an unclear
+and therefore unstable ideology, acting upon unclear definitions of extremism. If you wish to know
+whether personal data are being collected about you by the government, you have to request that
+information from the Home Office and, if you wish, from the Henry Jackson Society. Taking power
+covertly to collect personal data in the supposed interests of the general good is in contravention of
+the Data Protection Act Principle 1(Information Commissioners' Office 2016).
+It is not the existence of non-violent extremism that threatens freedom of speech; on the con-
+trary, it is the outlawing of `non-violent extremism' that threatens freedom of speech. Perceived
+fear of terrorism is being used to exert control, but somewhat differently from Arendt's picture: she
+was describing active persecution of Jews; here, we see a more subtle yet analogous focus on the
+free expression of one particular group: Muslims and those who look as if they might be Muslim.
+So this situation also fits Arendt's historic charge against the state of racism. Heath-Kelly's (2013)
+research demonstrates how this works:
+[T]he radicalisation discourse produces (discursively) the threats it claims to identify for the performance
+of governance, rather than as reacting to the existence of such risks. (p. 408)
+Under this discourse, certain opinions now count as non-violent extremism or may suggest the
+potential for the individual to become radicalised in the government's lexicon of risk: environmen-
+tal activism, opposition to whale hunting, support for Palestine or critique of Israeli government
+policies, to name a few. This will potentially criminalise many academics and students involved in
+legitimate research, and many of those interested in the Middle East, for example. Academics and
+students accustomed to expressing personal and/or political views at university would need to be
+warned of the risks of discussing certain issues, in case they are referred to `Prevent'. This is a
+challenge to free speech.
+It is instructive to analyse this legal story with Agamben's (2005) `state of exception' (ch. 1,
+especially pp. 22-31). He describes how a state can plead that necessity requires certain applica-
+tions of the law and will be difficult to challenge for two reasons; one is that `necessity' is highly
+subjective and related to the aims one wishes to achieve. Other people's aims can be rejected as
+irrelevant to the norms embedded in the laws. The other reason is that this very subjectivity makes
+it impossible for either fact or law to adjudicate the accuracy of the proposed exceptions when they
+are turned into a plea for exceptionalising the law. Agamben shows how established laws can be
+subverted by pleading for an exception. In such an instance, the existing laws remain in place and
+Scott-Baumann 165
+thus it appears that no illegality is committed. Yet, he detects `an empty space', `the empty centre'
+at the core of the laws that renders them incapable of arresting their own distorted use when har-
+nessed for exceptional purposes (Agamben, 2005: 86). I use the term vacuum to emphasise that this
+space, like a vacuum in nature, must be filled, so we need to act.
+I will exemplify this vacuum at the heart of the juridical processes of law by analysing the rela-
+tionship between the Counter Terror and Security Act 2015 and its Guidance. As usual, with an act
+of parliament, the Act establishes the norm and also instructs the citizen to `have due regard to'any
+guidance created to clarify the application of the Act. The Guidance establishes the application of
+the norm and should, as usual with guidance, be ignored where it goes beyond the Act. The normal
+juridical order is embodied in the Act, which empowers the Guidance but has no power to control
+the Guidance. Any Act requires citizens to go to court if they have the courage to challenge the
+guidance, and when this does not happen, the guidance can get away with a great deal. By this
+means, illegality can occur that appears legal, and this situation facilitates and perpetuates a state
+of exception: in this case, the exception is called terrorist activity.
+Criminal activities are dealt with by normal laws; if we call them terrorist, the aim can be achieved
+of making them seem beyond criminal law. If people, thus, become the exception, they and their
+crimes can be argued to require different legal procedures. It is the general public's apparent accept-
+ance of this ruse that makes it possible for the state to populate with `surveillancing'the vacuum that
+Agamben (following Schmitt) identifies at the heart of the juridical system: the vacuum between
+norm and application is integral to the system and can be exploited and turned into a state of excep-
+tion. This happens despite human rights legislation that exists to protect humans from abuse. In
+addition, the unsound use of imprecise lexical items facilitates continued manipulation of the
+Guidance, because those who impose it continue to be able to decide what the terms mean.
+The state of exception can also be compared with Ricoeur's depiction of the relationship
+between ideology and utopia: each term (ideology, utopia) represents an inescapable aspect of the
+way we imagine our cultural lives and each requires modification in order to be useful in the real
+world. Yet both can, like law and guidance, become hopelessly weak or exaggeratedly strong. I am
+not arguing for a direct relationship between these pairs (ideology, utopia and law, state guidance).
+I am proposing that there are similarities in the way they contribute to our cultural imagination.
+Each argument ­ Ricoeur's cultural imagination and Agamben's state of exception ­ demon-
+strates how human thought creates a bipolarity, a duality of sorts that oversimplifies a situation and
+allows exaggerated existential crises to seem credible. Such a dialectic is, of course, only one
+imperfect way of articulating a problem, yet cannot be ignored because many of us think naturally
+in these binary forms (Scott-Baumann, 2013). Such a dialectic also helps us to understand how
+both Ricoeur and Agamben insist that we must grapple with the extreme versions of our cultural
+imagination and our state of exception, in order to locate and fill with free speech the gap, the
+vacuum, the lacuna that naturally exists between our hopes (utopia) and our fears (ideology), and
+between the functioning of the law (norms) and the state guidance (applications). The next two
+`stories' exemplify wilfully evil use of such binaries in the narratives that make it possible to
+impose a state of exception: Muslims depicted as the dark side of human nature versus the nice
+bright white side. Stories 3­5 provide alternatives to the dominant stories presented in 1 and 2.
+The `universities as breeding grounds for terror' story
+The attitude towards Muslims on campus, as reflected in the UK national debate about identity, is
+unequivocally racist, that is, protected characteristics such as skin colour, religion and ethnicity are
+interpreted as synonymous with fear, maiming or death by terrorist acts. David Anderson (2015),
+Independent Reviewer of counter-terror legislation, clarifies that `Prevent' (the government
+166 Education, Citizenship and Social Justice 12(2)
+counter-terror plan) is `predominantly though not entirely focused on Islamist extremism' (p. 58).
+There is an assumption that all Muslims may harbour dangerous ideas that they pick up on campus;
+they may become radicalised and put non-Muslims in danger. Glees and Pope (2005) argue that the
+university environment is responsible for this:
+We must ask, from where do young people get the very idea of extremism and radicalism? The idea
+always predates the act itself and universities have always been places where ideas dominate the
+environment. (p. 24)
+This attempt to criminalise thought is quite widespread. Reports by the Centre for Social
+Cohesion (2010), the Quilliam Foundation (2010) and the Henry Jackson Society (2015a, 2015b)
+portray universities as places of danger as a result of the reported radicalisation activities on cam-
+pus. The establishment and growth of the government's counter-terror agenda is implemented on
+campus through the `Prevent' guidance and supported ideologically by various organisations such
+as the Henry Jackson Society and its project known as Student Rights (2016). The Centre for Social
+Cohesion, in their report `Radical Islam on Campus' (Henry Jackson Society, 2010: 7), asserts that
+`Islamic extremism on campuses not only continues unabated, it continues to flourish'. The
+Centre's 2010 report uses the 2008 (Centre for Social Cohesion, 2008) report Islam on Campus: A
+survey of UK student opinions. This report identified politicised Islam on UK campuses, particu-
+larly among active members of Islamic Student societies. University life is being depicted as
+fraught with danger ­ potential and actual ­ because of a perceived terrorist threat and the implica-
+tion that thought itself is dangerous, deviant and extremist. There is a danger that this `breeding
+grounds for terror' story has already had a real effect on university culture. `Prevent' clearly plays
+a role with its bureaucratisation of fear.
+The `impending doom/Islam as pathology' story
+When Islamic scholar Bernard Lewis was consulted by the George W Bush administration about
+Islam, he argued that Islam is aggressively anti-modern, leading to terrorism. His approach was
+used to justify the Iraq war. This war proved catastrophic and then a new phenomenon arose, the
+readiness of European citizens to carry out criminal acts that were classified as terrorist acts (e.g.
+Madrid 2004, London 2005 and Paris 2015). Subsequent attempts to analyse this have included the
+escalator or conveyor belt model and the identification of certain types of Islamic thought as `poi-
+sonous extremist ideology that can lead people to violence' (HM Government, 2013: 1). There is a
+corollary to this in intellectual circles where some writers depict Islam as a persistently violent
+religion, and decry the efforts of others to represent a more subtle and complex picture: when Small
+(2016) reviews Kennedy's book The Caliphate, he criticises Kennedy for failing to take account of
+the religiosity of the Caliphate, asserting that it is Islam that is the source of danger. This is reflected
+in the title of Small's review article, Wars of religion. How Islam is designed to fight for a theo-
+cratic state. Pervasive suspicion suggests that I know more about your real motives than you do,
+which allows me to judge you negatively without providing evidence. Such a hermeneutic of sus-
+picion unbalances relations among people (Scott-Baumann, 2009).
+Despite the impending doom narrative, there is no evidence that universities are encouraging
+extremist ideas among Muslims. Indeed there are no satisfactory definitions of these much used
+terms: fundamentalism, radicalisation, extremism, Muslim, extremist ideas. However, there is a
+clear tendency to define danger as emanating from interest in the politics of the Middle East,
+including Syria, Israel and Palestine, reflected in `Prevent' counter-terror online training manuals.
+So it is possible that interest in politics of a region about which the ruling British political party has
+Scott-Baumann 167
+a particular view is conflated with extremism. Yet this connection is not openly acknowledged or
+justified; indeed, it is kept covert and implied. Such covert connections mean that universities are
+allowing British political power to interrupt much needed discussion and understanding of the
+Middle East. Here is a form of covert action that distorts the situation with the bias of the ruling
+party, as seen in parts of the working of the state. If universities are following a political bias with-
+out acknowledging it or even noticing it, and are thereby mirroring the so-called deviance that they
+are charged with stamping out, it is imperative to critique this phenomenon and consider its impact
+not only upon students (mis)identified as Muslims and presumed dangerous but also upon the
+wider possibility of free speech being curtailed for all students and staff on university campuses. I
+believe ordinary citizens in positions of power in the government have been radicalised by extrem-
+ist discourse about `dangerous' Muslims and by discouraging free speech, they are putting in dan-
+ger the capacity of the university sector to challenge such dangerous ideas. Government is supported
+in this auto-radicalisation by various think tanks. Murray of the Henry Jackson Society expresses
+this clearly:
+It is time the West woke up to the fact that the militants in our midst ­ however large a percentage of the
+Muslim population ­ will never like us. (Murray, 2006)
+These two stories, the `campus as breeding grounds for terror' and the `impending doom/Islam
+as pathology', are clearly reflected in the government documentation I have quoted, which under-
+pins the counter-terror narrative.
+The `challenging paranoia' story
+The islamophobia industry is flourishing, as documented by the ongoing critical work of Spinwatch
+(2015) and by Robin Richardson's work at INSTED. They show how evidence that seems to go
+against basic moral standards should be challenged: how do accusatory stories with no evidence
+base about specific groups compare with Kant's view that we should behave towards others as we
+wish them to behave towards us? This `challenging paranoia' story characteristically challenges
+the idea that Muslims are vulnerable to extremist discourse and, therefore, also challenges the sup-
+posed corollary that Muslims can be construed as vulnerable to becoming terrorists.
+The `challenging paranoia'story interrogates the idea of inherent vulnerability in a particular com-
+munity, and this interrogation has echoes in research practices because work has been done within
+research communities to self-critically evaluate the use of the term vulnerable. The groundwork for
+preparing such an argument can be found in Fisher (2012). She shows us how, for academic research-
+ers, groups considered vulnerable are often also considered `deficient citizens'. We can find an echo
+of this when HannahArendt (1954) described in On the nature of totalitarianism how European Jews
+were persecuted so that they became vulnerable and thus came to be regarded as socially burdensome
+and potentially dangerous: `If it is untrue, said Das Schwarze Korps, for instance, that all Jews are
+beggars without passports, we shall change facts in order to make this statement true' (p. 350).
+This aspect of the argument resembles Arendt's charge of how logic can be used to oppress: by
+this she means logic becomes pseudo-logic, which is always bad: fallacious, distorted, misapplied
+or premise-begging. In Words of Power, Andrea Nye takes this further to challenge all logical mod-
+els: she detects the exclusivity and uncompromising nature of logical debate (Nye, 1990). This may
+be too extreme a position. Yet Arendt herself personally experienced the ways in which Hitler and
+Mussolini presented arguments that seemed logical: weak members of a population can become a
+security risk, which seems self-evidently possible, and then they made that happen so the `logic'
+became justified, as Das Schwarze Korps demonstrated.
+168 Education, Citizenship and Social Justice 12(2)
+Under the `Prevent' agenda, the Muslim population of Britain is considered to be vulnerable to
+radicalisation and therefore potentially dangerous as terrorists or terrorist sympathisers. Thus,
+racial and religious characteristics are combined to show both deficiency and a source of danger,
+even when challenged by British Muslims, as demonstrated by O'Toole et al (2016). Brown and
+Saeed (2014) and Scott-Baumann and Cheruvallil-Contractor (2016) show this clearly with regard
+to Muslim women on campus who are labelled in a separate category of riskiness that means they
+can never belong. Qureshi (2015) demonstrates this process of identifying `radicals'. Heath-Kelly
+(2013) clarifies how this is achieved in her research on campus on the British counter-terror agenda
+`Prevent':
+The at-risk subject of radicalisation is vulnerable to developing a propensity of dangerousness ­ meaning
+that they are always already rendered as dangerous. (p. 408)
+The development of such a pervasive ideological position exerts pressure upon the way the
+public thinks and also upon the way researchers think, and should lead all researchers to question
+whether we can be sure that we are indeed following the Declaration of Helsinki with its emphasis
+upon autonomy, beneficence, non-maleficence and distributive justice. These principles are the
+cornerstones of modern research ethics as set out in the Declaration.
+Research ethics should be supporting these principles in order to ensure that a good university
+curriculum is available that represents world events, not asking researchers to declare interest in
+extremism, which immediately arouses suspicion. Analysis of Islamic Studies curricula in British
+universities demonstrates that militant Islam is taught much more often than peaceful Islam, as
+seen in the paucity of studies on Sufism, for example (Cheruvallil-Contractor and Scott-Baumann,
+2016). Militant Islam needs to be balanced by understanding, for example, the roles of Britain, the
+United States and Russia in the politics of Iran, Israel, Saudi Arabia and Syria, seldom taught yet
+vitally important. This discrepancy may disenfranchise young Muslims or even `radicalise' them.
+The Open Society Report Eroding Trust, based on Amrit Singh's research into `Prevent', also pro-
+vides evidence that British Muslims have felt the urge to affiliate themselves with terrorism as a
+direct result of being targeted by `Prevent' team (Open Society Foundations, 2016). When applied
+to the United States, Kundnani (2014) argues that
+[f]or all its rhetoric, the real fear that lies behind US Islamophobia is not the Muslim fanatic but the
+possibility that this new generation of American Muslims might express itself politically. (p. 275)
+We can wonder whether this may be the case in the United Kingdom too, with British Muslims
+being told to explain themselves.
+The `how can we Muslims make this better?' story
+There are hundreds of think tanks and charities and pressure groups set up by British Muslims to
+support their communities and reach out to wider communities. They do good work, which rarely
+reaches the media. Actions take various forms, ranging from the asserted need of some in Muslim
+communities to embrace `Prevent' and protect the young from indoctrination online by radical
+preachers (Sara Khan), to community activism that aims to track and reduce Islamophobia
+(Measuring Anti-Muslim Attacks: Tell MAMA) and encouraging British Muslims to become
+involved in local and national media and politics (MEND: Muslim Engagement and Development
+and the Islamic Society of Britain). Numerous organisations thrive on providing interfaith guid-
+ance: Three Faiths Forum, Faith Matters, the Joseph Faith Foundation and Faith in Society. There
+Scott-Baumann 169
+is explicit challenge to the dominant political ideologies in some groups, of which CAGE is the
+most high profile.
+There are also many projects that attempt to engage with non-Muslim Britain. The Poppy hijab
+is a hijab made of material with a poppy pattern, designed by Tabinda-Kauser Ishaq. It is an attempt
+by a Muslim group, supported by The Islamic Society of Britain, to create a strong symbol of
+British Muslim integration into mainstream society. Püttmann researched this phenomenon, which
+he entitled The Making of the Good British Muslim. How the Phenomenon of the Poppy Hijab
+Shapes Britain's Sense of Self and Belonging. Püttmann (2016) points out that this also raises
+issues of why British Muslims should have to use such symbolism to justify their presence.
+Püttmann concludes that the poppy hijab is yet another example of unequal power relations, where
+this visible symbolism appears to be needed to assert Britishness. This may well be true, and the
+project also demonstrates clearly the efforts made by Muslim groups to engage with their country.
+The poppy hijab project is flawed, and can be seen as a form of communal apologetics that sug-
+gests Muslims do indeed need to justify themselves better. Yet it is an interesting attempt to pro-
+pose an alternative and positive ideology that engages a suspicious majority. It is but one of many
+such moderate, hopeful attempts.
+The moderate, hopeful story
+The tone of much material written about Islam is often doom laden, as discussed earlier, whether
+academic, journalistic or policy focussed. This may take the form of criticism of religion as a
+credo, headlining criminal acts committed by Muslims or focussing on terror threats. There are
+those who choose a more positive approach: Hugh Kennedy in his recent book The Caliphate
+assumes that Islam, like all world religions, has stories to tell, some of which may/may not be true,
+and that Muslims should be able to have unimpeded access to their cultural heritage in order to be
+self-confident within secular cultures, to enhance their hybrid cultural imagination.
+There is also a groundswell of academic activity, attempting to reflect the Muslim population of
+Britain within the university sector. It has long been the case that Muslim academics are few and
+isolated. In order to overcome this solitude, The British Association for Islamic Studies (BRAIS)
+developed out of the HEFCE sponsored Islamic Studies Network (ISN) and has created a new
+platform for all academics interested in Islam. The original impetus, the ISN, was established with
+government funding following Ataullah Siddiqui's (2007) report on `Islam at Universities in
+England'which led to the designation of Islamic Studies as a strategically important subject in June
+2007. The ISN commissioned reports that demonstrated the disciplinary diversity of Islamic
+Studies in the United Kingdom and the broad scope of its scholarly community's research interests,
+providing empirical evidence on its strengths but also highlighting its vulnerability (only a handful
+of departments and centres offer specialised programmes, and most scholars work as lone experts
+in their respective fields). A way forward for the ISN was building a capital mass of experts in
+Islamic Studies broadly defined and represented in its advisory board. BRAIS was established in
+2012 by members of the ISN advisory board, and offered an institutional home by the Alwaleed
+Centre for the Study of Islam in the Contemporary World at the University of Edinburgh.
+BRAIS' founding vision reflects the legacy of the ISN, particularly in terms of (1) providing a
+forum for academic exchange for scholars with an interest in any aspect of Islam and the Muslim
+world, past and present and (2) becoming an umbrella organisation for members working in a wide
+range of disciplines and geographical interest areas. BRAIS is the first learned society in the United
+Kingdom and Europe dedicated to Islamic Studies only. Its establishment was an important move
+towards recognising Islamic Studies as a subject in its own right rather than as a subfield of Middle
+Eastern studies, thus expanding its scope to cover the Muslim world as well as Muslim minority
+170 Education, Citizenship and Social Justice 12(2)
+societies in Western and non-Western contexts, and a multitude of approaches which draw on his-
+torical, textual and social scientific methodologies.At its annual conferences, keynotes and parallel
+sessions cover a wide array of topics such as Qur'anic studies, Islamic law and ethics, philosophy
+and theology, history, politics, gender, Islam in Britain, Europe and several non-Western contexts,
+art and architecture, and Islamic finance.8
+This moderate, hopeful story is familiar to many Muslim staff and students and others deemed
+to be of `minority' status: they know that they are not mad or bad or dangerous to know. In the cur-
+rent cultural imagination that is shaped by perceived surveillance needs on campus, a vital element
+is the student voice. We need to consider how to increase the acceptance of such moderate, hopeful
+narratives among students.
+The student voice
+The 2015 counter-terror legislation is balanced and measured, yet the guidance associated with it
+contains strong elements of discrimination and racial stereotyping: this guidance is being imple-
+mented more strongly than it mandates and as if it is legally binding. Various aspects of the guid-
+ance clearly instruct users about detecting a person who is at risk of being or who has been
+radicalised; none of this terminology is clear, but it clearly signals that some people think differ-
+ently from the majority and that this thought is presumed dangerous to others. Indeed, this idea
+seems to be accepted by many students in Britain.
+In March 2016, Nick Hillman's think tank, the Higher Education Policy Institute (HEPI, 2016),
+conducted a student survey about free speech on campus and found that over 50% believe that it is
+reasonable for universities to work closely with the police and security services to identify students
+at risk and to train staff to recognise people who might support terrorism. One in five of these stu-
+dents said they did not know what their opinion was. Regarding the National Union of Students'
+(NUS') no-platforming policy, 76% agree wholly or partly and 48% support a safe space policy.
+Thus, it is commonly perceived to be necessary to ensure that a segment of the population does not
+express its thoughts ­ which are presumed dangerous. This may be thought of by many as a neces-
+sary evil: ring-fencing the possible danger from one small group can be accepted grudgingly as a
+utilitarian necessity when seeking to preserve the well-being of the majority. There are at least three
+problems with this approach: one is that we may need to challenge this use of utilitarian reasoning
+to see if it is fit for purpose or, for example, not proportionate to the risk. Secondly, what if the desire
+to silence and segment parts of society off from others is not, after all, for the safety of the majority,
+but ideologically motivated by the desire of the ruling elite to keep their own ideas safe? Thirdly,
+what about other objectionable views that are not classed as `extremist'but may be just as damaging,
+such as the risk of being labelled anti-Semitic if one wishes to discuss Israel/Palestine? This diffi-
+culty is discussed by feminist gay Jewish philosopher Judith Butler in Parting Ways. She confronts
+our cultural understanding of modern Israel in many ways, one of which is to ask us to consider the
+implications of religion, identity and state being as one. She also considers the possibility that the
+Arab Jew, rather than the European Jew, is the identity at the core of Judaism, and that the `"Arab
+Jew" constitutes conjuncture, chiasm, and cohabitation (understood as coarticulation with alterity)'
+(Butler, 2012: 30). These are very difficult ideas to discuss but they affect us all and we should avoid
+foreclosure. Moreover, by accepting a cultural imagination that rests upon surveillance, we neglect
+issues unaffected by terrorism, such as the state of the National Health Service and indeed of the
+national health. Hillman and his team concluded that, on campus:
+Overall, the answers to the questions suggest the pendulum may have swung too far away from favouring
+free speech. Debating, rather than barring, unpalatable arguments is often the best way to expose them for
+Scott-Baumann 171
+what they are. Where free speech curtails a university's core functions, the consequences need to be fully
+debated among students and staff. (HEPI, 2016: 4)
+There is also a relatively new key player: since 2010, the Charity Commission has become
+responsible for the larger student unions, which are charities. This has a sort of (pseudo) logic to it,
+except that we should be uneasy about monitoring students to ensure that they do not act politically,
+if Orwell was right that all life is political ­ just because they are running a charity. Having to self-
+censor political views can become counterproductive and this form of being silenced by surveil-
+lance fears must be seen in the context of denying human dignity. As Forst (2011) argues in
+Justification and Critique,
+To possess human dignity means being an equal member in the realm of subjects and authorities of
+justification ... to act with dignity means being able to justify oneself to others. (p. 101)
+Solitude as a totalitarian technique that affects students
+If I am a student not allowed to justify myself to others because my views are not considered main-
+stream or may get me reported to `Prevent', then I become increasingly isolated. Arendt described
+solitude, isolation as one of the four necessary conditions for unjust power being successfully
+exercised over a population: as discussed, the others are racism, terrorism and (pseudo) logic. Back
+in the 1950s, she was describing the way in which you become isolated when you do not know who
+to trust in a police state, and we see this with `Prevent':
+We Muslims get paranoia through PREVENT. We are self-censoring; what you can and can't say. We can't
+talk. Problem areas need to be discussed in public but we don't dare. (Anonymous student statement,
+November 20168)
+There are other isolating factors in the 21st century: now, of course, the algorithms on social
+media will select likeminded people for me and I can restrict my views by communicating only
+with them. Another reason for concern about solitude is described by Isabell Lorey. She explains
+the 21st century in terms of increasing precariousness. She shows us the emerging patterns that we
+notice around the Mediterranean and across Europe: a mounting refugee crisis, the instability cre-
+ated by wars and an increasingly insecure workforce whose members become defined by economic
+vulnerability that leads to existential vulnerability. The socioeconomic precariousness of the job
+market has become normal and now afflicts the previously privileged middle-class core of Western
+European society. Such instability of work and citizenship becomes an existential precarity with
+the threat of loss of employment demonstrating threats to personhood. Precarious identity is what
+we have come to expect, and this serves to create what Isabell Lorey (2015) calls governmental
+precarity: the state of insecurity that is created by manipulation of socioeconomic factors to push a
+social group off balance, make their economic and social status actually or apparently precarious
+and thereby turn them into a precariat. We are accustomed to this being done to the poor and to
+refugees, and now it is destabilising us, we who in living memory used to be fortunate and can now
+be made to fear terrorism, migrants and the European Union.
+Lorey recommends, following Judith Butler, that we must not become more solitary as indi-
+viduals because of hardship, but must instead construe this situation as an affirmative basis for
+emancipatory politics. Thus, the existential vulnerability must be acknowledged as a durable nega-
+tive feature in order to turn our lives into a positive attempt to improve the situation. This brings us
+back to HannahArendt. While we are not (yet) in a totalitarian state, her four characteristics of such
+172 Education, Citizenship and Social Justice 12(2)
+power (racism, terrorism, logic and solitude) are familiar to us: `Ideologies are systems of explana-
+tion of life and world that claim to explain everything, past and future, without further concurrence
+with actual experience' (Arendt 1954: 350).
+Conclusion and recommendations
+How can it happen that surveillance narratives can develop disproportionately to any real evidence
+so that they fill the vacuum that exists between ideology and utopia and between laws and guid-
+ance? I have analysed Ricoeur and Agamben to show that the vacuum exists naturally. French
+philosopher Guy Debord (1988) analyses the way in which this state of exception is achieved if the
+citizens do not fill the vacuum themselves with evidence-based social action:
+The story of terrorism is written by the state and is therefore highly instructive. The spectators must
+certainly never know everything about terrorism, but they must always know enough to convince them
+that, compared with terrorism, everything else must be acceptable, or in any case more rational and
+democratic. (p. 24)
+Cultural imagination that goes beyond this establishment ideology could help British citizens to
+consider whether there is such a need for surveillance on campus. Is the campus the real place of
+danger or is the danger situated in the British relationship with Saudi Arabia, for example or the
+still living legacy of British foreign policy in the Middle East or the state of the National Health
+Service? Rita Floyd (2011) asks (1) when, if ever, it is legitimate to remove an issue from normal,
+democratic politics and frame it as emergency politics and (2) if emergency politics is necessary,
+what form it should take. Finally she asks (3) how we tackle hegemonic discourse about the
+assumed necessity of emergency politics. She proposes that emergency politics are only ever jus-
+tifiable if (1) there is an objective existential threat, (2) the object of security is morally legitimate
+and (3) the security response is appropriate to the threat in question. These are matters urgently in
+need of discussion on campus but are currently misrecognised as attacking a `Prevent' ideology
+that will, we are told, keep us safe.
+How can we free the campus from students' utopian visions of consensus? The student body,
+well motivated and highly principled, may nevertheless, through some members' utopian belief
+in no-platforming, be denying itself the opportunities to take future citizens into a better world
+than the Trumpeting BREXITing monster that faces us and relies upon our complicity. We need
+this utopian vision of no-platforming and yet it also needs correcting: we must recognise our
+existential vulnerability as an essential part of our cultural imagination and have the confidence
+to demonstrate that words in counter-argument can make a difference to the racist bigot's cam-
+pus audience.
+Universities, staff and students alike, are confused, sometimes wrong and often dealing as best
+they can with a very complex situation. Universities, as Hillman argues, need to do more to discuss
+and debate these issues with their students. Visiting speakers'policies must be reviewed in the light
+of European legislation, and banned speakers must take their case to the courts. In the 1986
+Education Act, to which the CTSA 2015 refers explicitly, the duty to ensure freedom of expression
+can only be overridden if what a visiting speaker is likely to say is not `within the law' or it is not
+`reasonably practicable' to allow use of university premises (because, for example, no room is
+available or there is likely to be disorder at the public meeting). When students wish to no-platform
+a speaker, they should seek legal advice and request active support from the university. When they
+decide to proceed, there should be support for structured debate. I assume that the speaker's opin-
+ion is unlikely to change, but that those present may indeed benefit from debating techniques:
+Scott-Baumann 173
+knowing how to demand evidence, challenge unbalanced narratives, identify false logic and faulty
+syllogisms and detect inappropriate use of inductive or deductive arguments, for example.
+By what other means can we free the campus from establishment ideology? Universities should
+be confident about the power of the 2010 Equalities legislation and the human rights legislation to
+safeguard students and staff and act as they used to before `Prevent'. This requires targeted legal
+advice, improved legal literacy on campus, sector solidarity and confidence to challenge the
+`Prevent' guidance, which is only guidance. In fact, of course, `Prevent' must be disapplied com-
+pletely. The Lords Dubs and Macdonald may succeed now or later in securing disapplication of the
+higher education sector from `Prevent', and yet even if they succeed, there will still be the stale
+smell of acquired suspicion in the air.
+University authorities need to address this suspicion by considering the great diversity repre-
+sented by the student population and the implications of world events for many students: ignoring
+this and hoping for devotion to fundamental British values is negligent. National and regional
+networks can be developed to offer expertise in national and international matters. An open forum
+tradition has sometimes been used on campus to address chronic or sudden world problems, that is,
+offering a platform to an expert on a region or a topic that is causing concern. An open forum can
+become a termly event to analyse various narratives that are used to divide populations against
+each other, such as migration and precarity. Curriculum studies should be re-introduced in order to
+analyse critically what we are actually teaching and how our andragogy can and should improve.
+The curriculum must be expanded confidently to teach a more balanced view of world politics and
+particularly the Middle East because of its political importance for world peace. Islamic Studies
+can become a more active component in such a higher education curriculum. Philosophical argu-
+ments about free speech from Spinoza, Mill, Fish and others are useful here. The arts of protest and
+protest art are due a revival: satire, comedy, laughter, please. I cannot say how this is possible in
+the context of the current sector struggles and the Education Bill, yet I believe it is vital: universi-
+ties' core purpose is rooted in seeking to identify and resolve ethical issues.
+Freeing speech a little from some of its terrors is the key to a strong society that is vigilant ­
+discussing, debating, guarding and using its freedoms proportionately and appropriately, not
+giving them away to the far right demagogues. This latter can perpetuate a divided cultural
+imagination such as we have now, in which Muslims are blamed for all sorts of things and the
+rest of society is not.
+We must become more vigilant about the stories we tell and are told and challenge them, asking
+for evidence and seeking reasons for certain stories being deemed more acceptable than others.
+Such persistent misuse of power should not be seen as resulting only from the continued preva-
+lence of false narratives. There will also be structural constraints that are often about economics,
+about opportunity, about labour markets and about precarity. If these become worse, that is even
+more reason to demand of ourselves and of others that we can talk about such things.
+So, in conclusion, I propose that ideology and utopia, the law and guidance must be taken seri-
+ously in all their wolfish and sheepish guises and that direct engagement with them will facilitate
+the free(ish) speech debates that we desperately need. Such debates about how to speak and how
+freely will result in some approximation to a cultural imagination that reflects and shapes modern
+Britain in the wider world through staff and students. Ethical vigilance and the right to challenge
+dominant narratives are the price we have to pay for appropriate and proportionate levels of free-
+dom of speech on campus. To this end, `Prevent' must be dismantled: it is discriminatory and
+unsound and has a chilling effect on free speech. We must aspire to cultural understanding that
+embraces diversity, difference and uncertainty as integral to us all ­ and believe that the university
+is the place to develop the limits and benefits of free speech and use them to fill the vacuum at the
+heart of democracy, not carelessly allow others to fill it.
+174 Education, Citizenship and Social Justice 12(2)
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publi-
+cation of this article.
+Funding
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publica-
+tion of this article: This research is supported by the AHRC [Re/presenting Islam on campus: gender, radicali-
+sation and interreligious understanding in British higher education' (2015-18), AH/M00841X/1] for which
+Scott-Baumann is PI.
+Notes
+1. With Hugh Tomlinson QC, I recently set up a consultation on free speech at universities at St George's
+House, Windsor Castle (31 October­1 November 2016). It was chaired by Lord Macdonald of River
+Glaven, and robust debate was ensured by the presence of a wide range of views, including Liberty,
+MEND, the Home Office, Henry Jackson Society and National Union of Students. Robust discussion
+about no-platforming was significant. I wish to thank all the participants for frank exchange of views.
+I wish also to thank Dr Shuruq Naguib and Professor Christopher Norris for their comments on this
+article.
+2. http://www.publications.parliament.uk/pa/bills/lbill/2016-2017/0076/17076-RL.pdf (after clause 84
+`Disapplication of duty in Counter-Terrorism and Security Act 2015 to higher education institutions').
+3. This material was collected for the writing of a witness statement for the legal case R (on the appli-
+cation of) Dr Salman Butt [claimant] and Secretary of State for the Home Department [defendant]
+C)/6361/2015. The witness statement is now a public document.
+4. My thanks to Hugh Tomlinson QC for expert advice.
+5. This material was collected for the writing of a witness statement for the legal case R (on the appli-
+cation of) Dr Salman Butt [claimant] and Secretary of State for the Home Department [defendant]
+C)/6361/2015. The witness statement is now a public document.
+6. Definition of terrorism: The 2015 Act, Schedule 1
+(11) `Terrorism' and `terrorist' have the same meaning as in the Terrorism Act 2000 (see sections 1(1) to
+(4) and 40 of that Act).
+Here's the link to the definition: http://www.legislation.gov.uk/ukpga/2000/11/section/1
+7. Page 3, para. 8 of the Revised Prevent Duty Guidance for England and Wales: Guidance for Specified
+Authorities in England and Wales on the duty in the Counter Terrorism and Security Act 2015 to have
+due regard to the need to Prevent people from being drawn into terrorism.
+8. This material was collected for the writing of a witness statement for the legal case R (on the appli-
+cation of) Dr Salman Butt [claimant] and Secretary of State for the Home Department [defendant]
+C)/6361/2015. The witness statement is now a public document.
+References
+Agamben G (2005) State of Exception (trans. K Attell). Chicago, IL: The University of Chicago Press.
+Anderson D (2015) The Terrorism Acts in 2014: report of the independent reviewer on the operation of the
+Terrorism Act 2000 and part 1 of the Terrorism Act 2006. Available at: https://terrorismlegislation-
+reviewer.independent.gov.uk/wp-content/uploads/2015/09/Terrorism-Acts-Report-2015_web-version.
+pdf; https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/461404/6_1256_
+EL_The_Terrorism_Act_Report_2015_FINAL_16_0915_WEB.pdf
+Arendt H (1954) On the nature of totalitarianism: an essay in understanding. In: Arendt H (ed.) Essays in
+Understanding 1930-1954. New York: Schocken, pp. 328­360.
+Bromwich D (2016) What are we allowed to say? London Review of Books, 22 September, 3­10.
+Scott-Baumann 175
+Brown K and Saeed T (2014) Radicalization and counter-radicalization at British universities: Muslim
+encounters and alternatives (Muslims, migration and citizenship: processes of inclusion and exclusion).
+Ethnic and Racial Studies 38(11): 1952­1968.
+Butler J (2012) Parting Ways: Jewishness and the Critique of Zionism. New York: Columbia University
+Press.
+Centre for Social Cohesion (2010) Radical Islam on Campus. London: Henry Jackson Society.
+Channel Duty Guidance (2015) Available at: https://www.gov.uk/government/uploads/system/uploads/
+attachment_data/file/425189/Channel_Duty_Guidance_April_2015.pdf
+Cheruvallil-Contractor C and Scott-Baumann A (2016) Islamic studies in UK universities: challenging cur-
+ricula. In: Aune K and Stevenson J (eds) Religion and Higher Education in Europe and North America.
+London: Routledge, pp. 165­180.
+Debord G (1988) Comments on the Society of the Spectacle (trans. M Imrie). London: Verso.
+Fisher P (2012) Ethics in qualitative research: `vulnerability', citizenship and human rights. Ethics and Social
+Welfare 6(1): 2­17.
+Floyd R (2011) Can securitization theory be used in normative analysis? Towards a just securitization theory.
+Security Dialogue 42(4­5): 427­439.
+Forst R (2011) Justification and Critique: Towards a Critical Theory of Politics. Cambridge: Polity Press.
+Glees A and Pope C (2005) When Students Turn to Terror: Terrorist and Extremist Activity on British
+Campuses. London: The Social Affairs Unit.
+Heath-Kelly C (2013) Counter-terrorism and the counterfactual: producing the `radicalisation' discourse and
+the UK PREVENT strategy. British Journal of Politics & International Relations 15: 394­415.
+Henry Jackson Society (2010) Radical Islam on Campus. Available at: http://henryjacksonsociety.org/wp-
+content/uploads/2013/01/RADICAL-ISLAM-ON-CMAPUS.pdf (accessed 19 July 2016).
+Henry Jackson Society (2015a) Preventing prevent? Challenges to counter-radicalisation policy on campus.
+Available at: http://henryjacksonsociety.org/wp-content/uploads/2015/10/Preventing-Prevent_webver-
+sion3.pdf
+Henry Jackson Society (2015b) Student opposition to prevent strategy in universities undermines counter-
+radicalisation policy. Available at: http://henryjacksonsociety.org/2015/07/14/student-opposition-to-
+prevent-strategy-in-universities-undermines-counter-radicalisation-policy/
+Higher Education Policy Institute (HEPI) (2016) Keeping Schtum. Available at: http://www.hepi.ac.uk/wp-
+content/uploads/2016/05/Hepi_Keeping-Schtum-Report-85-Web.pdf
+HM Government (2013) Tackling Extremism in the UK: Report from the PM's Task Force on Tackling
+Radicalisation and Extremism. London: HMSO.
+House of Lords, House of Commons Joint Committee on Human Rights (2016) Counter-Extremism
+SecondReport of Session 2016­17. Available at: https://www.publications.parliament.uk/pa/jt201617/
+jtselect/jtrights/105/105.pdf
+Information Commissioners Office (2016) Available at: https://ico.org.uk/for-organisations/guide-to-data-
+protection/principle-1-fair-and-lawful/
+Kundnani A (2014) The Muslims Are Coming. London: Verso.
+Lorey I (2015) State of Insecurity: Government of the Precarious (trans. A Derieg). London; New York:
+Verso.
+Mill JS (1985) On Liberty. London: Penguin Books.
+Murray D (2006) What are we to do about Islam? A speech to the Pym Fortuyn Memorial Conference on
+Europe and Islam, 3 March. Available at: http://web.archive.org/web/20080201133647/http:/www.soci-
+alaffairsunit.org.uk/blog/archives/000809.php
+Nye A (1990) Words of Power: A Feminist Reading of the History of Logic (Thinking Gender). New York;
+London: Routledge.
+Open Society Foundations (2016) Eroding Trust: The Uk's Prevent Counter-Extremism Strategy in Health
+and Education. Available at: https://www.opensocietyfoundations.org/reports/eroding-trust-uk-s-pre-
+vent-counter-extremism-strategy-health-and-education
+O'Toole T, Meer N, DeHanas DN and Modood T (2016) Governing through prevent? Regulation and con-
+tested practice in State-Muslim engagement. Sociology 50(1): 160­177
+176 Education, Citizenship and Social Justice 12(2)
+Püttmann F (2016) The Making of the Good British Muslim: How the Phenomenon of the Poppy Hijab Shapes
+British Muslims' Sense of Self and Belonging. Maastricht: University College Maastricht.
+Quilliam Foundation (2010) Radicalisation on British University Campuses: A Case Study. Quilliam Briefing
+Paper, October. Available at: http://www.safecampuscommunities.ac.uk/resources/quilliam-founda-
+tion-radicalisation-on-university-campuses
+Qureshi A (2015) `PREVENT: creating "radicals" to strengthen anti-Muslim narratives'. Critical Studies on
+Terrorism 8(1): 181­191.
+Ricoeur P (1976) Ideology and utopia as cultural imagination. Philosophic Exchange 7(1): 16­28 Available
+at: http://digitalcommons.brockport.edu/phil_ex/vol7/iss1/5
+Ricoeur P (1981) Hermeneutics and the Human Sciences: Essays on Language, Action and Interpretation (ed.
+and trans.JB Thompson). Cambridge: Cambridge University Press.
+Scott-Baumann A (2009) Ricoeur and the Hermeneutics of Suspicion. London: Continuum.
+Scott-Baumann A (2013) Ricoeur and the Negation of Happiness. London: Bloomsbury.
+Scott-Baumann A and Cheruvallil-Contractor S (2016) An Islamic perspective: what does Islam offer to the
+contemporary debate? In: Heap S (ed.) The Universities We Need: Theological Perspectives. Farnham;
+New York: Ashgate, 124­142.
+Scott-Baumann A and Tomlinson H (2016) Cultural cold wars: the risk of anti-`extremism' policy for aca-
+demic freedom of expression research professional. Available at: http://representingislamoncampussoas.
+co.uk/cultural-cold-wars/
+Scott-Baumann A (2017) Counter terrorism could be counter productive. Available at: http://representingis-
+lamoncampussoas.co.uk/counter-terrorism-could-be-counter-productive/
+Siddiqui A (2007) Islam at universities in the England. Report for Minister of State for Lifelong Learning
+Further and Higher Education, 10 April. Available at: http://dera.ioe.ac.uk/6500/1/Updated%20Dr%20
+Siddiqui%20Report.pdf
+Small T (2016) Wars of religion: how Islam is designed to fight for a theocratic state (Middle East special
+feature). Times Literary Supplement, 23 September, 1­2.
+Spinwatch (2015) The Henry Jackson Society and the degeneration of British neo-conservatism: liberal inter-
+ventionism, Islamophobia and the `war on terror'. Available at: http://www.spinwatch.org/
+Spinoza B (2004) A Theologico-Political Treatise and a Political Treatise. New York: Dover Publications.
+Student Rights (2016) Extreme or Intolerant Speakers on London Campuses between September 2015
+and January 2016. Available at: http://www.studentrights.org.uk/userfiles/files/Extreme%20or%20
+Intolerant%20Speakers%20in%20London%20FINAL(1).pdf (accessed 19 November 2016).
+Thorne J and Stuart H (2008) Islam on Campus: A Survey of UK Student Opinions. London: Centre for Social
+Cohesion. Available at: https://globalmbwatch.com/wp-content/uploads/2013/04/IslamonCampus.pdf
+

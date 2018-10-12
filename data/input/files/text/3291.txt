@@ -1,0 +1,2929 @@
+Perspectives on Psychological Science
+2014, Vol. 9(5) 497
+­524
+© The Author(s) 2014
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/1745691614526414
+pps.sagepub.com
+How the brain adjusts behavior in ever-changing envi-
+ronments is an enduring mystery. Scientists have attrib-
+uted adaptive and goal-directed behavior to executive
+control. This umbrella term is used for the functions of
+the cognitive system that allow people to regulate their
+behavior according to higher order goals or plans. This
+involves organizing, monitoring, and altering the settings
+of lower level cognitive processes such as stimulus detec-
+tion and motor programming (Logan & Gordon, 2001;
+E. K. Miller & Cohen, 2001; Monsell & Driver, 2000;
+Norman & Shallice, 1986). These functions are critical in
+everyday life, as they allow people, for example, to resist
+temptations, overcome habits, or replace actions when
+required (e.g., when one is driving a car and a pedestrian
+unexpectedly crosses the street). More generally, execu-
+tive control has been linked to physical and mental
+health, school and job success, substance dependence,
+personal finances, and many aspects of social behavior
+(Diamond, 2013; Moffitt et al., 2011). Impairments in
+executive control may underlie many psychopathological
+disorders, including attention deficit/hyperactivity disor-
+der (ADHD), substance abuse disorders, eating disorders,
+obsessive­compulsive behavior disorders, and gambling
+disorders (Bechara, Noel, & Crone, 2006; Crews &
+Boettiger, 2009; de Wit, 2009; Garavan & Stout, 2005;
+Nigg, 2001; Noël, Brevers, & Bechara, 2013). The out-
+come of behavioral change interventions has also been
+linked to executive control (e.g., Nederkoorn, Jansen,
+Mulkens, & Jansen, 2007). Thus, it is no surprise that
+executive control is a central component of many neuro-
+biological models of addictions and of impulsive and
+compulsive behaviors (Chamberlain & Sahakian, 2007;
+Crews & Boettiger, 2009; Dalley, Everitt, & Robbins, 2011;
+526414
+PPSXXX10.1177/1745691614526414Verbruggen et al.Executive Control of Actions
+research-article2014
+Corresponding Author:
+Frederick Verbruggen, School of Psychology, University of Exeter,
+Exeter, EX4 4QG, United Kingdom
+E-mail: f.l.j.verbruggen@exeter.ac.uk
+Banishing the Control Homunculi in
+Studies of Action Control and Behavior
+Change
+Frederick Verbruggen1, Ian P. L. McLaren1, and
+Christopher D. Chambers2
+1School of Psychology, Exeter University, Exeter, United Kingdom; and 2School of Psychology, Cardiff
+University, Cardiff, United Kingdom
+Abstract
+For centuries, human self-control has fascinated scientists and nonscientists alike. Current theories often attribute it to
+an executive control system. But even though executive control receives a great deal of attention across disciplines,
+most aspects of it are still poorly understood. Many theories rely on an ill-defined set of "homunculi" doing jobs like
+"response inhibition" or "updating" without explaining how they do so. Furthermore, it is not always appreciated
+that control takes place across different timescales. These two issues hamper major advances. Here we focus on the
+mechanistic basis for the executive control of actions. We propose that at the most basic level, action control depends
+on three cognitive processes: signal detection, action selection, and action execution. These processes are modulated
+via error-correction or outcome-evaluation mechanisms, preparation, and task rules maintained in working and long-
+term memory. We also consider how executive control of actions becomes automatized with practice and how people
+develop a control network. Finally, we discuss how the application of this unified framework in clinical domains can
+increase our understanding of control deficits and provide a theoretical basis for the development of novel behavioral
+change interventions.
+Keywords
+executive control, action control, behavior change, learning
+498 Verbruggen et al.
+Goldstein & Volkow, 2011; Robbins, Gillan, Smith, de Wit,
+& Ersche, 2012).
+In this article, we critically assess the current state of
+the executive control literature and highlight some press-
+ing issues. We propose a unified framework of executive
+control and describe how this framework can contribute
+to our understanding of behavioral change and to the
+development of new behavioral change interventions
+that target eating behavior, addiction, and self-control
+problems more generally. We focus on executive control
+of actions but also consider how this work could trans-
+late to the control of thought and emotion.
+An Army of Control Homunculi
+Early research on executive control focused mostly on
+behavioral deficits after frontal-lobe lesions (for short
+reviews, see Miyake et al., 2000; Monsell & Driver, 2000).
+The common finding is that frontal-lobe patients experi-
+ence problems with organizing and regulating actions;
+for example, they can become impulsive and are often
+unable to respond appropriately to changes in the envi-
+ronment. Based on such findings, it was proposed that a
+critical function of the frontal cortex is executive control
+of action and thought. After the cognitive revolution
+against the behaviorists in the 1950s, the concept of an
+executive controller also became very prominent in the
+cognitive literature. However, in early models of cogni-
+tion, control was essentially attributed to a unitary
+"homunculus" who pulls the levers to regulate lower
+level systems when needed (Baddeley, 1996). Around the
+turn of the 21st century, many psychologists agreed that
+this situation was no longer tenable, because homuncu-
+lus theories may explain what is controlled but not how
+control is exercised.
+The preferred strategy to tackle the "how" question
+became fractionating the executive controller and deter-
+mining how distinct control functions regulate behavior.
+Monsell and Driver (2000) proposed the slogan "Dissolve,
+deconstruct, or fractionate, the executive! Let a hundred
+idiots flourish!" (p. 7). They argued that to know how
+control is exercised, we should identify the very basic
+processes (the "army of idiots") that underlie control. In
+the last decade, great efforts have been made to decon-
+struct the executive controller. For example, correlational
+work suggests that there is both unity and diversity in
+executive control, with at least three distinct executive
+functions: switching between tasks or mental sets ("shift-
+ing"), changing and monitoring representations stored in
+working memory ("updating"), and suppressing irrele-
+vant information and canceling inappropriate actions
+("inhibition") (Miyake et al., 2000). Many studies have
+focused on the cognitive and neural substrates of these
+functions and how they interact with each other.
+Unfortunately, we believe that this work has not yet suc-
+ceeded in banishing homunculus theories.
+Too often, researchers label cognitive functions as
+"executive" without questioning the mechanistic nature
+of the underlying processes. For example, in clinical,
+social, and cognitive psychology, individual or group dif-
+ferences in controlling actions are typically attributed to
+variation in the effectiveness of a single control function
+(e.g., inhibition). Similarly, in cognitive neuroscience,
+prefrontal brain activation, when people replace one
+response with another, is often assumed to reflect a form
+of executive control. However, the community seems to
+have fallen into the trap of confusing tasks with mecha-
+nisms. Many processes contribute to successfully replac-
+ing an action. By referring to general constructs such as
+"inhibition" (or, even worse, "executive control" or "self-
+control"), we do not explain performance in complex
+environments--we merely redescribe it. Thus, although
+many researchers no longer appeal to a single control
+homunculus, control is often attributed to an ill-defined
+set of specialized "black-box" homunculi that are assumed
+to do jobs like "response inhibition" or "updating" with-
+out explaining how they do so. We believe that this theo-
+retical strategy of focusing on general functions rather
+than the underlying processes is limiting progress on the
+control problem, because in most cases, there are no
+clear explanations for how the specific functions are
+achieved.
+Furthermore, many (if not most) studies focus on
+action control in response to changes in the environ-
+ment. However, various processes that take place on dif-
+ferent timescales may contribute to individual and
+situational differences in the efficacy of control.
+Preparation or preactivation of subordinate systems that
+are required to detect a specific stimulus (e.g., a red
+light), to select a specific response (e.g., hit the brake
+pedal), or to execute specific action (e.g., move the leg)
+could have a major influence; similarly, the ability to
+implement and maintain new rules may prove critical.
+Finally, action control may evolve over time. The dichoto-
+mous distinction between "executive" and "automatic"
+processes is still omnipresent in the action control litera-
+ture. Automatic processes are considered to be fast, asso-
+ciative, emotional, effortless, and easily triggered by
+information in the environment, regardless of the current
+task goals. By contrast, executive processes are consid-
+ered to be slower, effortful, rational, and goal directed.
+But these may be the extremes on a continuum, and con-
+trol processes that start off as deliberate and effortful can
+become progressively more "automatic" through experi-
+ence. By not properly acknowledging the contribution of
+processes such as preparation and learning, we generate
+an inherently limited perspective on the cognitive mech-
+anisms behind action control.
+Executive Control of Actions 499
+Our proposed solution for these interlinked issues is a
+comprehensive theoretical framework of action control
+and adaptive behavior that integrates research from dif-
+ferent areas (see Fig. 1 for a schematic representation).
+We will focus not only on the functions of the cognitive
+control system but also on the underlying cognitive pro-
+cesses. We define various forms of behavioral control as
+resulting from the interplay between three basic and
+computationally well-defined processes: signal detection,
+action selection, and action execution. Each process is
+monitored, and parameters are adjusted when the out-
+come is suboptimal. Furthermore, preparation will
+directly affect the effectiveness of the selection and exe-
+cution processes. Task rules, which have to be activated
+and maintained, will constrain the processes and adjust-
+ments. Finally, we will outline how action control and
+behavioral change gradually becomes automatized
+through practice and, more generally, how a control sys-
+tem can develop.
+From Changes in the Environment to
+Changes in Behavior
+Flexible behavior is often studied in tasks such as the stop-
+signal paradigm (Logan, 1994; Verbruggen & Logan,
+2008c), the psychological refractory period paradigm
+(Pashler, 1994; Welford, 1952), reversal learning paradigms
+(Izquierdo & Jentsch, 2012), Stroop tasks (Stroop, 1935), or
+in one of their many variants (e.g., Dodds, Morein-Zamir,
+& Robbins, 2011; Logan & Burkell, 1986; MacLeod, 1991;
+Mars, Piekema, Coles, Hulstijn, & Toni, 2007; Verbruggen,
+Aron, Stevens, & Chambers, 2010). These tasks often have
+in common that a new action has to be selected in the
+context of other strong action plans (see Table 1 for a
+selective overview of key paradigms). Differences in
+dependent variables such as response latency and error
+rates are usually assumed to reflect variations in the effi-
+cacy of control. For example, in most stop-signal task stud-
+ies (including some of our own earlier work; e.g.,
+Verbruggen, Liefooghe, & Vandierendonck, 2004), the
+stop-signal reaction time (Table 1) is assumed to reflect the
+duration of an executively controlled inhibition process.
+However, the stop-signal reaction time reflects more than
+the duration of an inhibitory process. Indeed, we have
+recently demonstrated how successful inhibition of actions
+depends on the detection of the stop signal and the selec-
+tion of a stop response (Verbruggen et al., 2010;
+Verbruggen, Stevens, & Chambers, 2014). In this section,
+we will further develop our framework of how humans
+can change actions in various situations. Drawing on the
+seminal work of Sternberg (1969) and others, we propose
+that at the most basic cognitive level, action control
+involves three steps: signal detection, action selection, and
+action execution (their application is illustrated in Fig. 2).
+detection
+selection
+execution
+proactive
+control
+rule activation
+and
+maintenance
+associative
+learning
+development monitoring
+seconds/milliseconds
+days/hours/minutes
+years/months
+Fig. 1. A schematic overview of our framework, which is inspired by Newell's Unified Theories of Cogni-
+tion (Newell, 1990). We define various forms of behavioral control as an interplay between three basic
+and computationally well-defined processes (signal detection, action selection, and action execution),
+which are regulated and influenced by (sets of) processes that take place on different timescales: outcome
+monitoring, advance preparation, rule acquisition and maintenance, associative learning, and develop-
+ment. We propose that the parameters of all three basic processes (detection, selection, execution) can
+be influenced by these other processes. In the main text, we discuss each "box" in more detail so as to
+avoid the introduction of new homunculi.
+500 Verbruggen et al.
+Signal Detection
+The first step of replacing a response is nearly always
+detecting the stop or change cue (e.g., a traffic light turn-
+ing red or noticing an unexpected obstacle on the road).
+A failure to detect the signal in time could have important
+negative consequences. However, the contribution of
+detection processes to executive control of action is often
+neglected.
+A convergence of evidence suggests that flexible
+behavior depends on an interplay between two attention
+networks: a dorsal frontoparietal network that enables the
+selection of sensory stimuli and a ventral frontoparietal
+Table 1. Overview of Popular Paradigms to Study Action Control and Behavioral Flexibility
+Task name Manipulation Main dependent variable(s)
+Stop-signal task Participants usually perform a choice reaction time in which they have
+to respond as quickly as possible to a particular stimulus feature
+(e.g., color, shape, identity, or location). On a minority of the trials,
+the go stimulus is followed by an additional signal (e.g., an auditory
+tone or a visual cue), which instructs participants to withhold their
+planned response.
+In the countermanding task, participants have to cancel a saccade
+toward a target when a fixation cross reappears. In the stop-change
+variant, participants have to cancel the planned manual response and
+execute an alternative response instead.
+The stop-signal reaction time (SSRT),
+which is the estimated covert latency
+of stopping (Logan & Cowan, 1984).
+Longer SSRTs are usually interpreted
+to reflect poorer inhibitory control.
+Go/no-go task Participants are instructed to respond as quickly as possible to go
+stimuli (e.g., letters) but to refrain from responding when a no-go
+stimulus is presented (e.g., a digit). Go events typically occur with
+higher frequency than no-go events.
+The probability of responding on a
+no-go trial.
+Psychological
+refractory period
+(PRP) task
+Participants are presented with two stimuli to which they have to
+respond. The interval between the two is usually so brief that the
+second stimulus appears before the response to the first one is
+finished.
+Response latency of the second
+response (RT2), often as a function
+of the delay between the two stimuli
+(SOA). The PRP effect refers to the
+decrease in RT2 as SOA increases.
+Stroop task and
+variants
+In the Stroop task, color words are presented in various ink colors.
+Participants are instructed to respond to the ink color and ignore
+the words. In incongruent stimuli, color names and ink colors are
+non-matching. Related tasks include the picture-word naming task, in
+which words appear inside pictures of objects.
+The congruency effect, which refers to
+the difference between incongruent
+and congruent or neutral (e.g.,
+"OOO" written in red) stimuli.
+The Eriksen
+flanker task
+A task in which participants view target stimuli to which they must
+make a simple lexical response. These stimuli are surrounded by
+flankers. Distracting flankers are typically associated with an opposite
+response (incongruent), whereas facilitating flankers are typically
+associated with the same response as the target stimulus (congruent).
+The congruency effect, which refers to
+the difference between incongruent
+and congruent items.
+Task-switching
+paradigm
+Participants frequently alternate between two or more tasks (e.g.,
+naming the color or identifying the shape of a stimulus). Which
+task they have to perform is often indicated by a cue (e.g., the task
+name or the location of the stimulus) or by a sequence they have to
+remember.
+The difference between task-switch
+trials and task-repeat trials. Usually,
+switching from one task to another
+is slower and more error-prone than
+repeating the same task.
+(Wisconsin) Card
+Sorting Test
+The participant is presented with stimulus cards containing shapes.
+The cards differ in color of the shapes, number of the shapes, and
+the form of the shapes. The participant is asked to sort these cards
+into two piles. The participant is not told what stimulus dimension
+to use in order to sort the cards, but feedback is provided to tell the
+participant if a particular match is correct. During the test, the sorting
+rules are changed and the participant must discover the new sorting
+rule in order to be successful.
+The total number of categories
+achieved and the number of
+perseveration errors after a rule
+switch.
+Response-reversal
+learning
+Participants first learn to respond to stimuli based on feedback,
+followed by a reversal of the stimulus-action mapping. Participants
+have to overcome the old (habitual) response, and instead, execute
+an alternative novel response.
+Proportion of correct responses before
+and after the reversal stage.
+Note: Definitions are based on the Cognitive Atlas project (Poldrack et al., 2011). For more information about this project and other tasks,
+visit http://www.cognitiveatlas.org/. Note that this project also aims to increase the focus on the underlying processes. SOA = stimulus onset
+asynchrony.
+Executive Control of Actions 501
+network that reorients attention to important and behav-
+iorally relevant stimuli that appear outside the focus of
+attention (Corbetta, Patel, & Shulman, 2008; Corbetta &
+Shulman, 2002). The dorsal attention network is thought
+to be involved in both stimulus-driven capture (bottom-
+up) and goal-directed processing (top-down; Corbetta
+et al., 2008). Precisely how these modes interact is still
+intensely debated (e.g., see Theeuwes, 2010, and associ-
+ated commentaries). The ventral attention network is
+believed to be critical for behavioral flexibility as it allows
+reorienting attention from one stimulus or task toward
+another. Even though this network is primarily involved in
+stimulus-driven attention, it is activated more by weak
+behaviorally relevant stimuli than by salient behaviorally
+irrelevant stimuli (Corbetta et al., 2008). This suggests that
+the detection of novel signals is constrained or biased by
+top-down control mechanisms. For example, target
+detection could be controlled by an attentional template
+(a representation of the relevant target or target features,
+such as a red circle) that biases competition between sen-
+sory inputs that compete for processing resources and
+control of behavior (Desimone & Duncan, 1995; Duncan,
+2006). Computational work has shown how the templates
+could influence processing in both ventral and dorsal
+streams (Deco & Rolls, 2005). Preactivation of neurons in
+sensory areas that code for specific stimulus features (e.g.,
+location, color, shape) could be the neural implementa-
+tion of the templates (Deco & Rolls, 2005; Stokes &
+Duncan, 2013).
+We believe that the literature on attention should
+become more integrated with the action-control literature.
+After all, signal detection is an important component of
+executive control of action: If changes in the environment
+are not detected quickly, this will have robust downstream
+effects on action control, as experimentally demonstrated
+in a recent stop-signal study (Verbruggen et al., 2014).
+Salinas and Stanford (2013) demonstrated that counter-
+manding (i.e., canceling or stopping) eye movements pri-
+marily depends on the outcome of a rapid sensory
+detection process (see also Boucher, Palmeri, Logan, &
+Schall, 2007). On the basis of their computational work,
+they suggested that most manipulations in the counter-
+manding task, which requires subjects to cancel eye
+movements (Table 1), cause changes in perceptual pro-
+cesses rather than inhibitory processes per se. The role of
+stimulus-detection or cue-encoding processes goes
+beyond action-reprogramming paradigms such as the
+countermanding task. Some models of interference con-
+trol in paradigms such as the Eriksen flanker task (Table
+1) focus on the role of spatial attention (e.g., J. D. Cohen,
+Servan-Schreiber, & McClelland, 1992). In the task-switch-
+ing literature (Table 1), authors have argued that the cost
+associated with alternating between tasks is at least partly
+due to cue-encoding processes (Logan & Bundesen, 2003;
+Monsell & Mizon, 2006). Consistent with this idea, rule-
+switch performance in a card-sorting task in children was
+improved when the relevant stimulus dimensions were
+salient, suggesting a bottom-up attentional influence on
+flexible behavior (Fisher, 2011).
+Thus, we suggest that rapid detection of cues or
+changes in the environment is key to replacing planned
+or ongoing actions and that at least some individual or
+situational differences in action control can be attributed
+to the efficacy of stimulus detection. Although signal
+detection may seem effortless, it does require a delicate
+balance between selective attention and change detec-
+tion: Focusing on a given stimulus may lead to overly
+rigid behavior while the constant reorienting of attention
+to novel stimuli would lead to constant distraction
+(Verbruggen et al., 2014).
+action
+execution
+action
+selection
+signal
+detection
+stimulus
+input
+eat
+crisps
+eat
+carrot
+do not
+eat
+evidence for
+eating crisps
+evidence for
+eating carrot
+time time
+time time
+perceptual evidence
+for crisps
+perceptual evidence
+for carrot
+Fig. 2. Action selection without a homunculus. We propose that action
+control involves three critical steps: signal detection, action selection,
+and action execution. We propose that both detection and selection
+can be modeled as accumulation of information toward a threshold (the
+dashed horizontal line). When stimuli are presented (in this example,
+the crisps and carrot), accumulation in the perceptual system starts,
+and a stimulus is perceptually encoded and attended (signal detec-
+tion) when the evidence reaches a certain threshold. When an item
+is encoded, evidence for possible actions starts to accumulate (action
+selection), and a response is selected when one of the thresholds is
+reached. Then this response is executed. In this example, the "eat the
+carrot" threshold is reached first, so the person would eat the carrot.
+Note that for simplicity, we depict linear ballistic accumulators (S. D.
+Brown & Heathcote, 2008).
+502 Verbruggen et al.
+Action Selection
+When a change signal or cue is detected, an appropriate
+alternative action has to be selected. Sequential sampling
+models have provided a popular theoretical framework
+for action selection and decision making because they
+explicate the various steps involved (S. D. Brown &
+Heathcote, 2008; Ratcliff & Smith, 2004; Smith & Ratcliff,
+2004). The main assumption of these models is that
+action selection and decision making involve the accu-
+mulation of noisy information about stimuli in the envi-
+ronment (Fig. 2). Noise is present both in the environment
+(e.g., visibility may be reduced or the environment may
+be cluttered) and in the cognitive system (e.g., neurons
+may fire randomly, and different processes may be hap-
+pening at the same time), so decision making involves
+collecting evidence until there is enough support for an
+option. More formally, accumulation of information in
+response counters, which keep track of the collected evi-
+dence, starts when a stimulus is detected.1 In each situa-
+tion, there may be different response options; one of
+them is selected when the accumulated evidence in favor
+of it reaches a certain threshold (Fig. 2). This response
+option is then executed. The more noisy the information
+(e.g., because the stimulus is perceptually degraded), the
+longer it will take to reach the threshold. This will result
+in longer reaction times and, often, lower accuracy. This
+accumulation to threshold may resemble patterns of
+activity in certain neurons (Purcell et al., 2010; X.-J. Wang,
+2013). The main parameters of the selection process are
+the response criteria (i.e., how much information is
+required for a response to be selected; this is represented
+by the distance between the horizontal lines in Fig. 2)
+and accumulation rate (i.e., how quickly does the infor-
+mation accumulate; this is represented by the slope of
+the tilted lines in Fig. 2). Variations in these parameters
+can account for phenomena such as impulsive decision
+making and choice errors (Ratcliff & Smith, 2004; Smith &
+Ratcliff, 2004), and sequential sampling models have
+been successfully applied to a range of decision-making
+tasks and to different clinical and nonclinical populations
+(White, Ratcliff, Vasey, & McKoon, 2010).
+These sequential sampling models have been applied
+mostly to simple decision-making tasks in which subjects
+have to select a single response. But we propose that
+similar principles underlie the selection of actions in the
+context of stopping, countermanding, or replacing
+actions. Sequential sampling models have already been
+applied successfully to countermanding (Boucher,
+Palmeri, Logan, & Schall, 2007; Salinas & Stanford, 2013)
+and stop-signal tasks (Logan, Van Zandt, Verbruggen, &
+Wagenmakers, 2014). Boucher et al.'s (2007) model
+included a single go accumulator and a single stop accu-
+mulator, with two processing stages, namely, encoding of
+the countermanding signal and interruption of the go
+process. An eye movement was successfully counter-
+manded if stop information had accumulated quickly
+enough to suppress (via mutual inhibitory connections)
+information in the go unit and prevent it from reaching a
+threshold. Salinas and Stanford (2013) developed a simi-
+lar rise-to-threshold model but did not make any mecha-
+nistic assumptions about inhibitory activity; as mentioned
+above, they showed that perceptual processes and decel-
+eration of information accumulation was sufficient to
+account for many aspects of performance. These two
+models had only one go accumulator. More recently, a
+sampling model with multiple go accumulators and a
+single stop accumulator has been developed to account
+for stopping in situations in which multiple go responses
+are possible (Logan et al., 2014). This model could
+account well for both go (choice) and stop behavior.
+In the context of behavioral change, alternative actions
+must often be selected in competition with more domi-
+nant or already activated actions. Existing models could
+easily be modified to account for this. It has been pro-
+posed that there may be an asymmetry in mutual inhibi-
+tion of units (Boucher et al., 2007) or top-down biasing
+of response options (J. D. Cohen, Dunbar, & McClelland,
+1990). More specifically, the mutual inhibition account
+assumes that different response options suppress each
+other. In Figure 2, when evidence for the carrot option
+accumulates, this would suppress accumulation of evi-
+dence for the crisps option. Boucher et al. (2007) sug-
+gested that there may be an asymmetry in mutual
+inhibition, so that one response option (e.g., the carrot)
+may suppress the other response option (e.g., the crisp)
+more. The biasing account assumes that information
+accumulation is biased (e.g., by decreasing the distance
+between the starting point and the threshold; see Fig. 2),
+making the selection of certain alternatives more likely.
+Others have proposed that selection of nondominant
+actions is achieved by global suppression of all motor
+output to allow for information accumulation in the
+counter of the nondominant action (Frank, 2006; Wiecki
+& Frank, 2013). The global suppression account overlaps
+with the "circuit breaker" account of attention, which
+proposes that when unexpected, salient signals are
+detected, ongoing processes are interrupted by default to
+allow the cognitive system to process the new incoming
+information (Corbetta et al., 2008; Corbetta & Shulman,
+2002).
+The computational work suggests that similar selection
+mechanisms may be used in various situations. Cognitive
+neuroscience studies further support this idea. Mid-
+dorsolateral and ventrolateral prefrontal areas are recruited
+by tasks that require selection of competing actions
+(Bunge, 2004; Duncan & Owen, 2000), and stimulation of
+these areas influences action selection in different
+Executive Control of Actions 503
+situations. We have found that magnetic stimulation of
+subregions within the right ventrolateral prefrontal cortex
+can influence attentional and action selection not only in
+a stop-signal task but also in a double-response task in
+which participants occasionally had to execute a second-
+ary response in addition to the originally planned response
+(Verbruggen et al., 2010). Similarly, Buch and colleagues
+demonstrated that stimulation of the ventral premotor
+cortex (adjacent to the posterior ventrolateral prefrontal
+cortex) influenced both selection and reprogramming of
+actions: Immediately after presentation of the initial stim-
+ulus, stimulation of this area increased motor cortex excit-
+ability; however, the same stimulation reduced motor
+excitability when reprogramming was required (Buch,
+Mars, Boorman, & Rushworth, 2010). This context-depen-
+dent effect of brain stimulation is consistent with the idea
+that similar mechanisms are involved in both program-
+ming and reprogramming actions, with the main differ-
+ence being the output of the selection process (see also
+Mars et al., 2007). On the basis of these and similar find-
+ings, we propose that various forms of action control not
+only serve the common goal of behavioral change, they
+also rely on an overlapping set of selection processes (see
+also Mostofsky & Simmonds, 2008).
+More generally, we propose that action selection and
+stimulus detection are governed by similar principles.
+The biased competition account of visual attention
+assumes that there is competition between sources of
+information at many (if not all) processing stages; the
+main role of attention is to resolve this competition by
+biasing specific sources of information or specific fea-
+tures (Desimone & Duncan, 1995). Similar top-down bias
+signals can resolve competition between action options
+or allow the selection of nondominant actions (see also
+Chun, Golomb, & Turk-Browne, 2011).
+Action Execution
+When a response is selected or a decision has been
+made, the appropriate action must be executed. There
+can be a relatively long delay between choosing (or
+deciding) and acting (Schall, 2001) because a motor pro-
+gram has to be created when an action is selected. Keele
+defined a motor program as "a set of muscle commands
+that are structured before a movement sequence begins,
+and that allows the entire sequence to be carried out
+uninfluenced by peripheral feedback" (Keele, 1968, p.
+387). Creating such programs after an action is selected
+may contribute to the delay between choosing and act-
+ing. Consequently, the execution phase could be a final
+stage where individual or situational differences in action
+control arise. Motor control is a research area in itself,
+and we will not attempt to review this literature here. We
+will focus briefly only on three topics that are closely
+linked to executive control, namely, the extent to which
+motor programs can be altered or canceled once initi-
+ated, how they are controlled after the action is executed,
+and how the motor system interacts with the cognitive
+system.
+If a motor program contains all the information needed
+to carry out the action, no extra control is required to
+complete the desired movement. This does not imply
+that movements can no longer be altered. In the literature
+on action control, researchers often make a distinction
+between controlled stages, which could be influenced by
+executive control, and ballistic stages, which must run to
+completion once initiated. The boundary between these
+two stages is called the "point-of-no-return." The stop-
+signal literature suggests that the ballistic stages must be
+very brief (Verbruggen & Logan, 2009b). This idea is sup-
+ported by both mathematical analyses and studies that
+have showed that subjects could still inhibit responses
+that had already produced electrical activity in muscles
+(see Verbruggen & Logan, 2009b, for a review). Thus,
+movements can be prepared without being executed
+(Schall, 2001). Not only can planned movements be can-
+celed, they can also be adjusted quickly if needed (e.g.,
+Schmitz, Jenmalm, Ehrsson, & Forssberg, 2005). Thus,
+motor programs can still be terminated or altered quickly
+if new information becomes available.
+Once the action has been completed, a "reset" signal
+may be required to restart evidence-accumulation pro-
+cesses and suppress motor activity to prevent the reexe-
+cution of the same response. Indeed, in many
+computational models, such a reset is required to stop
+the system settling into a loop. In Logan and Gordon's
+executive control of theory of visual attention model, the
+executive system was responsible for this reset signal
+(Logan & Gordon, 2001). Note that there may be an over-
+lap with the proactive suppression account discussed
+below, which proposes that people suppress motor activ-
+ity to prevent premature responses.
+In our framework, action execution is preceded by
+signal detection and action selection processes. This does
+not imply that action execution cannot interact with the
+preceding stages. First, an action can "create" a signal for
+the next decision. To achieve certain goals, multiple
+movements may be required. In some situations, these
+movements could be "chunked" or combined during the
+decision stage, when different options are selected simul-
+taneously. But chunking may not always be possible (or
+preferable), so after each individual movement is com-
+pleted, a new decision is required based on the imposed
+changes in the environment. This process would con-
+tinue until the desired state or goal is achieved (G. A.
+Miller, Galanter, & Pribram, 1960). Second, the dual-task
+literature suggests that output modality has a direct influ-
+ence on the decisional phase. Huestegge and Koch
+504 Verbruggen et al.
+(2013) showed that saccades were prioritized over man-
+ual responses when participants had to make two deci-
+sions at the same time. This response-modality dominance
+pattern could be the equivalent of the visual-modality
+dominance pattern observed at the stimulus stage (i.e.,
+visual modality often dominates the auditory modality
+when different stimuli are presented; see Huestegge &
+Koch, 2013). The combination of input and output
+modalities also influences task performance in dual-task
+situations (for a short review, see Huestegge & Hazeltine,
+2011). For example, the dual-task cost, which is often
+observed in multitask situations (Table 1), disappears
+after sufficient practice for some input­output combina-
+tions (e.g., an auditory input and a vocal output) but not
+for others (e.g., visual input and vocal output). This sug-
+gests that selecting an action is influenced not only by
+the input but also by the output and the input­output
+pairing. More generally, this shows that there may be a
+close link between the cognitive and motor systems,
+which goes beyond the cognitive system instructing the
+motor system which actions to perform.
+Interim key points
+·
+· Researchers should provide a more detailed
+account of action control because the current focus
+on general functions hampers theoretical and prac-
+tical progress.
+·
+· We propose a framework that describes three cog-
+nitive processes underlying most forms of action
+control: signal detection, action selection, and
+action execution. Each process can be conceived
+as a biased competition between alternatives.
+·
+· Individual or situational differences can arise at
+each stage, which further highlights the need for a
+detailed framework.
+Beyond online action control
+We have outlined the core of our framework and have
+illustrated how replacing an action depends on the
+detection of change signals, selection of an action, and
+the execution of that action. The detection and selection
+stages involve a biased competition between sources of
+information and response alternatives. In the following
+sections, we will focus on how these biases are continu-
+ously adjusted by processes that take place across dif-
+ferent timescales. We propose that detection, selection,
+and execution are influenced by monitoring, prepara-
+tion, task rules maintained in memory, associative learn-
+ing, and developmental changes (Fig. 1). Combined,
+these processes lead to flexible and highly adaptive
+behavior. In Figure 1, each component is depicted by a
+box. In the following sections, we will further unpack
+each box, creating our "army of idiots" (Monsell &
+Driver, 2000).
+Learning From Mistakes or Unexpected
+Outcomes
+Many things can go wrong when people try to execute a
+novel action. People may confuse stimuli at the detection
+stage, they may select the incorrect response, or they may
+execute the selected response incorrectly. Even when no
+mistakes are made, the outcome of an action may be less
+desirable than anticipated. Monitoring and feedback
+loops are a critical component of most accounts of coor-
+dinated behavior (Ullsperger, Danielmeier, & Jocham,
+2014). Within the executive control and decision-making
+literature, there are several detailed neurocomputational
+models of outcome monitoring that aim to explain how
+outcome monitoring influences subsequent detection,
+selection, and execution processes. Three popular classes
+of explanation are the conflict-monitoring, error-monitor-
+ing, and outcome-evaluation accounts.
+Conflict and error monitoring versus
+outcome evaluation
+The conflict-monitoring account of Botvinick and col-
+leagues (Botvinick, 2007; Botvinick, Braver, Barch, Carter,
+& Cohen, 2001) assumes that the anterior cingulate cor-
+tex, a brain area located in the medial frontal cortex,
+monitors for the occurrence of conflict between various
+response options. This brain region is often activated in
+situations in which prepotent responses have to be sup-
+pressed, situations in which one out of many possible
+but equally strong actions must be selected, situations in
+which errors are likely to occur, and situations with unfa-
+vorable outcomes. On the basis of these findings,
+Botvinick et al. (2001) proposed that the anterior cingu-
+late cortex computes a "conflict signal." Conflict can be
+defined computationally as the simultaneous activation
+of incompatible stimulus (Egner, 2008; Verbruggen,
+Notebaert, Liefooghe, & Vandierendonck, 2006) or
+response representations (Botvinick et al., 2001). When a
+conflict signal is generated, task-relevant attentional or
+action pathways are biased, reducing the likelihood of
+errors or conflict on subsequent trials (Botvinick, 2007;
+Botvinick et al., 2001). For example, Egner and Hirsch
+(2005) examined control adjustments in a picture­word
+Stroop task. On each trial, an irrelevant word was super-
+imposed on a task-relevant face. They found that activa-
+tion in the fusiform face area, a brain area that responds
+strongly to face stimuli, was increased after trials on
+which there was competition between the face and word
+stimuli. This is consistent with the idea that conflict-mon-
+itoring processes bias the competition between various
+Executive Control of Actions 505
+sources of information, enhancing detection of task-rele-
+vant stimuli and selection of task-appropriate responses.
+Others have stressed the role of anterior cingulate cor-
+tex in error-driven learning and computing the likelihood
+of errors (J. W. Brown & Braver, 2005). Brown and Braver
+showed how variability in a single error-learning param-
+eter could account for individual differences in risk aver-
+sion and in the brain's response to response conflict,
+error likelihood, or error consequences (J. W. Brown &
+Braver, 2008). Despite the differences, the conflict- and
+error-monitoring accounts stress that a critical aspect of
+optimal action control is the ability to monitor ongoing
+cognitive processes.
+Outcome-evaluation models in the decision-making
+and reinforcement-learning literature assume that actions
+can be associated with a value, which represents a pre-
+diction concerning future reward. After every action, the
+cognitive system compares the obtained reward with the
+expected reward. After reward is obtained, the action val-
+ues are updated: When the reward or outcome is better
+than expected, the strength of the selected action is
+strengthened ("reinforced"); when the outcome is worse
+than expected, the value is decreased, and the action is
+less likely to be selected again in similar future situations
+(e.g., Botvinick, Niv, & Barto, 2009; Frank & Badre, 2012).
+In other words, outcome-evaluation modulates action-
+selection biases, and this will influence how quickly
+information for the preferred response option will accu-
+mulate and reach the decision threshold. Some have
+argued that value can be attached to sources of informa-
+tion as well, influencing stimulus-detection processes
+(Gottlieb & Balan, 2010). Note that outcome evaluation
+and conflict and error monitoring could be two sides of
+the same coin (Botvinick, 2007). Indeed, conflict or
+choice errors could be construed as aversive events,
+which are therefore to be avoided in the future (Botvinick,
+2007), and activation of the anterior cingulate cortex has
+been linked to encoding the relationship between an
+action and the reinforcement value of its outcome
+(Rushworth, Walton, Kennerley, & Bannerman, 2004, p.
+412). Ridderinkhof, Ullsperger, Crone, and Nieuwenhuis
+(2004) suggested that a single mechanism that signals the
+likelihood of obtaining a reward could account for many
+findings in the reward-learning and conflict- or error-
+detection literature.
+Interim key points
+·
+· Adaptive behavior requires monitoring or evaluat-
+ing the outcome of actions.
+·
+· Detection, selection, and execution biases are con-
+tinuously adjusted as a result of the monitoring
+process. This will determine how quickly a stimu-
+lus is detected and how quickly an action is
+selected or executed in the future.
+Proactive Action Control
+The work discussed so far may suggest that executive
+control is primarily reactive: It is only when something
+changes or when something goes wrong that the control
+system would kick in. However, in many situations, we
+do not wait for unexpected events to happen. Indeed, we
+can adjust our behavior proactively. In contrast to the
+online or reactive control processes discussed above,
+proactive control refers to control processes in anticipa-
+tion of an event. Proactive control can involve many
+things, including preparing oneself to detect a stimulus
+or cue, activating specific action plans, temporarily
+adjusting decision thresholds, and suppressing motor
+output to prevent premature responses (Verbruggen &
+Logan, 2009c; Verbruggen et al, 2014). Thus, the three
+basic components of our framework may be influenced
+by preparation.
+Proactive adjustments of task settings
+Humans can proactively allocate attention. For example,
+in the classic Posner cuing paradigm (Posner, 1980),
+detection of a stimulus is enhanced by providing a cen-
+tral cue (e.g., an arrow) that directs attention to a specific
+location (e.g., the left of the screen). This has been linked
+to anticipatory activity in the visual cortex (Kastner &
+Ungerleider, 2000; Luck, Chelazzi, Hillyard, & Desimone,
+1997; Sylvester, Shulman, Jack, & Corbetta, 2007).
+Detection of stimuli or cues may also be enhanced by
+advance information of other features, such as shape,
+color, or direction of motion (Corbetta & Shulman, 2002).
+Nonspatial preparatory attention is also associated with
+sustained activity in sensory areas (Chelazzi, Duncan,
+Miller, & Desimone, 1998). Such an increase in baseline
+activity will lead to an increased probability that the sys-
+tem will select the stimulus that matches the attentional
+template. Thus, proactively adjusting attentional settings
+can enhance detection of task-relevant features (espe-
+cially when perceptual information is weak) and reduce
+interference caused by no-longer-relevant features
+(Braver, Gray, & Burgess, 2007). Consistent with the latter
+idea, we have demonstrated that goal-directed cueing of
+the target location reduced the effect of distractors that
+flanked a target (Klemen, Verbruggen, Skelton, &
+Chambers, 2011).
+Proactive action selection or movement preparation is
+also possible. For example, studies using a precuing pro-
+cedure demonstrated that individual motor actions or
+sets of actions can be prepared or primed in advance
+(Rosenbaum, 1980; Rosenbaum & Kornblum, 1982). This
+could reduce the time required to create motor programs.
+Similar to attentional cueing effects, motor priming may
+be linked to anticipatory activation of the motor network
+via associations between the cue and action options. This
+506 Verbruggen et al.
+will bias the selection and generally reduce the response
+time when a stimulus is presented (Meyer & Kieras,
+1997). Consistent with this biased selection idea, compu-
+tational modeling has shown that cuing the probability of
+a response or the potential payoff for a specific response
+reduces the amount of information required to select the
+more probable response or the response associated with
+higher reward (Mulder, Wagenmakers, Ratcliff, Boekel, &
+Forstmann, 2012). Priming of a nonhabitual response
+could also increase the probability of selecting this action
+in the context of other more habitual actions or when
+little information is available. Note that in some situations
+people may proactively suppress a specific action or set
+of actions to prevent the premature execution of a
+response (Cai, Oldenkamp, & Aron, 2011; Claffey,
+Sheldon, Stinear, Verbruggen, & Aron, 2010; Criaud,
+Wardak, Ben Hamed, Ballanger, & Boulinguez, 2012;
+Duque, Labruna, Verset, Olivier, & Ivry, 2012).
+Computational work by Lo and colleagues suggests that
+in a countermanding task, the stopping network is acti-
+vated even when no stop signal is presented (Lo, Boucher,
+Paré, Schall, & Wang, 2009). Thus, inhibitory motor con-
+trol in stop-signal and countermanding tasks may be
+largely proactive in nature because it depends on control
+adjustments and network dynamics before a stop signal
+is presented (see also X.-J. Wang, 2013, p. 238).
+Action control as a prepared reflex
+Proactive control could potentially lead to a prepared or
+intention-based reflex. Some years ago, the second
+author was planning to turn into a road on his bike. A car
+was waiting to turn into the same road on the opposite
+side of the street the author was traveling along. The
+author had priority, as the car would cut across his path,
+and he made a clear signal with his extended arm just
+before he was about to turn. Unexpectedly, the car then
+immediately executed its maneuver, with the result that it
+knocked the author off his bike as he went around the
+corner. Why did this happen? We propose that when
+attention is proactively allocated and responses are pre-
+pared, goal-directed actions may not require much con-
+trol anymore (Hommel, 2000; Logan, 1978; Meiran, Cole,
+& Braver, 2012); instead, actions could be activated easily
+by stimuli in the environment, even when they are inap-
+propriate. Thus, when the car driver had prepared the
+response of turning to a high degree, the author's signal
+with his arm may have further primed the prepared reflex
+to the point where it exceeded threshold and was imple-
+mented as an action.2
+Logan (1978) demonstrated in a series of experiments
+that most stages in a visual-search task (including detec-
+tion and response selection) remained relatively unaf-
+fected by a concurrent load. He concluded that the
+preparation before the stimulus appeared was effortful,
+but responding was reflexive: "the components of the task
+seem automatic, but the task itself is not" (Logan, 1978,
+p. 57). Similarly, Woodman, Luck, and Schall (2007) dem-
+onstrated that a visual working-memory load interfered
+with visual search only when the visual target changed
+from trial to trial. These findings suggest that stimulus
+detection, response selection, and execution may require
+little extra top-down support when correct task rules are
+properly activated. Furthermore, studies that have demon-
+strated that the preparation can even interfere with task-
+relevant or appropriate behavior (see also the bicycle
+anecdote) provide further support for the prepared reflex
+idea. Subjects are more likely to shift spatial attention to a
+task-irrelevant distractor when it matches a feature of the
+attentional template (Chun et al., 2011). Similarly,
+responses can be activated via instructed but unpracticed
+stimulus­response mappings even when these mappings
+are task irrelevant (Cohen-Kdoshay & Meiran, 2009); how-
+ever, such effects are observed only when the tasks are
+actually prepared and participants anticipate that they
+have to perform them in the near future (Liefooghe, De
+Houwer, & Wenke, 2013). Finally, Verbruggen and Logan
+(2009a) found that the irrelevant distractor "STOP" inside
+a go stimulus interfered with responding in stop-signal
+and go/no-go tasks but not in a task where participants
+could always respond. (These findings are consistent with
+the prepared reflex idea: The prepared action can be trig-
+gered by irrelevant primes, even when this is not strictly
+required; Verbruggen & Logan, 2009a.)
+Costs of proactive control and
+individual differences
+Combined, this work suggests that action control could be
+reflexive; paradoxically, this could even lead to a cost in
+some situations. But usually the main costs associated
+with proactive control are that this strategy requires highly
+reliable predictive contextual cues, it is metabolically
+costly, and it is capacity demanding (Braver et al., 2007).
+Humans usually prefer to avoid cognitive demands (Kool,
+McGuire, Rosen, & Botvinick, 2010), so internal costs may
+shift the balance between reactive and proactive control
+(McGuire & Botvinick, 2010). This also implies that a pro-
+active strategy is less likely to be applied in situations with
+very long retention intervals between a warning cue and
+the stimulus, as this may require too much effort. Finally,
+strong preactivation of stimulus features or actions may
+also stand in the way of flexible behavior in ever-
+changing
+environments. Thus, a delicate balance between proactive
+and reactive control is required.
+The costs associated with proactive control could
+potentially explain some individual and situational varia-
+tion. Differences in motivation (Leotti & Wager, 2010) and
+Executive Control of Actions 507
+emotional factors (Fröber & Dreisbach, 2012) contribute
+to intraindividual differences in deployment of proactive
+control, and factors such as reward sensitivity, general
+intelligence, and working-memory capacity may cause
+interindividual differences (Braver, 2012; Redick & Engle,
+2011). Several studies have also shown group differences.
+Healthy young adults seem to rely more on proactive
+control than both young children (Munakata, Snyder, &
+Chatham, 2012) and older adults (Paxton, Barch, Racine,
+& Braver, 2008), and proactive control seems impaired in
+disorders such as schizophrenia, Alzheimer's disease,
+ADHD, and bipolar disorder (for review, see Braver,
+2012) and in individuals who engage in delinquent and
+antisocial behaviors (Iselin & Decoster, 2009). These find-
+ings suggest that at least some control deficits could be
+due to a failure to activate the control system proactively.
+One study revealed the interesting finding that training
+older adults on a proactive control task caused a shift
+from reactive to proactive control (Braver, Paxton, Locke,
+& Barch, 2009), suggesting that control strategies are
+amendable.
+Interim key points
+·
+· Executive control of actions is often proactive: The
+act of control takes place before the change or
+control signal is presented.
+·
+· When control is applied proactively, signal detec-
+tion, action selection, and action execution can
+become a "prepared" reflex, easily triggered by
+information in the environment.
+·
+· Important intra- and interindividual differences
+could be due to shifts from proactive to reactive
+control.
+Activation and Maintenance of Action
+Goals and Rules
+An important issue that we have not addressed so far is
+how the connections between input, action selection,
+and action execution are established. And how does the
+cognitive system "know" which stimulus feature or
+response option to bias? The main important advance of
+the (mathematical) modeling framework discussed above
+is that ongoing processes are described in detail. However,
+there is still a homunculus lurking: because it is the
+researcher who creates all the connections and sets up
+the relevant accumulators that enable a model to perform
+a certain task. Thus, this framework does not necessarily
+solve the problem of how the model could achieve this
+functionality in the first place. Most theoretical frame-
+works or models of executive control, including our
+framework, either explicitly or implicitly rely on rules
+(Bunge, 2004; Logan & Gordon, 2001; E. K. Miller &
+Cohen, 2001; Monsell & Driver, 2000). Rules enable
+humans to quickly select relevant cues or stimulus fea-
+tures, map sensory input to action plans, and produce
+the motor output. Furthermore, sequential adjustments
+after a trial (see, e.g., Hazeltine, Lightman, Schwarb, &
+Schumacher, 2011) and proactive control before a trial
+are also rule dependent. Thus, one could argue that rules
+are at the core of executive control. In this section, we
+will explore how rules are activated and maintained. We
+make an explicit distinction between a task goal and a
+task rule: A task goal describes what one tries to achieve,
+whereas a task rule specifies how one can achieve it. A
+goal will activate a rule (or set of rules). We will focus
+primarily on the role of task rules.
+Learning from instructions
+A key characteristic of adaptive human behavior is the
+ability to rapidly learn action rules from instructions. For
+example, if instructed to tap your right foot whenever
+you see the symbol x on this page, most likely you will
+be able to do this without any practice (even though you
+have probably never done this specific task in your life).
+Recently, several studies have focused on the cognitive
+and neural mechanisms underlying this fundamental
+ability. For a complete overview of this instruction-based
+learning literature, we direct the interested reader to two
+recent review articles (Cole, Laurent, & Stocco, 2013;
+Wolfensteller & Ruge, 2012; see also Oberauer, 2009,
+who addresses the issue of language in rule learning and
+control). Cole et al. (2013) proposed the compositional
+account of instruction-based learning. Their account is
+based on five related principles: (a) compositionality,
+which refers to the ability to reuse representations with a
+variety of other representations; (b) immediate transfer,
+which refers to the ability to apply practiced rules to
+novel situations; (c) abstraction, which refers to the abil-
+ity to group specific representations; (d) analogy, which
+refers to the ability to recognize similarities; and (e) com-
+positional hierarchy, which refers to creating a structure
+in which more abstract representations modulate more
+concrete stimulus­action representations. Of these five
+principles, compositionality is key, as this can offer an
+elegant explanation for our remarkable ability to immedi-
+ately perform tasks that we have never done before.
+Returning to the foot-tapping example, you may never
+have tapped your foot when you saw an x on a page, but
+you may have tapped your foot in response to other cues
+(e.g., music), and you may have searched for a specific
+word or letter string in a text before; by linking these
+representations, you are able to perform the new x-tapping
+task. In other words, you would reuse and recombine
+existing circuits, structures, or representations (see also
+Anderson, 2010). Support for the compositional theory
+508 Verbruggen et al.
+and other relevant findings are discussed in Cole et al.
+(2013).
+There are large individual differences in the ability to
+follow new task rules. The ability may be linked to fluid
+intelligence (Duncan, Schramm, Thompson, &
+Dumontheil, 2012). Furthermore, patients with lesions to
+the lateral prefrontal cortex may not always be able to
+produce the instructed behavior even though they can
+understand the instructions (Cole et al., 2013). Duncan
+and colleagues (Duncan, Emslie, Williams, Johnson, &
+Freer, 1996; Duncan, Johnson, Swales, & Freer, 1997)
+have referred to this phenomenon as goal neglect. Verbal
+instructions specify an abstract requirement (e.g., "if x,
+then tap right foot"), but these requirements have to be
+implemented or transferred to procedural working mem-
+ory (Duncan et al., 2012; Logan & Gordon, 2001;
+Oberauer, 2009). For example, relevant stimulus informa-
+tion, response options, and output modalities should
+become biased, and contexts in which the rules are rel-
+evant specified. A failure to do so would lead to goal
+neglect (Duncan et al., 1996; Duncan et al., 1997).
+Maintenance and retrieval of task
+rules
+When instructions are successfully implemented, rules
+have to be maintained. We have argued above that there
+is sustained activity in brain areas that process task-
+relevant information, which biases the selection of infor-
+mation. Rules likely provide the top-down signal for this
+bias (E. K. Miller & Cohen, 2001; Stokes & Duncan, 2013).
+The popular account is that rules are maintained in work-
+ing memory via persistent firing of stimulus-specific neu-
+rons in the prefrontal cortex (Curtis & D'Esposito, 2003).
+More generally, this persistent firing would allow tempo-
+ral integration of information, which is required for many
+functions, including working memory and the calculation
+of reward rate (Curtis & Lee, 2010). However, recent find-
+ings challenge this persistent activation account (Postle,
+2013; Stokes & Duncan, 2013). For example, Stokes and
+colleagues (2013) showed that the presentation of an
+instruction cue triggers a sequence of high-activity pat-
+terns before settling into a stable low-activity state. They
+proposed that, rather than sustained activity, synaptic
+weight changes constitute the task-dependent rules that
+determine how people respond to stimuli (Stokes &
+Duncan, 2013). One of the main challenges is to further
+determine how rules are maintained in long-term and
+short-term memory.
+In many situations, people also have to switch between
+rules. This fundamental ability is studied in the task-
+switching paradigm (for reviews, see Kiesel et al., 2010;
+Monsell, 2003; Vandierendonck, Liefooghe, & Verbruggen,
+2010). Switching from one rule to another is usually
+associated with a performance cost. Most agree that this
+switch cost reflects the time needed to encode the task
+cues, activate the appropriate task rules, and resolve inter-
+ference caused by previous trials, although the extent to
+which each process contributes to the overall switch cost
+may vary. Cue encoding and task reconfiguration are time-
+consuming processes, so performance generally improves
+when these processes can be completed before the stimu-
+lus appears (Logan & Gordon, 2001; Mayr & Kliegl, 2000;
+Meiran, 1996; Rogers & Monsell, 1995). This demonstrates
+the close link between preparation and rule activation and
+maintenance. However, not everybody agrees that people
+always have to switch or update rules when tasks change.
+Logan and colleagues argued that switching between tasks
+could be achieved via the retrieval of learned associations
+among cues, stimuli, and responses (Logan & Bundesen,
+2003; Schneider & Logan, 2005), although this idea remains
+highly controversial (e.g. Forrest, Elchlepp, Monsell, &
+McLaren, 2012; Jost, Mayr, & Rösler, 2008; Monsell &
+Mizon, 2006). In other words, they argued that "control"
+could be associatively mediated.
+Interim key points
+·
+· In our framework, rules constrain performance by
+providing a top-down bias for each process.
+·
+· We argue that the ability to follow novel instruc-
+tions and implement new rules is strongly rooted in
+the past: Humans constantly reuse and recombine
+old rules that have previously governed behavior.
+Action Control as an Associatively
+Learned Reflex
+Historically, executive control has been pitted against
+automatic operations. Often, functions such as response
+inhibition, interference control, or task switching have
+been classified as "executive," whereas other processes,
+such as word reading in the context of a Stroop task,
+have been classified as "automatic." In this section, we
+discuss how executive processes may also become auto-
+matic as a consequence of practice.
+Automaticity and associative learning
+It is well documented that responding to a stimulus or
+cue can become automatized over practice (Dickinson,
+1985; Logan, 1988; Schneider & Shiffrin, 1977; Shiffrin &
+Schneider, 1977). Shiffrin and Schneider proposed that
+when a stimulus and a response are consistently mapped,
+associations are formed, allowing actions to become
+automatic (Schneider & Shiffrin, 1977; Shiffrin &
+Schneider, 1977). Similarly, Logan (1988) suggested that
+every time people respond to a stimulus,
+Executive Control of Actions 509
+processing episodes are stored. These episodes consist of
+the stimulus (e.g., "3"), the interpretation given to a stim-
+ulus (e.g., "odd"), the task goal ("odd/even task"), and
+the response ("left"), all of which are stored. When the
+stimulus is repeated, previous processing episodes are
+retrieved, facilitating performance if the stimulus­
+response (S-R) mapping is consistent. Recently, research-
+ers from our team have demonstrated that more complex
+forms of action control could also become automatized.
+We found that pairing a stimulus with stopping interfered
+with responding to these stimuli (Verbruggen & Logan,
+2008a), even after a single stop presentation (Verbruggen
+& Logan, 2008b; Verbruggen, Logan, Liefooghe, &
+Vandierendonck, 2008). We attributed the behavioral
+slowing for old stop items to the retrieval of stimulus­
+stop associations, which would automatically suppress
+responding. Similar associatively mediated "control"
+effects have been observed in other executive control
+tasks. The task-switching literature suggests that stimuli
+can become associated with tasks or rules (Koch &
+Allport, 2006; Mayr & Bryck, 2005; Waszak, Hommel, &
+Allport, 2003). For example, the results of Mayr and Bryck
+(2005) suggested that abstract spatial translation rules can
+become integrated with lower level stimulus and response
+codes; similarly, the results of Waszak and colleagues
+suggested that individual stimuli can become associated
+with higher order task representations, such as picture
+naming (Waszak et al., 2003). Finally, several studies have
+shown that stimuli in tasks such as the Stroop paradigm
+can become associated with attentional control settings
+(Bugg & Crump, 2012). On the basis of these findings, we
+argue that rule-based action control can also become a
+learned reflex, triggered even when it is not required or
+intended at a given moment (cf. Meiran et al., 2012;
+Tzelgov, 1997; Verbruggen & Logan, 2009a)
+Associative influences on action
+control
+We suggest that there are four nonmutually exclusive
+ways that associative learning could influence action
+control: (a) conditioned attention toward (or away from)
+the cues, (b) associatively mediated activation of previ-
+ously nondominant responses, (c) associatively medi-
+ated activation of abstract rule representations, and
+(d) by changing the hedonic and/or incentive value of
+stimuli.
+First, associative learning could influence attentional
+selection. For example, Le Pelley, Beesley, and Griffiths
+(2011) have found that subjects looked more at cues
+experienced as predictive of the outcomes with which
+they were paired than to cues experienced as nonpredic-
+tive. Similarly, Gottlieb and Balan (2010) reviewed a sin-
+gle-cell recording study that showed higher sustained
+lateral intraparietal area activation for predictive cues in a
+Pavlovian task and suggested that attentional selection is
+influenced by the information value of the stimuli. These
+results are consistent with the attentional model of asso-
+ciative learning proposed by Mackintosh (Mackintosh,
+1975; Pearce & Mackintosh, 2010). However, Hogarth
+and colleagues (Hogarth, Dickinson, Austin, Brown, &
+Duka, 2008) have found that participants looked more at
+partially predictive signals in some situations, which is
+consistent with the Pearce­Hall model of Pavlovian learn-
+ing (Pearce & Hall, 1980; Pearce & Mackintosh, 2010).
+Even though there is uncertainty about the direction of
+the effects, it is clear that attention and associative learn-
+ing can interact (albeit in various ways), and the model
+of Mackintosh and Pearce integrates earlier accounts to
+reflect this (Pearce & Mackintosh, 2010). In other words,
+attention can become conditioned (McLaren, Wills, &
+Graham, 2010): Attention is paid to stimuli as a conse-
+quence of past associative history, rather than because of
+their match with current goals. This is also supported by
+some event-related potential (ERP) studies. For example,
+Wills and colleagues have demonstrated that early atten-
+tional components were modulated by associative learn-
+ing (Wills, Lavric, Croft, & Hodgson, 2007). In a similar
+vein, ERP work reviewed by Woodman suggests that top-
+down biasing of visual attention is required only when
+targets are new, with long-term memory taking over
+when objects are repeated (Woodman, 2013).
+Second, a nonhabitual response could become habit-
+ual after sufficient practice (Dickinson, 1985; Logan,
+1988; Schneider & Shiffrin, 1977; Shiffrin & Schneider,
+1977). This would further reduce the need for top-down
+biasing; after sufficient practice, the need for top-down
+biasing may even disappear altogether, and people would
+no longer have to rely on rules or prefrontal cortex (PFC)
+representations to execute an action that was initially
+nondominant. This idea is supported by the work dis-
+cussed above and by the finding that neural activation in
+prefrontal and other control-related brain regions is
+reduced after practice with consistent mappings (Chein
+& Schneider, 2005).
+Third, the studies discussed above suggest that during
+practice, stimuli can become associated with task goals
+or the task rules that bias attentional or action selection.
+After practice, the goal or rule representations may
+become activated when a stimulus is repeated, whether
+this is intended or not; this would then influence subor-
+dinate processing. The stimulus-rule association idea
+could explain why repeating an old stop stimulus acti-
+vates components of the stopping network in the ventro-
+lateral prefrontal cortex (Lenartowicz, Verbruggen, Logan,
+& Poldrack, 2011) or why naming the word inside a
+
+picture­word Stroop stimulus is impaired when this stim-
+ulus was previously encountered in a picture-naming
+510 Verbruggen et al.
+task (Waszak et al., 2003). Note that such stimulus-task
+effects were observed even when the response (e.g., a
+left key press) was the same in both tasks (Koch &
+Allport, 2006; Waszak et al., 2003). The main difference
+from the previous two options is that this third option
+assumes that rule-like representations that bias ongoing
+selection processes are still involved. In other words, this
+third option provides a more indirect route to associative
+control of action. However, a possible advantage of this
+route is that this form of learning might generalize better
+to novel situations. We are currently testing this idea in
+our lab. Note that in the associative-learning literature,
+there is an ongoing debate as to whether learning asso-
+ciations between a stimulus and an action is based on
+rules or on the formation of specific S-R associations (see,
+e.g., McLaren et al., 2013; Mitchell, De Houwer, &
+Lovibond, 2009). Even though this is speculative, one
+could hypothesize that in our framework, similar learning
+mechanisms underlie rule-based behavior and S-R link-
+based behavior. The main difference between the two is
+the kind of representation that is linked with the stimu-
+lus: an abstract, rule-like representation (x­"if x, then
+left"), or more concrete S-R associations (x­left).
+Finally, stimulus-specific learning may also have a
+more indirect impact on action control via a link with the
+outcome-evaluation processes discussed above. Veling,
+Holland, and van Knippenberg (2008) have shown that
+consistently pairing stimuli with the act of withholding a
+response results in devaluation of stimuli that were ini-
+tially rated as positive. Similar devaluation effects have
+been observed in other studies (for a short overview, see
+Ferrey, Frischen, & Fenske, 2012; Kiss, Raymond, Westoby,
+Nobre, & Eimer, 2008). Furthermore, no-go training can-
+not only reduce the subjective hedonic value of erotic
+images; it may also reduce the motivational incentive of
+such stimuli. Ferrey et al. (2012) found that participants
+were less willing to invest time and effort (measured by
+the number of key presses participants were willing to
+execute) to view images similar to the ones paired with
+no-go cues. The link between associative learning and
+value is also supported by research in the animal learn-
+ing literature (for a recent overview, see McLaren &
+Verbruggen, in press). Furthermore, learning stimulus­go
+associations happens faster in a reward condition than in
+a punishment condition; by contrast, stimulus/no-go
+associations are learned faster in the punishment condi-
+tion (Cavanagh, Eisenberg, Guitart-Masip, Huys, & Frank,
+2013; Guitart-Masip et al., 2012). Thus, there may be a
+"hardwired" Pavlovian bias that couples reward with
+approach ("go") and punishment with avoidance ("no-
+go") (Cavanagh et al., 2013; Guitart-Masip et al., 2012).
+Note that the value of items could also be modulated
+associatively via associations between stimuli. Wimmer
+and Shohamy (2012) demonstrated that the delivery of
+reward for a specific item can spread to associated items
+stored in long-term memory. In other words, the value of
+unrewarded items was modulated via associations with
+rewarded items. This phenomenon could explain how
+people can quickly decide between items that they have
+never seen before.
+In combination, the work above suggests how chang-
+ing behavior can become automatized. However, work
+on extinction learning indicates that some associatively
+mediated forms of action control may be context depen-
+dent (in contrast to rule-based action control, which
+seems context independent). In Pavlovian learning,
+extinction occurs when a stimulus that was originally
+paired with an event is repeatedly presented alone; in
+instrumental learning, extinction occurs when an action
+that was originally paired with a reward is no longer rein-
+forced. In both cases, learned behavior typically declines,
+but the originally learned behavior often returns when
+the context changes (Bouton & Woods, 2008). This sug-
+gests that extinction learning is context dependent. Thus,
+even though automatization may lead to more efficient
+action control, it does come with certain limitations.
+Interim key points
+·
+· Action control can become a "learned" reflex:
+Replacing dominant actions initially requires top-
+down bias but could gradually become automa-
+tized, with the need for top-down bias disappearing
+altogether.
+·
+· Associative learning can influence action control
+by modulating each processing step in our frame-
+work (i.e., signal detection, action selection, action
+execution).
+·
+· We hypothesize that similar learning mechanisms
+underlie both rule-based and S-R link-based
+behavior.
+Development of an Action Control
+Network
+We argued above that a key characteristic of flexible
+human behavior is the ability to implement new rules
+quickly, and we proposed that this feat can be achieved
+by reusing or recombining existing representations or
+rules (i.e., the compositionality idea). But in our quest to
+abolish the control homunculus from theories of action
+control, we need to address one final issue: How does
+the control repertoire, or the set of basic rules and control
+processes, initially develop?
+Learning of rules and abstract
+representations
+Little research has been done on how rules for complex
+actions are initially acquired (Collins & Frank, 2013).
+Executive Control of Actions 511
+Basic reinforcement learning accounts can explain how
+people acquire simple stimulus­action rules. A central
+assumption of these accounts is that simple rules are
+learned via exploration of the environment: When a stim-
+ulus is presented, one can try different courses of action
+(e.g., pressing a button on a new piece of equipment)
+and subsequently monitor the outcome of the chosen
+actions. Each time a particular action in response to the
+presentation of a stimulus leads to a positive outcome,
+the strength of the action increases, and eventually, sim-
+ple rule-like structures develop. As argued above, stimuli
+and responses can also become paired via error-driven
+and Hebbian associative learning mechanisms. Error-
+correction learning mechanisms try to reduce the dis-
+crepancy between the predicted outcome and the actual
+outcome (McLaren et al., 2013), whereas Hebb's learning
+rule states that "cells that fire together bind together."
+However, basic reinforcement and associative learning
+accounts struggle to explain more complex goal-directed
+behavior in environments in which multiple stimuli or
+stimulus features (e.g., color or shape) can be attended to
+and in which many actions can be selected.
+One of the harder questions in psychology is how,
+starting with a set of basic associative- or reinforcement-
+learning processes, it might be possible to deploy them
+so as to arrive at a system capable of propositional rea-
+soning. In other words, how can we go from associa-
+tions to rules? There have been some successful attempts
+to integrate basic learning and rule acquisition. For
+example, Rougier, Noelle, Braver, Cohen, and O'Reilly
+(2005) developed a neurologically inspired computa-
+tional model of rule learning. The model was trained to
+respond to multidimensional stimuli. In each block, only
+one dimension was relevant (e.g., color). Across trials,
+the specific features within a dimension changed (e.g.,
+red, green, yellow), but activity in the prefrontal cortex
+was maintained because of a gating mechanism (Hazy,
+Frank, & O'Reilly, 2007). As a result, the PFC system
+developed patterns of activity that encoded abstract rep-
+resentations of the relevant stimulus dimension (e.g.,
+"color"). These abstract rule-like representations subse-
+quently guided behavior by providing "top-down" excit-
+atory support for the relevant stimulus dimension in the
+subordinate processing levels (cf. biased competition).
+The biasing was possible because links between the
+abstract representations and the processing layers were
+built during training. Thus, the model produced flexible
+rule-like behavior without "biologically problematic sym-
+bolic processing computations" (Rougier et al., 2005, p.
+7343). After sufficient training, the model was also able to
+respond correctly to stimuli it had not seen before. This
+generalization correlated strongly with development of
+abstract representations. By contrast, models without the
+PFC system, such as the associative simple recurrent
+network model (Elman, 1990), had to learn specific S-R
+combinations, and these did not generalize well to novel
+situations.
+The latter result is consistent with the findings of
+Spiegel and McLaren (2006). Humans and the recurrent
+network model were trained on a task in which they had
+to respond to the location of circles on a computer
+screen. In the experimental group, trial sequences always
+had a specific structure (e.g., ABB[varying numbers of Cs]
+BBA; the letters represent three possible locations of the
+circles). Over a series of experiments, it was demon-
+strated that the network model used all the structure
+available to develop simple rule-like representations.
+This resulted in faster and more accurate responses.
+These representations allowed some generalization to
+novel situations (hence, they were rule-like). However,
+generalization was imperfect because the model was
+sensitive to seemingly inconsequential departures from
+the initial structure. This was very similar to the behavior
+of humans in these experiments when they were unaware
+of the contingencies in play. However, under some con-
+ditions, humans were able to induce the rule as pro-
+grammed by the experimenters (e.g., "always as many Bs
+before as after the Cs"), and in these instances generaliza-
+tion was near perfect. The recurrent network model was
+never able to do this. This suggests that rule learning in
+humans comes about as the result of a more complex
+system with many interacting parts. Nevertheless, the
+finding that a simple associative network is able to
+develop basic rules (albeit imperfectly) further supports
+the idea that basic associative or reinforcement mecha-
+nisms may indeed underlie rule learning. Consistent with
+this, Ramamoorthy and Verguts (2012) recently devel-
+oped a computational model of instruction following that
+relied on basic Hebbian learning processes in prefrontal
+cortex (see also Deco & Rolls, 2005).
+If we assume that we begin with reward- or error-
+driven associative learning processes, then we believe
+that in order to be capable of developing rule-like repre-
+sentations, these processes will need to be embedded in
+an architecture that must, at a minimum, be complex (by
+which we mean multilayer or more than one layer of
+weights), nonlinear (so that the multiple layers are not
+simply equivalent to a single layer; see Minsky & Parert,
+1969), and recursive (so that the system can, in principle,
+compute any computable function). Obviously, the learn-
+ing algorithm used will have to be capable of operating
+within this framework (for an example of such an algo-
+rithm, see Rumelhart, Hinton, & Williams, 1986). In
+essence, then, we propose that associative processes
+within a sufficiently rich and complex architecture can
+deliver the possibility of rule-based (symbolic) computa-
+tion. But even if all these requirements are met, there is
+still much to be done. It will be the interaction of that
+512 Verbruggen et al.
+system with the world that will allow this development to
+take place. The architecture and learning algorithms,
+which have evolved throughout human evolution, merely
+confer the potential for rule-based processing; the poten-
+tial has to be realized in the course of experience, and so
+the transition from association to cognition is also a
+developmental issue.
+In sum, we believe that a key to behavioral flexibility is
+the development of abstract representations via basic
+learning mechanisms. These representations will guide or
+contextualize stimulus detection, action selection, and
+action execution (Badre, Kayser, & D'Esposito, 2010;
+Collins & Frank, 2013; see also, e.g., Frank & Badre, 2012)
+and allow generalization to novel situations (see also
+Forrest et al., 2012). Even though these models were used
+to simulate relatively straightforward rule-based behavior,
+the general principles are likely to apply to more complex
+situations (Rougier et al., 2005). In complex environments,
+the agent may make temporal abstractions: grouping
+together a set of interrelated actions (options or policies)
+(Botvinick, 2012; Botvinick et al., 2009). These policies
+can be learned and selected via the same reinforcement-
+based learning mechanisms discussed above. When a
+policy is selected (e.g., making coffee), the more "primi-
+tive" motor actions are produced based on the acquired
+lower level stimulus­action associations (see Botvinick,
+2012, for an accessible discussion).
+Development: Building a network for
+the future
+Major changes in rule-based action control take place
+during childhood. Indeed, the ability of children to regu-
+late their behavior improves remarkably from infancy
+through adolescence (for recent reviews, see Bunge &
+Crone, 2009; Bunge, Mackey, & Whitaker, 2009; Diamond,
+2013). Such changes have been linked to development of
+executive control functions and the protracted develop-
+ment of the prefrontal control network (Bunge & O'Hare,
+2012).
+Developmental changes in rule-based action control
+throughout early and late development can be linked to
+a shift from concrete stimulus­action associations to
+abstract rule-like representations (Bunge & Zelazo, 2006;
+Munakata et al., 2012). Initially, young children would
+learn simple stimulus­action associations via exploration
+("if I push this button, a light turns on"), automatic imita-
+tion, or deliberate demonstration by others. These asso-
+ciations then become the building blocks for the
+rule-based control network and shape the development
+of more abstract representations that constrain and regu-
+late other ongoing processes. Indeed, Rougier et al.
+(2005) found that concrete S-R representations (in poste-
+rior brain systems) had to stabilize before abstract rule-
+like representations could be extracted.
+Several studies support the transition account. For
+example, young children are influenced more by specific
+S-R associations than adults when switching between
+tasks (Crone, Bunge, van der Molen, & Ridderinkhof,
+2006). Furthermore, Kharitonova and Munakata (2011)
+have demonstrated that in 3-year-old children, flexible
+rule use in a card-sorting test correlated with perfor-
+mance in an abstraction test that required children to
+select the odd-one-out on the basis of an overarching
+category. They suggested that this link could be explained
+by a common underlying working memory mechanism
+that supports rule-like abstraction and perceptually based
+abstraction (see also Collins & Frank, 2013). In other
+words, abstraction underlies flexibility.
+In addition to changes in the ability to develop abstract
+rule-like representations, children may also develop an
+ability to generate temporal abstractions. Botvinick et al.
+(2009) noted that throughout development, action con-
+trol becomes more hierarchical, with simple actions or
+rules becoming integrated within larger wholes or struc-
+tures. Similarly, Bunge and Zelazo (2006) reviewed a
+series of studies suggesting that development of cogni-
+tive control was associated with an increased ability to
+represent hierarchies of rules in which higher-order rules
+(cf. "policies") operate on lower order rules.
+To conclude, Thompson-Schill, Ramscar, and
+Chrysikou (2009) proposed that protracted development
+of the executive prefrontal network is necessary to allow
+children to learn linguistic and social conventions. Here
+we propose that learning necessarily precedes executive
+control because learning has to provide the building
+blocks for a control repertoire based on abstraction first.
+Interim key points
+·
+· Our framework places learning of increasingly
+abstract representations at the heart of executive
+control.
+·
+· Only through constant interaction with their envi-
+ronment can people build up a control repertoire
+that will underlie all forms of rule-based behavior.
+·
+· This repertoire continues to develop throughout
+the life span.
+Implications for Behavioral Change
+Clinical disorders often have many origins; alterations of
+cognitive processes may be one of them. Therefore, we
+believe that our framework can be applied in clinical
+domains to increase our understanding of certain control
+deficits and provide a theoretical basis for the develop-
+ment of novel behavioral change interventions.
+Executive Control of Actions 513
+Just as in the cognitive and neuroscience domain, attri-
+bution of control to convenient control homunculi is still
+very present in the clinical and more applied domains.
+Most clinical and neurobiological models that rely on
+executive control lack a precise description of the under-
+lying cognitive components and mechanisms. We have
+argued that a failure to change behavior could have mul-
+tiple origins. Thus, merely describing a deficit or phe-
+nomenon as a deficit of "inhibition" or "executive control"
+does not provide an explanation and discourages discus-
+sion of alternative theories. For instance, poor stopping
+performance in adults with ADHD may be partly due to
+inattention (Bekker et al., 2005). Many studies have
+observed stopping deficits in children and adults with
+ADHD, which has led researchers to suggest that poor
+response inhibition is central to their deficit (Lijffijt,
+Kenemans, Verbaten, & van Engeland, 2005; Lipszyc &
+Schachar, 2010; Nigg, 2001). However, Bekker et al.
+(2005) found using ERPs that an early attention-related
+component (the N1, which is a negative-going ERP com-
+ponent observed 80­120 ms after the presentation of an
+auditory stop signal) was larger for successful stop trials
+than for unsuccessful stop trials in the control group. This
+finding suggests that perceptual attention contributes to
+stopping. This difference in N1 was absent in adults with
+ADHD, which suggests that stopping deficits in adults
+with ADHD are due not entirely to deficiencies in inhibi-
+tion but also to deficiencies in stimulus detection.
+Similarly, J. W. Brown and Braver (2008) have argued that
+the failure to suppress risky and inappropriate behavior
+in addictions could stem from a failure to adjust perfor-
+mance after learning (for a similar idea, see Garavan &
+Stout, 2005). These studies indicate that focusing on basic
+processes provides a more detailed account of control
+deficits in, for example, behavioral and substance addic-
+tions. This may lead not only to important new insights
+in the etiology of various disorders characterized as defi-
+cits in changing behavior but also to the development of
+strategies for treating these conditions. Indeed, a com-
+mon critique is that the effective mechanisms of most
+behavioral treatments are still underspecified (Toneatto &
+Ladoceur, 2003). Therefore, providing a detailed account
+of action control deficits could stimulate the develop-
+ment of new theory-driven behavioral treatments. For
+example, it could lead to personalized interventions:
+Person A and Person B may both have stopping deficits
+with different origins, so the intervention for Person A
+could, for example, focus on biasing attention (e.g., in
+adults with ADHD; see Bekker et al., 2005), whereas the
+intervention for Person B could focus on performance
+monitoring and control adjustments (e.g., in substance
+abusers; see Garavan & Stout, 2005).
+The work on proactive control suggests that prepara-
+tion could lead to a prepared reflex, making
+action control less susceptible to the negative effects of
+concurrent load (Logan, 1978). This is consistent with
+findings in the implementation intention literature
+(Gollwitzer, 1999; Gollwitzer, Gawrilow, & Oettingen,
+2010; Gollwitzer & Sheeran, 2006). Implementation inten-
+tions refer to the linking of critical situations or cues to
+specific actions (e.g., "Whenever I see a red light on a
+food item, I will not buy it"). This could lead to a pre-
+pared reflex; indeed, Gollwitzer noted that after imple-
+mentation intentions are formed, "action initiation
+becomes swift, efficient, and does not require conscious
+intent" (Gollwitzer, 1999, p. 495). Others have argued that
+forming implementation intentions leads to increased
+monitoring for cues (see Rummel, Einstein, & Rampey,
+2012, for a discussion), but this is still consistent with the
+proactive control idea discussed above. It is important to
+note that implementation intentions, and consequently
+proactive control, could have a positive impact on behav-
+ior (Gollwitzer et al., 2010; Gollwitzer & Sheeran, 2006).
+For example, they may reduce the negative impact of
+stress on rule-based action control (Scholz et al., 2009),
+presumably because less reactive control is required.
+They may also strengthen the effects of commercial
+weight loss programs (Luszczynska, Sobczyk, & Abraham,
+2007) and reduce binge drinking (Hagger et al., 2012).
+Thus, an avenue for future research is how proactive
+control can be used in treatments, bearing in mind that
+there are certain costs associated with it (as discussed
+above).
+It is also important to understand how people develop
+and use new rules. For example, supermarkets in the
+United Kingdom recently started using a traffic-light
+labeling system to indicate sugar, fat, salt, and calorie
+contents of food items. But how do people use this new
+system to replace their favorite (but unhealthy) food item
+with a more healthy option? The work on rule learning
+and, in particular, generalization and abstraction as dis-
+cussed above could provide some clues. For example, it
+suggests that new rules that are based on previously
+acquired rules (e.g., red light = stop) might be learned
+more quickly (and consequently be more effective). The
+ability to form abstract rules may also lead to generaliza-
+tion of control across domains. We agree with Munakata
+et al. (2012), among others, that abstraction may explain
+executive-control training effects in children. Executive-
+control training may work better in children with low
+self-control than in adults with low self-control (Berkman,
+Graham, & Fisher, 2012). A better understanding of how
+rules are developed would lead to more effective train-
+ing. Even though this is highly speculative, building
+abstract rule-like representations may also provide an
+explanation for some more idiosyncratic transfer effects,
+such as the positive effect of avoiding sweets or regularly
+squeezing a handgrip in a 2-week training period on stop
+514 Verbruggen et al.
+performance afterward (Muraven, 2010), the differential
+effect of open versus skilled sports on stopping (C. H.
+Wang et al., 2013), or other inhibitory spillover effects
+(e.g., Berkman, Burklund, & Lieberman, 2009). As pro-
+posed by the compositional account, people may recycle
+or recombine rules that they used in other situations;
+building up a control repertoire in one domain could
+therefore lead to improved performance in other appar-
+ently nonrelated domains as long as the acquired repre-
+sentations are abstract enough.
+Finally, associatively mediated action control could
+open the avenue for new treatments. Several recent stud-
+ies have already shown that learning to stop motor
+responses toward food- or alcohol-related stimuli influ-
+ences food and alcohol intake both inside and outside
+the lab. For example, several studies have found that con-
+sistent pairing of food-related pictures to stopping in a
+go/no-go or stop-signal paradigm reduced subsequent
+food consumption (Houben, 2011; Houben & Jansen,
+2011; Lawrence, Verbruggen, Adams, & Chambers, 2014;
+Veling, Aarts, & Papies, 2011; Veling, Aarts, & Stroebe,
+2012). Furthermore, a similar procedure with alcohol-
+related stimuli reduced the hedonic value of alcohol and
+the subsequent weekly alcohol intake of heavy drinking
+students (Houben, Havermans, Nederkoorn, & Jansen,
+2012), whereas Jones and Field found that stimulus-
+specific stop training reduced alcohol intake in the labo-
+ratory but not self-reported drinking in the week after
+training (Jones & Field, 2013). Wiers and colleagues
+found that a similar avoidance training task influenced
+treatment outcomes in alcoholics a year later (Wiers,
+Eberl, Rinck, Becker, & Lindenmeyer, 2011). Finally,
+recent work from our lab suggests that stopping a motor
+response can reduce gambling (Verbruggen, Adams, &
+Chambers, 2012). We are currently exploring the mecha-
+nisms behind this transfer, but it is possible that stopping
+generally reduced approach motivation. In combination,
+these results suggest that go/no-go, avoidance, or stop-
+signal training can influence approach behavior toward a
+range of stimuli, possibly by changing attitudes toward
+these stimuli or by creating nonrespond (avoid) associa-
+tions. People may also associatively learn to direct their
+attention either toward or away from stimuli. Recent
+meta-analyses suggest that attentional-bias modification
+could be used in treatments for anxiety (Hakamata et al.,
+2010), although the effect may be more modest than ini-
+tially suggested (Hallion & Ruscio, 2011). Several studies
+have also examined attentional-bias modification in
+addiction. This could involve training people to redirect
+attention away from drug-related cues toward more neu-
+tral cues (Wiers, Gladwin, Hofmann, Salemink, &
+Ridderinkhof, 2013). The effectiveness of this training on
+addiction is still unclear. For example, a single session of
+attentional bias modification did not influence subjective
+craving or behavioral measures of tobacco seeking in
+cigarette smokers (Field, Duka, Tyler, & Schoenmakers,
+2009). Approach­avoidance, go/no-go, or stop-signal
+training may be more effective because several aspects of
+inappropriate behavior can be influenced at the same
+time. Indeed, avoidance or inhibition training could influ-
+ence hedonistic value, motivational behavior (approach
+vs. avoidance), and possibly even attention toward the
+stimuli. Data from studies inspired by the framework pre-
+sented here suggest that, in some situations, subjects may
+learn associations between the go stimulus and the stop
+signal, enhancing detection of the latter (Verbruggen,
+Best, Bowditch, Stevens, & McLaren, 2014). However,
+much more research is needed to examine how well vari-
+ous forms of inhibitory and executive-control training
+can influence behavior outside the lab (see also Jones,
+Christiansen, Nederkoorn, Houben, & Field, 2013). This
+work will also have to address the context-dependence
+issue (Bouton & Woods, 2008).
+Final Thoughts and Conclusions
+We have discussed how action control can be attributed
+to the interplay between three basic cognitive pro-
+cesses: signal detection, action selection, and action
+execution. These processes are constantly adjusted and
+biased via abstract representations that develop slowly
+but that can be generalized to different contexts. These
+representations support flexible behavior. At the same
+time, more concrete stimulus­action outcome associa-
+tions are learned, which can result in automatization of
+actions that were initially regulated by the "executive"
+abstraction-based system. We have attempted to unpack
+each component of our framework. It is possible that
+future research will demonstrate that some components
+or processes may have to be broken down further,
+leading to an even more nested system. We agree with
+Dennett that the only way to "discharge fancy homun-
+culi from one's scheme [is] by organizing armies of such
+idiots to do the work" (quoted in Monsell & Driver,
+2000, p. 7). We believe that in order to understand how
+control is achieved, boxes have to be broken down
+until we understand how complex behavior arises from
+a basic set of cognitive processes that can be imple-
+mented by our neural system. One may object against
+this deconstruction idea on the basis of parsimony: A
+model with fewer components may seem more parsi-
+monious. However, this parsimony would be achieved
+only by attributing multiple powers to specific control-
+lers or control functions (Monsell & Driver, 2000), mak-
+ing the seemingly more parsimonious account equally
+complex.
+Executive Control of Actions 515
+Relation with other frameworks and
+models
+Our framework builds on existing accounts of attention,
+control, working memory, and learning (e.g., Chein &
+Schneider, 2012; Deco & Rolls, 2005; Desimone & Duncan,
+1995; Logan & Gordon, 2001; E. K. Miller & Cohen, 2001;
+Rougier et al., 2005). Consistent with these accounts, we
+postulate that the main role of the executive control sys-
+tem is to bias competition in subordinate processes via
+rules maintained in working memory (either in an active
+or silent mode). But we also propose that once the rules
+are implemented, the control system can take a back seat
+in many, if not most, situations, and action control may
+eventually become automatized. This overall framework
+is consistent with the learning and control framework of
+Chein and Schneider (2012), who proposed that there are
+three systems: a meta-cognitive system, which supports
+rule learning, monitoring, and task sequencing (cf. hierar-
+chical control); a cognitive control system, which supports
+attention and action control; and a representation system,
+which supports associative learning. They also suggested
+that through practice, the associative system will take over
+from the metacognitive and control systems, which is con-
+sistent with our "learned reflex" idea.
+We believe that the main strength of our framework
+is that it integrates various theories and models, links
+findings, and points out similarities and differences
+between domains. This integration is a crucial step to
+enhance understanding of executive control and behav-
+ioral change.
+Beyond action control
+Many principles of our action control framework may
+translate to control in other domains, including emotion
+and control of thought. Several lines of evidence suggest
+a certain overlap between control of action and control of
+thought and emotion. Action control and control of emo-
+tion and thought may also be coupled because changes in
+internal states (such as thoughts or an emotional reaction)
+could trigger changes in ongoing actions. Corbetta et al.'s
+(2008) review suggested that the ventral attention net-
+work, which is required for action control, might be
+involved in switching between aspects of 
+"internal" pro-
+cessing, such as memory retrieval or self-
+referential
+thoughts. Furthermore, brain areas that are important for
+action control, such as the right inferior frontal gyrus and
+the right middle frontal gyrus, may also regulate emo-
+tional memories (Depue, Curran, & Banich, 2007) or
+unwanted thoughts (Benoit & Anderson, 2012; Depue,
+Burgess, Willcutt, Ruzic, & Banich, 2010). The overlap
+between action control and emotion regulation is further
+supported by correlations among rumination, inhibition,
+and task switching (Whitmer & Banich, 2007). These and
+other similar findings have led several researchers to pro-
+pose that similar control mechanisms may be required to
+regulate various aspects of human behavior (Aron,
+Robbins, & Poldrack, 2004; Banich et al., 2009; J. R. Cohen
+& Lieberman, 2010). Although speculative, this overlap
+could again be partly due to involvement of the abstract
+rule-like representations in various domains ("do not
+think," "do not respond," and so forth). More generally,
+we believe that the main difference between domains
+may be in the content controlled, not in the mechanisms
+by which control is achieved (see also Logan et al., 2014).
+The work of Depue, Banich, and others has suggested
+that emotion and executive control may influence each
+other (Depue et al., 2010; Depue et al., 2007; Whitmer &
+Banich, 2007). This link is further discussed by Pessoa
+(2009), who proposed a dual-competition framework to
+account for the effects of low- and high-threat emotional
+information on executive control. This framework can be
+integrated with our action control framework. More spe-
+cifically, on the basis of Pessoa's framework, we hypoth-
+esize that emotional content that is low in threat interferes
+primarily with attentional selection; by contrast, high-
+threat information would interfere with action selection
+as well. We believe that this highlights one of the major
+benefits of our processing framework: By focusing on the
+specific mechanisms rather than the general functions, a
+richer and more detailed picture emerges.
+In a similar vein, one could use our framework to
+examine how motivation, mood, stress, and other state-
+dependent factors influence action control and flexible
+behavior. For example, animal studies have shown that
+the prefrontal cortex is modulated by neurotransmitter
+systems mediating stress and arousal (Arnsten, 2009;
+Robbins, 2007). The link between stress and action con-
+trol is also demonstrated by the finding that people with
+addictions are prone to failing to suppress drug-seeking
+behavior in stressful situations (Sinha, 2008). We hypoth-
+esize that acute stress could influence action control in at
+least three different ways: It could lead to a narrowed
+focus of attention (Chajut & Algom, 2003), it could dis-
+courage selection of alternative actions (Goschke, 2000),
+or it could shift the balance between rule-based and
+associatively mediated action control (Schwabe,
+Dickinson, & Wolf, 2011). Given the impact of state-
+dependent factors on behavioral change, a better under-
+standing of which processes are influenced by factors
+such as stress could lead to the development of new
+interventions and improvements in existing ones.
+Conclusion
+To conclude, we hope that this article will inspire research
+on action control, behavioral flexibility, and behavioral
+516 Verbruggen et al.
+change to focus more on specific cognitive processes and
+representations, how these can be learned throughout
+development and adulthood, and how these are main-
+tained. We believe that this will lead to better models of
+executive control of action and behavioral change, which
+can inspire the development of new and more effective
+theory-driven interventions. Ultimately, this approach
+will allow us to banish homunculi from our theories.
+Acknowledgments
+We thank Bethany Teachman, Maisy Best, Barney Dunn, Heike
+Elchlepp, Anke Karl, Myriam Mertens, Lamprini Psychogiou,
+Kim Wright, and Fayme Yeates, for helpful comments on the
+manuscript; and Gordon Logan, Stephen Monsell, and the
+members of Cognitive Control and Associative Learning Group
+at the University of Exeter for discussion of some of the ideas
+expressed in the article.
+Declaration of Conflicting Interests
+The authors declared that they had no conflicts of interest with
+respect to their authorship or the publication of this article.
+Funding
+This work was supported by an Economic and Social Research
+Council Grant (ES/J00815X/1) to all three authors; a
+Biotechnology and Biological Sciences Research Council Grant
+(BB/K008277/1) to Christopher D. Chambers and Frederick
+Verbruggen; and a starting grant to Frederick Verbruggen from
+the European Research Council (ERC) under the European
+Union's Seventh Framework Programme (FP7/2007-2013)/ERC
+Grant Agreement No. 312445.
+Notes
+1. The accumulation process is analogous to drawing a series of
+balls from a container (Usher & McClelland, 2001). For exam-
+ple, the container can hold balls with "left" or "right" written on
+them. At each time step in the response-selection process, a ball
+would be drawn, and a count is added to the appropriate coun-
+ter (e.g., when a "left" ball is selected, a count is added to the
+left counter). A response is selected when one of the counters
+reaches a threshold. When the response threshold is 10, then a
+response is selected when 10 "left" balls or 10 "right" balls have
+been drawn from the container.
+2. A quasi-experiment was subsequently conducted. The sec-
+ond author tested the prepared reflex idea by either signaling
+or not signaling at this junction when a car was waiting to
+turn on another 20 days, signaling on 10 occasions and not
+signaling on 10 occasions in alternation (this took about half a
+year). The results were that on 50% of "signal" occasions, the
+car immediately turned. This never happened on "no-signal"
+occasions.
+References
+Anderson, M. L. (2010). Neural reuse: A fundamental orga-
+nizational principle of the brain. Behavioral & Brain
+Sciences, 33, 245­266; discussion 266­313. doi:10.1017/
+S0140525X10000853
+Arnsten, A. F. (2009). Stress signalling pathways that impair
+prefrontal cortex structure and function. Nature Reviews
+Neuroscience, 10, 410­422. doi:10.1038/nrn2648
+Aron, A. R., Robbins, T. W., & Poldrack, R. A. (2004). Inhibition
+and the right inferior frontal cortex. Trends in Cognitive
+Sciences, 8, 170­177. doi:10.1016/j.tics.2004.02.010
+Baddeley, A. (1996). Exploring the central executive. Quarterly
+Journal of Experimental Psychology, 49A, 5­28.
+Badre, D., Kayser, A. S., & D'Esposito, M. (2010). Frontal cor-
+tex and the discovery of abstract action rules. Neuron, 66,
+315­326. doi:10.1016/j.neuron.2010.03.025
+Banich, M. T., Mackiewicz, K. L., Depue, B. E., Whitmer, A.
+J., Miller, G. A., & Heller, W. (2009). Cognitive control
+mechanisms, emotion and memory: A neural perspec-
+tive with implications for psychopathology. Neuroscience
+and Biobehavioral Reviews, 33, 613­630. doi:10.1016/j
+.neubiorev.2008.09.010
+Bechara, A., Noel, X., & Crone, E. A. (2006). Loss of willpower:
+Abnormal neural mechanisms of impulse control and deci-
+sion making in addiction. In R. W. Wiers & A. W. Stacy
+(Eds.), Handbook of implicit cognition and addiction
+(pp. 215­232). Thousand Oaks, CA: SAGE.
+Bekker, E. M., Overtoom, C. C., Kooij, J. J., Buitelaar, J. K.,
+Verbaten, M. N., & Kenemans, J. L. (2005). Disentangling
+deficits in adults with attention-deficit/hyperactivity dis-
+order. Archives of General Psychiatry, 62, 1129­1136.
+doi:10.1001/archpsyc.62.10.1129
+Benoit, R. G., & Anderson, M. C. (2012). Opposing mechanisms
+support the voluntary forgetting of unwanted memories.
+Neuron, 76, 450­460. doi:10.1016/j.neuron.2012.07.025
+Berkman, E. T., Burklund, L., & Lieberman, M. D. (2009).
+Inhibitory spillover: Intentional motor inhibition produces
+incidental limbic inhibition via right inferior frontal cor-
+tex. NeuroImage, 47, 705­712. doi:10.1016/j.neuroimage
+.2009.04.084
+Berkman, E. T., Graham, A. M., & Fisher, P. A. (2012). Training
+self-control: A domain-general translational neuroscience
+approach. Child Development Perspectives. Advance online
+publication. doi:10.1111/j.1750­8606.2012.00248.x
+Botvinick, M. M. (2007). Conflict monitoring and decision mak-
+ing: Reconciling two perspectives on anterior cingulate
+function. Cognitive, Affective, & Behavioral Neuroscience,
+7, 356­366.
+Botvinick, M. M. (2012). Hierarchical reinforcement learning
+and decision making. Current Opinion in Neurobiology, 22,
+956­962. doi:10.1016/j.conb.2012.05.008
+Botvinick, M. M., Braver, T. S., Barch, D. M., Carter, C. S., &
+Cohen, J. D. (2001). Conflict monitoring and cognitive con-
+trol. Psychological Review, 108, 624­652.
+Botvinick, M. M., Niv, Y., & Barto, A. C. (2009). Hierarchically
+organized behavior and its neural foundations: A rein-
+forcement learning perspective. Cognition, 113, 262­280.
+doi:10.1016/j.cognition.2008.08.011
+Boucher, L., Palmeri, T. J., Logan, G. D., & Schall, J. D. (2007).
+Inhibitory control in mind and brain: An interactive race
+model of countermanding saccades. Psychological Review,
+114, 376­397. doi:10.1037/0033-295X.114.2.376
+Executive Control of Actions 517
+Bouton, M. E., & Woods, A. M. (2008). Extinction: Behavioral
+mechanisms and their implications. In R. Menzel & J. H.
+Byrne (Eds.), Learning and memory: A comprehensive ref-
+erence (Vol. 1, p. 151). Oxford, United Kingdom: Elsevier.
+Braver, T. S. (2012). The variable nature of cognitive control: A
+dual mechanisms framework. Trends in Cognitive Sciences,
+16, 106­113. doi:10.1016/j.tics.2011.12.010
+Braver, T. S., Gray, J. R., & Burgess, G. C. (2007). Explaining the
+many varieties of working memory variation: Dual mecha-
+nisms of cognitive control. In A. R. A. Conway, C. Jarrold,
+M. J. Kane, A. Miyake, & J. N. Towse (Eds.), Variation in
+working memory (pp. 76­106). New York City, NY: Oxford
+University Press.
+Braver, T. S., Paxton, J. L., Locke, H. S., & Barch, D. M. (2009).
+Flexible neural mechanisms of cognitive control within
+human prefrontal cortex. Proceedings of the National
+Academy of Sciences, USA, 106, 7351­7356. doi:10.1073/
+pnas.0808187106
+Brown, J. W., & Braver, T. S. (2005). Learned predictions of
+error likelihood in the anterior cingulate cortex. Science,
+307, 1118­1121. doi:10.1126/science.1105783
+Brown, J. W., & Braver, T. S. (2008). A computational model
+of risk, conflict, and individual difference effects in the
+anterior cingulate cortex. Brain Research, 1202, 99­108.
+doi:10.1016/j.brainres.2007.06.080
+Brown, S. D., & Heathcote, A. (2008). The simplest complete
+model of choice response time: Linear ballistic accumu-
+lation. Cognitive Psychology, 57, 153­178. doi:10.1016/j
+.cogpsych.2007.12.002
+Buch, E. R., Mars, R. B., Boorman, E. D., & Rushworth, M.
+F. (2010). A network centered on ventral premotor cor-
+tex exerts both facilitatory and inhibitory control over
+primary motor cortex during action reprogramming. The
+Journal of Neuroscience, 30, 1395­1401. doi:10.1523/
+JNEUROSCI.4882-09.2010
+Bugg, J. M., & Crump, M. J. (2012). In support of a distinction
+between voluntary and stimulus-driven control: A review of
+the literature on proportion congruent effects. Frontiers in
+Psychology, 3, 367. doi:10.3389/fpsyg.2012.00367
+Bunge, S. A. (2004). How we use rules to select actions: A
+review of evidence from cognitive neuroscience. Cognitive,
+Affective, & Behavioral Neuroscience, 4, 564­579.
+Bunge, S. A. (2012). The developing human brain: A frontiers
+research topic. Frontiers in Human Neuroscience, 6, Article
+47. Retrieved from http://www.ncbi.nlm.nih.gov/pmc/
+articles/PMC3299057/
+Bunge, S. A., & Crone, E. A. (2009). Neural correlates of the
+development of cognitive control. In J. M. Rumsey &
+M. Ernst (Eds.), Neuroimaging in developmental clinical
+neuroscience (pp. 22­37). New York City, NY: Cambridge
+University Press.
+Bunge, S. A., Mackey, A. P., & Whitaker, K. J. (2009). Brain
+changes underlying the development of cognitive control
+and reasoning. In M. S. Gazzinga (Ed.), The cognitive neu-
+rosciences (4th ed., pp. 73­85). Cambridge, MA: MIT Press.
+Bunge, S. A., & Zelazo, P. D. (2006). A brain-based account
+of the development of rule use in childhood. Current
+Directions in Psychological Science, 15, 118­121.
+Cai, W., Oldenkamp, C. L., & Aron, A. R. (2011). A proac-
+tive mechanism for selective suppression of response
+tendencies. The Journal of Neuroscience, 31, 5965­5969.
+doi:10.1523/JNEUROSCI.6292-10.2011
+Cavanagh, J. F., Eisenberg, I., Guitart-Masip, M., Huys, Q., &
+Frank, M. J. (2013). Frontal theta overrides Pavlovian learn-
+ing biases. The Journal of Neuroscience, 33, 8541­8548.
+doi:10.1523/JNEUROSCI.5754-12.2013
+Chajut, E., & Algom, D. (2003). Selective attention improves
+under stress: Implications for theories of social cognition.
+Journal of Personality and Social Psychology, 85, 231­248.
+doi:10.1037/0022-3514.85.2.231
+Chamberlain, S. R., & Sahakian, B. J. (2007). The neuropsy-
+chiatry of impulsivity. Current Opinion in Psychiatry, 20,
+255­261.
+Chein, J. M., & Schneider, W. (2005). Neuroimaging studies
+of practice-related change: FMRI and meta-analytic evi-
+dence of a domain-general control network for learning.
+Brain Research. Cognitive Brain Research, 25, 607­623.
+doi:10.1016/j.cogbrainres.2005.08.013
+Chein, J. M., & Schneider, W. (2012). The brain's learning and
+control architecture. Current Directions in Psychological
+Science, 21, 78­84. doi:10.1177/0963721411434977
+Chelazzi, L., Duncan, J., Miller, E. K., & Desimone, R. (1998).
+Responses of neurons in inferior temporal cortex during
+memory-guided visual search. Journal of Neurophysiology,
+80, 2918­2940.
+Chun, M. M., Golomb, J. D., & Turk-Browne, N. B. (2011).
+A taxonomy of external and internal attention. Annual
+Review of Psychology, 62, 73­101. doi:10.1146/annurev.
+psych.093008.100427
+Claffey, M. P., Sheldon, S., Stinear, C. M., Verbruggen, F., &
+Aron, A. R. (2010). Having a goal to stop action is asso-
+ciated with advance control of specific motor represen-
+tations. Neuropsychologia, 48, 541­548. doi:10.1016/j
+.neuropsychologia.2009.10.015
+Cohen, J. D., Dunbar, K., & McClelland, J. L. (1990). On the
+control of automatic processes: A parallel distributed pro-
+cessing account of the Stroop effect. Psychological Review,
+97, 332­361.
+Cohen, J. D., Servan-Schreiber, D., & McClelland, J. L. (1992).
+A parallel distributed processing approach to automaticity.
+The American Journal of Psychology, 105, 239­269.
+Cohen, J. R., & Lieberman, M. D. (2010). The common neural
+basis of exerting self-control in multiple domains. In R. R.
+Hassin, K. N. Ochsner, & Y. Trope (Eds.), Self-control in
+society, mind, and brain (Vol. 1, pp. 141­162). New York
+City, NY: Oxford University Press.
+Cohen-Kdoshay, O., & Meiran, N. (2009). The representation of
+instructions operates like a prepared reflex: Flanker compat-
+ibility effects found in first trial following S-R instructions.
+Experimental Psychology, 56, 128­133. doi:10.1027/1618-
+3169.56.2.128
+Cole, M. W., Laurent, P., & Stocco, A. (2013). Rapid instructed
+task learning: A new window into the human brain's unique
+capacity for flexible cognitive control. Cognitive, Affective,
+& Behavioral Neuroscience, 13, 1­22. doi:10.3758/s13415-
+012-0125-7
+518 Verbruggen et al.
+Collins, A. G., & Frank, M. J. (2013). Cognitive control over
+learning: Creating, clustering, and generalizing task-set
+structure. Psychological Review, 120, 190­229. doi:10.1037/
+a0030852
+Corbetta, M., Patel, G., & Shulman, G. L. (2008). The reori-
+enting system of the human brain: From environment
+to theory of mind. Neuron, 58, 306­324. doi:10.1016/j
+.neuron.2008.04.017
+Corbetta, M., & Shulman, G. L. (2002). Control of goal-directed
+and stimulus-driven attention in the brain. Nature Reviews
+Neuroscience, 3, 201­215. doi:10.1038/nrn755
+Crews, F. T., & Boettiger, C. A. (2009). Impulsivity, frontal lobes
+and risk for addiction. Pharmacology, Biochemistry, and
+Behavior, 93, 237­247. doi:10.1016/j.pbb.2009.04.018
+Criaud, M., Wardak, C., Ben Hamed, S., Ballanger, B., &
+Boulinguez, P. (2012). Proactive inhibitory control of
+response as the default state of executive control. Frontiers
+in Psychology, 3, 59. doi:10.3389/fpsyg.2012.00059
+Crone, E. A., Bunge, S. A., van der Molen, M. W., & Ridderinkhof,
+K. R. (2006). Switching between tasks and responses: A
+developmental study. Developmental Science, 9, 278­287.
+doi:10.1111/j.1467-7687.2006.00490.x
+Curtis, C. E., & D'Esposito, M. (2003). Persistent activity in the pre-
+frontal cortex during working memory. Trends in Cognitive
+Sciences, 7, 415­423. doi:10.1016/S1364-6613(03)00197-9
+Curtis, C. E., & Lee, D. (2010). Beyond working mem-
+ory: The role of persistent activity in decision making.
+Trends in Cognitive Sciences, 14, 216­222. doi:10.1016/j
+.tics.2010.03.006
+Dalley, J. W., Everitt, B. J., & Robbins, T. W. (2011). Impulsivity,
+compulsivity, and top-down cognitive control. Neuron, 69,
+680­694. doi:10.1016/j.neuron.2011.01.020
+Deco, G., & Rolls, E. T. (2005). Attention, short-term memory, and
+action selection: A unifying theory. Progress in Neurobiology,
+76, 236­256. doi:10.1016/j.pneurobio.2005.08.004
+Depue, B. E., Burgess, G. C., Willcutt, E. G., Ruzic, L., & Banich,
+M. T. (2010). Inhibitory control of memory retrieval and
+motor processing associated with the right lateral prefrontal
+cortex: Evidence from deficits in individuals with ADHD.
+Neuropsychologia, 48, 3909­3917. doi:10.1016/j.neuropsy-
+chologia.2010.09.013
+Depue, B. E., Curran, T., & Banich, M. T. (2007, July 13).
+Prefrontal regions orchestrate suppression of emotional
+memories via a two-phase process. Science, 317, 215­219.
+doi:10.1126/science.1139560
+Desimone, R., & Duncan, J. (1995). Neural mechanisms of
+selective visual attention. Annual Review of Neuroscience,
+18, 193­222.
+de Wit, H. (2009). Impulsivity as a determinant and consequence
+of drug use: A review of underlying processes. Addiction
+Biology, 14, 22­31. doi:10.1111/j.1369-1600.2008.00129.x
+Diamond, A. (2013). Executive functions. Annual Review
+of Psychology, 64, 135­168. doi:10.1146/annurev-
+psych-113011-143750
+Dickinson, A. (1985). Actions and habits: The development of
+behavioural autonomy. Philosophical Transactions of the
+Royal Society B: Biological Sciences, 308, 67­78.
+Dodds, C. M., Morein-Zamir, S., & Robbins, T. W. (2011).
+Dissociating inhibition, attention, and response control
+in the frontoparietal network using functional magnetic
+resonance imaging. Cerebral Cortex, 21, 1155­1165.
+doi:10.1093/cercor/bhq187
+Duncan, J. (2006). EPS mid-career award 2004: Brain mech-
+anisms of attention. Quarterly Journal of Experimental
+Psychology, 59, 2­27. doi:10.1080/17470210500260674
+Duncan, J., Emslie, H., Williams, P., Johnson, R., & Freer, C.
+(1996). Intelligence and the frontal lobe: The organization
+of goal-directed behavior. Cognitive Psychology, 30, 257­
+303. doi:10.1006/cogp.1996.0008
+Duncan, J., Johnson, R., Swales, M., & Freer, C. (1997). Frontal
+lobe deficits after head injury: Unity and diversity of func-
+tion. Cognitive Neuropsychology, 14, 713­741.
+Duncan, J., & Owen, A. M. (2000). Common regions of the
+human frontal lobe recruited by diverse cognitive demands.
+Trends in Neurosciences, 23, 475­483.
+Duncan, J., Schramm, M., Thompson, R., & Dumontheil, I.
+(2012). Task rules, working memory, and fluid intelligence.
+Psychonomic Bulletin & Review, 19, 864­870. doi:10.3758/
+s13423-012-0225-y
+Duque, J., Labruna, L., Verset, S., Olivier, E., & Ivry, R. B.
+(2012). Dissociating the role of prefrontal and premotor
+cortices in controlling inhibitory mechanisms during motor
+preparation. The Journal of Neuroscience, 32, 806­816.
+doi:10.1523/JNEUROSCI.4299-12.2012
+Egner, T. (2008). Multiple conflict-driven control mechanisms
+in the human brain. Trends in Cognitive Sciences, 12, 374­
+380. doi:10.1016/j.tics.2008.07.001
+Egner, T., & Hirsch, J. (2005). Cognitive control mechanisms
+resolve conflict through cortical amplification of task-
+relevant information. Nature Neuroscience, 8, 1784­1790.
+doi:10.1038/nn1594
+Elman, J. L. (1990). Finding structure in time. Cognitive Science,
+14, 179­211.
+Ferrey, A. E., Frischen, A., & Fenske, M. J. (2012). Hot or not:
+Response inhibition reduces the hedonic value and motiva-
+tional incentive of sexual stimuli. Frontiers in Psychology, 3,
+575. doi:10.3389/fpsyg.2012.00575
+Field, M., Duka, T., Tyler, E., & Schoenmakers, T. (2009).
+Attentional bias modification in tobacco smokers. Nicotine
+& Tobacco Research, 11, 812­822. doi:10.1093/ntr/ntp067
+Fisher, A. V. (2011). Automatic shifts of attention in the dimen-
+sional change card sort task: Subtle changes in task materi-
+als lead to flexible switching. Journal of Experimental Child
+Psychology, 108, 211­219. doi:10.1016/j.jecp.2010.07.001
+Forrest, C. L., Elchlepp, H., Monsell, S., & McLaren, I. P. L. (2012,
+August). Task switching without knowledge of the tasks. In
+N. Miyake, D. Peebles, & R. P. Cooper (Eds.), Proceedings
+of the 34th Annual Meeting of the Cognitive Science Society
+(pp. 1548­1553). Austin, TX: Cognitive Science Society.
+Frank, M. J. (2006). Hold your horses: A dynamic computational
+role for the subthalamic nucleus in decision making. Neural
+Networks, 19, 1120­1136. doi:10.1016/j.neunet.2006.03.006
+Frank, M. J., & Badre, D. (2012). Mechanisms of hierarchi-
+cal reinforcement learning in corticostriatal circuits 1:
+Computational analysis. Cerebral Cortex, 22, 509­526.
+doi:10.1093/cercor/bhr114
+Fröber, K., & Dreisbach, G. (2012). How positive affect mod-
+ulates proactive control: Reduced usage of informative
+Executive Control of Actions 519
+cues under positive affect with low arousal. Frontiers in
+Psychology, 3, 265. doi:10.3389/fpsyg.2012.00265
+Garavan, H., & Stout, J. C. (2005). Neurocognitive insights into
+substance abuse. Trends in Cognitive Sciences, 9, 195­201.
+doi:10.1016/j.tics.2005.02.008
+Goldstein, R. Z., & Volkow, N. D. (2011). Dysfunction of the
+prefrontal cortex in addiction: Neuroimaging findings and
+clinical implications. Nature Reviews Neuroscience, 12,
+652­669. doi:10.1038/nrn3119
+Gollwitzer, P. M. (1999). Implementation intentions: Strong
+effects of simple plans. American Psychologist, 54, 493­503.
+Gollwitzer, P. M., Gawrilow, C., & Oettingen, G. (2010). The
+power of planning: Self-control by effective goal-striving.
+In R. R. Hassin, K. N. Ochsner, & Y. Trope (Eds.), Self-
+control in society, mind, and brain (Vol. 1, pp. 279­296).
+New York City, NY: Oxford University Press.
+Gollwitzer, P. M., & Sheeran, P. (2006). Implementation inten-
+tions and goal achievement: A meta-analysis of effects and
+processes. Advances in Experimental Social Psychology, 38,
+69­119.
+Goschke, T. (2000). Intentional reconfiguration and involuntary
+persistence in task-set switching. In S. Monsell & J. Driver
+(Eds.), Control of cognitive processes: Attention and perfor-
+mance XVIII (pp. 331­355). Cambridge, MA: MIT Press.
+Gottlieb, J., & Balan, P. (2010). Attention as a decision in infor-
+mation space. Trends in Cognitive Sciences, 14, 240­248.
+doi:10.1016/j.tics.2010.03.001
+Guitart-Masip, M., Huys, Q. J., Fuentemilla, L., Dayan, P.,
+Duzel, E., & Dolan, R. J. (2012). Go and no-go learning in
+reward and punishment: Interactions between affect and
+effect. NeuroImage, 62, 154­166. doi:10.1016/j.neuroimage
+.2012.04.024
+Hagger, M. S., Lonsdale, A., Koka, A., Hein, V., Pasi, H.,
+Lintunen, T., & Chatzisarantis, N. L. (2012). An intervention
+to reduce alcohol consumption in undergraduate students
+using implementation intentions and mental simulations:
+A cross-national study. International Journal of Behavioral
+Medicine, 19, 82­96. doi:10.1007/s12529-011-9163-8
+Hakamata, Y., Lissek, S., Bar-Haim, Y., Britton, J. C., Fox, N. A.,
+Leibenluft, E., . . . Pine, D. S. (2010). Attention bias modifi-
+cation treatment: A meta-analysis toward the establishment
+of novel treatment for anxiety. Biological Psychiatry, 68,
+982­990. doi:10.1016/j.biopsych.2010.07.021
+Hallion, L. S., & Ruscio, A. M. (2011). A meta-analysis of the
+effect of cognitive bias modification on anxiety and depres-
+sion. Psychological Bulletin, 137, 940­958. doi:10.1037/
+a0024355
+Hazeltine, E., Lightman, E., Schwarb, H., & Schumacher, E.
+H. (2011). The boundaries of sequential modulations:
+Evidence for set-level control. Journal of Experimental
+Psychology: Human Perception and Performance, 37,
+1898­1914. doi:10.1037/a0024662
+Hazy, T. E., Frank, M. J., & O'Reilly, R. C. (2007). Towards an
+executive without a homunculus: Computational models of
+the prefrontal cortex/basal ganglia system. Philosophical
+Transactions of the Royal Society B: Biological Sciences,
+362, 1601­1613. doi:10.1098/rstb.2007.2055
+Hogarth, L., Dickinson, A., Austin, A., Brown, C., &
+Duka, T. (2008). Attention and expectation in human
+predictive learning: The role of uncertainty. Quarterly
+Journal of Experimental Psychology, 61, 1658­1668.
+doi:10.1080/17470210701643439
+Hommel, B. (2000). The prepared reflex: Automaticity and
+control in stimulus-response translation. In S. Monsell &
+J. Driver (Eds.), Control of cognitive process: Attention and
+performance (Vol. 18, pp. 247­273). Cambridge, MA: MIT
+Press.
+Houben, K. (2011). Overcoming the urge to splurge: Influencing
+eating behavior by manipulating inhibitory control. Journal
+of Behavior Therapy and Experimental Psychiatry, 42, 384­
+388. doi:10.1016/j.jbtep.2011.02.008
+Houben, K., Havermans, R. C., Nederkoorn, C., & Jansen, A.
+(2012). Beer à no-go: Learning to stop responding to alcohol
+cues reduces alcohol intake via reduced affective associa-
+tions rather than increased response inhibition. Addiction,
+107, 1280­1287. doi:10.1111/j.1360-0443.2012.03827.x
+Houben, K., & Jansen, A. (2011). Training inhibitory control.
+A recipe for resisting sweet temptations. Appetite, 56, 345­
+349. doi:10.1016/j.appet.2010.12.017
+Huestegge, L., & Hazeltine, E. (2011). Crossmodal action:
+Modality matters. Psychological Research, 75, 445­451.
+doi:10.1007/s00426-011-0373-0
+Huestegge, L., & Koch, I. (2013). Constraints in task-set con-
+trol: Modality dominance patterns among effector systems.
+Journal of Experimental Psychology: General, 142, 633­637.
+doi:10.1037/a0030156
+Iselin, A. M., & Decoster, J. (2009). Reactive and proactive con-
+trol in incarcerated and community adolescents and young
+adults. Cognitive Development, 24, 192­206. doi:10.1016/j.
+cogdev.2008.07.001
+Izquierdo, A., & Jentsch, J. D. (2012). Reversal learning as a
+measure of impulsive and compulsive behavior in addic-
+tions. Psychopharmacology, 219, 607­620. doi:10.1007/
+s00213-011-2579-7
+Jones, A., Christiansen, P., Nederkoorn, C., Houben, K., &
+Field, M. (2013). Fluctuating disinhibition: Implications
+for the understanding and treatment of alcohol and other
+substance use disorders. Frontiers in Psychiatry, 4, 140.
+doi:10.3389/fpsyt.2013.00140
+Jones, A., & Field, M. (2013). The effects of cue-specific inhibi-
+tion training on alcohol consumption in heavy social drink-
+ers. Experimental and Clinical Psychopharmacology, 21,
+8­16. doi:10.1037/a0030683
+Jost, K., Mayr, U., & Rösler, F. (2008). Is task switching nothing
+but cue priming? Evidence from ERPs. Cognitive, Affective,
+& Behavioral Neuroscience, 8, 74­84.
+Kastner, S., & Ungerleider, L. G. (2000). Mechanisms of
+visual attention in the human cortex. Annual Review of
+Neuroscience, 23, 315­341. doi:10.1146/annurev.neuro
+.23.1.315
+Keele, S. W. (1968). Movement control in skilled motor perfor-
+mance. Psychological Bulletin, 70, 387­403.
+Kharitonova, M., & Munakata, Y. (2011). The role of repre-
+sentations in executive function: Investigating a develop-
+mental link between flexibility and abstraction. Frontiers in
+Psychology, 2, 347. doi:10.3389/fpsyg.2011.00347
+Kiesel, A., Steinhauser, M., Wendt, M., Falkenstein, M., Jost, K.,
+Philipp, A. M., & Koch, I. (2010). Control and interference
+520 Verbruggen et al.
+in task switching -- A review. Psychological Bulletin, 136,
+849­874. doi:10.1037/a0019842
+Kiss, M., Raymond, J. E., Westoby, N., Nobre, A. C., & Eimer, M.
+(2008). Response inhibition is linked to emotional devalu-
+ation: Behavioural and electrophysiological evidence.
+Frontiers in Human Neuroscience, 2, 13. doi:10.3389/
+neuro.09.013.2008
+Klemen, J., Verbruggen, F., Skelton, C., & Chambers, C. D.
+(2011). Enhancement of perceptual representations by
+endogenous attention biases competition in response selec-
+tion. Attention, Perception, & Psychophysics, 73, 2514­2527.
+doi:10.3758/s13414-011-0188-5
+Koch, I., & Allport, A. (2006). Cue-based preparation and stim-
+ulus-based priming of tasks in task switching. Memory &
+Cognition, 34, 433­444.
+Kool, W., McGuire, J. T., Rosen, Z. B., & Botvinick, M. M.
+(2010). Decision making and the avoidance of cognitive
+demand. Journal of Experimental Psychology: General,
+139, 665­682. doi:10.1037/a0020198
+Lawrence, N. S., Verbruggen, F., Adams, R. C., & Chambers, C.
+D. (2014). Stopping to food cues reduces snack food intake:
+Effects of cue specificity, control conditions and individual
+differences. Manuscript submitted.
+Lenartowicz, A., Verbruggen, F., Logan, G. D., & Poldrack, R.
+A. (2011). Inhibition-related activation in the right inferior
+frontal gyrus in the absence of inhibitory cues. Journal
+of Cognitive Neuroscience, 23, 3388­3399. doi:10.1162/
+jocn_a_00031
+Leotti, L. A., & Wager, T. D. (2010). Motivational influences
+on response inhibition measures. Journal of Experimental
+Psychology: Human Perception and Performance, 36, 430­
+447. doi:10.1037/a0016802
+Le Pelley, M. E., Beesley, T., & Griffiths, O. (2011). Overt
+attention and predictiveness in human contingency learn-
+ing. Journal of Experimental Psychology: Animal Behavior
+Processes, 37, 220­229. doi:10.1037/a0021384
+Liefooghe, B., De Houwer, J., & Wenke, D. (2013). Instruction-
+based response activation depends on task preparation.
+Psychonomic Bulletin & Review, 20, 481­487. doi:10.3758/
+s13423-013-0374-7
+Lijffijt, M., Kenemans, J. L., Verbaten, M. N., & van Engeland,
+H. (2005). A meta-analytic review of stopping performance
+in attention-deficit/hyperactivity disorder: Deficient inhibi-
+tory motor control? Journal of Abnormal Psychology, 114,
+216­222. doi:10.1037/0021-843X.114.2.216
+Lipszyc, J., & Schachar, R. (2010). Inhibitory control and psy-
+chopathology: A meta-analysis of studies using the stop
+signal task. Journal of the International Neuropsychological
+Society, 16, 1­13. doi:10.1017/S1355617710000895
+Lo, C. C., Boucher, L., Paré, M., Schall, J. D., & Wang, X. J.
+(2009). Proactive inhibitory control and attractor dynamics
+in countermanding action: A spiking neural circuit model.
+Journal of Neuroscience, 29, 9059­9071. doi:10.1523/
+JNEUROSCI.6164-08.2009
+Logan, G. D. (1978). Attention in character-classification tasks:
+Evidence for the automaticity of component stages. Journal
+of Experimental Psychology: General, 107, 32­63.
+Logan, G. D. (1988). Toward an instance theory of automatiza-
+tion. Psychological Review, 95, 492­527.
+Logan, G. D. (1994). On the ability to inhibit thought and
+action: A users' guide to the stop signal paradigm. In D.
+Dagenbach & T. H. Carr (Eds.), Inhibitory processes in
+attention, memory, and language (pp. 189­239). San
+Diego, CA: Academic Press.
+Logan, G. D., & Bundesen, C. (2003). Clever homunculus: Is
+there an endogenous act of control in the explicit task-
+cuing procedure? Journal of Experimental Psychology:
+Human Perception and Performance, 29, 575­599.
+doi:10.1037/0096-1523.29.3.575
+Logan, G. D., & Burkell, J. (1986). Dependence and inde-
+pendence in responding to double stimulation: A com-
+parison of stop, change, and dual-task paradigms. Journal
+of Experimental Psychology: Human Perception and
+Performance, 12, 549­563.
+Logan, G. D., & Cowan, W. B. (1984). On the ability to
+inhibit thought and action: A theory of an act of control.
+Psychological Review, 91, 295­327.
+Logan, G. D., & Gordon, R. D. (2001). Executive control of visual
+attention in dual-task situations. Psychological Review, 108,
+393­434. doi:10.1037/0033-295X.108.2.393
+Logan, G. D., Van Zandt, T., Verbruggen, F., & Wagenmakers,
+E. J. (2014). On the ability to inhibit thought and action:
+General and special theories of an act of control.
+Psychological Review, 121, 66­95.
+Luck, S. J., Chelazzi, L., Hillyard, S. A., & Desimone, R. (1997).
+Neural mechanisms of spatial selective attention in areas
+V1, V2, and V4 of macaque visual cortex. Journal of
+Neurophysiology, 77, 24­42.
+Luszczynska, A., Sobczyk, A., & Abraham, C. (2007). Planning
+to lose weight: Randomized controlled trial of an imple-
+mentation intention prompt to enhance weight reduction
+among overweight and obese women. Health Psychology,
+26, 507­512. doi:10.1037/0278-6133.26.4.507
+Mackintosh, N. J. (1975). A theory of attention: Variations in the
+associability of stimuli with reinforcement. Psychological
+Review, 82, 276­298.
+MacLeod, C. M. (1991). Half a century of research on the Stroop
+effect: An integrative review. Psychological Bulletin, 109,
+163­203.
+Mars, R. B., Piekema, C., Coles, M. G., Hulstijn, W., & Toni, I.
+(2007). On the programming and reprogramming of actions.
+Cerebral Cortex, 17, 2972­2979. doi:10.1093/cercor/bhm022
+Mayr, U., & Bryck, R. L. (2005). Sticky rules: Integration between
+abstract rules and specific actions. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 31, 337­
+350. doi:10.1037/0278-7393.31.2.337
+Mayr, U., & Kliegl, R. (2000). Task-set switching and long-term
+memory retrieval. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 26, 1124­1140.
+McGuire, J. T., & Botvinick, M. M. (2010). Prefrontal cortex,
+cognitive control, and the registration of decision costs.
+Proceedings of the National Academy of Sciences, USA, 107,
+7922­7926. doi:10.1073/pnas.0910662107
+McLaren, I. P. L., Forrest, C. L., McLaren, R. P., Jones, F. W.,
+Aitken, M. R., & Mackintosh, N. J. (2013). Associations and
+propositions: The case for a dual-process account of learn-
+ing in humans. Neurobiology of Learning and Memory, 108,
+185­195. doi:10.1016/j.nlm.2013.09.014
+Executive Control of Actions 521
+McLaren, I. P. L., & Verbruggen, F. (in press). Association and
+inhibition. In R. A. Murphy & R. C. Honey (Eds.), The Wiley
+Blackwell handbook on the cognitive neuroscience of learn-
+ing. Chichester, England: John Wiley and Sons.
+McLaren, I. P. L., Wills, A. J., & Graham, S. (2010). Attention and
+perceptual learning. In C. Mitchell & M. Le Pelley (Eds.),
+Attention and associative learning: From brain to behav-
+iour (pp. 131­158). Oxford, England: Oxford University
+Press.
+Meiran, N. (1996). Reconfiguration of processing mode prior
+to task performance. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 22, 1423­1442.
+Meiran, N., Cole, M. W., & Braver, T. S. (2012). When plan-
+ning results in loss of control: Intention-based reflexivity
+and working-memory. Frontiers in Human Neuroscience,
+6, 104. doi:10.3389/fnhum.2012.00104
+Meyer, D. E., & Kieras, D. E. (1997). A computational theory
+of executive cognitive processes and multiple-task perfor-
+mance: Part 1. Basic mechanisms. Psychological Review, 104,
+3­65.
+Miller, E. K., & Cohen, J. D. (2001). An integrative theory of
+prefrontal cortex function. Annual Review of Neuroscience,
+24, 167­202.
+Miller, G. A., Galanter, E., & Pribram, K. H. (1960). Plans and
+structure of behavior. New York, NY: Holt, Rinehart &
+Winston.
+Minsky, M., & Parert, S. (1969). Perceptrons. Cambridge, MA:
+MIT Press.
+Mitchell, C. J., De Houwer, J., & Lovibond, P. F. (2009). The
+propositional nature of human associative learning.
+Behavioral & Brain Sciences, 32, 183­198; discussion 198-
+246. doi:10.1017/S0140525X09000855
+Miyake, A., Friedman, N. P., Emerson, M. J., Witzki, A. H.,
+Howerter, A., & Wager, T. D. (2000). The unity and diversity
+of executive functions and their contributions to complex
+"frontal lobe" tasks: A latent variable analysis. Cognitive
+Psychology, 41, 49­100. doi:10.1006/cogp.1999.0734
+Moffitt, T. E., Arseneault, L., Belsky, D., Dickson, N., Hancox, R.
+J., Harrington, H., . . . Caspi, A. (2011). A gradient of child-
+hood self-control predicts health, wealth, and public safety.
+Proceedings of the National Academy of Sciences, USA, 108,
+2693­2698. doi:10.1073/pnas.1010076108
+Monsell, S. (2003). Task switching. Trends in Cognitive Sciences,
+7, 134­140.
+Monsell, S., & Driver, J. (2000). Banishing the control homun-
+culus. In S. Monsell & J. Driver (Eds.), Control of cogni-
+tive processes: Attention and performance XVIII (pp. 3­32).
+Cambridge, MA: MIT Press.
+Monsell, S., & Mizon, G. A. (2006). Can the task-cuing paradigm
+measure an endogenous task-set reconfiguration process?
+Journal of Experimental Psychology: Human Perception
+and Performance, 32, 493­516. doi:10.1037/0096-1523
+.32.3.493
+Mostofsky, S. H., & Simmonds, D. J. (2008). Response inhibi-
+tion and response selection: Two sides of the same coin.
+Journal of Cognitive Neuroscience, 20, 751­761.
+Mulder, M. J., Wagenmakers, E. J., Ratcliff, R., Boekel, W., &
+Forstmann, B. U. (2012). Bias in the brain: A diffusion
+model analysis of prior probability and potential payoff.
+The Journal of Neuroscience, 32, 2335­2343. doi:10.1523/
+JNEUROSCI.4156-11.2012
+Munakata, Y., Snyder, H. R., & Chatham, C. H. (2012).
+Developing cognitive control: Three key transitions.
+Current Directions in Psychological Science, 21, 71­77.
+doi:10.1177/0963721412436807
+Muraven, M. (2010). Building self-control strength: Practicing
+self-control leads to improved self-control performance.
+Journal of Experimental Social Psychology, 46, 465­468.
+doi:10.1016/j.jesp.2009.12.011
+Nederkoorn, C., Jansen, E., Mulkens, S., & Jansen, A. (2007).
+Impulsivity predicts treatment outcome in obese chil-
+dren. Behaviour Research and Therapy, 45, 1071­1075.
+doi:10.1016/j.brat.2006.05.009
+Newell, A. (1990). Unified theories of cognition. Cambridge,
+MA: Harvard University Press.
+Nigg, J. T. (2001). Is ADHD a disinhibitory disorder?
+Psychological Bulletin, 127, 571­598.
+Noël, X., Brevers, D., & Bechara, A. (2013). A neurocognitive
+approach to understanding the neurobiology of addic-
+tion. Current Opinion in Neurobiology, 23, 632­638.
+doi:10.1016/j.conb.2013.01.018
+Norman, D. A., & Shallice, T. (1986). Attention to action: Willed
+and automatic control of behavior. In R. J. Davidson, G. E.
+Schwartz, & D. Shapiro (Eds.), Consciousness and self-
+regulation: Advances in research and theory (Vol. 4, pp. 1­
+18). New York, NY: Plenum.
+Oberauer, K. (2009). Design for a working memory. Psychology
+of Learning and Motivation, 45­100.
+Pashler, H. (1994). Dual-task interference in simple tasks: Data
+and theory. Psychological Bulletin, 116, 220­244.
+Paxton, J. L., Barch, D. M., Racine, C. A., & Braver, T. S. (2008).
+Cognitive control, goal maintenance, and prefrontal func-
+tion in healthy aging. Cerebral Cortex, 18, 1010­1028.
+doi:10.1093/cercor/bhm135
+Pearce, J. M., & Hall, G. (1980). A model for Pavlovian learning:
+Variations in the effectiveness of conditioned but not of
+unconditioned stimuli. Psychological Review, 87, 532­552.
+Pearce, J. M., & Mackintosh, N. J. (2010). Two theories of atten-
+tion: A review and a possible integration. In C. J. Mitchell &
+M. E. Le Pelley (Eds.), Attention and associative learning:
+From brain to behaviour (pp. 11­39). New York City, NY:
+Oxford University Press.
+Pessoa, L. (2009). How do emotion and motivation direct exec-
+utive control? Trends in Cognitive Sciences, 13, 160­166.
+doi:10.1016/j.tics.2009.01.006
+Poldrack, R. A., Kittur, A., Kalar, D., Miller, E., Seppa, C., Gil,
+Y., . . . Bilder, R. M. (2011). The cognitive atlas: Toward a
+knowledge foundation for cognitive neuroscience. Frontiers
+in Neuroinformatics, 5, 17. doi:10.3389/fninf.2011.00017
+Posner, M. I. (1980). Orienting of attention. Quarterly Journal of
+Experimental Psychology, 32, 3­25.
+Postle, B. R. (2013). Activation and information in working
+memory research. In D. R. Addis, M. Barense, & A. Duarte
+(Eds.), The Wiley-Blackwell handbook on the cognitive
+neuroscience of memory (pp. 897­901). West Sussex,
+England: Wiley-Blackwell.
+Purcell, B. A., Heitz, R. P., Cohen, J. Y., Schall, J. D., Logan,
+G. D., & Palmeri, T. J. (2010). Neurally constrained modeling
+522 Verbruggen et al.
+of perceptual decision making. Psychological Review, 117,
+1113­1143. doi:10.1037/a0020311
+Ramamoorthy, A., & Verguts, T. (2012). Word and deed: A com-
+putational model of instruction following. Brain Research,
+1439, 54­65. doi:10.1016/j.brainres.2011.12.025
+Ratcliff, R., & Smith, P. L. (2004). A comparison of sequential
+sampling models for two-choice reaction time. Psychological
+Review, 111, 333­367. doi:10.1037/0033-295X.111.2.333
+Redick, T. S., & Engle, R. W. (2011). Integrating working mem-
+ory capacity and context-processing views of cognitive
+control. Quarterly Journal of Experimental Psychology, 64,
+1048­1055. doi:10.1080/17470218.2011.577226
+Ridderinkhof, K. R., Ullsperger, M., Crone, E. A., & Nieuwenhuis,
+S. (2004, October 15). The role of the medial frontal cortex
+in cognitive control. Science, 306, 443­447. doi:10.1126/
+science.1100301
+Robbins, T. W. (2007). Shifting and stopping: Fronto-striatal sub-
+strates, neurochemical modulation and clinical implications.
+Philosophical Transactions of the Royal Society B: Biological
+Sciences, 362, 917­932. doi:10.1098/rstb.2007.2097
+Robbins, T. W., Gillan, C. M., Smith, D. G., de Wit, S., & Ersche,
+K. D. (2012). Neurocognitive endophenotypes of impul-
+sivity and compulsivity: Towards dimensional psychia-
+try. Trends in Cognitive Sciences, 16, 81­91. doi:10.1016/j
+.tics.2011.11.009
+Rogers, R. D., & Monsell, S. (1995). Costs of a predictable switch
+between simple cognitive tasks. Journal of Experimental
+Psychology: General, 124, 207­231.
+Rosenbaum, D. A. (1980). Human movement initiation:
+Specification of arm, direction, and extent. Journal of
+Experimental Psychology: General, 109, 444­474.
+Rosenbaum, D. A., & Kornblum, S. (1982). A priming method
+for investigating the selection of motor responses. Acta
+Psychologica, 51, 223­243.
+Rougier, N. P., Noelle, D. C., Braver, T. S., Cohen, J. D., &
+O'Reilly, R. C. (2005). Prefrontal cortex and flexible cog-
+nitive control: Rules without symbols. Proceedings of
+the National Academy of Sciences, USA, 102, 7338­7343.
+doi:10.1073/pnas.0502455102
+Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning
+representations by back-propagating errors. Nature, 329,
+534­536.
+Rummel, J., Einstein, G. O., & Rampey, H. (2012).
+Implementation-intention encoding in a prospective mem-
+ory task enhances spontaneous retrieval of intentions.
+Memory (Hove, England), 20, 803­817. doi:10.1080/09658
+211.2012.707214
+Rushworth, M. F., Walton, M. E., Kennerley, S. W., &
+Bannerman, D. M. (2004). Action sets and decisions in the
+medial frontal cortex. Trends in Cognitive Sciences, 8, 410­
+417. doi:10.1016/j.tics.2004.07.009
+Salinas, E., & Stanford, T. R. (2013). The countermanding task
+revisited: Fast stimulus detection is a key determinant of
+psychophysical performance. The Journal of Neuroscience,
+33, 5668­5685. doi:10.1523/JNEUROSCI.3977-12.2013
+Schall, J. D. (2001). Neural basis of deciding, choosing
+and acting. Nature Reviews. Neuroscience, 2, 33­42.
+doi:10.1038/35049054
+Schmitz, C., Jenmalm, P., Ehrsson, H. H., & Forssberg, H. (2005).
+Brain activity during predictable and unpredictable weight
+changes when lifting objects. Journal of Neurophysiology,
+93, 1498­1509. doi:10.1152/jn.00230.2004
+Schneider, D. W., & Logan, G. D. (2005). Modeling task switch-
+ing without switching tasks: A short-term priming account
+of explicitly cued performance. Journal of Experimental
+Psychology. General, 134, 343­367. doi:10.1037/0096-
+3445.134.3.343
+Schneider, W., & Shiffrin, R. M. (1977). Controlled and auto-
+matic human information processing. I. Detection, search
+and attention. Psychological Review, 84, 1­66.
+Scholz, U., La Marca, R., Nater, U. M., Aberle, I., Ehlert, U.,
+Hornung, R., & Kliegel, M. (2009). Go no-go performance
+under psychosocial stress: Beneficial effects of implementa-
+tion intentions. Neurobiology of Learning and Memory, 91,
+89­92. doi:10.1016/j.nlm.2008.09.002
+Schwabe, L., Dickinson, A., & Wolf, O. T. (2011). Stress, habits,
+and drug addiction: A psychoneuroendocrinological per-
+spective. Experimental and Clinical Psychopharmacology,
+19, 53­63. doi:10.1037/a0022212
+Shiffrin, R. M., & Schneider, W. (1977). Controlled and automatic
+human information processing: II. Perceptual learning,
+automatic attending, and a general theory. Psychological
+Review, 84, 127­190.
+Sinha, R. (2008). Chronic stress, drug use, and vulnerability to
+addiction. Annals of the New York Academy of Sciences,
+1141, 105­130. doi:10.1196/annals.1441.030
+Smith, P. L., & Ratcliff, R. (2004). Psychology and neurobiology
+of simple decisions. Trends in Neurosciences, 27, 161­168.
+doi:10.1016/j.tins.2004.01.006
+Spiegel, R., & McLaren, I. P. (2006). Associative sequence
+learning in humans. Journal of Experimental Psychology.
+Animal Behavior Processes, 32, 150­163. doi:10.1037/0097-
+7403.32.2.150
+Sternberg, S. (1969). The discovery of processing stages:
+Extensions of Donders' method. Acta Psychologica, 30,
+276­315.
+Stokes, M., & Duncan, J. (2013). Dynamic brain states for pre-
+paratory attention and working memory. In S. Kastner &
+A. C. Nobre (Eds.), Oxford's handbook of attention (pp.
+152­182). Oxford, England: Oxford University Press.
+Stokes, M. G., Kusunoki, M., Sigala, N., Nili, H., Gaffan, D., &
+Duncan, J. (2013). Dynamic coding for cognitive control in
+prefrontal cortex. Neuron, 78, 364­375. doi:10.1016/j.neu-
+ron.2013.01.039
+Stroop, J. R. (1935). Studies of interference in serial verbal reac-
+tions. Journal of Experimental Psychology, 18, 643­662.
+Sylvester, C. M., Shulman, G. L., Jack, A. I., & Corbetta, M.
+(2007). Asymmetry of anticipatory activity in visual cor-
+tex predicts the locus of attention and perception. The
+Journal of Neuroscience, 27, 14424­14433. doi:10.1523/
+JNEUROSCI.3759-07.2007
+Theeuwes, J. (2010). Top­down and bottom­up control of visual
+selection. Acta Psychologica, 135, 77­99. doi:10.1016/j
+.actpsy.2010.02.006
+Thompson-Schill, S. L., Ramscar, M., & Chrysikou, E. G. (2009).
+Cognition without control: When a little frontal lobe goes
+Executive Control of Actions 523
+a long way. Current Directions in Psychological Science,
+18, 259­263.
+Toneatto, T., & Ladoceur, R. (2003). Treatment of pathologi-
+cal gambling: A critical review of the literature. Psychology
+of Addictive Behaviors, 17, 284­292. doi:10.1037/0893-
+164X.17.4.284
+Tzelgov, J. (1997). Specifying the relations between automatic-
+ity and consciousness: A theoretical note. Consciousness
+and Cognition, 6, 441­451.
+Ullsperger, M., Danielmeier, C., & Jocham, G. (2014).
+Neurophysiology of performance monitoring and adaptive
+behavior. Physiological Reviews, 94, 35­79. doi:10.1152/
+physrev.00041.2012
+Usher, M., & McClelland, J. L. (2001). The time course of per-
+ceptual choice: The leaky, competing accumulator model.
+Psychological Review, 108, 550­592.
+Vandierendonck, A., Liefooghe, B., & Verbruggen, F. (2010).
+Task switching: Interplay of reconfiguration and inter-
+ference control. Psychological Bulletin, 136, 601­626.
+doi:10.1037/a0019791
+Veling, H., Aarts, H., & Papies, E. K. (2011). Using stop sig-
+nals to inhibit chronic dieters' responses toward palatable
+foods. Behaviour Research and Therapy, 49, 771­780.
+doi:10.1016/j.brat.2011.08.005
+Veling, H., Aarts, H., & Stroebe, W. (2012). Using stop sig-
+nals to reduce impulsive choices for palatable unhealthy
+foods. British Journal of Health Psychology, 18, 354­368.
+doi:10.1111/j.2044-8287.2012.02092.x
+Veling, H., Holland, R. W., & van Knippenberg, A. (2008).
+When approach motivation and behavioral inhibition col-
+lide: Behavior regulation through stimulus devaluation.
+Journal of Experimental Social Psychology, 44, 1013­1019.
+doi:10.1016/j.jesp.2008.03.004
+Verbruggen, F., Adams, R., & Chambers, C. D. (2012).
+Proactive motor control reduces monetary risk tak-
+ing in gambling. Psychological Science, 23, 805­815.
+doi:10.1177/0956797611434538
+Verbruggen, F., Aron, A. R., Stevens, M. A., & Chambers, C.
+D. (2010). Theta burst stimulation dissociates attention
+and action updating in human inferior frontal cortex.
+Proceedings of the National Academy of Sciences, USA, 107,
+13966­13971. doi:10.1073/pnas.1001957107
+Verbruggen, F., Best, M., Bowditch, W., Stevens, T., & McLaren,
+I. P. L. (2014). The inhibitory control reflex. Manuscript sub-
+mitted for publication.
+Verbruggen, F., Liefooghe, B., & Vandierendonck, A.
+(2004). The interaction between stop signal inhibition
+and distractor interference in the flanker and Stroop
+task. Acta Psychologica, 116, 21­37. doi:10.1016/j
+.actpsy.2003.12.011
+Verbruggen, F., & Logan, G. D. (2008a). Automatic and con-
+trolled response inhibition: Associative learning in the go/
+no-go and stop-signal paradigms. Journal of Experimental
+Psychology: General, 137, 649­672. doi:10.1037/a0013170
+Verbruggen, F., & Logan, G. D. (2008b). Long-term afteref-
+fects of response inhibition: Memory retrieval, task goals,
+and cognitive control. Journal of Experimental Psychology:
+Human Perception and Performance, 34, 1229­1235.
+doi:10.1037/0096-1523.34.5.1229
+Verbruggen, F., & Logan, G. D. (2008c). Response inhibition in
+the stop-signal paradigm. Trends in Cognitive Sciences, 12,
+418­424. doi:10.1016/j.tics.2008.07.005
+Verbruggen, F., & Logan, G. D. (2009a). Automaticity of cogni-
+tive control: Goal priming in response-inhibition paradigms.
+Journal of Experimental Psychology: Learning, Memory,
+and Cognition, 35, 1381­1388. doi:10.1037/a0016645
+Verbruggen, F., & Logan, G. D. (2009b). Models of response
+inhibition in the stop-signal and stop-change paradigms.
+Neuroscience and Biobehavioral Reviews, 33, 647­661.
+doi:10.1016/j.neubiorev.2008.08.014
+Verbruggen, F., & Logan, G. D. (2009c). Proactive adjustments
+of response strategies in the stop-signal paradigm. Journal
+of Experimental Psychology: Human Perception and
+Performance, 35, 835­854. doi:10.1037/a0012726
+Verbruggen, F., Logan, G. D., Liefooghe, B., & Vandierendonck,
+A. (2008). Short-term aftereffects of response inhibition:
+Repetition priming or between-trial control adjustments?
+Journal of Experimental Psychology: Human Perception and
+Performance, 34, 413­426. doi:10.1037/0096-1523.34.2.413
+Verbruggen, F., Notebaert, W., Liefooghe, B., & Vandierendonck,
+A. (2006). Stimulus- and response-conflict-induced cogni-
+tive control in the flanker task. Psychonomic Bulletin &
+Review, 13, 328­333.
+Verbruggen, F., Stevens, T., & Chambers, C. D. (2014). Proactive
+and reactive stopping when distracted: An attentional
+account. Journal of Experimental Psychology: Human
+Perception and Performance. Advance online publication.
+doi:10.1037/a0036542
+Wang, C. H., Chang, C. C., Liang, Y. M., Shih, C. M., Chiu,
+W. S., Tseng, P., . . . Juan, C. H. (2013). Open vs. closed
+skill sports and the modulation of inhibitory control. PLoS
+ONE, 8, e55773. Retrieved from http://www.plosone.org/
+article/info%3Adoi%2F10.1371%2Fjournal.pone.0055773.
+doi:10.1371/journal.pone.0055773
+Wang, X.-J. (2013). The prefrontal cortex as a quintessential
+"cognitive-type" neural circuit. In D. T. Stuss & R. T. Knight
+(Eds.), Principles of frontal lobe function (2nd ed., pp. 226­
+248). New York City, NY: Oxford University Press.
+Waszak, F., Hommel, B., & Allport, A. (2003). Task-switching
+and long-term priming: Role of episodic stimulus-task bind-
+ings in task-shift costs. Cognitive Psychology, 46, 361­413.
+doi:10.1016/S0010-0285
+Welford, A. T. (1952). The "psychological refractory period"
+and the timing of high speed performance: A review and a
+theory. British Journal of Psychology, 43, 2­19.
+White, C. N., Ratcliff, R., Vasey, M. W., & McKoon, G. (2010).
+Using diffusion models to understand clinical disor-
+ders. Journal of Mathematical Psychology, 54, 39­52.
+doi:10.1016/j.jmp.2010.01.004
+Whitmer, A. J., & Banich, M. T. (2007). Inhibition versus switch-
+ing deficits in different forms of rumination. Psychological
+Science, 18, 546­553. doi:10.1111/j.1467-9280.2007.01936.x
+Wiecki, T. V., & Frank, M. J. (2013). A computational
+model of inhibitory control in frontal cortex and basal
+524 Verbruggen et al.
+ganglia. Psychological Review, 120, 329­355. doi:10.1037/
+a0031542
+Wiers, R. W., Gladwin, E., Hofmann, W., Salemink, E., &
+Ridderinkhof, R. (2013). Cognitive bias modification and
+cognitive control training in addiction and related psy-
+chopathology: Mechanisms, clinical perspectives, and
+ways forward. Clinical Psychological Science, 2, 192­212.
+doi:10.1177/2167702612466547
+Wiers, R. W., Eberl, C., Rinck, M., Becker, E. S., & Lindenmeyer,
+J. (2011). Retraining automatic action tendencies changes
+alcoholic patients' approach bias for alcohol and improves
+treatment outcome. Psychological Science, 22, 490­497.
+doi:10.1177/0956797611400615
+Wills, A. J., Lavric, A., Croft, G. S., & Hodgson, T. L. (2007).
+Predictive learning, prediction errors, and attention:
+Evidence from event-related potentials and eye 
+tracking.
+Journal of Cognitive Neuroscience, 19, 843­854. doi:10
+.1162/jocn.2007.19.5.843
+Wimmer, G. E., & Shohamy, D. (2012). Preference by association:
+How memory mechanisms in the hippocampus bias deci-
+sions. Science, 338, 270­273. doi:10.1126/science.1223252
+Wolfensteller, U., & Ruge, H. (2012). Frontostriatal mecha-
+nisms in instruction-based learning as a hallmark of flex-
+ible goal-directed behavior. Frontiers in Psychology, 3, 192.
+doi:10.3389/fpsyg.2012.00192
+Woodman, G. F. (2013). Viewing the dynamics and control
+of visual attention through the lens of electrophysiology.
+Vision Research, 80, 7­18. doi:10.1016/j.visres.2013.01.003
+Woodman, G. F., Luck, S. J., & Schall, J. D. (2007). The role of
+working memory representations in the control of atten-
+tion. Cerebral Cortex (New York, N.Y.: 1991), 17(Suppl. 1),
+i118­i124. doi:10.1093/cercor/bhm065
+

@@ -1,0 +1,467 @@
+SAGE Open
+April-June 2012: 1
+­5
+© The Author(s) 2012
+DOI: 10.1177/2158244012443544
+http://sgo.sagepub.com
+Introduction
+Historically Black Colleges and Universities (HBCUs) have
+had a long history of providing quality educational experi-
+ences to underrepresented minority students (URMs).
+Accounting for only 2% of the nation's colleges and univer-
+sities, HBCUs award a significant number of degrees to
+African American students at the bachelor's, master's, and
+doctoral level across all academic disciplines. HBCUs have
+also been instrumental in producing a significant number of
+African American graduates in science and engineering
+(National Science Foundation, Division of Science Resources
+Statistics, 2011). For all of the success HBCUs have had in
+educating African American scientists and engineers, efforts
+to broaden participation in science, technology, engineering,
+and mathematics (STEM) education and STEM careers for
+African Americans and other underserved ethnic groups
+remain a prevailing issue in the educational system (Museus,
+Palmer, Davis, & Maramba, 2011). The production and
+implementation of online distance education courses and
+online programs in science and engineering could offer addi-
+tional avenues for minority-serving institutions to provide
+students with increased opportunities to enroll in STEM
+courses. Distance learning as defined by Greenberg (1998)
+is a "planned teaching/learning experience that uses a wide
+spectrum of technologies to reach learners at a distance and
+is designed to encourage learner interaction and certification
+of learning" (p. 36).
+Recent data demonstrate that HBCUs and primarily White
+institutions (PWIs) have a similar technological infrastruc-
+ture in place for distance learning degree programs (Moore,
+2008). This empirical finding would suggest that as HBCUs
+are fully capable of implementing online programs, most of
+these institutions would have taken full advantage of oppor-
+tunities in distance learning for overall university advance-
+ment. Unfortunately, most HBCUs in America do not offer
+online programs in STEM fields; however, a few offer online
+programs in non-STEM fields. Thus, the purpose of this
+report is to examine African American students' participa-
+tion in online distance education and to bring to light the
+need for HBCUs to develop and enhance distance education
+programs in STEM fields and other disciplines to increase
+their academic competitiveness and sustainability. In addi-
+tion, this article purports to offer specific research recom-
+mendations for educational researchers exploring the issue
+of increasing African American students and HBCU partici-
+pation in online distance learning. Smith (2011) noted that
+"HBCUs, which have traditionally provided an education for
+443544
+SGOXXX10.1177/215824
+4012443544Flowers et al.SAGE Open
+1Fayetteville State University, NC, USA
+Corresponding Author:
+Lawrence O. Flowers, Department of Biological Sciences, Fayetteville
+State University, 225 Lyons Science Building, 1200 Murchison Road,
+Fayetteville, NC 28301, USA
+Email: lflowers@uncfsu.edu
+African American Students' Participation
+in Online Distance Education in STEM
+Disciplines: Implications for HBCUs
+Lawrence O. Flowers1, Erin N. White1,
+James E. Raynor, Jr.1, and Sambit Bhattacharya1
+Abstract
+Despite the increase in online distant learning initiatives at many of the nation's colleges and universities, collectively, Historically
+Black Colleges and Universities (HBCUs) continue to lag behind non-HBCUs in the development and implementation of
+online courses and programs. Data produced by the National Center for Education Statistics show that African American
+students are enrolled in significantly less distance education courses when compared with White students. In addition, there
+is a substantial disparity in the number of online science, technology, engineering, and mathematics (STEM) courses and
+programs when compared with online courses and programs in education, business, or the social sciences at HBCUs. The
+primary aim of this article is to examine data that explore African American students' participation in distance education in
+STEM disciplines. Recommendations for future research are also discussed in this article.
+Keywords
+online distance education, African American students, HBCU, STEM, educational research
+2 SAGE Open
+people who might not have otherwise had the opportunity,
+have an imperative to take their programs online" (p. 25).
+The lack of HBCU competitiveness in providing quality
+online distance education programs for African American
+students have forced significant numbers of African American
+and other minority college students to consider for-profit
+online universities such as Kaplan University and the
+University of Phoenix. URMs are willing to pay exorbitant
+tuitions even in the absence or in conjunction with federal
+assistance to seek the convenience and advantages online
+delivery methods provide (Poley, 2008). HBCU administra-
+tors must take a more active role in implementing online
+programs and courses on their campuses. HBCUs must con-
+tinually study research literature and successful online edu-
+cation models to transition from higher education institutions
+with weak or nonexistent online programs to institutions
+that provide high-quality online learning environments.
+Furthermore, HBCU administrators must provide ongoing
+academic and financial support to faculty committed to
+teaching online. In addition, HBCUs must provide mecha-
+nisms for sustainability of online programs such as faculty
+training, technology enhancements, and procedures for
+effective formative and summative assessments for online
+courses and programs.
+Many HBCUs have qualified faculty members who are
+willing to engage in online teaching; however, they are faced
+with conflicting attitudes and divergent dispositions from
+obdurate administrators and department chairs who do not
+appreciate the institutional advantages of offering online
+courses. Moreover, based on the literature, there seems to be
+consistent themes regarding HBCUs' lack of enthusiasm for
+adopting online distance education programs including, but
+not limited to, faculty and administration reluctance, expen-
+sive start-up and instructional development costs, lack of
+course facilitation expertise, perceived deficits in learning
+outcomes, poor student perceptions and characteristics, and
+accreditation issues (Allen & Seaman, 2007; Beasley, 2010;
+Miller & Husmann, 1999; Poley, 2008). A major concern
+among educators regarding online courses with laboratory
+components is the perception that less skills are gained with
+virtual labs due to the lack of hands-on activities when com-
+pared with wet labs offered with face-to-face courses
+(Jeschofnig & Spencer, 2008). However, previous studies
+demonstrate the effectiveness and quality of online labs
+(Wolf, 2010). Well-developed virtual labs provide interac-
+tive experiences during which students observe and manipu-
+late computer-generated objects, data, or phenomena to
+fulfill the learning objectives of a laboratory experience
+(Stuckey-Mickell & Stuckey-Danner, 2007). In fact, many
+U.S. health professional schools incorporate the use of vir-
+tual labs as major components of the medical education cur-
+riculum (Lovell & Vignare, 2009).
+The Sloan Consortium, an international professional
+organization devoted to the improvement of online educa-
+tion, recently described substantive student enrollments in
+online courses in Class Differences: Online Education in the
+United States. Allen and Seaman (2010) reported a 21%
+growth rate for U.S. higher education student online enroll-
+ments suggesting that online learning is becoming a more
+viable teaching and learning strategy in the higher educa-
+tional system. The Sloan Consortium also surveyed univer-
+sity administrators to determine their perceptions regarding
+the future of online education at their respective institutions.
+Overwhelmingly, participants in the study viewed online
+education initiatives favorably and believed that online edu-
+cation could provide economic, teaching, and learning
+transformative advantages. Moreover, several million U.S.
+college/university students have reported enrolling in at least
+one online course while pursing their academic degree (Allen
+& Seaman, 2010).
+Online education learning initiatives have continued to
+soar over the last decade (Figure 2) and are widely recog-
+nized to offer several significant benefits to academic institu-
+tions. For example, successful online programs have been
+shown to counteract reduced institutional budgets and
+gloomy economic forecasts. The infusion of distance educa-
+tion programs may present viable cost-effective strategies
+for HBCUs to improve their overall revenue problems and
+associated negative outcomes (e.g., abated course and aca-
+demic program offerings, reduced student support services,
+reduced faculty and staff, and reduced student enrollments).
+Although there have been slight increases in historically
+Black institutions with online degree programs, in 2010,
+only 18% of the nation's 105 HBCUs possessed online
+degree programs (Beasley, 2010). Furthermore, analysis
+revealed that only 9% of the online programs at HBCUs are
+in the STEM disciplines. In contrast, a higher percentage of
+non-HBCUs have been reported to offer distance education
+courses and programs.
+There are many student advantages to taking an online
+course such as the ability to learn at your own pace and the
+opportunity for greater flexibility and convenience to com-
+plete degree requirements while managing complex family,
+social, and work schedules. Not surprising, a common theme
+among students regarding the benefits of online courses is
+the convenience of completing coursework and flexibility of
+instructional strategies rarely utilized in the traditional class-
+room. Numerous reports have also demonstrated that learn-
+ing gains in online courses meet or exceed learning gains in
+traditional courses (Bernard et al., 2004; Dell, Low, &
+Wilker, 2010; Summers, Waigandt, & Whittaker, 2005;
+Weber & Lennon, 2007). Moreover, results from a research
+study conducted by Warren and Holloman (2005) revealed
+that there are no significant differences in student learning
+outcomes between online instruction and traditional instruc-
+tion. In their study, two groups of students from the same
+course were selected as participants and received the same
+content via different modes. One group of students was ran-
+domly selected for online instruction and another group of
+students were randomly selected for traditional face-to-face
+Flowers et al. 3
+instruction. Data from pre- and postquantitative survey
+instruments show minimal differences in understanding of
+course content. Similar studies also provide support for
+online distance learning instructional strategies as viable and
+meaningful educational approaches. Using the hierarchical
+linear model and multiple regression analysis, Chen,
+Lambert, and Guidry (2010) reported that there is a positive
+association between web-based learning technology partici-
+pation and increased student engagement.
+Method
+Data Sources
+Descriptive data were compiled using data from the National
+Center for Education Statistics (Parsad & Lewis, 2008;
+Waits & Lewis, 2003) and the HBCU Distance Learning
+2010 report (Beasley, 2010). In addition, the current article
+utilizes data from the 2007-2008 National Postsecondary
+Student Aid Study data set designed to study college stu-
+dents and postsecondary institutions. The NPSAS was con-
+ducted by the NCES (Cominole, Riccobono, Siegel, &
+Caves, 2010) and contained a student sample of more than
+19 million undergraduate student participants from 2-year
+and 4-year Title IV degree-granting postsecondary institu-
+tions participants in the study. The descriptive variables
+described in this report were accessed through the Data
+Analysis System supported by NCES.
+Variables
+The percentage of HBCUs offering online degrees and other
+academic institutions offering online courses were investi-
+gated in this report using descriptive data (Figures 1 and 2).
+To analyze the percentage distribution of African American
+student participation in distance education by college major,
+variables that measured the percentage of students enrolled
+in a distance education course in 2007-2008 (DISTEDUC)
+and identified STEM majors, non-STEM majors, and unde-
+clared majors (STEMMAJ) were selected. Data sample
+filters were used to create tables only including African
+American students (Table 1). To analyze the distribution
+of student participation in distance education by race, the
+DISTEDUC and RACE variables were used to target
+African American and White students (Figure 3).
+Results
+Figure 1 shows that 18% of the 105 HBCUs possess online
+degree programs. Figure 2 shows that between 2000 and
+2007, there was an increase in the number of 2-year and
+4-year Title IV academic institutions that proffered online
+courses. As shown in Table 1, very low percentages of
+African American students with STEM majors enrolled in
+an online course during 2007-2008. Figure 3 indicates that
+White college students (83%) participated in far more dis-
+tance education courses than African American college stu-
+dents (17%) during the survey period. Independent-samples
+t tests were employed to determine whether statistically
+No Online Courses Offered
+Online Courses Offered
+44%
+56%
+44%
+2000-01
+34%
+66%
+2006-07
+Figure 2. Percentage of 2-year and 4-year Title IV institutions
+offering distance education courses:Trend analysis
+Source: U.S. Department of Education.
+HBCUs With Online Degrees
+HBCUs Without Online Degrees
+18%
+82%
+Figure 1. Percentage of HBCUs offering online degrees
+Note: HBCU = Historically Black Colleges and Universities. Adapted from
+Beasley (2010).
+Table 1. Percentage Distribution of African American Students'
+Participation in Distance Education
+Major field STEM majors
+Non-STEM
+majors
+Undeclared
+majors
+Distance education
+course (%)
+10.8 78.1 11.1
+Source: U.S. Department of Education.
+Note: Data were significant at the p < .05 level.
+African American
+White
+0
+20
+40
+60
+80
+100
+17%
+83%
+Figure 3. Percentage distribution of student participation in
+distance education by race
+Source: U.S. Department of Education.
+Note: Data were significant at the p < .05 level.
+4 SAGE Open
+significant differences were present (Table 1 and Figure 3).
+All of the results were reported significant at the p < .05 level.
+Discussion and Implications
+Advancing educational opportunities for HBCU students
+must remain at the forefront of HBCU stakeholders. In this
+article, we proposed that many HBCUs must examine and
+enhance their online distance education initiatives to keep
+pace with the ever-changing educational landscape. It is
+imperative that HBCUs fully engage and invest in online
+education, particularly in STEM online courses and pro-
+grams. An increased emphasis in the development of online
+STEM courses and STEM degree programs at HBCUs is
+needed to provide African American students more options
+to pursue degrees in science and engineering. This article
+presents data from the NCES and other sources that supports
+the assertion that an extremely low percentage of HBCUs
+offer online degrees (Figure 1), that African American
+STEM majors enroll in far less online courses when com-
+pared with non-STEM majors (Table 1), and that African
+American students have fallen behind White students in the
+area of online course matriculation (Figure 3).
+Due to the dearth of research literature in this area, this
+article advocates the infusion of quality research studies
+designed to encourage the development and implementa-
+tion of online courses and degree programs at HBCUs. In
+addition, there are a limited number of research articles that
+explore HBCU students' learning styles, educational out-
+comes, and experiences in STEM online courses. It is envi-
+sioned that future quantitative and qualitative research
+findings will facilitate original research, theories, policies,
+and practices designed to improve minority participation in
+the online experience and may subsequently induce gains
+in minority and women access in STEM fields to address
+science and engineering workforce diversity problems.
+Future Directions
+Employing mixed-methods research designs, educational
+researchers must collect data to highlight potential advantages
+of online learning in STEM. Inevitably, the infusion of rigor-
+ous empirical research studies comparing cognitive and affec-
+tive outcomes in traditional versus fully online STEM courses
+must be performed to address the shortage of educational lit-
+erature on this topic (Phipps & Merisotis, 1999). To address
+the scarcity of research devoted to distance education and
+HBCUs, the corresponding author is near completion of a
+study titled "Examining the Impact of Online Distance
+Education on Student Learning and Student Engagement in
+STEM Disciplines at Historically Black Colleges and
+Universities." The study was designed to collect quantitative
+and qualitative data from HBCU students enrolled in online
+STEM courses. A quantitative survey was distributed to a
+sample of HBCU undergraduate students enrolled in online
+distance education courses in the STEM disciplines and to
+undergraduate students enrolled in traditional STEM courses.
+The qualitative component of the study was designed to
+examine similarities and differences in educational outcomes
+between HBCU undergraduate students enrolled in online and
+traditional STEM courses. The research findings of the afore-
+mentioned research project will provide beneficial informa-
+tion regarding the extent to which online courses in the STEM
+disciplines enhance student learning and student engagement.
+Moreover, the data from the educational research project will
+be used to facilitate the development of student-centered
+pedagogical strategies that enhance online learning experi-
+ences that complement students' learning styles and provide a
+fundamental knowledge of the subject matter. The reliable
+research design employed in the study will serve as a research
+model that can be replicated to investigate factors that explore
+educational strategies to improve online and traditional
+courses in STEM disciplines at HBCUs and other academic
+institutions. Active dissemination of empirical research stud-
+ies examining online teaching and learning strategies will
+better educate HBCU faculty and administrators regarding the
+financial, pedagogical, and cognitive advantages of online
+courses and degree programs in STEM.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+Funding
+The author(s) received the following financial support for the
+research and/or authorship of this article:
+This work was supported by a grant funded by the National
+Science Foundation (HRD-0811728).
+References
+Allen, I., & Seaman, J. (2007). Online nation: Five years of growth
+online. Needham, MA: Sloan Consortium.
+Allen, I., & Seaman, J. (2010). Class differences: Online education
+in the United States. Newburyport, MA: Sloan.
+Beasley, R. (2010). HBCU distance learning 2010. Howard Uni-
+versity's Digital Learning Lab (DLL). Retrieved from http://
+www.dll.org/hbcus/DistanceLearning_Nov2010/HBCU-
+Distance-Learning-2010-Final-21Nov10.pdf
+Bernard, R., Abrami, P., Lou, Y., Borokhovski, E., Wade, A.,
+Wozney, L., & . . .Huang, B. (2004). How does distance
+education compare with classroom instruction? A meta-analysis
+of the empirical literature. Review of Educational Research, 74,
+379-439.
+Chen, P., Lambert, A., & Guidry, K. (2010). Engaging online
+learners: The impact of web-based learning technology on
+college student engagement. Computers & Education, 54,
+1222-1232.
+Cominole, M., Riccobono, J., Siegel, P., & Caves, L. (2010). 2007-
+08 National Postsecondary Student Aid Study (NPSAS:08) full-
+scale methodology report (NCES 2011-188). Washington, DC:
+U.S. Department of Education.
+Flowers et al. 5
+Dell, C., Low, C., & Wilker, J. (2010). Comparing student achieve-
+ment in online and face-to-face class formats. Journal of Online
+Learning and Teaching, 6, 30-42.
+Greenberg, G. (1998). Distance education technologies: Best prac-
+tices for K-12 settings. IEEE Technology and Society Maga-
+zine, 17, 36-40.
+Jeschofnig, P., & Spencer, C. (2008). Success in online vs. on-campus
+lab science courses. Presented at the 14th Annual Sloan-C Con-
+ference, Orlando, FL.
+Lovell, K., & Vignare, K. (2009). MSU medical colleges blended
+learning for first year science courses: Uniting pedagogy to
+maximize experience and real world limitations. Journal of
+Asynchronous Learning Networks, 13, 55-63.
+Miller, M., & Husmann, D. (1999). Student perceptions of improv-
+ing success in courses offered through distance education.
+Planning and Changing, 25, 107-116.
+Moore, B. (2008). Distance education: The readiness of the
+nation's historically Black colleges and universities. Available
+from ProQuest Dissertations and Theses database. (ProQuest
+Document ID: 1583960621)
+Museus, S., Palmer, R., Davis, R., & Maramba, D. (2011). Special
+issue: Racial and ethnic minority students' success in STEM
+education. ASHE Higher Education Report, 36, 1-140.
+National Science Foundation, Division of Science Resources Sta-
+tistics. (2011). Women, minorities, and persons with disabilities
+in science and engineering: 2011 (Special Report NSF 11-309).
+Arlington, VA. Retrieved from http://www.nsf.gov/statistics/
+wmpd/
+Parsad, B., & Lewis, L. (2008). Distance education at degree-
+granting postsecondary institutions: 2006-07 (NCES 2009-
+044). Washington, DC: U.S. Department of Education.
+Phipps, R., & Merisotis, J. (1999). What's the difference? A review
+of contemporary research on the effectiveness of distance
+learning in higher education. A Report from The Institute for
+Higher Education Policy. Retrieved from http://www.ihep.org/
+assets/files/publications/s-z/WhatDifference.pdf
+Poley, J. (2008). Asynchronous learning networks: Policy implica-
+tions for minority serving institutions and for leaders addressing
+needs of minority learners. Journal of Asynchronous Learning
+Networks, 12, 73-82.
+Smith, R. (2011). HBCUs must embrace online education. Diverse
+Issues in Higher Education, 28, 25.
+Stuckey-Mickell, T., & Stuckey-Danner, B. (2007). Virtual labs
+in the online biology course: Student perceptions of effective-
+ness and usability. Journal of Online Learning and Teaching,
+3, 105-110. Retrieved from http://jolt.merlot.org/vol3no2/
+stuckey.pdf
+Summers, J., Waigandt, A., & Whittaker, T. (2005). A comparison
+of student achievement and satisfaction in an online versus a
+traditional face-to-face statistics class. Innovative Higher Edu-
+cation, 29, 233-250.
+Waits, T., & Lewis, L. (2003). Distance education at degree-grant-
+ing postsecondary institutions: 2000-2001 (NCES 2003-017).
+Washington, DC: U.S. Department of Education, National Cen-
+ter for Education Statistics.
+Warren, L., & Holloman, H. (2005). On-line instruction: Are the
+outcomes the same? Journal of Instructional Psychology, 32,
+148-151.
+Weber, J., & Lennon, R. (2007). Multi-course comparison of tra-
+ditional versus web-based course delivery systems. Journal of
+Educators Online, 4, 1-19.
+Wolf, T. (2010). Assessing student learning in a virtual laboratory
+environment. IEEE Transactions on Education, 53, 216-222.
+Bios
+Lawrence O. Flowers is an Assistant Professor of Microbiology at
+Fayetteville State University.
+Erin N. White is an Assistant Professor of Biology at Fayetteville
+State University.
+James E. Raynor, Jr. is an Associate Professor of Cellular and
+Molecular Biology at Fayetteville State University.
+Sambit Bhattacharya is an Assistant Professor in Computer
+Science at Fayetteville State University
+

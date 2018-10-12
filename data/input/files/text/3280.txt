@@ -1,0 +1,1329 @@
+Original Article
+An Evolutionary Perspective on Mate
+Rejection
+Ashleigh J. Kelly1, Shelli L. Dubbs1, and Fiona Kate Barlow1
+Abstract
+We argue that mate rejection and ex-partner relationships are important, multifaceted topics that have been underresearched in
+social and evolutionary psychology. Mate rejection and relationship dissolution are ubiquitous and form integral parts of the
+human experience. Both also carry with them potential risks and benefits to our fitness and survival. Hence, we expect that mate
+rejection would have given rise to evolved behavioral and psychological adaptations. Herein, we outline some of the many
+unanswered questions in evolutionary psychology on these topics, at each step presenting novel hypotheses about how men and
+women should behave when rejecting a mate or potential mate or in response to rejection. We intend these hypotheses and
+suggestions for future research to be used as a basis for enriching our understanding of human mating from an evolutionary
+perspective.
+Keywords
+mating, rejection, relationship dissolution, mate choice, selection, relationships, violence
+Date received: March 14, 2016; Accepted: October 13, 2016
+Rejection is a ubiquitous, necessary component of sexual selec-
+tion, and the study of human behavior is incomplete without
+considering it. Even though a fair portion of our potential
+reproductive success (i.e., number of offspring) is likely to be
+contingent on selecting the most evolutionarily advantageous
+partner (Symons, 1980), rejecting an unsuitable mate is also
+vital in determining whether and/or how our genes are passed
+on (Darwin, 1872; see also Darwin & Wallace, 1858). Rejec-
+tion, however, is not just the inverse of selection. Just as a
+negative emotion isn't merely the absence of a positive one
+(for discussion, see Pawelski, 2013), rejection is not a passive
+process that occurs only in the context of selecting the best
+partner while leaving behind less attractive suitors. People are
+rejected even in the absence of a more viable option, and part-
+ners who were previously selected are discarded. Human mat-
+ing may even be considered along a continuum beginning at
+active rejection (blocking mating attempts), progressing into
+indifferent rejection (e.g., failing to select a mate), then mate
+selection (choosing and gaining a viable partner), and finally
+mate retention (keeping that partner).
+The Pain and Ubiquity of Rejection and Ex-Partners
+It's easy to cry when you realize that everyone you love will
+reject you or die. (Palahniuk, 1996, p. 17)
+In general, rejection hurts. While questioning those who had
+been romantic rejecters and romantically rejected, Perilloux
+and Buss (2008) reported that mate rejection could result in
+depression, fear, reputational damage, and loss of self-esteem
+(among other negative consequences). In line with other scho-
+lars, we assert that negative affect in response to rejection is
+adaptive (e.g., Baumeister & Leary, 1995; Perilloux & Buss,
+2008). Both social and romantic rejection are potentially costly
+and dangerous and may manifest painfully to discourage beha-
+viors that lead to rejection, prompt conciliatory behaviors, and
+minimize the chance of rejection recurring (as argued by Eisen-
+berger & Lieberman, 2004). In the context of heterosexual
+romantic rejection, people who (a) reject others appropriately
+without provoking dangerous responses, (b) avoid rejection
+themselves, and (c) respond positively to rejection, are likely
+to be the ones who survived and passed on their genes. Those
+who failed in any of these three areas risked social isolation
+and/or missing out on reproduction entirely (Penke, Todd,
+1 School of Psychology, The University of Queensland, St Lucia, Brisbane,
+Queensland, Australia
+Corresponding Author:
+Ashleigh J. Kelly, School of Psychology, The University of Queensland, St Lucia,
+Brisbane, Queensland 4072, Australia.
+Email: email@ashleighkelly.com
+Evolutionary Psychology
+October-December 2016: 1­13
+ª The Author(s) 2016
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/1474704916678626
+journals.sagepub.com/home/evp
+Creative Commons CC-BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 3.0 License
+(http://www.creativecommons.org/licenses/by-nc/3.0/) which permits non-commercial use, reproduction and distribution of the work without further
+permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+Lenton, & Fasolo, 2008), the splitting of resources and the
+dissolution of other social relationships, and even physical
+harm or death. Consequently, we argue that whom you reject
+is just as important as whom you select in terms of how (and
+whether) your genes are passed on to future generations.
+Accordingly, if heterosexual mate rejection has had a large
+impact on individuals' fitness over our evolutionary history,
+then rejection itself should be a pervasive occurrence both
+within and across cultures (as discussed by Perilloux & Buss,
+2008).
+The literature supports this. Rhoades, Kamp Dush,
+Atkins, Stanley, and Markman (2011) revealed that among
+unmarried 18- to 35-year-old Americans, approximately
+36% had at least one breakup with a romantic partner over
+a 20-month period. In addition, once a relationship is estab-
+lished, there is no guarantee that it will last. Even marriage,
+which is idealized to be a lifelong commitment, is not par-
+ticularly binding, and many people experience multiple
+divorces over their lifetime (Australian Bureau of Statistics,
+2014). The United Kingdom Office for National Statistics
+(2013) asserts that 34% of marriages in England and Wales
+will end in divorce by their 20th wedding anniversary. For
+marriages that occurred in the United States in the 1970s,
+``48 percent had dissolved within 25 years'' (Stevenson &
+Wolfers, 2007, p. 4). Although each cohort is different, and
+rates were lower for those who entered their first marriages
+in the 1980s (approximately 40% relationship dissolution by
+around 20 years of marriage) and 1990s (approximately 23­
+24% dissolution by around 10 years of marriage; Stevenson
+& Wolfers, 2007), relationship dissolution is still a regular
+occurrence for those who vowed to spend their lives
+together. Note that in many cases, these relationship disso-
+lutions were probably the result of one mate rejecting the
+other as opposed to a mutual arrangement (for support, see
+the U.S. National Center for Health Statistics, 1973).
+When examining rejection cross-culturally, it is clear that it
+is not just a recent, Western, or geographically specific phe-
+nomenon. Even in arranged marriages (both current and histor-
+ical), parents have the ability to accept or reject mates on behalf
+of their children (Apostolou, 2007, 2010). In many traditional
+societies, those entering arranged marriages often have some
+say in the choice of partner (with varying weight given to their
+consent of the marriage; Apostolou, 2010). They may also have
+an opportunity to meet and talk in a chaperoned manner and
+either reject or accept one another. For most of our history as a
+species, humans would have lived as hunter-gatherers in small
+community groups (Hill et al., 2011; Dyble et al., 2015).
+Within these groups, mate rejection is likely to have been
+commonplace based on data from modern nonindustrialized
+analogies. As noted by Pearsall (1947), women living in East
+African tribes (e.g., Akikuyu, Akamba, and Wagiriama) have
+the right to accept or reject potential suitors. According to
+Marlowe (2004), among the Hadza of Tanzania, both sexes
+are free to choose their own spouses, and before a woman's
+first marriage, it is not unusual for her to be courted by
+more than one man. In addition, for the Hazda, only about
+20% of people remaining married to their first spouse their
+whole life, making divorce the norm rather than the exception
+(Marlowe, 2004).
+Consistent with the argument that rejection is an evolution-
+ary influenced and influencing factor, historically and cross-
+culturally, common causes of divorce seem to be related to
+reproductive concerns (i.e., infidelity and sterility; Betzig,
+1989). To add to this, South and Lloyd (1995) found that
+divorce in the United States was most likely when partners
+perceived an abundance of mating opportunities. However,
+despite the clear ubiquity of romantic rejection (both immedi-
+ate rejection and after long-term couplings, i.e., relationship
+dissolution), it has been underresearched in the field of evolu-
+tionary psychology at least in comparison to mate selection.
+Below and throughout, we review some of the existing
+research.
+In a pivotal study, Perilloux and Buss (2008) tested a series
+of evolutionary hypotheses relating to mate rejection and
+investigated breakup coping strategies. They found, for exam-
+ple, that being the rejected party is more functionally costly
+than being the rejecter, that women are more likely than men
+to report experiencing ``costly'' stalking by their ex-partners,
+and that rejecters experienced social costs such as being per-
+ceived as mean. In addition to this research, several groups
+have focused on the predictors of friendship after relationship
+dissolution (e.g., Bullock, Hackathorn, Clark, & Mattingly,
+2011; Metts, Cupach, & Bejlovec, 1989; Tan, Agnew, Van-
+derdrift, & Harvey, 2014). Most recently, Mogilski and Well-
+ing (in press) examined the reasons people provided for
+retaining friendships with ex-partners. In doing so, these
+researchers provide a detailed summary of the existing
+research on postrelationship friendship, and we discuss some
+of their empirical findings below. Several research groups
+also briefly discuss the existing mate rejection literature
+(e.g., Miner & Shackelford, 2010; Olderbak & Figueredo,
+2010). These discussions and empirical findings complement
+and inform our current theoretical proposals, yet to date, there
+has been no synthesized theoretical review from an evolution-
+ary perspective that discusses the precursors of mate rejection,
+the ways by which we go about it and how the rejection is
+received by both parties.
+We argue that evolutionary psychology should turn more
+attention to mate rejection, approaching it from many dif-
+ferent angles. Although limited by the desire for brevity,
+we first suggest approaches to examine the survival threats
+one is exposed to during heterosexual romantic rejection
+and how we might adaptively mitigate these risks. We
+also discuss rejection in terms of mate value factors
+(including physical attractiveness, fertility, age, resources,
+dominance, and infidelity), as well as contextual factors
+(mate poaching, operational sex ratio and availability of
+alternatives, and social influence). We suggest that these
+factors all play a part in shaping human methods for mate
+rejection and reactions to it, and throughout, we provide
+hypotheses and suggestions intended to further the research
+in these areas.
+2 Evolutionary Psychology
+How Do We Best Reject People?
+Above, we highlighted that rejection can be followed by social
+ostracism, stalking, and other negative outcomes. We sug-
+gested that those who have rejected mates, and survived to pass
+on their genes, might be those who are particularly effective at
+rejecting people while avoiding or reducing associated costs.
+This begs the question: What rejection strategies work ``best''?
+The strategies people use to reject each other are rich grounds
+for potential research, however, like rejection itself, are under-
+researched within the human mating literature. In fact, we have
+not found a great deal of empirical work explicitly looking at
+what rejection strategies are most successful within the mating
+domain (see Duntley & Shackelford, 2012, for some related
+theoretical proposals). However, several strategies have previ-
+ously been identified and associated with better outcomes when
+compared with other rejection methods. The work of Banks,
+Altendorf, Greene, and Cody (1987), as well as Baxter (1979,
+1982; see also Cody, 1982), suggests that using direct (sincere
+justifications) or honest strategies (including expressing the
+desire to de-escalate the relationship) may be more effective
+(in terms of adjustment, social consequences, aggression, and
+retaining closeness) than strategies such as positive tone,
+avoidance, or manipulation. A direct rejection strategy might
+involve telling a partner the real reasons relationship termina-
+tion is desired, rather than pretending to be too busy to see
+them (an avoidant strategy), or trying to make them feel better
+without honestly stating the true reasons for the rejection (a
+positive strategy).
+However, this literature is sparse, unclear, and dated, so
+although throughout we suggest that using direct or honest
+strategies may be the most successful for self-protection, we
+acknowledge that this may not be the case. In fact, this area
+represents our first specific call for new research on how best to
+reject potential or established partners. For future researchers,
+we propose that simple reflective interview studies may be
+useful here. In addition, a straightforward vignette study where
+people respond to different rejection strategies may be of use.
+In order to provide testable hypotheses in the present article,
+however, we assume herein that direct and honest strategies are
+adaptive (in line with Banks, Altendorf, Greene, & Cody, 1987;
+Baxter, 1979, 1982; Cody, 1982). If adaptive, these strategies
+might have evolved because on average, those people who
+were honest and straightforward with their partners might have
+elicited less violence and aggression during rejection than those
+who used other strategies. By avoiding violence at this volatile
+time, successful strategy choosers are more likely to have lived
+and passed on this behavioral tendency.
+Evolutionary Hypotheses Concerning Mate
+Rejection
+In the following sections, we draw on the basic tenets of evolu-
+tionary theory to present predictions about mate rejection. We
+discuss these in terms of (a) survival factors, (b) mate value
+factors, and (c) contextual factors.
+Survival Factors
+Romantically rejecting someone, or being rejected, can be a
+hazardous experience. For both men and women, the pro-
+cess of romantic rejection is linked to verbal abuse (Kelly,
+Dubbs, & Barlow, 2015), financial abuse (Romans, Forte,
+Cohen, Du Mont, & Hyman, 2007), sexual abuse (Black
+et al., 2011), physical abuse (Rennison & Welchans,
+2002), and homicide (Glass, Laughon, Rutto, Bevacqua, &
+Campbell, 2008; Hagelstam & Ha
+¨kka
+¨nen, 2006). These
+threats clearly pose a risk to one's survival and ability to
+produce or rear successful offspring, and are crucially
+important to avoid and mitigate. As such, humans have
+likely evolved methods to reduce the survival threats asso-
+ciated with mate rejection (Perilloux & Buss, 2008).
+It seems likely that signs of aggression, jealousy, or posses-
+siveness in the initial or prestages of a relationship may lead to
+an increased likelihood of rejection, as these acts may indicate
+an elevated risk of abusive behavior later. However, we also
+suggest a caveat. It is clear from violence and stalking research
+that men present a greater danger to women than women do to
+men. Statistically, women are more likely than men to be the
+targets of sexual, physical, and financial abuse, as well as homi-
+cide in heterosexual relationships (Black et al., 2011; Glass
+et al., 2008; Hagelstam & Ha
+¨kka
+¨nen, 2006; Naved, 2013;
+Rennison & Welchans, 2002; Romans et al., 2007; relatedly,
+see Wilson & Daly, 1993). Therefore, women (in comparison to
+men) should be more adaptively attuned to aggression and jea-
+lousy in the initial stages of dating (e.g., noticing possessive-
+ness and anger, vengeful tendencies, and bitterness toward ex-
+partners). This should mean that women will be more likely
+than men to reject suitors who display these traits in the early
+stages of dating (a protective evolutionary response, similar to
+those suggested by Duntley & Buss, 2012; Smuts, 1992).
+The hypotheses presented above are simple; however, evo-
+lution--and humans--are not. As will be seen throughout, and
+specifically when it comes to aggression, simple hypotheses
+have to be tempered. Here, we encounter competing concerns.
+As we discuss within ``mate value factors'' (below), the trait of
+dominance appears to be valued in men (Sadalla, Kenrick, &
+Vershure, 1987; perhaps bestowing advantages such as greater
+resource acquisition potential or physical protection, see Buss
+& Schmitt, 1993). Aggression, of course, is closely tied to
+dominance (and indeed dominance and status seeking may be
+precursors to aggression; Bernhardt, 1997). To a certain extent,
+then, dominance and possessiveness may increase the likeli-
+hood of rejection in some circumstances (as detailed above)
+and decrease the likelihood of rejection in others. We speculate
+that minor indicators of dominance and aggression may reduce
+rejection initially, but a tipping point may be reached where
+displays of these traits become frightening. The same applies
+for pursuit and stalking. Where these tipping points lie should
+be empirically determined through research. As a brief research
+example, one might manipulate the levels of aggression (and
+dominance) displayed by confederate males within video inter-
+views and have women opt to either ``meet'' or ``reject'' these
+Kelly et al. 3
+men. The reverse could also be performed to see where the
+tipping points lie in men.
+Pursuit and stalking after the termination of a relationship
+are common occurrences (Bjorklund, Hakkanen-Nyholm,
+Sheridan, & Roberts, 2010; Cupach & Spitzberg, 1998; Dutton
+& Winstead, 2010). As an example, 48.5% of Finnish Univer-
+sity students in a 2010 study reported having been stalked, and
+25% of those stalkers were reportedly ex-partners (Bjorklund
+et al., 2010). As detailed earlier, women are significantly more
+likely to be the targets of stalking than men (Purcell, Path´
+e, &
+Mullen, 2002; Sheridan, Davies, & Boon, 2001; Tjaden &
+Thoennes, 2000). Stalking can pose particular risks to fitness,
+including reducing the victim's chances of establishing new
+relationships (Buss & Duntley, 2011). It can also indirectly
+affect fitness through the stalker's deliberate exposures of the
+stalked party's personal information, or by causing reputational
+damage within social circles (as discussed in Kelly et al., 2015;
+Perilloux & Buss, 2008).
+Hence, beyond displaying interest for a prospective partner
+or providing reasonable attention to progress a relationship, we
+expect that excessive pursuit or romantic interest displayed
+during the formation stages of a relationship will increase the
+likelihood of rejection. Here, excessive pursuit may entail lev-
+els of contact beyond what is reasonably culturally expected
+(relating to the frequency or type of contact), or violation of the
+established dating norms (such as attempting to progress the
+relationship too quickly or beyond its expected boundaries,
+with acts of overfamiliarity or overcommitment). Again,
+women should engage in rejection for these reasons (i.e., aty-
+pical, forceful, persistent, or frequent romantic pursuit) more
+frequently than men.
+Persistence and stalking behaviors displayed after a rejec-
+tion may affect behavior differently. As suggested by Duntley
+and Buss (2012), stalking or unwanted pursuit behaviors may
+be in part, or on balance, adaptive strategies, present within the
+current population because on average they were successful
+ways of gaining, retaining, or regaining partners over our evo-
+lutionary history. Indeed, Mogilski & Welling (in press) found
+that people frequently reported they had pursued friendship
+with ex-partners because of ``continued romantic attraction,''
+a construct which included notions such as ``I wanted to pre-
+vent them from getting together with a new romantic interest''
+(p. 3). Extending these points to the current discussion, post-
+breakup relationships should be more likely if one ex-partner
+persistently pursues the other (compared with couples who
+make a clean break or engage in mild pursuit). We expect the
+same if one ex-partner makes it difficult for the other to find an
+alternate mate (e.g., due to reputational damage, stalking,
+threats of harm or self-harm, or sabotaging their other dates).
+This is not to be confused with the rejection-increasing
+effects of pursuit behaviors we predicted above when relation-
+ships are just being formed (where women are expected to be
+repelled in order to avoid commencing a relationship with a
+potentially dangerous man, a hypothesis that may extend to
+some men too). We suggest that the history and previous inti-
+macy make stalking strategies postrelationship more likely to
+be successful than stalking strategies or persistence strategies
+before any relationship is formed.
+In addition to affecting people's reasons and propensity for
+mate rejection, we similarly expect survival threats to affect
+people's methods of undertaking mate rejection. Given safety
+concerns, we expect women to use strategies aimed at positive
+postrejection reactions from their partner, more so than men. In
+line with the existing literature on intimate rejection, one might
+then expect women to use more direct, honest strategies when
+rejecting someone than men do, openly expressing the desire to
+breakup. However, it is possible that to enhance self-protection
+and minimize violence, women might use more offers of
+friendship and comfort than men as well as placating and de-
+escalation strategies. Indeed, when discussing potential adapta-
+tions to avoid victimization, Duntley and Shackelford (2012, p.
+63) stated, ``Humans . . . may possess adaptations designed to
+attempt to reason with an attacker, describing the possible costs
+of the person's violent behavior or suggesting other resolutions
+to the conflict.'' In the case of severe physical risk, it is also
+possible that avoidant-withdrawal strategies will be most effec-
+tive, where women abandon the relationship without directly
+telling their partner, thereby avoiding the risk of violence alto-
+gether (as discussed by Duntley & Shackelford, 2012). Of
+course, similar hypotheses can be put forward for men rejecting
+women; however, at a mean level, safety concerns might be
+less salient than reputational concerns.
+Understanding which strategies reduce rejection fall out best
+could be fruitful not only for evolutionary psychology but also
+intimate partner violence research. Supporting the idea that
+women might use avoidant-withdrawal strategies to avoid
+harm, abused women have reported using this strategy, likely
+out of fear that their partners might hurt or kill them, their
+children, or pets if they knew that they were leaving (Hamby
+& Bible, 2009; Jacobson & Gottman, 1998). However, in the
+small-scale societies of our ancestral past, complete avoidance
+may not have been possible. That is, individuals may have been
+forced to live around ex-partners who had threatened or abused
+them. Hence, we may see that women using avoidant-
+withdrawal rejection strategies are quicker to secure new part-
+ners than women who do not use these strategies, as gaining a
+new partner is likely to provide some protection from ex-
+partners (for discussion of the benefits of male partners, see
+Buss & Duntley, 2011).
+Women should also be more likely than men to seek other
+forms of social support to reduce the risks of ending relation-
+ships (typically with family, but also with friends). By sur-
+rounding herself with kin or friends, a woman may receive
+physical protection (discussed in Smuts, 1992) and possibly
+reputational protection. In support of this notion, a review by
+Hamby and Bible (2009) concluded that seeking social support
+was the most common self-protection strategy reported by bat-
+tered women across a variety of self-report studies. Further-
+more, women who do not live near close kin, such as those in
+patrilocal societies (where women leave their home or town to
+live with their husband's family), are at greater risk of abuse
+than women who stay near their kin (Warner, Lee, & Lee,
+4 Evolutionary Psychology
+1986; discussed in Smuts, 1992). We expect this social support
+to be critical if the man being rejected is physically threatening
+(e.g., dominant, masculine, aggressive, easily angered, posses-
+sive, or jealous). We do not expect the same to be true for men
+with female ex-partners who are jealous, possessive, or aggres-
+sive, or at least this pattern should be seen to a lesser degree
+than in women.
+Dependency represents a further legitimate threat to sur-
+vival. The extent to which an individual is dependent on their
+romantic partner to meet their physical needs (e.g., shelter,
+resources, and sexual intimacy) is expected to significantly
+affect rejection. For example, it appears obvious that rejection
+by an actual mate is typically more costly than rejection by a
+potential mate. Relationships often entail high levels of invest-
+ment, and the lives of the individuals often become intertwined
+(e.g., sharing social circles, resources, and intimate informa-
+tion). We predict that individuals rejected by potential mates
+will cope better mentally than those rejected by actual mates.
+Presuming that the pain of rejection exists to prompt efforts at
+repair, or reconciliation (e.g., Baumeister & Leary, 1995; Peri-
+lloux & Buss, 2008), the increased pain in response to the
+termination of an established relationship itself should be adap-
+tive (if unpleasant).
+Continuing to examine coping, repeated rejections should
+negatively impact coping more than one-off rejections. Being
+frequently rejected by mates puts one at risk of being excluded
+from mating altogether (Penke et al., 2008), which is clearly
+costly. This, however, raises an interesting question: Is it ``bet-
+ter to have loved and lost than never to have loved at all''?
+(Tennyson, 1850, p. 44). We expect that repeated rejection by
+potential mates would be the most costly from an evolutionary
+perspective (never having the ability to reproduce or ``love'' at
+all). Being subject to repeated rejection by actual partners (or
+one specific partner) may be costly in terms of health and
+psychology, but we expect it to be less threatening to reproduc-
+tion and offspring survival than repeated rejection by potential
+mates. Further, those who had the capacity to be rejected mul-
+tiple times, and persist, might have been more likely to survive
+and pass on their genes (compared with those who let rejection
+defeat them and avoided future mating attempts). This may be
+particularly the case for men, as women are typically the choo-
+sier gender (Trivers, 1972).
+Dependency on one's partner for resources should also
+influence the extent to which people reject and how they react
+to rejection. Increased dependency should make a person less
+likely to reject a partner, and if they do, more likely to attempt
+to maintain a relationship or friendship postrejection to protect
+or retain access to resources. In the same manner, attachment,
+previous investment in the relationship, and the presence of
+children are all clearly variables worthy of further exploration
+(see Betzig, 1989). For example, ex-partners may attempt to
+reignite their relationship if the fitness costs of ending it were
+too high (e.g., parents with children might get back together
+due to the benefits it could bestow upon the children's sur-
+vival). In support of this possibility, Mogilski and Welling
+(in press) reported that people listed children or pregnancies
+as reasons to remain friends postdissolution, which in some
+cases is perhaps an intermediary step to reconciliation and
+reigniting the relationship.
+Discussing survival factors has allowed us to propose some
+key theories. We have reasoned that physical threats may be
+more important considerations for women as opposed to men in
+mate rejection contexts. For men, the desire to obtain access to
+multiple mates may make them more resilient to repeated mate
+rejection than women. We also noted that stalking strategies
+may have differing costs and benefits based on their timing
+(whether before or after a romantic relationship) and that mate
+rejection can legitimately threaten survival if high levels of
+dependency are present. We now move on to considering mate
+rejection through the lens of mate value factors and how these
+may influence fitness.
+Mate Value Factors
+As Symons (1980) put it, ``Nowhere are people equally sexu-
+ally attracted to all members of the other sex . . . .'' (pp. 177­
+178). Individuals vary in the degree to which they possess traits
+that are desirable to members of the other sex as well as the
+number of desirable traits they possess. An individual who is
+intelligent, kind, physically attractive, and of high social status
+will be desired by many, and someone who does not possess
+these traits will appeal to relatively fewer potential mates (e.g.,
+Buss & Barnes, 1986; Buss et al., 1990; Buunk, Dijkstra, Fetch-
+enhauer, & Kenrick, 2002). Individuals in the first instance are
+said to be high in mate value, while those in the second are
+lower in mate value.
+Physical attractiveness plays a particularly strong role in
+determining one's mate value (Buss, 2007; Gangestad,
+Garver-Apgar, Simpson, & Cousins, 2007; Gangestad & Simp-
+son, 2000; Thornhill & Gangestad, 1994; Walster, Aronson, &
+Abrahams, 1966). As such, physical attractiveness can deter-
+mine one's reproductive success, in part through increased
+marriage probability (Jokela, 2009). In terms of nonphysical
+traits, intelligence and kindness are consistently rated as impor-
+tant by both sexes and often ranked as the most important traits
+in a mate overall (Buss, 2007). Similarly, both sexes consider a
+sense of humor (Bressler, Martin, & Balshine, 2006) and crea-
+tive ability to be desirable (for discussion, see Miller, 2000).
+The current literature on the topic would suggest that, in
+general, both men and women who are high in mate value are
+likely to be frequently approached by potential mates and
+therefore less likely to be rejected and more likely to reject
+potential and actual mates themselves (due to an abundance
+of mating options). Although many predictions can be made
+on these topics, we will focus only on those that can provide
+novel insights, rather than those that provide simple and direct
+extensions (or corollaries) of the mate selection literature.
+For example, it has been suggested that individuals form
+perceptions of their own mate value based on feedback from
+others (Buss, 2000). Accordingly, if someone has been fre-
+quently rejected (as either a potential or an actual mate), they
+will recalibrate their perception of their mate value (downward,
+Kelly et al. 5
+in this instance; Perilloux & Buss, 2008). Hence, we predict
+that they will become less likely to reject potential and actual
+partners in a bid to find someone willing to partner or copulate
+with them. Additionally, the larger the discrepancy in mate
+value between partners, the more unstable the relationship
+ought to be (compared to relationships of more equal mate
+value; McNulty, Neff, & Karney, 2008). The person of higher
+mate value should be more likely to end the relationship than
+the person of lower mate value, and this should be exacerbated
+if there are several alternative or higher quality mates available.
+When dealing with long-term relationships, mate rejection
+should also become much more likely when one partner's mate
+value either increases (e.g., through wealth acquisition,
+improving their appearance) or decreases (e.g., through
+resource loss in men or aging in women; Buss, 1994).
+Female determinants of mate value. It is also important to con-
+sider that there are gender differences in the determinants of
+mate value. Physical attractiveness is an important indicator of
+women's mate value (Buss, 1989; Sprecher, Sullivan, & Hat-
+field, 1994; Townsend & Levy, 1990) and is based on external
+markers of youthfulness and fertility (high estrogen; e.g.,
+Symons, 1979). As a woman gets older, her physical ability
+to reproduce declines with a sharp drop-off in the late 30s until
+ovulation ceases at around age 50 (Dunson, Colombo, & Baird,
+2002). Predictably then, female age is negatively related to
+perceptions of physical attractiveness and desirability, with
+men more likely to prefer, and to marry, mates who are younger
+than themselves (Baize & Schroeder, 1995; Buss, 1989; Ken-
+rick & Keefe, 1992).
+Indicators of high mate value for women often include
+wrinkle-free even-toned skin, full lips, large eyes, and a low
+waist-to-hip ratio (Singh, 1993; Wheatley et al., 2014). Posses-
+sing these traits should make women more likely to engage in
+rejection and lacking them should make them reject less.
+Furthermore, since youthful women are in high demand, we
+predict that younger women should reject mates more fre-
+quently than older women.
+Indeed, women should be more likely to be rejected, as their
+age increases. However, it is important to note that there is a
+lot of variability in how aging will affect a woman's fertility and
+appearance. That is, to an extent, some women may become
+more physically attractive or fertile as they age (e.g., due to indi-
+vidual differences in fertility, growing out of factors that detract
+from appearance such as acne or eczema, etc.), while some may
+experience a large decline in attractiveness or fertility. Factors
+that affect ``apparent'' age and youthful looks are likely to affect
+rejectionindirectly. However, itshould be noted thatthisfocus on
+appearance is not limited to women. A recent meta-analysis of
+speed-dating studies revealed that attractiveness and wealth pre-
+dicted the romantic evaluations of both men and women
+(although wealth to a lesser extent for both sexes; Eastwick,
+Luchies, Finkel, & Hunt, 2014). These findings also suggest that
+in addition to physical attractiveness, high levels of wealth may
+positively affect mate value for women and by extension,
+women's mate rejection, at least when selecting a mate.
+Relatedly, women should be the most fearful of rejection
+during pregnancy and when they have young children, when
+losing a partner and the resources they provide would be the
+most consequential. Furthermore, we expect pregnant women
+and women with young children to be less likely to reject
+established partners compared with nonpregnant women of
+similar age, as well as childless women, and those with older
+children. We can imagine these women falling at the far right
+of the ``human mating continuum'' (proposed at the beginning
+of this article, which ranges from active rejection to mate reten-
+tion), doing their best to retain partners and avoid rejection. Of
+course, this prediction suggests that pregnant women and
+women with young children will engage in more mate retention
+behaviors than younger or childless women, or women with
+older children.
+Male determinants of mate value. While attractiveness is also
+important for men, traits such as dominance, ambition, high
+status, wealth, and physical size--all either directly or indir-
+ectly related to his ability to acquire resources--are also impor-
+tant determinants of mate value (Buss, 1989, 2007; Feingold,
+1992; Sadalla et al., 1987; Sprecher, Sullivan, & Hatfield,
+1994). Exemplifying this, women across 37 cultures consis-
+tently reported liking ambitious and industrious men as well
+as those who had ``good financial prospects'' (Buss, 1989; Buss
+et al., 1990). Possessing these traits should make men more
+likely to engage in rejection and lacking them should make
+them reject less (as they will have an abundance of options).
+As mentioned, however, human mate rejection is fueled by a
+complex, dynamic set of considerations. High levels of dom-
+inance coupled with low levels of kindness in men are not
+typically seen as attractive by women, yet the combination of
+high dominance and high kindness might be (e.g., Miller &
+Todd, 1998; or high dominance directed toward same-sex oth-
+ers but not toward the romantic partner, see Lukaszewski &
+Roney, 2010). However, in line with our point that rejection is
+not just the inverse of mate selection, we expect that in estab-
+lished relationships, a man's dominance will decrease his like-
+lihood of rejection regardless of kindness (or where he directs
+his dominance) due to his partner's potential concerns about
+physical aggression in response to her choice to reject.
+The relationship between age and rejection is less clear for
+men than for women. Like women, men's externally rated
+physical attractiveness declines with age, although not as stee-
+ply as women's (Deutsch, Zalenski, & Clark, 1986). On the one
+hand, since it often takes time for men to accumulate resources,
+rise in social rank, or establish dominance, older men can
+sometimes be of higher mate value than younger men (Baize
+& Schroeder, 1995), whereas on the other hand, younger men
+have a physical advantage (more youthful looks, higher muscle
+mass, etc.). For some men then, age may be associated with the
+increased rejection of women, negating the expected negative
+association between age and propensity for rejection due to
+their own declining physical appearance and abilities (e.g.,
+sagging skin and decreased strength). That is, contrary to
+expectations that older (presumably less physically attractive)
+6 Evolutionary Psychology
+men will reject less, a man may be more likely to reject both
+current and potential partners as he increases in age compared
+to when he was younger, if he possesses wealth or resources
+(i.e., wealth moderates the relationship between age and rejec-
+tion for men).
+However, hypotheses relating to women's physical attrac-
+tiveness should also somewhat extend to men, just to a lesser
+degree than women (and involve male-relevant attractiveness
+markers, including broad shoulders and muscularity). That is,
+physically attractive men should be more likely to reject
+women than unattractive men, but especially so when these
+men have wealth and resources. Additionally, we expect a man
+to be more likely to reject a woman as she increases in age (for
+established relationships), if she is older than him (for potential
+partners; Buss & Schmitt, 1993; Deutsch et al., 1986), or if she
+cannot produce children. On the other hand, we expect a man to
+be more likely to be rejected if his career or earning prospects
+dwindle (e.g., his ability to obtain resources is compromised, if
+he declines in status, or perhaps even if he has failed to increase
+in status). Additionally, both women and men who lose signif-
+icant resources upon relationship dissolution are also expected
+to have worse outcomes than those who support themselves
+independently, although this is expected to be less exaggerated
+for men than for women.
+Rejection strategies and postrejection relations. As mentioned,
+rejection can be followed by anger and aggression, or attempts
+to maintain a friendship. We argue that desiring the option to
+reestablish the relationship will be more likely when rejecting
+someone of high mate value, and therefore friendship should be
+pursued in order to ``leave the door open'' to returning to the
+relationship, to minimize pain, or avoid the chance of an irre-
+parable relationship breakdown. This should be exaggerated if
+the rejecter is of relatively lower mate value than the rejected,
+or if the rejected has increased in mate value. Of course, this
+specifies a rare case where someone rejects a high mate value
+partner--by and large, high mate value partners are not likely
+to face rejection. Specifically (based also on the ``halo'' effect
+of physical attractiveness, e.g., Timmerman & Hewitt, 1980,
+and the proposed moderating effect of honesty and directness,
+see Banks et al., 1987; Baxter, 1982), if they are rejected, we
+expect that people of high mate value will experience more
+direct or honest rejection strategies as well as offers of friend-
+ship and placating strategies (similar to Banks et al., 1987). As
+these are proposed as less destructive breakup strategies than
+other options, they may allow the rejecter to retain some of the
+benefits of the relationship (e.g., friendship, social support,
+access to resources, and physical protection).
+If maintaining a friendship is not possible, then those of low
+mate value who have been rejected may be more likely than
+their high mate value counterparts to stalk their former partner.
+Furthermore, when considering reentering the mating market
+postrejection, individuals should be more likely to take action
+to improve their chances of attracting a different, high-quality
+mate--by increasing their respective mate values (Perilloux &
+Buss, 2008).
+Infidelity. When looking at people's reasons for undertaking
+rejection, the concept of infidelity may be used to extend our
+previous hypotheses regarding mate value. A primary reason
+for rejection within a relationship is infidelity (Betzig, 1989),
+yet we expect that several factors may qualify the extent to
+which infidelity results in rejection. For example, although
+mate rejection should be more likely to occur when infidelity
+occurs compared to when it does not (Betzig, 1989), we predict
+that this effect should be moderated by the cheater's mate
+value, such that a high mate value cheater is less likely to be
+rejected than a low mate value cheater.
+In addition, some forms of infidelity pose a risk to one
+gender more than the other (Shackelford, Buss, & Bennett,
+2002). If a woman engages in sexual infidelity, men are at risk
+of being cuckolded and investing in another man's offspring
+(Buss, 1994; Trivers, 1972). If a man engages in emotional
+infidelity, women are at risk of losing resources to another
+woman. Here, both sexes are fearful of losing their partner's
+resources to another (slightly differentiated by the attributes
+each gender finds relatively attractive in the other), and this
+should clearly affect their respective reasons for rejection (for
+discussion, see Miner & Shackelford, 2010). Additionally, the
+likelihood of rejection resulting from infidelity should be
+reduced if the couple had offspring, if either party is highly
+dependent on the other for survival, or if the options for alter-
+native, high-quality mates are limited.
+Contextual Factors
+In the final section of this theoretical article, we discuss the
+factors surrounding rejection that are likely to influence
+whether it takes place, how it is done, and what it results in.
+We first turn our attention to the case of rejection in the context
+of mate poaching, before moving onto broader factors, such as
+the operational sex ratio.
+Mate poaching. Mate poaching refers to the act of pursuing a
+person who is already involved with someone else (Schmitt &
+Buss, 2001). It is worth noting that mate poaching is inherently
+risky (e.g., mate poachers risk backlash from their target's
+partner), time-consuming, and less likely to yield results than
+pursuing an unattached person. We suggest that partners who
+are successfully mate poached, or who have engaged in infide-
+lity, may be fearful of physical, emotional, or social retaliation
+directed at both themselves and their new partner. They may
+therefore strive to placate their partner during the rejection, for
+example, by using kindness and offers of friendship. This
+should be exaggerated for women in comparison to men, given
+the safety factors outlined earlier.
+Finally, those who have been mate poached (regardless of
+whether the new postpoaching relationship lasted long-term or
+resulted in children) should be less likely to engage in stalking,
+persistence, or pursuit behaviors postrelationship and more
+likely to terminate contact with their ex-partner. We expect
+this because they are likely to have recalibrated their mate
+value upward, perceiving an abundance of mating options (as
+Kelly et al. 7
+during the poaching process, there was competition for them
+between at least two parties).
+Operational sex ratio and availability of alternatives. The opera-
+tional sex ratio is defined as the ratio of reproductively viable
+women to men (e.g., Clutton-Brock, 2007; Emlen, 1976; Emlen
+& Oring, 1977; Kvarnemo & Ahnesjo, 1996). In countries
+where the sex ratio is low (fewer men relative to women), there
+are increased numbers of young women reproducing outside of
+marriage (Barber, 2000) and women are more likely to pursue
+short-term relationships and engage in casual sex (Schmitt,
+2005). Conversely, where the sex ratio is high (more men rela-
+tive to women), men are more likely to pursue long-term mat-
+ing strategies. The hypotheses presented in this section apply
+both across times when the sex ratio is skewed (historically and
+into the future) and between areas where sex ratios differ.
+In terms of general reasons for mate rejection, the availabil-
+ity and quality of alternative mates should be highly predictive
+of whether an individual will choose to break up an existing
+relationship or reject a potential mate. Some past research sup-
+ports this assertion. For example, White and Booth (1991) and
+Udry (1981) report that people who believe they will be able to
+find another spouse easily are more likely to terminate their
+current marriage. In a study by South and Lloyd (1995), per-
+ceived abundance of potential spousal alternatives posed a sig-
+nificant risk for the dissolution of marriages among White
+Americans. Similarly, in an experimental study, men who were
+shown photos of physically attractive women (Playboy and
+Penthouse centerfolds) were less satisfied with their current
+relationship and reported that their partner was less sexually
+attractive compared to men shown images of abstract art (Ken-
+rick & Gutierres, 1989).
+In conditions where the sex ratio is not in one's favor (i.e.,
+low for women or high for men), competition among the over-
+represented gender will intensify. This will increase the risk of
+a person of that gender missing the opportunity to reproduce
+(Kvarnemo & Ahnesjo, 1996). Those in this situation ought to
+be more flexible about whom they accept as mates, that is, less
+likely to reject potential mates and less likely to abandon exist-
+ing partners or dates. Conversely, the underrepresented (and
+thus sought after) gender's standards for an acceptable mate
+should increase, resulting in a greater likelihood that they will
+reject potential mates and existing mates that fall short of their
+current wants or needs (Stockley & Campbell, 2013).
+Where the sex ratio is favorable to one's gender, we predict
+that ex-partners will be less likely to attempt to reignite rela-
+tionships that have dissolved or pursue friendships with ex-
+partners. People in these conditions should also be less likely
+to report retaining their ex-partner as a ``backup'' partner, rela-
+tive to those in unfavorable conditions. Where the sex ratio is
+not favorable to one's gender, we expect those of that gender to
+attempt to use accommodative rejection strategies in the rare
+case that they do reject a partner or potential partner (e.g., use
+more direct or honest rejection strategies and provide offers of
+friendship during rejection; see Metts et al., 1989). This is
+because their mating options are fewer, and completely losing
+access to any one partner (whether desirable or not) could result
+in reduced reproductive success. People should also be more
+persistent and more likely to try to reestablish a relationship or
+friendship with an ex-partner when they perceive fewer mating
+alternatives. The operational sex ratio might also influence
+people's reactions to being rejected. If friendship with an ex-
+partner is not possible, the overrepresented gender should be
+more likely to display jealousy and perpetrate stalking, aggres-
+sion, and violence toward ex-partners.
+The effect of the operational sex ratio on mating behavior
+highlights that differences between populations of humans may
+signify adaptations to the local environment, and that adaptive
+behaviors need not be exhibited universally. As an example,
+differences in pathogen prevalence may lead to differential
+preferences for mates with sexually dimorphic facial features
+between cultures (DeBruine, Jones, Crawford, Welling, & Lit-
+tle, 2010). Evolutionary theory can also be applied to explain
+differing behaviors in environments that are harsh versus stable
+(Lee & Zietsch, 2011). Factors such as disease, pathogen pre-
+valence, and environmental threat should be considered for
+further extensions of mate rejection theory.
+Pathogen load, noncommunicable diseases, or local mortal-
+ity rates may influence mate rejection. We may see, for
+instance, that a partner acquiring new pathogens leads to an
+increased likelihood that they will be rejected (due to contagion
+risk). In other circumstances, potential mates may be wary of
+partnering with an ill person (whether contagious or not).
+Furthermore, current mates may not want to remain partnered
+to someone who has acquired a greater number of pathogens or
+health issues, even if these don't affect their apparent mate
+value (such as appearance, strength, or earnings).
+We might also expect high mortality rates to increase the like-
+lihood of rejection in the context of existing relationships (as seen
+in Schmitt, 2005). High rates of mortality may cue organisms to
+invest in current rather than future reproduction (e.g., Kaplan &
+Gangestad, 2005). That is, they might choose to pursue multiple
+mating partners as opposed to one stable, monogamous relation-
+ship. For males, especially, this may lead to increased mate rejec-
+tion, rejecting partners more frequently in order to quickly obtain
+multiple reproductive opportunities. However, since the benefits
+of mate rejection should depend on the operational sex ratio
+(Kokko & Jennions, 2008), if disease, war, or environmental
+factors are claiming more lives from one gender than the other,
+wemightexpectrelationshipstobemorestableduetothescarcity
+of other potential mating options (but within the bounds of our
+predictions for operational sex ratios, see above).
+Social influence and information. Culture undoubtedly shapes
+human sexuality and will influence mate rejection. In Western
+societies today, people generally begin and end romantic rela-
+tionships autonomously. Westerners typically date several indi-
+viduals before settling into marriage or an equally long-term
+relationship. With reduced social stigma surrounding divorce
+or serial monogamy compared with other cultures, mate rejec-
+tion is common and may occur openly with relatively few
+social repercussions. Conversely, in collectivistic or religious
+8 Evolutionary Psychology
+monogamous societies, mating decisions are not typically
+made autonomously and divorce is likely to be shunned
+(Buunk, Park, & Duncan, 2010). Therefore, an individual's
+ability to reject a mate may be restricted. Specifically, culture
+influences whether individuals can reject a mate (for discus-
+sion, see Buss, 1994), and mate rejection may be easier in
+Westernized societies and more difficult in more traditional
+societies.
+In terms of parents rejecting suitors on behalf of their off-
+spring, many of the hypotheses discussed throughout this arti-
+cle are still likely to apply. However, physical attractiveness
+may be less important to parents than children (as seen in
+Perilloux, Fleischman, & Buss, 2011), thus low physical attrac-
+tiveness may be less likely to elicit rejection by parents than
+their children. Peers and kin are likely to encourage rejection if
+they see a relative or friend is not being choosy enough, or to
+discourage rejection when they see the suitor as advantageous
+or there are few alternatives. Both women and men are influ-
+enced by social information, but this is likely to be in regard to
+different traits, and this particular effect should be more pro-
+nounced for women than men due to the different physical
+costs of reproduction for each sex (Trivers, 1972). Considering
+that mate choice is more consequential for women than men,
+parents should have a disproportionate effect on their daugh-
+ters' mate rejection as compared to their sons' mate rejection.
+Supporting this, research does show that parents are more con-
+trolling of--and emotionally invested in--daughters' mating
+behavior than their sons' mating behavior (Perilloux, Fleisch-
+man, & Buss, 2008; see also Perilloux et al., 2011). This should
+also arise because men are not typically discouraged from
+partnering with many different women (Buss, 1994). Adding
+further support, women have been shown to be more sensitive
+to their parents' opinions of their mate choices compared to
+men. That is, women have reported that if their parents did not
+like their romantic partner, they would consider ending the
+relationship (Dubbs, Buunk, & Li, 2011).
+In comparison to men, women also appear to be more likely
+than men to seek their friends' opinions of a potential mate
+(Morr Serewicz & Gale, 2008). They also seem to be more
+sensitive to other social cues regarding mating and rejection
+(see Feingold, 1992). For example, research has found that
+women are more likely to judge a man to be a desirable mate,
+and therefore be less likely to reject him, if other women are
+with him, particularly if these women are physically attractive
+(Uller & Johansson, 2003; Waynforth, 2007). This may be
+because certain traits (including ambition, status, wealth, and
+dominance) can be difficult to assess accurately using visual
+cues. Similarly, men may attempt to fake or exaggerate these
+traits. Because of this, we expect that negative information
+about a potential mate from social sources should impact on
+both sexes' rejection decisions, but impact on women's mate
+rejection decisions more so than men's. For example, if a
+woman's friends or family said a man was untrustworthy, a
+womanizer, unkind, or stingy, she may be more likely to incor-
+porate such social information into her mating decision. In turn,
+this could make rejection more likely.
+In contrast, although in general we expect women to be
+more sensitive to social input than men, we expect men to be
+more sensitive to information about a woman's sexual history
+and fidelity. This is because women's concealed ovulation
+means paternity is not ensured for men, and they are therefore
+more concerned with controlling a partner's sexuality than
+women (Buss, 1994; Trivers, 1972; see also Smuts, 1992).
+Information about chastity and sexual loyalty, therefore, would
+be of more interest to men than to women and serve to inform
+their mating decisions more so than women's (Buss, 1994), and
+hence should also inform their rejection decisions more so than
+women's.
+In terms of the methods people use to reject others in order
+to avoid social sanction, as mentioned, we tentatively expect
+people to report using honest or direct strategies, and offering
+friendship during and after rejection in order to preserve their
+reputations or ``save face.'' Attempts to reject appropriately
+should be exaggerated if the ex-couple has overlapping social
+networks (implied by the work of Perilloux & Buss, 2008). This
+is because both partners are likely to be privy to a wide range of
+intimate details about each other that are potentially embarras-
+sing or damaging to their partner's reputation (Duntley & Buss,
+2012). Ending a relationship badly (perhaps by terminating it in
+a hurtful or demeaning way) may inspire the rejected partner to
+seek revenge by leaking intimate details, which could have
+fitness repercussions for the affected partner (in addition to any
+potentially violent outcomes). For example, this may result in a
+lack of interested mate alternatives or social rejection from a
+group that provides resources or protection.
+Additionally, perpetrators of violence, stalking, and aggres-
+sion during and after relationships should have reduced mating
+opportunities within a particular social group in contexts where
+members of the group are aware of their propensity for these
+behaviors or reactions. That is, they should be more likely to be
+physically restricted from mating (e.g., imprisoned or threat-
+ened) as a coevolved kin response to these behaviors (Duntley
+& Buss, 2012; Smuts, 1992; see also Duntley & Shackelford,
+2012).
+Conclusions
+Mate rejection is an important, multifaceted topic that has been
+underresearched in the fields of evolutionary and social psy-
+chology. It is a crucial part of sexual selection and examining it
+through an evolutionary lens provides a myriad of novel
+hypotheses yet to be explored. Throughout this article, we have
+suggested that humans have developed particularly strong reac-
+tions to mate rejection because it has serious evolutionary con-
+sequences with the ability to substantially affect our fitness. We
+examined how people may adaptively rely on evolutionarily
+relevant factors to determine whether to reject someone. We
+also proposed methods people might use to try and reject some-
+one while mitigating the risks rejection poses, both during and
+after it occurs. We discussed this topic in terms of survival
+factors, mate value factors, and contextual factors (including
+social constraints). It is our hope that the hypotheses developed
+Kelly et al. 9
+may be utilized and expanded upon to enrich our understanding
+of human mating from an evolutionary perspective.
+Acknowledgment
+The authors wish to acknowledge William von Hippel and Brendan P.
+Zietsch for their comments on earlier drafts of this article.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to
+the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research, author-
+ship, and/or publication of this article.
+References
+Apostolou, M. (2007). Sexual selection under parental choice: The
+role of parents in the evolution of human mating. Evolution and
+Human Behavior, 28, 403­409.
+Apostolou, M. (2010). Sexual selection under parental choice in agro-
+pastoral societies. Evolution and Human Behavior, 31, 39­47.
+Australian Bureau of Statistics. (2014). Marriages and divorces, Aus-
+tralia (Catalogue No. 3310.0): 2013 Key points. Retrieved Decem-
+ber 29, 2014, from http://www.abs.gov.au/ausstats/abs@.nsf/mf/
+3310.0
+Baize, H. R. J., & Schroeder, J. E. (1995). Personality and mate selec-
+tion in personal ads: Evolutionary preferences in a public mate
+selection process. Journal of Social Behavior and Personality,
+10, 517­536.
+Banks, S. P., Altendorf, D. M., Greene, J. O., & Cody, M. J. (1987).
+An examination of relationship disengagement: Perceptions,
+breakup strategies, and outcomes. Western Journal of Speech Com-
+munication, 51, 19­41.
+Barber, N. (2000). On the relationship between country sex ratios and
+teen pregnancy rates: A replication. Cross-Cultural Research, 34,
+26­37.
+Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire
+for interpersonal attachments as a fundamental human motivation.
+Psychological Bulletin, 117, 497­529.
+Baxter, L. A. (1979). Self-disclosure as a relationship disengagement
+strategy: An exploratory investigation. Human Communication
+Research, 5, 215­222.
+Baxter, L. A. (1982). Strategies for ending relationships: Two studies.
+Western Journal of Communication, 46, 223­241.
+Bernhardt, P. C. (1997). Influences of serotonin and testosterone in
+aggression and dominance: Convergence with social psychology.
+Current Directions in Psychological Science, 6, 44­48.
+Betzig, L. (1989). Causes of conjugal dissolution: A cross-cultural
+study. Current Anthropology, 30, 654­676.
+Bjorklund, K., Hakkanen-Nyholm, H., Sheridan, L., & Roberts, K.
+(2010). The prevalence of stalking among Finnish university stu-
+dents. Journal of Interpersonal Violence, 25, 684­698.
+Black, M., Basile, K. C., Breiding, M. J., Smith, S. G., Walters, M. L.,
+Merrick, M. T., . . . Stevens, M. R. (2011). The National Intimate
+Partner and Sexual Violence Survey (NISVS): 2010 Summary
+report. Atlanta, GA: National Center for Injury Prevention and
+Control, Centers for Disease Control and Prevention.
+Bressler, E. R., Martin, R. A., & Balshine, S. (2006). Production and
+appreciation of humor as sexually selected traits. Evolution and
+Human Behavior, 27, 121­130.
+Bullock, M., Hackathorn, J., Clark, E. M., & Mattingly, B. A. (2011).
+Can we be (and stay) friends? Remaining friends after dissolution
+of a romantic relationship. Journal of Social Psychology, 151,
+662­666.
+Buss, D. M. (1989). Sex differences in human mate preferences: Evo-
+lutionary hypotheses tested in 37 cultures. Behavioral and Brain
+Sciences, 12, 1­49.
+Buss, D. M. (1994). The evolution of desire: Strategies of human
+mating. New York, NY: Basic Books.
+Buss, D. M. (2000). The dangerous passion: Why jealousy is as nec-
+essary as love and sex. New York, NY: Free Press.
+Buss, D. M. (2007). The evolution of human mating. Acta Psycholo-
+gica Sinica, 39, 502­512.
+Buss, D. M., Abbott, M., Angleitner, A., Biaggio, A., Blanco-Villa-
+senor, A., Bruchon-Schweitzer, M., . . . Yang, K.-S. (1990). Inter-
+national preferences in selecting mates: A study of 37 societies.
+Journal of Cross-Cultural Psychology, 21, 5­47.
+Buss, D. M., & Barnes, M. (1986). Preferences in human mate
+selection. Journal of Personality and Social Psychology, 50,
+559­570.
+Buss, D. M., & Duntley, J. D. (2011). The evolution of intimate
+partner violence. Aggression and Violent Behavior, 16, 411­419.
+Buss, D. M., & Schmitt, D. P. (1993). Sexual strategies theory: An
+evolutionary perspective on human mating. Psychological Review,
+100, 204­232.
+Buunk, A. P., Dijkstra, P., Fetchenhauer, D., & Kenrick, D. T. (2002).
+Age and gender differences in mate selection criteria for various
+involvement levels. Personal Relationships, 9, 271­278.
+Buunk, A. P., Park, J. H., & Duncan, L. A. (2010). Cultural variation
+in parental influence on mate choice. Cross-Cultural Research, 44,
+23­40.
+Clutton-Brock, T. H. (2007). Sexual selection in males and females.
+Science, 318, 1882­1885.
+Cody, M. (1982). A typology of disengagement strategies and an
+examination of the role intimacy, reactions to inequity and rela-
+tional problems play in strategy selection. Communication Mono-
+graphs, 49, 148­170.
+Cupach, W. R., & Spitzberg, B. H. (1998). Obsessive relational intru-
+sion and stalking. In B. H. Spitzberg & W. R. Cupach (Eds.), The
+dark side of close relationships (pp. 233­263). Hillsdale, NJ:
+Lawrence Erlbaum Associates.
+Darwin, C. R. (1872). The origin of species by means of natural
+selection, or the preservation of favoured races in the struggle for
+life (6th ed.). London, England: John Murray.
+Darwin, C. R., & Wallace, A. R. (1858). On the tendency of species to
+form varieties; and on the perpetuation of varieties and species by
+natural means of selection. Zoological Journal of the Linnean
+Society, 3, 46­50.
+DeBruine, L. M., Jones, B. C., Crawford, J. R., Welling, L. L. M., &
+Little, A. C. (2010). The health of a nation predicts their mate
+preferences: Cross-cultural variation in women's preferences for
+10 Evolutionary Psychology
+masculinized faces. Proceedings of the Royal Society B, 277,
+2405­2410.
+Deutsch, F. M., Zalenski, C. M., & Clark, M. E. (1986). Is there a
+double standard of aging? Journal of Applied Social Psychology,
+16, 771­785.
+Dubbs, S. L., Buunk, A. P., & Li, J. (2011). Parental monitoring,
+sensitivity toward parents, and a child's mate preferences. Per-
+sonal Relationships, 19, 712­722.
+Dunson, D. B., Colombo, B., & Baird, D. D. (2002). Changes with age
+in the level and duration of fertility in the menstrual cycle. Human
+Reproduction, 17, 1399­1403.
+Duntley, J. D., & Buss, D. M. (2012). The evolution of stalking. Sex
+Roles, 66, 311­327.
+Duntley, J. D., & Shackelford, T. K. (2012). Adaptations to avoid
+victimization. Aggression and Violent Behavior, 17, 59­71.
+Dutton, L. B., & Winstead, B. A. (2010). Types, frequency, and effec-
+tiveness of responses to unwanted pursuit and stalking. Journal of
+Interpersonal Violence, 26, 1129­1156.
+Dyble, M., Salali, G. D., Chaudhary, N., Page, A., Smith, D., Thomp-
+son, J., . . . Migliano, A. B. (2015). Sex equality can explain the
+unique social structure of hunter-gatherer bands. Science, 348,
+796­798.
+Eastwick, P. W., Luchies, L. B., Finkel, E. J., & Hunt, L. L. (2014).
+The predictive validity of ideal partner preferences: A review and
+meta-analysis. Psychological Bulletin, 140, 623­665.
+Eisenberger, N. I., & Lieberman, M. D. (2004). Why rejection hurts: A
+common neural alarm system for physical and social pain. Trends
+in Cognitive Sciences, 8, 294­300.
+Emlen, S. T. (1976). Lek organization and mating strategies in the
+bullfrog. Behavioral Ecology and Sociobiology, 1, 283­313.
+Emlen, S. T., & Oring, L. W. (1977). Ecology, sexual selection, and
+the evolution of mating systems. Science, 197, 215­223.
+Feingold, A. (1992). Gender differences in mate selection preferences:
+A test of the Parental Investment Model. Psychological Bulletin,
+112, 125­139.
+Gangestad, S. W., Garver-Apgar, C. E., Simpson, J. A., & Cousins, A.
+J. (2007). Changes in women's mate preferences across the ovula-
+tory cycle. Journal of Personality and Social Psychology, 92,
+151­163. doi:10.1037/0022-3514.92.1.151
+Gangestad, S. W., & Simpson, J. A. (2000). The evolution of human
+mating: Trade-offs and strategic pluralism. Behavioral and Brain
+Sciences, 23, 573­644.
+Glass, N., Laughon, K., Rutto, C., Bevacqua, J., & Campbell, J. C.
+(2008). Young adult intimate partner femicide: An exploratory
+study. Homicide Studies, 12, 177­187.
+Hagelstam, C., & Ha
+¨kka
+¨nen, H. (2006). Adolescent homicides in
+Finland: Offence and offender characteristics. Forensic Science
+International, 164, 110­115. doi:10.1016/j.forsciint.2005.12.
+006
+Hamby, S., & Bible, A. (2009). Battered women's protective strate-
+gies. Harrisburg, PA: VAWnet, A project of the National Resource
+Center on Domestic Violence/Pennsylvania Coalition Against
+Domestic Violence. Retrieved February 15, 2016, from http://
+www.vawnet.org
+Hill, K. R., Walker, R. S., Bozic
+evic, M., Eder, J., Headland, T.,
+Hewlett, B., . . . Wood, P. (2011). Co-residence patterns in
+hunter-gatherer societies show unique human social structure. Sci-
+ence, 331, 1286­1289.
+Jacobson, N. S., & Gottman, J. M. (1998). When men batter women:
+New insights into ending abusive relationships. New York, NY:
+Simon & Schuster.
+Jokela, M. (2009). Physical attractiveness and reproductive success in
+humans: Evidence from the last 20th century United States. Evolu-
+tion and Human Behavior, 30, 342­350.
+Kaplan, H. S., & Gangestad, S. W. (2005). Life history theory and
+evolutionary psychology. In D. M. Buss (Ed.), The handbook of
+evolutionary psychology (pp. 68­95). Hoboken, NJ: Wiley.
+Kelly, A. J., Dubbs, S. L., & Barlow, F. K. (2015). Social dom-
+inance orientation predicts heterosexual men's adverse reac-
+tions to romantic rejection. Archives of Sexual Behavior, 44,
+903­919.
+Kenrick, D. T., & Gutierres, S. E. (1989). Influence of popular erotica
+on judgments of strangers and mates. Journal of Experimental
+Social Psychology, 25, 159­167.
+Kenrick, D. T., & Keefe, R. C. (1992). Age preferences in mates
+reflect sex differences in human reproductive strategies. Beha-
+vioral and Brain Sciences, 15, 75­133.
+Kokko, H., & Jennions, M. D. (2008). Parental investment, sexual
+selection and sex ratios. Journal of Evolutionary Biology, 21,
+919­948.
+Kvarnemo, C., & Ahnesjo, I. (1996). The dynamics of operational sex
+ratios and competition for mates. Trends in Ecology and Evolution,
+11, 404­408.
+Lee, A. J., & Zietsch, B. P. (2011). Experimental evidence that
+women's mate preferences are directly influenced by cues of
+pathogen prevalence and resource scarcity. Biology Letters. doi:
+10.1098/rsbl.2011.0454
+Lukaszewski, A. W., & Roney, J. R. (2010). Kind toward whom?
+Mate preferences for personality traits are target specific. Evolu-
+tion and Human Behavior, 31, 29­38.
+Marlowe, F. (2004). Mate preferences among Hadza hunter-gatherers.
+Human Nature, 15, 365­576.
+McNulty, J. K., Neff, L. A., & Karney, B. R. (2008). Beyond initial
+attraction: Physical attractiveness in newlywed marriage. Journal
+of Family Psychology, 22, 135­143.
+Metts, S., Cupach, W. R., & Bejlovec, R. A. (1989). `I love you too
+much to ever start liking you': Redefining romantic relationships.
+Journal of Social and Personal Relationships, 6, 259­274. doi:10.
+1177/0265407589063002
+Miller, G. F. (2000). The mating mind: How sexual choice shaped the
+evolution of human nature. New York, NY: Anchor Books.
+Miller, G. F., & Todd, P. M. (1998). Mate choice turns cognitive.
+Trends in Cognitive Sciences, 2, 190­198.
+Miner, E. J., & Shackelford, T. K. (2010). Mate attraction, retention
+and expulsion. Psicothema, 22, 9­14.
+Mogilski, J. K., & Welling, L. L. M. (in press). Staying friends
+with an ex: Sex and dark personality traits predict motivations
+for post-relationship friendship. Personality and Individual
+Differences. Retrieved from http://dx.doi.org/10.1016/j.paid.
+2016.04.016
+Morr Serewicz, M. C., & Gale, E. (2008). First-date scripts: Gender
+roles, context, and relationship. Sex Roles, 58, 149­164.
+Kelly et al. 11
+Naved, R. T. (2013). Sexual violence towards married women in
+Bangladesh. Archives of Sexual Behavior, 42, 595­602.
+Olderbak, S. G., & Figueredo, A. J. (2010). Life history strategy as a
+longitudinal predictor of relationship satisfaction and dissolution.
+Personality and Individual Differences, 49, 234­239.
+Palahniuk, C. (1996). Fight club. New York, NY: W.W. Norton &
+Company.
+Pawelski, J. O. (2013). Happiness and its opposites. In S. A.
+David, I. Boniwell, & A. C. Ayers (Eds.), The Oxford handbook
+of happiness (pp. 326­336). Oxford, England: Oxford Univer-
+sity Press.
+Pearsall, M. (1947). Distributional variations of bride-wealth in the
+East African Cattle Area. Southwestern Journal of Anthropology,
+3, 15­31.
+Penke, L., Todd, P. M., Lenton, A. P., & Fasolo, B. (2008). How self-
+assessments can guide human mating decisions. In G. Geher & G.
+Miller (Eds.), Mating intelligence: Sex, relationships, and the
+mind's reproductive system (pp. 37­76). New York, NY: Lawrence
+Erlbaum Associates.
+Perilloux, C., & Buss, D. M. (2008). Breaking up romantic relation-
+ships: Costs experienced and coping strategies deployed. Evolu-
+tionary Psychology, 6, 164­181.
+Perilloux, C., Fleischman, D. S., & Buss, D. M. (2008). The daughter-
+guarding hypothesis: Parental influence on, and emotional reac-
+tions to, offspring's mating behavior. Evolutionary Psychology, 6,
+217­233.
+Perilloux, C., Fleischman, D. S., & Buss, D. M. (2011). Meet the
+parents: Parent-offspring convergence and divergence in mate pre-
+ferences. Personality and Individual Differences, 50, 253­258.
+Purcell, R., Path´
+e, M., & Mullen, P. E. (2002). The prevalence and
+nature of stalking in the Australian community. Australian and
+New Zealand Journal of Psychiatry, 36, 114­120. doi:10.1046/j.
+1440-1614.2002.00985.x
+Rennison, C. M., & Welchans, S. (2002). Intimate partner violence.
+Washington, DC: Bureau of Justice Statistics, U.S. Department of
+Justice.
+Rhoades, G. K., Kamp Dush, C. M., Atkins, D. C., Stanley, S. M., &
+Markman, H. J. (2011). Breaking up is hard to do: The impact of
+unmarried relationship dissolution on mental health and life satis-
+faction. Journal of Family Psychology, 25, 366­374.
+Romans, S., Forte, T., Cohen, M. M., Du Mont, J., & Hyman, I.
+(2007). Who is most at risk for intimate partner violence? A Cana-
+dian population-based study. Journal of Interpersonal Violence,
+22, 1495­1514.
+Sadalla, E. K., Kenrick, D. T., & Vershure, B. (1987). Dominance and
+heterosexual attraction. Journal of Personality and Social Psychol-
+ogy, 52, 730­738.
+Schmitt, D. P. (2005). Sociosexuality from Argentina to Zimbabwe: A
+48-nation study of sex, culture, and strategies of human mating.
+Behavioral and Brain Sciences, 28, 247­311.
+Schmitt, D. P., & Buss, D. M. (2001). Human mate poaching: Tactics
+and temptations for infiltrating existing mateships. Journal of Per-
+sonality and Social Psychology, 80, 894­917.
+Shackelford, T. K., Buss, D. M., & Bennett, K. (2002). Forgiveness or
+breakup: Sex differences in responses to a partner's infidelity.
+Cognition and Emotion, 16, 299­307.
+Sheridan, L., Davies, G. M., & Boon, J. C. W. (2001). Stalking:
+Perceptions and prevalence. Journal of Interpersonal Violence,
+16, 151­167. doi:10.1177/088626001016002004
+Singh, D. (1993). Adaptive significance of female physical attractive-
+ness: Role of waist-to-hip ratio. Journal of Personality and Social
+Psychology, 65, 293­307.
+Smuts, B. B. (1992). Male aggression against women. Human Nature,
+3, 1­44.
+South, S., & Lloyd, K. (1995). Spousal alternatives and marital dis-
+solution. American Sociological Review, 60, 21­35.
+Sprecher, S., Sullivan, Q., & Hatfield, E. (1994). Mate selection
+preferences: Gender differences examined in a national sam-
+ple. Journal of Personality and Social Psychology, 66,
+1074­1080.
+Stevenson, B., & Wolfers, J. (2007). Marriage and divorce: Changes
+and their driving forces. NBER Working Paper No. 12944.
+Retrieved from http://www.nber.org/papers/w12944
+Stockley, P., & Campbell, A. (2013). Female competition and aggres-
+sion: Interdisciplinary perspectives. Philosophical Transactions of
+the Royal Society B: Biological Sciences, 368, 1631.
+Symons, D. (1979). The evolution of human sexuality. New York, NY:
+Oxford University Press.
+Symons, D. (1980). Precis of the evolution of human sexuality. Beha-
+vioral and Brain Sciences, 3, 171­214.
+Tan, K., Agnew, C. R., Vanderdrift, L. E., & Harvey, S. M. (2014).
+Committed to us: Predicting relationship closeness following non-
+marital romantic relationship breakup. Journal of Social and Per-
+sonal Relationships, 32, 456­471.
+Tennyson, A. L. (1850). In Memoriam A.H.H. London, England:
+Edward Moxon. Retrieved from http://www.bl.uk/collection-
+items/in-memoriam-ahh-by-alfred-lord-tennyson
+Thornhill, R., & Gangestad, S. W. (1994). Fluctuating asymmetry and
+human sexual behavior. Psychological Science, 5, 297­302.
+Timmerman, K., & Hewitt, J. (1980). Examining the halo effect of
+physical attractiveness. Perceptual and Motor Skills, 51,
+607­612.
+Tjaden, P., & Thoennes, N. (2000). The role of stalking in domestic
+violence crime reports generated by the Colorado Springs Police
+Department. Violence and Victims, 15, 427­441.
+Townsend, J. M., & Levy, G. D. (1990). Effects of potential partners
+costume and physical attractiveness on sexuality and partner selec-
+tion. Journal of Psychology, 124, 371­389.
+Trivers, R. L. (1972). Parental investment and sexual selection. In B.
+Campbell (Ed.), Sexual selection and the descent of man 1871-
+1971 (pp. 136­207). Chicago, IL: Aldine.
+Udry, R. J. (1981). Marital alternatives and marital disruption. Journal
+of Marriage and Family, 43, 889­897.
+Uller, T., & Johansson, L. C. (2003). Human mate choice and the
+wedding ring effect: Are married men more attractive? Human
+Nature, 14, 267­276.
+United Kingdom Office for National Statistics. (2013). Divorces in
+England and Wales. The National Archives. Retrieved June 31,
+2016, from http://webarchive.nationalarchives.gov.uk/201601051
+60709/http://www.ons.gov.uk/ons/rel/vsob1/divorces-in-england-
+and-wales/2011/sty-what-percentage-of-marriages-end-in-
+divorce.html
+12 Evolutionary Psychology
+U.S. National Center for Health Statistics. (1973). 100 years of mar-
+riage and divorce statistics: United States, 1867-1967. Rockville,
+MD: Health Resources Administration.
+Walster, E., Aronson, V., & Abrahams, D. (1966). Importance of
+physical attractiveness in dating behaviour. Journal of Personality
+and Social Psychology, 4, 508­516.
+Warner, R. L., Lee, G. R., & Lee, J. (1986). Social organization,
+spousal resources, and marital power: A cross-cultural study. Jour-
+nal of Marriage and the Family, 48, 121­128.
+Waynforth, D. (2007). Mate choice copying in humans. Human
+Nature, 18, 264­271. doi:10.1007/s12110-007-9004-2
+Wheatley, J. R., Apicella, C. A., Burriss, R. P., Ca
+´rdenas, R. A.,
+Bailey, D. H., Welling, L. L. M., & Puts, D. A. (2014). Women's
+faces and voices are cues to reproductive potential in industrial and
+forager societies. Evolution and Human Behavior, 35, 264­271.
+doi:10.1016/j.evolhumbehav.2014.02.006
+White, L. K., & Booth, A. (1991). Divorce over the life course:
+The role of marital happiness. Journal of Family Issues, 12,
+5­21.
+Wilson, M., & Daly, M. (1993). An evolutionary psychological per-
+spective on male sexual proprietariness and violence against wives.
+Violence and Victims, 8, 271­294.
+Kelly et al. 13
+

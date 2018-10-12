@@ -1,0 +1,1094 @@
+Unemployment, Factor Substitution,
+and Capital Formation
+Leo Kaas
+Leopold von Thadden
+Discussion paper 01/01
+Economic Research Centre
+of the Deutsche Bundesbank
+January 2001
+The discussion papers published in this series represent
+the authors' personal opinions and do not necessarily reflect the views
+of the Deutsche Bundesbank.
+Deutsche Bundesbank, Wilhelm-Epstein-Strasse 14, 60431 Frankfurt am Main,
+P.O.B. 10 06 02, 60006 Frankfurt am Main, Federal Republic of Germany
+Telephone (0 69) 95 66-1
+Telex within Germany 4 1 227, telex from abroad 4 14 431, fax (0 69) 5 60 10 71
+Internet: http://www.bundesbank.de
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address, or by fax No. (0 69) 95 66-30 77
+Reproduction permitted only if source is stated.
+ISBN 3­933747­63­5
+Abstract
+We incorporate a wage bargaining structure in a dynamic general equilibrium model and show
+how this feature changes short and long-run properties of equilibria compared with a perfectly
+competitive setting. We discuss how employment, capital, and income shares respond to wage
+setting shocks and show that adjustment dynamics depend decisively on the magnitude of the
+elasticity of substitution between labour and capital. Values of the elasticity below unity add
+persistence, tend to preserve stability, and lead to empirically plausible adjustment patterns. By
+contrast, values above unity introduce additional volatility, thereby making steady states
+potentially unstable.
+Keywords: Wage bargaining, Unemployment, Overlapping generations
+JEL classification: D51, E24, E25
+Zusammenfassung
+Wir betrachten ein intertemporales Gleichgewichtsmodell mit Lohnverhandlungen am Arbeits-
+markt und diskutieren die Eigenschaften von kurz- und langfristigen Gleichgewichten im Vergleich
+zu einer vollständig kompetitiven Ökonomie. Wir analysieren die Reaktion von Beschäftigung,
+Kapital und Einkommensverteilung auf Lohnschocks und diskutieren dabei insbesondere, wie sich
+Annahmen bezüglich der Substitutionselastizität zwischen Arbeit und Kapital auf die dynamischen
+Anpassungsprozesse auswirken. Werte der Elastizität, die kleiner als eins sind, erhöhen die
+Persistenz, wirken stabilisierend und ergeben empirisch plausible Anpassungspfade. Unterstellt
+man hingegen Werte für die Elastizität, die größer als eins sind, erhöht dies die Volatilität aller
+Variablen, und langfristige Gleichgewichte werden dadurch potenziell instabil.
+Table of Contents
+1 Introduction 1
+2 The model 4
+3 The short-run equilibrium 8
+4 Dynamics 11
+5 Effects of wage pressure 15
+6 Discussion 17
+7 Conclusion 20
+Appendix 22
+References 23
+List of Figures
+Figure 1: Short-run equilibrium 9
+Figure 2: Long-run equilibrium 12
+Figure 3: Dynamics (0 <  < 1) 15
+Figure 4: Temporary wage pressure:
+unemployment rate and labour share ( = 0.5) 16
+Figure 5: Temporary wage pressure:
+unemployment rate and labour share ( = 2) 17
+Figure 6: Technological bias towards capital:
+unemployment rate and labour share ( = 0.5) 19
+Xqhpsor|phqw/ Idfwru Vxevwlwxwlrq/ dqg
+Fdslwdo Irupdwlrq
+4 Lqwurgxfwlrq
+Wklv sdshu h{soruhv hhfwv ri lqvlghu0grplqdwhg zdjh vhwwlqj lq dq lqwhuwhpsrudo
+htxloleulxp iudphzrun1 Zkloh/ lq vwdwlf wuhdwphqwv ri lqvlghu0rxwvlghu uhodwlrqvklsv/
+xqhpsor|phqw uhvxowv e| dqg odujh iurp zdjhv zklfk duh vhw wrr kljk wr eh frq0
+vlvwhqw zlwk ixoo hpsor|phqw/ wkh lvvxh ehfrphv pruh frpsolfdwhg iurp d g|qdplf
+shuvshfwlyh1 Dwwhpswv e| oderxu wr udlvh zdjhv dqg wkhuhe| wr fdswxuh uhqwv zklfk
+duh dydlodeoh dw d jlyhq fdslwdo vwrfn duh olnho| wr wuljjhu +srvvleo| vorz, uhdfwlrqv
+ri fdslwdo zklfk lq wkh orqj uxq lv wkh pruh hodvwlf idfwru14 Lq sduwlfxodu/ fdslwdo
+dffxpxodwlrq pd| vorz grzq lq rughu wr uhvwruh wkh lqlwldo ohyho ri surwdelolw|/ dqg/
+dv d e|0surgxfw/ hpsor|phqw pd| zhoo idoo hyhq li fxuuhqw zdjhv duh vhhplqjo| qrw
+rxw ri olqh1 Pruhryhu/ dv glvfxvvhg e| Eodqfkdug +4<<:/ 4<<;, lq klv dqdo|vlv ri
+uhfhqw ghyhorsphqwv lq frqwlqhqwdo Hxurshdq frxqwulhv/ lqfrph vkduhv duh sduwlfx0
+oduo| vxvfhswleoh wr vwurqj vkliwv li wkh lqwhudfwlrq ehwzhhq oderxu dqg fdslwdo wdnhv
+sodfh lq qrw ixoo| frpshwlwlyh vhwwlqjv1 Pruh vshflfdoo|/ wkh qglqjv ri Eodqfkdug
+lqglfdwh wkdw dgyhuvh zdjh vhwwlqj vkrfnv whqg wr udlvh wkh oderxu vkduh rq lpsdfw/
+zkloh lq wkh orqj uxq wklv surfhvv lv olnho| wr eh uhyhuvhg dqg oderxu pd| hyhq eh
+zruvh r wkdq lq wkh lqlwldo vlwxdwlrq15
+Wr dgguhvv wkh lqwhudfwlrq ehwzhhq zdjh vhwwlqj/ hpsor|phqw dqg fdslwdo irupdwlrq/
+zh frqvlghu dq ryhuodsslqj jhqhudwlrqv prgho zlwk surgxfwlrq lq zklfk zh dxjphqw
+dq rwkhuzlvh shuihfwo| frpshwlwlyh vhw0xs zlwk zdjh edujdlqlqj lq wkh oderxu pdunhw1
+Rzlqj wr wklv ihdwxuh/ xqhpsor|phqw lq rxu prgho lv qrw d pdwwhu ri plvshufhswlrqv
+exw dq htxloleulxp skhqrphqrq16 Uh hfwlqj wkh jhqhudo htxloleulxp fkdudfwhu ri
+wkh prgho/ wkh hyroxwlrq ri hpsor|phqw/ fdslwdo dqg lqfrph vkduhv ghshqgv vroho|
+rq sdudphwhuv ghvfulelqj +l, wkh hfrqrp|*v whfkqrorj|/ +ll, fkdudfwhulvwlfv ri wkh
+ÆOhr Nddv= Ghsduwphqw ri Hfrqrplfv/ Xqlyhuvlw| ri Ylhqqd/ Krkhqvwdxihqjdvvh </ 4343
+Ylhqqd/ Dxvwuld/ hpdlo= ohr1nddvCxqlylh1df1dw1 Ohrsrog yrq Wkdgghq= Uhvhdufk Fhqwuh/ Ghxwvfkh
+Exqghvedqn/ Zlokhop0Hsvwhlq0Vwudvvh 47/ 93764 Iudqnixuw2Pdlq/ Jhupdq|/ h0pdlo= Ohrsrog1yrq
+WkdgghqCexqghvedqn1gh1 Zh wkdqn Dqvjdu Ehonh/ Udlqhu Ihkq/ Khlq} Khuupdqq/ dqg Mrkdqqhv
+Krpdqq dv zhoo dv vhplqdu sduwlflsdqwv lq Ylhqqd/ dw wkh Exqghvedqn/ dw wkh 6ug Nlho Zrunvkrs
+rq Jurzwk dqg Hxurshdq Oderxu Pdunhwv/ dqg wkh 5qg HFE Oderxu Pdunhw Zrunvkrs iru
+khosixo frpphqwv1
+4Iru d ghwdlohg glvfxvvlrq ri wklv lqwhudfwlrq/ vhh Fdedoohur dqg Kdpprxu +4<<:,1
+5Zh uhwxuq wr d pruh ghwdlohg glvfxvvlrq ri wkhvh qglqjv lq Vhfwlrq 91
+6Wkxv/ rxu zrun iroorzv wkh djhqgd vhw rxw lq Skhosv +4<<7, rq cvwuxfwxudo voxpsv*= Ehklqg
+wkh htxloleulxp sdwk ri xqhpsor|phqw duh qrqprqhwdu| idfwruv zrunlqj wkurxjk qrqprqhwdu|
+phfkdqlvpv= wkh surshqvlw| wr txlw ru vklun/ k|vwhuhvlv hhfwv ri lgohqhvv/ lqvlghu0rxwvlghu uhodwlrq0
+vklsv/ zhoiduh0vwdwh vxevlglhv/ uhqw0vhhnlqj xqlrqv/ edodqfh vkhhw idfwruv lq qdqfldo pdunhwv/ dqg
+wkh lqvwlwxwlrqdo vxevwuxfwxuh1 +Skhosv/ 4<<7/ s1 yll1,
+4
+oderxu pdunhw/ vxfk dv wkh edujdlqlqj srzhu ri wkh qhjrwldwlqj vlghv/ ehqhw ohyhov
+dqg wxuqryhu udwhv/ dqg +lll, wkh suhihuhqfhv ri djhqwv1
+Zh frqvlghu d uljkwwrpdqdjh vhw0xs lq zklfk vhfwruvshflf xqlrqv dqg hpsor|huv*
+ihghudwlrqv edujdlq rq ehkdoi ri d odujh dprxqw ri upv dqg zrunhuv ryhu zdjhv
+zklfk duh pdqgdwru| iru doo hpsor|phqw frqwudfwv17 Lq hyhu| shulrg/ wdnlqj wkh
+vhfwruzlgh fdslwdo vwrfn dv jlyhq/ wkh wzr vlghv ghflgh rq wkh zdjh/ dqg lqglylgxdo
+upv wkhq kdyh ixoo glvfuhwlrq ryhu wkh ohyho ri hpsor|phqw1 Zlwk doo upv ehlqj
+lghqwlfdo/ hpsor|phqw lq wkh uhsuhvhqwdwlyh vhfwru zloo ghshqg rq wkh edujdlqlqj
+srzhu ri wkh wzr vlghv/ wkh ydoxh ri wkh uhvhuydwlrq zdjh pdlqwdlqhg gxulqj wkh
+edujdlq e| wkh xqlrq/ dqg wkh orfdwlrq ri wkh oderxu ghpdqg fxuyh zklfk vkliwv zlwk
+fkdqjhv lq wkh fdslwdo vwrfn1 Wr hqvxuh rxwfrphv zklfk duh dw doo vwdjhv frqvlvwhqw
+zlwk htxloleulxp xqhpsor|phqw/ zh dvvxph wkdw wkh oderxu pdunhw lv vxemhfw wr d
+fhuwdlq ghjuhh ri +h{rjhqrxvo| lpsrvhg, plvpdwfk1 Lq hyhu| shulrg vrph mrev fdqqrw
+eh oohg zlwk zrunhuv iurp wkh vdph vhfwru vr wkdw xqhpsor|hg shuvrqv dozd|v kdyh
+d fkdqfh ri rewdlqlqj d mre dw wkh jrlqj zdjh1 Wklv lq wxuq ihhgv edfn lqwr wkh
+uhvhuydwlrq zdjh pdlqwdlqhg e| wkh xqlrq lq wkh edujdlqlqj surfhvv1 Dv d uhvxow/
+vrph htxloleulxp xqhpsor|phqw zloo dozd|v hphujh/ luuhvshfwlyh ri wkh ohyho ri wkh
+fdslwdo vwrfn/ lq rughu wr uhvwudlq wkh zdjh ghpdqg ri wkh uhsuhvhqwdwlyh xqlrq1
+Vlqfh upv dfw dv sulfh0wdnhuv lq wkh oderxu pdunhw/ wkh uljkwwrpdqdjh dssurdfk
+doorzv iru d frqyhqlhqw glfkrwrp| ehwzhhq vkruw dqg orqj0uxq ghyhorsphqwv1 Lq sdu0
+wlfxodu/ dvvxplqj wkdw lq jhqhudo htxloleulxp doo xqhpsor|phqw ehqhwv duh ixqghg
+wkurxjk wd{hv rq oderxu/ wkh orqj0uxq vwdwlrqdu| fdslwdo lqwhqvlw| zloo eh lghqwlfdo
+wr wkh rqh uhvxowlqj xqghu shuihfw frpshwlwlrq/ l1h1 vkrfnv dhfwlqj orqj0uxq hp0
+sor|phqw wudqvodwh lqwr htxlsursruwlrqdwh fkdqjhv lq wkh fdslwdo vwrfn1 Wkxv/ lq
+rxu frqwh{w orqj0uxq htxloleuld qdwxudoo| uhodwh wr vwhdg| vwdwhv ri frpshwlwlyh ryhu0
+odsslqj jhqhudwlrqv prghov zlwk surgxfwlrq dv glvfxvvhg/ iru h{dpsoh/ lq D}duldglv
++4<<6,1
+Xvlqj d vwdqgdug djjuhjdwh surgxfwlrq ixqfwlrq/ zh ohdyh wkh hodvwlflw| ri vxevwl0
+wxwlrq j ehwzhhq oderxu dqg fdslwdo d sulrul xquhvwulfwhg1 Krzhyhu/ lw wxuqv rxw
+wkdw/ ghshqglqj rq wklv hodvwlflw|/ vkruw0uxq surshuwlhv ri htxloleuld dqg r0vwhdg|
+vwdwh g|qdplfv duh pxfk ulfkhu wkdq lq wkh ixoo| frpshwlwlyh iudphzrun1 Li j 
+wkhuh lv xqghu sodxvleoh frqglwlrqv d xqltxh vkruw0uxq htxloleulxp/ sdudphwul}hg e|
+duelwudu| ohyhov ri wkh fdslwdo vwrfn1 Lq wklv fdvh/ vkrfnv dhfwlqj wkh oderxu pdunhw
++vxfk dv d vkliw lq uhodwlyh edujdlqlqj srzhu ru fkdqjhv lq wkh uhsodfhphqw udwh,
+fuhdwh shuvlvwhqw hpsor|phqw g|qdplfv1 Pruhryhu/ orqj0uxq vwhdg| vwdwhv zloo eh
+vwdeoh zkhqhyhu wkh| duh vwdeoh lq wkh ehqfkpdun fdvh ri ixoo hpsor|phqw g|qdplfv1
+E| frqwudvw/ li j :  xqltxhqhvv ri vkruw0uxq htxloleuld lv qr orqjhu hqvxuhg/ dqg gxh
+wr vwurqj vxevwlwxwlrq hhfwv doo vhulhv ehfrph pruh yrodwloh1 Pruhryhu/ wklv yrodwlo0
+7Iru ghwdlohg wuhdwphqwv ri wklv dqg dowhuqdwlyh edujdlqlqj frqfhswv lq vwdwlf iudphzrunv/ vhh
+PfGrqdog dqg Vrorz +4<;4, dqg Rvzdog +4<;8,1
+5
+lw| euhdnv wkh vwdelolw| fruuhvsrqghqfh ehwzhhq ixoo hpsor|phqw dqg xqhpsor|phqw
+g|qdplfv dqg fuhdwhv wkh srvvlelolw| ri xqvwdeoh vwhdg| vwdwhv dqg hqgrjhqrxv f|0
+fohv1 Uhjduglqj wkh hyroxwlrq ri lqfrph vkduhv/ j  ohdgv wr hpslulfdoo| sodxvleoh
+dgmxvwphqw surfhvvhv1 E| frqwudvw/ j :  zrxog lpso| wkdw oderxu orvhv rxw rq
+lpsdfw 0 d qglqj zklfk vhhpv wr eh lqfrqvlvwhqw zlwk wkh hpslulfdo hylghqfh1
+Wkh idfw wkdw wkh vwhdg| vwdwh ohyho ri hpsor|phqw lv xqghu edujdlqlqj qr orqjhu
+h{rjhqrxvo| jlyhq ohdgv xv wr d prglfdwlrq ri wkh jroghq uxoh fulwhulrq suhydlolqj
+xqghu uvw ehvw frqglwlrqv1 Lq sduwlfxodu/ frqvlghu d vwhdg| vwdwh zlwk jurvv frp0
+sohphqwdulw| ehwzhhq lqsxwv +j  zklfk lv g|qdplfdoo| lqh!flhqw1 Wkhq/ wdnlqj
+wkh vwdwlf lqh!flhqf| uhvxowlqj iurp zdjh edujdlqlqj dv jlyhq/ fdslwdo lqyhvwphqw
+vkrxog eh uhgxfhg e| ohvv wkdq lq d frpshwlwlyh vhwwlqj/ vlqfh wkh srvlwlyh hhfwv
+ri d kljkhu uhwxuq udwh rq fdslwdo qhhg qrz wr eh zhljkwhg djdlqvw d orzhu ohyho ri
+hpsor|phqw/ uhgxflqj wkh vwhdg| vwdwh ohyho ri lqfrph1
+Lq uhodwhg zrun/ Ehqdvv| +4<<:, lqyhvwljdwhv dgmxvwphqw g|qdplfv durxqg ixoo hp0
+sor|phqw vwhdg| vwdwhv lq d vwrfkdvwlf ROJ hfrqrp| zlwk prqrsrolvwlf zdjh vhwwlqj
+dqg dq djjuhjdwh surgxfwlrq ixqfwlrq zlwk j 1 Wkh ghjuhh ri shuvlvwhqfh ri dg0
+mxvwphqw g|qdplfv ghshqgv fuxfldoo| rq zkhwkhu zdjhv vhw e| wkh prqrsro| xqlrq
+ehfrph elqglqj ru qrw/ zklfk lq wxuq ghshqgv rq wkh pdjqlwxgh ri udqgrp whfkqro0
+rj| vkrfnv vkliwlqj wkh oderxu ghpdqg fxuyh1 Iru vpdoo vkrfnv/ xqlrq zdjhv uhpdlq
+qrq0elqglqj +lq wkh vhqvh wkdw ixoo hpsor|phqw suhydlov lq wkh dgmxvwphqw surfhvv,
+dqg g|qdplfv vkrz olwwoh shuvlvwhqfh1 Rqo| iru odujh vkrfnv xqlrq zdjhv ehfrph
+elqglqj dqg wkh fruuhvsrqglqj xqhpsor|phqw g|qdplfv/ wkrxjk rqo| wudqvlwru|/
+vkrz surqrxqfhg shuvlvwhqfh18
+Lq olqh zlwk rxu uhvxowv ghulyhg iru vkruw0uxq htxloleuld/ Urzwkruq +4<<<, vkrzv
+zlwklq d ulfk uljkw0wr0pdqdjh iudphzrun wkdw iru wkh FHV fdvh ri j  wkh xqhp0
+sor|phqw udwh ghshqgv qhjdwlyho| +srvlwlyho|, rq wkh fdslwdo vwrfn +oderxu irufh,/
+txlwh lq frqwudvw wr wkh olplwlqj fdvh ri d Free0Grxjodv ixqfwlrq zlwk j '  \hw/
+xvlqj hvvhqwldoo| d vwdwlf iudphzrun/ Urzwkruq idoov vkruw ri d g|qdplf +orqj0uxq,
+dqdo|vlv zklfk vkrxog ghulyh wkh surfhvv ri fdslwdo dffxpxodwlrq iurp zlwklq wkh
+v|vwhp1
+Dgguhvvlqj glhuhqfhv lq wkh hyroxwlrqv ri xqhpsor|phqw dqg lqfrph vkduhv lq
+Dqjor0Vd{rq dqg frqwlqhqwdo Hxurshdq frxqwulhv ryhu wkh sdvw ghfdghv/ Eodqfkdug
++4<<:/ 4<<;, xvhv d iudphzrun lq zklfk/ pxfk dv lq rxu dssurdfk/ wkh orqj0uxq
+fdslwdo lqwhqvlw| lv lqghshqghqw ri sdudphwhuv ghvfulelqj d qrq0frpshwlwlyh oderxu
+pdunhw1 Krzhyhu/ klv dqdo|vlv glhuv iurp rxuv lq vhyhudo zd|v1 Iluvw/ Eodqfkdug
+frqvlghuv d frqvwdqw/ h{rjhqrxvo| jlyhq lqwhuhvw udwh1 Vhfrqg/ upv duh vxemhfw wr
+dgmxvwphqw frvwv zkhq fkrrvlqj wkhlu lqsxwv19 Wklug/ wkh oderxu vxsso| ri wkh hfrq0
+8Lq Vhfwlrq 7/ zh glvfxvv krz rxu vwdelolw| uhvxowv uhodwh wr wkh prgho ri Ehqdvv|1
+9Vlqfh dgmxvwphqw frvwv fdxvh rqo| wudqvlwru| g|qdplfv/ wkh fdslwdo vxsso| lv lq wkh orqj uxq
+lqqlwho| hodvwlf/ vlplodu wr wkh fdvh ri d vpdoo rshq hfrqrp|1 Iru d vlplodu vshflfdwlrq/ vhh Exugd
++4<;;,1
+6
+rp| lv dssur{lpdwhg dw wkh djjuhjdwh ohyho e| d zdjh0vhwwlqj uhodwlrqvkls zklfk
+dvvhuwv d qhjdwlyh uhodwlrqvkls ehwzhhq wkh uhdo zdjh dqg wkh xqhpsor|phqw udwh1
+Irxuwk/ Eodqfkdug dovr frqvlghuv lpshuihfwlrqv lq wkh rxwsxw pdunhw zklfk zh vshf0
+li| dv ehlqj shuihfwo| frpshwlwlyh1
+Ilqdoo|/ Kdqvhq +4<<<, wdnhv d jhqhudo htxloleulxp shuvshfwlyh rq prqrsrolvwlf zdjh
+vhwwlqj dqg frqvlghuv d Udpvh|0w|sh hfrqrp| lq zklfk wkh orqj0uxq fdslwdo lqwhq0
+vlw| lv xqltxho| slqqhg grzq e| wkh prglhg jroghq uxoh1 Dgguhvvlqj wkh hhfwv ri
+d shupdqhqw dqg xqdqwlflsdwhg zdjh vkrfn/ Kdqvhq vkrzv wkdw vdggohsdwk vwdelolw|
+suhydlov dv lq wkh surwrw|sh Udpvh| prgho zlwk ixoo hpsor|phqw1 \hw/ g|qdplfv
+xqghu xqhpsor|phqw duh vkrzq wr lpso| dq ryhuvkrrwlqj ri hpsor|phqw/ l1h1 wulj0
+jhuhg e| frqvxpswlrq vprrwklqj/ hpsor|phqw idoov rq lpsdfw pruh wkdq uhtxluhg
+e| wkh qhz vwhdg| vwdwh/ zklfk kdv wkh vdph fdslwdo lqwhqvlw| dv wkh lqlwldo rqh1
+Pruhryhu/ frqvlghulqj d wzr0vwdjh surgxfwlrq surfhvv zlwk vhfwru0vshflf oderxu/
+Kdqvhq dvvxphv udwkhu vshfldo ixqfwlrqdo irupv1 Lq sduwlfxodu/ kh dvvxphv d xqlw
+hodvwlflw| ri vxevwlwxwlrq ehwzhhq fdslwdo dqg oderxu1
+Wkh uhpdlqghu ri wkh sdshu surfhhgv dv iroorzv1 Lq Vhfwlrq 2/ zh ghvfuleh wkh ghwdlov
+ri wkh prgho1 Lq Vhfwlrq / zh fkdudfwhul}h surshuwlhv ri wkh vkruw0uxq htxloleulxp
+lq zklfk wkh fdslwdo vwrfn lv {hg1 Lq Vhfwlrq e/ zh wxuq wr wkh g|qdplf ehkdylrxu ri
+wkh prgho1 Vhfwlrq D dqdo|}hv hhfwv uhvxowlqj iurp lqfuhdvhg zdjh suhvvxuh/ zkloh
+Vhfwlrq S glvfxvvhv rxu uhvxowv lq wkh frqwh{w ri wkh h{lvwlqj olwhudwxuh1 Wkh qdo
+vhfwlrq frqfoxghv zlwk d vxppdu| dqg d eulhi rxwolqh ri ixwxuh uhvhdufk1
+5 Wkh prgho
+Frqvlghu dq ryhuodsslqj jhqhudwlrqv hfrqrp| zklfk frqvlvwv ri d odujh qxpehu 
+ri vhfwruv/ d frqwlqxxp dfc o ri frqvxphuv2zrunhuv olylqj iru wzr shulrgv dqg d
+frqwlqxxp dfc o ri upv1 Frqvxphuv vxsso| oderxu zkhq wkh| duh |rxqj dqg frq0
+vxph lq erwk olihwlph shulrgv1 Ilupv surgxfh d frpsrvlwh frqvxpswlrq2lqyhvwphqw
+jrrg iurp lqsxwv ri fdslwdo dqg oderxu1 Wkh jryhuqphqw sd|v dq xqhpsor|phqw
+ehqhw zklfk lv qdqfhg e| d zdjh lqfrph wd{1 Wkh fdslwdo dqg jrrgv pdunhwv duh
+shuihfwo| frpshwlwlyh/ exw zdjhv duh wkh rxwfrph ri d edujdlq ehwzhhq wudgh xqlrqv
+dqg hpsor|huv* ihghudwlrqv dw wkh vhfwru ohyho1 Lq hdfk vhfwru d vlqjoh wudgh xqlrq
+uhsuhvhqwlqj d pdvv 4 ri zrunhuv dqg d vlqjoh hpsor|huv* ihghudwlrq uhsuhvhqwlqj d
+pdvv 4 ri upv edujdlq ryhu wkh zdjh1 Vlqfh wkh qxpehu ri vhfwruv lv odujh/ qhjr0
+wldwlrq sduwqhuv ljqruh wkh hhfw ri wkhlu ghflvlrq rq wkh xqhpsor|phqw udwh dqg
+rq wkh ohyho ri xqhpsor|phqw ehqhwv1: Diwhu zdjhv duh qhjrwldwhg/ hpsor|phqw
+:Frpsduhg zlwk fhqwudol}hg edujdlqlqj/ lq zklfk d vlqjoh xqlrq dqg d vlqjoh hpsor|huv* ihg0
+hudwlrq lqwhuqdol}h wkh lpsdfw ri wkhlu ghflvlrqv rq djjuhjdwh rxwfrphv/ wklv dvvxpswlrq whqgv wr
+lqfuhdvh wkh xqhpsor|phqw udwh +vhh/ iru h{dpsoh/ Fdopiruv dqg Guloo +4<;;,,1
+7
+lv ghflghg dw wkh ohyho ri wkh up +uljkwwrpdqdjh prgho,1 Vlqfh hdfk hpsor|0
+huv* ihghudwlrq uhsuhvhqwv d odujh qxpehu ri upv/ wkh fdslwdo lqyhvwphqw ghflvlrq
+ri dq| vlqjoh up grhv qrw dhfw wkh rxwfrph ri wkh zdjh edujdlq dqg wkhuhiruh doo
+upv ehkdyh lq d shuihfwo| frpshwlwlyh idvklrq1 Zh ixuwkhu dvvxph vrph wxuqryhu
+ri zrunhuv ehwzhhq vhfwruv1 Wklv lpsolhv wkdw zdjhv sdlg lq rwkhu vhfwruv dqg wkh
+djjuhjdwh xqhpsor|phqw udwh pdwwhu iru zdjh irupdwlrq lq hdfk vhfwru1 Dv d frq0
+vhtxhqfh/ dq| htxloleulxp lqyroyhv vrph srvlwlyh udwh ri xqhpsor|phqw1 Lq ghwdlo/
+wkh hfrqrp| lv ghvfulehg dv iroorzv1
+Frqvxphuv
+Hdfk frqvxphu eruq dw gdwh | vxssolhv rqh xqlw ri lqglylvleoh oderxu zkhq |rxqj dqg
+zlvkhv wr frqvxph lq shulrgv | dqg |n1 Frqvxphuv vdyh sduw ri wkhlu oderxu lqfrph
+iru uhwluhphqw e| kroglqj fdslwdo vkduhv zklfk sd| d jurvv uhdo udwh ri uhwxuq -|n
+1
+Dq hpsor|hg zrunhu uhfhlyhv d +uhdo, qhw zdjh |E | zkhuhdv dq xqhpsor|hg
+zrunhu uhfhlyhv wkh +uhdo, xqhpsor|phqw ehqhw K|1 Zrunhuv duh udqgrpo| doorfdwhg
+wr mrev1 Wkhlu yrq QhxpdqqPrujhqvwhuq xwlolw| ixqfwlrq ES|c S|n
+ lv dvvxphg
+wr eh olqhduo| krprjhqrxv/ vwulfwo| txdvlfrqfdyh dqg glhuhqwldeoh1 Lq sduwlfxodu/
+zrunhuv duh ulvnqhxwudo1 Wkxv/ hdfk zrunhu*v vdylqjv ehkdylrxu lv ghvfulehg e|
+d vdylqjv ixqfwlrq rE-|n
+U| zkhuh U| 5 i|E |c K|j ghqrwhv wkh uvwshulrg
+lqfrph/ dqg wkh frqvxphu*v lqgluhfw xwlolw| lv E-|n
+U| zkhuh E-|n
+  E
+rE-|n
+c rE-|n
+-|n
+1 Zh dvvxph r  f/ l1h1 vdylqjv duh qrqghfuhdvlqj lq wkh
+lqwhuhvw udwh1
+Wudgh xqlrqv
+Hdfk wudgh xqlrq uhsuhvhqwv d frqwlqxxp ri pdvv 4 ri zrunhuv lq lwv vhfwru1 Iru wkh
+vdnh ri vlpsolflw| zh dvvxph wkdw doo zrunhuv duh xqlrq phpehuv1 Krzhyhu/ zrunhuv
+qhhg qrw eh hpsor|hg lq wkhlu krph vhfwru iru wkh zkroh shulrg/ exw wkhuh lv vrph
+wxuqryhu ri zrunhuv ehwzhhq vhfwruv1; D iudfwlrq f Z  ri wkh lqlwldoo| fuhdwhg
+zrun uhodwlrqvklsv wxuqv rxw wr eh xqsurgxfwlyh/ dqg wkhvh uhodwlrqvklsv duh vhsd0
+udwhg lpphgldwho|1 Wkh uhvxowlqj ydfdqflhv duh wkhq oohg zlwk +xqhpsor|hg, zrun0
+huv iurp vrph rwkhu vhfwru1 Li u|   mrev duh fuhdwhg lq vrph vhfwru/ d iudfwlrq Zu|
+ri wkhvh mrev lv hyhqwxdoo| qrw pdwfkhg zlwk zrunhuv ri wkh krph vhfwru/ exw lv oohg
+zlwk zrunhuv ri vrph rwkhu vhfwru1 Wkxv E Zu| zrunhuv uhfhlyh wkh qhjrwldwhg
+vhfwru qhw zdjh |E |/ dqg  E Zu| zrunhuv duh hlwkhu hpsor|hg lq dqrwkhu
+vhfwru ru vwd| xqhpsor|hg1 Wkhlu h{shfwhg lqfrph/ ghqrwhg W
+| / zloo eh ghwhuplqhg
+ehorz1 Wkh wudgh xqlrq*v remhfwlyh lv wr pd{lpl}h wkh h{shfwhg xwlolw| ri d uhsuh0
+vhqwdwlyh phpehu zklfk lv T|  E-|n
+ E|E |E Zu| n W
+| E E Zu|1
+Zkhq qhjrwldwlrqv euhdn grzq/ wkh xqlrq*v idooedfn sd|r lv T |  E-|n
+W
+| / dqg
+;Rwkhu/ pruh dgkrf vshflfdwlrqv ri wxuqryhu lq zdjh edujdlqlqj prghov fdq eh irxqg lq
+Od|dug/ Qlfnho/ dqg Mdfnpdq +4<<4, dqg lq Urzwkruq +4<<<,1
+8
+wkxv wkh xqlrq vxusoxv ri d vxffhvvixo qhjrwldwlrq lv
+T| T | ' E-|n
+E ZE|E | W
+| u| +4,
+Ilupv dqg hpsor|huv* ihghudwlrqv
+Ilupv surgxfh wkh rxwsxw jrrg iurp fdslwdo dqg oderxu xvlqj wkh frqvwdqw uhwxuqv
+surgxfwlrq whfkqrorj| t| ' 8Eg|c u| ' u|sE&| zkhuh &| ' g|*u| lv wkh fdslwdo
+lqwhqvlw|1 Wkh lqwhqvlyhirup surgxfwlrq ixqfwlrq s lv dvvxphg wr eh lqfuhdvlqj
+dqg vwulfwo| frqfdyh1 Fdslwdo lqyhvwphqw lv ghflghg d shulrg lq dgydqfh dqg wkxv
+ehiruh zdjhv duh qhjrwldwhg1 Krzhyhu/ vlqfh wkh lqyhvwphqw ghflvlrq ri dq| vlqjoh
+up kdv d qhjoljleoh hhfw rq wkh wrwdo fdslwdo vwrfn dqg wkxv rq oderxu ghpdqg lq
+lwv vhfwru/ upv ljqruh wkh lpsdfw ri wkhlu lqyhvwphqw ghflvlrq rq wkh rxwfrph ri
+zdjh qhjrwldwlrqv1 Wkxv upv wdnh wkh +shuihfwo| iruhvhhq, zdjh dqg wkh lqwhuhvw
+udwh dv jlyhq/ zklfk lpsolhv wkh xvxdo pdujlqdolw| frqglwlrqv
+| ' E&|  sE&| &|sE&| dqg
+-| ' -E&|   B n sE&| c
+zkhuh B lv wkh ghsuhfldwlrq udwh1 Ilupv ri hdfk vhfwru duh rujdql}hg lq dq hpsor|huv*
+ihghudwlrq zkrvh remhfwlyh lv wkh surw ri hdfk ri lwv phpehuv/
+|  8Eg|c u| |u| ' EsE&| E&|u| ' &|sE&|u|  +5,
+Wkh idooedfn sd|r ri wkh hpsor|huv* ihghudwlrq lv dvvxphg wr eh | ' f1
+Wkh zdjh edujdlq
+Jlyhq d vhfwru fdslwdo vwrfn g|/ wkh wudgh xqlrq dqg wkh hpsor|huv* ihghudwlrq
+qhjrwldwh wkh vhfwru zdjh wdnlqj lqwr dffrxqw wkdw hpsor|phqw lv ghflghg e| upv1
+Wkh odujh qxpehu ri vhfwruv lpsolhv wkdw qhjrwldwlrq sduwqhuv ljqruh wkh lpsdfw ri
+wkhlu ghflvlrq rq fdslwdo irupdwlrq dqg wkhuhe| rq wkh fdslwdo uhwxuq lq wkh qh{w
+shulrg1 Lq sduwlfxodu/ xqlrqv wdnh -|n
+lq wkhlu remhfwlyh ixqfwlrq dv jlyhq1 Wkh
+rxwfrph ri wkh zdjh edujdlq lv ghwhuplqhg e| wkh Qdvk edujdlqlqj vroxwlrq zklfk
+pd{lpl}hv wkh Qdvk surgxfw E| |qET| T |3
+q vxemhfw wr | ' Eg|*u|1
+q 5 dfc o ghqrwhv wkh edujdlqlqj srzhu ri wkh hpsor|huv* ihghudwlrq1 Xvlqj +4,/ +5,/
+u| ' g|*&| dqg fdqfhoolqj rxw frqvwdqwv/ wkh Qdvk surjudp fdq eh uhirupxodwhg lq
+whupv ri wkh vhfwru*v fdslwdo lqwhqvlw|=
+4@
+8|D
+g|
+E&|sE&|q EE&|E | W
+| 3
+q &3
+| 
+Wkh Qdvk surgxfw lv }hur dw &W vxfk wkdw E&WE | ' W
+| dqg lw lv }hur dw & ' 4
+vlqfh E&*& whqgv wr }hur dv & $ 41 Zh dvvxph wkdw wkh Qdvk surgxfw lv vwulfwo|
+9
+txdvlfrqfdyh +zklfk lv vdwlvhg/ iru h{dpsoh/ iru wkh FHV fdvhv frqvlghuhg ehorz,1
+Khqfh d pd{lpxp qhfhvvdulo| h{lvwv dqg dq lqwhulru +ru xqhpsor|phqw, vroxwlrq ri
+wkh Qdvk surjudp lv fkdudfwhul}hg e| wkh uvw0rughu frqglwlrq<
+q
+sE&|&|
+sE&|
+n E q
+
+&|E&|E |
+E&|E | W
+|
+
+
+' f  +6,
+Qrwh wkdw +6, lpsolflwo| edodqfhv wkuhh hhfwv djdlqvw hdfk rwkhu/ wkh uvw rqh zlwk
+zhljkw qc wkh rwkhu wzr zlwk zhljkw  q= Iluvw/ iru jlyhq g| kljkhu zdjhv uhgxfh
+surwv e| wkh idfwru sulfh iurqwlhu/ l1h1 sE&| dqg wkxv surwv ghfolqh1 Vhfrqg/
+hpsor|hg zrunhuv ehqhw iurp kljkhu zdjhv/ l1h1 |E | W
+| ulvhv1 Wklug/ kljkhu
+zdjhv uhgxfh hpsor|phqw dqg wkxv wkh vxusoxv ri wkh xqlrq1
+Wkh jhqhudo htxloleulxp
+Vlqfh wkh zrunhuv* rxwvlgh rswlrq W
+| lv wkh vdph lq doo vhfwruv dqg vlqfh +6, kdv
+rqo| rqh vroxwlrq zkhq wkh Qdvk surgxfw lv vwulfwo| txdvlfrqfdyh/ hpsor|phqw dqg
+zdjhv lq doo vhfwruv frlqflgh dqg hyhu| jhqhudo htxloleulxp lv v|pphwulf1 Zkhq u| lv
+hpsor|phqw lq hdfk vhfwru/ E E Zu| zrunhuv lq wkh hfrqrp| duh hyhqwxdoo|
+qrw hpsor|hg lq wkhlu krph vhfwru1 Zlwk vrph suredelolw| )| hdfk ri wkhp qgv d
+mre lq vrph rwkhu vhfwru1 Jlyhq wkdw wkhuh duh Zu| ydfdqflhv ohiw/ wklv suredelolw|
+lv
+)| '
+Zu|
+ E Zu|
+1 +7,
+Wkh jryhuqphqw pdlqwdlqv d frqvwdqw uhsodfhphqw udwh b / zklfk lpsolhv wkdw
+wkh xqhpsor|phqw ehqhw lv K| ' b|E |1 Wkxv wkh h{shfwhg lqfrph ri d zrunhu
+zkr lv qrw hpsor|hg lq klv krph vhfwru lv
+W
+| ' )||E | n E )|K| ' E)| n bE )||E | 1 +8,
+Qrwh wkdw wkhuh fdqqrw eh ixoo hpsor|phqw lq jhqhudo htxloleulxp1 Li u| ' / doo
+zrunhuv duh hpsor|hg zlwk suredelolw| rqh/ )| ' / dqg wkhuhiruh wkh xqlrq*v idoo0
+edfn sd|r frlqflghv zlwk wkh qhw zdjh ri wkh rwkhu vhfwruv1 Vlqfh dq| rxwfrph ri
+wkh zdjh edujdlq pxvw sd| vrph pdunxs ryhu wkh idooedfn zdjh zkhqhyhu xqlrqv
+kdyh edujdlqlqj srzhu +q ,/ wklv zdjh fdqqrw eh vhw lq htxloleulxp1 Vrph
+xqhpsor|phqw lv uhtxluhg wr nhhs xqlrq zdjh ghpdqgv lq fkhfn1
+Lqvhuwlqj +7, lqwr +8, vkrzv wkdw wkh zrunhuv* rxwvlgh zdjh lv lqfuhdvlqj lq djjuh0
+jdwh hpsor|phqw= wkh kljkhu hpsor|phqw lv/ wkh pruh olnho| lw lv iru dq xqhpsor|hg
+zrunhu wr qg d mre lq vrph rwkhu vhfwru1 Frpelqlqj wklv zlwk wkh edujdlqlqj
+<Ehorz lw zloo eh vkrzq wkdw wkhuh fdq rqo| eh dq xqhpsor|phqw rxwfrph lq jhqhudo htxloleulxp/
+dqg wkdw lw lv wkhuhiruh vx!flhqw wr frqvlghu dq lqwhulru vroxwlrq1
+:
+vroxwlrq +6, dqg vroylqj iru hpsor|phqw |lhogv d uhodwlrq ehwzhhq +vhfwru, hpsor|0
+phqw dqg wkh fdslwdo lqwhqvlw| wkdw kdv wr krog lq wkh vkruw0uxq +ru whpsrudu|,
+htxloleulxp=
+u| ' uE&| 
+ >E&|
+ E Z>E&|
+/ +9,
+zkhuh
+>E& 
+E q%E88
+%E8
+E b
+
+ q
+
+ n sE88
+sE8
+ 1 +:,
+Wkh rwkhu htxdwlrq wkdw +wulyldoo|, krogv lq dq| htxloleulxp lv
+u| ' g|*&| 1 +;,
+Iru d jlyhq fdslwdo vwrfn htxdwlrqv +9, dqg +;, ghwhuplqh vhfwru hpsor|phqw u|
+dqg wkh hfrqrp|*v fdslwdo lqwhqvlw| lq shulrg |1 Htxdwlrq +9, fdswxuhv htxloleulxp
+lq wkh oderxu pdunhw/ zkhuhdv rqo| +;, lqfoxghv wkh fdslwdo vwrfn1 Ilqdoo|/ wkh
+jryhuqphqw edodqfhv lwv exgjhw e| dgmxvwlqj wkh wd{ udwh vr wkdw ||u| ' bE
+||E u|1 Wklv fdq dozd|v eh dfklhyhg e| d xqltxh wd{ udwh | zklfk/ krzhyhu/
+grhv qrw dhfw hpsor|phqw dqg wkh jurvv zdjh lq rxu prgho1 Wklv uhvxow/ zklfk
+kdv dovr ehhq ghprqvwudwhg lq d vlplodu prgho e| Slvvdulghv +4<<;,/ ghshqgv rq
+wkh dvvxpswlrq wkdw wkh jryhuqphqw {hv wkh uhsodfhphqw udwh/ l1h1 wkh udwlr ri
+xqhpsor|phqw ehqhwv wr qhw zdjhv1 Li/ lqvwhdg/ wkh jryhuqphqw glg qrw dgmxvw
+ehqhwv wr zdjhv exw {hg wkh ohyho ri +uhdo, xqhpsor|phqw ehqhwv/ d kljkhu lqfrph
+wd{ udwh xqdpeljxrxvo| uhgxfhv hpsor|phqw1
+6 Wkh vkruw0uxq htxloleulxp
+Zh frqfhqwudwh lq wklv vhfwlrq rq FHV surgxfwlrq ixqfwlrqv jlyhq e|
+8Egc u ' dkE ggEj3Bj n E kE uuEj3BjojBEj3 c  9' j : fc
+zklfk/ lq wkh erxqgdu| fdvh j ' / ehfrphv d FreeGrxjodv surgxfwlrq ixqfwlrq
+8Egc u ' gku3
+k1 H{lvwhqfh/ xqltxhqhvv dqg frpsdudwlyh vwdwlfv surshuwlhv ri
+d vkruw0uxq htxloleulxp ghshqg fuxfldoo| rq wkh hodvwlflw| ri vxevwlwxwlrq j1 Wkh
+ixqfwlrq +:, wxuqv rxw wr eh
+>E& '
+E qk
+E b EjkE q n EjE q n qE kE& 8* u3Ej3Bj
+
+Lq wkh FreeGrxjodv fdvh >E lv d frqvwdqw/ > ' E qk*EE bE kq/ zklfk
+lv ohvv wkdq rqh +dqg wkxv uE& : f, l b E k*E kq1 Wkxv rqo| li wkh
+;
+! !
+ 
+&
+&
+g*&
+uE&
+uE&
+g*&
+&
+&
+&2
+E@ G f j  EK G j : 
+
+
+Iljxuh 4= Vkruw0uxq htxloleulxp
+uhsodfhphqw udwh grhv qrw h{fhhg wklv xsshu erxqg/ wkhuh h{lvwv d vkruw0uxq htxlole0
+ulxp zlwk srvlwlyh hpsor|phqw1 Wkh hpsor|phqw ohyho lq wklv fdvh lv lqghshqghqw
+ri wkh fdslwdo vwrfn/ zklfk lv txlwh frqvlvwhqw zlwk wkh qglqjv ri Od|dug/ Qlfnhoo/
+dqg Mdfnpdq +4<<4,1 Qrwh/ krzhyhu/ wkdw wklv uhvxow djdlq ghshqgv rq rxu dvvxps0
+wlrq wkdw wkh jryhuqphqw {hv wkh uhsodfhphqw udwh lqvwhdg ri uhdo xqhpsor|phqw
+ehqhwv1
+Pruh lqwhuhvwlqj uhvxowv duh rewdlqhg li wkh hodvwlflw| ri vxevwlwxwlrq j lv glhuhqw
+iurp 41 Frqvlghu uvw wkh fdvh lq zklfk fdslwdo dqg oderxu duh jurvv frpsohphqwv/
+j 1 Wkhq >E& lv vwulfwo| ghfuhdvlqj zlwk >Ef ' *EjE b :  dqg >E4 ' f1
+Wkxv wkhuh h{lvwv d xqltxh h
+& vr wkdw >Eh
+& ' / dqg uE& lv vwulfwo| lqfuhdvlqj zlwk
+uEh
+& ' f dqg uE4 ' 1 Iljxuh 41d vkrzv wkh wzr htxloleulxp fxuyhv +9, dqg
++;, dqg uhyhdov wkdw wkhuh h{lvwv d xqltxh vkruw0uxq htxloleulxp &
+iru dq| ohyho
+ri wkh fdslwdo vwrfn g1 Li wkh fdslwdo vwrfn lv lqfuhdvhg/ +;, vkliwv rxwzdugv dqg
+hpsor|phqw dqg wkh fdslwdo lqwhqvlw| +dqg wkhuhe| zdjhv, lqfuhdvh1
+Frqvlghu qh{w jurvv vxevwlwxwhv/ j : 1 Wkhq >E& lv vwulfwo| lqfuhdvlqj zlwk >Ef ' f
+dqg >E4 ' *EjE b1 Vxssrvh uvw wkdw j *E b/ l1h1 vxevwlwxwdelolw|
+ehwzhhq fdslwdo dqg oderxu lv qrw wrr vwurqj1 Wkhq >E4 :  dqg wkhuh h{lvwv d
+xqltxh h
+& vxfk wkdw >Eh
+& ' 1 uE& lv vwulfwo| ghfuhdvlqj zlwk uEf '  dqg uEh
+& ' f1
+Iljxuh 41e vkrzv wkh wzr htxloleulxp fxuyhv +9, dqg +;, lq wklv fdvh1 Lw fdq eh vhhq
+wkdw wkhuh duh +jhqhulfdoo|, wzr vkruw0uxq htxloleulxp vroxwlrqv/ ghqrwhg khuh &
+dqg &2
+/ zkhqhyhu wkh fdslwdo vwrfn lv qrw wrr odujh143 Krzhyhu/ dv zloo eh vkrzq
+lq Sursrvlwlrq 5 ehorz/ rqo| wkh ohiw0kdqg htxloleulxp fdq rffxu lq d vwdeoh vwhdg|
+vwdwh ri wkh g|qdplf prgho/ l1h1 rqo| wkh ohiw vkruw0uxq htxloleulxp fdq eh d vwdeoh
+43Lq sulqflsoh/ wkhuh frxog eh pruh wkdq wzr vroxwlrqv li wkh vorsh ri wkh grzqzdug vorslqj
+ixqfwlrq O+n, zdv vx!flhqwo| qrqprqrwrqh1 Krzhyhu/ wklv wxuqv rxw qrw wr eh wkh fdvh iru FHV
+surgxfwlrq ixqfwlrqv1
+<
+orqj0uxq htxloleulxp1 D vwhdg| vwdwh dw zklfk wkh uljkw htxloleulxp rffxuv zrxog eh
+xqvwdeoh1 Zh wkhuhiruh frqfhqwudwh ehorz rqo| rq wkh htxloleulxp &
+dw zklfk +;,
+fxwv +9, iurp deryh1 Li wkh hodvwlflw| ri vxevwlwxwlrq lv odujhu/ j  *E b/ uE& lv
+vwulfwo| srvlwlyh iru doo fdslwdo lqwhqvlwlhv dqg whqgv wr EjE b *EjE b nZ
+dv & whqgv wr lqqlw|1 Lq wklv fdvh wkhuh lv rqo| rqh vkruw0uxq htxloleulxp &
+dw
+zklfk wkh fxuyh +;, fxwv +9, iurp deryh1 Lq erwk fdvhv/ zkhq wkh fdslwdo vwrfn lv
+lqfuhdvhg/ &
+lqfuhdvhv +dqg wkxv zdjhv, dqg hpsor|phqw uE&
+ idoov1 Wkhuhiruh/
+fdslwdo furzgv rxw oderxu dv d surgxfwlrq idfwru/ dv fdq eh h{shfwhg li fdslwdo dqg
+oderxu duh vxevwlwxwhv1
+Hylghqwo|/ wkh ehkdylrxu ri wkh oderxu vkduh lq uhvsrqvh wr d ulvh lq g ghshqgv rq
+wkh hodvwlflw| ri vxevwlwxwlrq1 Dv fdq eh hdvlo| fkhfnhg/ wkh oderxu vkduh/ E&*sE&
+lv ghfuhdvlqj +lqfuhdvlqj, lq wkh fdslwdo lqwhqvlw| li dqg rqo| li j :  +j ,1 Wkxv/
+zkhq fdslwdo dqg oderxu duh vxevwlwxwhv/ wkh idoo lq hpsor|phqw diwhu d ulvh lq g lv
+vwurqj hqrxjk wr ryhufrpshqvdwh wkh ulvh lq zdjhv= wkh oderxu vkduh idoov1
+Wkh qglqjv ri wklv vhfwlrq duh vxppdul}hg lq wkh iroorzlqj sursrvlwlrq=
+Sursrvlwlrq 4 Dvvxph wkdw wkh surgxfwlrq ixqfwlrq kdv frqvwdqw hodvwlflw| ri vxe0
+vwlwxwlrq j1 Li j / wkhuh h{lvwv d xqltxh vkruw0uxq htxloleulxp iru dq| ohyho ri
+wkh fdslwdo vwrfn1 Hpsor|phqw dqg wkh oderxu vkduh lqfuhdvh li wkh fdslwdo vwrfn lv
+lqfuhdvhg1 Li j : / wkhuh duh dw prvw wzr vkruw0uxq htxloleuld zkhq wkh fdslwdo vwrfn
+lv qrw wrr odujh1 Dw wkh htxloleulxp zlwk wkh orzhu fdslwdo lqwhqvlw|/ hpsor|phqw dqg
+wkh oderxu vkduh duh idoolqj li wkh fdslwdo vwrfn lv lqfuhdvhg1
+Zh qrwh lq sdvvlqj wkdw wkh sursrvlwlrq fdq hdvlo| eh jhqhudol}hg wr fryhu vlwxdwlrqv
+lq zklfk erwk wkh fdslwdo vwrfn dqg wkh oderxu hqgrzphqw duh vxemhfw wr fkdqjhv
+lq wkh uhsuhvhqwdwlyh vhfwru1 Vlplodu qglqjv duh dovr ghulyhg lq Urzwkruq +4<<<,1
+Dvvxph iru d prphqw wkdw lq hdfk vhfwru zrunhuv duh ri pdvv | Wklv ohdyhv +6,
+dqg +8, xqdowhuhg/ zkloh +7, ehfrphv )| ' Zu|*d | E Zu|o Frpelqlqj wklv
+zlwk +6, dqg +8, |lhogv wkh prglhg +vkruw0uxq, htxloleulxp frqglwlrq=
+g|
+|&|
+' uE&| +<,
+zkhuh qrz uE&| ghqrwhv wkh hpsor|phqw udwh u|* | Iurp +<, dqg Iljxuh  rqh
+uhdglo| lqihuv wkh hhfwv ri d fkdqjh lq uhodwlyh idfwru hqgrzphqwv g|* |= +rqo|,
+iru wkh vshfldo fdvh ri d Free0Grxjodv whfkqrorj| d ulvh lq g|* | ohdyhv erwk wkh
+xqhpsor|phqw udwh dqg lqfrph vkduhv xqdhfwhg1 E| frqwudvw/ li j  Ej :  d
+ulvh lq g|* | uhgxfhv +lqfuhdvhv, wkh xqhpsor|phqw udwh | '  uE&| dqg udlvhv
++ghfuhdvhv, wkh oderxu vkduh144
+44Qrwh wkdw luuhvshfwlyh ri wkh pdjqlwxgh ri  wkh zdjh +surw udwh, ulvhv +idoov, li fdslwdo ehfrphv
+uhodwlyho| pruh dexqgdqw wkdq oderxu1
+43
+Ilqdoo|/ zh qg lw zruwkzkloh wr srlqw rxw wkdw/ uhjdugohvv ri wkh pdjqlwxgh ri j/
+ixoo hpsor|phqw htxloleuld frxog zhoo hphujh lq wkh vshfldo fdvh ri qr wxuqryhu/ l1h1
+li rqh zhuh wr dgplw Z ' f1 Dvvxplqj Z ' f/ uE& ehfrphv yhuwlfdo dw wkh ydoxh ri
+& zklfk vroyhv +6,0+8, +ru htxlydohqwo| >E& ' ,/ dqg iru g ehlqj odujhu wkdq wklv
+ydoxh/ u '  zrxog wxuq lqwr d elqglqj uhvwulfwlrq1 Lq rwkhu zrugv/ jlyhq d {hg
+oderxu vxsso|/ ixoo hpsor|phqw fdq hphujh iru Z ' f li wkh rxwzdug vkliw ri wkh
+oderxu0ghpdqg vfkhgxoh lqgxfhg e| d ulvh lq g lv vx!flhqwo| vwurqj1
+7 G|qdplfv
+Wkh wrwdo lqfrph ri |rxqj frqvxphuv +hpsor|hg dqg xqhpsor|hg zrunhuv, htxdov
+E |E&|uE&| n bE |E&|E uE&| ' E&|uE&| c
+vlqfh wkh exgjhw ri wkh jryhuqphqw lv edodqfhg1 D iudfwlrq rE-|n
+ ri wklv lqfrph lv
+vdyhg dv fdslwdo kroglqjv jlylqj wkh fdslwdo vwrfn g|n
+ri wkh qh{w shulrg1 Xvlqj
++;, dqg fdqfhoolqj rxw / zh rewdlq wkh iroorzlqj g|qdplf htxdwlrq ghvfulelqj wkh
+hyroxwlrq ri wkh fdslwdo lqwhqvlw|=
+&|n
+uE&|n
+ ' rE-E&|n
+E&|uE&| 1 +43,
+Lw fdq eh lpphgldwho| vhhq wkdw wkh vwhdg| vwdwh fdslwdo lqwhqvlw| lv lqghshqghqw ri
+oderxu pdunhw frqglwlrqv dqg frlqflghv zlwk wkh vwdwlrqdu| fdslwdo lqwhqvlw| ri wkh
+ixoo hpsor|phqw prgho zlwk d frpshwlwlyh oderxu pdunhw +u ' ,/ lq zklfk fdvh wkh
+g|qdplfv iroorzv wkh htxdwlrq
+&|n
+' rE-E&|n
+E&| 1 +44,
+Lq erwk prghov wkh vwhdg| vwdwh fdslwdo lqwhqvlw| lv ghwhuplqhg e|45
+& ' rE-E&E&
+Wklv uhvxow kdv wkh lpsruwdqw frqvhtxhqfh wkdw wkh jurvv zdjh dqg wkh lqwhuhvw udwh
+lq wkh vwhdg| vwdwh gr qrw ghshqg rq oderxu pdunhw sdudphwhuv1 Lq wkh orqj uxq/
+fkdqjhv lq oderxu pdunhw frqglwlrqv wudqvodwh frpsohwho| lqwr fkdqjhv ri hpsor|0
+phqw dqg ri wkh fdslwdo vwrfn/ erwk lq wkh vdph sursruwlrqv1 Lq whupv ri Iljxuh
+4/ hpsor|phqw lv ghwhuplqhg dw wkh lqwhuvhfwlrq ri +9, zlwk wkh +qrw qhfhvvdulo|
+xqltxh, vwdwlrqdu| fdslwdo lqwhqvlw| &/ dqg g|qdplf dgmxvwphqwv wr wkh vwhdg| vwdwh
+duh ghvfulehg e| vkliwv ri +;,1 Lq wkh jurvv frpsohphqwv fdvh +Iljxuh 41d,/ fdslwdo
+dqg oderxu pryh lq wkh vdph gluhfwlrq dorqj dq dgmxvwphqw sdwk wr wkh vwhdg| vwdwh/
+45Qrwh wkdw wklv uhvxow fuxfldoo| ghshqgv rq rxu dvvxpswlrq ri krprwkhwlf xwlolw| zklfk lpsolhv
+wkdw vdylqjv duh d olqhdu ixqfwlrq ri lqfrph1
+44
+! !
+ 
+&
+&
+E@ G f j  EK G j : 
+&u &d
+&d
+&
+rE-E& E&
+&
+rE-E& E&
+Iljxuh 5= Orqj0uxq htxloleulxp
+zkhuhdv iru jurvv vxevwlwxwhv +&
+lq Iljxuh 41e,/ hpsor|phqw idoov zkhq wkh fdslwdo
+vwrfn lqfuhdvhv/ dqg ylfh yhuvd1
+Lw lv zhoo nqrzq wkdw wkhuh fdq eh pxowlsoh srvlwlyh vwhdg| vwdwhv1 Iru lqvwdqfh/
+vxssrvh wkdw vdylqjv gr qrw ghshqg rq wkh lqwhuhvw udwh +zklfk lv wkh fdvh li wkh
+lqwhuwhpsrudo xwlolw| ixqfwlrq lv FreeGrxjodv, ru/ pruh jhqhudoo|/ wkdw wkh lqwhuhvw
+hodvwlflw| ri vdylqjv lv qrw wrr odujh1 Li wkh surgxfwlrq ixqfwlrq kdv FHV j  /
+wkhuh lv rqo| rqh srvlwlyh vwhdg| vwdwh/ dv vkrzq lq Iljxuh 51e1 Wklv vwhdg| vwdwh lv
+joredoo| vwdeoh lq wkh ixoo hpsor|phqw g|qdplfv +44,1 Exw li j / wkh htxdwlrq kdv
+w|slfdoo| qr ru wzr srvlwlyh vroxwlrqv &d dqg &u/ dv vkrzq lq Iljxuh 51d/ ri zklfk wkh
+odujhu rqh lv orfdoo| vwdeoh/ zkhuhdv wkh rwkhu rqh lv xqvwdeoh lq wkh ixoo hpsor|phqw
+g|qdplfv +44,1
+Wr h{dplqh vwdelolw| lq pruh jhqhudolw|/ ghqrwh e| #ÅE%  E%%* E% wkh hodvwlflw|
+ri vrph ixqfwlrq dw %1 Lpsolflw glhuhqwldwlrq ri +43, dw d vwhdg| vwdwh & |lhogv
+_E& 
+_&|n
+_&|
+E& '
+#%E& n #uE&
+ n #uE& #rE-E&#EE&
+ +46,
+Iurp rxu dvvxpswlrqv zlwk uhvshfw wr wkh surgxfwlrq ixqfwlrq dqg wkh vdylqjv
+ixqfwlrq zh kdyh
+#%E& : f / #rE-E&  f / #EE& f 1
+Khqfh/ lw lv fohdu wkdw wkh g|qdplfv zlwk ixoo hpsor|phqw +#uE& ' f, lv prqrwrqlf/
+_E& : f/ dqg wkdw d vwhdg| vwdwh lv orfdoo| vwdeoh l
+#%E&  #rE-E&#EE& 1 +47,
+Lq sduwlfxodu/ iru d FHV surgxfwlrq ixqfwlrq wklv frqglwlrq lv vdwlvhg dw wkh xqltxh
+srvlwlyh vwhdg| vwdwh zkhq j   dqg lw lv vdwlvhg dw wkh odujhu ri wkh wzr srvlwlyh
+vwhdg| vwdwhv li j 1
+45
+Lq wkh g|qdplfv zlwk xqhpsor|phqw +43,/ vwdelolw| ghshqgv fuxfldoo| rq wkh hodvwlf0
+lw| ri wkh hpsor|phqw ixqfwlrq u1 Iru d FHV surgxfwlrq ixqfwlrq/ Iljxuh 41d whoov
+xv wkdw #uE& : f li j 1 Sursrvlwlrq 5 ehorz vkrzv wkdw vxfk d vwhdg| vwdwh
+lv vwdeoh li dqg rqo| li lw lv vwdeoh lq wkh frpshwlwlyh prgho/ l1h1 l wkh vwdelolw|
+frqglwlrq +47, lv vdwlvhg1 Wkxv/ wkh odujhu ri wkh wzr vwhdg| vwdwhv +&d lq Iljxuh
+51d, lv orfdoo| vwdeoh dovr lq wkh xqhpsor|phqw g|qdplfv1 Zkhq j : / wkhuh h{lvwv
+d xqltxh vwhdg| vwdwh zklfk fdq eh ri wzr glhuhqw w|shv/ dv lqglfdwhg lq Iljxuh 41e1
+Hlwkhu lw lv dv &
+dw zklfk wkh fxuyh +;, fxwv +9, iurp deryh dqg frqvhtxhqwo| zh
+kdyh #uE&
+ : / ru +;, fxwv +9, iurp ehorz dv dw &2
+zklfk lpsolhv #uE&2
+ 1
+Erwk vxfk vlwxdwlrqv duh srvvleoh/ ghshqglqj rq whfkqrorj|/ xwlolw| dqg oderxu pdu0
+nhw sdudphwhuv1 Krzhyhu/ zkhqhyhu wkh lqwhuhvw hodvwlflw| ri vdylqjv lv ohvv wkdq rqh/
+lw hphujhv wkdw d vwhdg| vwdwh dw &2
+fdqqrw eh vwdeoh/ zkhuhdv d vwhdg| vwdwh dw &
+pd| eh vwdeoh ru xqvwdeoh1 Ghqrwlqj e| jE& wkh hodvwlflw| ri vxevwlwxwlrq dw &/ zh
+kdyh
+Sursrvlwlrq 5 Vxssrvh wkdw #rE-E& 1
++l, Li #uE&  dqg jE& : c wkhq & lv xqvwdeoh1
++ll, Li #uE& : *2c wkhq & lv vwdeoh li dqg rqo| li +47, lv vdwlvhg1
++lll, Lq sduwlfxodu/ li wkh surgxfwlrq ixqfwlrq kdv FHV j  / wkhq wkh xqltxh srvlwlyh
+vwhdg| vwdwh &d lv orfdoo| vwdeoh li #uE&d : *2 dqg wkh vwhdg| vwdwh lv xqvwdeoh li
+#uE&d  Li j / wkhq &d lv vwdeoh dqg &u lv xqvwdeoh/ dv wkh| duh lq wkh
+frpshwlwlyh prgho1
+Surri= Dsshqgl{1
+Wkuhh uhpdunv duh zruwk pdnlqj1 Iluvw/ wkh sursrvlwlrq grhv qrw dqvzhu zkhwkhu
+lq wkh FHV fdvh j :  d vwhdg| vwdwh zlwk  #uE& *2 lv vwdeoh ru qrw
++zklfk pd| eh wkh fdvh dw &
+lq Iljxuh 4,1 Vxssrvh wkdw vdylqjv duh lqghshqghqw
+ri wkh lqwhuhvw udwh +#rE-E& ' f,1 Vwdelolw| ri wkh vwhdg| vwdwh wkhq uhtxluhv
+wkdw _E& : c zklfk phdqv wkdw #%E& n 2#uE& n  : f1 Vlqfh #%E& 
+ehfdxvh ri +49, dqg j : / wklv frqglwlrq lv ixooohg li #uE& lv forvh wr *2/
+exw lw lv fhuwdlqo| qrw ixooohg li #uE& lv forvh wr 1 Ixuwkhupruh/ hyhq li wkh
+vwhdg| vwdwh lv orfdoo| vwdeoh/ frqyhujhqfh wr wkh vwhdg| vwdwh fdq eh f|folfdo +wklv lv
+dovr srvvleoh li #uE& : *2,1 Pruhryhu/ hqgrjhqrxv f|fohv fdq h{lvw146 Wkxv/ lq
+rxu ROJ prgho zlwk xqhpsor|phqw/ vwhdg| vwdwhv pd| eh xqvwdeoh li fdslwdo dqg
+oderxu duh jurvv vxevwlwxwhv +dqg/ pruhryhu/ frqvxpswlrq jrrgv lq wkh wzr olihwlph
+shulrgv duh jurvv vxevwlwxwhv lq wkh lqwhuwhpsrudo xwlolw| ixqfwlrq,1 Wklv frqwudvwv
+46E| wkh ls elixufdwlrq wkhruhp/ d f|foh ri rughu 5 h{lvwv forvh wr d elixufdwlrq srlqw dw zklfk
+g+n, @ 4 +d vhw ri sdudphwhuv forvh wr d elixufdwlrq srlqw lv  @ 4=8> DN @ DO @ 433/  @ =6/
+ @ =9>  @ =6/  @ =4> v @ =5, Vlpxodwlrq vwxglhv vxjjhvw/ krzhyhu/ wkdw vxfk elixufdwlrqv duh
+vxefulwlfdo/ l1h1 dq xqvwdeoh f|foh frh{lvwv zlwk d vwdeoh vwhdg| vwdwh +fruulgru vwdelolw|,1
+46
+zlwk rwkhu uhvxowv lq wkh olwhudwxuh zkr qg elixufdwlrqv dqg hqgrjhqrxv f|fohv lq
+ryhuodsslqj jhqhudwlrqv hfrqrplhv rqo| li wkhuh lv hlwkhu frpsohphqwdulw| lq xwlolw|
++h1j1 Judqgprqw +4<;8,, ru lq surgxfwlrq +h1j1 Uhlfkolq +4<;9, dqg Judqgprqw/
+Slqwxv/ dqg gh Yloghu +4<<;,,1
+Vhfrqg/ wkh vwdelolw| dqdo|vlv dqg/ lq sduwlfxodu/ wkh glfkrwrp| ehwzhhq wkh vxe0
+vwlwxwhv dqg frpsohphqwv fdvhv lv qrw rqo| frqqhg wr wkh ryhuodsslqj jhqhudwlrqv
++ru Gldprqg, prgho zlwk wzr shulrg olyhv1 Lq wkh Vrorz jurzwk prgho dqg lq wkh
+ROJ prgho zlwk vwrfkdvwlf olyhv ri Ehqdvv| +4<<:,/ fdslwdo dffxpxodwhv dffruglqj
+wr g|n
+' E Bg| n r8Eg|c u| zlwk vrph f Bc r 147 Li rxu oderxu pdunhw
+htxloleulxp lv hpehgghg lq wklv prgho wkh g|qdplf htxdwlrq lv/ lqvwhdg ri +43,/
+jlyhq e|
+&|n
+uE&|n
+ ' uE&|EE B&| n rsE&| 
+Lw lv hdv| wr vhh wkdw wkh vwhdg| vwdwh fdslwdo lqwhqvlw| lv djdlq lqghshqghqw ri oderxu
+pdunhw frqglwlrqv/ dqg wkdw +46, lv uhsodfhg e|
+_E& '
+_&|n
+_&|
+E& '
+ B n B#sE& n #uE&
+ n #uE&
+
+Lw fdq djdlq eh hdvlo| fkhfnhg wkdw wkh vwhdg| vwdwh lv vwdeoh li #uE& : *2/ dqg
+wkdw wkh vwhdg| lv xqvwdeoh li #uE&  Khqfh wkh uhvxowv ri Sursrvlwlrq 5 dsso|
+dovr wr wklv prgho/ exw dgglwlrqdo dvvxpswlrqv derxw wkh vdylqjv hodvwlflw| ru derxw
+wkh hodvwlflw| ri E& duh qrw uhtxluhg/ vlqfh wkh uvw lv }hur e| dvvxpswlrq dqg vlqfh
+vdylqjv duh d frqvwdqw iudfwlrq ri wrwdo lqfrph/ dqg qrw mxvw ri oderxu lqfrph dv lq
+wkh Gldprqg prgho1
+Wklug/ qrw rqo| vwdelolw| exw dovr rswlpdolw| ri vwhdg| vwdwhv ghshqgv fuxfldoo| rq
+wkh whfkqrorjlfdo vxevwlwxwdelolw| ehwzhhq fdslwdo dqg oderxu1 Vxssrvh wkdw wkhuh
+lv d fhqwudo sodqqhu zkr lv lqfdsdeoh ri fkdqjlqj oderxu pdunhw lqvwlwxwlrqv exw
+zkr fdq lq xhqfh fdslwdo dffxpxodwlrq +iru lqvwdqfh/ e| d oxpsvxp uhglvwulexwlrq
+ehwzhhq wkh |rxqj dqg wkh rog jhqhudwlrq,1 Li wkh fhqwudo sodqqhu lv iduvljkwhg/
+kh zrxog eh lqwhuhvwhg lq pd{lpl}lqj vwhdg| vwdwh frqvxpswlrq zklfk lv jlyhq e|
+ ' 8Egc u Bg ' uE&EsE& B&1 Pd{lpl}lqj wklv h{suhvvlrq uhyhdov wkdw rqo|
+li hpsor|phqw lv lqghshqghqw ri wkh fdslwdo lqwhqvlw| +l1h1 li wkh surgxfwlrq ixqfwlrq
+lv FreeGrxjodv, wkh rswlpdo vwhdg| vwdwh zloo eh fkdudfwhul}hg e| wkh xvxdo jroghq
+uxoh frqglwlrq sE& ' B1 Exw li fdslwdo dqg oderxu duh frpsohphqwv/ d kljkhu fdslwdo
+lqwhqvlw| +dqg d orzhu lqwhuhvw udwh, duh uhtxluhg iru rswlpdolw| vlqfh d kljkhu fdslwdo
+vwrfn wuljjhuv d kljkhu hpsor|phqw ohyho/ dqg ylfh yhuvd li fdslwdo dqg oderxu duh
+vxevwlwxwhv1
+47Lq wkh prgho ri Ehqdvv| +4<<:, +zklfk lv edvhg rq Kxpdq +4<<6,,/ krxvhkrogv zrun rqo| lq
+wkh uvw shulrg ri wkhlu olyhv dqg uhfhlyh fdslwdo lqfrph lq doo ixwxuh shulrgv1 D frqvwdqw suredelolw|
+ri ghdwk lq hdfk shulrg dqg orjdulwkplf suhihuhqfhv lpso| wkdw vdylqjv duh d frqvwdqw iudfwlrq ri
+djjuhjdwh lqfrph/ dv lq wkh Vrorz prgho1 Rxu oderxu pdunhw htxloleulxp fdq eh hpehgghg lq wklv
+prgho lq wkh vdph zd| dv lq wkh vwdqgdug Gldprqg prgho zlwk wzr shulrg olyhv1
+47
+!
+
+&
+
+
+(
+&d
+uE&
+g*&
+b %
+g &
+Iljxuh 6= G|qdplfv +f j ,
+8 Hhfwv ri zdjh suhvvxuh
+Wr looxvwudwh krz vhqvlwlyho| wkh g|qdplf ehkdylrxu ri rxu hfrqrp| ghshqgv rq wkh
+pdjqlwxgh ri jc zh uhwxuq qrz wr wkh FHV vshflfdwlrq lqwurgxfhg lq Vhfwlrq 
+Vshflfdoo|/ vxssrvh wkdw wkh hfrqrp| lv lqlwldoo| lq d vwhdg| vwdwh zklfk lv vwdeoh
+xqghu ixoo hpsor|phqw g|qdplfv +&d lq Iljxuh 5,1 Pruhryhu/ frqvlghu dq dgyhuvh
+vkrfn wr zdjh vhwwlqj zklfk lv/ iru lqvwdqfh/ lqgxfhg e| vwurqjhu srzhu ri xqlrqv
+lq zdjh qhjrwldwlrqv +d idoo lq q, ru e| pruh jhqhurxv sd|phqwv ri xqhpsor|phqw
+ehqhwv +d kljkhu uhsodfhphqw udwh b,1 Dv fdq eh vhhq iurp +:,/ erwk vxfk vkrfnv
+lqfuhdvh > dqg/ vlqfh uE& lv ghfuhdvlqj lq >/ wkh| vkliw wkh fxuyh +9, grzqzdugv1
+Iljxuhv 41d dqg 41e uhyhdo wkdw/ luuhvshfwlyh ri wkh pdjqlwxgh ri j/ vxfk vkrfnv ohdg
+wr d ghfolqh lq hpsor|phqw dqg wr d kljkhu fdslwdo lqwhqvlw| +dqg zdjhv,1 Wkxv/
+wkh lpsdfw hhfw ri dq dgyhuvh vkrfn wr zdjh vhwwlqj rq hpsor|phqw lv wkh vdph lq
+erwk fdvhv1
+Vxssrvh uvw wkdw wkh vkrfn lv shupdqhqw1 Iurp Sursrvlwlrq 2c zh nqrz wkdw iru
+j  wkh g|qdplfv zloo dozd|v eh +orfdoo|, vwdeoh1 Dv vkrzq lq Iljxuh / jurvv
+frpsohphqwdulw| ri lqsxwv hqvxuhv wkdw wkh lqlwldo ghfolqh lq hpsor|phqw +pryh
+iurp wr , zloo eh uhlqirufhg ryhu wlph dv fdslwdo ghfxpxodwhv rq wkh zd| wr wkh
+qhz vwhdg| vwdwh  Pruhryhu/ wkh oderxu vkduh lqfuhdvhv lq wklv fdvh rq lpsdfw
++pryh iurp wr , dqg uhwxuqv judgxdoo| ryhu wlph wr lwv lqlwldo ohyho/ dv grhv wkh
+fdslwdo lqwhqvlw| &1 Krzhyhu/ wkh ohyhov ri hpsor|phqw dqg fdslwdo lq wkh qhz vwhdg|
+vwdwh duh shupdqhqwo| orzhu1
+Dv lqglfdwhg e| Sursrvlwlrq 2c iru j :  lw lv lqghhg srvvleoh wr qg sdudphwulf
+frqvwhoodwlrqv lq zklfk wkh vdph h{shulphqw wxuqv rxw wr eh xqvwdeoh1 \hw/ dvvxph
+g|qdplfv duh vwdeoh1 Djdlq/ hpsor|phqw zloo eh orzhu lq wkh orqj uxq wkdq lq
+wkh lqlwldo vlwxdwlrq1 Krzhyhu/ lq frqwudvw wr wkh fdvh j c hpsor|phqw qrz
+48
+Iljxuh 7= Whpsrudu| zdjh suhvvxuh= xqhpsor|phqw udwh dqg oderxu vkduh +j ' fD,
+ryhuvkrrwv rq lpsdfw/ vlqfh wkh hqvxlqj surfhvv ri uhgxfhg fdslwdo irupdwlrq ohdgv
+wr d furzglqj0lq ri hpsor|phqw xqghu jurvv vxevwlwxwdelolw|1 Pruhryhu/ wkh oderxu
+vkduh idoov dv d uhvsrqvh wr wkh vkrfn dqg uhwxuqv vorzo| wr lwv orqj0uxq htxloleulxp
+ohyho iurp ehorz1
+Glhuhqfhv ehwzhhq wkh wzr uhjlphv ehfrph hyhq pruh surqrxqfhg li rqh frqvlghuv
+d whpsrudu| vkrfn wr zdjh vhwwlqj1 Wkh txdolwdwlyh hhfwv ri vxfk whpsrudu| vkrfnv
+fdq eh uhdg r iurp Iljxuh  li rqh frqvlghuv pryhphqwv iurp ryhu  wr ( edfn
+wr 1 Wr looxvwudwh wklv lq pruh ghwdlo/ zh suhvhqw uhvxowv iurp d vw|ol}hg vlpxodwlrq
+h{huflvh1 Whfkqrorj| sdudphwhuv duh g ' u ' 2f/ k ' fD/ oderxu pdunhw
+sdudphwhuv duh b ' fS/ q ' f/ Z ' f/ dqg wkh vdylqjv udwh lv r ' fe1 Zkhq
+j ' fD/ wkhuh lv d vwdeoh vwhdg| vwdwh dw derxw & ' 2b. zlwk xqhpsor|phqw udwh
+fb dqg oderxu vkduh f..1 Wkh vlpxodwlrq vwduwv lq shulrg 4 dw wkh vwhdg| vwdwh/
+dqg lq shulrg 8 wkhuh lv d 43 shufhqw lqfuhdvh lq wkh uhsodfhphqw udwlr wr b ' fSS/
+odvwlqj wkuhh shulrgv1 Iurp shulrg H rq/ wkh uhsodfhphqw udwh lv edfn dw fS1 Iljxuh
+7 vkrzv wkh dgmxvwphqw sdwkv ri wkh xqhpsor|phqw udwh dqg ri wkh oderxu vkduh1
+Wkh xqhpsor|phqw g|qdplfv h{klelwv vrph shuvlvwhqfh/ zkhuhdv wkh oderxu vkduh
+lqfuhdvhv uvw/ exw idoov ehorz lwv vwhdg| vwdwh ydoxh zkhq wkh zdjh suhvvxuh lv ryhu/
+ehiruh lw judgxdoo| folpev edfn wr lwv ruljlqdo ydoxh1
+Iljxuh 8 looxvwudwhv wkh vdph vlpxodwlrq h{huflvh iru j ' 21 Qrwh wkdw xqhpsor|phqw
+ryhuvkrrwv uvw dqg idoov whpsrudulo| hyhq ehorz lwv ruljlqdo ydoxh zkhq wkh zdjh
+suhvvxuh lv ryhu/ vlqfh qrz oderxu vxevwlwxwhv sduwo| iru wkh orzhu fdslwdo vwrfn1 Rq
+wkh rwkhu kdqg/ wkh oderxu vkduh idoov uvw +gxh wr wkh vwurqj ulvh lq hpsor|phqw,/
+exw h{fhhgv lwv ruljlqdo ydoxh diwhu wkh zdjh suhvvxuh lv ryhu1
+49
+Iljxuh 8= Whpsrudu| zdjh suhvvxuh= xqhpsor|phqw udwh dqg oderxu vkduh +j ' 2
+9 Glvfxvvlrq
+Wklv vhfwlrq glvfxvvhv iurp wkuhh shuvshfwlyhv krz rxu prgho dqg wkh uhvxowv w lqwr
+wkh h{lvwlqj olwhudwxuh1
++l, Whfkqrorj|
+Wkh ghshqghqfh ri yluwxdoo| doo rxu uhvxowv rq wkh hodvwlflw| ri vxevwlwxwlrq ehwzhhq
+oderxu dqg fdslwdo lqyduldeo| udlvhv wkh txhvwlrq ri krz wr dssursuldwho| vshfli|
+wkh whfkqrorjlfdo vhw0xs lq dq djjuhjdwh iudphzrun1 Wkh frqfhsw ri d surgxfwlrq
+ixqfwlrq zlwk xqgdwhg lqsxwv vxjjhvwv wkdw wkh hqwluh fdslwdo vwrfn fdq eh iuhho|
+frpelqhg zlwk doo dydlodeoh xqlwv ri oderxu1 \hw/ dv glvfxvvhg dw odujh lq wkh olwhu0
+dwxuh rq sxww|0fod| dvshfwv ri whfkqrorj|/ wklv qrwlrq lv plvohdglqj vlqfh wkh hp0
+erglphqw ri whfkqrorj| lq wkh fdslwdo vwrfn olplwv h{0srvw vxevwlwxwlrq srvvlelolwlhv
+rqfh lqyhvwphqwv kdyh ehhq pdgh1 Dgguhvvlqj wklv csxww|0fod|* ihdwxuh ri fdslwdo lq
+d sduwlfxoduo| fohdu0fxw zd|/ Fdedoohur dqg Kdpprxu +4<<:,/ iru h{dpsoh/ suhvhqw
+d iudphzrun zlwk kljk h{0dqwh vxevwlwxwlrq hodvwlflwlhv iru qhz xqlwv ri vwloo xqfrp0
+plwwhg fdslwdo1 Krzhyhu/ rqfh lqyhvwphqw ghflvlrqv kdyh ehhq fduulhg rxw/ fdslwdo
+lqwhqvlwlhv ehfrph {hg dqg ylqwdjh0vshflf1 Dv d uhvxow/ wkh surgxfwlyh vwuxfwxuh
+lv fkdudfwhul}hg e| wkh hqwluh glvwulexwlrq ri ylqwdjhv zlwk dvvrfldwhg fdslwdo lqwhq0
+vlwlhv148
+Li/ ghvslwh wklv frpshoolqj fulwlflvp/ rqh dgkhuhv wr wkh frqfhsw ri dq djjuhjdwh
+surgxfwlrq ixqfwlrq zlwk xqgdwhg lqsxwv/ dvvxpswlrqv pdgh zlwk uhvshfw wr wkh
+hodvwlflw| ri vxevwlwxwlrq duh ri nh| lpsruwdqfh1 Krzhyhu/ wkh olwhudwxuh glvdjuhhv rq
+wkh pdjqlwxgh e| zklfk kljk h{0dqwh ydoxhv ri wklv hodvwlflw| iru wkh fxuuhqw ylqwdjh
+48Iru d vlplodu glvfxvvlrq/ vhh Ehdq +4<;<,1
+4:
+ri fdslwdo jrrgv vkrxog eh glvfrxqwhg lq rughu wr rewdlq d vlqjoh h{0srvw ydoxh iru
+wkh hqwluh fdslwdo vwrfn douhdg| lq sodfh149 Lq d uhfhqw vwxg| rq ydulrxv RHFG
+frxqwulhv/ Dqghuvhq hw do1 +4<<<, dgguhvv wkrurxjko| wkh plvvshflfdwlrq sureohp
+li hvwlpdwhv iru wkh hodvwlflw| duh gluhfwo| rewdlqhg iurp d vwdqgdug csxww|0sxww|*
+iudphzrun1 Doorzlqj iru orqj dgmxvwphqw odjv lq dq huuru fruuhfwlrq vshflfdwlrq/
+wkh vwxg| uhfryhuv iru doo frxqwulhv ydoxhv ri wkh hodvwlflw| zhoo ehorz xqlw|1 Ilqglqjv
+ri wklv w|sh duh dovr uhsruwhg lq Urzwkruq +4<<<,/ zkr jlyhv d eurdg uhylhz ri
+wkh hpslulfdo olwhudwxuh rq wklv lvvxh1 Krzhyhu/ ghyldwlqj hylghqfh iru Iudqfh dqg
+Jhupdq| lv jlyhq e| Ehuwkrog/ Ihkq/ dqg Wkrgh +4<<<,/ zkr xvh dq huuru0fruuhfwlrq
+prgho dqg hvwlpdwh ydoxhv ri j vljqlfdqwo| deryh xqlw|1
+Vlploduo|/ wkh dvvxpswlrqv pdgh lq wkh wkhruhwlfdo olwhudwxuh duh dovr lqfrqfoxvlyh=
+Ehqdvv| +4<<:,/ Urzwkruq +4<<<,/ dqg Dfhprjox +5333,/ iru h{dpsoh/ frqqh wkhp0
+vhoyhv wr ydoxhv ehorz xqlw|1 Gdyhul dqg Wdehoolql +5333,/ Kdqvhq +4<<<, dqg wkh
+zlgho| flwhg wh{werrn e| Od|dug/ Qlfnhoo/ dqg Mdfnpdq +4<<4, pdlqwdlq wkh dvvxps0
+wlrq ri d xqlw hodvwlflw|1 Eodqfkdug +4<<:/ 4<<;, frqvlghuv vfhqdulrv iru j '  dqg
+j ' 2/ dowkrxjk wkh lpsolfdwlrqv ri wklv dvvxpswlrq duh glhuhqw iurp rxuv gxh wr
+wkh h{solflw lqwurgxfwlrq ri dgmxvwphqw frvwv1
+Wdnhq dw idfh ydoxh/ dq ryhuodsslqj jhqhudwlrqv hfrqrp| zlwk wzr shulrg olyhg
+djhqwv vhhpv qrw wr eh wkh lghdo iudphzrun wr dgguhvv wklv ghedwh1 Krzhyhu/ wr
+pdnh wkh vwru| xqghuo|lqj rxu prgho pruh frpshoolqj lq wkh sxww|0fod| frqwh{w/
+rqh frxog vlpso| dvvxph wkdw upv ohduq wkh uhdol}dwlrq ri vrph vkrfn ghvfulelqj
+wkh vwdwh ri whfkqrorj| rqo| diwhu lqyhvwphqwv lq xqvshflf fdslwdo kdyh ehhq pdgh1
+Pruh lpsruwdqwo|/ uhfdoo iurp Vhfwlrq e wkdw rxu uhvxowv dsso| dovr/ iru h{dpsoh/ lq
+wkh frqwh{w ri d vwdqgdug Vrorz jurzwk prgho1 Wkxv/ zh wklqn wkdw rxu uhvxowv jlyh
+vrph jxlgdqfh iru wklv ghedwh1
+Lq sduwlfxodu/ jlyhq wkh surqrxqfhg shuvlvwhqfh lq revhuyhg wlph vhulhv dqg wkh
+hyroxwlrq ri lqfrph vkduhv/ wkh suhglfwlrqv ri rxu prgho iru j :  duh qrw sdu0
+wlfxoduo| sodxvleoh1 Wkxv/ frpsohphqwlqj hpslulfdo vwxglhv rq sxww|0fod| dvshfwv
+ri whfkqrorj|/ rxu dqdo|wlfdo qglqjv vxjjhvw wkdw ydoxhv ri j  gr lqghhg kdyh
+pruh uhdvrqdeoh surshuwlhv li rqh xvhv d vwdqgdug surgxfwlrq ixqfwlrq zlwk xqgdwhg
+lqsxwv1
++ll, Hyroxwlrq ri lqfrph vkduhv
+Dv dujxhg lq ghwdlo e| Eodqfkdug +4<<:/ 4<<;, lq klv dqdo|vlv ri frqwlqhqwdo Hxur0
+shdq xqhpsor|phqw ryhu wkh sdvw ghfdghv/ dgyhuvh oderxu pdunhw vkrfnv pd| lq
+lvrodwlrq srwhqwldoo| h{sodlq wkh ulvh lq xqhpsor|phqw/ exw qrw lq frpelqdwlrq zlwk
+wkh revhuyhg hyroxwlrq ri lqfrph vkduhv1 Wkh nh| qglqj uhsruwhg e| Eodqfkdug lv
+dv iroorzv= Wkh hduo| skdvh ri +ulvlqj, xqhpsor|phqw lq frqwlqhqwdo Hxursh ehjlq0
+49Fdedoohur dqg Kdpprxu +4<<:, vhw wkh h{0dqwh hodvwlflw| dw d ydoxh ri  @ 9 dqg eurdgo|
+frqoxgh wkdw wklv ydoxh lv hpslulfdoo| frqvlvwhqw zlwk pxfk orzhu vkruw0uxq vxevwlwxwdelolw| lq wkh
+djjuhjdwh surgxfwlrq ixqfwlrq +s1 47,1
+4;
+Iljxuh 9= Whfkqrorjlfdo eldv wrzdugv fdslwdo= xqhpsor|phqw udwh dqg oderxu vkduh
++j ' fD,
+qlqj lq wkh 4<:3v zhqw kdqg lq kdqg zlwk d ulvh lq wkh oderxu vkduh1 \hw/ vlqfh wkh
+plg 4<;3v wkh vkduh ri fdslwdo kdv lpsuryhg djdlq dqg uhdfkhg ohyhov hyhq eh|rqg
+wkrvh suhydlolqj lq wkh hduo| 4<:3v/ zkloh xqhpsor|phqw nhsw ulvlqj14: Wr dffrxqw
+iru wklv sx}}olqj uhyhuvdo ri lqfrph vkduhv/ Eodqfkdug frqvlghuv wkh srvvlelolw| ri d
+judgxdoo| hphujlqj whfkqrorjlfdo eldv djdlqvw oderxu/ l1h1 d vkliw ri wkh surgxfwlrq
+ixqfwlrq wrzdugv ohvv oderxu0lqwhqvlyh surgxfwlrq14; Rxu glvfxvvlrq ri wkh hhfwv
+ri zdjh suhvvxuh/ li frqvlghuhg lq lvrodwlrq/ vkrzv wkdw rxu vhw0xs uxqv lqwr wkh
+vdph gl!fxowlhv lq h{sodlqlqj wkh sx}}olqj mrlqw ehkdylrxu ri lqfrph vkduhv dqg
+xqhpsor|phqw 0 luuhvshfwlyh ri wkh pdjqlwxgh ri j Pruhryhu/ zh fdq frqup wkdw
+whfkqrorjlfdo fkdqjhv fdq lqghhg eh dq h{sodqdwlrq iru wklv sx}}oh li zh uhsurgxfh
+d vkrfn dv dvvxphg e| Eodqfkdug lq wkh frqwh{w ri rxu prgho1 Wr vhh wklv/ frqvlghu
+wkh hhfw ri d shupdqhqw whfkqrorjlfdo eldv iurp oderxu wr fdslwdo/ ghvfulehg e| d
+D shufhqwdjh lqfuhdvh ri wkh fdslwdo frh!flhqw k lq wkh FHV surgxfwlrq ixqfwlrq
+iurp shulrg D rqzdugv1 Doo rwkhu sdudphwhuv duh dv lq wkh vlpxodwlrq h{huflvh lq
+Vhfwlrq D/ dqg zh vhw djdlq j ' fD1 Iljxuh 9 vkrzv wkh uhvxowlqj hyroxwlrq ri wkh
+xqhpsor|phqw udwh dqg ri wkh oderxu vkduh1 Li wkh vdph h{huflvh lv uhshdwhg iru
+4:E| frqwudvw/ lq Eodqfkdug*v fodvvlfdwlrq wkh Dqjor0Vd{rq frxqwulhv odfn phglxp0uxq hyr0
+oxwlrqv ri wklv w|sh1 Iru ixuwkhu hpslulfdo hylghqfh rq vkliwv lq lqfrph vkduhv/ vhh Ehqwrolod dqg
+Vdlqw0Sdxo +4<<<,1 Krzhyhu/ gh Vhuuhv/ Vfdushwwd/ dqg gh od Pdlvrqqhxyh +5333, dujxh wkdw wkh
+uhfhqw idoo lq wkh oderxu vkduh pd| eh sduwo| gxh wr phdvxuhphqw huuruv1
+4;Wr d fhuwdlq h{whqw/ wkh dgrswlrq ri vxfk whfkqrorjlhv vhhpv wr eh mxvw dqrwkhu w|sh ri d
+orqj0uxq uhvsrqvh ri fdslwdo wr hduolhu zdjh vkrfnv1 Lghdoo|/ wklv vkrxog eh h{sodlqhg zlwklq wkh
+prgho1 Gudzlqj rq Eodqfkdug*v qglqjv/ Dfhprjox +5333, suhvhqwv d prgho lq zklfk wkh gluhfwlrq
+ri whfkqrorjlfdo fkdqjh ehfrphv hqgrjhqrxv1
+4<
+j : / erwk hpsor|phqw dqg lqfrph vkduhv hyhqwxdoo| pryh lq wkh vdph gluhfwlrq/
+exw wkh| ryhuvkrrw lqlwldoo|1
+Qhyhuwkhohvv/ wkhuh duh txlwh glhuhqw w|shv ri vkrfnv zklfk pd| eh frqvlghuhg dv
+zhoo1 Iru wkh vshfldo fdvh ri Jhupdq|/ iru h{dpsoh/ wkh h{fhswlrqdo hyhqw ri xql0
+fdwlrq pd| kdyh frqwulexwhg wr wkh sx}}olqj ehkdylrxu ri lqfrph vkduhv1 Vxuho|/
+xqlfdwlrq lq Jhupdq| kdv surpswhg d vljqlfdqw fkdqjh lq uhodwlyh idfwru hqgrz0
+phqwv1 Lq sduwlfxodu/ jlyhq wkh srru txdolw| ri wkh suh0xqlfdwlrq hdvw Jhupdq
+fdslwdo vwrfn/ rqh pljkw dujxh wkdw lq xqlhg Jhupdq| oderxu kdv ehfrph uhod0
+wlyho| pruh dexqgdqw1 Dqg/ txlwh lq dffrugdqfh zlwk wkh hpslulfdo hylghqfh/ rxu
+eulhi glvfxvvlrq ri vkruw0uxq hhfwv uhvxowlqj iurp fkdqjhv lq uhodwlyh idfwru hqgrz0
+phqwv zrxog suhglfw +dvvxplqj j  wkdw vxfk d vkrfn zrxog ohdg rq lpsdfw wr d
+ulvh lq erwk wkh xqhpsor|phqw udwh dqg wkh lqfrph vkduh ri fdslwdo14<
++lll, Vwudwhjlf lqwhudfwlrq2Wlph krul}rqv
+Wr nhhs wklqjv wudqvsduhqw dw d jhqhudo htxloleulxp ohyho/ rxu prgho ghvfulehv vwudwh0
+jlf dvshfwv ri zdjh vhwwlqj lq d gholehudwho| vlpsoh pdqqhu1 Lq sduwlfxodu/ qhjrwldwlrq
+sduwqhuv wdnh dv jlyhq wkh vhfwru0zlgh fdslwdo vwrfn zklfk hqwhuv wkh edujdlq1 Wkxv/
+zh devwudfw iurp wkh w|slfdo krog0xs sureohp ri up0vshflf edujdlqlqj dv glvfxvvhg
+e| Jurxw +4<;7,/ Ydq ghu Sorhj +4<;:,/ Ghyhuhx{ dqg Orfnzrrg +4<<4, dqg Frorpd
++4<<<,1 Dv d frpprq ihdwxuh/ lq wkhvh vwxglhv wkh vl}h ri wkh vxusoxv wkdw lv uhohydqw
+wr wkh edujdlq ghshqgv rq wkh lqyhvwphqw ghflvlrq ri upv1 Ghshqglqj rq wkh h{dfw
+vshflfdwlrq ri wkh pryhv ri wkh sod|huv/ wklv ohdgv wr rxwfrphv zklfk duh eldvhg
+frpsduhg zlwk d frpshwlwlyh rxwfrph1
+Pruhryhu/ wkh ryhuodsslqj jhqhudwlrqv vshflfdwlrq dgguhvvhv wkh frqfhswxdoo| gli0
+fxow txhvwlrq ri krz wr vshfli| wkh dwwlwxgh ri lqvwlwxwlrqv vxfk dv xqlrqv dqg
+hpsor|huv* ihghudwlrqv wrzdugv phpehuv ri glhuhqw jhqhudwlrqv lq d sduwlfxoduo|
+wudqvsduhqw zd|1 Vlqfh lqglylgxdov zrun rqo| zkhq wkh| duh |rxqj/ erwk xqlrqv dqg
+hpsor|huv* ihghudwlrqv edujdlq lq hyhu| shulrg rqo| rq ehkdoi ri djhqwv ehorqjlqj wr
+d vlqjoh jhqhudwlrq/ dqg wkh| gr qrw wdnh lqwhuwhpsrudo frqvlghudwlrqv lqwr dffrxqw1
+: Frqfoxvlrq
+Wklv sdshu suhvhqwv d g|qdplf jhqhudo htxloleulxp prgho wr vwxg| wkh hhfwv ri
+lqvlghu0grplqdwhg zdjh vhwwlqj rq hpsor|phqw dqg lqfrph vkduhv1 Dv d jhqhudo
+ihdwxuh/ zh vkrz wkdw srolflhv zklfk vhhn wr h{sorlw d wudgh0r ehwzhhq hpsor|phqw
+dqg uhdo zdjhv dv ghvfulehg lq wkh vkruw uxq e| wkh djjuhjdwh oderxu ghpdqg vfkhgxoh
+4<Fhuwdlqo|/ d wkrurxjk dqdo|vlv wlhg wr wkh vshflfv ri wkh Jhupdq xqlfdwlrq surfhvv zrxog
+kdyh wr dgguhvv dgglwlrqdo lvvxhv vxfk dv wkh hhfwv ri srvw0xqlfdwlrq vxevlglhv ri fdslwdo rq
+uhodwlyh idfwru sulfhv dqg wkh hhfwv ri h{sdqvlrqdu| vfdo srolflhv rq fdslwdo irupdwlrq lq jhqhudo1
+53
+pd| zhoo wxuq rxw wr eh vhoi0ghihdwlqj zkhq wkh orqj0uxq uhvsrqvh ri fdslwdo lv wdnhq
+lqwr dffrxqw dv zhoo1
+Pruh vshflfdoo|/ zh dxjphqw dq rwkhuzlvh vwdqgdug ryhuodsslqj jhqhudwlrqv hfrq0
+rp| ri wkh Gldprqg0w|sh zlwk d zdjh edujdlqlqj vwuxfwxuh dqg rewdlq h{solflw
+vroxwlrqv iru vkruw dqg orqj0uxq surshuwlhv ri htxloleuld1 Xvlqj ixoo| frpshwlwlyh
+rxwfrphv dv d ehqfkpdun/ zh vkrz wkdw xqghu zdjh edujdlqlqj wkh h{lvwhqfh/
+xqltxhqhvv/ dqg vwdelolw| ri htxloleuld dv zhoo dv +vhfrqg0ehvw, zhoiduh surshuwlhv
+ghshqg vhqvlwlyho| rq wkh pdjqlwxgh ri wkh hodvwlflw| ri vxevwlwxwlrq ehwzhhq oderxu
+dqg fdslwdo1 Frpsduhg zlwk d shuihfwo| frpshwlwlyh vhwwlqj/ ydoxhv ri wkh hodvwlflw|
+ehorz xqlw| whqg wr suhvhuyh vwdelolw| dqg ohdg wr hpslulfdoo| sodxvleoh uhvsrqvhv ri
+hpsor|phqw dqg lqfrph vkduhv wr zdjh vhwwlqj vkrfnv1 E| frqwudvw/ iru ydoxhv ri
+wkh hodvwlflw| deryh xqlw| wkh uhvsrqvh sdwwhuq wr vxfk vkrfnv lv ohvv sodxvleoh/ dqg/
+pruh ixqgdphqwdoo|/ orqj0uxq vwdwlrqdu| htxloleuld pd| zhoo ehfrph xqvwdeoh1
+Zh ghprqvwudwh wkdw rxu uhvxowv duh qrw frqqhg wr wkh vshfldo vwuxfwxuh ri ryhu0
+odsslqj jhqhudwlrqv hfrqrplhv/ exw dsso| dovr/ iru h{dpsoh/ lq wkh frqwh{w ri d
+vwdqgdug Vrorz prgho zkhq dxjphqwhg fruuhvsrqglqjo| e| zdjh edujdlqlqj1 Wkxv/
+jlyhq wkh eurdg udqjh ri hvwlpdwhv ri wkh vxevwlwxwlrq hodvwlflw| suhvhqwhg lq wkh
+hpslulfdo olwhudwxuh/ zh wklqn wkdw rxu uhvxowv jlyh vrph jxlgdqfh iru wklv ghedwh
+iurp d wkhruhwlfdo shuvshfwlyh1
+Zh frqfoxgh e| srlqwlqj rxw wzr dvshfwv zklfk zh qg surplvlqj iru ixwxuh zrun1
+Iluvw/ wkh idfw wkdw vwhdg| vwdwh fdslwdo lqwhqvlwlhv duh lghqwlfdo xqghu ixoo hpsor|0
+phqw dqg xqhpsor|phqw g|qdplfv ghshqgv vwurqjo| rq rxu dvvxpswlrq wkdw wkh
+exgjhw ri wkh xqhpsor|phqw lqvxudqfh lv dozd|v edodqfhg e| dssursuldwh wd{dwlrq
+ri zdjh lqfrph1 Lq d frpsdqlrq sdshu +Nddv dqg yrq Wkdgghq +5333,,/ zh uhod{
+wklv dvvxpswlrq dqg glvfxvv krz wkh srvvlelolw| ri erqg qdqflqj ohdgv wr dgglwlrqdo
+vwhdg| vwdwhv dqg pxfk ulfkhu +wzr0glphqvlrqdo, g|qdplfv1 Vhfrqg/ wkh vw|ol}hg
+slfwxuh ri lqfrph vkduhv ghshqgv vhqvlwlyho| rq krz rqh dffrxqwv iru vkliwv lq wkh
+frpsrvlwlrq ri wkh zrunirufh ehwzhhq hpsor|hhv dqg vhoihpsor|hg zrunhuv1 \hw/
+eh|rqg wklv phdvxuhphqw sureohp/ glhuhqfhv lq xqlrq phpehuvkls ehwzhhq wkhvh
+jurxsv +dqg dfurvv vhfwruv, pdnh lw ghvludeoh wr hqgrjhql}h wkh ghflvlrq wr mrlq d
+xqlrq1 Dwnlqvrq +4<<<,/ iru h{dpsoh/ suhvhqwv d edujdlqlqj prgho lq zklfk zrunhuv
+zlwk glhuhqw vnloov hqwhu wkh xqlrq frqwlqjhqw rq uhfhlylqj dq h{shfwhg zdjh zklfk
+h{fhhgv wkhlu rxwvlgh surgxfwlylw|1 Zkloh rxu prgho wuhdwv wkh edujdlqlqj sdudphwhu
+dv h{rjhqrxv/ ixuwkhu zrun dorqj wkh olqhv ri Dwnlqvrq +4<<<, rhuv d surplvlqj zd|
+wr ghwhuplqh wkh +wlph0ydu|lqj, vwuhqjwk ri lqvlghuv iurp zlwklq wkh v|vwhp1
+54
+Dsshqgl{
+Surri ri Sursrvlwlrq 2=
++l, Qrwlfh wkdw wkh hodvwlflw| ri vxevwlwxwlrq lv
+jE& '
+
+_ EsE&*E&
+_&
+
+3 sE&*E&
+&
+'
+#sE& 
+#s
+E&
+c +48,
+dqg wkdw
+#%E& '
+#sE&
+jE&
+1 +49,
+Qrz #%E&  vlqfh #sE&  dqg jE& : 1 Khqfh wkh qxphudwru lq +46, lv
+qhjdwlyh1 Li wkh ghqrplqdwru lv dovr qhjdwlyh/ & lv xqvwdeoh vlqfh _E& :  ehfdxvh ri
+#%E&  #rE-E&#EE&1 Li wkh ghqrplqdwru lv srvlwlyh/ vxssrvh wkdw & lv vwdeoh/
+vr wkdw _E& :  zklfk phdqv
+#%E& n 2#uE& n  : #rE-E&#EE&  +4:,
+Vlqfh #uE&  dqg vlqfh #EE& ' #s
+E&sE&*EsE&n B  #s
+E&/ wklv lpsolhv
+#rE-E& : #s
+E&3E#%E&  
+Xvlqj +48, dqg +49, |lhogv
+#rE-E& :
+jE&
+#sE& 
+#sE& jE&
+jE&
+'
+jE& #sE&
+ #sE&
+:  /
+d frqwudglfwlrq wr wkh dvvxpswlrq wkdw wkh lqwhuhvw hodvwlflw| ri vdylqjv grhv qrw
+h{fhhg rqh1
++ll, Xqghu wkh dvvxpswlrqv/ wkh ghqrplqdwru ri +46, lv fohduo| srvlwlyh1 Vxssrvh wkdw
+& lv orfdoo| vwdeoh1 Wkhq _E&  lpsolhv +47,1 Qrz vxssrvh wkdw +47, lv vdwlvhg1
+Wkhq/ li wkh qxphudwru ri +46, lv qrqqhjdwlyh/ wkh vwhdg| vwdwh lv orfdoo| vwdeoh vlqfh
+f  _E& 1 Li wkh qxphudwru lv qhjdwlyh/ & lv orfdoo| vwdeoh li _E& :  zklfk lv
+htxlydohqw wr +4:,1 Exw vlqfh wkh uljkw kdqg vlgh ri wklv lqhtxdolw| lv qrqsrvlwlyh/
+dqg vlqfh #uE& : *2/ wklv frqglwlrq lv ixooohg1 Khqfh & lv vwdeoh li dqg rqo| li
++47, lv vdwlvhg1
++lll, Li j  / +47, lv vdwlvhg dw wkh xqltxh vwhdg| vwdwh1 Khqfh/ dffruglqj wr +ll,/
+wklv vwhdg| vwdwh lv vwdeoh li #uE& : *2 dqg dffruglqj wr +l, lw lv xqvwdeoh li
+#uE& 1 Li j / #uE& : f/ dqg dffruglqj wr +ll, d vwhdg| vwdwh lv vwdeoh l
++47, lv vdwlvhg/ zklfk lv wkh fdvh dw &d exw qrw dw &u1
+55
+Uhihuhqfhv
+Dfhprjox/ G1/ oderxu0 dqg fdslwdo0dxjphqwlqj whfkqlfdo fkdqjh/ QEHU Zrunlqj
+Sdshu/ Qr1 :877/ 53331
+Dqghuvhq/ S1/ Nodx/ P1/ dqg \qgjddug/ H1/ Kljkhu surwv dqg orzhu fdslwdo sulfhv=
+lv idfwru doorfdwlrq rswlpdoB/ ELV Zrunlqj Sdshu/ Qr1 98/ 4<<<1
+Dwnlqvrq/ D1/ Wkh hfrqrplf frqvhtxhqfhv ri uroolqj edfn wkh zhoiduh vwdwh/ Pxqlfk
+Ohfwxuhv lq Hfrqrplfv/ Fdpeulgjh2Pdvv1/ 4<<<1
+D}duldglv/ F1/ Lqwhuwhpsrudo pdfurhfrqrplfv/ Edvlo Eodfnzhoo/ Qhz \run/ 4<<61
+Ehdq/ F1/ Fdslwdo vkruwdjhv dqg shuvlvwhqw xqhpsor|phqw/ Hfrqrplf Srolf|/ ;/ 440
+86/ 4<;<1
+Ehqdvv|/ M10S1/ Lpshuihfw frpshwlwlrq/ fdslwdo vkruwdjhv dqg xqhpsor|phqw shuvlv0
+whqfh/ Vfdqglqdyldq Mrxuqdo ri Hfrqrplfv/ <</ 4/ 4805:/ 4<<:1
+Ehqwrolod/ V1 dqg Vdlqw0Sdxo/ J1/ H{sodlqlqj pryhphqwv lq wkh oderxu vkduh/ FHPSL
+Zrunlqj Sdshu/ Qr1 <<38/ 4<<<1
+Ehuwkrog/ Q1/ Ihkq/ U1/ dqg Wkrgh/ H1/ Idoolqj oderxu vkduh dqg ulvlqj xqhpsor|0
+phqw= Orqj0uxq frqvhtxhqfhv ri lqvwlwxwlrqdo vkrfnvB/ Zrunlqj sdshu/ Xqlyhuvlwçw
+Z u}exuj/ 4<<<1
+Eodqfkdug/ R1 / Wkh phglxp uxq/ Eurrnlqjv Sdshuv rq Hfrqrplf Dfwlylw|/ 5/ ;<048;/
+4<<:1
+Eodqfkdug/ R1/ Uhylvlwlqj Hxurshdq xqhpsor|phqw= xqhpsor|phqw/ fdslwdo dffx0
+pxodwlrq dqg idfwru sulfhv/ QEHU Zrunlqj Sdshu/ Qr1 9899/ 4<<;1
+Exugd/ P1/ Lv wkhuh d fdslwdo vkruwdjh lq HxurshB/ Zhowzluwvfkdiwolfkhv Dufkly/ 457/
+6;08:/ 4<;;1
+Fdedoohur/ U1 dqg Kdpprxu/ P1/ Mreohvv jurzwk= dssursuldelolw|/ idfwru vxevwlwx0
+wlrq/ dqg xqhpsor|phqw/ QEHU Zrunlqj Sdshu/ Qr1 9554/ 4<<:1
+Fdopiruv/ O1 dqg Guloo/ M1/ Edujdlqlqj vwuxfwxuh/ frusrudwlvp/ dqg pdfurhfrqrplf
+shuirupdqfh/ Hfrqrplf Srolf|/ 9/ 46095/ 4<;;1
+Frorpd/ J1/ Fdslwdo dffxpxodwlrq dqg lqfrph glvwulexwlrq dv wkh rxwfrph ri d
+g|qdplf jdph/ Mrxuqdo ri Hfrqrplf G|qdplfv dqg Frqwuro/ 56/ 44::0<9/ 4<<<1
+56
+Gdyhul/ I1 dqg Wdehoolql/ J1/ Xqhpsor|phqw dqg wd{hv/ Hfrqrplf Srolf|/ 48/ 7:
+437/ 53331
+Ghyhuhx{/ P1 dqg Orfnzrrg/ E1/ Wudgh xqlrqv/ qrq0elqglqj zdjh djuhhphqwv/ dqg
+fdslwdo dffxpxodwlrq/ Hxurshdq Hfrqrplf Uhylhz/ 68/ 4744059/ 4<<41
+Judqgprqw/ M1P1/ Rq hqgrjhqrxv frpshwlwlyh exvlqhvv f|fohv/ Hfrqrphwulfd/ 86/
+<<84378/ 4<;81
+Judqgprqw/ M1P1/ Slqwxv/ S1 dqg gh Yloghu/ Fdslwdooderu vxevwlwxwlrq dqg frpshw0
+lwlyh qrqolqhdu hqgrjhqrxv exvlqhvv f|fohv/ Mrxuqdo ri Hfrqrplf Wkhru|/ ;3/ 478</
+4<<;1
+Jurxw/ S1/ Lqyhvwphqw dqg zdjhv lq wkh devhqfh ri elqglqj frqwudfwv= d Qdvk edu0
+jdlqlqj dssurdfk/ Hfrqrphwulfd/ 85/ 77<093/ 4<;71
+Kdqvhq/ F1/ Orqj0uxq lpsdfw ri lqfuhdvhg zdjh suhvvxuh/ Mrxuqdo ri Hfrqrplfv/ 9</
+5/ 47408:/ 4<<<1
+Kxpdq/ J1Z1/ Dq dowhuqdwlyh qhrfodvvlfdo jurzwk prgho zlwk forvhgirup ghfl0
+vlrq uxohv/ Hfrqrplfv Ohwwhuv/ 75/ 8<96/ 4<<61
+Nddv/ O1 dqg yrq Wkdgghq/ O1/ Xqedodqfhg exgjhwv dqg xqhpsor|phqw shuvlvwhqfh/
+plphr/ 53331
+Od|dug/ U1/ Qlfnhoo/ V1/ dqg Mdfnpdq/ U1/ Xqhpsor|phqw/ Pdfurhfrqrplf shuiru0
+pdqfh dqg wkh oderxu pdunhw/ R{irug Xqlyhuvlw| Suhvv/ 4<<41
+PfGrqdog/ L1 dqg Vrorz/ U1/ Zdjh edujdlqlqj dqg hpsor|phqw/ Dphulfdq Hfrqrplf
+Uhylhz/:4/ 8/ ;<90<3;/ 4<;41
+Rvzdog/ D1/ Wkh hfrqrplf wkhru| ri wudgh xqlrqv= dq lqwurgxfwru| vxuyh|/ Vfdqgl0
+qdyldq Mrxuqdo ri Hfrqrplfv/ ;:/ 5/ 4930<6/ 4<;81
+Skhosv/ H1/ Vwuxfwxudo Voxpsv/ Kduydug Xqlyhuvlw| Suhvv/ 4<<71
+Slvvdulghv/ F1/ Wkh lpsdfw ri hpsor|phqw wd{ fxwv rq xqhpsor|phqw dqg zdjhv=
+wkh uroh ri xqhpsor|phqw ehqhwv dqg wd{ vwuxfwxuh/ Hxurshdq Hfrqrplf Uhylhz/
+75/ 4880;6/ 4<<;1
+Uhlfkolq/ S1/ Htxloleulxp f|fohv lq dq ryhuodsslqj jhqhudwlrqv hfrqrp| zlwk sur0
+gxfwlrq/ Mrxuqdo ri Hfrqrplf Wkhru|/ 73/ ;<0435/ 4<;91
+57
+Urzwkruq/ U1/ Xqhpsor|phqw/ zdjh edujdlqlqj dqg fdslwdo0oderxu vxevwlwxwlrq/
+Fdpeulgjh Mrxuqdo ri Hfrqrplfv/ 56/ 746058/ 4<<<1
+gh Vhuuhv/ D1/ Vfdushwwd/ V1/ dqg gh od Pdlvrqqhxyh/ F1/ Idoolqj zdjh vkduhv lq
+Hxursh dqg wkh Xqlwhg Vwdwhv= krz lpsruwdqw lv djjuhjdwlrq eldvB/ Plphr/ RHFG/
+53331
+Ydq ghu Sorhj/ I1/ Wudgh xqlrqv/ lqyhvwphqw/ dqg hpsor|phqw/ D qrq0frrshudwlyh
+dssurdfk/ Hxurshdq Hfrqrplf Uhylhz/ 64/ 47980<5/ 4<;:1
+58
+- 26 -
+The following papers have been published since 1999:
+January 1999 Die Geldmenge und ihre bilanziellen
+Gegenposten: Ein Vergleich zwischen
+wichtigen Ländern der Europäischen
+Währungsunion * Dimut Lang
+February 1999 Die Kapitalmarktzinsen in Deutschland
+und den USA: Wie eng ist der Zinsverbund?
+Eine Anwendung der multivariaten
+Kointegrationsanalyse * Manfred Kremer
+April 1999 Zur Diskussion über den Verbraucher-
+preisindex als Inflationsindikator ­
+Beiträge zu einem Workshop in der
+Deutschen Bundesbank *
+July 1999 Monitoring Fiscal Adjustments
+in the European Union and EMU Rolf Strauch
+October 1999 Cyber money as a medium of exchange Gabriele Kabelac
+December 1999 Implicit Government Guarantees
+and Bank Herding Behavior Rasmus Rüffer
+December 1999 Implications of the new sesonal
+adjustment method Census
+X-12-ARIMA for current
+economic analysis in Germany Robert Kirchner
+February 2000 How Safe Was the ,,Safe Haven"?
+Financial Market Liquidity during
+the 1998 Turbulences Christian Upper
+* Available in German only.
+- 27 -
+May 2000 The determinants of the euro-dollar
+exchange rate ­ Synthetic fundamentals Jörg Clostermann
+and a non-existing currency Bernd Schnatz
+July 2000 Concepts to Calculate Equilibrium
+Exchange Rates: An Overview Ronald MacDonald
+August 2000 Kerinflationsraten: Ein Methoden-
+vergleich auf der Basis westdeutscher
+Daten * Bettina Landau
+September 2000 Exploring the Role of Uncertainty
+for Corporate Investment Decisions
+in Germany Ulf von Kalckreuth
+November 2000 Central Bank Accountability and
+Transparency: Theory and Some Sylvester C.W. Eijffinger
+Evidence Marco M. Hoeberichts
+November 2000 Welfare Effects of Public Stephen Morris
+Information Hyung Song Shin
+November 2000 Monetary Policy Transparency, Public
+Commentary, and Market Perceptions
+about Monetary Policy in Canada Pierre L. Siklos
+November 2000 The Relationship between the Federal
+Funds Rate and the Fed's Funds Rate
+Target: Is it Open Market or Open
+Mouth Operations? Daniel L. Thornton
+November 2000 Expectations and the Stability Problem George W. Evans
+for Optimal Monetary Policies Seppo Honkapohja
+* Available in German only.
+- 28 -
+January 2001 Unemployment, Factor Substitution, Leo Kaas
+and Capital Formation Leopold von Thadden
+

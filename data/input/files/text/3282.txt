@@ -1,0 +1,556 @@
+https://doi.org/10.1177/1478929917750311
+Political Studies Review
+1­12
+© The Author(s) 2018
+DOI: 10.1177/1478929917750311
+journals.sagepub.com/home/psrev
+Heuristics and Political Elites'
+Judgment and Decision-Making
+Barbara Vis
+Abstract
+It is broadly assumed that political elites (e.g. party leaders) regularly rely on heuristics in
+their judgments or decision-making. In this article, I aim to bring together and discuss the
+scattered literature on this topic. To address the current conceptual unclarity, I discuss two
+traditions on heuristics: (1) the heuristics and biases (H&B) tradition pioneered by Kahneman
+and Tversky and (2) the fast and frugal heuristics (F&F) tradition pioneered by Gigerenzer et al.
+I propose to concentrate on two well-defined heuristics from the H&B tradition--availability
+and representativeness--to empirically assess when political elites rely on heuristics and thereby
+understand better their judgments and decisions. My review of existing studies supports the
+notion that political elites use the availability heuristic and possibly the representativeness one
+for making complex decisions under uncertainty. It also reveals that besides this, we still know
+relatively little about when political elites use which heuristic and with what effect(s). Therefore,
+I end by proposing an agenda for future research.
+Keywords
+political decision-making, political judgment, political elites, availability heuristic,
+representativeness heuristic, fast and frugal heuristics, heuristics and biases
+Accepted: 19 June 2017
+Introduction
+When taking decisions or making judgments (i.e. assessing situations that oftentimes
+precede decision-making; Newell et al., 2015: 20), individuals regularly apply heuristics:
+cognitive shortcuts or rules of thumb (see Gilovich et al., 2002). Much literature focuses
+on the heuristics voters use, for instance, in their information search (Bartels, 1996;
+Redlawsk, 2004) or preference formation (Bang Petersen, 2015). Compared to this large
+literature that examines empirically the heuristics voters apply, the body of work studying
+empirically the heuristics applied by political elites--for example, members of cabinet,
+Utrecht University School of Governance, Utrecht University, Utrecht, The Netherlands
+Corresponding author:
+Barbara Vis, Utrecht University School of Governance, Utrecht University, Bijlhouwerstraat 6, 3511 ZC
+Utrecht, The Netherlands.
+Email: b.vis@uu.nl
+750311
+PSW0010.1177/1478929917750311Political Studies ReviewVis
+research-article2017
+Article
+2 Political Studies Review 00(0)
+party leaders, or members of parliament (MPs)--is much more scant (exceptions include
+Böhmelt et al., 2016; Jacobs, 2011; Kropp, 2010; Laver and Sergenti, 2012; Weyland,
+2007, 2014).1 Political elites make judgments and decisions in an environment that differs
+from that of ordinary citizens. Elites typically have more resources and support staff,
+which may enable more accurate judgments and decisions (Jacobs, 2011; Weyland, 2014).
+Political elites'motivation to arrive at an accurate judgment may also be higher, stimulat-
+ing higher effort reasoning and a more systematic mode of processing (Jacobs, 2011).
+Another, related difference is that ordinary citizens usually face too little information to
+make a "comprehensively rational" choice (Gilovich and Griffin, 2002: 3), whereas polit-
+ical elites regularly face too much information. A large majority (74%)2 of Belgian politi-
+cians, for example, are overwhelmed by the information they receive on a daily basis
+(Walgrave et al. 2013: 22), making it plausible that they turn to heuristics for managing
+this complexity. It goes beyond this article's scope to explore the differences between
+ordinary citizens and elites in more detail. Still, this possible difference is one reason to
+concentrate on political elites' use of heuristics.
+Various strands of literature on political elites'judgment or decision-making pay atten-
+tion to some heuristic (e.g. Allison and Zelikov, 1999; Kingdon, 1989; Matthews and
+Stimson, 1975). Because these studies vary substantially in how they define the term
+heuristic, their findings are difficult to compare. Moreover, instead of empirically testing
+whether political elites rely on heuristics, such studies typically assume (for instance,
+because of incomplete information) that a heuristic has been employed. Establishing
+empirically that political elites have used a heuristic instead of simply assuming that they
+have is challenging (cf. Lau and Redlawsk, 2001).
+Against this backdrop, my objectives are threefold. First, I address the lack of concep-
+tual clarity by discussing two main traditions on heuristics: (1) the heuristics and biases
+(H&B) tradition pioneered by Kahneman and Tversky (e.g. Gilovich et al., 2002; Tversky
+and Kahneman, 1974) and (2) the fast and frugal heuristics (F&F) tradition pioneered by
+Gigerenzer and his colleagues (e.g. Gigerenzer, 2001, 2015; Gigerenzer and Selten,
+2001). While both traditions have their merits, I argue that two clearly defined,3 general-
+purpose heuristics (Gilovich and Griffin, 2002: 3) from the H&B tradition--availability
+and representativeness--are especially relevant to political decision-making. Knowing
+more about the conditions under which political elites rely on these heuristics--which
+underlie many others--4 will further our understanding of political judgment and deci-
+sion-making. It does so because it helps to explain in the face of uncertainty which issues
+or proposals are likely to reach to the political agenda (through availability). And which
+ones are likely to be perceived as being able to solve the issue at hand (through repre-
+sentativeness). My second objective is to bring together and discuss a selection of studies
+on political elites' reliance on heuristics. Hereby, I focus mainly--but not exclusively--
+on the availability and representativeness heuristics. This review shows that political
+elites indeed rely on these heuristics, but also that we know very little about the condi-
+tions under which a specific heuristic is used (except for the general finding that complex-
+ity and uncertainty matters). The third and final objective is therefore to bring the
+discussion forward by outlining an agenda for future research.
+What is a heuristic? Different traditions, different answers
+Heuristic is a broad term that, according to Shah and Oppenheimer (2008: 207), "has
+been used to describe nearly everything." In the game-theoretic literature, for example, a
+Vis 3
+heuristic is defined as "a method or rule for solving problems" (Peyton Young, 2008: 1).
+And in the agent-based modeling literature as "decision-making rules of thumb that can
+in practice be very effective but can never be proven formally to be the best responses to
+any conceivable state of the world" (Laver and Sergenti, 2012: 25). Political scientists
+typically state that an individual employs a heuristic if she takes a decision based on any-
+thing but full information. Because more information is always possible, "nearly anything
+can be construed as a heuristic" (Druckman et al., 2009: 494). This not only makes what
+is a heuristic unclear (cf. Shah and Oppenheimer, 2008) but also impairs the accumulation
+of knowledge.
+So, how to define heuristics? Who may be seen as the founding father of heuristics,
+Herbert Simon (1990: 11), defines them as "methods for arriving at satisfactory solutions
+with modest amounts of computation." The two traditions on heuristics mentioned above
+each build on Simon's definition. Let me first discuss the traditions in some more detail.
+The H&B tradition emphasizes how and why using heuristics typically results in judg-
+ments or decisions that are suboptimal compared to a normative standard. This standard
+is oftentimes expected utility theory (Von Neumann and Morgenstern, 1944) or another
+variant of comprehensive rationality theory (Gilovich and Griffin, 2002). The F&F tradi-
+tion, conversely, is interested in how and why F&F heuristics regularly allow people to
+make judgments or decisions that "fit" their environment and that are thereby ecologi-
+cally rational (Gigerenzer, 2001; Goldstein and Gigerenzer, 2002).5 Limitations of knowl-
+edge and computational capability need not be a disadvantage. In fact, these scholars
+argue that if an environment is highly complex, using a heuristic may yield better deci-
+sions. Another contrast is that much research in the H&B tradition assumes that heuristics
+are used automatically and largely unconsciously, per dual-process theories of mind's
+"system 1" reasoning (Kahneman, 2011; Kahneman and Frederick, 2002: 51­52;
+Stanovich and West, 2000). The F&F tradition, conversely, generally assumes that heuris-
+tics are employed consciously (Gilovich and Griffin, 2002: 16­17), more in line with
+"system 2" reasoning.6
+These characteristics are recognizable in the respective definitions employed. The
+F&F tradition defines a heuristic as a strategy that ignores "part of the information, with
+the goal of making decisions more quickly, frugally, and/or accurately than more complex
+methods" (Gigerenzer, 2015: 112). Frugality plays no role in the H&B tradition. Instead,
+the latter defines a heuristic as a substitution of an object's property with something that
+comes more readily to mind. A heuristic mediates judgment when people assess "a speci-
+fied target attribute of a judgment object by substituting another property of that object--
+the heuristic attribute--which comes more readily to mind" (Kahneman and Frederick,
+2002: 53, emphases in original). Such substitution clearly takes place in the availability
+and the representativeness heuristics from the H&B tradition.
+People employ the availability heuristic (Tversky and Kahneman, 1973) when they
+assess how likely it is that something occurs (e.g. a new party entering office) by focusing
+on the ease with which they can think of occurrences of it (new parties that were success-
+ful in entering office). For example, in Weyland's (2014) study on the spread of political
+regime contention since 1848, the striking, vivid example of regime collapse in a neigh-
+boring country (availability) positively influenced citizens' willingness to protest
+themselves.
+People use the representativeness heuristic when they assess to which degree phenom-
+enon A (like population aging in Europe) resembles phenomenon B (population aging in
+the Netherlands) (Kahneman and Tversky, 1972; Tversky and Kahneman, 1974).
+4 Political Studies Review 00(0)
+Statements such as "She will win the election; you can see she is a winner" (Kahneman,
+2011: 150) indicate that someone relies on representativeness, same as when someone
+judges "the potential leadership of a candidate for office by the shape of his chin or the
+forcefulness of his speeches" (Kahneman, 2011: 150). Also, politicians who think nega-
+tively about whole groups of people--for instance, Muslims--because of the activities of
+some of them rely on representativeness.7
+Political elites' reliance on heuristics and their effects
+As noted above, in many studies on political elites' judgment or decision-making, heuris-
+tics play some role. Such studies generally argue that political elites rely on a heuristic
+when facing too many decisions (information overload), when the information is poor,
+and in the presence of uncertainty (Sullivan et al., 1993: 978). These studies can be placed
+in the bounded rationality literature (e.g. Jones, 2001; Simon, 1955). Examples include
+Matthews and Stimson's (1975) study of the heuristics United States legislators employ
+(see also Kingdon, 1977, 1989), studies on how elites use information in foreign policy-
+making (e.g. Allison and Zelikov, 1999), and work building on Lindblom's (1959) notion
+of policy incrementalism.8 Also in the economic voting literature (Nadeau et al., 2002;
+Powell and Whitten, 1993; Whitten and Palmer, 1999), a decision-making shortcut is
+identifiable on the side of political elites. Their assumption that voters vote economically
+makes them try to change the economy for the better, for instance, by creating jobs or by
+public investments that boost economic growth, especially shortly before an election.
+Such behavior can give rise to political business cycles (Franzese, 2002). Except for the
+general statement that political elites do seem to rely on heuristics, these studies' findings
+are difficult to compare and accumulate given their different definitions of heuristics.
+Moreover, as indicated, this work typically assumes instead of showing empirically that
+political elites use heuristics. An exception to this last statement is Kropp (2010), who
+aims to demonstrate German MPs' reliance on heuristics when they scrutinize European
+Union (EU) policy-making. Kropp finds that MPs use a heuristic whenever they try to
+reduce complexity, but it remains unclear how exactly she established this. To further the
+discussion on political elites' use of heuristics, it makes sense to zoom in onto a selected
+number of well-defined yet broad heuristics that are especially useful for political judg-
+ment and decision-making. Availability and representativeness are precisely that.
+Do political elites employ the availability heuristic?
+Let us first assess whether political elites rely on the availability heuristic. The short
+answer is yes, they do. Focusing on leading policy makers in Latin America, Weyland
+(2007) demonstrated that the readily availability of Chile's bold and novel pension sys-
+tem put this model on their policy agendas. There were factors like geographic and tem-
+poral proximity--that is, availability--that influenced the policy makers' decisions,
+rather than a logical evaluation of which model would be best (see also Weyland, 2008).9
+In his 2014-book, Weyland reconstructed the employment of the availability heuristic and
+the representative heuristic during three key waves of democratic contention using quali-
+tative sources like contemporary participants'reports, diaries and eyewitness accounts. In
+personal communication, Weyland indicated that for operationalizing the availability
+heuristic, he focused mainly on disproportionate attention, references, and the subjective
+assignment of importance to a dramatic, vivid precedent (like the overthrow of the French
+King in 1848). Simultaneously, he assessed whether there were no references to other
+Vis 5
+"objectively relevant" precedents (such as the revolutionary waves in the Italian states in
+the same year). Through this approach, Weyland (2014) demonstrated that political elites
+indeed rely on the availability heuristic. This finding is corroborated by the, to the best of
+my knowledge, first quantitative study on the availability (and representativeness) heuris-
+tics by Böhmelt et al. (2016). Böhmelt et al. found a significant, substantively important
+effect of foreign incumbents' party positions on the policy position of >200 domestic
+parties from 26 countries between 1977 and 2010.10 Importantly, their large-n set-up
+allowed for testing what political elites did not rely on.
+While Jacobs (2011) did not employ this term himself (contrary to Weyland and
+Böhmelt et al.), also his study on the establishment on contributory pension schemes in
+Germany, Britain, the United States, and Canada supports political elites' employment of
+the availability heuristic. In Jacobs'account, this heuristic entered through policy makers'
+prior causal ideas. He showed that the options considered were shaped crucially by what
+was available.
+Do political elites employ the representativeness heuristic?
+The empirical evidence suggesting that political elites rely on the representativeness heu-
+ristic is more mixed. Supportive evidence comes, for example, from Weyland (2007), who
+demonstrated that leading policy makers' employment of the representativeness heuristic
+explains why so many countries in Latin America followed Chile's pension reform; they
+saw the Chilean success as representative of a larger set of reform successes (see also
+Weyland, 2008, 2014). In personal communication, Weyland indicated that he identified
+the representativeness heuristic in the qualitative material for his 2014-book (see above)
+by looking for emphasis on similarities with a vivid, dramatic precedent and especially
+through the claim "we can do this too!"Actors'assumption that such easy replicability was
+possible was problematic because it downplayed or neglected differences in the political
+situation. In fact, the latter resulted in many emulation efforts' failing. In Böhmelt et al.'s
+(2016) quantitative analysis, the representativeness heuristic would have been at work if
+the positions of foreign incumbents had influenced the positions of domestic parties of the
+same ideological bloc. It that case, say the domestic social democratic party would have
+adjusted its position to representative foreign incumbents, namely, social democratic ones.
+However, Böhmelt et al. (2016) did not find a significant effect for the positions of foreign
+incumbents of the same ideological block on a party's position and thus--contrary to
+Weyland's qualitative analyses--find no support for the representativeness heuristic.11
+In Weyland's work, there is a relationship between the availability heuristic and the
+representative one, with the former shaping what is on leading policy makers' radar
+screen and the latter subsequently shaping how they assess this material. While such a
+relationship makes sense for a variety of political judgments and decisions, especially
+regarding institutional change, it is not a necessity. For example, the absence of a co-
+occurrence of the employment of these two heuristics is supported empirically by Böhmelt
+et al. (2016), who found support only for the availability heuristic.
+Under which conditions do political elites use the availability and
+representativeness heuristics?
+A perhaps more intriguing question is when political elites employ the availability and/or
+representativeness heuristic(s). Broadly speaking, individuals--including political
+elites--turn to heuristics when they face a high degree of uncertainty. Given that elites
+6 Political Studies Review 00(0)
+because of, for instance, their larger resources oftentimes face less uncertainty than do
+ordinary citizens, the former's hurdle for relying on heuristics is higher. The difference
+across political elites and ordinary citizens is one of degree, not of kind. Using a broader
+definition of elite than I adopt here (see Note 1), Hafner-Burton et al.'s (2013) review
+shows that elite decision makers use heuristics more effectively when processing com-
+plex information, mainly because of their larger ability to choose with automaticity. This
+finding supports the difference in degree not in kind notion. Also, political elites are
+"normal mortals" (Weyland, 2014: 58, see p. 54), who turn to heuristics at some point,
+namely, when the environment becomes highly uncertain and complex (see also Jacobs,
+2011). This applies to many political judgments and decisions (see, for example, Bursens
+et al., 2017). An example is a party strategist who needs to decide on the party's policy
+platform; doing this "optimally" is impossible in a multidimensional setting (cf. Laver
+and Sergenti, 2012). Or, a government that needs to decide whether to reform the welfare
+state, or whether to participate in a military intervention. Such decisions are complex--
+there are numerous factors to consider--and how they play out is uncertain. For these
+types of decisions, political elites may thus rely on heuristics.
+What are the effects of using heuristics?
+What, then, are the effects of political elites'reliance on heuristics? In studies focusing on
+voters' decision-making, it is regularly assumed that heuristics defined as information
+shortcuts enable uninformed voters to make decisions as if they were fully informed (e.g.
+Lupia, 1994; Lupia and McCubbins, 1998; Lupia and Matsusaka, 2004 see Kuklinski and
+Quirk, 2000: 153). According to Lau and Redlawsk (2001: 952), this view on the positive
+effect of heuristics is so pervasive "that we could probably refer to it as the new conven-
+tional wisdom" (emphasis added). This literature tends to neglect the possible biases
+relating to using heuristics (exceptions include, for example, Bartels, 1996; Lau and
+Redlawsk, 2001). As Kuklinski and Quirk (2000: 166) note, by "viewing heuristics as
+rational strategies for dealing with ignorance, political scientists have stressed how they
+enhance competence"--in line with the F&F tradition. What they did not do is "looked
+for problems with them" (Kuklinski and Quirk, 2000: 166).
+The heuristics and biases tradition, conversely, has focused explicitly on biases in the
+sense of deviations from comprehensive rationality.12 Reliance of the availability heuristic
+biases attention in confirmatory ways (Jacobs, 2011: 249, see Lau et al., 1991: 671­672).
+This is because of individuals' "tendency to seek out and remember dramatic cases or
+becausethebroaderworld's tendencytocallattentiontoexamplesofaparticular(restricted)
+type" (Gilovich and Griffin: 3). The media can function as a magnifier here, because of its
+focus on what is newsworthy. The latter typically are vivid or dramatic events. What is
+focused on may then not reflect voters' preferences (Miler, 2009). If attention bias results
+in some groups' voices not being considered, because they do not or cannot bring across
+their wishes vividly, this poses problems for democratic representation.
+A bias that is associated with the representativeness heuristic that is particularly rele-
+vant for political judgment and decision-making is base rate neglect, that is, failing to
+consider how likely a phenomenon's occurrence in general is. Concretely, this leads to
+drawing "excessively firm conclusions from small samples [...]" (Weyland, 2014: 8),
+basing conclusions on (too) short time frames, or overlooking the role of chance (see
+Weyland, 2008). Hereby, also relying on the representativeness heuristic may pose prob-
+lems for democratic representation.
+Vis 7
+Interestingly, using heuristics poses no problem for democratic representation in the
+F&F perspective. If using a heuristic may trump a more elaborate strategy (see Goldstein
+et al., 2001, for a discussion of when and why simple (F&F) heuristics work), elites rely-
+ing on heuristics may be good news for democracy. If, for example, anAmerican President
+is an expert in foreign policy decisions, the first thing that comes to his mind--per F&F
+take-the-first heuristic--probably produces a good decision. But this will be the case only
+if this President is truly an expert in this area, since experience does not by itself leads to
+superior (decision-making) performance (Ericsson and Lehmann, 1996: 276).
+Where to go from here?
+For understanding better political elites' judgments and decision-making, it is important
+to know more of the heuristics they rely on. While the term regularly appeared in existing
+literature, the conceptual unclarity about what is a heuristic (i.e. how to define the term)
+impaired the accumulation of knowledge. Moreover, most extant studies assumed that
+political elites used heuristics instead of demonstrating this empirically. To further the
+debate, it is important to have conceptual clarity about what is a heuristic, establish what
+is our current knowledge on political elites' reliance on heuristics, and indicate where we
+should go from there.
+I discussed two main traditions to heuristics--H&B tradition of Kahneman and
+Tversky and F&F tradition of Gigerenzer and colleagues--both of which are identifiable
+in political science research. I proposed that the H&B tradition's definition of heuristic as
+a substitution of an object's property of something that comes more readily to mind is
+most appropriate for examining political elites' judgments and decision-making.
+Therefore, I zoomed in onto two H&B tradition: availability and representativeness.
+Given the small-n nature of most existing studies (e.g. Jacobs, 2011; Weyland, 2008,
+2014), it was unclear whether the results would travel to a larger set of cases. This made
+Böhmelt et al.'s (2016) study so relevant, because it provided the first large-n evidence
+that they do, at least for availability. When having to make complex judgments and deci-
+sions with uncertain outcomes, political elites rely on heuristics. What the extant studies
+did not offer--and which they admittedly were not aiming to offer--was a measure of
+political elites' employment of the availability and/or representativeness heuristics. To
+understand better under which conditions which political elites use which heuristic and
+with what effect, such a measure would be extremely valuable. This measure would help
+to answer a range of novel, substantive research questions. For example, does the reliance
+on heuristics vary across types of political elites or by ideology? To what extent does the
+media or the Internet influence political elites'reliance on heuristics, and has this changed
+over time?
+The increasing availability of relevant data and possibilities for analyzing such data
+allows for developing large-n applications to answer these and related questions. Text data
+would be a useful starting point for such large-n analyses. There are at least two options for
+using these data: (1) to create a measure of heuristics' use by individual political actors
+(e.g. a party leader or MP) and (2) to assess whether the behavior of, for instance, political
+parties or governments indicates that they employ heuristics. For option 1, potentially rel-
+evant text data include cabinet members' tweets, parliamentary debates (Proksch and
+Slapin, 2015), and or party leader speeches (Schumacher et al., 2016). To arrive at a meas-
+ure of an actor's use of the representativeness heuristic, for example, the text data can be
+analyzed with (computer-assisted) text analysis tools to identify actor's references to
+8 Political Studies Review 00(0)
+something that signals a "we can do this too!" claim (such as a reference to success of a
+sister party abroad or of a rival domestic party). For option 2, possibly relevant text data
+include party manifestos (Manifesto Research on Political Representation project; Volkens,
+2015), data on policy agendas collected by the Comparative Agendas Project (e.g.
+Alexandrova et al., 2014, for the EU's policy agenda; John et al., 2013, for the UK's
+agenda), and press releases (Klüver and Sagarzazu, 2015, 2016; Van der Velden et al.,
+2017). Topic modeling, an automated method to identify topics in texts (Grimmer, 2010;
+Grimmer and Stewart, 2013), can be used to identify the topics the political actors focus on
+and hereby helps to establish whether they relied on heuristics. To arrive at a measure of
+availability, for example, researchers need to establish that actors pay disproportionate
+attention to a typically vivid or dramatic precedent or factor while simultaneously ignoring
+(an)other--also, and perhaps even more, relevant--factor(s).Although they do not discuss
+this themselves, two recent studies suggest that political parties use the availability heuris-
+tic when drafting their party manifestos,13 with the state of the economy serving as what is
+available--the "vivid" precedent (Greene, 2016; Williams et al., 2016).14
+Text analysis allows for creating an indirect measure of political elites'employment of
+heuristics. An underlying assumption here is that what political elites say reflects their
+thinking--an assumption that may be wrong. Moreover, politics is subject to a process of
+rationalization (Meyer et al., 1997). Text analysis should therefore ideally be comple-
+mented by an approach that assesses elites' thinking more directly: experiments with
+political elites as participants (cf. Fatas et al., 2007; Linde and Vis, 2017). Getting a sam-
+ple of elites to run an experiment that has enough power is challenging, especially for the
+most powerful elites. However, if such a sample can be obtained, the benefits are very
+large. One route to conduct elite experiments is to use seminal, well-known, so-called
+problems from the ample existing experiments on heuristics (see Gilovich et al., 2002, for
+an overview). Another route is to conduct a conjoint experiment (Hainmueller et al.,
+2014). In the latter case, existing findings on the factors invoking the employment of a
+specific heuristic (such as vivid information invoking the availability heuristic) are the
+starting point. These factors, including their absence, are then varied randomly and their
+causal effect estimated by means of the conjoint analysis. The advantage of the latter is
+that it allows for testing experimentally under which conditions political elites employ
+which heuristic.15 Each of these routes could also be included in an elite survey. These
+methodological ways forward can augment our understanding of political elites' reliance
+on heuristics and thereby help to understand better political elites' judgment and
+decision-making.
+Acknowledgements
+A previous version of this article has been presented at the Political Psychology Conference Amsterdam,
+the Netherlands, in 2015, and has benefited to the participants' comments and suggestions. In addition, I
+thank Kurt Weyland for his permission to make use of our personal communication on how he identified
+heuristics in his 2014-book. Also, many thanks to Political Studies Review three anonymous reviewers'
+extensive and detailed comments. The research reported in this article was carried out at the Vrije
+Universiteit Amsterdam.
+Funding
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publica-
+tion of this article: B.V.'s work is funded by a VIDI grant from the Netherlands Organization for Scientific
+Research (NWO, grant no. 452-11-005).
+Vis 9
+ORCID iD
+Barbara Vis https://orcid.org/0000-0003-2323-3862
+Notes
+ 1. Hafner-Burton et al. (2013) could be another example, but their definition of elite is broader than the one
+I adopt here.
+2. Of the 85 Dutch-speaking members of the Belgian federal parliament, (junior) ministers, and party
+chairpersons.
+ 3. Scholars from the fast and frugal heuristics (F&F) tradition probably disagree with this statement (cf.
+Kelman, 2011: 85).
+ 4. For instance, the representativeness heuristic subsumes the coalition-based heuristics (Adams et al., 2016;
+Fortunato and Stevenson, 2013) and the party heuristic (see Lau and Redlawsk, 2001) that voters apply.
+ 5. This characteristic relates to the approach to heuristics in the game-theoretic and agent-based literatures.
+ 6. Also some heuristics and biases (H&B) researchers argue that heuristics can be employed consciously
+(see Gilovich and Griffin, 2002: 5).
+ 7. This can be both a decision-making shortcut and a consciously invoked strategy to appeal to some voters;
+the crux is how to establish which one it is.
+ 8. The latter strand of work typically studies bureaucrats instead of political elites.
+9. Chile's bold pension reform was probably an inappropriate model to follow for many Latin American
+counties (Weyland, 2007).
+10. Böhmelt et al. (2016) do not discuss their finding using this term.
+11. Böhmelt et al. do not discuss their finding as evidence against the representativeness heuristic.
+12. The existence of biases does not mean that applying the availability or representativeness heuristic is irra-
+tional per se. As estimation procedures, heuristics are sensible (Gilovich and Griffin, 2002). Moreover, as
+stressed by F&F scholars, while the employment of a heuristic deviates from comprehensive rationality,
+it can still be ecologically rational. Whether applying a specific heuristic in a specific context is irrational,
+and from which perspective, is an empirical question that is beyond the scope of this article.
+13. Thanks to an anonymous reviewer for pointing this out.
+14. Note that whereas Greene (2016) finds that when the economy grows, parties increase the attention to
+their economic competence, Williams et al. (2016) find that governing parties pay more attention to the
+economy in bad economic times (worsening unemployment and inflation; economic growth has a non-
+significant, negative, effect).
+15. Both routes could be followed, yet not on the same data.
+References
+Adams J, Ezrow L and Wlezien C (2016) The Company You Keep: How Voters Infer Party Positions on
+European Integration from Governing Coalition Arrangements. American Journal of Political Science 60
+(4): 811­823.
+Alexandrova P, Carammia M, Princen S, et al. (2014) Measuring the European Council Agenda: Introducing a
+New Approach and Dataset. European Union Politics 15 (1): 152­167.
+Allison G and Zelikov P (1999) Essence of Decision: Explaining the Cuban Missile Crisis, 2nd edn. New York:
+Addison Wesley Longman.
+Bang Petersen M (2015) Evolutionary Political Psychology: On the Origin and Structure of Heuristics and
+Biases in Politics. Advances in Political Psychology 36 (1): 45­78.
+Bartels LM (1996) Uninformed Votes: Information Effects in Presidential Elections. American Journal of
+Political Science 40 (1): 194­230.
+Böhmelt T, Ezrow L, Lehrer R, et al. (2016) Party Policy Diffusion. American Political Science Review 110
+(2): 1­14.
+Bursens P, Landtsheer CD, Braekmans L, et al. (2017) Complex Political Decision-Making: Leadership,
+Legitimcacy and Communication. London: Routledge.
+Druckman JN, Kuklinski JH and Sigelman L (2009) The Unmet Potential of Interdisciplinary Research:
+Political Psychological Approaches to Voting and Public Opinion. Political Behavior 31 (4): 485­510.
+Ericsson KA and Lehmann AC. (1996) Expert and Exceptional Performance: Evidence of Maximal Adaptation
+to Task Constraints. Annual Review Psychology 47: 273­305.
+10 Political Studies Review 00(0)
+Fatas E, Neugebauer T and Tamborero P (2007) How Politicians Make Decisions: A Political Choice
+Experiment. Journal of Economics 92 (2): 167­196.
+Fortunato D and Stevenson RT (2013) Perceptions of Partisan Ideologies: The Effect of Coalition Participation.
+American Journal of Political Science 57 (2): 459­477.
+Franzese RJ Jr. (2002) Electoral and Partisan Cycles in Economic Policies and Outcomes. Annual Review of
+Political Science 5: 369­421.
+Gigerenzer G (2001) The Adaptive Toolbox. In: Selten R and Gigerenzer G (eds) Bounded Rationality: The
+Adaptive Toolbox. Cambridge, MA; London: The MIT Press, pp.37­50.
+Gigerenzer G (2015) Simply Rational: Decision Making in the Real World. Oxford: Oxford University Press.
+Gigerenzer G and Selten R (2001) Rethinking Rationality. In: Selten R and Gigerenzer G (eds) Bounded
+Rationality: The Adaptive Toolbox. Cambridge, MA; London: The MIT Press, pp.1­12.
+Gilovich T and Griffin D (2002) Introduction Heuristics and Biases: Then and Now. In: Gilovich T, Griffin
+D and Kahneman D (eds) Heuristics and Biases: The Psychology of Intuitive Judgment. New York:
+Cambridge University Press, pp.1­18.
+Gilovich T, Griffin D and Kahneman D (eds) (2002) Heuristics and Biases: The Psychology of Intuitive
+Judgment. New York: Cambridge University Press.
+Goldstein D and Gigerenzer G (2002) Models of Ecological Rationality: The Recognition Heuristic.
+Psychological Review 109 (1): 75­90.
+Goldstein DG, Hogarth RM, Kacelnik A, et al. (2001) Group Report: Why and When Do Simple Heuristics
+Work? In: Selten R and Gigerenzer G (eds) Bounded Rationality: The Adaptive Toolbox. Cambridge, MA;
+London: The MIT Press, pp.173­190.
+Greene Z (2016) Competing on the Issues: How Experience in Government and Economic Conditions Influence
+the Scope of Parties' Policy Messages. Party Politics 22 (6): 809­822.
+Grimmer J (2010) A Bayesian Hierarchical Topic Model for Political Texts: Measuring Expressed Agendas in
+Senate Press Releases. Political Analysis 18 (1): 1­35.
+Grimmer J and Stewart BM (2013) Text as Data: The Promise and Pitfalls of Automatic Content Analysis
+Methods for Political Texts. Political Analysis 21 (3): 267­297.
+Hafner-Burton E, Hughes A and Victor D (2013) The Cognitive Revolution and the Political Psychology of
+Elite Decision Making. Perspectives on Politics 11 (2): 368­386.
+Hainmueller J, Hopkins DJ and Yamamoto T (2014) Causal Inference in Conjoint Analysis: Understanding
+Multidimensional Choices via Stated Preference Experiments. Political Analysis 22 (1): 1­30.
+Jacobs AM (2011) Governing for the Long Term: Democracy and the Politics of Investment. New York:
+Cambridge University Press.
+John P, Bertelli A, Jennings W, et al. (2013) Policy Agendas in British Politics. Basingstoke: Palgrave Macmillian.
+Jones BD (2001) Politics and the Architecture of Choice: Bounded Rationality and Governance. Chicago, IL;
+London: The University of Chicago Press.
+Kahneman D (2011) Thinking, Fast and Slow. London: Penguin Books.
+Kahneman D and Frederick S (2002) Representativeness Revisited: Attribute Substitution in Intuitive Judgment.
+In: Gilovich T, Griffin D and Kahneman D (eds) Heuristics and Biases: The Psychology of Intuitive
+Judgment. New York: Cambridge University Press, pp.49­81.
+Kahneman D and Tversky A (1972) Subjective Probability: A Judgment of Representativeness. Cognitive
+Psychology 3 (3): 430­454.
+Kelman M (2011) The Heuristics Debate. Oxford: Oxford University Press.
+Kingdon JW (1977) Models of Legislative Voting. The Journal of Politics 39 (3): 563­595.
+Kingdon JW (1989) Congressmen's Voting Decisions, 3rd edn. Ann Harbor, MI: The University of Michigan
+Press.
+Klüver H and Sagarzazu I (2015) Coalition Governments and Party Competition: Political Communication
+Strategies of Coalition Parties. Political Science Research and Methods 5: 333­349.
+Klüver H and Sagarzazu I (2016) Setting the Agenda or Responding to Voters? Political Parties, Voters and
+Issue Attention. West European Politics 39 (2): 380­398.
+Kropp S (2010) German Parliamentary Party Groups in Europeanised Policymaking: Awakening from the
+Sleep? Institutions and Heuristics as MPs' Resources. German Politics 19 (2): 123­147.
+Kuklinski JH and Quirk PJ (2000) Reconsidering the Rational Public: Cognition, Heuristics, and Mass Opinion.
+In: Lupia A, McCubbins MD and Popkin SL. (eds) Elements of Reason: Cognition, Choice, and the
+Bounds of Rationality. Cambridge: Cambridge University Press, pp.153­182.
+Lau RR and Redlawsk DP (2001) Advantages and Disadvantages of Cognitive Heuristics in Political Decision
+Making. American Journal of Political Science 45 (4): 951­971.
+Vis 11
+Lau RR, Smith RA and Fiske ST (1991) Political Beliefs, Policy Interpretations, and Political Persuasion. The
+Journal of Politics 53 (3): 644­675.
+Laver M and Sergenti E (2012) Party Competition: An Agent-Based Model. Princeton, NJ: Princeton University
+Press.
+Lindblom CE (1959) The Science of "Muddling Through." Public Administration Review 19(2): 79­88.
+Linde J and Vis B (2017) Do Politicians Take Risks Like the Rest of Us? An Experimental Test of Prospect
+Theory Under MPs. Political Psychology 38 (1): 101­117.
+Lupia A (1994) Shortcuts Versus Encyclopedias: Information and Voting Behavior in California Insurance
+Reform Elections. American Political Science Review 88(1): 63­76.
+Lupia A and McCubbins MD (1998) The Democratic Dilemma: Can Citizens Learn What They Need to Know?
+Cambridge: Cambridge University Press.
+Lupia A and Matsusaka JG (2004) Direct Democracy: New Approaches to Old Questions. American Review of
+Political Science 7: 463­482.
+Matthews DR and Stimson J (1975) Yeas and Nays: Normal Decision-making in the U.S. House of
+Representatives. New York: Wiley Inter-science.
+Meyer JW, Boli J, Thomas GM, et al. (1997) World Society and the Nation State. American Journal of Sociology
+103 (1): 144­181.
+Miler K (2009) The Limitations of Heuristics for Political Elites. Political Psychology 30(6): 863­894.
+Nadeau R, Niemi RG and Yoshinaka A (2002) A Cross-National Analysis of Economic Voting: Taking Account
+of the Political Context across Time and Nations. Electoral Studies 21 (3): 403­423.
+Newell BR, Lagnado DA and Shanks DR (2015) Straight Choices: The Psychology of Decision Making, 2nd
+edn. Hove and New York: Psychology Press.
+Peyton Young H (2008) Learning and Evolution in Games: Adaptive Heuristics. In: Durlauf SN and Blume
+LE (eds) New Palgrave Dictionary of Economics. The New Palgrave Dictionary of Economics Online:
+Palgrave Macmillan.
+Powell GB and Whitten GD (1993) A Cross-National Analysis of Economic Voting: Taking Account of the
+Political Context. American Journal of Political Science 37(2): 391­414.
+Proksch S-O and Slapin JB (2015) The Politics of Parliamentary Debate: Parties, Rebels, and Representation.
+Cambridge: Cambridge University Press.
+Redlawsk DP (2004) What Voters Do: Information Search During Election Campaigns. Political Psychology
+25 (4): 595­610.
+Schumacher G, Schoonvelde M, Dahiya T, et al. (2016) EU Speech. A Dataset of EU Elite Speeches 2007­
+2015. Version 2.0.
+Shah AK and Oppenheimer DM (2008) Heuristics Made Easy: An Effort-Reduction Framework. Psychological
+Bulletin 134 (2): 207­222.
+Simon HA (1955.) A Behavioral Model of Rational Choice. Quarterly Journal of Economics 69 (1): 99­118.
+Simon HA (1990) Invariants of Human Behavior. Annual Review of Psychology 41: 1­19.
+Stanovich KE and West RF (2000) Individual Differences in Reasoning: Implications for the Rationality
+Debate? Behavioral and Brain Sciences 23: 645­726.
+Sullivan JL, Shaw LE, McAvoy GE, et al. (1993) The Dimensions of Cue-Taking in the House of Representatives:
+Variation by Issue Area. The Journal of Politics 55 (4): 975­997.
+Tversky A and Kahneman D (1973) Availability: A Heuristic for Judging Frequency and Probability. Cognitive
+Psychology 5 (2): 207­232.
+Tversky A and Kahneman D (1974) Judgment Under Uncertainty: Heuristics and Biases. Science 185(4157):
+1124­1131.
+Van der Velden M, Schumacher G and Vis B (2017) Living in the Past or Living in the Future? Analyzing
+Parties' Platform Change In-between Elections, The Netherlands 1997-2014. Political Communication.
+DOI: 10.1080/10584609.2017.1384771.
+Volkens A (2015) The Manifesto Data Collection. Manifesto Project (MRG/CMP/MARPOR) (Version 2015a).
+Berlin: Wissenschaftszentrum Berlin Für Sozialforschung (WZB).
+Von Neumann J. and Morgenstern O (1944) Theory of Games and Economic Behavior. Princeton, NJ: Princeton
+University Press.
+Walgrave S, Epping L, Sevenans J, et al. (2013) Het Informatiemenu Van Politici En Hun Medewerkers:
+Resultaten Van Interviews Met Federale Parlementsleden, Ministers, Partijvoorzitters En Hun
+Persoonlijke Medewerkers. Antwerp: University of Antwerp.
+Weyland K (2007) Bounded Rationality and Policy Diffusion: Social Sector Reform in Latin America. Princeton,
+NJ; Oxford: Princeton University Press.
+12 Political Studies Review 00(0)
+Weyland K (2008) Towards a New Theory of Institutional Change. World Politics 60 (2): 281­314.
+Weyland K (2014) Making Waves: Democratic Contention in Europe and Latin America since the Revolutions
+of 1848. New York: Cambridge University Press.
+Whitten GD and Palmer HD (1999) Cross-National Analyses of Economic Voting. Electoral Studies 18(1):
+49­67.
+Williams LK, Seki K and Whitten GD (2016) You've Got Some Explaining to Do: The Influence of Economic
+Conditions and Spatial Competition on Party Strategy. Political Science Research and Methods 4(1):
+47­63.
+Author Biography
+Barbara Vis is Professor of Politics & Governance at the Utrecht University School of Governance. Her work
+on, for instance, the politics of welfare state reform and the behavior of political parties, has been published in
+journals such as American Journal of Political Science and European Journal of Political Research. Her most
+recent monograph is Comparative Welfare State Politics (2014, Cambridge UP, with Kees van Kersbergen).
+

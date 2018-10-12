@@ -1,0 +1,950 @@
+Clinical Report
+Ambulatory arterial stiffness
+index correlates with
+ambulatory pulse pressure
+but not dipping status in
+patients with grade 1/grade 2
+essential hypertension
+Tingli Qin1,*, Hong Jiang1,*, Yuan Jiao1,
+Yuannan Ke1, Ningling Sun2, Jiguang Wang3
+and Junren Zhu4
+Abstract
+Objective: To evaluate the relationship between ambulatory arterial stiffness index (AASI) and
+other parameters derived from ambulatory blood pressure (BP) monitoring, including dipping
+status, in patients with grade 1/grade 2 hypertension.
+Methods: This retrospective analysis included baseline data from Chinese outpatients enrolled
+into a previous study, who had clinic diastolic BP of 90­109 mmHg and systolic BP <180 mmHg,
+had undergone 24-h ambulatory BP monitoring and routine blood chemistry investigations, and
+had estimated glomerular filtration rate (eGFR) data.
+Results: Out of 120 patients screened, 87 were included. No significant difference in 24-h AASI
+was found between dippers and nondippers. The 24-h AASI significantly correlated with age,
+systolic BP and pulse pressure, and inversely correlated with 24-h diastolic BP variation and eGFR.
+In dippers and nondippers, AASI correlated with daytime pulse pressure, daytime diastolic BP
+variation and eGFR; in nondippers, AASI also correlated with 24-h systolic BP and 24-h pulse
+pressure. The 24-h AASI was significantly associated with 24-h pulse pressure and daytime pulse
+pressure.
+Conclusion: In patients with grade 1/grade 2 essential hypertension, AASI shows a significant
+correlation with ambulatory pulse pressure.
+Journal of International Medical Research
+2014, Vol. 42(6) 1323­1334
+! The Author(s) 2014
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0300060514548288
+imr.sagepub.com
+1Department of Cardiology, China-Japan Friendship
+Hospital, Beijing, China
+2Department of Cardiology, People's Hospital, Peking
+University, Beijing, China
+3Centre for Epidemiological Studies and Clinical Trials,
+Shanghai Institute of Hypertension, Ruijin Hospital,
+Shanghai Jiaotong University School of Medicine, Shanghai,
+China
+4Department of Cardiology, Zhongshan Hospital, Fudan
+University, Shanghai, China
+Corresponding author:
+Yuannan Ke, Department of Cardiology, China-Japan
+Friendship Hospital, 2 Yinghua Dongjie, Hepingli, Beijing
+100029, China.
+Email: keyuannan6666@aliyun.com
+*These authors contributed equally to this work.
+Creative Commons CC-BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial
+3.0 License (http://www.creativecommons.org/licenses/by-nc/3.0/) which permits non-commercial use, reproduction and
+distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access page
+(http://www.uk.sagepub.com/aboutus/openaccess.htm).
+Keywords
+Ambulatory blood pressure monitoring, ambulatory arterial stiffness index, blood pressure
+variability, morning blood pressure surge, pulse pressure
+Date received: 26 December 2013; accepted: 27 July 2014
+Introduction
+Vascular stiffness is known to be a predictor
+of adverse cardiovascular outcomes,1,2
+therefore its measurement may be useful in
+a clinical setting. The `gold standard' meas-
+urement of arterial stiffness, pulse wave
+velocity,3 is not commonly used, however,
+due to the complexity of the equipment
+required. Thus, there has been substantial
+research into the development of simpler
+measures of vascular resistance for more
+widespread clinical use.
+Ambulatory arterial stiffness index
+(AASI) is a relatively novel estimate of
+arterial stiffness that is derived from ambu-
+latory blood pressure (BP) monitoring, and
+is calculated as one minus the regression
+slope of diastolic BP over systolic BP.4,5
+There is substantial evidence that AASI
+independently predicts cardiovascular mor-
+tality, even in normotensive subjects. For
+example, AASI has been shown to correlate
+with target organ damage and glomerular
+filtration rate (GFR) in patients with essen-
+tial hypertension,4,6­9 and with cardiovascu-
+lar events and mortality,10,11 including
+stroke-related mortality.12 In addition,
+measurements of AASI have reasonably
+good reproducibility and repeatability.13­16
+The biological mechanisms that underlie
+AASI as a parameter of arterial stiffness,
+however, remain unclear. From a mathem-
+atical standpoint, the possibility exists that
+assessment of AASI may be confounded by
+other parameters derived from ambulatory
+BP monitoring, including BP variation,
+pulse pressure, nocturnal dipping, and the
+morning BP surge.17,18 These measures of
+variability in BP have been documented by
+some reports to be prognostic markers of
+target-organ damage and cardiovascular
+disease.19­24
+In addition to AASI, several other factors
+have been reported to correlate with stiffer
+vessels in patients with hypertension, includ-
+ing a nondipper pattern, and other markers
+such as pulse pressure.25,26 The relationship
+between these markers and AASI has yet to
+be clearly defined in patients with essential
+hypertension. The present authors hypothe-
+sized that indicators of arterial stiffness
+derived from ambulatory BP monitoring
+might be correlated with each other. The
+purpose of the present study, therefore, was
+to evaluate the relationship between meas-
+urements of arterial stiffness using AASI,
+daytime AASI and night-time AASI with
+other markers of vessel stiffness derived
+from 24-h ambulatory BP monitoring,
+including BP variation, pulse pressure, noc-
+turnal dipping, and the morning BP surge, in
+patients with grade 1/grade 2 essential
+hypertension.27
+Patients and methods
+Study design and population
+The present retrospective study included
+baseline data obtained from a proportion
+of the population included in a previously
+published multicentre, open-label, single-
+arm, prospective phase IV clinical trial.28
+The original study was conducted between
+June 2008 and April 2010 in the outpatient
+clinics of 16 tertiary hospitals in China.28
+Patients from five of these hospitals: China-
+Japan Friendship Hospital, Beijing; Peking
+University People's Hospital, Beijing; Ruijin
+Hospital of Shanghai Jiaotong University
+School of Medicine, Shanghai; Zhongshan
+Hospital of Fudan University School of
+1324 Journal of International Medical Research 42(6)
+Medicine, Shanghai; and Guangdong
+General Hospital, Guangzhou, underwent
+ambulatory BP monitoring, and were
+included in the present analyses. The study
+was approved by the local ethics committees
+of all five participating hospitals, and writ-
+ten informed consent was provided by all
+patients. The study followed the Helsinki
+Declaration and Good Clinical Practice by
+State Food and Drug Administration.
+Inclusion criteria comprised: Chinese
+outpatients; aged 18­75 years; grade
+1/grade 2 essential hypertension with a
+clinic diastolic BP of 90­109 mmHg and a
+systolic BP <180 mmHg; no antihyperten-
+sive medication taken for at least 1 week
+prior to the start of the trial. Exclusion
+criteria included: secondary hypertension;
+isolated systolic hypertension (systolic BP
+!140 mmHg and diastolic BP <90 mmHg);
+obesity (body mass index [BMI] !30 kg/m2
+or body weight !100 kg); use of agents that
+might influence BP; pregnancy or childbear-
+ing potential; impairment of liver function
+(serum alanine transaminase two times the
+upper limit of normal); impairment of renal
+function (serum creatinine !1.5 times the
+upper limit of normal, proteinuria !2þ on a
+dip-stick test); indications for the use of
+other drugs that may affect BP; hypersensi-
+tivity to the study drug;28 any other
+conditions that, in the opinion of the inves-
+tigators, would make enrolment
+inappropriate.
+Eligible patients were consecutively
+recruited at baseline, at which time all
+office measurements, routine haemato-
+logical examinations, routine urinalysis,
+electrocardiography, and hepatic and renal
+function tests were performed. Patients who
+met the exclusion criteria were excluded
+from the present investigation. Patients
+then underwent a 2-week placebo run-in
+period, during which they received placebo
+medication (Daiichi-Sankyo, Shanghai,
+China) and no other antihypertensive
+drugs, to clear the system of any prior
+medication that may have influenced the
+results of the original trial.28
+BP measurements
+Heart rate was determined at the baseline
+visit. Office BP was measured from the right
+arm, by trained investigators, using a stand-
+ard mercury sphygmomanometer following
+European Society of Hypertension (ESH)/
+European society of Cardiology (ESC) gui-
+dlines.27 Patients were allowed to sit quietly
+for !10 min prior to assessment of BP; three
+consecutive measurements were made
+!2 min apart, and BP was determined as
+the mean of the three readings. 24-h ambu-
+latory BP monitoring was performed using a
+BP monitor (model 90207 and 90217;
+Spacelabs Healthcare, Snoqualmie, WA,
+USA) at the end of the 2-week placebo
+run-in period. The ambulatory BP monitors
+were set to measure BP every 15 min
+between 06.01 h and 22.00 h (daytime;
+patients got up at 06.00 h), and every
+30 min between 22.01 h and 06.00 h (night-
+time; patients went to bed at 22.00 h) using
+manufacturer-provided software according
+to ESH/ESC guidelines.27 Acceptable 24-h
+ambulatory BP monitoring was defined as
+continual data collection without interrup-
+tion, over a monitoring time of !22 h, with
+legible data accounting for !80% of the
+total recordings. Ambulatory BP measure-
+ments were used to calculate 24-h AASI,
+daytime AASI and night-time AASI,
+defined as one minus the regression slope
+of diastolic BP over systolic BP.
+In addition, patients were divided into
+two groups for the purpose of analysis
+according to their dipper profile, as defined
+by the American Heart Association and
+following ESH/ESC guidelines:27 dippers
+(patients whose nocturnal decrease in sys-
+tolic BP/diastolic BP was !10% of daytime
+BP) and nondippers (patients whose noctur-
+nal decrease in systolic BP/diastolic BP was
+<10% of daytime BP).
+Qin et al. 1325
+Laboratory investigations
+Venous blood samples (5 ml) were drawn
+following a !8 h fast, for routine blood
+chemistry investigations: plasma Naþ and
+Kþ concentrations, fasting blood glucose,
+serum creatinine, haemoglobin, and blood
+urea nitrogen. For plasma samples, blood
+was collected into vacuum tubes containing
+1.5­2.5 mg/ml dipotassium ethylenediami-
+netetra-acetic acid (2 ml EDTA-K2
+tubes).
+Samples were then centrifuged at 1 280 g for
+10 min at 4C and the plasma was collected.
+For serum samples, blood was allowed to
+stand for 30 min at room temperature to
+allow clotting. Samples were then centri-
+fuged at 1 280 g for 10 min at 4C, and the
+serum collected. Serum and plasma samples
+were analysed using a regularly calibrated
+COBAS Mira Plus chemistry analyser
+(Roche, Basel, Switzerland) according to
+the manufacturer's instructions. Estimated
+GFR (eGFR) was calculated using the
+Modification of Diet in Renal Disease
+formula:29
+eGFR ðml=min=1:73 m2Þ
+¼ 186 Â creatinineÀ1:154 Â ageÀ0:203
+Â ðÀ0:74 if femaleÞ: Serum creatinine
+measured in mmol=l Â 0:011312:
+Statistical analyses
+Data were analysed using SPSSÕ, version
+16.0 (SPSS Inc., Chicago, IL, USA).
+Continuous variables were presented as
+mean Æ SD, and qualitative variables as
+frequency distributions. Categorical vari-
+ables were analysed using 2-test.
+Differences in continuous variables (such
+as AASI, age, BMI, systolic BP/diastolic BP,
+BP variation and blood parameters between
+dippers and nondippers) were analysed by
+independent samples t-test. Pearson's cor-
+relation coefficient was used to estimate the
+relationship between quantitative variables
+obtained from ambulatory BP monitoring
+recordings in all participants. In the dipper
+and nondipper groups, Partial correlation
+coefficient was used to estimate the relation-
+ship between quantitative variables obtained
+from ambulatory BP monitoring, including
+the adjustment variables patient age and
+BMI. Multiple linear regression analysis was
+performed using 24-h AASI, daytime AASI
+and night-time AASI as dependent vari-
+ables. The enter method was used in a first
+step to adjust for patient age and BMI, the
+independent variables (eGFR, office meas-
+urements, ambulatory BP, pulse pressure,
+morning BP surge, variations of 24 h, day-
+time, and night-time BP) were then included
+one by one, to avoid colinearity. A
+P value <0.05 was considered statistically
+significant. The statistical power, when a
+was set at 0.05, to identify a significant
+difference between the dipper and nondipper
+groups was 0.90 (two-sided), based on the
+final number of patients included for
+analyses.
+Results
+A total of 120 patients, aged 18­75 years,
+were screened and provided baseline meas-
+urements. Of these patients, 24 were with-
+drawn from the study on the basis of
+predetermined exclusion criteria, therefore
+96 were entered into the 2-week placebo run-
+in period. A further nine patients were lost
+due to withdrawal from the study. A total of
+87 patients (52 male, 35 female; mean age
+51 Æ 8 years) completed the study, providing
+ambulatory BP monitoring readings that
+were deemed of acceptable quality for ana-
+lyses (Table 1).
+The dipper group comprised 40 patients
+(46%) and the nondipper group comprised
+47 patients (54%) of whom 13 (27.7%) were
+classed as reverse dippers. There were no
+significant differences between dipper and
+nondipper groups in terms of age, sex or
+BMI. The two groups had similar propor-
+tions of grade 1 and grade 2 hypertensive
+1326 Journal of International Medical Research 42(6)
+patients: the dipper group comprised 32 with
+grade 1 and 8 with grade 2 hypertension; the
+nondipper group comprised 39 with grade 1
+and 8 with grade 2 hypertension. The dipper
+group had significantly higher values for 24-
+h systolic BP (P ¼ 0.001), 24-h diastolic BP
+(P < 0.001), daytime systolic BP (P ¼ 0.013),
+daytime diastolic BP (P ¼ 0.011), night-time
+Table 1. Characteristics of patients with grade 1/grade 2 essential hypertension, assessed at baseline (office
+and blood measurements) and following a 2-week placebo run-in period (ambulatory measurements).
+Variable
+All patients
+n ¼ 87
+Dipper group
+n ¼ 40
+Nondipper
+group
+n ¼ 47
+Statistical
+significance
+Age 51.67 Æ 8.72 51.40 Æ 7.93 51.89 Æ 9.43 NS
+Sex, male 52 (59.8) 26 (65.0) 26 (55.3) NS
+Body mass index, kg/m2 24.41 Æ 2.90 25.03 Æ 2.81 25.75 Æ 2.97 NS
+Office systolic BP, mmHg 151.11 Æ 10.46 151.76 Æ 11.28 150.55 Æ 9.80 NS
+Office diastolic BP, mmHg 98.80 Æ 4.52 98.89 Æ 4.31 98.73 Æ 4.76 NS
+Office heart rate, bpm 74.56 Æ 9.64 74.40 Æ 10.53 74.70 Æ 8.94 NS
+24-h systolic BP, mmHg 142.32 Æ 12.84 147.20 Æ 15.11 138.18 Æ 8.74 P ¼ 0.001
+24-h diastolic BP, mmHg 91.67 Æ 7.48 95.18 Æ 7.27 88.68 Æ 6.32 P < 0.001
+24-h pulse pressure, mmHg 50.65 Æ 10.69 52.02 Æ 11.74 49.50 Æ 9.68 NS
+Daytime systolic BP, mmHg 146.48 Æ 13.15 150.22 Æ 16.19 143.29 Æ 8.86 P ¼ 0.013
+Daytime diastolic BP, mmHg 94.16 Æ 7.77 96.43 Æ 7.76 92.22 Æ 7.31 P ¼ 0.011
+Daytime pulse pressure, mmHg 52.32 Æ 10.94 53.79 Æ 12.36 51.07 Æ 9.51 NS
+Night-time systolic BP, mmHg 135.45 Æ 15.27 142.30 Æ 16.49 129.61 Æ 11.41 P < 0.001
+Night-time diastolic BP, mmHg 87.69 Æ 9.35 93.26 Æ 8.67 82.97 Æ 7.08 P < 0.001
+Night-time pulse pressure, mmHg 47.75 Æ 12.17 49.05 Æ 13.26 46.64 Æ 11.88 NS
+24-h systolic BP variation, mmHg 14.15 Æ 4.07 13.84 Æ 4.17 14.41 Æ 4.03 NS
+24-h diastolic BP variation, mmHg 11.04 Æ 3.89 10.31 Æ 3.11 11.66 Æ 4.39 NS
+Daytime systolic BP variation, mmHg 11.59 Æ 4.15 11.59 Æ 4.23 11.59 Æ 4.13 NS
+Daytime diastolic BP variation, mmHg 8.24 Æ 2.85 8.16 Æ 2.77 8.31 Æ 2.94 NS
+Night-time systolic BP variation, mmHg 12.58 Æ 4.74 12.64 Æ 4.27 12.53 Æ 5.15 NS
+Night-time diastolic BP variation, mmHg 12.03 Æ 6.53 11.34 Æ 4.97 12.96 Æ 7.62 NS
+Morning systolic BP surge, mmHg 30.89 Æ 16.10 29.55 Æ 16.33 32.03 Æ 15.99 NS
+Morning diastolic BP surge, mmHg 26.99 Æ 17.55 26.69 Æ 13.53 27.25 Æ 20.50 NS
+24-h AASI 0.42 Æ 0.23 0.46 Æ 0.26 0.38 Æ 0.20 NS
+Daytime AASI 0.46 Æ 0.24 0.48 Æ 0.22 0.44 Æ 0.24 NS
+Night-time AASI 0.40 Æ 0.36 0.46 Æ 0.39 0.34 Æ 0.32 NS
+Serum creatinine, mmol/l 72.36 Æ 16.62 75.51 Æ 22.37 74.82 Æ 27.53 NS
+eGFR, ml/min/1.73 m2 107.40 Æ 25.86 104.54 Æ 26.68 106.24 Æ 23.48 NS
+Blood urea nitrogen, mmol/l 5.11 Æ 4.81 4.72 Æ 1.59 5.48 Æ 6.55 NS
+Fasting blood glucose, mmol/l 5.68 Æ 1.85 6.05 Æ 2.09 5.33 Æ 1.54 NS
+Plasma Kþ, mmol/l 3.99 Æ 0.79 4.02 Æ 0.81 3.97 Æ 0.79 NS
+Plasma Naþ, mmol/l 130.41 Æ 35.94 131.69 Æ 33.19 129.23 Æ 38.72 NS
+Haemoglobin, mmol/l 135.85 Æ 83.69 139.40 Æ 36.16 132.49 Æ 41.04 NS
+Data presented as mean Æ SD or n (%) patient incidence.
+Dipper group, night-time decrease in systolic BP/diastolic BP !10% of daytime BP; nondipper group, night-time decrease in
+systolic BP/diastolic BP <10% of daytime BP.
+AASI, ambulatory arterial stiffness index for 24-h, daytime and night-time periods; BP, blood pressure; eGFR, estimated
+glomerular filtration rate.
+NS, no statistically significant differences between dipper versus nondipper groups (P > 0.05; Student's t-test).
+Qin et al. 1327
+systolic BP (P < 0.001) and night-time dia-
+stolic BP (P < 0.001) compared with the
+nondipper group (Table 1). There were no
+significant differences, however, between the
+two groups in terms of mean 24-h AASI,
+daytime AASI, night-time AASI, or other
+parameters derived from ambulatory BP
+monitoring. In addition, there were no sig-
+nificant between-group differences in blood
+parameters and eGFR (Table 1).
+Correlation analyses were undertaken to
+explore which parameters were associated
+with 24-h AASI, daytime AASI and night-
+time AASI (Table 2). The 24-h AASI and
+daytime AASI were significantly associated
+with age (P < 0.05). The 24-h AASI, daytime
+AASI and night-time AASI were signifi-
+cantly positively correlated with 24-h sys-
+tolic BP, 24-h pulse pressure and daytime
+pulse pressure (P < 0.05); 24-h AASI and
+daytime AASI were significantly associated
+with night-time systolic BP (P < 0.05); 24-h
+AASI and night-time AASI were signifi-
+cantly correlated with daytime systolic BP
+(P < 0.05); and 24-h AASI was related to
+night-time pulse pressure (P < 0.05). There
+were no correlations between 24-h AASI,
+daytime AASI or night-time AASI and 24-h,
+daytime or night-time diastolic BP; however,
+all three values negatively correlated with
+Table 2. Pearson's correlation coefficient analysis of the associations between ambulatory arterial stiffness
+index (AASI) and other characteristics, including various parameters obtained from ambulatory blood
+pressure monitoring in patients with grade 1/grade 2 essential hypertension (n ¼ 87).
+Variable
+AASI values
+24-h AASI Daytime AASI Night-time AASI
+r
+Statistical
+significance r
+Statistical
+significance r
+Statistical
+significance
+Age 0.308 P ¼ 0.004 0.251 P ¼ 0.019 0.109 NS
+Body mass index 0.013 NS 0.027 NS 0.105 NS
+eGFR À0.718 P < 0.001 À0.567 P < 0.001 À0.334 P < 0.001
+24-h systolic BP 0.313 P ¼ 0.003 0.222 P ¼ 0.039 0.217 P ¼ 0.043
+24-h diastolic BP À0.054 NS À0.040 NS À0.025 NS
+24-h pulse pressure 0.404 P < 0.001 0.278 P ¼ 0.009 0.304 P ¼ 0.004
+Daytime systolic BP 0.311 P ¼ 0.003 0.197 NS 0.261 P ¼ 0.015
+Daytime diastolic BP À0.161 NS À0.164 NS À0.007 NS
+Daytime pulse pressure 0.489 P < 0.001 0.319 P ¼ 0.003 0.353 P ¼ 0.001
+Night-time systolic BP 0.263 P ¼ 0.014 0.229 P ¼ 0.033 0.106 NS
+Night-time diastolic BP 0.136 NS 0.127 NS À0.038 NS
+Night-time pulse pressure 0.226 P ¼ 0.035 0.163 NS 0.189 NS
+24-h systolic BP variation 0.014 NS 0.124 NS 0.158 NS
+24-h diastolic BP variation À0.142 NS À0.236 P ¼ 0.028 À0.071 NS
+Daytime systolic BP variation 0.021 NS 0.091 NS À0.071 NS
+Daytime diastolic BP variation À0.230 P ¼ 0.032 À0.323 P ¼ 0.002 À0.576 P < 0.001
+Night-time systolic BP variation À0.036 NS 0.045 NS 0.107 NS
+Night-time diastolic BP variation À0.086 NS À0.108 NS 0.101 NS
+Morning systolic BP surge À0.132 NS À0.167 NS À0.105 NS
+Morning diastolic BP surge 0.082 NS 0.051 NS 0.098 NS
+BP, blood pressure; eGFR, estimated glomerular filtration rate.
+NS, no statistically significant correlation (P > 0.05).
+1328 Journal of International Medical Research 42(6)
+daytime diastolic BP variation (P < 0.05),
+and daytime AASI was inversely associated
+with 24-h diastolic BP variation (P < 0.05).
+In addition, significant negative correlations
+were found between eGFR and 24-h AASI,
+daytime AASI and night-time AASI
+(P < 0.001).
+Further correlation analyses were under-
+taken to establish associations between 24-h
+AASI and various parameters in the dipper
+and nondipper groups (Table 3). In both the
+dipper and nondipper groups, 24-h AASI
+was significantly positively correlated with
+daytime pulse pressure and daytime diastolic
+BP variation (P < 0.05), and inversely
+associated with eGFR (P < 0.05). In add-
+ition, there were significant (but relatively
+weak) positive associations between 24-h
+AASI with 24-h systolic BP and 24-h pulse
+pressure in the nondipper group (P < 0.05),
+but not in the dipper group.
+Stepwise linear regression analysis was
+performed, including AASI as the independ-
+ent variable, and 24-h pulse pressure, day-
+time pulse pressure and night-time pulse
+pressure as the dependent variables. The
+24-h AASI was found to significantly cor-
+relate with daytime pulse pressure in both
+the dipper and nondipper groups, and with
+24-h pulse pressure in the dipper group.
+Table 3. Partial correlation analysis of the associations between 24-h ambulatory arterial stiffness index
+(AASI) and other characteristics, including various parameters obtained from ambulatory blood pressure
+monitoring (after adjustment for age and body mass index) in patients with grade 1/grade 2 essential
+hypertension.
+Variable
+24-h AASI
+Dipper group n ¼ 40 Nondipper group n ¼ 47
+r
+Statistical
+significance r
+Statistical
+significance
+eGFR À0.817 P < 0.001 À0.637 P < 0.001
+24-h systolic BP 0.103 NS 0.338 P ¼ 0.022
+24-h diastolic BP À0.105 NS À0.146 NS
+24-h pulse pressure 0.216 NS 0.406 P ¼ 0.005
+Daytime systolic BP 0.132 NS 0.318 P ¼ 0.031
+Daytime diastolic BP À0.219 NS À0.210 NS
+Daytime pulse pressure 0.346 P ¼ 0.031 0.466 P ¼ 0.001
+Night-time systolic BP 0.052 NS 0.268 NS
+Night-time diastolic BP 0.076 NS 0.023 NS
+Night-time pulse pressure 0.012 NS 0.260 NS
+24-h systolic BP variation 0.108 NS 0.175 NS
+24-h diastolic BP variation À0.094 NS À0.118 NS
+Daytime systolic BP variation À0.006 NS 0.203 NS
+Daytime diastolic BP variation À0.332 P ¼ 0.036 À0.322 P ¼ 0.027
+Night-time systolic BP variation À0.102 NS 0.175 NS
+Night-time diastolic BP variation 0.033 NS À0.191 NS
+Morning systolic BP surge À0.266 NS 0.039 NS
+Morning diastolic BP surge 0.201 NS 0.143 NS
+BP, blood pressure; eGFR, estimated glomerular filtration rate.
+NS, no statistically significant correlation (P > 0.05).
+Qin et al. 1329
+The daytime AASI was found to signifi-
+cantly correlate with daytime pulse pressure
+in the dipper group, and with night-time
+pulse pressure in nondipper group. The
+night-time AASI was found to significantly
+correlate with daytime pulse pressure in the
+dipper group, and with night-time pulse
+pressure in both the dipper and nondipper
+groups (Table 4).
+Discussion
+The main findings of the present study were
+that AASI did not differ between patients in
+the dipper and nondipper groups, and that
+pulse pressure showed a clear association
+with AASI.
+Despite substantial evidence that AASI
+may be a useful indicator of arterial stiff-
+ness,30 its use as an independent measure of
+vascular stiffness, and the extent to which it
+is influenced by other parameters not dir-
+ectly related to arterial compliance, remain
+under debate. The basis of AASI is that an
+increase in systolic BP in a stiff artery will be
+accompanied by a smaller increase (or
+even decrease) in diastolic BP.15
+Mathematical considerations indicate, how-
+ever, that AASI may be influenced by other
+factors, including variations in 24-h diastolic
+BP. The present study revealed that AASI
+was associated with several parameters
+derived from ambulatory BP monitoring,
+including 24-h, daytime and night-time sys-
+tolic BP, and 24-h, daytime and night-time
+pulse pressure. In agreement with the pre-
+sent data, AASI has previously been
+observed to positively correlate with 24-h
+systolic BP, daytime systolic BP, night-time
+systolic BP, 24-h pulse pressure, daytime
+pulse pressure and night-time pulse pres-
+sure,31 while a meta-analysis of cross-sec-
+tional and longitudinal studies found that
+AASI was independently associated with
+systolic BP and 24-h pulse pressure.15
+Other studies have reported associations
+between AASI and pulse pressure.5,17,32
+Additional data supporting AASI as a reli-
+able assessment of vascular stiffness include
+the findings of its association with other
+measures of vascular compliance, such as
+carotid intima-media thickness, pulse wave
+velocity and augmentation index.5,13,15,32­34
+The observations that AASI predicts
+Table 4. Stepwise linear regression analysis of the correlation between ambulatory arterial stiffness index
+(AASI) and pulse pressure profiles in patients with grade 1/grade 2 essential hypertension (n ¼ 87).
+24-h AASI Daytime AASI Night-time AASI
+Variable ß
+Statistical
+significance ß
+Statistical
+significance ß
+Statistical
+significance
+All
+24-h pulse pressure À0.016 P ¼ 0.019 0.007 P ¼ 0.003 ­ ­
+Daytime pulse pressure 0.026 P < 0.001 ­ ­ ­ ­
+Night-time pulse pressure ­ ­ ­ ­ 0.012 P ¼ 0.001
+Dipper
+24-h pulse pressure À0.045 P < 0.001 ­ ­ ­ ­
+Daytime pulse pressure 0.052 P < 0.001 0.007 P ¼ 0.047 0.091 P ¼ 0.003
+Night-time pulse pressure ­ ­ ­ ­ À0.088 P < 0.001
+Nondipper
+24-h pulse pressure ­ ­ ­ ­ ­ ­
+Daytime pulse pressure 0.008 P ¼ 0.006 ­ ­ ­ ­
+Night-time pulse pressure ­ ­ 0.007 P ¼ 0.029 0.009 P ¼ 0.021
+1330 Journal of International Medical Research 42(6)
+cardiovascular and stroke mortality over
+and beyond pulse pressure,12 and that
+renal disease increases AASI (but not pulse
+pressure) in patients with hypertension,35
+indicate that AASI is not merely reflecting
+alterations in pulse pressure.
+Some authors have argued, however, that
+AASI is dependent on the degree of noctur-
+nal BP fall, and is only weakly associated
+with pulse wave velocity.18,36 In untreated
+patients with hypertension, one study found
+that AASI was higher in dippers (0.44 Æ
+0.20) than in nondippers (0.29 Æ 0.15), and
+was inversely correlated with nocturnal falls
+in systolic BP and diastolic BP; in contrast,
+there was no association between pulse wave
+velocity and nocturnal BP fall.18 Various
+other studies have identified inverse associ-
+ations between AASI and nocturnal decline
+in BP.17,31 Additional correlations have been
+found between AASI and indices of BP
+variability. For example, in one study, pulse
+pressure variability, systolic BP variability,
+diastolic BP variability and nondipper status
+were determined to be independent pre-
+dictors of AASI, suggesting that AASI is a
+parameter that reflects BP variability as well
+as arterial stiffness.17 Furthermore, systolic
+BP variation and diastolic BP variation have
+been shown to correlate with intima-media
+thickness, pulse wave velocity and AASI,
+with 24-h diastolic BP variation having a
+significant association with AASI in a mul-
+tiple regression analysis.37 Similarly, AASI
+has been found to negatively correlate with
+the morning surge in diastolic BP, daytime
+diastolic BP, 24-h mean arterial pressure
+variability, and nocturnal dips in systolic
+BP, diastolic BP and mean arterial pres-
+sure.31 These data are broadly consistent
+with the observations in the present study.
+Interestingly, however, the values of AASI
+measured in the present study were not
+significantly different between the dipper
+and nondipper groups, perhaps suggesting
+that although BP variability is related to
+AASI, dipping status is not a major
+determinant in patients with grade 1/grade
+2 hypertension.
+The present study found that despite
+having similar grades of hypertension,
+patients in the dipper group had significantly
+higher values for 24-h, daytime and night-
+time systolic BP, and 24-h, daytime and
+night-time diastolic BP, than those in the
+nondipper group. In addition to positive and
+negative associations with age and eGFR,
+respectively, 24-h AASI showed positive
+correlations with 24-h and daytime systolic
+BP, and 24-h, daytime and night-time pulse
+pressure. No significant associations were
+evident between 24-h AASI and measures of
+BP variation, except for a weak inverse
+correlation with daytime diastolic BP vari-
+ation. In subgroup analysis, 24-h AASI was
+correlated with eGFR, daytime pulse pres-
+sure and daytime diastolic BP variation in
+both dipper and nondipper groups, while
+additional associations with 24-h systolic BP
+and 24-h pulse pressure were observed for
+the nondipper group. Overall, AASI was
+most strongly correlated with measures of
+pulse pressure, and was not associated with
+most measures of BP variation, except for
+daytime diastolic BP variation. These data
+shed further light on the associations
+between AASI and other parameters derived
+from ambulatory BP monitoring, in patients
+with grade 1/grade 2 hypertension.
+In the present study, the mean value of
+AASI was 0.42 Æ 0.23. AASI has been
+reported to be higher in patients with hyper-
+tension (0.49 Æ 0.17) than in normotensive
+patients (0.36 Æ 0.14).38 In addition, AASI
+appears be higher in patients with hyperten-
+sion and chronic renal disease than in those
+without renal chronic disease,35 and is also
+increased in patients with diabetes,32 acro-
+megaly38 and high haemoglobin levels.39
+The finding in the present study that AASI
+correlated with age was in keeping with
+numerous investigations that observed the
+same phenomenon in patients with
+hypertension.5,15,17,18,32­35
+Qin et al. 1331
+The association between a higher AASI
+and impaired renal function, determined by
+eGFR, was an additional relevant finding of
+the present study. There is some disagree-
+ment in the literature concerning the correl-
+ation between AASI and eGFR. For
+example, some investigators have observed
+no correlation between these parameters,13,35
+some a weak correlation,40 and others a clear
+negative association.6,11 It is perhaps of inter-
+est to note that nondipping status and 24-h
+systolic BP variation have also been reported
+to correlate with lower eGFR.41,42 In patients
+with hypertension, age was an independent
+predictor of low eGFR.42
+The present results are limited by the fact
+that this was a retrospective analysis of a
+subset of patients taken from a different
+study, in which patients with isolated sys-
+tolic hypertension (systolic BP !140 mmHg
+and diastolic BP <90 mmHg) were required
+to be excluded.28 Isolated systolic hyperten-
+sion may be indicative of arterial stiffness,
+and in elderly patients, arterial stiffness has
+been directly implicated in isolated systolic
+hypertension, therefore, the exclusion of
+such patients may have biased the results.
+In conclusion, the present study found
+that in a cohort of patients with grade 1/
+grade 2 essential hypertension, AASI did not
+differ significantly between patients with a
+dipper and nondipper status. Significant
+correlations were observed, however,
+between AASI and certain parameters
+reflecting pulse pressure, systolic BP, and
+variability in diastolic BP. The clear positive
+correlation between AASI and ambulatory
+pulse pressure indicates a clinical potential
+for AASI as an index of arterial stiffness in
+the monitoring the adverse cardiovascular
+outcomes, in patients with grade 1/grade 2
+essential hypertension.
+Declaration of conflicting interest
+The authors declare that there are no conflicts of
+interest.
+Funding
+This research received no specific grant from any
+funding agency in the public, commercial, or not-
+for-profit sectors.
+References
+1. Hansen TW, Staessen JA, Torp-Pedersen C,
+et al. Ambulatory arterial stiffness index
+predicts stroke in a general population.
+J Hypertens 2006; 24: 2247­2253.
+2. Laurent S, Boutouyrie P, Asmar R, et al.
+Aortic stiffness is an independent predictor of
+all-cause and cardiovascular mortality in
+hypertensive patients. Hypertension 2001; 37:
+1236­1241.
+3. Laurent S, Cockcroft J, Van Bortel L, et al.
+Expert consensus document on arterial stiff-
+ness: methodological issues and clinical
+applications. Eur Heart J 2006; 27:
+2588­2605.
+4. Dolan E, Thijs L, Li Y, et al. Ambulatory
+arterial stiffness index as a predictor of car-
+diovascular mortality in the Dublin Outcome
+Study. Hypertension 2006; 47: 365­370.
+5. Li Y, Wang JG, Dolan E, et al. Ambulatory
+arterial stiffness index derived from 24-hour
+ambulatory blood pressure monitoring.
+Hypertension 2006; 47: 359­364.
+6. Garci´a-Garci´a A, Go
+´ mez-Marcos MA,
+Recio-Rodriguez JI, et al. Relationship
+between ambulatory arterial stiffness index
+and subclinical target organ damage in
+hypertensive patients. Hypertens Res 2011; 34:
+180­186.
+7. Leoncini G, Ratto E, Viazzi F, et al. Increased
+ambulatory arterial stiffness index is asso-
+ciated with target organ damage in primary
+hypertension. Hypertension 2006; 48:
+397­403.
+8. Mule
+` G, Cottone S, Cusimano P, et al. Inverse
+relationship between ambulatory arterial
+stiffness index and glomerular filtration rate
+in arterial hypertension. Am J Hypertens 2008;
+21: 35­40.
+9. Triantafyllidi H, Tzortzis S, Lekakis J, et al.
+Association of target organ damage with three
+arterial stiffness indexes according to blood
+pressure dipping status in untreated hyper-
+tensive patients. Am J Hypertens 2010; 23:
+1265­1272.
+1332 Journal of International Medical Research 42(6)
+10. Kikuya M, Ohkubo T, Satoh M, et al.
+Prognostic significance of home arterial
+stiffness index derived from self-measure-
+ment of blood pressure: the Ohasama Study.
+Am J Hypertens 2012; 25: 67­73.
+11. Muxfeldt ES, Cardoso CR, Dias VB, et al.
+Prognostic impact of the ambulatory arterial
+stiffness index in resistant hypertension.
+J Hypertens 2010; 28: 1547­1553.
+12. Kikuya M, Staessen JA, Ohkubo T, et al.
+Ambulatory arterial stiffness index and 24-
+hour ambulatory pulse pressure as predictors
+of mortality in Ohasama, Japan. Stroke
+2007; 38: 1161­1166.
+13. Boesby L, Thijs L, Elung-Jensen T, et al.
+Ambulatory arterial stiffness index in
+chronic kidney disease stage 2-5.
+Reproducibility and relationship with pulse
+wave parameters and kidney function. Scand
+J Clin Lab Invest 2012; 72: 304­312.
+14. Dechering DG, van der Steen MS,
+Adiyaman A, et al. Reproducibility of the
+ambulatory arterial stiffness index in hyper-
+tensive patients. J Hypertens 2008; 26:
+1993­2000.
+15. Kollias A, Stergiou GS, Dolan E, et al.
+Ambulatory arterial stiffness index: a sys-
+tematic review and meta-analysis.
+Atherosclerosis 2012; 224: 291­301.
+16. Stergiou GS, Kollias A, Rarra VC, et al.
+Ambulatory arterial stiffness index: repro-
+ducibility of different definitions. Am J
+Hypertens 2010; 23: 129­134.
+17. Lee HT, Lim YH, Kim BK, et al. The
+relationship between ambulatory arterial
+stiffness index and blood pressure variability
+in hypertensive patients. Korean Circ J 2011;
+41: 235­240.
+18. Schillaci G, Parati G, Pirro M, et al.
+Ambulatory arterial stiffness index is not a
+specific marker of reduced arterial compli-
+ance. Hypertension 2007; 49: 986­991.
+19. Birkenha
+¨ ger AM and van den Meiracker
+AH. Causes and consequences of a non-
+dipping blood pressure profile. Neth J Med
+2007; 65: 127­131.
+20. Dolan E, Stanton A, Thijs L, et al.
+Superiority of ambulatory over clinic blood
+pressure measurement in predicting mortal-
+ity: the Dublin outcome study. Hypertension
+2005; 46: 156­161.
+21. Kario K, Ishikawa J, Eguchi K, et al. Sleep
+pulse pressure and awake mean pressure as
+independent predictors for stroke in older
+hypertensive patients. Am J Hypertens 2004;
+17: 439­445.
+22. Kikuya M, Ohkubo T, Metoki H, et al. Day-
+by-day variability of blood pressure and
+heart rate at home as a novel predictor of
+prognosis: the Ohasama study. Hypertension
+2008; 52: 1045­1050.
+23. Mancia G and Parati G. Ambulatory blood
+pressure monitoring and organ damage.
+Hypertension 2000; 36: 894­900.
+24. Parati G and Valentini M. Prognostic rele-
+vance of blood pressure variability.
+Hypertension 2006; 47: 137­138.
+25. Jerrard-Dunne P, Mahmud A and Feely J.
+Ambulatory arterial stiffness index, pulse
+wave velocity and augmentation
+index--interchangeable or mutually exclu-
+sive measures? J Hypertens 2008; 26:
+529­534.
+26. Lekakis JP, Zakopoulos NA, Protogerou
+AD, et al. Arterial stiffness assessed by pulse
+wave analysis in essential hypertension:
+relation to 24-h blood pressure profile. Int J
+Cardiol 2005; 102: 391­395.
+27. ESH/ESC Task Force for the Management
+of Arterial Hypertension. 2013 Practice
+guidelines for the management of arterial
+hypertension of the European Society of
+Hypertension (ESH) and the European
+Society of Cardiology (ESC): ESH/ESC
+Task Force for the Management of Arterial
+Hypertension. J Hypertens 2013; 31:
+1925­1938.
+28. Wang JG, Sun NL, Ke YN, et al. Long-term
+efficacy of olmesartan medoxomil in Chinese
+hypertensive patients as assessed by clinic,
+ambulatory and home blood pressure meas-
+urements. Clin Drug Investig 2012; 32:
+729­734.
+29. Levey AS, Stevens LA, Schmid CH, et al. A
+new equation to estimate glomerular filtra-
+tion rate. Ann Intern Med 2009; 150:
+604­612.
+30. Xu TY, Li Y, Fan WX, et al. Ambulatory
+(AASI), but not home (HASI), arterial
+stiffness index is associated with aortic pulse
+wave velocity. Hypertens Res 2011; 34:
+402­403.
+Qin et al. 1333
+31. Liu Z, Hesse C, Curry TB, et al. Ambulatory
+arterial stiffness index is not correlated with
+the pressor response to laboratory stressors
+in normotensive humans. J Hypertens 2009;
+27: 763­768.
+32. Go
+´ mez-Marcos MA, Recio-Rodri´guez JI,
+Patino-Alonso MC, et al. Relationship
+between intima-media thickness of the
+common carotid artery and arterial stiffness
+in subjects with and without type 2 diabetes:
+a case-series report. Cardiovasc Diabetol
+2011; 10: 3.
+33. Bastos JM, Bertoquini S and Polo
+´ nia J.
+Prognostic significance of ambulatory arter-
+ial stiffness index in hypertensives followed
+for 8.2 years: its relation with new events and
+cardiovascular risk estimation. Rev Port
+Cardiol 2010; 29: 1287­1303.
+34. Go
+´ mez-Marcos MA, Recio-Rodri´guez JI,
+Patino-Alonso MC, et al. Ambulatory
+arterial stiffness indices and target organ
+damage in hypertension. BMC Cardiovasc
+Disord 2012; 12: 1.
+35. Gismondi RA, Neves MF, Oigman W, et al.
+Ambulatory arterial stiffness index is higher
+in hypertensive patients with chronic kidney
+disease. Int J Hypertens 2012; 2012: 178078.
+36. Baumann M, Dan L, Nu
+¨ rnberger J, et al.
+Association of ambulatory arterial stiffness
+index and brachial pulse pressure is restricted
+to dippers. J Hypertens 2008; 26: 210­214.
+37. Garci´a-Garci´a A
+´ , Garci´a-Ortiz L, Recio-
+Rodri´guez JI, et al. Relationship of 24-h
+blood pressure variability with vascular
+structure and function in hypertensive
+patients. Blood Press Monit 2013; 18:
+101­106.
+38. Dassie F, Grillo A, Carretta R, et al.
+Ambulatory arterial stiffness indexes in
+acromegaly. Eur J Endocrinol 2012; 166:
+199­205.
+39. Chen H, Hua Q and Hou H. Association of
+hemoglobin with ambulatory arterial stiff-
+ness index in untreated essential hypertensive
+patients without anemia. Intern Med 2011;
+50: 2759­2765.
+40. Wang Y, Hu Y, Li Y, et al. Association of
+renal function with the ambulatory arterial
+stiffness index and pulse pressure in hyper-
+tensive patients. Hypertens Res 2012; 35:
+201­206.
+41. Kastarinen H, Vasunta RL, Ukkola O, et al.
+Glomerular filtration rate is related to dip-
+ping pattern in ambulatory blood pressure
+monitoring--a cross-sectional population-
+based study. J Hum Hypertens 2010; 24:
+247­253.
+42. Manios E, Tsagalis G, Tsivgoulis G, et al.
+Time rate of blood pressure variation is
+associated with impaired renal function in
+hypertensive patients. J Hypertens 2009; 27:
+2244­2248.
+1334 Journal of International Medical Research 42(6)
+

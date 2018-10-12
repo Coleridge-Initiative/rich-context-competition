@@ -1,0 +1,555 @@
+Research Report
+Research in the precaution
+of recombinant human
+erythropoietin to
+steroid-induced
+osteonecrosis of the
+rat femoral head
+Lu-yong Jiang*, Xiao Yu* and Qing-jiang Pang
+Abstract
+Objective: To elucidate the effects of recombinant human erythropoietin (rHuEPO) on
+steroid-induced osteonecrosis of the femoral head in rats.
+Methods: Twenty-four adult Wistar rats were randomly divided into three groups of eight rats
+each. The rats in the positive control group were injected with dexamethasone at 1 mg/kg twice a
+week for 5 weeks. The rats in the negative control group were injected with sodium chloride alone.
+The rats in the experimental group were injected with dexamethasone at 1 mg/kg twice a week for
+5 weeks and rHuEPO (500 u/d/kg) daily for 5 weeks. The femoral head on one side was examined
+by hematoxylin and eosin staining, and that on the other side was examined by CD31 staining of the
+capillaries.
+Results: Hematoxylin and eosin staining in the positive control group showed that the bony
+trabeculae had become obviously narrow and sparse with discontinuity of the integrity. The
+integrity of the trabeculae was better in the experimental group than positive control group. The
+CD31 expression was lower in the positive control group than in the other two groups.
+Conclusion: rHuEPO can effectively prevent osteocyte apoptosis, delaying or decreasing
+osteonecrosis of the femoral head.
+Keywords
+rHuEPO, steroid, osteonecrosis, femoral head
+Date received: 4 November 2016; accepted: 30 March 2017
+Introduction
+Steroid-induced avascular necrosis of the
+femoral head (SANFH) is characterized by
+damage to the blood supply of the femoral
+head. Regardless of the pathogenesis,
+Journal of International Medical Research
+2017, Vol. 45(4) 1324­1331
+! The Author(s) 2017
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0300060517707076
+journals.sagepub.com/home/imr
+Department of Orthopedics, Ningbo No. 2 Hospital,
+Ningbo, Zhejiang Province, China
+Corresponding author:
+Qing-jiang Pang, Department of Orthopedics, Ningbo
+No. 2 Hospital, Ningbo, Zhejiang Province 315010, China.
+Email: pqjey@sina.com
+*These authors contributed equally to this work.
+Creative Commons CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial
+3.0 License (http://www.creativecommons.org/licenses/by-nc/3.0/) which permits non-commercial use, reproduction and
+distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.
+sagepub.com/en-us/nam/open-access-at-sage).
+SANFH leads to degeneration and necrosis
+of the subchondral bone, collapse of the
+femoral head, and eventual disease related
+to retrogressive damage of the hip joint.1,2
+With the wide clinical application of ster-
+oids, the incidence of SANFH-associated
+morbidity has been increasing in China
+each year. Common clinical characteristics
+of such morbidity include short onset
+(Short onset is equivalent to fast onset.It
+means that the disease is progressing fast),
+collapse of the femoral head, a poor prog-
+nosis, and a high disability rate.
+Consequently, SANFH is associated with
+great economic and psychological burdens
+on patients and society and has a severe
+impact on patients' quality of life.
+Research on prevention measures has
+great clinical and social significance. The
+final link in the pathogenesis of SANFH is
+mainly the insufficient blood supply to the
+femoral head, which is an obstacle to
+revascularization and leads to subsequent
+necrocytosis.3 Therefore, the key to curing
+SANFH is to adopt effective means and
+then promote revascularization and new
+bone formation in the necrotic zone.
+Erythropoietin (EPO) is a single-stranded
+acidoglycoprotein with a molecular weight
+of about 30 kDa and thermal stability at
+80C. Previous research indicates that EPO
+not only accelerates erythropoiesis but also
+exhibits a cytoprotective effect, especially by
+preventing apoptosis of endothelial cells,
+nerve cells, and myocardiocytes, and accel-
+erates the generation of new vessels.
+Increased research of EPO and its receptor
+has in turn increased the number of reports
+on clinical treatment using EPO, and its
+applications are being continually
+expanded.4 Because dexamethasone (Dex)
+is the most commonly used steroid in clinical
+practice, we chose it to establish an SANFH
+model. This animal study was performed
+to elucidate the preventive effect of recom-
+binant human EPO (rHuEPO) on SANFH
+in rats.
+Materials and methods
+Establishment of rat SANFH
+This study included 24 healthy adult Wistar
+rats (12 male, 12 female; weight of about
+300 g). All were bred under the same condi-
+tions (fed a common pelleted diet and
+maintained under natural lighting with a
+temperature of 20C Æ 2C and humidity of
+about 50%). They were weighed 1 week
+after adaptive feeding and randomly divided
+into three groups of eight rats each (four
+male, four female) using a random number
+table: the positive control group, negative
+control group, and experimental group. The
+body weights of the rats were not signifi-
+cantly different among these three groups
+according to one-way analysis of variance.
+During the experiment, the animals were
+handled based on the Guidance Opinion
+about Kindly Treating Animals (Ningbo
+University) released by the Ministry of
+Science and Technology in 2006. The
+animal model was established as follows.
+Rats in the positive control group were
+injected with Dex at 1 mg/kg body weight
+in the rear leg muscle twice a week for 5
+consecutive weeks. Rats in the negative
+control group were injected with an equiva-
+lent volume of normal saline in the rear leg
+muscle twice a week for 5 consecutive weeks.
+Rats in the experimental group were injected
+with Dex at 1 mg/kg body weight in the rear
+leg muscle twice a week for 5 consecutive
+weeks and intraperitoneally injected with
+rHuEPO at 500 u/d/kg body weight once
+daily for 5 consecutive weeks.
+General observation
+The status of the rats was observed every
+day, and data were collected on survival,
+appetite, activity level, weight change, excre-
+tion, superficial wounds and infection, and
+other factors. The rats were weighed every
+week. All rats were given 2 h of free activities
+outside the cage every day to increase their
+Jiang et al. 1325
+activity range and make the model as real-
+istic to daily life as possible.
+Hematoxylin and eosin staining
+All rats were killed by bloodletting under
+anesthesia after 5 weeks. Bilateral femoral
+head specimens were histopathologically
+stained with hematoxylin and eosin (HE)
+and immunohistochemically stained with
+CD31. The surrounding soft issue was care-
+fully removed to determine whether the
+femoral head was smooth and complete and
+whether the color and form of the coronalis
+was normal. The resistance was also checked.
+The obtained specimens were fixed with
+formaldehyde solution (0.1 mol/L, pH ¼ 7.4)
+with a 10% volume fraction at 4C for 4
+days, washed with phosphate-buffered saline,
+decalcified at 37.4C in EDTA­Tris buffer
+solution with a 10% volume fraction, and
+decalcified at 37.4C. The decalcification
+liquid was changed once a week. The surface
+of the bone specimen was observed, and its
+degree of decalcification was measured
+through a physical method. Get material
+after the complete decalcification. The speci-
+men was the dehydrated in increasing gradi-
+ents of ethyl alcohol. The xylene was handled
+transparently for 2 hours. The specimen was
+embedded in paraffin and observed by HE
+staining. An optical microscope was used to
+observe the bone tissue, marrow tissue, and
+bone trabecular structure.
+Immunohistochemical CD31 staining
+The specimen of the femoral head proper
+was cut horizontally along the coronal
+plane, immediately placed into 40 g/L par-
+aformaldehyde stationary liquid, and then
+placed in a refrigerator at 4C for 48 hours.
+It was commonly cut through general SP
+immunohistochemical paraffin, and immu-
+nohistochemical testing was performed to
+evaluate the expression of CD31 in the rat
+femoral head. CD31 positivity was indicated
+by the presence of yellow particles in the
+vascular endothelial cells. Under a micro-
+scopic camera, each immunohistochemical
+side was observed by randomly selecting
+three different views (Â400). The count
+presents yellow positive expression vessel.
+Statistical analysis
+All data are presented as mean Æ standard
+deviation. Statistical analyses were per-
+formed with PASW Statistics for Windows
+18.0 (SPSS Inc., Chicago, IL), and differ-
+ences between groups were tested with the
+mean t value. A P value of < 0.05 indicates a
+significant difference, and P < 0.01 indicates
+a remarkably significant difference.
+Results
+General condition of the rats
+The rats of each group remained in good
+condition throughout the study. Five weeks
+after beginning treatment, the hair on the
+hind limbs and backs of most rats in the
+positive control group and experimental
+group became sparse, and the activity level
+of some animals in the positive control
+group decreased. The other two groups
+showed no obvious abnormalities.
+Observation of HE staining results
+(1) Negative control group: The bony tra-
+beculae in both male and female rats had an
+integral circular or oval-type arch structure
+and high connectivity without osteoclasts,
+narrowed bone trabeculae, or fractures
+(Figure 1). (2) Positive control group: The
+bony trabeculae of three male rats became
+sparse, narrow, and fractured; the connect-
+ivity was reduced, some arch structures
+disappeared, the form became irregular,
+and the partitions of the bony trabeculae
+were decreased. Many osteoclasts were pre-
+sent, and some nuclei had shrunken, dis-
+solved, or disappeared. These lesions were
+1326 Journal of International Medical Research 45(4)
+found in three of the female rats; two other
+rats showed different degrees of bone tra-
+becular narrowing, decreased connectivity,
+and other lesions (Figure 2). (3)
+Experimental group: Compared with the
+positive control group, the lesions in both
+male and female rats in the experimental
+group were obviously alleviated. The bony
+trabeculae were relatively regular in form.
+The connectivity was markedly superior to
+that in the positive control group. Some
+bony trabeculae had become coarse. The
+fracture rate was obviously decreased.
+Connection and repair had occurred in the
+defects. Some of the structure resembled
+that of the normal group. The degree of
+partitioning of the bony trabeculae was
+relatively high, and many visible osteoblasts
+were present (Figure 3).
+The bony trabeculae were complete and
+their arrangement was regular. The osteo-
+blasts were clearly visible. The marrow was
+rich with hematopoietic cells, and relatively
+few fat cells were present. No osteoclasts
+Figure 2. Histopathological observation of the femoral head with hematoxylin and eosin staining in the
+positive control group. (a) Â100. (b) Â250.
+Figure 1. Histopathological observation of the femoral head with hematoxylin and eosin staining in the
+negative control group. (a) Â100. (b) Â250.
+Jiang et al. 1327
+were observed, and the bony trabeculae
+became narrow and exhibited fractures.
+The bony trabeculae were obviously sparse
+and broken and showed a chaotic, irregular
+morphology. Some of the arch structure had
+disappeared. The number of empty bone
+lacunae was increased. The degree of parti-
+tioning of the bony trabeculae was decreased,
+and many osteoclasts were present. Some
+visible bone nuclei had shrunken and dis-
+solved, and some had disappeared.
+The connectivity of the bony trabeculae
+was obviously better than that in the positive
+control group. Some trabeculae had become
+coarse, and the fracture rate was obviously
+decreased. Connectivity and repair had
+occurred in the defects. Some of the struc-
+ture was close to that in the normal group.
+The degree of partitioning of the bony
+trabeculae was relatively high, and many
+osteoblasts were visible.
+Immunohistochemical expression of CD31
+Immunohistochemical staining for CD31
+was clearly and selectively present in the
+endothelial cells. Positivity was indicated by
+the presence of yellow particles. The degree
+of vascular staining was evaluated by view-
+ing of random areas under the microscope.
+CD31 expression was lower in the positive
+control group than in the negative control
+group and experimental group (Table 1).
+(1) Negative control group: CD31 expres-
+sion was strong, and the blood supply of the
+femoral head was sufficient. The microcir-
+culation was normal (Figure 4(a)). (2)
+Positive control group: CD31 staining was
+obviously decreased, and the light yellow
+color indicated that the microcirculation
+was insufficient. The blood supply to the
+femoral head was significantly decreased
+(P < 0.001) (Figure 4(b)). (3) Experimental
+group: The CD31 expression and the
+Figure 3. Histopathological observation of the femoral head with hematoxylin and eosin staining in the
+experimental group. (A) Â100. (B) Â250.
+Table 1. CD31 staining count of the rat femoral
+head.
+Group Male Female
+Negative control
+group
+26.00 Æ 6.02 27.67 Æ 7.99
+Positive control
+group
+12.72 Æ 3.39* 14.11 Æ 5.02*
+Experimental group 15.61 Æ 3.13# 18.94 Æ 4.22##
+Data are presented as mean Æ standard deviation.
+*P < 0.01 compared with negative control group;
+#P < 0.05, ##P < 0.01 compared with positive control
+group.
+1328 Journal of International Medical Research 45(4)
+blood supply were significantly higher than
+in the positive control group (P < 0.05)
+(Figure 4(c)).
+Discussion
+SANFH is a disease caused by improper use
+of steroids, which damage the blood supply
+of the femoral head, resulting in osteonecro-
+sis of the bony trabeculae and marrow in
+some parts of the femoral head. Steroids and
+their metabolites act as strong inhibitors of
+vessel growth by inhibiting capillary growth
+and regeneration and promoting capillary
+degeneration. Zhang et al.5 reported that
+steroids can induce apoptosis of micro-
+vascular endothelial cells, resulting in
+reduced numbers of capillaries. This may
+give rise to disorders of the microcirculation.
+When high-dose glucocorticoids are used for
+a long period of time, the microvascular
+density and thus blood perfusion of the
+femoral head decrease, which in turn
+decreases the blood flow. This lack of
+blood flow leads to hypoxia and fatty
+degeneration of bone cells. When the hyp-
+oxia and blood shortage reach a certain
+threshold, bone osteonecrosis will occur.
+Many treatment methods are currently
+available for protecting the femoral head.
+Core decompression is regarded as the most
+common technique for treatment of early-
+stage osteonecrosis of the femoral head. The
+aim of this technique is to reduce the internal
+pressure inside the femoral head and recover
+the normal blood circulation. The core
+drilling required for decompression helps
+to improve the blood circulation of the bone
+and alleviate marrow edema, thus prevent-
+ing or postponing disease progression.
+EPO is a glycoprotein that is mainly
+secreted from the kidney. It can stimulate
+the proliferation and differentiation of
+reticulocytes and endothelial cells; promote
+cell regeneration and vessel formation; resist
+inflammation, oxidation, and apoptosis; and
+accelerate vessel formation, cell prolifer-
+ation, and cell protection. On one hand,
+EPO can increase red blood cell production
+to improve tissue oxygen perfusion, thereby
+affecting the processes of tissue reshaping
+and fibrosis in patients with chronic heart
+failure and renal dysfunction. On the other
+hand, EPO resists oxidation and apoptosis,
+decreases inflammatory symptoms, reduces
+cardiac and renal tissue injury, and pro-
+motes angiogenesis.6 Some studies have
+revealed that EPO may improve cardiac
+function and reduce the hospitalization
+rate in patients with cardiac failure and
+Figure 4. Immunohistochemical staining for CD31. (a) Negative control group (Â400). CD31 staining was
+dense, indicating that the vasculature was rich and the microcirculation was good. (b) Positive control group
+(Â400). CD31 staining was sparse, indicating that the blood supply was insufficient and the microcirculation
+was poor. (c) Experimental group (Â400). Compared with the positive control group, CD31 expression was
+rich, indicating that the vasculature was increased and the microcirculation was relatively good.
+Jiang et al. 1329
+anemia.7­10 Zheng et al.11 used real-time
+polymerase chain reaction to detect EphB4
+expression and gene expression related to
+osteoblasts by breeding a rat bone marrow-
+derived stromal cell line (ST2) in vitro after
+adding EPO. The calcium deposition was
+obviously higher in the EPO group than in
+the control group, and the expression of
+genes related to RUNX2, Col1, and ALP
+were correspondingly increased. These find-
+ings show that EPO plays an important role
+in promoting osteoblast differentiation and
+function.
+Hu et al.12 discovered that ischemia and
+reperfusion­induced renal dysfunction in
+rats was remarkably improved by EPO,
+which worked to inhibit p38MAPK, reduce
+the TNF-a level, and alleviate the inflam-
+matory injury. These findings have implica-
+tions for improvement in early renal
+function recovery after kidney transplant-
+ation. In their animal experiment, Ishii
+et al.13 found that EPO pre-processing
+could reduce the cerebral infarction area
+and number of apoptotic nerve cells, thereby
+alleviating the damage induced by cerebral
+ischemia and reperfusion in rats. Ahn et al.14
+ligated the femoral artery to establish an
+animal model of acute artery embolism and
+studied the influence of EPO on blood
+perfusion in the lower limbs of rats. The
+experimental results indicated that EPO can
+accelerate vessel generation, improve blood
+flow, and effectively improve the circulation
+of the lower limbs. These findings provide
+insight and an experimental basis for clinical
+recovery of blood perfusion after acute
+artery embolism.
+In the present study, we evaluated
+the effects of rHuEPO for treatment of
+SANFH by studying the mechanism
+of SANFH-associated morbidity and
+EPO-induced improvements in the micro-
+circulation and apoptosis. Our main find-
+ings are as follows. The HE staining results
+in the positive control group showed that
+the bony trabeculae in five of the eight rats
+had become obviously sparse, narrow, and
+broken and exhibited a low connectivity
+rate. The remaining three rats showed
+different degrees of narrowing of the
+bony trabeculae and decreased connectivity
+rates. The establishment of this experimen-
+tal model was successful. The histopatho-
+logic examination showed greater
+alleviation of the lesions in the experimen-
+tal group than in the positive control
+group, the bony trabeculae were more
+regular in form, the degree of connectivity
+was obviously better than that in the
+positive control group, connectivity and
+recovery had occurred in the defects, and
+many osteoblasts were visible. These find-
+ings prove that rHuEPO can reduce bone
+cell apoptosis and thereby prevent the
+occurrence of osteonecrosis of the femoral
+head.15 The femoral head CD31 staining
+count in the experimental group was
+15.61 Æ 3.13 (male) and 18.94 Æ 4.22
+(female), which was significantly higher
+than that in the positive control group
+[12.72 Æ 3.39 (male) and 14.11 Æ 5.02
+(female), P < 0.05]. Thus, rHuEPO may
+increase the blood supply of the femoral
+head and help to prevent osteonecrosis by
+improving the microcirculation. The results
+of this experiment might lead to the use of
+rHuEPO to prevent the occurrence of
+femoral head necrosis in patients undergo-
+ing long-term treatment with steroids.
+In summary, the pathogenesis of SANFH
+remains unclear. Apoptosis and tissue ische-
+mia may be contributors. The use of
+rHuEPO in the early treatment period to
+prevent osteonecrosis of the femoral head
+has achieved a certain short-term curative
+effect. However, its long-term effect and
+preventive mechanism require further
+research and observation.
+Declaration of conflicting interest
+The authors declare that there is no conflict of
+interest.
+1330 Journal of International Medical Research 45(4)
+Funding
+This research received funds from the Natural
+Science Foundation of Zhejiang Province
+(LY12H06002), Key subject of Ningbo (2016-
+55), and Clinical specialty in joint disease of
+Ningbo (2013-88).
+References
+1. Chen S, Li J, Peng H, et al. Administration of
+erythropoietin exerts protective effects against
+glucocorticoid-induced osteonecrosis of the
+femoral head in rats. Int J Mol Med 2014; 33:
+840­848.
+2. Kolpakova ME, Zubarev` AA, Artamonova
+TD, et al. Experimental model of osteonecro-
+sis of the jaw in rats treated with zoledronic
+acid. Br J Oral Maxillofac Surg 2017; 55:
+156­159. pii: S0266-4356(16)30302-3.
+3. Han N, Li Z, Cai Z, et al. P-glycoprotein
+overexpression in bone marrow-derived mul-
+tipotent stromal cells decreases the risk of
+steroid-induced osteonecrosis in the femoral
+head. J Cell Mol Med 2016; 20: 2173­2182.
+4. Holstein JH, Orth M and Scheuer C.
+Erythropoietin stimulates bone formation,
+cell proliferation, and angiogenesis in a fem-
+oral segmental defect model in mice. Bone
+2011; 49: 1037­1045.
+5. Zhang Y, Wang K, Song Q, et al. Role of the
+local bone renin-angiotensin system in ster-
+oid-induced osteonecrosis in rabbits. Mol
+Med Rep 2014; 9: 1128­1134.
+6. Chen YP, Chen WC, Wang KC, et al.
+Effectiveness of synovial fluid mesenchymal
+stem cells embedded in alginate beads for
+treatment of steroid-induced avascular
+necrosis of the femoral head. J Orthop Sci
+2014; 19: 657­666.
+7. Ngo K, Kotecha D and Walters JA.
+Erythropoiesis-stimulating agents for anae-
+mia in chronic heart failure patients. Cochrane
+Database Syst Rev 2010; 12: CD007613.
+8. Kowsari R, Yazdian-Robati R, Razavi BM,
+et al. Recognition and characterization of
+Erythropoietin binding-proteins in the brain
+of mice. Iran J Basic Med Sci 2016; 19:
+946­952.
+9. Lu H, Wu X, Wang Z, et al. Erythropoietin-
+activated mesenchymal stem cells promote
+healing ulcers by improving microenviron-
+ment. J Surg Res 2016; 205: 464­473.
+10. Traudt CM, McPherson RJ, Bauer LA, et al.
+Concurrent erythropoietin and hypothermia
+treatment improve outcomes in a term non-
+human primate model of perinatal asphyxia.
+Dev Neurosci 2013; 35: 491­503.
+11. Zheng LZ, Cao HJ, Chen SH, et al. Blockage
+of Src by Specific siRNA as a Novel
+Therapeutic Strategy to Prevent Destructive
+Repair in Steroid-Associated Osteonecrosis
+in Rabbits. J Bone Miner Res 2015; 30:
+2044­2057.
+12. Hu L, Yang C, Zhao T, et al. Erythropoietin
+ameliorates renal ischemia and reperfusion
+injury via inhibiting tubulointerstitial
+inflammation. J Surg Res 2012; 176:
+260­266.
+13. Ishii T, Asai T, Fukuta T, et al. A single
+injection of liposomal asialo-erythropoietin
+improves motor function deficit caused by
+cerebral ischemia/reperfusion. Int J Pharm
+2012; 439: 269­274.
+14. Ahn S, Min SK, Min SI, et al. Early
+sustained injections of erythropoietin
+improve angiogenesis and restoration of
+perfusion in the ischemic mouse hindlimb.
+J Korean Med Sci 2012; 27: 1073­1078.
+15. Bakhshi H, Rasouli MR and Parvizi J. Can
+local Erythropoietin administration enhance
+bone regeneration in osteonecrosis of fem-
+oral head? Med Hypotheses 2012; 79:
+154­156.
+Jiang et al. 1331
+

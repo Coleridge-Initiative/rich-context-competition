@@ -1,0 +1,585 @@
+Evolutionary Psychology
+www.epjournal.net ­ 2014. 12(2): 403-416
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Original Article
+Revisiting the Survival Mnemonic Effect in Children
+Josefa N. S. Pand eirada, Department of Education, University of Aveiro, Portugal; Purdue University, West
+Lafayette, IN, USA; Institute for Biomedical Imaging and Life Sciences, University of Coimbra, Portugal.
+Email: josefa@ua.pt (Corresponding author).
+Luísa Pires, Department of Education, University of Aveiro, Portugal.
+Sandra C. Soares, Department of Education, University of Aveiro, Portugal; Institute for Biomedical Imaging
+and Life Sciences, University of Coimbra, Portugal.
+Abstract: The survival processing paradigm is designed to explore the adaptive nature of
+memory functioning. The mnemonic advantage of processing information in fitness-
+relevant contexts, as has been demonstrated using this paradigm, is now well established,
+particularly in young adults; this phenomenon is often referred to as the "survival
+processing effect." In the current experiment, we revisited the investigation of this effect in
+children and tested it in a new cultural group, using a procedure that differs from the
+existing studies with children. A group of 40 Portuguese children rated the relevance of
+unrelated words to a survival and a new moving scenario. This encoding task was followed
+by a surprise free-recall task. Akin to what is typically found, survival processing produced
+better memory performance than the control condition (moving). These data put on firmer
+ground the idea that a mnemonic tuning to fitness-relevant encodings is present early in
+development. The theoretical importance of this result to the adaptive memory literature is
+discussed, as well as potential practical implications of this kind of approach to the study of
+memory in children.
+Keywords: survival processing, episodic memory, children, evolution, development
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Introduction
+The idea that our memory systems might have been shaped throughout our
+evolution has received special attention in recent years. Although this idea has been around
+for quite some time (e.g., Darwin, 1859; Tooby and Cosmides, 1992), the first empirical
+work was reported only in 2007 by Nairne, Thompson, and Pandeirada. This first study
+revealed that when people thought about the relevance of information for an imagined
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -404-
+survival situation, one in which their survival was at risk (being stranded in a foreign land
+without any basic survival materials), their memory for the processed information was
+better than when the same information was processed under various control conditions
+(e.g., moving to a foreign land or pleasantness ratings). Many replications of the mnemonic
+advantage of processing information with respect to this survival situation have followed. It
+is now established that the "survival processing effect" occurs in both between- and within-
+subject designs, in both free recall and recognition (e.g., Kang, McDermott, and Cohen,
+2008; Nairne et al., 2007), and leads to better memory performance than most of the
+encoding conditions widely recognized to produce good memory performance (Nairne,
+Pandeirada, and Thompson, 2008). In addition, the effect does not depend on the type of
+material used, as it occurs for random word sets (e.g., Nairne and Pandeirada, 2011) and
+pictures (Otgaar, Smeets, and van Bergen, 2010). Although the effect is quite robust under
+these conditions, recent studies have failed to find survival processing advantages in more
+implicit testing conditions, such as source memory (Bröder, Krüger, and Schütte, 2011) and
+implicit memory tests (Tse and Altarriba, 2010).
+From an evolutionary perspective, if this fitness-relevance tuning is indeed a
+functional and evolutionarily relevant characteristic of our memory systems, one might
+expect it to occur across the various stages of human development. Indeed, before reaching
+the reproductive stage when they could pass along their genetic heritage, children have to
+face many challenges, making this stage of development a strong target of natural selection
+(e.g., King and Bjorklund, 2010). As Bjorklund and Pellegrini (2000) put it:
+...our ancestors also developed, and before organisms can reproduce to get their
+genes into the next generation, they must first reach adulthood. For a slow-
+developing species such as humans, that can be a long and treacherous path. How
+people develop is important to eventual reproductive success... (p. 1704)
+In agreement with this idea, studies in various areas have demonstrated that children are
+able to acquire knowledge relevant to their survival at a very young age, such as the
+difference between potential agents and non-agents (Newman, Keil, Kuhlmeier, and Wynn,
+2010). Children also seem to prioritize their attention to potential threatening stimuli in
+complex visual displays such as snakes and threatening faces (e.g., LoBue and DeLoache,
+2008; LoBue and DeLoache, 2010). Children are also predisposed to remember the faces of
+potentially harmful individuals (Kinzler and Shutts, 2008). Even the overestimation
+children sometimes show for various skills, memory performance included, has been
+interpreted as having potential adaptive value (Shin, Bjorklund, and Beck, 2007). All of
+these aspects can be conceptualized as cognitive biases with adaptive value that allow
+children to thrive through this developmental phase. In the same line, it would be important
+to explore if children's memory is also sensitive to the fitness-relevant component
+conveyed in the survival processing paradigm. Better retention of information when it is
+processed for fundamental aspects of human survival­finding food, shelter, and protection
+from predators­would certainly increase the chances of children reaching a reproductive
+phase and passing along their genes to the future generations.
+Most of the research on the survival processing effect has been conducted in young
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -405-
+adults, although the effect has also been reported in elderly populations (Faria, Pinho,
+Gonçalves, and Pandeirada, 2009; Nouchi, 2011; Pandeirada, Pinho, and Faria, 2014). The
+hypothesis that the survival advantage is developmentally invariant, particularly if it can be
+observed in children, has been explored in a couple of previous papers. Otgaar and Smeets
+(2010, Experiment 2) tested the survival processing effect in children (8 and 11 years-old),
+and also measured whether survival processing leads to differential levels of false recall as
+compared to the control conditions. In their experiment, children were asked to rate
+thematically related lists of words adopted from the Deese-Roediger-McDermott paradigm
+(e.g., Roediger and McDermott, 1995) in one of three conditions: survival, moving, or
+pleasantness. Higher correct recall was obtained for the survival rated words as compared
+to the two control conditions. However, the false alarm rate for the critical lures was also
+higher for survival than for the controls; this pattern of results occurred for the overall
+intrusion rate as well (but only for the older children). When net accuracy was used as the
+dependent measure, no survival advantage was obtained. It is worth noting, however, that
+the use of theme-related lists of items could have affected the extent to which survival
+processing affected memory performance. Some studies have obtained the survival
+processing effect in young adults when lists of semantically related items are used (Nairne
+and Pandeirada, 2008a), but others have not (Burns, Burns, and Hwang, 2011).
+More recently, Aslan and Bäuml (2012) reported two within-subject experiments in
+which children from three different age groups (4-6years, 7-8 years, and 9-10 years) rated
+the usefulness of random words to the typical survival scenario and to a variety of control
+conditions. In the first experiment, survival was compared to a pleasantness-rating
+condition and a word-length rating task. The results on a final surprise yes-no recognition
+test were consistent across the three age groups and revealed better memory performance
+for the pleasantness condition as compared to the word-length rating task, replicating the
+traditional levels-of-processing effect (Craik and Lockhart, 1972). Importantly, survival
+processing produced the best memory performance. In their second experiment, the
+survival scenario was compared to two other forms of schematic processing: an "overnight"
+and a "forgotten" scenario. In the first, participants were asked to rate the relevance of
+words to packing a bag to go spend the night at a friend's house. In the second, participants
+rated the relevance of words to a situation where they had been forgotten by their parents at
+school/kindergarten; they were also asked to imagine being hungry, thirsty, and a bit
+scared. Once again, a strong survival advantage was obtained in a recognition task across
+all age groups.
+It is important to note, however, that none of these studies have used a free-recall
+test of unrelated words, as is frequently the case in the survival processing experiments.
+Given that children's memory performance is often sensitive to both the type of material
+and the nature of the memory test (e.g., Lindberg, 1980; Pressley, 1982), testing the
+survival processing effect under these conditions would be an important addition to the
+establishment of this phenomenon in children. Previous studies with adults using
+semantically related lists of items have revealed somewhat conflicting findings. Using a
+semantically related list of items, Nairne and Pandeirada (2008a) obtained a correct recall
+advantage after survival processing, but also an increase in false recall, even though the
+number of intrusions overall was very low (Nairne and Pandeirada, 2008a, Experiment 1);
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -406-
+a similar pattern was found in Experiments 1 and 3 of Otgaar and Smeets (2010). However,
+in Burns et al. (2011, Experiment 2), correct recall of categorized lists of items was similar
+after survival processing and a pleasantness rating task (no intrusion data were presented in
+this work). These mixed results when categorized/theme-related lists of items are used is
+presumably due to the semantically related nature of the material, which can affect the
+extent to which the information is processed for the respective encoding condition. For
+example, participants might become aware of the semantic structure or common theme of
+the material during encoding, which could distract them from the specific encoding task.
+Also, by realizing the semantic structure or common theme of the material, later on,
+participants can rely on it as a recall strategy (e.g., "I remember there were fruits,
+animals..."), thus limiting the influence of the encoding task on final performance.
+The current study was designed to explore the survival processing effect in children
+using unrelated word lists and free recall as the main memory measure. Our study also
+included a control condition that differs to some extent from the controls used in the
+previous studies in children. We used a moving scenario (see Nairne et al., 2007), as did
+Otgaar and Smeets (2010), but the tasks involved in the two scenarios were different: In our
+case, children were asked to rate the relevance of the words to "organizing and storing all
+your toys such that none will get broken nor lost during the moving process to the new
+home" and, in their scenario, children were asked to rate the relevance of words to making
+new friends and learning a new language in the context of moving to a foreign land with
+their parents. We believe the tasks involved in our scenario are more familiar and self-
+relevant to our participants, thus providing another demonstration of the effect in a
+somewhat different context. The current study was also conducted in Portugal, a different
+culture from the ones used in previous studies (which included children from Germany and
+the Netherlands). Demonstrating that the effect occurs across a wide variety of cultures,
+and thus, is potentially universal, strengthens the idea that this memory tuning might indeed
+result from our evolutionary history (Tooby and Cosmides, 2005).
+In sum, establishing a mnemonic bias towards fitness-relevant encodings in children
+helps to bolster the proposal that memory continues to bear the "imprint" of ancestral
+selection pressures. It is highly unlikely that children as young as 4 years old have
+experienced the fitness-relevant challenges depicted in the survival scenario. However,
+even if one rejects the evolutionary account, it is still interesting to consider the effects of
+fitness-based processing in the context of the development of memory (Howe and Otgaar,
+2013). Finally, the merits of systematic replication are nowadays widely recognized as
+essential to strengthen the reliability of a phenomenon (e.g., Roediger, 2012).
+In the present study, 40 Portuguese children aged between 10 and 12 years rated a
+set of unrelated nouns to a survival and a moving scenario. At the end of the task, a surprise
+free-recall task was administered. We expected memory performance to be better when
+words were rated for survival than when they were rated for moving.
+Methods
+Participants and apparatus
+Forty Portuguese children aged 10 to 12 years (20 females) attending a school in
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -407-
+Estarreja (town in the district of Aveiro, Portugal) participated in this experiment. Consent
+to conduct the study at the school was obtained from the school's Principal. Informed
+consent was also obtained from the parents of each child and, at the beginning of the
+experimental session, informed consent was also obtained from the child. Sessions were
+conducted individually in a quiet room and lasted approximately 40 minutes. Stimuli were
+presented and controlled using E-prime 2.0 software (Schneider, Eschman, and Zuccolotto,
+2002) and a 17" monitor laptop.
+Materials and design
+Thirty-two unrelated concrete and familiar nouns were used (plus six practice items;
+see the Appendix for the full list of items in European Portuguese and corresponding
+translation to English). Words were randomly divided into four sets of eight words each.
+Each participant rated two sets of words for the Survival (S) scenario and the other two for
+the Moving (M) scenario in an alternated form (within-subject design). Thus, half the
+participants performed the encoding task in the order SMSM and the other half in the order
+MSMS. The same randomly determined order of presentation of the words was kept
+constant across versions. An unrelated visual search task was performed for about 3
+minutes between each encoding block (these results will not be presented here as they are
+not relevant to the memory task). This task also served as a distractor task after the last
+encoding block and before the surprise free recall task.
+Procedure
+The experiment was conducted in a quiet room at the participant's school, isolated
+from potentially distracting elements (e.g., noise). Upon arrival in the room, participants
+were randomly assigned to one of the counterbalancing versions of the experiment. The
+initial instruction informed participants they would be rating the relevance of words to two
+different scenarios using the same 1 to 5 rating scale. The first scenario was then presented;
+the survival scenario was very similar to the one used by Nairne et al. (2007), but the
+moving scenario was slightly adjusted to describe a more appropriate and self-relevant set
+of tasks considering the age of our participants. The specific scenarios were as follows
+(European Portuguese versions were used):
+Survival instructions: Imagine you are lost in a forest of an unknown place without
+any basic survival materials. Over the next few months you will need to find ways to
+survive, such as finding food, water, protection from dangerous animals, and finding a
+shelter. Next, I'm going to show you a list of words. Please rate how relevant each of these
+words would be for the survival situation just described. Some words might be important
+and others not, it's up to you to decide.
+Moving instructions: Imagine your parents are planning to move to a new home and
+you do not want to leave any of your toys behind. During the next few months you will
+have to find a way of organizing and storing all your toys such that none will get broken
+nor lost during the moving process to the new home. Next, I'm going to show you a list of
+words. Please rate how relevant each of these words would be for the moving situation just
+described. Some words might be important and others not, it's up to you to decide.
+At the beginning of the first and second blocks of the encoding task, participants
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -408-
+received the scenario instructions followed by three practice trials. After practice,
+participants were reminded of the scenario and then continued to the set of eight scored
+trials. Words were presented individually on the screen for 5 seconds each (ITI among
+words of 250 ms). Participants were cautioned to respond within this time window. Below
+the word, the 5-point rating scale was presented along with labels for the extreme and
+middle values: a value of 1 corresponded to a rating of "not relevant," a value of 3 to "more
+or less relevant," and a value of 5 to "extremely relevant." The rating scale was the same in
+both encoding conditions. Participants provided their responses by clicking on the number
+of their choice on the keyboard. After each encoding block, participants performed an
+unrelated visual search task, lasting approximately 3 minutes; this task served as a
+distractor task. After the fourth encoding block and the distractor task, the surprise free-
+recall instructions appeared, instructing participants to recall as many items as they could in
+any order they wished during a 5-minute period. Responses were written in a sheet of paper
+by the participant. A minute countdown was shown on the computer screen during the
+recall task.
+Results
+The level of statistical significance was set at p < .05. Participants rated over 98%
+of the words in both conditions [F(1, 39) < 1], indicating that participants had no difficulty
+rating the words within the available time. Given the small amount of non-rated items and
+to avoid item-selection concerns, we present the data unconditionalized.
+The proportion of correct recall for each condition presented in Figure 1 reveals that
+participants recalled more survival-encoded words than moving-encoded words. A repeated
+measures ANOVA confirmed this reliable difference, F(1, 39) = 7.23, MSE = .020, p
+2 =
+.16. Given the within-subject nature of the design, no separate intrusion data can be
+presented by condition. Overall, the number of intrusions was very low averaging less than
+1 intrusion per participant.
+Figure 1. Proportion correct recall for each condition
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+0.55
+Survival Moving
+Proportion Correct Recall
+Note: Error bars represent 95% confidence intervals
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -409-
+It is also important to consider the relevance ratings provided during encoding,
+given the debate on the role congruity might play in the survival mnemonic advantage (e.g.,
+Nairne and Pandeirada, 2011). Participants rated the words as significantly more relevant to
+the survival scenario than to the moving scenario, F(1,39) = 8.87, MSE = .12, p
+2= .19. The
+specific rating values obtained in each condition are presented in Table 1. In order to rule
+out this variable as a potential mediator of the survival advantage, additional analyses were
+performed. First, the difference in rating between the two conditions was calculated for
+each participant; two groups were then created based on this difference: a group of
+participants with a rating difference smaller or equal to |.5| (similar ratings group; n = 26),
+and a group with survival ratings higher than .5 as compared to the moving ratings (higher
+survival ratings group; n = 13); only one participant rated the words as more relevant to the
+moving scenario than to the survival scenario. The descriptive data for the ratings and
+recall by group are presented in Table 2. A mixed ANOVA with condition as a within-
+subject variable and group (similar ratings group and higher survival ratings group) as a
+between-subjects variable revealed a significant main effect of condition, F(1, 37) = 6.65,
+MSE = .02, p
+2 = .15, but neither the main effect of group, nor the interaction, were
+significant, F(1, 37) = 1.51, MSE = .02, p
+2 = .039, and F(1, 37) = .044, MSE = .02, p
+2 =
+.001, respectively. Importantly, even if only the group with similar ratings is considered,
+despite the smaller sample size, the survival mnemonic advantage remains significant, F(1,
+25) = 4.60, MSE = .02, p
+2 = .16. Additionally, considering all participants, the correlation
+between rating and recall for each condition was non-significant for both scenarios, and
+was actually negative for survival (survival: r = -.10, p = 0.50; moving: r = .19, p = .24).
+These results make it unlikely that the survival mnemonic advantage can be explained by
+differences in the relevance ratings.
+Table 1. Average rating and response times, in milliseconds (and standard deviations), for
+each condition
+Survival Moving
+Rating 2.7 (.63) 2.5 (.59)
+Response Time 2318.7 (360.5) 2249.7 (424.1)
+Table 2. Average ratings and proportion correct recall (and standard deviations) for the
+similar ratings group and higher survival ratings group, for each condition
+Survival Moving
+Rating
+Similar ratings group 2.53 (0.60) 2.53 (0.60)
+Higher survival ratings 3.06 (0.55) 2.28 (0.53)
+Recall
+Similar ratings group 45% (0.12) 37% (0.14)
+Higher survival ratings 42% (0.14) 32% (0.18)
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -410-
+Finally, we considered the time participants took to rate the words during the initial
+encoding task, as it might indicate differences in difficulty to make a decision. The
+response time data for each condition (see Table 1) indicate that participants took slightly
+more time to provide their ratings for the survival scenario than for the moving scenario.
+However, the difference was not statistically significant, F(1, 39) = 3.01, MSE = 31629.0,
+p = .09, p
+2 = .07.
+Discussion
+The present experiment reveals that children's memory performance is sensitive to
+the processing of information in the fitness-relevant context of survival. Aslan and Bäuml
+(2012) previously reported this same conclusion. However, Otgaar and Smeets (2010)
+questioned this conclusion based on the fact that survival processing not only increased
+correct recall but also false recall when theme-related lists of items were used. In the
+current study, we revisited this question while also extending the survival phenomenon in
+children using a new procedure (a free-recall test of unrelated material) and a new control
+scenario (a moving scenario that implicated different activities than the one used by Otgaar
+and Smeets, 2010). The test of the survival processing effect in children under new
+procedural conditions is important, as children's memory is often sensitive to procedural
+changes, as noted in the introduction. This study also expands the demonstration of a
+mnemonic advantage to a fitness-relevant context in children of a different culture,
+providing some support for an evolutionarily-based account of this phenomenon.
+Additionally, the critical importance of replication is well recognized in psychology, and
+researchers have been strongly encouraged to replicate previously published findings (e.g.,
+Roediger, 2012). As Pappas and Friedman (2012) put it: "Without replicability, cumulative
+knowledge, which is the essence of science, is not possible" (p. 364). Given the novelty of
+this finding in children and the existence of only three experiments published, we believe
+the present systematic replication adds reliability to this phenomenon.
+From an evolutionary perspective, one can anticipate that humans faced strong
+selection pressures from a very young age (e.g., Bjorklund and Sellers, 2011). Thus, one
+would expect our cognitive systems, and in particular memory, to be sensitive to elements
+that might somehow affect the chances of survival from an early age. The present study
+adds to the growing body of evidence for survival-based mnemonic tunings in children
+when different memory tests and materials are used, as well as in comparison to a variety
+of control conditions. Furthermore, the demonstration of the effect in a new cultural context
+also supports the idea of an evolutionarily-driven memory bias (Tooby and Cosmides,
+2005). Still, some would argue that this phenomenon is relevant more from a
+developmental perspective than an evolutionary one; specifically, experiments of this type
+provide information about the mnemonic strategies that arise during development. Howe
+and Otgaar (2013) have suggested that the survival processing effect is driven by general
+mechanisms, ones that are developmentally invariant, and demonstrations of the effect in
+children simply reflect the usage of those mechanisms. One example is the involvement of
+both item-specific and relational strategies. Although these authors argue that these
+strategies arise very early in development, others have shown that they are typically
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -411-
+acquired around the age of 5-6 years (e.g., Murphy, McKone, and Slee, 2003). Another
+example is the use of elaboration--some researchers would question whether elaborative
+strategies are naturally present in children as young as 4 (e.g., Bjorklund, Dukes, and
+Brown, 2009; Pressley, 1982). Thus, in our view, the demonstration of survival processing
+advantages in children as young as 4 (Aslan and Bäuml, 2012) lowers the chances that such
+proximate mechanisms can explain the effect, at least in children.
+Furthermore, such mechanisms (e.g., elaborative processing) also fail to provide a
+general explanation of the survival processing advantages in young adults. Studies that
+have failed to obtain the survival processing effect using implicit memory tests provide
+evidence that the effect is not solely mediated by elaboration or distinctiveness, as these
+processes usually confer mnemonic advantages in implicit as well as in explicit memory
+(McBride, Thomas, and Zimmerman, 2013; Tse and Altarriba, 2010). Emotionality could
+also be considered a potential proximate mechanism of the survival processing effect (see
+Sellers and Bjorklund, in press, for a discussion of this possibility). However, emotionality
+effects are also usually observed in implicit memory (Kensinger and Schacter, 2008), and
+that seems not to be the case with the survival processing effect, at least with young adults.
+As Howe and Otgaar (2013) acknowledge, survival processing seems to "recruit(s)
+a powerful set of memory processes"; the ultimate question is: Why does this happen? Why
+does processing information in this fitness-relevant scenario naturally recruit such powerful
+mnemonic processes? As Nairne and Pandeirada (2010) note, the survival processing
+paradigm was developed to test an a priori prediction of an evolutionary account, not to
+determine the proximate mechanisms that underlie the effect. This same question guided
+the current study: Could a mnemonic tuning be systematically identified early in
+development? From an evolutionary perspective, one that acknowledges the relevance of
+survival to children, we predicted that survival processing advantages would extend to
+younger populations of participants, regardless of the proximate mechanisms that may
+underlie the effect.
+The functional / evolutionary approach that led to the development of the survival
+processing paradigm has been extended beyond the survival scenario, focusing instead on
+the fitness-relevance of the situation or context engendered by the encoding condition (e.g.,
+Nairne, Pandeirada, Gregory, and Van Arsdall, 2009). It has also been applied to the
+investigation of other forms of memory. For example, it has been shown that the spatial
+location of items (pictures) is best retained when it is processed in a fitness-relevant context
+(e.g., having to collect food items or capture animals in order to survive), as compared to a
+non-fitness relevant context (e.g., the same tasks were involved but now in the context of a
+game) (Nairne, VanArsdall, Pandeirada, and Blunt, 2012).
+Other fitness-relevant aspects, such as animacy, have also been shown to affect our
+cognitive processes. One example is the visual attention priority to animate motion (Pratt,
+Radulescu, Guo, and Abrams, 2010). Another one, using young adults, is an increased
+retention of items processed as animates, or of animate items, as compared to inanimate
+items. In the first case, memory for nonwords encoded as animates was better than when
+these were encoded as inanimates (VanArsdall, Nairne, Pandeirada, and Blunt, 2012). In
+the second case, a set of animate items was recalled better than a set of carefully matched
+inanimate items (Nairne, VanArsdall, Pandeirada, Cogdill, and LeBreton, 2013). This
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -412-
+mnemonic tuning is consistent with the predisposition children have to acquire knowledge
+related to this dimension and also to the living / non-living aspect of objects (e.g., Gelman,
+1990; Newman et al., 2010; Pratt et al., 2010). Therefore, a strong case for the adaptive
+nature of memory has been developing over the last few years, suggesting that the way our
+cognitive systems work (and particularly memory) is sensitive to conditions that affect the
+individuals' chances of survival and/ or reproduction. Employing the functional and
+evolutionary reasoning to investigate these cognitive processes can indeed be a fruitful
+avenue, as it can promote the discovery of new phenomena (e.g., Nairne and Pandeirada,
+2008b, 2010).
+Recognizing the potential effects of evolution in children has motivated the
+development of new theoretical areas that specifically explore the connections between
+evolutionary theory and human development--evolutionary developmental psychology is
+such an example (e.g., Bjorklund and Sellers, in press; King and Bjorklund, 2010).
+Furthermore, researchers aim to make the best usage of evolutionary theory in specific
+contexts to provide the most successful developmental and learning experiences to
+children. For example, evolutionary educational psychology seeks to use children's biases
+acquired throughout the evolutionary process in learning and motivation to develop cultural
+and educational environments that will maximize academic performance (e.g., Geary,
+2008, 2010). In the same vein, exploring the conditions in which memory performance can
+be optimized is also of potential practical importance, namely in educational settings.
+Given the results so far, we believe the functional and evolutionary approach to human
+memory is leading to the discovery of new effective memory strategies.
+Acknowledgements: We thank James S. Nairne for very helpful comments on the
+manuscript. This research was partly conducted by Luisa Pires in order to obtain her Master
+degree. Josefa N. S. Pandeirada was, in part, supported by the fellowships from the
+Portuguese Foundation for Science and Technology SFRH/BPD/21534/2005 and
+SFRH/BPD/81438/2011.
+Received 20 March 2013; Revision submitted 24 May 2013; Accepted 21 July 2013
+References
+Aslan, A., and Bäuml, K. H. T. (2012). Adaptive memory: Young children show enhanced
+retention of fitness-related information. Cognition, 122, 118-122.
+Bjorklund, D. F., Dukes, C., and Brown, R. D. (2009). The development of memory
+strategies. In M. Courage and N. Cowan (Eds.), The development of memory in
+infancy and childhood (pp. 145-175). New York: Psychology Press.
+Bjorklund, D. F., and Pellegrini, A. D. (2000). Child development and evolutionary
+psychology. Child Development, 71, 1687-1708.
+Bjorklund, D. F., and Sellers, P. D. (2011). The evolved child: Adapted to family life
+Applied evolutionary psychology (pp. 55-77). New York: Oxford University Press.
+Bjorklund, D. F., and Sellers, P. D. (2014). Memory development in evolutionary
+perspective. In P. Bauer and R. Fivush (Eds.), The Wiley-Blackwell handbook on
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -413-
+the development of children's memory (pp. 126-150). New York: Wiley-Blackwell.
+Bröder, A., Krüger, N., and Schütte, S. (2011). The survival processing memory effect
+should generalise to source memory, but it doesn't. Psychology, 2, 896-901.
+Burns, D. J., Burns, S. A., and Hwang, A. J. (2011). Adaptive memory: Determining the
+proximate mechanisms responsible for the memorial advantages of survival
+processing. Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 37, 206-218.
+Craik, F. I. M., and Lockhart, R. S. (1972). Levels of processing: A framework for memory
+research. Journal of Verbal Learning and Verbal Behavior, 11, 671-684.
+Darwin, C. (1859). On the origin of species. London: John Murray.
+Faria, A. L., Pinho, M. S., Gonçalves, M. T., and Pandeirada, J. N. S. (2009). Adaptive
+memory: The survival processing advantage in mild cognitive impairment.
+Psicologia Educação Cultura, XIII, 197-214.
+Geary, D. C. (2008). An evolutionarily informed education science. Educational
+Psychologist, 43, 179-195.
+Geary, D. C. (2010). Evolution and education. Psicothema, 22, 35-40.
+Gelman, R. (1990). First principles organize attention to and learning about relevant data:
+Number and the animate-inanimate distinction as examples. Cognitive Science, 14,
+79-106.
+Howe, M. L., and Otgaar, H. (2013). Proximate mechanisms and the development of
+adaptive memory. Current Directions in Psychological Science, 22, 16-22.
+Kang, S. H. K., McDermott, K. B., and Cohen, S. M. (2008). The mnemonic advantage of
+processing fitness-relevant information. Memory and Cognition, 36, 1151-1156.
+Kensinger, E. A., and Schacter, D. L. (2008). Memory and emotion. In M. Lewis, J. M.
+Haviland-Jones, and L. F. Barrett (Eds.), Handbook of emotions (3rd ed.) (pp. 601-
+617). New York: The Guilford Press.
+King, A. C., and Bjorklund, D. (2010). Evolutionary developmental psychology.
+Psicothema, 22, 22-27.
+Kinzler, K. D., and Shutts, K. (2008). Memory for "mean" over "nice": The influence of
+threat on children's face memory. Cognition, 107, 775-783.
+Lindberg, M. A. (1980). Is knowledge base development a necessary and sufficient
+condition for memory development? Journal of Experimental Child Psychology, 30,
+401-410.
+LoBue, V., and DeLoache, J. S. (2008). Detecting the snake in the grass. Psychological
+Science, 19, 284-289.
+LoBue, V., and DeLoache, J. S. (2010). Superior detection of threat-relevant stimuli in
+infancy. Developmental Science, 13, 221-228.
+McBride, D., Thomas, B., and Zimmerman, C. (2013). A test of the survival processing
+advantage in implicit and explicit memory tests. Memory and Cognition, 41, 1-10.
+Murphy, K., McKone, E., and Slee, J. (2003). Dissociations between implicit and explicit
+memory in children: The role of strategic processing and the knowledge base.
+Journal of Experimental Child Psychology, 84, 124-165.
+Nairne, J. S., and Pandeirada, J. N. S. (2008a). Adaptive memory: Is survival processing
+special? Journal of Memory and Language, 59, 377-385.
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -414-
+Nairne, J. S., and Pandeirada, J. N. S. (2008b). Adaptive memory: Remembering with a
+stone-age brain. Current Directions in Psychological Science, 17, 239-243.
+Nairne, J. S., and Pandeirada, J. N. S. (2010). Adaptive memory: Nature's criterion and the
+functionalist agenda. The American journal of psychology, 123, 381-390.
+Nairne, J. S., and Pandeirada, J. N. S. (2011). Congruity effects in the survival processing
+paradigm. Journal of Experimental Psychology: Learning, Memory, and Cognition,
+37, 539-549.
+Nairne, J. S., Pandeirada, J. N. S., Gregory, K. J., and Van Arsdall, J. E. (2009). Adaptive
+memory: Fitness-relevance and the hunter-gatherer mind. Psychological Science,
+20, 740-746.
+Nairne, J. S., Pandeirada, J. N. S., and Thompson, S. R. (2008). Adaptive memory: The
+comparative value of survival processing. Psychological Science, 19, 176-180.
+Nairne, J. S., Thompson, S. R., and Pandeirada, J. N. S. (2007). Adaptive memory:
+Survival processing enhances retention. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 33, 263-273.
+Nairne, J. S., VanArsdall, J. E., Pandeirada, J. N. S., and Blunt, J. R. (2012). Adaptive
+memory: Enhanced location memory after survival processing. Journal of
+Experimental Psychology: Learning, Memory, and Cognition, 38, 495-501.
+Nairne, J. S., VanArsdall, J. E., Pandeirada, J. N. S., Cogdill, M., and LeBreton, J. M.
+(2013). Adaptive memory: The mnemonic value of animacy. Psychological
+Science, 24, 2099-2105.
+Newman, G. E., Keil, F. C., Kuhlmeier, V. A., and Wynn, K. (2010). Early understandings
+of the link between agents and order. Proceedings of the National Academy of
+Sciences, 107, 17140-17145.
+Nouchi, R. U. I. (2011). The effect of aging on the memory enhancement of the survival
+judgment task. Japanese Psychological Research, 54, 210-217.
+Otgaar, H., and Smeets, T. (2010). Adaptive memory: Survival processing increases both
+true and false memory in adults and children. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 36, 1010-1016.
+Otgaar, H., Smeets, T., and van Bergen, S. (2010). Picturing survival memories: Enhanced
+memory after fitness-relevant processing occurs for verbal and visual stimuli.
+Memory and Cognition, 38, 23-28.
+Pandeirada, J. N. S., Pinho, M. S., and Faria, A. L. (2014). The mark of adaptive memory
+in healthy and cognitively impaired older adults and elderly. Japanese
+Psychological Research. doi:10.1111/jpr.12040
+Pappas, J. D., and Friedman, H. L. (2012). The importance of replication: Comparing the
+self-expansiveness level form transpersonal scale with an alternate graphical
+measure. The Humanistic Psychologist, 40, 364-379.
+Pratt, J., Radulescu, P. V., Guo, R. M., and Abrams, R. A. (2010). It's alive! Psychological
+Science, 21, 1724-1730.
+Pressley, M. (1982). Elaboration and memory development. Child Development, 53, 296-
+309.
+Roediger, H. L. (2012). Psychology's woes and a partial cure: The value of replication.
+APS Observer, 25.
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -415-
+Roediger, H. L., and McDermott, K. B. (1995). Creating false memories: Remembering
+words not presented in lists. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 21, 803-814.
+Schneider, W., Eschman, A., and Zuccolotto, A. (2002). E-Prime user's guide. Pittsburgh,
+PA: Psychology Software Tools, Inc.
+Sellers, P. D., and Bjorklund, D. F. (in press). The development of adaptive memory. In B.
+L. Schwartz, M. L. Howe, M. P. Toglia and H. Otgaar (Eds.), What's adaptive
+about adaptive memory? New York: Oxford University Press.
+Shin, H., Bjorklund, D. F., and Beck, E. F. (2007). The adaptive nature of children's
+overestimation in a strategic memory task. Cognitive Development, 22, 197-212.
+Tooby, J., and Cosmides, L. (1992). The psychological foundations of culture. In J. H.
+Barkow, L. Cosmides and J. Tooby (Eds.), The adapted mind: Evolutionary
+psychology and the generation of culture (pp. 19-136). New York: Oxford
+University Press.
+Tooby, J., and Cosmides, L. (2005). Conceptual foundations of evolutionary psychology.
+In D. M. Buss (Ed.), The handbook of evolutionary psychology (pp. 5-67).
+Hoboken, NJ: Wiley.
+Tse, C.-S., and Altarriba, J. (2010). Does survival processing enhance implicit memory?
+Memory and Cognition, 38, 1110-1121.
+VanArsdall, J. E., Nairne, J. S., Pandeirada, J. N. S., and Blunt, J. R. (2012). Adaptive
+memory: Animacy processing produces mnemonic advantages. Experimental
+Psychology, 60, 1-7.
+Revisiting the survival mnemonic effect in children
+Evolutionary Psychology ­ ISSN 1474-7049 ­ Volume 12(2). 2014. -416-
+Appendix
+Words used in the experiment in European Portuguese, and corresponding translation to
+English (presented in alphabetical order)
+European Portuguese English
+águia eagle
+apartamento apartment
+atum tuna
+bola ball
+cadeira chair
+caixa box
+camião truck
+carro car
+chocolate chocolate
+couves cabbage
+espada sword
+flauta flute
+futebol football
+gasóleo diesel
+igreja church
+lápis pencil
+laranja orange
+lençol sheet
+livro book
+mão hand
+martelo hammer
+meia sock
+montanha mountain
+neve snow
+porta door
+puzzle puzzle
+rio river
+saco bag
+sapatos shoes
+sumo juice
+tia aunt
+urso bear
+
