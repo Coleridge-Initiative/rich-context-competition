@@ -45,7 +45,14 @@ function absolute_path()
     absolute_path_OUT=
 
     # call realpath
-    absolute_path=$( realpath "${1}" )
+    #absolute_path=$( realpath "${1}" )
+
+    # call readlink -f
+    #absolute_path=$( readlink -f "${1}" )
+
+    # something less platform-specific:
+    # https://stackoverflow.com/questions/4175264/bash-retrieve-absolute-path-given-relative
+    absolute_path="$(cd "$(dirname "${1}")"; pwd)/$(basename "${1}")"
 
     # return result
     absolute_path_OUT="${absolute_path}"
