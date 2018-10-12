@@ -16,6 +16,69 @@ We suggest that you build, train, and test your model in an environment you are 
 
 The Rich Context Contest staff will do our best to help you with problems related to storing your model and data in a git repo and updating the other related files so we can accept and run it in a docker image. We can not provide support for software you use to implement your model.
 
+# Getting Started
+
+## Preparing your model for submission:
+
+To prepare your model for submission:
+
+1. Download the files in your assigned Box workspace
+1. Test the docker installation:
+
+    - run "`./rcc.sh build`" using the default provided Dockerfile.
+    - do a "basic test" of the container:
+    
+        - "`./rcc.sh run`"
+        - "`./rcc.sh stop`"
+        - "`./rcc.sh evaluate`"
+
+1. Reset data folder: "`./rcc.sh reset-data-folder`"
+1. Make your model.
+1. Update the "`Dockerfile`" file so everything your model needs is installed in the container.
+1. Get container working - repeat the following until build succeeds - you will see the terminal run with output of packages being installed. For a successful build, you should see in the last lines something similar to `Successfully built 166fa65e8fd0` & `Successfully tagged my_rcc:latest`:
+
+    - "`./rcc.sh remove-docker-image`"
+    - "`./rcc.sh build`"
+
+1. Put model into projects folder
+
+    - put model, scripts, needed files, etc., into "project" folder.
+    - update code.sh in project folder so it runs your model on "/data" inside the container.
+    - your model should:
+
+        - use the file "/data/input/publications.json" (inside the container) to figure out which publications need to be processed.
+        - process each.
+        - output the following files to the "/data/output" folder (path is correct inside the container - mapped to data folder in your submission folder):
+
+            - data_set_citations.json
+            - data_set_mentions.json
+            - methods.json
+            - research_fields.json
+
+1. Use the "`./rcc.sh run`" command to work through getting your model to run. "`./rcc.sh stop`" after each run, or just use "`./rcc.sh run-stop`".
+1. once your model is running, run and evaluate against the dev fold:
+
+    - use the "`./rcc.sh run`" command to run your model against the dev fold.
+    - "`./rcc.sh stop`"
+    - run the "`./rcc.sh evaluate`" command to see how your model did.
+
+1. When you are ready to submit (either for one of 2 interim runs agains the holdout or the final submission), compress and date the entire directory structure and upload to your Box workspace.
+
+# Reviewing your submission
+
+When we receive your submission, we will:
+ 1. Move the contents of your group's Box folder to an evaluation server.
+ 1. Update config.sh so the data folder is one that contains our **evaluation holdback data** 
+ 1. Execute a **clean run against dev fold** (_see documentation on "`rcc.sh`" [above](#helper-script-rccsh)_).
+ 1. Gather and compare the results on the `project/example_output` folder
+ 
+Please do the same process against the **development fold** (the data in the provided default data folder) to make sure your code works:
+
+1. Configure "`config.sh`" so it refers to your project folder and the default data folder and execute a **clean run against dev fold** (_see documentation on "`rcc.sh`" above_). If you have a copy of your image already built, you need not rebuild, you can just:
+2. Run "`./rcc.sh run-stop`" to run your model on the default dev fold data.
+3. Run "`./rcc.sh evaluate`" to use our evaluation script to compare your results to those for the dev fold and see back precision, recall, and accuracy scores.
+
+**Note**: Please make sure to test your solution using the above mentioned method against the **development fold** before submitting it to verify that it is reading and writing data correctly. If we can't run your submission, we will not be able to include it in evaluation for the competition.
 
 # Technical Details
 
@@ -92,7 +155,66 @@ After you download this repo directory and have [Docker installed](https://githu
 - `./rcc.sh stop`
 - `./rcc.sh evaluate`
 
-You should see some boilerplate output and no errors. If all goes well, you should do a cleanup and reset with:
+After running `./rcc.sh run`, you should see output similar to ...
+
+    ...
+    publication 98
+    - pub_date: 2015-10-15
+    - unique_identifier: 10.1177/1759091415609613
+    - text_file_name: 3295.txt
+    - pdf_file_name: 3295.pdf
+    - title: b'A Distinct Class of Antibodies May Be an Indicator of Gray Matter Autoimmunity in Early and Established Relapsing Remitting Multiple Sclerosis Patients'
+    - publication_id: 3295
+
+
+    publication 99
+    - pub_date: 2017-06-12
+    - unique_identifier: 10.1177/0300060517707076
+    - text_file_name: 3296.txt
+    - pdf_file_name: 3296.pdf
+    - title: b'Research in the precaution of recombinant human erythropoietin to steroid-induced osteonecrosis of the rat femoral head'
+    - publication_id: 3296
+
+
+    publication 100
+    - pub_date: 2017-08-08
+    - unique_identifier: 10.1177/0300060517710885
+    - text_file_name: 3297.txt
+    - pdf_file_name: 3297.pdf
+    - title: b'&#8220;Pharming out&#8221; support: a promising approach to integrating clinical pharmacists into established primary care medical home practices'
+    - publication_id: 3297
+    Copied from /rich-context-competition/evaluate/data_set_citations.json to /data/output/data_set_citations.json.
+
+After running `./rcc.sh evaluate`, you should see output similar to:
+
+    ...
+    ==> Data Set ID: 1299
+            baseline: 1.0
+            derived.: 1.0
+    ==> Data Set ID: 1300
+                baseline: 1.0
+                derived.: 1.0
+    ==> Data Set ID: 1301
+                baseline: 1.0
+                derived.: 1.0
+    Publication ID: 3074
+    ==> Data Set ID: 783
+                baseline: 1.0
+                derived.: 1.0
+    Publication ID: 3118
+    ==> Data Set ID: 518
+                baseline: 1.0
+                derived.: 1.0
+    [[123]]
+    precision = 1.0
+    recall = 1.0
+    accuracy = 1.0
+    macro-average: precision = 1.0, recall = 1.0, F1 = 1.0
+    micro-average: precision = 1.0, recall = 1.0, F1 = 1.0
+    weighted-average: precision = 1.0, recall = 1.0, F1 = 1.0
+    STOP!!!
+
+If all goes well, you should do a cleanup and reset with:
 
 - `./rcc.sh stop`
 - `./rcc.sh remove-docker-image`
@@ -271,71 +393,3 @@ Example:
             ....
         ]
         ```
-
-# How to compete?
-
-## Preparing your model for submission:
-
-To prepare your model for submission:
-
-- test docker installation:
-
-    - run "`./rcc.sh build`" using the default provided Dockerfile.
-    - do a "basic test" of the container:
-    
-        - "`./rcc.sh run`"
-        - "`./rcc.sh stop`"
-        - "`./rcc.sh evaluate`"
-
-- reset data folder: "`./rcc.sh reset-data-folder`"
-- make your model.
-- update the "`Dockerfile`" file so everything your model needs is installed in the container.
-- get container working - repeat the following until build succeeds:
-
-    - "`./rcc.sh remove-docker-image`"
-    - "`./rcc.sh build`"
-
-- put model into projects folder
-
-    - put model, scripts, needed files, etc., into "project" folder.
-    - update code.sh in project folder so it runs your model on "/data" inside the container.
-    - your model should:
-
-        - use the file "/data/input/publications.json" (inside the container) to figure out which publications need to be processed.
-        - process each.
-        - output the following files to the "/data/output" folder (path is correct inside the container - mapped to data folder in your submission folder):
-
-            - dataset_citations.json
-            - dataset_mentions.json
-            - methods.json
-            - research_fields.json
-
-- use the "`./rcc.sh run`" command to work through getting your model to run. "`./rcc.sh stop`" after each run, or just use "`./rcc.sh run-stop`".
-- once your model is running, run and evaluate against the dev fold:
-
-    - use the "`./rcc.sh run`" command to run your model against the dev fold.
-    - "`./rcc.sh stop`"
-    - run the "`./rcc.sh evaluate`" command to see how your model did.
-
-## Reviewing your submission
-
-When we receive your submission, we will:
- 1. Move the contents of your group's Box folder to an evaluation server.
- 1. Update config.sh so the data folder is one that contains our **evaluation holdback data** 
- 1. Execute a **clean run against dev fold** (_see documentation on "`rcc.sh`" [above](#helper-script-rccsh)_).
- 1. Gather and compare the results on the `project/example_output` folder
- 
-Please do the same process against the **development fold** (the data in the provided default data folder) to make sure your code works:
-
-1. Configure "`config.sh`" so it refers to your project folder and the default data folder and execute a **clean run against dev fold** (_see documentation on "`rcc.sh`" above_). If you have a copy of your image already built, you need not rebuild, you can just:
-2. Run "`./rcc.sh run-stop`" to run your model on the default dev fold data.
-3. Run "`./rcc.sh evaluate`" to use our evaluation script to compare your results to those for the dev fold and see back precision, recall, and accuracy scores.
-
-**Note**: Please make sure to test your solution using the above mentioned method against the **development fold** before submitting it to verify that it is reading and writing data correctly. If we can't run your submission, we will not be able to include it in evaluation for the competition.
-
-## Getting Started
-
-### Self Evaluation
-
-### Submission
-
