@@ -14,7 +14,7 @@ Below are instructions and specifications to assist you setting up and configuri
 
 We suggest that you build, train, and test your model in an environment you are comfortable with, then once you have it working, migrate it to a docker container.
 
-The Rich Context Contest staff will do our best to help you with problems related to storing your model and data in a git repo and updating the other related files so we can accept and run it in a docker image. We can not provide support for software you use to implement your model.
+The Rich Context Contest staff will do our best to help you with problems related to storing your model and data in the supplied Docker template and updating the other related files so we can accept and run it in a docker image. We can not provide support for software you use to implement your model.
 
 # Getting Started
 
@@ -34,7 +34,7 @@ To prepare your model for submission:
 
 1. Reset data folder: "`./rcc.sh reset-data-folder`"
 1. Make your model.
-1. Update the "`Dockerfile`" file so everything your model needs is installed in the container.
+1. Ensure that the "`Dockerfile`" file contains all packages your model needs to run and that these packages are installed in the container (you can use"`./rcc.sh remove-docker-image`" followed by "`./rcc.sh build`" to reset your Docker container if you have updated your `Dockerfile`.
 1. Get container working - repeat the following until build succeeds - you will see the terminal run with output of packages being installed. For a successful build, you should see in the last lines something similar to `Successfully built 166fa65e8fd0` & `Successfully tagged my_rcc:latest`:
 
     - "`./rcc.sh remove-docker-image`"
