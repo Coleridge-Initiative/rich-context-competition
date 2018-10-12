@@ -6,7 +6,7 @@ You should develop (train and test) your model on your own machine or server. On
 
 * Place their trained model's data and code in a project folder along with a script that accepts a data folder path and runs the model against the specified data directory (standard data directory layout specified below).
 
-* Implement a Dockerfile that can be run anywhere (see [Dockerfile Setup](https://github.com/Coleridge-Initiative/rich-context-contest/wiki/Dockerfile-Setup) for more details), built on the Ubuntu 18.04 base image, that installs and configures a docker image that can call the model execution script and run it against any directory that has a standard data folder layout (described [below](#data-folder-specification)).
+* Implement a Dockerfile that can be run anywhere (see [Dockerfile Setup](https://github.com/Coleridge-Initiative/rich-context-competition/wiki/Dockerfile-Setup) for more details), built on the Ubuntu 18.04 base image, that installs and configures a docker image that can call the model execution script and run it against any directory that has a standard data folder layout (described [below](#data-folder-specification)).
 
 Below are instructions and specifications to assist you setting up and configuring your submission container.
 
@@ -23,13 +23,13 @@ The Rich Context Contest staff will do our best to help you with problems relate
 
 Please make sure you have Docker installed on your machine before you start work on performing the dev fold evaluation or preparing your submission. This project was created using Docker version `Docker version 18.06.1-ce, build e68fc7a`. Please make sure to use the current version at the time of submission to avoid version-related issues.
 
-See details for installing Docker on your system in our [Docker Installation](https://github.com/Coleridge-Initiative/rich-context-contest/wiki/Docker-Installation) notes.
+See details for installing Docker on your system in our [Docker Installation](https://github.com/Coleridge-Initiative/rich-context-competition/wiki/Docker-Installation) notes.
 
 ## Helper script `rcc.sh`
 
-We created bash shell helper script, "`rcc.sh`", to facilitate making and testing a submission and working with Docker. To run the script, navigate into the root of your group's Box folder, then run `./rcc.sh <action>`. The supported actions are listed in specific on our wiki section for [Helper Script (rcc.sh)](https://github.com/Coleridge-Initiative/rich-context-contest/wiki/Helper-Script-(rcc.sh)). 
+We created bash shell helper script, "`rcc.sh`", to facilitate making and testing a submission and working with Docker. To run the script, navigate into the root of your group's Box folder, then run `./rcc.sh <action>`. The supported actions are listed in specific on our wiki section for [Helper Script (rcc.sh)](https://github.com/Coleridge-Initiative/rich-context-competition/wiki/Helper-Script-(rcc.sh)). 
 
-Certain specifics of your environment must be specified in a separate configuration shell script (config.sh), that [we provide pre-populated with examples](https://github.com/Coleridge-Initiative/rich-context-contest/blob/master/config.sh) that you can use to test all the actions.
+Certain specifics of your environment must be specified in a separate configuration shell script (config.sh), that [we provide pre-populated with examples](https://github.com/Coleridge-Initiative/rich-context-competition/blob/master/config.sh) that you can use to test all the actions.
 
 Notes:
 
@@ -45,7 +45,7 @@ Notes:
     # - `BASE_FOLDER_IN` - base folder (usually where this script lives).
     # - `DATA_FOLDER_PATH_IN` (`-d` option) - path to the data folder for a given run of the model.
     # - `PROJECT_FOLDER_PATH_IN` (`-p` option) - path to the project folder for the current model.
-    # - `GIT_REPO_FOLDER_PATH_IN` - the path to the git repo (defaults to "/rich-context-contest" inside the base folder).
+    # - `GIT_REPO_FOLDER_PATH_IN` - the path to the git repo (defaults to "/rich-context-competition" inside the base folder).
     # - `EVALUATE_FOLER_PATH_IN` - path to the evaluate code folder inside the git repository.
     # - `TEMPLATE_FOLDER_PATH_IN` - path to the template code folder inside the git repository.
     # - `DOCKER_IMAGE_NAME_IN` - Image name to use locally for submission image, defaults to "my_rcc".
@@ -65,7 +65,7 @@ Notes:
     #===============================================================================
 
     # git repo folders
-    GIT_REPO_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/rich-context-contest"
+    GIT_REPO_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/rich-context-competition"
     EVALUATE_FOLDER_PATH_IN="${GIT_REPO_FOLDER_PATH_IN}/evaluate"
     TEMPLATE_FOLDER_PATH_IN="${GIT_REPO_FOLDER_PATH_IN}/templates"
 
@@ -81,7 +81,7 @@ You should only need to set the variables `DATA_FOLDER_PATH_IN` and `PROJECT_FOL
 
 ### rcc.sh - Test that everything works
 
-After you download this repo directory and have [Docker installed](https://github.com/Coleridge-Initiative/rich-context-contest/wiki/Docker-Installation) on your computer, navigate to the home direcotry where the `./rcc.sh` is located and run the following commands:
+After you download this repo directory and have [Docker installed](https://github.com/Coleridge-Initiative/rich-context-competition/wiki/Docker-Installation) on your computer, navigate to the home direcotry where the `./rcc.sh` is located and run the following commands:
 
 - `./rcc.sh build`
 - `./rcc.sh run`

@@ -10,7 +10,7 @@ RUN pip3 install ipython matplotlib numpy pandas scikit-learn scipy six
 # create directory for "work".
 RUN mkdir /work
 
-# clone the rich context repo into /rich-context-contest
-RUN git clone https://github.com/Coleridge-Initiative/rich-context-contest.git /rich-context-contest
+# clone the rich context repo into /rich-context-competition
+RUN git clone https://github.com/Coleridge-Initiative/rich-context-competition.git /rich-context-competition
 
 LABEL maintainer="jonathan.morgan@nyu.edu"

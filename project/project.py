@@ -60,7 +60,7 @@ with open( publications_json_path ) as json_publication_file:
 #-- END with...as --#
 
 # and, finally, test ability to write to "/data/output"
-citation_file_from = "/rich-context-contest/evaluate/data_set_citations.json"
+citation_file_from = "/rich-context-competition/evaluate/data_set_citations.json"
 citation_file_to = "/data/output/data_set_citations.json"
 shutil.copyfile( citation_file_from, citation_file_to )
 print( "Copied from {} to {}.".format( citation_file_from, citation_file_to ) )

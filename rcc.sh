@@ -604,16 +604,16 @@ function git_pull()
     fi
 
     # pull inside container.
-    #run "${project_folder_path}" "${data_folder_path}" "${image_name_IN}" "${container_name_IN}" "/rich-context-contest/bin/git_pull.sh"
+    #run "${project_folder_path}" "${data_folder_path}" "${image_name_IN}" "${container_name_IN}" "/rich-context-competition/bin/git_pull.sh"
 
     # stop the container.
     #stop "${container_name_IN}"
 
-    # if rich-context-contest folder exists, cd into it.
-    if [[ -d "rich-context-contest" ]]
+    # if rich-context-competition folder exists, cd into it.
+    if [[ -d "rich-context-competition" ]]
     then
 
-        cd rich-context-contest
+        cd rich-context-competition
 
     fi
     
@@ -629,7 +629,7 @@ function git_pull()
 
 # This will load (including default values):
 # BASE_FOLDER_IN="."
-# GIT_REPO_FOLDER_PATH_IN="${BASE_FOLDER_IN}/rich-context-contest"
+# GIT_REPO_FOLDER_PATH_IN="${BASE_FOLDER_IN}/rich-context-competition"
 # EVALUATE_FOLDER_PATH_IN="${GIT_REPO_FOLDER_PATH_IN}/data/evaluate"
 # TEMPLATE_FOLDER_PATH_IN="${GIT_REPO_FOLDER_PATH_IN}/templates"
 # DATA_FOLDER_PATH_IN="${BASE_FOLDER_IN}/data"
@@ -668,7 +668,7 @@ then
         ;;
         "evaluate")
             echo "EVALUATE!!!"
-            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/rich-context-contest/evaluate/evaluate.sh"
+            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/rich-context-competition/evaluate/evaluate.sh"
             ./rcc.sh stop
         ;;
         "init")
