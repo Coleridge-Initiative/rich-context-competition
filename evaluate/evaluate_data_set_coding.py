@@ -493,9 +493,9 @@ derived_binary_list = coding_evaluator.get_derived_binary_list()
 # calculation methods to include
 calculation_methods = []
 calculation_methods.append( "binary" )
-calculation_methods.append( "macro" )
-calculation_methods.append( "micro" )
-calculation_methods.append( "weighted" )
+#calculation_methods.append( "macro" )
+#calculation_methods.append( "micro" )
+#calculation_methods.append( "weighted" )
 
 # ==> basic binary scores
 if ( "binary" in calculation_methods ):
