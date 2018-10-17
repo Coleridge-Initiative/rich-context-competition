@@ -198,7 +198,7 @@ def threshold_at_k( y_scores, k ):
     threshold_index = -1
     
     # sort values
-    value_list = np.sort( y_scores )
+    value_list = numpy.sort( y_scores )
     
     # reverse order of list
     value_list = value_list[ : : -1 ]
@@ -237,7 +237,7 @@ def precision_at_k( y_true, y_scores, k ):
     threshold = threshold_at_k( y_scores, k )
     
     # use threshold to generate predicted scores
-    y_pred = np.asarray( [ 1 if i >= threshold else 0 for i in y_scores ] )
+    y_pred = numpy.asarray( [ 1 if i >= threshold else 0 for i in y_scores ] )
     
     # calculate precision
     value_OUT = precision_score( y_true, y_pred )
@@ -268,7 +268,7 @@ def recall_at_k( y_true, y_scores, k ):
     threshold = threshold_at_k( y_scores, k )
     
     # use threshold to generate predicted scores
-    y_pred = np.asarray( [ 1 if i >= threshold else 0 for i in y_scores ] )
+    y_pred = numpy.asarray( [ 1 if i >= threshold else 0 for i in y_scores ] )
     
     # calculate recall
     value_OUT = recall_score( y_true, y_pred )
@@ -299,7 +299,7 @@ def accuracy_at_k( y_true, y_scores, k ):
     threshold = threshold_at_k( y_scores, k )
     
     # use threshold to generate predicted scores
-    y_pred = np.asarray( [ 1 if i >= threshold else 0 for i in y_scores ] )
+    y_pred = numpy.asarray( [ 1 if i >= threshold else 0 for i in y_scores ] )
     
     # calculate accuracy
     value_OUT = accuracy_score( y_true, y_pred )
