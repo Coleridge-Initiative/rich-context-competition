@@ -564,9 +564,9 @@ if ( "binary" in calculation_methods ):
     
     # F-Score
     binary_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list )
-    binary_precision = binary_evaluation[ 0 ]
-    binary_recall = binary_evaluation[ 1 ]
-    binary_F1 = binary_evaluation[ 2 ]
+    binary_precision = binary_evaluation[ 0 ][ 0 ]
+    binary_recall = binary_evaluation[ 1 ][ 0 ]
+    binary_F1 = binary_evaluation[ 2 ][ 0 ]
 
     # output
     output_string = "binary: precision = {}, recall = {}, F1 = {}".format( binary_precision, binary_recall, binary_F1 )
