@@ -490,87 +490,163 @@ derived_binary_list = coding_evaluator.get_derived_binary_list()
 # In[ ]:
 
 
-# confusion matrix
-cm = metrics.confusion_matrix( baseline_list, derived_binary_list )
-print( cm )
+# calculation methods to include
+calculation_methods = []
+calculation_methods.append( "binary" )
+calculation_methods.append( "macro" )
+calculation_methods.append( "micro" )
+calculation_methods.append( "weighted" )
 
-# output
-output_string = "Confusion matrix: {}".format( cm )
+# ==> basic binary scores
+if ( "binary" in calculation_methods ):
 
-# if output...
-if ( output_to_file == True ):
+    # confusion matrix
+    cm = metrics.confusion_matrix( baseline_list, derived_binary_list )
+    print( cm )
+
+    # output
+    output_string = "Confusion matrix: {}".format( cm )
+
+    # if output...
+    if ( output_to_file == True ):
+
+        # store line for output
+        line_list.append( output_string )
+
+    #-- END if output... --#
+
+    # calculate precision, recall, accuracy...
+
+    # ==> precision
+    precision = metrics.precision_score( baseline_list, derived_binary_list )
+
+    # output
+    output_string = "precision = {}".format( precision )
+    print( output_string )
+
+    # if output...
+    if ( output_to_file == True ):
+
+        # store line for output
+        line_list.append( output_string )
+
+    #-- END if output... --#
+
+    # ==> recall
+    recall = metrics.recall_score( baseline_list, derived_binary_list )
+
+    # output
+    output_string = "recall = {}".format( recall )
+    print( output_string )
+
+    # if output...
+    if ( output_to_file == True ):
+
+        # store line for output
+        line_list.append( output_string )
+
+    #-- END if output... --#
+
+    # ==> accuracy
+    accuracy = metrics.accuracy_score( baseline_list, derived_binary_list )
+
+    # output
+    output_string = "accuracy = {}".format( accuracy )
+    print( output_string )
+
+    # if output...
+    if ( output_to_file == True ):
+
+        # store line for output
+        line_list.append( output_string )
+
+    #-- END if output... --#
     
-    # store line for output
-    line_list.append( output_string )
+    # F-Score
+    binary_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list )
+    binary_precision = binary_evaluation[ 0 ]
+    binary_recall = binary_evaluation[ 1 ]
+    binary_F1 = binary_evaluation[ 2 ]
+
+    # output
+    output_string = "binary: precision = {}, recall = {}, F1 = {}".format( binary_precision, binary_recall, binary_F1 )
+    print( output_string )
+
+    # if output...
+    if ( output_to_file == True ):
+
+        # store line for output
+        line_list.append( output_string )
+
+    #-- END if output... --#
+
+#-- END binary F-Score --#
+
+# ==> macro F-Score
+if ( "macro" in calculation_methods ):
+
+    macro_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list, average = 'macro' )
+    macro_precision = macro_evaluation[ 0 ]
+    macro_recall = macro_evaluation[ 1 ]
+    macro_F1 = macro_evaluation[ 2 ]
+
+    # output
+    output_string = "macro-average: precision = {}, recall = {}, F1 = {}".format( macro_precision, macro_recall, macro_F1 )
+    print( output_string )
+
+    # if output...
+    if ( output_to_file == True ):
+
+        # store line for output
+        line_list.append( output_string )
+
+    #-- END if output... --#
     
-#-- END if output... --#
+#-- END macro F-Score --#
 
-# calculate precision, recall, accuracy...
+# ==> micro F-Score
+if ( "micro" in calculation_methods ):
 
-# ==> precision
-precision = metrics.precision_score( baseline_list, derived_binary_list )
+    micro_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list, average = 'micro' )
+    micro_precision = micro_evaluation[ 0 ]
+    micro_recall = micro_evaluation[ 1 ]
+    micro_F1 = micro_evaluation[ 2 ]
 
-# output
-output_string = "precision = {}".format( precision )
-print( output_string )
+    # output
+    output_string = "micro-average: precision = {}, recall = {}, F1 = {}".format( micro_precision, micro_recall, micro_F1 )
+    print( output_string )
 
-# if output...
-if ( output_to_file == True ):
+    # if output...
+    if ( output_to_file == True ):
+
+        # store line for output
+        line_list.append( output_string )
+
+    #-- END if output... --#
+
+#-- END micro F-Score --#
     
-    # store line for output
-    line_list.append( output_string )
-    
-#-- END if output... --#
+# ==> weighted F-Score
+if ( "weighted" in calculation_methods ):
 
-# ==> recall
-recall = metrics.recall_score( baseline_list, derived_binary_list )
+    weighted_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list, average = 'weighted' )
+    weighted_precision = weighted_evaluation[ 0 ]
+    weighted_recall = weighted_evaluation[ 1 ]
+    weighted_F1 = weighted_evaluation[ 2 ]
 
-# output
-output_string = "recall = {}".format( recall )
-print( output_string )
+    # output
+    output_string = "weighted-average: precision = {}, recall = {}, F1 = {}".format( weighted_precision, weighted_recall, weighted_F1 )
+    print( output_string )
 
-# if output...
-if ( output_to_file == True ):
-    
-    # store line for output
-    line_list.append( output_string )
-    
-#-- END if output... --#
+    # if output...
+    if ( output_to_file == True ):
 
-# ==> accuracy
-accuracy = metrics.accuracy_score( baseline_list, derived_binary_list )
+        # store line for output
+        line_list.append( output_string )
 
-# output
-output_string = "accuracy = {}".format( accuracy )
-print( output_string )
+    #-- END if output... --#
 
-# if output...
-if ( output_to_file == True ):
-    
-    # store line for output
-    line_list.append( output_string )
-    
-#-- END if output... --#
-
-# ## graph precision and recall at n
-# 
-# - Back to [Table of Contents](#Table-of-Contents)
-
-# In[ ]:
-
-
-# output to file?
-if ( output_to_file == True ):
-    
-    # output figure to file
-    plot_precision_recall_n( baseline_list, derived_raw_list, "evaluation", output_path_IN = precision_recall_graph_path )
-
-else:
-    
-    # just output to standard out (as is possible)
-    plot_precision_recall_n( baseline_list, derived_raw_list, "evaluation" )
-
-#-- END check to see if output graph to file --#
+#-- END weighted F-Score --#
 
 
 # ## output results to file
