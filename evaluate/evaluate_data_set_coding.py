@@ -322,8 +322,8 @@ print( "function accuracy_at_k() defined at {}".format( datetime.datetime.now() 
 output_to_file = True
 line_list = None
 output_string = None
-results_file_path = "evaluation_results.txt"
-precision_recall_graph_path = "precision_recall_graph.pdf"
+results_file_path = "/data/output/evaluation_results.txt"
+precision_recall_graph_path = "/data/output/precision_recall_graph.pdf"
 
 # if we are outputting to file, start line list.
 if ( output_to_file == True ):
@@ -551,61 +551,6 @@ if ( output_to_file == True ):
     line_list.append( output_string )
     
 #-- END if output... --#
-
-# ==> macro F-Score
-macro_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list, average = 'macro' )
-macro_precision = macro_evaluation[ 0 ]
-macro_recall = macro_evaluation[ 1 ]
-macro_F1 = macro_evaluation[ 2 ]
-
-# output
-output_string = "macro-average: precision = {}, recall = {}, F1 = {}".format( macro_precision, macro_recall, macro_F1 )
-print( output_string )
-
-# if output...
-if ( output_to_file == True ):
-    
-    # store line for output
-    line_list.append( output_string )
-    
-#-- END if output... --#
-
-# ==> micro F-Score
-micro_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list, average = 'micro' )
-micro_precision = micro_evaluation[ 0 ]
-micro_recall = micro_evaluation[ 1 ]
-micro_F1 = micro_evaluation[ 2 ]
-
-# output
-output_string = "micro-average: precision = {}, recall = {}, F1 = {}".format( micro_precision, micro_recall, micro_F1 )
-print( output_string )
-
-# if output...
-if ( output_to_file == True ):
-    
-    # store line for output
-    line_list.append( output_string )
-    
-#-- END if output... --#
-
-# ==> weighted F-Score
-weighted_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list, average = 'weighted' )
-weighted_precision = weighted_evaluation[ 0 ]
-weighted_recall = weighted_evaluation[ 1 ]
-weighted_F1 = weighted_evaluation[ 2 ]
-
-# output
-output_string = "weighted-average: precision = {}, recall = {}, F1 = {}".format( weighted_precision, weighted_recall, weighted_F1 )
-print( output_string )
-
-# if output...
-if ( output_to_file == True ):
-    
-    # store line for output
-    line_list.append( output_string )
-    
-#-- END if output... --#
-
 
 # ## graph precision and recall at n
 # 
