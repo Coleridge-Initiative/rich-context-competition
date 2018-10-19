@@ -76,6 +76,9 @@ def plot_precision_recall_n(y_true, y_prob, model_name, output_path_IN = None ):
     current_score = None
     above_threshold_list = None
     above_threshold_count = -1
+    fig = None
+    ax1 = None
+    ax2 = None
     
     # store the raw scores in y_score
     y_score = y_prob
