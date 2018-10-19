@@ -611,13 +611,19 @@ for calculation_method in calculation_methods:
         # add to results map
         method_to_result_map[ calculation_method ] = default_evaluation
 
-        # see if more than one value in one of the lists.
-        if ( len( default_F1_list ) > 1 ):
+        # look at length of lists (should all be the same).
+        precision_list_length = len( default_precision_list )
+        recall_list_length = len( default_recall_list )
+        F1_list_length = len( default_F1_list )
+        
+        output_string += "\n\nlist lengths: {}".format( precision_list_length )
 
-            # binary, but list is greater than 0.  Output message.
-            output_string += "\n- NOTE: default output lists have more than one entry - your data is not binary."
+        if ( precision_list_length > 2 ):
 
-        #-- END check to see if list length greater than 1 --#
+            # binary, but list is greater than 2, not binary - output message.
+            output_string += "\n- NOTE: default output lists have more than two entries - your data is not binary."
+
+        #-- END check to see if list length greater than 2 --#
         
         print( output_string )
 
