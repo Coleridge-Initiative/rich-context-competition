@@ -644,7 +644,7 @@ for calculation_method in calculation_methods:
         method_to_result_map[ calculation_method ] = evaluation_tuple
 
         # output
-        output_string = "- \n{}: precision = {}, recall = {}, F1 = {}, support = {}".format( calculation_method, precision, recall, F1, support )
+        output_string = "\n{}: precision = {}, recall = {}, F1 = {}, support = {}".format( calculation_method, precision, recall, F1, support )
         print( output_string )
 
         # if output to file...
