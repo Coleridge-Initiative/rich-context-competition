@@ -489,168 +489,163 @@ derived_binary_list = coding_evaluator.get_derived_binary_list()
 
 # In[ ]:
 
+# calculation methods
+CALCULATION_METHOD_DEFAULT = "default"
+CALCULATION_METHOD_BINARY = "binary"
+CACLULATION_METHOD_MACRO = "macro"
+CALCULATION_METHOD_MICRO = "micro"
+CALCULATION_METHOD_WEIGHTED = "weighted"
 
 # calculation methods to include
 calculation_methods = []
-calculation_methods.append( "binary" )
-#calculation_methods.append( "macro" )
-#calculation_methods.append( "micro" )
-#calculation_methods.append( "weighted" )
+calculation_methods.append( CALCULATION_METHOD_DEFAULT )
+calculation_methods.append( CALCULATION_METHOD_BINARY )
+calculation_methods.append( CACLULATION_METHOD_MACRO )
+calculation_methods.append( CALCULATION_METHOD_MICRO )
+calculation_methods.append( CALCULATION_METHOD_WEIGHTED )
 
-# ==> basic binary scores
-if ( "binary" in calculation_methods ):
+# confusion matrix
+cm = metrics.confusion_matrix( baseline_list, derived_binary_list )
 
-    # confusion matrix
-    cm = metrics.confusion_matrix( baseline_list, derived_binary_list )
-    print( cm )
+# output
+output_string = "Confusion matrix: {}".format( cm )
+print( output_string )
 
-    # output
-    output_string = "Confusion matrix: {}".format( cm )
+# if output to file...
+if ( output_to_file == True ):
 
-    # if output...
-    if ( output_to_file == True ):
+    # store line for output
+    line_list.append( output_string )
 
-        # store line for output
-        line_list.append( output_string )
+#-- END if output... --#
 
-    #-- END if output... --#
+# loop over calculation methods
+result_map = {}
+for calculation_method in calculation_methods:
 
-    # calculate precision, recall, accuracy...
+    # binary?  If so, do basic calculations as sanity check.
+    if ( calculation_method == CALCULATION_METHOD_BINARY ):
 
-    # ==> precision
-    precision = metrics.precision_score( baseline_list, derived_binary_list )
+        # calculate precision, recall, accuracy...
 
-    # output
-    output_string = "precision = {}".format( precision )
-    print( output_string )
+        # ==> precision
+        precision = metrics.precision_score( baseline_list, derived_binary_list )
 
-    # if output...
-    if ( output_to_file == True ):
+        # output
+        output_string = "precision = {}".format( precision )
+        print( output_string )
 
-        # store line for output
-        line_list.append( output_string )
+        # if output...
+        if ( output_to_file == True ):
 
-    #-- END if output... --#
+            # store line for output
+            line_list.append( output_string )
 
-    # ==> recall
-    recall = metrics.recall_score( baseline_list, derived_binary_list )
+        #-- END if output... --#
 
-    # output
-    output_string = "recall = {}".format( recall )
-    print( output_string )
+        # ==> recall
+        recall = metrics.recall_score( baseline_list, derived_binary_list )
 
-    # if output...
-    if ( output_to_file == True ):
+        # output
+        output_string = "recall = {}".format( recall )
+        print( output_string )
 
-        # store line for output
-        line_list.append( output_string )
+        # if output...
+        if ( output_to_file == True ):
 
-    #-- END if output... --#
+            # store line for output
+            line_list.append( output_string )
 
-    # ==> accuracy
-    accuracy = metrics.accuracy_score( baseline_list, derived_binary_list )
+        #-- END if output... --#
 
-    # output
-    output_string = "accuracy = {}".format( accuracy )
-    print( output_string )
+        # ==> accuracy
+        accuracy = metrics.accuracy_score( baseline_list, derived_binary_list )
 
-    # if output...
-    if ( output_to_file == True ):
+        # output
+        output_string = "accuracy = {}".format( accuracy )
+        print( output_string )
 
-        # store line for output
-        line_list.append( output_string )
+        # if output...
+        if ( output_to_file == True ):
 
-    #-- END if output... --#
-    
-    # F-Score
-    binary_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list )
-    binary_precision_list = binary_evaluation[ 0 ]
-    binary_precision = binary_precision_list[ 0 ]
-    binary_recall_list = binary_evaluation[ 1 ]
-    binary_recall = binary_recall_list[ 0 ]
-    binary_F1_list = binary_evaluation[ 2 ]
-    binary_F1 = binary_F1_list[ 0 ]
+            # store line for output
+            line_list.append( output_string )
 
-    # output
-    output_string = "binary: precision = {}, recall = {}, F1 = {}".format( binary_precision, binary_recall, binary_F1 )
-    print( output_string )
+        #-- END if output... --#
+        
+    #-- END check to see if CALCULATION_METHOD_BINARY --#
 
-    # if output...
-    if ( output_to_file == True ):
+    # calculate based on calculation method.
 
-        # store line for output
-        line_list.append( output_string )
+    # default?
+    if ( calculation_method == CALCULATION_METHOD_DEFAULT ):
 
-    #-- END if output... --#
+        # default metrics and F-Score - default returns a list for each of
+        #     the scores per label, so get list and output it rather than
+        # 
+        default_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list )
+        default_precision_list = default_evaluation[ 0 ]
+        default_recall_list = default_evaluation[ 1 ]
+        default_F1_list = default_evaluation[ 2 ]
+        default_support_list = default_evaluation[ 3 ]
 
-#-- END binary F-Score --#
+        # output lists
+        output_string = "default lists:"
+        output_string += "\n- precision list = {}".format( default_precision_list )
+        output_string += "\n- recall list = {}".format( default_recall_list )
+        output_string += "\n- F1 list = {}".format( default_F1_list )
+        output_string += "\n- support list = {}".format( default_support_list )
 
-# ==> macro F-Score
-if ( "macro" in calculation_methods ):
+        # add to results map
+        results_map[ calculation_method ] = default_evaluation
 
-    macro_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list, average = 'macro' )
-    macro_precision = macro_evaluation[ 0 ]
-    macro_recall = macro_evaluation[ 1 ]
-    macro_F1 = macro_evaluation[ 2 ]
+        # see if more than one value in one of the lists.
+        if ( len( default_F1_list ) > 1 ):
 
-    # output
-    output_string = "macro-average: precision = {}, recall = {}, F1 = {}".format( macro_precision, macro_recall, macro_F1 )
-    print( output_string )
+            # binary, but list is greater than 0.  Output message.
+            output_string += "\n- NOTE: default output lists have more than one entry - your data is not binary."
 
-    # if output...
-    if ( output_to_file == True ):
+        #-- END check to see if list length greater than 1 --#
+        
+        print( output_string )
 
-        # store line for output
-        line_list.append( output_string )
+        # if output...
+        if ( output_to_file == True ):
 
-    #-- END if output... --#
-    
-#-- END macro F-Score --#
+            # store line for output
+            line_list.append( output_string )
 
-# ==> micro F-Score
-if ( "micro" in calculation_methods ):
+        #-- END if output... --#
 
-    micro_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list, average = 'micro' )
-    micro_precision = micro_evaluation[ 0 ]
-    micro_recall = micro_evaluation[ 1 ]
-    micro_F1 = micro_evaluation[ 2 ]
+    # all others are just argument to "average" parameter, result in one number per
+    #     derived score.  For now, implement them the same.
+    else:
 
-    # output
-    output_string = "micro-average: precision = {}, recall = {}, F1 = {}".format( micro_precision, micro_recall, micro_F1 )
-    print( output_string )
+        # F-Score
+        evaluation_tuple = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list, average = calculation_method )
+        precision = evaluation_tuple[ 0 ]
+        recall = evaluation_tuple[ 1 ]
+        F1 = evaluation_tuple[ 2 ]
+        support = evaluation_tuple[ 3 ]
+        
+        # add to results map
+        results_map[ calculation_method ] = evaluation_tuple
 
-    # if output...
-    if ( output_to_file == True ):
+        # output
+        output_string = "{}: precision = {}, recall = {}, F1 = {}, support = {}".format( calculation_method, precision, recall, F1, support )
+        print( output_string )
 
-        # store line for output
-        line_list.append( output_string )
+        # if output to file...
+        if ( output_to_file == True ):
 
-    #-- END if output... --#
+            # store line for output
+            line_list.append( output_string )
 
-#-- END micro F-Score --#
-    
-# ==> weighted F-Score
-if ( "weighted" in calculation_methods ):
+        #-- END if output... --#
 
-    weighted_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list, average = 'weighted' )
-    weighted_precision = weighted_evaluation[ 0 ]
-    weighted_recall = weighted_evaluation[ 1 ]
-    weighted_F1 = weighted_evaluation[ 2 ]
+    #-- END default F-Score --#
 
-    # output
-    output_string = "weighted-average: precision = {}, recall = {}, F1 = {}".format( weighted_precision, weighted_recall, weighted_F1 )
-    print( output_string )
-
-    # if output...
-    if ( output_to_file == True ):
-
-        # store line for output
-        line_list.append( output_string )
-
-    #-- END if output... --#
-
-#-- END weighted F-Score --#
-
+#-- END loop over calculation_methods --#
 
 # ## output results to file
 # 
