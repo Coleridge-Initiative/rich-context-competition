@@ -593,8 +593,8 @@ for calculation_method in calculation_methods:
     if ( calculation_method == CALCULATION_METHOD_DEFAULT ):
 
         # default metrics and F-Score - default returns a list for each of
-        #     the scores per label, so get list and output it rather than
-        # 
+        #     the scores per label, so get list and output, don't pick one or
+        #     another value.
         default_evaluation = metrics.precision_recall_fscore_support( baseline_list, derived_binary_list )
         default_precision_list = default_evaluation[ 0 ]
         default_recall_list = default_evaluation[ 1 ]
