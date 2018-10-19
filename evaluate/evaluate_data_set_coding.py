@@ -520,7 +520,7 @@ if ( output_to_file == True ):
 #-- END if output... --#
 
 # loop over calculation methods
-result_map = {}
+method_to_result_map = {}
 for calculation_method in calculation_methods:
 
     # binary?  If so, do basic calculations as sanity check.
@@ -597,7 +597,7 @@ for calculation_method in calculation_methods:
         output_string += "\n- support list = {}".format( default_support_list )
 
         # add to results map
-        results_map[ calculation_method ] = default_evaluation
+        method_to_result_map[ calculation_method ] = default_evaluation
 
         # see if more than one value in one of the lists.
         if ( len( default_F1_list ) > 1 ):
@@ -629,7 +629,7 @@ for calculation_method in calculation_methods:
         support = evaluation_tuple[ 3 ]
         
         # add to results map
-        results_map[ calculation_method ] = evaluation_tuple
+        method_to_result_map[ calculation_method ] = evaluation_tuple
 
         # output
         output_string = "{}: precision = {}, recall = {}, F1 = {}, support = {}".format( calculation_method, precision, recall, F1, support )
