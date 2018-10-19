@@ -508,7 +508,7 @@ calculation_methods.append( CALCULATION_METHOD_WEIGHTED )
 cm = metrics.confusion_matrix( baseline_list, derived_binary_list )
 
 # output
-output_string = "Confusion matrix: {}".format( cm )
+output_string = "\nConfusion matrix: {}".format( cm )
 print( output_string )
 
 # if output to file...
@@ -523,6 +523,18 @@ if ( output_to_file == True ):
 method_to_result_map = {}
 for calculation_method in calculation_methods:
 
+    # output
+    output_string = "\n==> {}".format( calculation_method )
+    print( output_string )
+
+    # if output to file...
+    if ( output_to_file == True ):
+
+        # store line for output
+        line_list.append( output_string )
+
+    #-- END if output... --#
+
     # binary?  If so, do basic calculations as sanity check.
     if ( calculation_method == CALCULATION_METHOD_BINARY ):
 
@@ -532,7 +544,7 @@ for calculation_method in calculation_methods:
         precision = metrics.precision_score( baseline_list, derived_binary_list )
 
         # output
-        output_string = "precision = {}".format( precision )
+        output_string = "- {} metrics.precision_score = {}".format( calculation_method, precision )
         print( output_string )
 
         # if output...
@@ -547,7 +559,7 @@ for calculation_method in calculation_methods:
         recall = metrics.recall_score( baseline_list, derived_binary_list )
 
         # output
-        output_string = "recall = {}".format( recall )
+        output_string = "- {} metrics.recall_score = {}".format( calculation_method, recall )
         print( output_string )
 
         # if output...
@@ -562,7 +574,7 @@ for calculation_method in calculation_methods:
         accuracy = metrics.accuracy_score( baseline_list, derived_binary_list )
 
         # output
-        output_string = "accuracy = {}".format( accuracy )
+        output_string = "- {} metrics.accuracy_score = {}".format( calculation_method, accuracy )
         print( output_string )
 
         # if output...
@@ -590,7 +602,7 @@ for calculation_method in calculation_methods:
         default_support_list = default_evaluation[ 3 ]
 
         # output lists
-        output_string = "default lists:"
+        output_string = "\ndefault lists:"
         output_string += "\n- precision list = {}".format( default_precision_list )
         output_string += "\n- recall list = {}".format( default_recall_list )
         output_string += "\n- F1 list = {}".format( default_F1_list )
@@ -632,7 +644,7 @@ for calculation_method in calculation_methods:
         method_to_result_map[ calculation_method ] = evaluation_tuple
 
         # output
-        output_string = "{}: precision = {}, recall = {}, F1 = {}, support = {}".format( calculation_method, precision, recall, F1, support )
+        output_string = "\n{}: precision = {}, recall = {}, F1 = {}, support = {}".format( calculation_method, precision, recall, F1, support )
         print( output_string )
 
         # if output to file...
