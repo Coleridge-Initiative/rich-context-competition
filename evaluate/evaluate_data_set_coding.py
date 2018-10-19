@@ -500,9 +500,9 @@ CALCULATION_METHOD_WEIGHTED = "weighted"
 calculation_methods = []
 calculation_methods.append( CALCULATION_METHOD_DEFAULT )
 calculation_methods.append( CALCULATION_METHOD_BINARY )
-calculation_methods.append( CACLULATION_METHOD_MACRO )
-calculation_methods.append( CALCULATION_METHOD_MICRO )
-calculation_methods.append( CALCULATION_METHOD_WEIGHTED )
+#calculation_methods.append( CACLULATION_METHOD_MACRO )
+#calculation_methods.append( CALCULATION_METHOD_MICRO )
+#calculation_methods.append( CALCULATION_METHOD_WEIGHTED )
 
 # confusion matrix
 cm = metrics.confusion_matrix( baseline_list, derived_binary_list )
@@ -544,7 +544,7 @@ for calculation_method in calculation_methods:
         precision = metrics.precision_score( baseline_list, derived_binary_list )
 
         # output
-        output_string = "- {} metrics.precision_score = {}".format( calculation_method, precision )
+        output_string = "\n- {} metrics.precision_score = {}".format( calculation_method, precision )
         print( output_string )
 
         # if output...
@@ -644,7 +644,7 @@ for calculation_method in calculation_methods:
         method_to_result_map[ calculation_method ] = evaluation_tuple
 
         # output
-        output_string = "\n{}: precision = {}, recall = {}, F1 = {}, support = {}".format( calculation_method, precision, recall, F1, support )
+        output_string = "- \n{}: precision = {}, recall = {}, F1 = {}, support = {}".format( calculation_method, precision, recall, F1, support )
         print( output_string )
 
         # if output to file...
