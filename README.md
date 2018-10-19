@@ -55,7 +55,7 @@ To prepare your model for submission:
 
         - use the file "/data/input/publications.json" (inside the container) to figure out which publications need to be processed.
         - process each.
-        - output the following files to the "/data/output" folder (path is correct inside the container - mapped to data folder in your submission folder):
+        - output the following files to the "/data/output" folder (path is correct inside the container - mapped to data folder in your submission folder). For the specific schema for how each file should be output, see documentation on [Output Files](#output-files):
 
             - data_set_citations.json
             - data_set_mentions.json
@@ -282,7 +282,7 @@ Example:
 
 ### Output files
 
-4 expected output files should be placed in the folder `data/output` after each run of the model:
+4 expected output files should be placed in the folder `data/output` after each run of the model. **NOTE:** *Your output files must follow the exact property names, format, and datatypes for values (i.e., integers must be integers, not strings), otherwise they will not be able to run through the evaluation script and we will not be able to fully score your submission*:
 
 
 - **data_set_citations.json** - A JSON file that contains publication-dataset pairs for each detected mention of any of the data sets provided in the contest `data_sets.json` file.  The JSON file should contain a JSON list of objects, where each object represents a single publication-dataset pair and includes four properties:
