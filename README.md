@@ -1,6 +1,6 @@
 # Rich Context Contest Evaluation and Submission Kit
 
-This repository contains supporting files for self-evaluation (with a development fold corpus) and submitting an entry for the [Rich Context Text Analysis Competition](https://coleridgeinitiative.org/richcontextcompetition). Here you will find all the materials and instructions you will need to build your competition submission. 
+This repository contains supporting files for self-evaluation (with a development fold corpus) and submitting an entry for the [Rich Context Text Analysis Competition](https://coleridgeinitiative.org/richcontextcompetition). Here you will find all the materials and instructions you will need to build your competition submission. If you are not sure where to start, the [Competition Wiki](https://github.com/Coleridge-Initiative/rich-context-competition/wiki) is a good place to begin.
 
 You should develop (train and test) your model on your own machine or server. Once you are ready to submit, you will use the files and scripts here to create a docker container that contains all code, libraries, and additional data and resources required to train and run your model. Each group of participants will be given access to a private Box folder shared with contest organizers that will be pre-populated with this repository along with the dev fold, a sample data folder, a sample project folder, and the train-test data for the competition. To submit, inside their Box folder, each group will:
 
