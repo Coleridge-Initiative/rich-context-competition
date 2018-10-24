@@ -25,7 +25,7 @@ Please make sure you have Docker installed on your machine before you start work
 See details for installing Docker on your system in our [Docker Installation](https://github.com/Coleridge-Initiative/rich-context-competition/wiki/Docker-Installation) notes.
 
 
-## Preparing your model for submission:
+## Preparing your model for self-evaluation and submission:
 
 To prepare your model for submission:
 
