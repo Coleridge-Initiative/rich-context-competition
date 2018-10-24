@@ -32,8 +32,8 @@ To prepare your model for submission:
 1. Download the files in your assigned Box workspace
 1. Test the docker installation:
 
-    - run "`./rcc.sh build`" using the default provided Dockerfile.
-    - do a "basic test" of the container:
+    - Run "`./rcc.sh build`" using the default provided Dockerfile.
+    - Do a "basic test" of the container:
     
         - "`./rcc.sh run`"
         - "`./rcc.sh stop`"
@@ -42,32 +42,32 @@ To prepare your model for submission:
 1. Reset data folder: "`./rcc.sh reset-data-folder`"
 1. Make your model.
 1. Ensure that the "`Dockerfile`" file contains all packages your model needs to run and that these packages are installed in the container (you can use"`./rcc.sh remove-docker-image`" followed by "`./rcc.sh build`" to reset your Docker container if you have updated your `Dockerfile`.
-1. Get container working - repeat the following until build succeeds - you will see the terminal run with output of packages being installed. For a successful build, you should see in the last lines something similar to `Successfully built 166fa65e8fd0` & `Successfully tagged my_rcc:latest`:
+1. Get your container working - repeat the following until build succeeds - you will see the terminal run with output of packages being installed. For a successful build, you should see in the last lines something similar to `Successfully built 166fa65e8fd0` & `Successfully tagged my_rcc:latest`:
 
     - "`./rcc.sh remove-docker-image`"
     - "`./rcc.sh build`"
 
-1. Put model into projects folder
+1. Put your model into projects folder:
 
-    - put model, scripts, needed files, etc., into "project" folder.
-    - update code.sh in project folder so it runs your model on "/data" inside the container.
-    - your model should:
+    - Put your model, scripts, needed files, etc., into the "project" folder. This is the "project" folder in the root directory of your workspace (i.e., `rcc-<YOUR TEAM NUMBER>/project`). 
+    - Update the `code.sh` file in your project folder so it runs your model on "`rcc-<YOUR TEAM NUMBER>/data`" inside the container. By default the "`code.sh`" file runs the "`project.py`" file as an example, you will need to replace "`project.py`" with your code and update the "`code.sh`" file accordingly.
+    - Your model should:
 
-        - use the file "/data/input/publications.json" (inside the container) to figure out which publications need to be processed.
-        - process each.
-        - output the following files to the "/data/output" folder (path is correct inside the container - mapped to data folder in your submission folder). For the specific schema for how each file should be output, see documentation on [Output Files](#output-files):
+        - Use the file "`rcc-<YOUR TEAM NUMBER>/data/input/publications.json`" (inside the container) to figure out which publications need to be processed.
+        - Process each publication.
+        - Output the following files to the "`rcc-<YOUR TEAM NUMBER>/data/output`" folder (path is correct inside the container - mapped to data folder in your submission folder). For the specific schema for how each file should be output, see documentation on [Output Files](#output-files):
 
-            - data_set_citations.json
-            - data_set_mentions.json
-            - methods.json
-            - research_fields.json
+            - `data_set_citations.json`
+            - `data_set_mentions.json`
+            - `methods.json`
+            - `research_fields.json`
 
 1. Use the "`./rcc.sh run`" command to work through getting your model to run. "`./rcc.sh stop`" after each run, or just use "`./rcc.sh run-stop`".
-1. once your model is running, run and evaluate against the dev fold:
+1. Once your model is running, run and evaluate against the dev fold:
 
-    - use the "`./rcc.sh run`" command to run your model against the dev fold.
-    - "`./rcc.sh stop`"
-    - run the "`./rcc.sh evaluate`" command to see how your model did.
+    - Use the "`./rcc.sh run`" command to run your model against the dev fold.
+    - Run "`./rcc.sh stop`" after every "`./rcc.sh run`"
+    - Run the "`./rcc.sh evaluate`" command to see how your model did.
 
 1. When you are ready to submit (either for one of 2 interim runs agains the holdout or the final submission), compress and date the entire directory structure and upload to your Box workspace.
 
