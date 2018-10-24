@@ -71,7 +71,7 @@ To prepare your model for submission:
 
 1. When you are ready to submit (either for one of 2 interim runs agains the holdout or the final submission), compress and date the entire directory structure and upload to your Box workspace.
 
-# Reviewing your submission
+# How we will review your submission
 
 When we receive your submission, we will:
  1. Move the contents of your group's Box folder to an evaluation server.
