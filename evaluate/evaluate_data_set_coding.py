@@ -320,6 +320,8 @@ print( "function accuracy_at_k() defined at {}".format( datetime.datetime.now() 
 
 # In[ ]:
 
+# DEBUG
+debug_flag = False
 
 # output_to_file flag
 output_to_file = True
@@ -367,12 +369,15 @@ baseline_json_file = None
 baseline_json = None
 
 # if output...
+output_string = "Reading baseline/ground_truth file: {}".format( baseline_json_path )
+print( output_string )
+
 if ( output_to_file == True ):
     
     # store line for output
-    line_list.append( "Reading baseline file: {}".format( baseline_json_path ) )
-    
-#-- END if output... --#
+    line_list.append( output_string )
+
+#-- END if output to file... --#
 
 # baseline
 with open( baseline_json_path ) as baseline_json_file:
@@ -391,12 +396,15 @@ derived_json_file = None
 derived_json = None
 
 # if output...
+output_string = "Reading derived/predicted file: {}".format( derived_json_path )
+print( output_string )
+
 if ( output_to_file == True ):
     
     # store line for output
-    line_list.append( "Reading derived file: {}".format( derived_json_path ) )
+    line_list.append( output_string )
     
-#-- END if output... --#
+#-- END if output to file... --#
 
 # baseline
 with open( derived_json_path ) as derived_json_file:
@@ -428,6 +436,7 @@ derived_json
 
 # init class to handle evaluation
 coding_evaluator = CitationCodingEvaluation()
+coding_evaluator.debug_flag = debug_flag
 
 
 # In[ ]:
@@ -511,7 +520,7 @@ calculation_methods.append( CALCULATION_METHOD_BINARY )
 cm = metrics.confusion_matrix( baseline_list, derived_binary_list )
 
 # output
-output_string = "\nConfusion matrix: {}".format( cm )
+output_string = "\nConfusion matrix:\n{}\n\nBinary Key:\n[[ TN, FP ]\n [ FN, TP ]]".format( cm )
 print( output_string )
 
 # if output to file...

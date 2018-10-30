@@ -234,7 +234,10 @@ class CitationCodingEvaluation( object ):
         # loop over publications, and then data sets within.
         for publication_id in publication_id_list:
 
-            print( "Publication ID: {}".format( publication_id ) )
+            # DEBUG
+            if ( self.debug_flag == True ):
+                print( "Publication ID: {}".format( publication_id ) )
+            #-- END DEBUG --#
 
             # get publication map
             publication_dict = citation_map.get( publication_id, None )
@@ -247,7 +250,10 @@ class CitationCodingEvaluation( object ):
             # loop over data set ID list.
             for data_set_id in data_set_id_list:
 
-                print( "==> Data Set ID: {}".format( data_set_id ) )
+                # DEBUG
+                if ( self.debug_flag == True ):
+                    print( "==> Data Set ID: {}".format( data_set_id ) )
+                #-- END DEBUG --#
 
                 # get the data_set_found_map
                 data_set_found_map = data_set_map.get( data_set_id, None )
@@ -256,8 +262,11 @@ class CitationCodingEvaluation( object ):
                 baseline_score = data_set_found_map.get( self.RESULT_TYPE_BASELINE, 0.0 )
                 derived_score = data_set_found_map.get( self.RESULT_TYPE_DERIVED, 0.0 )
 
-                print( "            baseline: {}".format( baseline_score ) )
-                print( "            derived.: {}".format( derived_score ) )
+                # DEBUG
+                if ( self.debug_flag == True ):
+                    print( "            baseline: {}".format( baseline_score ) )
+                    print( "            derived.: {}".format( derived_score ) )
+                #-- END DEBUG --#
 
                 # add them to the lists
                 baseline_list.append( baseline_score )
