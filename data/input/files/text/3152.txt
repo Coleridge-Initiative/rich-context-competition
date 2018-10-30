@@ -1,0 +1,1227 @@
+https://doi.org/10.1177/2056305117750722
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-
+NonCommercial 4.0 License (http://www.creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction
+and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages
+(https://us.sagepub.com/en-us/nam/open-access-at-sage).
+Social Media + Society
+January-March 2018: 1
+­14
+© The Author(s) 2018
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/2056305117750722
+journals.sagepub.com/home/sms
+SI: Social Media, Activism and Organizations
+Introduction
+Social movement scholars have long considered organiza-
+tions vital to the success of movements (Cress & Snow,
+1996;Jenkins&Eckert,1986;Klandermans,1984;McCarthy
+& Zald, 1977; Taylor, 1989). Resource mobilization theory
+put organizations devoted to social change advocacy--social
+movement organizations (SMOs)--at the very center of the
+study of social movements (Clemens & Minkoff, 2004;
+McCarthy & Zald, 1977), arguing that they fulfill important
+roles in the mobilization process. SMOs organize events,
+provide opportunities to protest (e.g., rally, sign petitions;
+Klandermans, 2004), work to connect people to these oppor-
+tunities to protest, and recruit participants and new members
+(Klandermans & Oegema, 1987). SMOs also facilitate conti-
+nuity for movements, recruiting new members as old ones
+leave, ensuring the movement continues on after the first
+generation of activists (Taylor, 1989; Whittier, 1997).1
+However, in research on youth activism, the role and
+importance of SMOs is somewhat different. While acknowl-
+edging the importance of SMOs generally to movements
+and finding that SMOs can help young people become polit-
+ically socialized and active (Conner, 2011; Delgado &
+Staples, 2007; Kirshner, 2008), researchers interested in
+youth activism also find that SMOs are often adult-domi-
+nated (O'Donoghue & Strobel, 2007) and tend to minimize
+the leadership and participation available to youth (Taft,
+2014). Moreover, the level of youth mobilization varies
+from movement to movement, with movements like immi-
+gration, feminist, and LGBT rights experiencing a surge in
+recent years, though there is often tension between youth
+and adult leaders within the movement (Ghaziani, 2011;
+Hunt, 2017; Miceli, 2005; Nichols, 2013; Terriquez, 2015;
+Whittier, 2017). Indeed, as a recent review of work on youth
+activism suggests (Earl, Maher, & Elliott, 2017), SMOs
+have historically had a fraught relationship with youth that
+sometimes leads youth to form their own organizations or to
+participate outside of organizations.
+750722
+SMSXXX10.1177/2056305117750722Social Media + SocietyElliott and Earl
+research-article20182018
+1GitHub Inc., USA
+2University of Arizona, USA
+Corresponding Author:
+Thomas Elliott, GitHub Inc., 88 Colin P Kelly Jr Street, San Francisco, CA
+94107.
+Email: telliott@fastmail.com
+Organizing the Next Generation: Youth
+Engagement with Activism Inside and
+Outside of Organizations
+Thomas Elliott1 and Jennifer Earl2
+Abstract
+Social movement scholars have long considered organizations (social movement organizations [SMOs]) vital to the success of
+a movement. SMOs organize events, mobilize participants, and recruit new activists into the movement. In the case of youth
+activism, SMOs can also play a vital role in the political socialization of youth. However, a substantial line of research finds that
+most SMOs do a poor job of encouraging and facilitating youth engagement in offline, face-to-face contexts. With the growing
+use of digital media by both social movements and youth, online activism presents another avenue through which SMOs
+can recruit youth participation. The extent to which SMOs are doing any better at this online than offline is an open and
+surprisingly new question, however. Using a unique dataset, we explore the extent to which SMOs are encouraging youth
+participation in social movement activity online. Based on our findings, we argue that engaging with and recruiting youth into
+SMOs is vital for the future health of these organizations as well as the political socialization of youth, and that SMOs are not
+doing enough to recruit youth online, mirroring their failure offline.
+Keywords
+online activism, social movements, youth
+2 Social Media + Society
+This literature on youth activism in SMOs has been heav-
+ily focused on face-to-face interactions, even though other
+literatures, such as scholarship on youth civic engagement
+has taken a substantial digital turn (Earl et al., 2017).
+Moreover, this focus on face-to-face interactions exists
+despite wide scale use of digital technologies by youth
+(Palfrey & Gasser, 2013) and in protest (Brunsting & Postmes,
+2002; van Laer & van Aelst, 2010). In this article, we bring
+questions about youth engagement in SMOs into the digital
+world by investigating one way that SMOs may attempt to
+recruit and connect with youth--through their web pres-
+ences--to determine if the relationship between SMOs and
+youth online seems as troubled as it has been offline. Referred
+to as the "supply side" of protest (Klandermans, 2004), mate-
+rials, framings, and opportunities made available by SMOs
+online allow researchers into SMOs' unmediated presenta-
+tions of priorities and concerns for recruiting and representa-
+tions. These data provide an unvarnished look into how youth
+mobilization is positioned in SMO-made material.
+Specifically, we use unique empirical data to examine the
+extent to which web-addressable spaces run by SMOs reach
+out to youth on a variety of levels, from having content that is
+directly relevant to youth to hosting youth sections on web-
+sites or inviting youth participation in protest actions, among
+other potential connections. Our novel dataset consists of data
+from quantitatively content coding a random sample of
+addressable digital spaces (e.g., websites, public Facebook
+pages, blogs) engaged in advocacy across each of 20 different
+issue areas. Given that SMOs are not doing a good job engag-
+ing youth offline, we expect that SMOs are likely also doing a
+poor job of engaging youth through their web presences.
+Our data confirm this expectation, but skeptics may be
+tempted to defend SMOs by arguing that SMOs fail to try to
+connect with youth because youth are disinterested and thus
+web presences simply reflect the lack of demand youth have
+for engagement. To address this likely criticism, we also
+assess the extent to which youth are becoming involved polit-
+ically online, including in protest, and the extent to which
+youth involvement with SMOs increases their engagement. If
+we find low levels of youth engagement, or little impact of
+connecting with SMOs on youth, then it is possible that critics
+are correct and SMOs fail to try to connect with youth online
+because they know youth are disinterested and/or connecting
+with youth doesn't change their engagement. Instead, though,
+we find that such pessimism about youth is incorrect: using
+national survey data, we show that youth are actually quite
+active in protest online, despite a lack of, rather than because
+of, substantial outreach and that when youth are involved
+with SMOs, they are more active than other youth.
+The Historical Role of SMOs in
+Movements
+Organizations have taken center stage in social movement
+research since McCarthy and Zald (1977) developed resource
+mobilization theory. SMOs are seen as the primary vehicle
+through which resources are collected, organized, and then
+directed toward advocacy (Cress & Snow, 1996; McCarthy
+& Zald, 1977). In fact, social movement research has come
+to consider SMOs as the primary actors in social movements
+(Clemens & Minkoff, 2004), with even other major theories
+acknowledging their importance. Political opportunity the-
+ory, for instance, often considers organizational formation
+when analyzing the emergence of political opportunities
+(Meyer & Minkoff, 2004). The literature on framing expects
+SMOs to strategically construct and realign collective action
+frames (Snow, Rochford, Worden & Benford, 1986). SMOs
+also facilitate the creation and maintenance of collective
+identity (Polletta & Jasper, 2001).
+For movements, a diversity of SMOs allow for a diversity
+of ideology, strategy, tactics, and organizational forms within
+the same movement (Clemens & Minkoff, 2004), allowing
+these differences to attract more members to the movement
+overall as individuals find organizations that fit them well.
+This diversity also allows for a division of labor among orga-
+nizations (Gamson & Wolfsfeld, 1993) and useful collabora-
+tions. More generally, SMOs ensure continuity of both
+themselves and the larger movement (Whittier, 1997). They
+recruit new members as older ones leave, often targeting
+young people for new memberships (Hirsch, 1990) and serve
+as abeyance structures when movements enter periods of low
+activity or hostile contexts (Taylor, 1989). Even Earl, who
+has argued that "organizing outside of organizations" (Karpf,
+2012) online can be fruitful (Earl & Kimport, 2011),
+acknowledges that having some SMOs in a larger movement
+ecology is likely important for the health and vitality of large,
+enduring movements (Earl, 2015).
+Certainly, one of the most important roles SMOs occupy
+is the primary supplier of opportunities to engage in protest
+and advocacy. SMOs use their resources to plan events
+designed to further their goals. In planning these events,
+SMOs decide what kinds of tactics to use and the frames they
+will use to justify the actions. Tactical and framing decisions
+also often contain indicators of who expected participants
+will be, since tactics, frames, and participants need to align
+for successful motivation.
+As mentioned above, Klandermans (2004) argues this
+event planning constitutes the "supply side" of protest, a
+critical component of the supply and demand nexus neces-
+sary for mobilization. Beyond providing a supply of opportu-
+nities, SMOs are also instrumental in mobilizing because
+they target potential participants in collective action, invite
+them to join (Klandermans & Oegema, 1987), and incentiv-
+ize participation by providing selective incentives and other
+rewards, particularly for risky or difficult protest
+(Klandermans, 1984). Indeed, the first step in this multi-step
+mobilization process--being directly asked to participate in
+a protest--is one of the best predictors of participation
+(Schussman & Soule, 2005). Aside from being asked, it
+should not be surprising that two of the other best predictors
+Elliott and Earl 3
+of activism are network and/or organizational connections to
+a movement (Gould, 1991; Klandermans, 2004; McAdam,
+1988; Schussman & Soule, 2005; Tindall, 2004). SMOs also
+help to maintain participation across time by facilitating col-
+lective identity, which strengthens the member's commit-
+ment to the movement (Polletta & Jasper, 2001), and by
+embedding members in a network of personal relationships
+that promote future participation (Tindall, 2004). Given this,
+we argue that how SMOs create the "supply side" of protest
+is consequential and likely, based on prevailing social move-
+ment scholarship, to effect who is mobilized for what ends.
+SMO web-based presences, such as SMO websites, publicly
+accessible Facebook pages and twitter feeds, and other pub-
+licly accessible SMO-controlled material give researchers
+access to this "supply side" as it exists online. While we do
+not claim that web presences provide an exhaustive portrait
+of how SMOs engage different audiences through the mani-
+fold opportunities for connection online, web presences rep-
+resent a privileged site of inquiry because they embody the
+unmediated self-presentation of the organization and move-
+ment to others, representing their key concerns and constitu-
+encies and also courting connection and mobilization from
+some kinds of site visitors.
+Youth Mobilization and SMOs
+SMOs are also important to youth because they can provide
+spaces for political socialization. SMOs provide opportuni-
+ties for youth to engage in politics, and youth see political
+activism modeled by adult members. These opportunities
+can help youth develop important problem solving and inter-
+personal skills, and help youth develop political identities
+(Conner, 2011; Delgado & Staples, 2007; Kirshner, 2008).
+This is not to suggest that SMOs are in control of youths'
+socialization process. Recent research on political socializa-
+tion argues that youth, in fact, socialize themselves, synthe-
+sizing what they learn from family, friends, school, and other
+contexts (Yates & Youniss, 1999; Youniss et al., 2002). But,
+SMOs can provide important avenues for experiences that
+contribute to socialization. Moreover, when SMOs create
+egalitarian relationships between youth and adults
+(O'Donoghue & Strobel, 2007), youth often continue to par-
+ticipate, which can beget participation well into adulthood.
+However, research shows that SMOs have failed to prop-
+erly cultivate youth engagement in recent years (Gordon,
+2007; Khalil, 2012; O'Donoghue & Strobel, 2007; Taft &
+Gordon, 2013). SMOs are doing a poor job of recruiting
+youth offline into traditional protest (Gordon, 2007;
+O'Donoghue & Strobel, 2007). Instead, many youth, wanting
+to engage in political and civic life within their community,
+are turning to community-based youth organizations, which
+facilitate the development of egalitarian relationships between
+youth and adult leaders (O'Donoghue & Strobel, 2007).
+When youth do get engaged in SMOs offline, SMOs tend to
+either provide adult-led participation opportunities that leave
+little room for youth to feel empowered (Taft & Gordon,
+2013), or they engage in ageist dismissal of youths' ability to
+fully participate (Taft, 2014). Youth have responded by opting
+out of traditional SMOs. Some youth have created their own,
+youth-led organizations (Gordon, 2007) in which adults either
+play peripheral roles or are excluded altogether.
+This trend appears to be true even in movements that have
+seen an increase in youth mobilization in recent years. For
+example, in the mid-2000s, the immigration reform move-
+ment encouraged the participation of undocumented youth,
+termed DREAMers after the proposed DREAM Act that
+would offer people who entered the country as young chil-
+dren a path to citizenship. However, growing tension between
+the priorities of the adult leaders of the movement and the
+DREAMers led to a rift, and many undocumented youth
+building their own movement for immigration reform
+(Nichols, 2013). Likewise, young women on college cam-
+puses have mobilized in response to a lack of action by col-
+lege administrators of adequately address instances of sexual
+assault (Whittier, 2017). Youth mobilization has been impor-
+tant for the LGBT movement for several decades now, par-
+ticularly work done within gay straight alliances (Miceli,
+2005). However, recent research suggests that young LGBT
+students are diverging in their identities and politics from
+previous LGBT generations (Ghaziani, 2011). This evidence
+suggests that while some movements do a better job of
+attracting youth activists, few are successfully integrating
+them into traditional SMO spaces.
+Taking this work together, it is clear that SMOs play an
+incredibly important role in the health and effectiveness of
+social movements, but research has documented how SMOs
+have failed to properly engage youth in offline protest. This
+could be consequential for the future health and longevity of
+social movements if they fail to recruit a new generation of
+activists into their SMOs. With the widespread adoption of
+the Internet and digital media for political protest, SMOs are
+faced with a new arena in which youth engagement is incred-
+ibly important. Thus, we argue that it is important to under-
+stand how digital spaces run by SMOs (vs spaces not run by
+SMOs) attempt to connect with youth.
+Our central question is whether SMOs have attempted to
+reach out to youth through their online presences, inviting
+youth to participate and creating inviting spaces for them. On
+the one hand, this is a straightforward question about how
+often SMOs explicitly attempt to connect with young people
+through their online content, by creating explicit spaces for
+them, or by inviting engagement directly. On the other hand,
+it is also a question of whether spaces are designed with fea-
+tures that prior research shows appeal to youth. For instance,
+existing research shows youth prefer websites that give them
+opportunities for interactivity (Bachen, Raphael, Lynn,
+McKee, & Philippi, 2008; Montgomery, 2001). However,
+interactivity--which includes creating or remixing content
+and posting it online as well interacting with other users
+through message boards, forums, live chatting features, or
+4 Social Media + Society
+other means--may seem quite risky to professional SMOs
+eager to control their message and image (Earl, 2013; Meyer
+& Tarrow, 1998).
+Data: SMOs and Youth
+In order to understand the universe of online social move-
+ment material that may be accessible by youth, and evaluate
+the extent to which this material actively works to connect
+with youth, we need to access population-level data on web-
+addressable social movement spaces. Although we use a
+method that can find any web-addressable digital space that
+is publicly accessible (e.g., public Facebook pages, twitter
+feeds, etc. as well as traditional websites), for ease of termi-
+nology and to reflect that the vast majority of cases we study
+are traditional websites, we refer to these web-addressable
+spaces as websites from here forward. We also need to study
+more than a single social movement to ensure that our find-
+ings are not movement-specific; therefore, we collect and
+examine data on publicly accessible websites active in 20
+different issue areas.
+But, studying a random sample of sites, or an entire popu-
+lation, can be difficult. Identifying the population of advo-
+cacy websites is impractical, and so traditional sampling
+techniques are difficult to implement online. To overcome
+these limitations, we rely on an important simplifying
+assumption that makes this dilemma tractable: we assume
+that our population is limited to those web-addressable
+spaces on a topic that other users could reasonably identify
+and visit. Thus, we are interested in the population of spaces
+that potential users are at risk of finding, arguing that this
+represents a methodologically tractable way to examine a
+privileged site of organizational self-representation. While
+we are unable to include the deep Web, our focus on the pop-
+ulation of "reachable websites" (i.e., web-addressable spaces
+we do not need the URL to be able to locate) does allow us to
+sample the publicly available supply of online advocacy.
+We use repeated searches on Google since: (1) Google is
+the leading search engine and (2) Googlebot, which helps to
+build Google's vast database, relies on link-crawling to
+identify new sites, a process that mimics the way individuals
+find websites and other addressable spaces. We select 20
+social movement issue areas to represent those that are tra-
+ditionally studied by social movement scholars (e.g., abor-
+tion and civil rights), issue areas where mobilization has
+increased or decreased significantly over time (e.g., immi-
+gration and globalization), and issue areas tied to the Internet
+(e.g., open source).
+We expect each of these movements to be potentially
+interesting to youth. The feminist, immigration, and lesbian,
+gay, bisexual, transgender, and questioning (LGBTQ) move-
+ments have seen youth mobilization in recent years (Hunt,
+2017; Terriquez, 2015). Movements around privacy and
+open source are potentially interesting for preserving privacy
+and freedom online, a space youth spend more time than
+other age cohorts. Youth enjoy remixing and redistributing
+pieces of culture they find online (Cohen, Kahne, Bowyer,
+Middaugh, & Rogowski, 2012; Ito et al, 2009), which can
+often run into issues of intellectual property. Youth have also
+been subject to heighted surveillance on the part of parents
+and schools online (Hope, 2005; Taylor, 2013).
+We generate a list of search terms for each issue area, pre-
+tested to ensure validity of results. These search terms are
+designed to capture both the pro- and anti-side of the issue, so
+the abortion issue area includes search terms to identify both
+pro-life and pro-choice websites. To identity search terms, we
+first use common keywords in academic and popular litera-
+tures, for example, "free speech" for the civil liberties issue.
+We buttress these keywords with additional common terms
+drawn from exemplar websites for each issue area (e.g., NOW
+for the feminist issue area). From both sources, we pair terms
+with an action word, such as "protest" or "stop," and verify
+these search terms return quality results from Google, gener-
+ating 175 search terms across the 20 issues.
+We use each search term as a query to a Google API that
+allows us to retrieve up to 1000 results per query. The results
+from all queries for the same issue area are combined to gener-
+ate 20 independent populations of reachable websites for each
+issue area, in total representing over one hundred thousand
+unique URLs (for more details on an earlier wave of data col-
+lection, see Earl, Kimport, Prieto, Rush, & Reynoso, 2010). It
+is important to note that by using repetitive searches and all
+1,000 results per search we avoid impacts of Google's Page
+Rank on our method. Research does show that website owners
+try to game Page Rank to get on the first page of results, but
+there is no evidence that website owners game to be in the top
+1,000. Moreover, an examination of results after the top-1,000
+showed very poor quality returns that were irrelevant to our
+searches. By including all results and randomly sampling,
+which disregards order within the top-1,000, we avoid these
+problems.
+We identified populations of reachable websites for 20
+issue areas in August, 2010. We then drew a 1% random sam-
+ple by cause, made a local archive of the sites as they appeared
+in 2010, and then quantitatively content coded them. Any pro-
+tests linked to or hosted by one of these sites (save sampling
+completed for a few massive sites) were also separately coded.
+We coded 1,084 websites and 3,659 protest actions.
+Our method of identifying websites yielded many that had
+content relevant to social movements, but did not engage in
+advocacy. For example, news sites, like pbs.org and rocky-
+mountainnews.com, online copies of books stored on Google
+Books, Wikipedia articles, and university websites were
+coded as containing material about a movement issue area,
+but containing no appeals for change. To focus on advocacy
+websites, we drop these websites that did not make appeals
+for change or advocacy. We also drop sites that did not advo-
+cate for change on the issue for which they were sampled
+(e.g., websites sampled on the abortion movement issue but
+did not engage in any abortion advocacy). This substantially
+Elliott and Earl 5
+reduces our dataset: our final sample includes 363 websites
+and the 1402 protest actions that were hosted on or linked
+from those 363 websites.
+Coding
+Coding proceeded in two waves. The first wave, taking place
+in 2010­2011, coded for 93 measures of activism on the
+websites and another 46 measures about every protest action
+hosted or linked to from those sites (e.g., online petitions
+users could sign; in person demonstrations users were invited
+to attend). The second wave, coding in 2013­2014, coded an
+additional 28 website measures and 7 additional protest
+action measures. This second wave of coding used the same
+archives of the websites as the first wave, to ensure the same
+content was coded across the two waves. Inter-coder reliabil-
+ity for the first wave is 98.2% for website level measures and
+97.7% for protest action measures. Inter-coder reliability for
+the second wave is 96.9% for website level measures and
+99.1% for protest action measures.
+We code for three different measures of youth orientation
+of websites to capture the level of youth engagement. First,
+we code a website for youth content. This measure assesses
+whether the site contains material relevant to youth, whether
+or not the material is intended for youth. This could include
+sites that teach parents how to talk to their children about
+bullying, or websites that teaches youth how to start a gay/
+straight alliance at their school. Our second measure, youth
+audience, assesses whether the website includes youth as
+part of their target audience. This could be accomplished by
+providing a separate space on the site intended specifically
+for youth, or by explicitly including youth as part of their
+broader audience. The third measure, youth participation,
+captures whether websites explicitly invite or encourage
+youth to participate in the protest events the sites host or link
+to, through explicit references and invitations to youth. We
+define protest activities as activities outside of normal insti-
+tutional political channels that call for change, which includes
+activities such as signing petitions, attending rallies, partici-
+pating in sit-ins, or participating in boycotts. For all of the
+above, we conceptualize youth as persons through college
+age (approximately 24years old).2
+Many advocacy sites are not run by formal SMOs, but
+instead are developed and maintained by individuals or
+informal networks (Earl, 2013). To identify which websites
+are affiliated with a SMO and which ones are not, we code
+whether the website was operated by a SMO or not; focused
+less on the technical operations of the site (i.e., not on who is
+responsible for the technical aspects of maintaining the site),
+but rather whether an organization was responsible for the
+content hosted on site. We define SMOs as formal organiza-
+tions, with physical headquarters, whose primary mission is
+to advocate for change on behalf of a constituency.
+Organizations that only fund other organizations (i.e., foun-
+dations) are not considered SMOs, unless they also engage in
+advocacy themselves. We use this definition because it is
+largely consistent with the existing literature, and we identi-
+fied a number of sites that claimed to represent organizations
+that were actually just single individuals trying to make their
+cause seem larger. To exclude these kinds of sites from the
+organizational coding, we required some sense of offline
+presence. For instance, we code websites run by the ACLU
+(http://www.aclunc.org), Amnesty International (amnesty.
+org), and Americans for Prosperity (http://www.americans-
+forprosperity.org) as SMO affiliated. Examples of websites
+in our data that are not affiliated with a SMO include crook-
+sandliars.com, change.org, and queerfilter.com.
+We are also interested in how interactive websites feel and
+how often they deploy features that have been discussed for
+youth-specific website design. Drawing on insights from Earl
+(2013), we code for website features that increase the partici-
+patory nature of the website. We code for whether the site
+allows users to get information about an issue, such as press
+releases or research papers; whether the site allows users to
+provide information to the site, such as uploading research or
+news articles, or providing tip-lines that allow users to leave
+information about companies with contested business prac-
+tices. We also code for whether the website allows users to
+share their opinions about an issue, or see others' opinions
+hosted on the site. We code whether the websites contains
+polls, quizzes, games, or crossword puzzles and also code for
+whether the website contains features that allowed users to
+chat with other users live (Bachen et al., 2008; Montgomery,
+2001; Montgomery, Gottlieb-Robles, & Larson, 2004).
+Findings: SMOs and Youth
+The goal of our first analysis is to understand the extent to
+which SMO-affiliated websites actively court youth through
+their web presences. We do this by examining the overall
+youth-orientations of the websites as well as specific feature
+sets and site production practices. Across these analyses, we
+find that social movement websites in general do a poor job
+of targeting youth, mirroring what previous research has
+found offline, although there is a small surprise: although
+both SMO-affiliated and sites not run by SMOs all do poorly
+in trying to connect with youth, in some cases, SMO-
+affiliated websites do try to connect more with youth than
+sites not run by SMOs.
+Figure 1 graphs youth orientation based on youth content,
+youth audience, and youth actions and shows that websites are
+much more likely to host youth-relevant content than to treat
+youth as an audience or explicitly court youth participation.
+Although websites are more likely to have youth content than
+other forms of youth orientation, it is still the case that a minor-
+ity of websites have youth-relevant content. The other two
+kinds of youth-oriented connections are far more infrequent.
+To test whether the differences we see in the figure are signifi-
+cant, we perform t-tests for a difference in proportion between
+sites run by SMOs and those not run by SMOs.3 Across all
+6 Social Media + Society
+three categories of youth-orientation, SMO-run websites are
+more likely to be youth oriented than non-SMO websites
+(p
+<
+.05). For instance, almost half of all SMO-run websites
+feature youth content, while less than a third of non-SMO
+websites contain youth content. Over 20% of SMO-run web-
+sites include youth in their targeted audience, while only 10%
+of non-SMO websites target a youth audience. Five percent of
+SMO-run websites explicitly invite youth to participate in
+advocacy actions, while less than 1% of non-SMO websites
+do so. In other words, sites in general do a poor job of trying to
+connect with youth in these ways, but SMO-run sites do a
+slightly better, although still lackluster, job at this.
+As we previously discussed, youth mobilization varies
+from movement to movement, and so it is important as a
+check on our findings to assess whether patterns of youth-
+directed orientations differ substantially across issue areas:
+perhaps some movements are much better at connecting with
+youth, but this is obscured by analyzing all issue areas
+together. While there is no research available to support clear
+hypotheses about how attempts at youth engagement by
+SMOs might vary by issue area, examining this is an impor-
+tant check against potentially overgeneralized findings.
+To explore how these patterns differ, Figure 2 graphs the per-
+centage of websites that feature youth content by SMO affilia-
+tion and social movement issue area. The left panel shows issue
+areas in which SMO-run websites contain youth content more
+often than non-SMO websites. The panel on the right shows
+issue areas in which non-SMO websites contain youth content
+more often than SMO-run sites. Movements about homeless-
+ness, labor, civil liberties, and LGBTQ rights top the list in
+terms of SMO-run youth engagement, although labor and
+LGBTQ non-SMO websites also engage youth at a high rate.
+On the other hand, movements focused on peace, civil rights,
+and poverty bottom out the list in terms of SMO-run youth
+engagement, though even the non-SMO websites also do a rela-
+tively poor job of youth engagement in these issue areas.
+Interestingly, despite the high salience of DREAMers in the fall
+of 2010, less than 50% of SMO-run websites in the immigration
+issue area contain youth content, and less than a quarter of non-
+SMO immigration websites contain youth content.
+Figure 3 shows the breakdown of including youth in the
+targeted audience of a website by SMO affiliation and issue
+area. LGBTQ and labor again make the top of the list, as does
+green and open source. For the latter two, no non-SMO web-
+sites include youth in their intended audience. Homelessness,
+which topped the list for youth content, has no websites that
+include youth in their audience, indicating that while these
+sites are very concerned about youth homelessness, the web-
+sites do not speak to these youth, nor any youth, directly.
+Human rights, intellectual property (IP) reform, nuclear, and
+privacy also do not target a youth audience.
+Figure 1. Youth Engagement by SMO-affiliation and Youth Orientation.
+Figure 2. `Youth Content by SMO-affiliation and Movement
+Issue Area.
+Elliott and Earl 7
+Explicitly inviting youth to participate in advocacy
+through a website shows similar patterns as the two other
+measures of youth orientation.As shown in Figure 4, LGBTQ
+and green top the list here, as they did for youth audience.
+Interestingly, only labor contains non-SMO websites that
+explicitly invite youth to participate in advocacy; all other
+websites that invite youth to participate are SMO-run.
+Overall, it appears that for some movements, such as
+LGBTQ, green, and labor, SMOs are more likely than non-
+SMO sites to try to engage youth in various ways, but this is
+not true across all issue areas we examined. Future research
+should try to understand these variations across causes.
+Prior research has argued that youth are drawn to websites
+that offer opportunities to interact with other users on the site,
+as well as to create and post their own content (Bachen et al.,
+2008; Montgomery, 2001). So, even if websites don't have
+apparent overall youth orientations, perhaps they are interac-
+tive and include features thought to be attractive to young
+users. Figure 5 graphs how often SMO-run and non-SMO
+websites provide these types of opportunities for users. While
+SMO-run websites are more likely (p<.05) to provide oppor-
+tunities for users to get information about an issue, non-SMO
+websites are much more likely (p
+<
+.001) to allow users to
+express their opinions on the website through message boards,
+polls, or other features allowing users to express their per-
+sonal opinions or experiences. Just as SMOs offline failed to
+provide appropriate youth-centered participation opportuni-
+ties, even when they invited youth to participate, SMOs
+online are not providing the kinds of interactive opportunities
+we would expect to fully engage youth. More interactive fea-
+tures, like polls, games, and chatting features, are not com-
+mon among both SMO-run and non-SMO websites. Instead,
+the most common thing websites do is treat the web as another
+broadcast forum in which they can distribute information.
+Figure 6 breaks out feature set availability still further by
+youth orientation as measured by the inclusion of youth con-
+tent. Similar patterns exist as did in Figure 5, but there are
+Figure 3. Youth Audience by SMO-affiliation and Movement
+Issue Area.
+Figure 4. Youth Actions by SMO-affiliation and Movement Issue
+Area.
+Figure 5. Feature Sets by SMO-affiliation. Figure 6. Feature Set Availability by SMO-affiliation and Youth
+Content Orientation.
+8 Social Media + Society
+some significant differences for youth-oriented websites ver-
+sus non-youth oriented. SMO-run websites that are also
+youth oriented are much more likely to allow uses to provide
+info about a cause on the website (p<.05) and are also more
+likely to include polls (p<.01).
+Figure 7 provides the same information for youth audi-
+ence oriented websites. Again, SMO-run websites are more
+likely to allow users to provide information about a cause if
+they are oriented toward a youth audience than if they are not
+(p<.05). SMO-run websites are also more likely to include
+games if they are oriented towards youth protest participa-
+tion than if they are not (p
+<
+.05) (see Figure 8). Overall,
+while having a youth orientation does increase the likelihood
+that a SMO-run website will include some of interactive fea-
+tures, even many of these youth-oriented websites are not
+providing many interactive opportunities for users.
+We also examine who produces content for websites--
+young people or adults--on the assumption that youth-pro-
+duced content may be more engaging for young people. We
+cross this characteristic with our three different measures for
+overall orientation, assuming, for instance, that youth-pro-
+duced content directed at youth is different from adult-pro-
+duced content directed at youth. Specifically, for youth
+content, we examine the frequency of three arrangements:
+(1) content produced by youth on youth-oriented websites
+(i.e., "by youth for youth"), (2) content produced by adults
+on a youth-oriented website (i.e., "by adults for youth"), and
+(3) content produced by adults on an adult-oriented website
+(i.e., "by adults for adults").4 Figure 9 shows the proportion
+of websites that fall into these categories, stratifying those
+figures by whether the site is SMO-run.
+While there is a larger proportion of SMO-run websites in
+the "by youth for youth" category than non-SMO websites,
+the difference is not significant. But, there are significantly
+more SMO-run websites in the by adults for youth category
+(p<.01) than non-SMO sites, and significantly less SMO-run
+websites in the by adults for adults category (p<.01). So, in
+terms of mediated youth content, SMO-run websites are more
+likely to be youth oriented, but the content is likely to be adult
+produced. These data suggest that concerns about ageist prac-
+tices in organizing offline (Gordon, 2007; Taft, 2014) may
+also be relevant online, such that many SMOs see adults as
+leading youth instead of youth being collaborators in change.
+Figure 10 is similar to Figure 9 but uses youth audience to
+establish which sites are "for youth." The difference between
+SMO-run and non-SMO websites is not significant for the by
+youth for youth category. As was true in Figure 9, there are
+significantly more SMO-run websites in the by adults for
+youth category than non-SMO websites (p<.05) and signifi-
+cantly less in the by adults for adults category (p<.05). Here,
+though, there is less youth orientation overall, with the vast
+majority of both SMO-run and non-SMO websites falling in
+the by adults for adults category.
+This is also true if we focus on websites that are consid-
+ered "for youth" when they invite youth protest participation
+(see Figure 11). Here, the only significant difference is in the
+proportion of SMO-run versus non-SMO websites that fall
+into the by adults for youth category.
+Figure 8. Feature Sets by SMO-affiliation and Youth Protest
+Participation Orientation.
+Figure 7. Feature Sets by SMO-affiliation and Youth Audience
+Orientation.
+Figure 9. Youth Content Mediation by SMO-affiliation.
+Elliott and Earl 9
+In sum, our data show that social movement presences
+online, like their presences offline, are failing to do a good
+job of engaging youth, or even at a more basic level, framing
+youth as an important movement constituency. Online social
+movement presences tend to be quite adult-oriented and
+adult-produced, which matches the adult orientation of most
+offline SMOs, and movement web presences have few fea-
+ture sets that are expected to draw in youth. While this is not
+ubiquitously the case, or constant across different issues
+areas, and can be slightly less exaggerated for SMO-run sites
+than non-SMO sites, it nonetheless appears that the social
+movement sector, and SMO-run sites, are not doing much to
+connect with young people, even though that is important to
+the socialization of young people and to the generational
+continuity of movements.
+A critical reader may reply that these findings are expected
+because SMOs are simply responding to a real and irremedia-
+ble lack of interest on the part of youth or the unresponsive-
+ness of youth to SMO engagement. That is, an alternative
+explanation for what is driving our findings is a rational deci-
+sion by SMOs to not target youth because youth don't want to
+be active and/or connecting with youth doesn't affect youth
+engagement. This explanation is in line with claims that youth
+are not as politically and civically engaged as previous genera-
+tions (Putnam, 2000). To assess this possibility, in the next two
+sections, we use survey data of youth's political engagement
+to assess the extent to which youth are interested in and engage
+in politics, including social movements, as well as the extent
+to which youth are active in formal political organizations and
+the impacts of that involvement.
+Data: Youth Participation in Activism
+In order to assess the extent to which there is demand for advo-
+cacy among youth and whether SMO-membership impacts
+youth involvement, we use the Youth Participatory Politics
+(YPP) Survey. The YPP Survey is a 2011 nationally repre-
+sented survey of 15- to 25-year-olds in the United States. The
+survey was administered by Knowledge Networks (KN),
+which maintains KnowledgePanel, a nationally representative
+pool of potential participants in online surveys.
+KnowledgePanel participants are identified by KN through an
+address-based sampling method. Participants are given a home
+computer, if they do not already own one, and are enrolled in
+the Internet-based survey service. Clients of KN may design
+surveyswhichareadministeredtoasampleofKnowledgePanel
+participants, which is constructed to ensure the representative-
+ness of the sample, the ability of researchers to analyze key
+populations, and prevent KnowledgePanel burnout from over
+sampling. The YPP survey was commissioned by Mills
+College and administered by KN. In addition to the online sur-
+vey, a smaller sample completed the survey via the telephone.
+Mills also conducted their own survey, consisting of identical
+questions, using an address-based sampling technique. In all,
+2,920 people completed the survey, with a completion rate of
+94.7% of eligible participants online, 42.4% of eligible phone
+participants, and 46.8% of eligible participants in the address-
+based sampling supplement. We use the included survey
+weight to generate the following graphs and other analyses.
+In prior work, we constructed measures for youth engage-
+ment generally (Elliott & Earl, forthcoming). We recreate
+and re-explain those measures here. Participants were asked
+about a variety of behaviors and opinions related to their use
+of the Internet for political, volunteer, and hobby-based pur-
+poses. From these questions, we construct measures of four
+different kinds of political participation: institutional, social
+movement, volunteer, and participatory. Each is a dummy
+variable, turned on if a respondent affirms they have partici-
+pated in a qualifying activity in the last twelve months.
+Institutional politics consists of seven activities
+(alpha=.65) including (1) having voted in the 2010 elections;
+supporting a candidate, political party, or political issue by (2)
+working on a campaign; (3) wearing a campaign button, put-
+ting a campaign sticker on their car, or placing a sign in their
+window or front yard; (4) expressing support through a social
+Figure 11. Youth Protest Participation Mediation by SMO-
+affiliation.
+Figure 10. Youth Audience Mediation by SMO-affiliation.
+10 Social Media + Society
+network; (5) raising or donating money online; (6) raising or
+donating money offline; or (6) signing up to receive informa-
+tion from a candidate or campaign via email.
+The social movement indicator also consisted of seven
+qualifying activities (alpha=.71): (1) supporting a candidate,
+political party, or political issue by attending a meeting, rally,
+speech or dinner; (2) starting or joining a political group on a
+social network site; (3) taking part in a protest, demonstra-
+tion, or sit-in; (4) participating in a boycott; (5) participating
+in a "buycott," which is like a boycott except that people
+preferentially buy from a specific seller or buy a particularly
+product to show support; (6) signing a paper petition; or (7)
+signing an online petition.
+Volunteering consisted of three qualifying activities
+(alpha=.67): (1) having raised money for a charitable cause,
+(2) participated in a community service or volunteer activity,
+or (3) worked on cooperated with others to try to solve a
+nonpolitical problem affecting their city or neighborhood.
+We also include a novel category for participatory engage-
+ment in politics. Recent research on youth political participa-
+tion online finds that youth haven't disengaged from politics,
+rather they are engaging in new and different ways (Kahne,
+Middaugh, & Allen, 2014). This research conceptualizes this
+new engagement as "participatory politics," which involves
+interactive, peer-based actions designed to give youth a politi-
+cal voice without deference to elites (Cohen et al., 2012). We
+construct an indicator for participatory politics5 that includes
+six activities related to a political campaign, candidate, or
+issue (alpha
+=
+.74): (1) forwarded or posted someone else's
+political commentary or news; (2) contributed their own arti-
+cle, opinion piece, picture, or video; (3) forwarded or circu-
+lated funny videos or cartoons or circulated something artistic;
+(4) commented on a news story or blog they read online; (5)
+written an email or written a blog; or (6) participated in an
+event where young people express their political views, such
+as a poetry slam, musical event, and so on.
+We also use a question asking respondents if they had
+been active in a political or social group in the last 12 months,
+and an open-ended question asking what group they were
+active in to measure the kinds of organizations youth are
+likely to join.
+Results: Youth Participation in Activism
+Figure 12 shows the breakdown of youth who participate in
+any of the four categories of action (participatory, social
+movement, institutional or volunteering) described above as
+well as the breakdown of youth who are members of political
+or social organizations. Contrary to critical expectations that
+youth are uninterested in politics, nearly three quarters of
+youth engaged in some sort of political activity! But, only
+10% of youth claimed membership in an organization, sug-
+gesting that for the majority of youth, political participation
+is happening outside formal organizations.
+This lack of organizational involvement is not stopping
+political engagement, but it is also not maximizing it.
+According to Figure 13, being a member of an organization
+makes one much more likely to engage in all four types of
+action (all p<.001). Of youth who are members of an organi-
+zation, over 80% engage in institutional activity, as opposed
+to less than 50% of non-members. Similar patterns exist for
+social movement, volunteer, and participatory political activ-
+ity, with organizational members roughly twice as likely to
+engage in the activity as non-members.
+This is a key finding because it suggests that although most
+youth are not connected to organizations, or SMOs specifi-
+cally, organizational ties do significantly bolster engagement.
+This suggests that it is possible that if SMOs were better
+engaging youth, youth might be even more active than they
+already are, and they may be active through organizations that
+have proven effective at political socialization and strategic
+action. In other words, arguments that suggest that SMOs
+don't target youth because youth aren't interested in being
+active and because SMO-connections don't influence youth
+engagement are wrong on both accounts.
+Figure 12. Youth Organizational Membership and Youth
+Participation. Figure 13. Percent of Youth Engaging in Activities by
+Organizational Membership.
+Elliott and Earl 11
+Because youth are engaging in some organizations, we were
+interested in the correspondence at the macro level between the
+kinds of organizations youth are involved in and the issues
+areas that did better and worse at reaching out to youth in the
+website-based data. We lack data to assess micro-level prefer-
+ences by youth and the extent to which those preferences are
+satisfied or not. Figure 14 shows the types of organizations in
+which youth reported being members. We took the open-ended
+question about group membership and categorized member-
+ships according to the 20 issue areas used in collecting the web-
+site data. The most common type of organization was the
+catch-all "other" category. Common organizations within this
+category included animal welfare organizations, as well as
+party-affiliated (Republican and Democratic) groups. In other
+words, organizations aside from SMOs are much more effec-
+tive at connecting with youth, suggesting that SMOs may be
+able to learn from volunteer and party-affiliated organizations
+about how to better connect with youth.
+The top five organizations after the "other" category were
+as follows: LGBTQ, civic, church, education, and right wing.
+Both LGBTQ and right wing organizations are likely SMO-
+related, but only LGBTQ appeared among the top issue areas
+in terms of youth orientation for SMO-run websites. This
+mismatch between the types of organizations youth are com-
+monly members of and the issue areas in which organiza-
+tions are most reaching out to youth may also help to explain
+why so few youth are members of organizations ­ the orga-
+nizations they'd rather be members of are not doing a good
+job of reaching out to youth, while those that are doing a
+good job, youth aren't as frequently involved in.
+Discussion and Conclusion
+Contrary to what some have claimed, a growing body of
+research is showing that youth are quite engaged in political
+and civic life. As past research has found, and the survey
+results reported on here show, youth engage in a variety of
+different actions, including social movement, institutional
+political, volunteer, and participatory political actions.
+However, they are largely pursuing that engagement outside
+of formal organizations, including SMOs, even though orga-
+nizational affiliations increase the likelihood of youth
+engagement. As our results show, 90% of youth were not
+members of a political or social organization yet nearly three
+quarters were engaged in some sort of political or civic activ-
+ity. But, when one is a member or an organization, their like-
+lihood for acting rises sharply.
+Given the historical importance of SMOs to movements,
+and their historically important role in recruitment and
+retention, these findings are surprising and troubling. And
+yet, our investigation of social movement web presences,
+including SMO-run web presences, found that movements
+and SMOs, themselves, are at least partly to blame for this.
+Social movement web presences generally do a poor job of
+providing opportunities for youth to become engaged
+online, or at even more basic level, of positioning youth as
+a relevant or even acknowledged constituency. Less than
+half of SMO-run websites were youth oriented along any of
+the three axis of youth engagement, and when SMO-run
+websites do have a youth focus, they are most likely to be
+produced by adults for youth, instead of by youth for youth,
+which is consistent with the findings in research about
+offline youth engagement in SMOs. Our analyses attempted
+to avoid painting all causes with the same brush to reduce
+the risk of overgeneralization. However, while there were
+some issue areas that did better than others, particularly the
+LGBT, green, and labor movements, none were consis-
+tently inviting youth to participate in advocacy activities.
+Furthermore, most SMO-run websites failed to include
+interactive features that research has shown are effective at
+engaging youth online, and they tend to be more likely to be
+adult-produced even when targeting youth, findings that are
+congruent with difficulties found in offline SMOs' engage-
+ment with youth. Moreover, those issue areas that stood out
+as providing opportunities for youth to engage were not the
+same issue areas that youth themselves tended to be organi-
+zational members in, suggesting a mismatch at the macro
+level between the opportunities that do exist online for
+youth, and the kinds of opportunities youth are actually
+looking for. Overall, our findings show that youth are inter-
+ested in being politically active, but are not being provided
+ample opportunities to engage through SMOs online.
+Instead, movements and SMOs are no more inviting to
+youth engagement online than prior research has found
+them to be offline. Given that we are studying web pres-
+ences that (1) are controlled by SMOs and so represent their
+own strategic self-representations and (2) occur across plat-
+forms, ranging from traditional websites to publicly acces-
+sible social media presences, this lack of youth connection
+is particularly troubling because these should be the lowest
+hanging fruits for SMOs eager to engage youth online.
+Figure 14. Distribution of Movement Organizational
+Membership for Youth Organizational Members.
+12 Social Media + Society
+In examining these issues, we have addressed one of the
+most important questions about youth and political engage-
+ment offline in an online context, asking how SMO versus
+non-SMO run web presences frame youth as constituencies,
+collaborators, and/or participants. We find that the same
+problems that have dogged youth engagement in offline
+SMOs seem to be present online too, which can lead one to
+believe that the online problems we show are simply an
+extension of offline dynamics.
+While this may be, we want to acknowledge the possibil-
+ity that patterns we observed may be accelerated by trends in
+digital activism more generally. In other words, it is possible
+that causes of our findings owe to both general tendencies
+among movements that are reflected in both offline and
+online activities, but are also exaggerated by digital dynam-
+ics. Recent research suggests that formal organizations may
+not be necessary to organize activity online (Bimber,
+Flanagin, & Stohl, 2005; Earl, 2015; Earl & Kimport, 2011;
+Earl & Schussman, 2003). Online activity can be more spon-
+taneous, and can require far fewer resources to plan, orga-
+nize, and implement (Bimber et al., 2005). For instance, for
+certain types of advocacy, opportunities to participate (e.g.,
+online petitions, distributed denial of service campaigns) can
+be supplied through the efforts of only one or a few individu-
+als online and without a formal organization (Earl & Kimport,
+2011; Garrett, 2006; Shirky, 2008). This activity also usually
+has far lower barriers to participation than its offline counter-
+part (Bennett & Fielding, 1999), so that organizations do not
+need to incentivize participation as they often need to do for
+offline advocacy (Bimber et al., 2005; Klandermans, 1984).
+The Internet provides communication tools that make
+messaging and organizing groups of people orders of magni-
+tude easier than it has been in the past (Garrett, 2006). Using
+social media networks, activists can spread their message
+broadly, potentially sending out a call to action that, through
+the various resharing features available on these sites, could
+quickly spread to reach millions. The energy and expertise
+required to do this is minimal, reducing the resources
+required to mobilize large groups of people.
+If these digital trends are impacting how youth engage,
+and SMOs and movements more generally are failing to try to
+connect with youth online, a generation of young people may
+grow up with far more attenuated relationships to SMOs than
+has been true in the past. This could have a number of poten-
+tially critical implications for social movements. First and
+foremost, this lack of youth engagement with SMOs risks a
+generation or more of youth not being politically socialized
+into collective action through formal organizations and thus
+less concerned about the health and vitality about SMOs. It is
+too early to tell whether this will affect the frequency or per-
+sistence of activism across the lifecourse, but it certainly
+might. Organizations can provide stability and community
+that encourages future activism. If youth engage in activism
+without formal organizations, their participation may not per-
+sist into adulthood the way previous generations of activists
+have. Second, the future of SMOs themselves is imperiled if
+they are unable to replace their ranks and attract supporters
+over time. At a minimum, continued disengagement from
+SMOs across the lifecourse could further separate an already
+professionalized activist cadre from grassroots activists (Earl,
+2013). But, at its most severe, if SMOs are unable to recruit
+youth into their membership, they may be unable to continue
+to be viable. Without healthy SMOs, a movement may be
+unable to survive rough times, leading to a precipitous decline
+in the movement sector.
+Acknowledgements
+The authors would like to thank the anonymous reviewers and the
+Editor for their comments and suggestions.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+Funding
+The author(s) disclosed receipt of the following financial support
+for the research, authorship, and/or publication of this article: We
+would like to thank the National Science Foundation (Award SES-
+0547990) and the John D. and Catherine T. MacArthur Foundation
+(through a sub-award from the Youth and Participatory Politics
+MacArthur Research Network) for critical funding that supported
+this research.
+Notes
+1. Of course, individual SMOs will vary in how much they
+engage in each of these activities, and how well they are at
+engaging in these activities. However, all SMOs, at least to
+some extent, will be involved in recruitment processes, as that
+is a core function of any organization.
+2. References to fetuses, which were common among abortion
+related websites, were not coded as about youth.
+3. We calculate t-tests for all differences between SMO-run and
+non-SMO sites, but only report on significant differences.
+Since our sample is a random sample, representative of all
+advocacy oriented, reachable websites, a t-test for difference
+of proportions is appropriate here.
+4. A fourth category included content produced by youth on a
+website that is oriented toward adults, but this occurs so rarely
+that we drop this category from our analyses.
+5. Cohen, et al. (2012) used 11 items from the survey to construct
+their measure of participatory politics. However, they did not
+construct a measure of social movement participation. We
+used five of the items Cohen, et al., used in their participatory
+politics measure to construct our social movement participa-
+tion measure. Thus, our statistics on participation in participa-
+tory politics differ from those presented in Cohen et al. (2012).
+References
+Bachen, C., Raphael, C., Lynn, K.-M., McKee, K., & Philippi, J.
+(2008). Civic engagement, pedagogy, and information tech-
+nology on web sites for youth. Political Communication, 25,
+290­310.
+Elliott and Earl 13
+Bennett, D., & Fielding, P. (1999). The net effect. Merrifield, VA:
+e-advocates Press.
+Bimber, B., Flanagin, A. J., & Stohl, C. (2005). Reconceptualizing
+collective action in the contemporary media environment.
+Communication Theory, 15, 365­388.
+Brunsting, S., & Postmes, T. (2002). Social movement participa-
+tion in the digital age: Predicting offline and online collective
+action. Small Group Research, 33, 525­554.
+Clemens, E. S., & Minkoff, D. C. (2004). Beyond the iron law:
+Rethinking the place of organizations in social movement
+research. In D. A Snow, S. Soule, & H. Kriesi (Eds.), The
+Blackwell companion to social movements (pp. 155­170).
+Malden, MA: Blackwell Publishing.
+Cohen, C. J., Kahne, J., Bowyer, B., Middaugh, E., & Rogowski, J.
+(2012). Participatory politics: New media and youth political
+action. Chicago, IL: MacArthur.
+Conner, J. O. (2011). Youth organizers as young adults: Their
+commitments and contributions. Journal of Research on
+Adolescence, 21, 923­942.
+Cress, D. M., & Snow, D. A. (1996). Mobilization at the margins:
+Resources, benefactors, and the viability of homeless social
+movement organizations. American Sociological Review, 61,
+1089­1109.
+Delgado, M., & Staples, L. (2007). Youth-led community orga-
+nizing: Theory and action. Oxford, UK: Oxford University
+Press.
+Earl, J. (2013). Spreading the word or shaping the conversa-
+tion: "Prosumption" in protest websites. Research in Social
+Movements, Conflict, and Change, 36, 3­38.
+Earl, J. (2015). The future of social movement organizations: The
+waning dominance of SMOs online. American Behavioral
+Scientist, 59, 35­52.
+Earl, J., & Kimport, K. (2011). Digitally enabled social change:
+Activism in the internet age. Cambridge: The MIT Press.
+Earl, J., Kimport, K., Prieto, G., Rush, C., & Reynoso, K. (2010).
+Changing the world one webpage at a time: Conceptualizing and
+explaining `internet activism'. Mobilization, 15(4), 425­446.
+Earl J., Maher T.V., Elliott T. (2017). Youth, activism, and social
+movements. Sociology Compass, 11, e12465.
+Earl, J., & Schussman, A. (2003). The new site of activism: On-line
+organizations, movement entrepreneurs, and the changing loca-
+tion of social movement decision-making. Research in Social
+Movements, Conflicts and Change, 24, 155­187.
+Elliott, T., & Earl, J. (forthcoming). Kids these days: Supply and
+demand for youth online political engagement. In M. X. Delli
+Carpini (Eds.), Digital media and the future(s) of democ-
+racy series. Philadelphia, PA: Annenberg, University of
+Pennsylvania.
+Gamson, W. A., & Wolfsfeld, G. (1993). Movements and media
+as interacting systems. Annals of the American Academy of
+Political and Social Science, 528, 114­125.
+Garrett, R. K. (2006). Protest in an information society: A review
+of literature on social movements and new ICTs. Information,
+Communication & Society, 9, 202­224.
+Ghaziani, A. (2011). Post-gay collective identity construction.
+Social Problems, 58, 99­125.
+Gordon, H. R. (2007). Allies within and without how adoles-
+cent activists conceptualize ageism and navigate adult
+power in youth social movements. Journal of Contemporary
+Ethnography, 36, 631­668.
+Gould, R. V. (1991). Multiple networks and mobilization in the Paris
+commune, 1871. American Sociological Review, 56, 716­729.
+Hirsch, E. L. (1990). Sacrifice for the cause: Group processes,
+recruitment, and commitment in a student social movement.
+American Sociological Review, 55, 243­254.
+Hope, A. (2005). Panopticism, play and the resistance of surveil-
+lance: Case studies of the observation of student Internet use
+in UK schools. British Journal of Sociology of Education, 26,
+359­373.
+Hunt, T. A. (2017). A network of one's own. Young, 25, 107­123.
+Ito, M., Baumer, S., Bittanti, M., boyd, d., Cody, R., Stephenson,
+B. H., & Tripp, L. (2009). Hanging out, messing around,
+and geeking out: Kids living and learning with new media.
+Cambridge: The MIT press.
+Jenkins, J. C., & Eckert, C. M. (1986). Channeling black insur-
+gency: Elite patronage and professional social movement orga-
+nizations in the development of the black movement. American
+Sociological Review, 51, 812­829.
+Kahne, J., Middaugh, E., & Allen, D. (2014, March). Youth, new
+media, and the rise of participatory politics (YPP Research
+Network Working Paper no. 1). Oakland, CA: Youth and
+Participatory Politics Research Network.
+Karpf, D. (2012). The moveon effect: The unexpected transforma-
+tion of American political advocacy. New York, NY: Oxford
+University Press.
+Khalil, J. F. (2012). Youth-generated media: A case of blogging
+and Arab youth cultural politics. Television New Media, 14,
+338­350.
+Kirshner, B. (2008). Guided participation in three youth activist
+organizations: Facilitation, apprenticeship, and joint work.
+Journal of Learning Sciences, 17, 60­101.
+Klandermans, B. (1984). Mobilization and participation: Social-
+psychological expansions of resource mobilization theory.
+American Sociological Review, 49, 583­600.
+Klandermans, B. (2004). The demand and supply of participa-
+tion: Social-psychological correlates of participation in social
+movements. In D. A. Snow, S. A. Soule, & H. Kriesi (Eds.),
+The Blackwell companion to social movements (pp. 360­379).
+Malden, MA: Blackwell Publishing.
+Klandermans, B., & Oegema, D. (1987). Potentials, networks,
+motivations, and barriers: Steps towards participation in
+social movements. American Sociological Review, 52, 519­
+531.
+McAdam, D. (1988). Freedom Summer. New York, NY: Oxford
+University Press.
+McCarthy, J. D., & Zald, M. N. (1977). Resource mobilization
+and social movements: A partial theory. American Journal of
+Sociology, 82, 1212­1241.
+Meyer, D. S., & Minkoff, D. C. (2004). Conceptualizing political
+opportunity. Social Forces, 82, 1457­1492.
+Meyer, D. S., & Tarrow, S. G. (1998). The social movement society:
+Contentious politics for a new century. Lanham, MD: Rowman
+& Littlefield.
+Miceli, M. (2005). Standing out, standing together: The social and
+political impact of gay-straight alliances. New York, NY:
+Routledge.
+14 Social Media + Society
+Montgomery, K. (2001). Teensites.com: A field guide to the new
+digital landscape. Retrieved from https://www.issuelab.org/
+resource/teensites-com-a-field-guide-to-the-new-digital-land-
+scape.html
+Montgomery, K., Gottlieb-Robles, B., & Larson, G. O.
+(2004). Youth as e-citizens: Engaging the digital gen-
+eration. Retrieved from https://civicyouth.org/PopUps/
+YouthasECitizens.pdf
+Nichols, W. J. (2013). The DREAMers: How the undocumented
+youth movement transformed the immigrant rights debate.
+Stanford, CA: Stanford University Press.
+O'Donoghue, J. L., & Strobel, K. R. (2007). Directivity and free-
+dom adult support of activism among Urban youth. American
+Behavioral Scientist, 51, 465­485.
+Palfrey, J., & Gasser, U. (2013). Born digital: Understanding the
+first generation of digital natives. New York, NY: Basic Books.
+Polletta, F., & Jasper, J. M. (2001). Collective identity and social
+movements. Annual Review of Sociology, 27, 283­305.
+Putnam, R. (2000). Bowling alone: The collapse and revival of
+American community. New York, NY: Touchstone.
+Schussman, A., & Soule, S. A. (2005). Process and protest:
+Accounting for individual protest participation. Social Forces,
+84, 1083­1108.
+Shirky, C. (2008). Here comes everybody: The power of organizing
+without organizations. New York, NY: Penguin Press.
+Snow, D. A., Rochford, E. B., Jr. Worden, S. K., & Benford, R.
+D. (1986). Frame alignment processes, micromobilization, and
+movement participation. American Sociological Review, 51,
+464­481.
+Taft, J. K. (2014). "Adults talk too much": Intergenerational dia-
+logue and power in the Peruvian movement of working chil-
+dren. Childhood, 22, 460­473.
+Taft, J. K., & Gordon, H. R. (2013). Youth activists, youth councils,
+and constrained democracy. Education, Citizenship, and Social
+Justice, 8, 87­100.
+Taylor, E. (2013). Surveillance Schools: Security, discipline and
+control in contemporary education. Hampshire, UK: Palgrave
+MacMillan.
+Taylor, V. (1989). Social movement continuity: The women's
+movement in abeyance. American Sociological Review, 54,
+761­775.
+Terriquez, V. (2015). Intersectional mobilization, social movement
+spillover, and queer youth leadership in the immigrant rights
+movement. Social Problems, 62, 343­362.
+Tindall, D. B. (2004). Social movement participation over time:
+An ego-network approach to micro-mobilization. Sociological
+Focus, 37, 163­184.
+van Laer, J., & van Aelst, P. (2010). Internet and social movement
+action repertoires: Opportunities and limitations. Information,
+Communication, & Society, 13:, 1146­1171.
+Whittier, N. (1997). Political generations, micro-cohorts, and the
+transformation of social movements. American Sociological
+Review, 62, 760­778.
+Whittier, N. (2017). Identity politics, consciousness-raising, and vis-
+ibility politics. In H. J. McCammon, V. Taylor, J. Reger, & R. L.
+Einwohner (Eds.), The oxford handbook of U.S. women's social
+movement activism. New York, NY: Oxford University Press.
+Yates, M., & Youniss, J. (1999). Roots of civic identity. Cambridge,
+UK: Cambridge University Press.
+Youniss, J., Bales, S., Christmas Best, V., Diversi, M., McLaughlin, M.,
+& Silbereisen, R. (2002). Youth civic engagement in the twenty-
+first century. Journal of Research on Adolescence, 12, 121­148.
+Author Biographies
+Thomas Elliott is a data scientist at GitHub. He has a PhD in sociol-
+ogy from the University of California, Irvine, where he studied the
+cultural consequences of social movements, with a specific empha-
+sis on US news media coverage of the lesbian, gay, bisexual, and
+transgender movement.
+Jennifer Earl is a professor of Sociology and Government and Public
+Policy at the University of Arizona, where she studies social move-
+ments, information technologies, and the sociology of law. She is
+also a Tucson Public Voices Fellow and is the co-author of Digitally
+Enabled Social Change with MIT Press.

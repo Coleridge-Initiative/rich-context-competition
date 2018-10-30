@@ -376,14 +376,6 @@
         "text_file_name": "3025.txt"
     },
     {
-        "publication_id": 3048,
-        "unique_identifier": "10.1001/jama.280.10.893",
-        "title": "Has the California Tobacco Control Program reduced smoking?",
-        "pub_date": "1998-01-01",
-        "pdf_file_name": "3048.pdf",
-        "text_file_name": "3048.txt"
-    },
-    {
         "publication_id": 3074,
         "unique_identifier": "10.1001/jama.279.21.1709",
         "title": "Relationship between Cancer Patients' Predictions of Prognosis and their Treatment Preferences",
@@ -398,6 +390,14 @@
         "pub_date": "2003-01-01",
         "pdf_file_name": "3118.pdf",
         "text_file_name": "3118.txt"
+    },
+    {
+        "publication_id": 3152,
+        "unique_identifier": "10.1177/2056305117750722",
+        "title": "Organizing the next generation: Youth engagement with activism inside and outside of organizations",
+        "pub_date": "2018-01-01",
+        "pdf_file_name": "3152.pdf",
+        "text_file_name": "3152.txt"
     },
     {
         "publication_id": 3163,
