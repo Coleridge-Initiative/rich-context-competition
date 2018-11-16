@@ -25,6 +25,13 @@ class CitationCodingEvaluation( object ):
     JSON_NAME_SCORE = "score"
     JSON_NAME_DATA_SET_MAP = "data_set_map"
 
+    # list types
+    LIST_TYPE_BASELINE = "baseline"
+    LIST_TYPE_DERIVED_RAW = "derived_raw"
+    LIST_TYPE_DERIVED_BINARY = "derived_binary"
+    LIST_TYPE_PUBLICATION_ID = "publication_id"
+    LIST_TYPE_DATA_SET_ID = "data_set_id"
+
 
     #============================================================================
     # ! ==> Built-in Instance methods
@@ -36,11 +43,16 @@ class CitationCodingEvaluation( object ):
         # initialize variables
         self.debug_flag = False
         self.m_citation_map = {}
+        self.m_lists_by_publication = {}
+        self.m_cutoff = 0.0
+
+        # built lists, per citation (article-data set pair)
         self.m_baseline_list = []
         self.m_derived_binary_list = []
         self.m_derived_raw_list = []
-        self.m_cutoff = 0.0
-        
+        self.m_publication_id_list = []
+        self.m_data_set_id_list = []
+
     #-- END method __init__() --#
 
 
@@ -60,6 +72,133 @@ class CitationCodingEvaluation( object ):
     #============================================================================
     # instance methods
     #============================================================================
+
+
+    def create_evaluation_lists(self):
+
+        # return reference
+        status_OUT = None
+
+        # declare variables
+        citation_map = None
+        baseline_list = None
+        derived_binary_list = None
+        derived_raw_list = None
+        publication_id_per_citation_list = None
+        data_set_id_per_citation_list = None
+        cutoff_value = None
+        publication_id_list = None
+        publication_id = None
+        publication_dict = None
+        data_set_map = None
+        data_set_id_list = None
+        data_set_id = None
+        data_set_found_map = None
+        baseline_score = -1
+        derived_score = -1
+
+        # per-publication lists
+        pub_list_dictionary = None
+        pub_baseline_list = None
+        pub_derived_binary_list = None
+        pub_derived_raw_list = None
+        pub_publication_id_per_citation_list = None
+        pub_data_set_id_per_citation_list = None
+
+        # get citation_map
+        citation_map = self.get_citation_map()
+
+        # init lists
+        baseline_list = self.set_baseline_list( [] )
+        derived_binary_list = self.set_derived_binary_list( [] )
+        derived_raw_list = self.set_derived_raw_list( [] )
+        publication_id_per_citation_list = self.set_publication_id_list( [] )
+        data_set_id_per_citation_list = self.set_data_set_id_list( [] )
+
+        # cutoffs
+        cutoff_value = self.get_cutoff()
+
+        # so we can get publication ID list
+        publication_id_list = list( six.viewkeys( citation_map ) )
+        publication_id_list.sort()
+
+        # loop over publications, and then data sets within.
+        for publication_id in publication_id_list:
+
+            # get lists for publication
+            pub_list_dictionary = self.get_lists_for_publication( publication_id )
+            pub_baseline_list = pub_list_dictionary.get( self.LIST_TYPE_BASELINE, None )
+            pub_derived_binary_list = pub_list_dictionary.get( self.LIST_TYPE_DERIVED_BINARY, None )
+            pub_derived_raw_list = pub_list_dictionary.get( self.LIST_TYPE_DERIVED_RAW, None )
+            pub_publication_id_per_citation_list = pub_list_dictionary.get( self.LIST_TYPE_PUBLICATION_ID, None )
+            pub_data_set_id_per_citation_list = pub_list_dictionary.get( self.LIST_TYPE_DATA_SET_ID, None )
+
+            # DEBUG
+            if ( self.debug_flag == True ):
+                print( "Publication ID: {}".format( publication_id ) )
+            # -- END DEBUG --#
+
+            # get publication map
+            publication_dict = citation_map.get( publication_id, None )
+
+            # get the data set map and ID list.
+            data_set_map = publication_dict.get( self.JSON_NAME_DATA_SET_MAP, None )
+            data_set_id_list = list( six.viewkeys( data_set_map ) )
+            data_set_id_list.sort()
+
+            # loop over data set ID list.
+            for data_set_id in data_set_id_list:
+
+                # DEBUG
+                if ( self.debug_flag == True ):
+                    print( "==> Data Set ID: {}".format( data_set_id ) )
+                # -- END DEBUG --#
+
+                # get the data_set_found_map
+                data_set_found_map = data_set_map.get( data_set_id, None )
+
+                # get the scores.
+                baseline_score = data_set_found_map.get( self.RESULT_TYPE_BASELINE, 0.0 )
+                derived_score = data_set_found_map.get( self.RESULT_TYPE_DERIVED, 0.0 )
+
+                # DEBUG
+                if ( self.debug_flag == True ):
+                    print( "            baseline: {}".format( baseline_score ) )
+                    print( "            derived.: {}".format( derived_score ) )
+                # -- END DEBUG --#
+
+                # add them to the lists
+
+                # baseline lists
+                baseline_list.append( baseline_score )
+                pub_baseline_list.append( baseline_score )
+
+                # derived_raw lists
+                derived_raw_list.append( derived_score )
+                pub_derived_raw_list.append( derived_score )
+
+                # derived_binary lists
+                if derived_score > cutoff_value:
+                    derived_binary_list.append( 1.0 )
+                    pub_derived_binary_list.append( 1.0 )
+                else:
+                    derived_binary_list.append( 0.0 )
+                    pub_derived_binary_list.append( 1.0 )
+                # -- END binary value assignment --#
+
+                # add the publication and data set IDs to the per-citation lists.
+                publication_id_per_citation_list.append( publication_id )
+                pub_publication_id_per_citation_list.append( publication_id )
+                data_set_id_per_citation_list.append( data_set_id )
+                pub_data_set_id_per_citation_list.append( data_set_id )
+
+            # -- END loop over data set IDs. --#
+
+        # -- END loop over publication IDs. --#
+
+        return status_OUT
+
+    # -- END method create_evaluation_lists() --#
 
 
     def get_baseline_list( self ):
@@ -135,6 +274,36 @@ class CitationCodingEvaluation( object ):
     #-- END method get_cutoff --#
 
 
+    def get_data_set_id_list( self ):
+
+        # return reference
+        value_OUT = None
+
+        # declare variables
+        instance = None
+
+        # get instance
+        value_OUT = self.m_data_set_id_list
+
+        # got anything?
+        if (value_OUT is None):
+
+            # make list instance.
+            instance = []
+
+            # store the instance.
+            self.set_data_set_id_list( instance )
+
+            # get the instance.
+            value_OUT = self.get_data_set_id_list()
+
+        # -- END check to see if instance initialized. --#
+
+        return value_OUT
+
+    # -- END method get_data_set_id_list --#
+
+
     def get_derived_binary_list( self ):
     
         # return reference
@@ -195,97 +364,117 @@ class CitationCodingEvaluation( object ):
     #-- END method get_derived_raw_list --#
 
 
-    def create_evaluation_lists( self ):
-        
+    def get_lists_by_publication(self):
+
         # return reference
-        status_OUT = None
-        
+        value_OUT = None
+
         # declare variables
-        citation_map = None
-        baseline_list = None
-        derived_binary_list = None
-        derived_raw_list = None
-        cutoff_value = None
-        publication_id_list = None
-        publication_id = None
-        publication_dict = None
-        data_set_map = None
-        data_set_id_list = None
-        data_set_id = None
-        data_set_found_map = None
-        baseline_score = -1
-        derived_score = -1
-        
-        # get citation_map
-        citation_map = self.get_citation_map()
-        
-        # init lists
-        baseline_list = self.set_baseline_list( [] )
-        derived_binary_list = self.set_derived_binary_list( [] )
-        derived_raw_list = self.set_derived_raw_list( [] )
-        
-        # cutoffs
-        cutoff_value = self.get_cutoff()
-        
-        # so we can get publication ID list
-        publication_id_list = list( six.viewkeys( citation_map ) )
-        publication_id_list.sort()
+        instance = None
 
-        # loop over publications, and then data sets within.
-        for publication_id in publication_id_list:
+        # get instance
+        value_OUT = self.m_lists_by_publication
 
-            # DEBUG
-            if ( self.debug_flag == True ):
-                print( "Publication ID: {}".format( publication_id ) )
-            #-- END DEBUG --#
+        # got anything?
+        if (value_OUT is None):
 
-            # get publication map
-            publication_dict = citation_map.get( publication_id, None )
+            # make instance.
+            instance = {}
 
-            # get the data set map and ID list.
-            data_set_map = publication_dict.get( self.JSON_NAME_DATA_SET_MAP, None )
-            data_set_id_list = list( six.viewkeys( data_set_map ) )
-            data_set_id_list.sort()
+            # store the instance.
+            self.set_lists_by_publication( instance )
 
-            # loop over data set ID list.
-            for data_set_id in data_set_id_list:
+            # get the instance.
+            value_OUT = self.get_lists_by_publication()
 
-                # DEBUG
-                if ( self.debug_flag == True ):
-                    print( "==> Data Set ID: {}".format( data_set_id ) )
-                #-- END DEBUG --#
+        # -- END check to see if instance initialized. --#
 
-                # get the data_set_found_map
-                data_set_found_map = data_set_map.get( data_set_id, None )
+        return value_OUT
 
-                # get the scores.
-                baseline_score = data_set_found_map.get( self.RESULT_TYPE_BASELINE, 0.0 )
-                derived_score = data_set_found_map.get( self.RESULT_TYPE_DERIVED, 0.0 )
+    # -- END method get_lists_by_publication --#
 
-                # DEBUG
-                if ( self.debug_flag == True ):
-                    print( "            baseline: {}".format( baseline_score ) )
-                    print( "            derived.: {}".format( derived_score ) )
-                #-- END DEBUG --#
 
-                # add them to the lists
-                baseline_list.append( baseline_score )
-                derived_raw_list.append( derived_score )
-                if derived_score > cutoff_value:
-                    derived_binary_list.append( 1.0 )
-                else:
-                    derived_binary_list.append( 0.0 )
-                #-- END binary value assignment --#
+    def get_lists_for_publication( self, publication_id_IN ):
 
-            #-- END loop over data set IDs. --#
+        # return reference
+        value_OUT = None
 
-        #-- END loop over publication IDs. --#
-        
-        return status_OUT
-        
-    #-- END method create_evaluation_lists() --#
+        # declare variables
+        pub_lists = None
+        instance = None
 
-    
+        # do we have a publication ID?
+        if ( ( publication_id_IN is not None ) and ( publication_id_IN != "" ) ):
+
+            # get lists for publications
+            pub_lists = self.get_lists_by_publication()
+
+            # see if publication already has lists.
+            if ( publication_id_IN not in pub_lists ):
+
+                # not yet.  Make a dictionary...
+                pub_list_dict = {}
+
+                # ...add empty lists for each of the 4 types...
+                pub_list_dict[ self.LIST_TYPE_BASELINE ] = []
+                pub_list_dict[ self.LIST_TYPE_DERIVED_RAW ] = []
+                pub_list_dict[ self.LIST_TYPE_DERIVED_BINARY ] = []
+                pub_list_dict[ self.LIST_TYPE_PUBLICATION_ID ] = []
+                pub_list_dict[ self.LIST_TYPE_DATA_SET_ID ] = []
+
+                # ...store it in pub lists...
+                pub_lists[ publication_id_IN ] = pub_list_dict
+
+                # retrieve lists dictionary for publication ID.
+                value_OUT = self.get_lists_for_publication( publication_id_IN )
+
+            else:
+
+                value_OUT = pub_lists.get( publication_id_IN, None )
+
+            #-- END check to see if publication ID in pub lists map. --#
+
+        else:
+
+            print( "No publication ID passed in, so can't retrieve lists." )
+
+        #-- END check to see if publication ID --#
+
+        return value_OUT
+
+    # -- END method get_lists_for_publication --#
+
+
+    def get_publication_id_list( self ):
+
+        # return reference
+        value_OUT = None
+
+        # declare variables
+        instance = None
+
+        # get instance
+        value_OUT = self.m_publication_id_list
+
+        # got anything?
+        if (value_OUT is None):
+
+            # make list instance.
+            instance = []
+
+            # store the instance.
+            self.set_publication_id_list( instance )
+
+            # get the instance.
+            value_OUT = self.get_publication_id_list()
+
+        # -- END check to see if instance initialized. --#
+
+        return value_OUT
+
+    # -- END method get_publication_id_list --#
+
+
     def process_citation_json( self, citation_list_json_IN, result_type_IN ):
 
         # return reference
@@ -452,7 +641,7 @@ class CitationCodingEvaluation( object ):
         # return reference
         value_OUT = None
         
-        # use store dictionary.
+        # store value.
         self.m_cutoff = value_IN
         
         # return it.
@@ -461,6 +650,26 @@ class CitationCodingEvaluation( object ):
         return value_OUT
         
     #-- END method set_cutoff() --#
+
+
+    def set_data_set_id_list(self, instance_IN):
+
+        '''
+        Accepts list.  Stores it and returns it.
+        '''
+
+        # return reference
+        value_OUT = None
+
+        # store value.
+        self.m_data_set_id_list = instance_IN
+
+        # return it.
+        value_OUT = self.m_data_set_id_list
+
+        return value_OUT
+
+    # -- END method set_data_set_id_list() --#
 
 
     def set_derived_binary_list( self, instance_IN ):
@@ -501,6 +710,46 @@ class CitationCodingEvaluation( object ):
         return value_OUT
         
     #-- END method set_derived_raw_list() --#
+
+
+    def set_lists_by_publication(self, instance_IN):
+
+        '''
+        Accepts dictionary.  Stores it and returns it.
+        '''
+
+        # return reference
+        value_OUT = None
+
+        # store dictionary.
+        self.m_lists_by_publication = instance_IN
+
+        # return it.
+        value_OUT = self.m_lists_by_publication
+
+        return value_OUT
+
+    # -- END method set_lists_by_publication() --#
+
+
+    def set_publication_id_list(self, instance_IN):
+
+        '''
+        Accepts list.  Stores it and returns it.
+        '''
+
+        # return reference
+        value_OUT = None
+
+        # use store dictionary.
+        self.m_publication_id_list = instance_IN
+
+        # return it.
+        value_OUT = self.m_publication_id_list
+
+        return value_OUT
+
+    # -- END method set_publication_id_list() --#
 
 
 #-- END class CitationCodingEvaluation --#
