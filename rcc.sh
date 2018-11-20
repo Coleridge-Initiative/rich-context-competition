@@ -500,6 +500,7 @@ function run()
     local image_name_IN=${3:=${DOCKER_IMAGE_NAME_IN}}
     local container_name_IN=${4:=${DOCKER_CONTAINER_NAME_IN}}
     local script_to_run_IN=${5:-}
+    local docker_custom_options_IN=${6:=${DOCKER_CUSTOM_RUN_OPTIONS_IN}}
     
     # declare variables
     local project_folder_path=
@@ -528,7 +529,7 @@ function run()
     fi
 
     # remove JSON files from output.
-    docker run -v `pwd`:/run_folder -v ${project_folder_path}:/project -v ${data_folder_path}:/data --name ${container_name_IN} ${image_name_IN} ${script_to_run_IN}
+    docker run ${docker_custom_options_IN} -v `pwd`:/run_folder -v ${project_folder_path}:/project -v ${data_folder_path}:/data --name ${container_name_IN} ${image_name_IN} ${script_to_run_IN}
     
 } #-- END function run() --#
 
@@ -542,6 +543,7 @@ function run_interactive()
     local data_folder_path_IN=${2:=${DATA_FOLDER_PATH_IN}}
     local image_name_IN=${3:=${DOCKER_IMAGE_NAME_IN}}
     local container_name_IN=${4:=${DOCKER_CONTAINER_NAME_IN}}
+    local docker_custom_options_IN=${5:=${DOCKER_CUSTOM_RUN_OPTIONS_IN}}
     
     # declare variables
     local project_folder_path=
@@ -570,7 +572,7 @@ function run_interactive()
     fi
 
     # run in interactive mode ("-it").
-    docker run -it -v `pwd`:/run_folder -v ${project_folder_path}:/project -v ${data_folder_path}:/data --name ${container_name_IN} ${image_name_IN}
+    docker run ${docker_custom_options_IN} -it -v `pwd`:/run_folder -v ${project_folder_path}:/project -v ${data_folder_path}:/data --name ${container_name_IN} ${image_name_IN}
     
 } #-- END function run_interactive() --#
 
@@ -675,7 +677,7 @@ then
         ;;
         "evaluate")
             echo "EVALUATE!!!"
-            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/rich-context-competition/evaluate/evaluate.sh"
+            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/rich-context-competition/evaluate/evaluate.sh" "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
             ./rcc.sh stop
         ;;
         "init")
@@ -708,15 +710,15 @@ then
         ;;
         "run")
             echo "RUN!!!"
-            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/project/code.sh"
+            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/project/code.sh" "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
         ;;
         "run-interactive")
             echo "RUN INTERACTIVE!!!"
-            run_interactive "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}"
+            run_interactive "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
         ;;
         "run-stop")
             echo "RUN THEN STOP!!!"
-            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/project/code.sh"
+            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/project/code.sh" "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
             ./rcc.sh stop
         ;;
         "stop")
