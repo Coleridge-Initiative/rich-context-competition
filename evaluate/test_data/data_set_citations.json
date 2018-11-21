@@ -1,0 +1,1306 @@
+[
+    {
+        "publication_id": 143,
+        "data_set_id": 339,
+        "score": 0.9844577382023251,
+        "mention_list": [
+            "midi",
+            "micro database direct investment"
+        ]
+    },
+    {
+        "publication_id": 143,
+        "data_set_id": 330,
+        "score": 0.9879344124307189,
+        "mention_list": [
+            "phf"
+        ]
+    },
+    {
+        "publication_id": 153,
+        "data_set_id": 339,
+        "score": 0.9698721494689535,
+        "mention_list": [
+            "midi",
+            "fdi data"
+        ]
+    },
+    {
+        "publication_id": 153,
+        "data_set_id": 364,
+        "score": 0.7703930763708379,
+        "mention_list": [
+            "research data and service centre (rdsc) of the deutsche bundesbank, microdatabase direct investment"
+        ]
+    },
+    {
+        "publication_id": 163,
+        "data_set_id": 339,
+        "score": 0.8810685406761573,
+        "mention_list": [
+            "international capital links",
+            "midi"
+        ]
+    },
+    {
+        "publication_id": 189,
+        "data_set_id": 136,
+        "score": 0.9112900244969752,
+        "mention_list": [
+            "national health interview survey",
+            "nhis"
+        ]
+    },
+    {
+        "publication_id": 192,
+        "data_set_id": 671,
+        "score": 0.9546047877068234,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 192,
+        "data_set_id": 441,
+        "score": 0.8428562400842918,
+        "mention_list": [
+            "active"
+        ]
+    },
+    {
+        "publication_id": 192,
+        "data_set_id": 40,
+        "score": 0.8097022806910348,
+        "mention_list": [
+            "cps"
+        ]
+    },
+    {
+        "publication_id": 192,
+        "data_set_id": 377,
+        "score": 0.8680620411994296,
+        "mention_list": [
+            "health and retirement study"
+        ]
+    },
+    {
+        "publication_id": 192,
+        "data_set_id": 399,
+        "score": 0.9684614208412504,
+        "mention_list": [
+            "lsoa"
+        ]
+    },
+    {
+        "publication_id": 192,
+        "data_set_id": 136,
+        "score": 0.8462101474290428,
+        "mention_list": [
+            "nhis"
+        ]
+    },
+    {
+        "publication_id": 192,
+        "data_set_id": 378,
+        "score": 0.9774394810585039,
+        "mention_list": [
+            "national long term care survey"
+        ]
+    },
+    {
+        "publication_id": 192,
+        "data_set_id": 433,
+        "score": 0.7912548869359903,
+        "mention_list": [
+            "dawn"
+        ]
+    },
+    {
+        "publication_id": 192,
+        "data_set_id": 789,
+        "score": 0.8185938016924997,
+        "mention_list": [
+            "eurobarometer survey"
+        ]
+    },
+    {
+        "publication_id": 339,
+        "data_set_id": 260,
+        "score": 0.9953717452383916,
+        "mention_list": [
+            "nhanes",
+            "national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 339,
+        "data_set_id": 136,
+        "score": 0.8591235586215628,
+        "mention_list": [
+            "national health interview survey",
+            "nhis"
+        ]
+    },
+    {
+        "publication_id": 339,
+        "data_set_id": 261,
+        "score": 0.6796810101843305,
+        "mention_list": [
+            "national health and nutrition examination survey (nhanes)"
+        ]
+    },
+    {
+        "publication_id": 339,
+        "data_set_id": 382,
+        "score": 0.9406688592319788,
+        "mention_list": [
+            "nhanes data",
+            "third national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 765,
+        "data_set_id": 441,
+        "score": 0.7572554043477653,
+        "mention_list": [
+            "active"
+        ]
+    },
+    {
+        "publication_id": 765,
+        "data_set_id": 378,
+        "score": 0.9254280543213327,
+        "mention_list": [
+            "national long-term care survey",
+            "nltcs"
+        ]
+    },
+    {
+        "publication_id": 765,
+        "data_set_id": 68,
+        "score": 0.6744360881152078,
+        "mention_list": [
+            "survey of income and program participation (sipp)"
+        ]
+    },
+    {
+        "publication_id": 765,
+        "data_set_id": 398,
+        "score": 0.876349206419953,
+        "mention_list": [
+            "acl"
+        ]
+    },
+    {
+        "publication_id": 765,
+        "data_set_id": 671,
+        "score": 0.9513128806919374,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 770,
+        "data_set_id": 429,
+        "score": 0.9176773889219245,
+        "mention_list": [
+            "national survey of families and households",
+            "national survey of families and households (nsfh)",
+            "nsfh"
+        ]
+    },
+    {
+        "publication_id": 770,
+        "data_set_id": 671,
+        "score": 0.9513128806919374,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 793,
+        "data_set_id": 737,
+        "score": 0.8743526133943058,
+        "mention_list": [
+            "robert wood johnson foundation employer health insurance survey"
+        ]
+    },
+    {
+        "publication_id": 876,
+        "data_set_id": 261,
+        "score": 0.6647634548506911,
+        "mention_list": [
+            "national health and nutrition examination survey (nhanes)"
+        ]
+    },
+    {
+        "publication_id": 876,
+        "data_set_id": 260,
+        "score": 0.9920681423701199,
+        "mention_list": [
+            "nhanes",
+            "nhanes i",
+            "national health and nutrition examination survey",
+            "first national health and nutrition examination survey",
+            "health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 876,
+        "data_set_id": 262,
+        "score": 0.8903684753853008,
+        "mention_list": [
+            "nhanes ii",
+            "second national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 876,
+        "data_set_id": 1005,
+        "score": 0.9743319160426956,
+        "mention_list": [
+            "holt"
+        ]
+    },
+    {
+        "publication_id": 991,
+        "data_set_id": 443,
+        "score": 0.9937905720291504,
+        "mention_list": [
+            "study of women's health across the nation",
+            "swan"
+        ]
+    },
+    {
+        "publication_id": 1067,
+        "data_set_id": 872,
+        "score": 0.8852617975905748,
+        "mention_list": [
+            "ecls-k",
+            "ecls-k data",
+            "ecls-k, early childhood longitudinal study-kindergarten class"
+        ]
+    },
+    {
+        "publication_id": 1067,
+        "data_set_id": 382,
+        "score": 0.9209272540911638,
+        "mention_list": [
+            "third national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 1113,
+        "data_set_id": 438,
+        "score": 0.9991984189781721,
+        "mention_list": [
+            "national longitudinal study of adolescent health",
+            "add health",
+            "add health, national longitudinal study of adolescent health"
+        ]
+    },
+    {
+        "publication_id": 1134,
+        "data_set_id": 455,
+        "score": 0.9920908987896561,
+        "mention_list": [
+            "national comorbidity survey",
+            "ncs"
+        ]
+    },
+    {
+        "publication_id": 1145,
+        "data_set_id": 890,
+        "score": 0.8134126111789832,
+        "mention_list": [
+            "national survey of substance abuse treatment services"
+        ]
+    },
+    {
+        "publication_id": 1145,
+        "data_set_id": 671,
+        "score": 0.9560626974235155,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 1150,
+        "data_set_id": 40,
+        "score": 0.6703725279230218,
+        "mention_list": [
+            "current population survey"
+        ]
+    },
+    {
+        "publication_id": 1178,
+        "data_set_id": 382,
+        "score": 0.9208533073121555,
+        "mention_list": [
+            "third national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 1178,
+        "data_set_id": 520,
+        "score": 0.8314014415501026,
+        "mention_list": [
+            "nichd"
+        ]
+    },
+    {
+        "publication_id": 1282,
+        "data_set_id": 100,
+        "score": 0.8836305393557289,
+        "mention_list": [
+            "monitoring the future survey"
+        ]
+    },
+    {
+        "publication_id": 1282,
+        "data_set_id": 54,
+        "score": 0.9955763787286278,
+        "mention_list": [
+            "mtf",
+            "monitoring the future"
+        ]
+    },
+    {
+        "publication_id": 1282,
+        "data_set_id": 58,
+        "score": 0.6847100268219005,
+        "mention_list": [
+            "monitoring the future study"
+        ]
+    },
+    {
+        "publication_id": 1293,
+        "data_set_id": 376,
+        "score": 0.9607572781961999,
+        "mention_list": [
+            "epese",
+            "hispanic epese",
+            "established populations for epidemiologic studies of the elderly"
+        ]
+    },
+    {
+        "publication_id": 1338,
+        "data_set_id": 382,
+        "score": 0.979749531791618,
+        "mention_list": [
+            "third u.s. national health and nutrition examination survey",
+            "nhanes iii",
+            "third national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 1338,
+        "data_set_id": 260,
+        "score": 0.9826387388434065,
+        "mention_list": [
+            "national health and nutrition examination survey",
+            "nhanes"
+        ]
+    },
+    {
+        "publication_id": 1524,
+        "data_set_id": 489,
+        "score": 0.9987865528856084,
+        "mention_list": [
+            "national social life, health, and aging project",
+            "national social life, health, and aging project (nshap)",
+            "nshap"
+        ]
+    },
+    {
+        "publication_id": 1524,
+        "data_set_id": 260,
+        "score": 0.9768225380363275,
+        "mention_list": [
+            "national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 1524,
+        "data_set_id": 382,
+        "score": 0.95710326392528,
+        "mention_list": [
+            "nhanes iii"
+        ]
+    },
+    {
+        "publication_id": 1575,
+        "data_set_id": 491,
+        "score": 0.8601624892671704,
+        "mention_list": [
+            "multiple-cause-of-death"
+        ]
+    },
+    {
+        "publication_id": 1575,
+        "data_set_id": 498,
+        "score": 0.8278536698077398,
+        "mention_list": [
+            "multiple-cause mortality data"
+        ]
+    },
+    {
+        "publication_id": 1665,
+        "data_set_id": 382,
+        "score": 0.9813510485017526,
+        "mention_list": [
+            "nhanes iii",
+            "third national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 1665,
+        "data_set_id": 260,
+        "score": 0.9816706531585182,
+        "mention_list": [
+            "nhanes"
+        ]
+    },
+    {
+        "publication_id": 1776,
+        "data_set_id": 260,
+        "score": 0.9907702083272483,
+        "mention_list": [
+            "nhanes",
+            "national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 1776,
+        "data_set_id": 443,
+        "score": 0.9865743602423152,
+        "mention_list": [
+            "swan"
+        ]
+    },
+    {
+        "publication_id": 1935,
+        "data_set_id": 261,
+        "score": 0.6645695872932205,
+        "mention_list": [
+            "national health and nutrition examination survey (nhanes)"
+        ]
+    },
+    {
+        "publication_id": 1935,
+        "data_set_id": 538,
+        "score": 0.7054437505744573,
+        "mention_list": [
+            "m2"
+        ]
+    },
+    {
+        "publication_id": 1935,
+        "data_set_id": 260,
+        "score": 0.9973825520930619,
+        "mention_list": [
+            "national health and nutrition examination survey",
+            "nhanes"
+        ]
+    },
+    {
+        "publication_id": 1935,
+        "data_set_id": 382,
+        "score": 0.9586023288600949,
+        "mention_list": [
+            "third national health and nutrition examination survey",
+            "nhanes iii"
+        ]
+    },
+    {
+        "publication_id": 1968,
+        "data_set_id": 498,
+        "score": 0.749816647735117,
+        "mention_list": [
+            "multiple-cause mortality data"
+        ]
+    },
+    {
+        "publication_id": 2022,
+        "data_set_id": 260,
+        "score": 0.9941409994170082,
+        "mention_list": [
+            "nhanes",
+            "national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 2119,
+        "data_set_id": 488,
+        "score": 0.994208043661226,
+        "mention_list": [
+            "midlife in the united states",
+            "midus",
+            "midus i"
+        ]
+    },
+    {
+        "publication_id": 2119,
+        "data_set_id": 537,
+        "score": 0.8374370585980521,
+        "mention_list": [
+            "midus ii"
+        ]
+    },
+    {
+        "publication_id": 2119,
+        "data_set_id": 438,
+        "score": 0.9895535804418021,
+        "mention_list": [
+            "add health"
+        ]
+    },
+    {
+        "publication_id": 2119,
+        "data_set_id": 441,
+        "score": 0.6864744936879801,
+        "mention_list": [
+            "active"
+        ]
+    },
+    {
+        "publication_id": 2148,
+        "data_set_id": 260,
+        "score": 0.992759117381777,
+        "mention_list": [
+            "nhanes",
+            "nhanes i"
+        ]
+    },
+    {
+        "publication_id": 2148,
+        "data_set_id": 382,
+        "score": 0.978975198161288,
+        "mention_list": [
+            "nhanes iii",
+            "third national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 2148,
+        "data_set_id": 262,
+        "score": 0.8915740411494756,
+        "mention_list": [
+            "nhanes ii",
+            "second national health and nutrition examination survey"
+        ]
+    },
+    {
+        "publication_id": 2152,
+        "data_set_id": 1018,
+        "score": 0.9211859896642919,
+        "mention_list": [
+            "longitudinal study of generations survey",
+            "longitudinal study of generations project",
+            "lsog"
+        ]
+    },
+    {
+        "publication_id": 2152,
+        "data_set_id": 444,
+        "score": 0.9233311321761853,
+        "mention_list": [
+            "cts"
+        ]
+    },
+    {
+        "publication_id": 2152,
+        "data_set_id": 671,
+        "score": 0.8707850412128643,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 2152,
+        "data_set_id": 1005,
+        "score": 0.9758892714814342,
+        "mention_list": [
+            "holt"
+        ]
+    },
+    {
+        "publication_id": 2241,
+        "data_set_id": 671,
+        "score": 0.9552164431338137,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 2328,
+        "data_set_id": 600,
+        "score": 0.9582929591810293,
+        "mention_list": [
+            "national ambulatory medical care survey"
+        ]
+    },
+    {
+        "publication_id": 2358,
+        "data_set_id": 635,
+        "score": 0.9847835101884064,
+        "mention_list": [
+            "maternal lifestyle study"
+        ]
+    },
+    {
+        "publication_id": 2541,
+        "data_set_id": 1163,
+        "score": 0.9861959705194685,
+        "mention_list": [
+            "hiv-stic",
+            "hiv services and treatment implementation in corrections",
+            "cj-dats"
+        ]
+    },
+    {
+        "publication_id": 2541,
+        "data_set_id": 443,
+        "score": 0.9760333849845363,
+        "mention_list": [
+            "swan"
+        ]
+    },
+    {
+        "publication_id": 2556,
+        "data_set_id": 783,
+        "score": 0.6782870572505739,
+        "mention_list": [
+            "support"
+        ]
+    },
+    {
+        "publication_id": 2556,
+        "data_set_id": 668,
+        "score": 0.9704791043606837,
+        "mention_list": [
+            "family exchanges study"
+        ]
+    },
+    {
+        "publication_id": 2556,
+        "data_set_id": 488,
+        "score": 0.9582270582228674,
+        "mention_list": [
+            "midus"
+        ]
+    },
+    {
+        "publication_id": 2556,
+        "data_set_id": 671,
+        "score": 0.8707850412128643,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 2593,
+        "data_set_id": 489,
+        "score": 0.997560770108927,
+        "mention_list": [
+            "national social life, health, and aging project",
+            "national social life, health, and aging project (nshap)",
+            "nshap"
+        ]
+    },
+    {
+        "publication_id": 2593,
+        "data_set_id": 928,
+        "score": 0.9042748126662967,
+        "mention_list": [
+            "gss"
+        ]
+    },
+    {
+        "publication_id": 2593,
+        "data_set_id": 671,
+        "score": 0.9194805493372862,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 2683,
+        "data_set_id": 671,
+        "score": 0.9950205283653772,
+        "mention_list": [
+            "study on global ageing and adult health",
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 2707,
+        "data_set_id": 713,
+        "score": 0.9743370460256803,
+        "mention_list": [
+            "national congregations study"
+        ]
+    },
+    {
+        "publication_id": 2707,
+        "data_set_id": 928,
+        "score": 0.963194582556487,
+        "mention_list": [
+            "general social survey",
+            "gss"
+        ]
+    },
+    {
+        "publication_id": 2707,
+        "data_set_id": 455,
+        "score": 0.983052818302066,
+        "mention_list": [
+            "ncs"
+        ]
+    },
+    {
+        "publication_id": 2819,
+        "data_set_id": 305,
+        "score": 0.9934729190651774,
+        "mention_list": [
+            "credit register"
+        ]
+    },
+    {
+        "publication_id": 2819,
+        "data_set_id": 320,
+        "score": 0.8696747103021862,
+        "mention_list": [
+            "mimik"
+        ]
+    },
+    {
+        "publication_id": 2820,
+        "data_set_id": 305,
+        "score": 0.9935255614187084,
+        "mention_list": [
+            "credit register"
+        ]
+    },
+    {
+        "publication_id": 2820,
+        "data_set_id": 306,
+        "score": 0.9307473675244972,
+        "mention_list": [
+            "balance sheet data",
+            "monthly balance sheet statistics"
+        ]
+    },
+    {
+        "publication_id": 2820,
+        "data_set_id": 1293,
+        "score": 0.9505907917745948,
+        "mention_list": [
+            "bcs"
+        ]
+    },
+    {
+        "publication_id": 2820,
+        "data_set_id": 320,
+        "score": 0.8115322797660046,
+        "mention_list": [
+            "mimik"
+        ]
+    },
+    {
+        "publication_id": 2850,
+        "data_set_id": 312,
+        "score": 0.9614762647005431,
+        "mention_list": [
+            "corporate balance sheet statistics"
+        ]
+    },
+    {
+        "publication_id": 2896,
+        "data_set_id": 339,
+        "score": 0.7902726003173633,
+        "mention_list": [
+            "midi"
+        ]
+    },
+    {
+        "publication_id": 2906,
+        "data_set_id": 339,
+        "score": 0.7133988002435634,
+        "mention_list": [
+            "fdi data"
+        ]
+    },
+    {
+        "publication_id": 2907,
+        "data_set_id": 339,
+        "score": 0.9851009252282638,
+        "mention_list": [
+            "midi",
+            "micro database direct investment",
+            "microdatabase direct investment"
+        ]
+    },
+    {
+        "publication_id": 2951,
+        "data_set_id": 312,
+        "score": 0.9752102457632137,
+        "mention_list": [
+            "corporate balance sheet statistics"
+        ]
+    },
+    {
+        "publication_id": 3025,
+        "data_set_id": 455,
+        "score": 0.9917882898248237,
+        "mention_list": [
+            "ncs",
+            "national comorbidity survey",
+            "national comorbidity study"
+        ]
+    },
+    {
+        "publication_id": 3025,
+        "data_set_id": 136,
+        "score": 0.7096678465381654,
+        "mention_list": [
+            "national health interview survey"
+        ]
+    },
+    {
+        "publication_id": 3074,
+        "data_set_id": 783,
+        "score": 0.8737738539159139,
+        "mention_list": [
+            "study to understand prognoses and preferences for outcomes and risks of treatments (support)",
+            "support"
+        ]
+    },
+    {
+        "publication_id": 3118,
+        "data_set_id": 136,
+        "score": 0.9302497351728702,
+        "mention_list": [
+            "national health interview survey",
+            "nhis"
+        ]
+    },
+    {
+        "publication_id": 3118,
+        "data_set_id": 382,
+        "score": 0.9179375518076098,
+        "mention_list": [
+            "third national health and examination survey"
+        ]
+    },
+    {
+        "publication_id": 3152,
+        "data_set_id": 671,
+        "score": 0.9747498412827196,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3152,
+        "data_set_id": 1326,
+        "score": 0.849616025078857,
+        "mention_list": [
+            "youth participatory politics (ypp) survey",
+            "ypp"
+        ]
+    },
+    {
+        "publication_id": 3166,
+        "data_set_id": 947,
+        "score": 0.8701587673390512,
+        "mention_list": [
+            "fss"
+        ]
+    },
+    {
+        "publication_id": 3168,
+        "data_set_id": 339,
+        "score": 0.7133988002435799,
+        "mention_list": [
+            "fdi data"
+        ]
+    },
+    {
+        "publication_id": 3169,
+        "data_set_id": 1165,
+        "score": 0.7196751376201015,
+        "mention_list": [
+            "cid"
+        ]
+    },
+    {
+        "publication_id": 3258,
+        "data_set_id": 671,
+        "score": 0.9537424374389403,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3259,
+        "data_set_id": 671,
+        "score": 0.9747479870808602,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3260,
+        "data_set_id": 671,
+        "score": 0.9533408827448334,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3261,
+        "data_set_id": 671,
+        "score": 0.9747479870808602,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3262,
+        "data_set_id": 671,
+        "score": 0.9614639968933301,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3263,
+        "data_set_id": 671,
+        "score": 0.9747479870808606,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3264,
+        "data_set_id": 671,
+        "score": 0.9747479870808602,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3265,
+        "data_set_id": 671,
+        "score": 0.9645634309370393,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3265,
+        "data_set_id": 1005,
+        "score": 0.9418617419991133,
+        "mention_list": [
+            "holt"
+        ]
+    },
+    {
+        "publication_id": 3266,
+        "data_set_id": 671,
+        "score": 0.8914127093630727,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3267,
+        "data_set_id": 671,
+        "score": 0.972083402299246,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3268,
+        "data_set_id": 671,
+        "score": 0.9747498412827199,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3270,
+        "data_set_id": 441,
+        "score": 0.6974156415585152,
+        "mention_list": [
+            "active"
+        ]
+    },
+    {
+        "publication_id": 3270,
+        "data_set_id": 671,
+        "score": 0.9513128806919374,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3271,
+        "data_set_id": 671,
+        "score": 0.9747479870808602,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3273,
+        "data_set_id": 671,
+        "score": 0.9720832425381368,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3274,
+        "data_set_id": 671,
+        "score": 0.9747479870808599,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3275,
+        "data_set_id": 671,
+        "score": 0.9747479870808602,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3276,
+        "data_set_id": 671,
+        "score": 0.9747498412827199,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3276,
+        "data_set_id": 441,
+        "score": 0.6755500860122973,
+        "mention_list": [
+            "active"
+        ]
+    },
+    {
+        "publication_id": 3277,
+        "data_set_id": 671,
+        "score": 0.9747498412827194,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3278,
+        "data_set_id": 671,
+        "score": 0.9747498412827194,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3279,
+        "data_set_id": 671,
+        "score": 0.9781079375288818,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3279,
+        "data_set_id": 928,
+        "score": 0.9564992974390479,
+        "mention_list": [
+            "gss",
+            "general social survey"
+        ]
+    },
+    {
+        "publication_id": 3280,
+        "data_set_id": 671,
+        "score": 0.9747479870808606,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3281,
+        "data_set_id": 671,
+        "score": 0.9720832425381368,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3281,
+        "data_set_id": 538,
+        "score": 0.7488063619888542,
+        "mention_list": [
+            "m2"
+        ]
+    },
+    {
+        "publication_id": 3283,
+        "data_set_id": 671,
+        "score": 0.962508826476733,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3284,
+        "data_set_id": 671,
+        "score": 0.9781043466664814,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3285,
+        "data_set_id": 671,
+        "score": 0.9747498412827194,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3285,
+        "data_set_id": 530,
+        "score": 0.9210765805022977,
+        "mention_list": [
+            "hos"
+        ]
+    },
+    {
+        "publication_id": 3286,
+        "data_set_id": 671,
+        "score": 0.9724174010730299,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3289,
+        "data_set_id": 671,
+        "score": 0.9734233380033074,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3290,
+        "data_set_id": 671,
+        "score": 0.9720834022992467,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3291,
+        "data_set_id": 399,
+        "score": 0.9140743151154324,
+        "mention_list": [
+            "soa"
+        ]
+    },
+    {
+        "publication_id": 3291,
+        "data_set_id": 671,
+        "score": 0.9513128806919374,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3291,
+        "data_set_id": 1005,
+        "score": 0.9758702031814651,
+        "mention_list": [
+            "holt"
+        ]
+    },
+    {
+        "publication_id": 3291,
+        "data_set_id": 1217,
+        "score": 0.8970426740474224,
+        "mention_list": [
+            "atlas"
+        ]
+    },
+    {
+        "publication_id": 3293,
+        "data_set_id": 671,
+        "score": 0.9552406220467996,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3293,
+        "data_set_id": 524,
+        "score": 0.7960285282545009,
+        "mention_list": [
+            "community partnerships"
+        ]
+    },
+    {
+        "publication_id": 3295,
+        "data_set_id": 671,
+        "score": 0.9747479870808602,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3295,
+        "data_set_id": 433,
+        "score": 0.9415524091328731,
+        "mention_list": [
+            "dawn"
+        ]
+    },
+    {
+        "publication_id": 3295,
+        "data_set_id": 1165,
+        "score": 0.7133930694061387,
+        "mention_list": [
+            "cid"
+        ]
+    },
+    {
+        "publication_id": 3296,
+        "data_set_id": 671,
+        "score": 0.9724174010730299,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3297,
+        "data_set_id": 671,
+        "score": 0.9724174010730299,
+        "mention_list": [
+            "sage"
+        ]
+    },
+    {
+        "publication_id": 3297,
+        "data_set_id": 651,
+        "score": 0.7672439956633628,
+        "mention_list": [
+            "ffs"
+        ]
+    }
+]
