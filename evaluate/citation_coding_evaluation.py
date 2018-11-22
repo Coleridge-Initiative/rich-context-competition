@@ -183,7 +183,7 @@ class CitationCodingEvaluation( object ):
                     pub_derived_binary_list.append( 1.0 )
                 else:
                     derived_binary_list.append( 0.0 )
-                    pub_derived_binary_list.append( 1.0 )
+                    pub_derived_binary_list.append( 0.0 )
                 # -- END binary value assignment --#
 
                 # add the publication and data set IDs to the per-citation lists.
