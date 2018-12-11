@@ -31,6 +31,12 @@ class CitationCodingEvaluation( object ):
     LIST_TYPE_DERIVED_BINARY = "derived_binary"
     LIST_TYPE_PUBLICATION_ID = "publication_id"
     LIST_TYPE_DATA_SET_ID = "data_set_id"
+    
+    # details key values
+    DETAILS_INCLUDED_ARTICLE_COUNT = "included_article_count"
+    DETAILS_INCLUDED_ARTICLE_ID_LIST = "included_article_id_list"
+    DETAILS_EXCLUDED_ARTICLE_COUNT = "excluded_article_count"
+    DETAILS_EXCLUDED_ARTICLE_ID_LIST = "excluded_article_id_list"
 
 
     #============================================================================
@@ -52,6 +58,12 @@ class CitationCodingEvaluation( object ):
         self.m_derived_raw_list = []
         self.m_publication_id_list = []
         self.m_data_set_id_list = []
+        
+        # variable to hold white list of IDs of articles whose data we want to
+        #     include in calculations.
+        self.m_excluded_article_tag_list = []
+        self.m_included_article_tag_list = []
+        self.m_included_article_id_list = []
 
     #-- END method __init__() --#
 
@@ -75,9 +87,22 @@ class CitationCodingEvaluation( object ):
 
 
     def create_evaluation_lists(self):
+        
+        '''
+        Works with the data already loaded into this instance from JSON files
+            using "process_citation_json()".
+            
+        Loops over nested         
+        
+        Returns details dictionary that includes:
+        - "included_article_count" (DETAILS_INCLUDED_ARTICLE_COUNT) - count of articles included in evaluation.
+        - "included_article_id_list" (DETAILS_INCLUDED_ARTICLE_ID_LIST) - list of IDs of articles included in evaluation.
+        - "excluded_article_count" (DETAILS_EXCLUDED_ARTICLE_COUNT) - count of articles excluded from evaluation.
+        - "excluded_article_id_list" (DETAILS_EXCLUDED_ARTICLE_ID_LIST) - list of IDs of articles excluded from evaluation.
+        '''
 
         # return reference
-        status_OUT = None
+        details_OUT = {}
 
         # declare variables
         citation_map = None
@@ -97,13 +122,22 @@ class CitationCodingEvaluation( object ):
         baseline_score = -1
         derived_score = -1
 
-        # per-publication lists
+        # declare variables - per-publication lists
         pub_list_dictionary = None
         pub_baseline_list = None
         pub_derived_binary_list = None
         pub_derived_raw_list = None
         pub_publication_id_per_citation_list = None
         pub_data_set_id_per_citation_list = None
+        
+        # declare variables - included publications
+        included_pub_id_list = None
+        do_filter_articles = None
+        do_process_pub = None
+        included_article_count = -1
+        included_article_id_list = None
+        excluded_article_count = -1
+        excluded_article_id_list = None
 
         # get citation_map
         citation_map = self.get_citation_map()
@@ -117,86 +151,164 @@ class CitationCodingEvaluation( object ):
 
         # cutoffs
         cutoff_value = self.get_cutoff()
+        
+        # see if there is a list of included article IDs.
+        included_pub_id_list = self.get_included_article_id_list()
+        if ( ( included_pub_id_list is not None ) and ( len( included_pub_id_list ) > 0 ) ):
+        
+            # we have an article ID filter list.  Use it.
+            do_filter_articles = True
+        
+        else:
+        
+            # not filtering.
+            do_filter_articles = False
+            
+        #-- END check to see if we have a publication ID white list. --#
 
         # so we can get publication ID list
         publication_id_list = list( six.viewkeys( citation_map ) )
         publication_id_list.sort()
 
         # loop over publications, and then data sets within.
+        included_article_count = 0
+        included_article_id_list = []
+        excluded_article_count = 0
+        excluded_article_id_list = []
         for publication_id in publication_id_list:
+        
+            # are we filtering publications?
+            if ( do_filter_articles == True ):
+            
+                # we are.  Check to see if the current publication ID is in the
+                #    icluded ID list.
+                if ( publication_id in included_pub_id_list ):
+                
+                    # it is in our list.  Process it.
+                    do_process_pub = True
+                    included_article_count += 1
+                    included_article_id_list.append( publication_id )
 
-            # get lists for publication
-            pub_list_dictionary = self.get_lists_for_publication( publication_id )
-            pub_baseline_list = pub_list_dictionary.get( self.LIST_TYPE_BASELINE, None )
-            pub_derived_binary_list = pub_list_dictionary.get( self.LIST_TYPE_DERIVED_BINARY, None )
-            pub_derived_raw_list = pub_list_dictionary.get( self.LIST_TYPE_DERIVED_RAW, None )
-            pub_publication_id_per_citation_list = pub_list_dictionary.get( self.LIST_TYPE_PUBLICATION_ID, None )
-            pub_data_set_id_per_citation_list = pub_list_dictionary.get( self.LIST_TYPE_DATA_SET_ID, None )
-
-            # DEBUG
-            if ( self.debug_flag == True ):
-                print( "Publication ID: {}".format( publication_id ) )
-            # -- END DEBUG --#
-
-            # get publication map
-            publication_dict = citation_map.get( publication_id, None )
-
-            # get the data set map and ID list.
-            data_set_map = publication_dict.get( self.JSON_NAME_DATA_SET_MAP, None )
-            data_set_id_list = list( six.viewkeys( data_set_map ) )
-            data_set_id_list.sort()
-
-            # loop over data set ID list.
-            for data_set_id in data_set_id_list:
-
-                # DEBUG
-                if ( self.debug_flag == True ):
-                    print( "==> Data Set ID: {}".format( data_set_id ) )
-                # -- END DEBUG --#
-
-                # get the data_set_found_map
-                data_set_found_map = data_set_map.get( data_set_id, None )
-
-                # get the scores.
-                baseline_score = data_set_found_map.get( self.RESULT_TYPE_BASELINE, 0.0 )
-                derived_score = data_set_found_map.get( self.RESULT_TYPE_DERIVED, 0.0 )
-
-                # DEBUG
-                if ( self.debug_flag == True ):
-                    print( "            baseline: {}".format( baseline_score ) )
-                    print( "            derived.: {}".format( derived_score ) )
-                # -- END DEBUG --#
-
-                # add them to the lists
-
-                # baseline lists
-                baseline_list.append( baseline_score )
-                pub_baseline_list.append( baseline_score )
-
-                # derived_raw lists
-                derived_raw_list.append( derived_score )
-                pub_derived_raw_list.append( derived_score )
-
-                # derived_binary lists
-                if derived_score > cutoff_value:
-                    derived_binary_list.append( 1.0 )
-                    pub_derived_binary_list.append( 1.0 )
+                    # DEBUG
+                    if ( self.debug_flag == True ):
+                        print( "INCLUDING Publication ID: {}".format( publication_id ) )
+                    # -- END DEBUG --#
+                    
                 else:
-                    derived_binary_list.append( 0.0 )
-                    pub_derived_binary_list.append( 0.0 )
-                # -- END binary value assignment --#
+                
+                    # it is not in our list.  Do not process.
+                    do_process_pub = False
+                    excluded_article_count += 1
+                    excluded_article_id_list.append( publication_id )
+                    
+                    # DEBUG
+                    if ( self.debug_flag == True ):
+                        print( "SKIPPING Publication ID: {}".format( publication_id ) )
+                    # -- END DEBUG --#
+    
+                #-- END check to see if publication ID is in included list. --#
+                
+            
+            else:
+            
+                # not filtering.  Just process the publication.
+                do_process_pub = True                
+                included_article_count += 1
+                included_article_id_list.append( publication_id )
+                
+            #-- END check to see if we are filtering articles --#
+    
+            # do we process this publication?
+            if ( do_process_pub == True ):
+    
+                # get lists for publication
+                pub_list_dictionary = self.get_lists_for_publication( publication_id )
+                pub_baseline_list = pub_list_dictionary.get( self.LIST_TYPE_BASELINE, None )
+                pub_derived_binary_list = pub_list_dictionary.get( self.LIST_TYPE_DERIVED_BINARY, None )
+                pub_derived_raw_list = pub_list_dictionary.get( self.LIST_TYPE_DERIVED_RAW, None )
+                pub_publication_id_per_citation_list = pub_list_dictionary.get( self.LIST_TYPE_PUBLICATION_ID, None )
+                pub_data_set_id_per_citation_list = pub_list_dictionary.get( self.LIST_TYPE_DATA_SET_ID, None )
+    
+                # DEBUG
+                if ( self.debug_flag == True ):
+                    print( "Publication ID: {}".format( publication_id ) )
+                # -- END DEBUG --#
+    
+                # get publication map
+                publication_dict = citation_map.get( publication_id, None )
+    
+                # get the data set map and ID list.
+                data_set_map = publication_dict.get( self.JSON_NAME_DATA_SET_MAP, None )
+                data_set_id_list = list( six.viewkeys( data_set_map ) )
+                data_set_id_list.sort()
+    
+                # loop over data set ID list.
+                for data_set_id in data_set_id_list:
+    
+                    # DEBUG
+                    if ( self.debug_flag == True ):
+                        print( "==> Data Set ID: {}".format( data_set_id ) )
+                    # -- END DEBUG --#
+    
+                    # get the data_set_found_map
+                    data_set_found_map = data_set_map.get( data_set_id, None )
+    
+                    # get the scores.
+                    baseline_score = data_set_found_map.get( self.RESULT_TYPE_BASELINE, 0.0 )
+                    derived_score = data_set_found_map.get( self.RESULT_TYPE_DERIVED, 0.0 )
+    
+                    # DEBUG
+                    if ( self.debug_flag == True ):
+                        print( "            baseline: {}".format( baseline_score ) )
+                        print( "            derived.: {}".format( derived_score ) )
+                    # -- END DEBUG --#
+    
+                    # add them to the lists
+    
+                    # baseline lists
+                    baseline_list.append( baseline_score )
+                    pub_baseline_list.append( baseline_score )
+    
+                    # derived_raw lists
+                    derived_raw_list.append( derived_score )
+                    pub_derived_raw_list.append( derived_score )
+    
+                    # derived_binary lists
+                    if derived_score > cutoff_value:
+                        derived_binary_list.append( 1.0 )
+                        pub_derived_binary_list.append( 1.0 )
+                    else:
+                        derived_binary_list.append( 0.0 )
+                        pub_derived_binary_list.append( 0.0 )
+                    # -- END binary value assignment --#
+    
+                    # add the publication and data set IDs to the per-citation lists.
+                    publication_id_per_citation_list.append( publication_id )
+                    pub_publication_id_per_citation_list.append( publication_id )
+                    data_set_id_per_citation_list.append( data_set_id )
+                    pub_data_set_id_per_citation_list.append( data_set_id )
+    
+                #-- END loop over data set IDs. --#
+    
+            else:
+            
+                # not processing publication.
+                # DEBUG
+                if ( self.debug_flag == True ):
+                    print( "SKIPPED Publication ID: {}".format( publication_id ) )
+                # -- END DEBUG --#
 
-                # add the publication and data set IDs to the per-citation lists.
-                publication_id_per_citation_list.append( publication_id )
-                pub_publication_id_per_citation_list.append( publication_id )
-                data_set_id_per_citation_list.append( data_set_id )
-                pub_data_set_id_per_citation_list.append( data_set_id )
-
-            # -- END loop over data set IDs. --#
+            #-- END check to see if we process current publication --#
 
         # -- END loop over publication IDs. --#
+        
+        # store details
+        details_OUT[ self.DETAILS_INCLUDED_ARTICLE_COUNT ] = included_article_count
+        details_OUT[ self.DETAILS_INCLUDED_ARTICLE_ID_LIST ] = included_article_id_list
+        details_OUT[ self.DETAILS_EXCLUDED_ARTICLE_COUNT ] = excluded_article_count
+        details_OUT[ self.DETAILS_EXCLUDED_ARTICLE_ID_LIST ] = excluded_article_id_list
 
-        return status_OUT
+        return details_OUT
 
     # -- END method create_evaluation_lists() --#
 
@@ -362,6 +474,96 @@ class CitationCodingEvaluation( object ):
         return value_OUT
     
     #-- END method get_derived_raw_list --#
+
+
+    def get_excluded_article_tag_list( self ):
+
+        # return reference
+        value_OUT = None
+
+        # declare variables
+        instance = None
+
+        # get instance
+        value_OUT = self.m_excluded_article_tag_list
+
+        # got anything?
+        if (value_OUT is None):
+
+            # make list instance.
+            instance = []
+
+            # store the instance.
+            self.set_excluded_article_tag_list( instance )
+
+            # get the instance.
+            value_OUT = self.get_excluded_article_tag_list()
+
+        # -- END check to see if instance initialized. --#
+
+        return value_OUT
+
+    # -- END method get_exncluded_article_tag_list --#
+
+
+    def get_included_article_id_list( self ):
+
+        # return reference
+        value_OUT = None
+
+        # declare variables
+        instance = None
+
+        # get instance
+        value_OUT = self.m_included_article_id_list
+
+        # got anything?
+        if (value_OUT is None):
+
+            # make list instance.
+            instance = []
+
+            # store the instance.
+            self.set_included_article_id_list( instance )
+
+            # get the instance.
+            value_OUT = self.get_included_article_id_list()
+
+        # -- END check to see if instance initialized. --#
+
+        return value_OUT
+
+    # -- END method get_included_article_id_list --#
+
+
+    def get_included_article_tag_list( self ):
+
+        # return reference
+        value_OUT = None
+
+        # declare variables
+        instance = None
+
+        # get instance
+        value_OUT = self.m_included_article_tag_list
+
+        # got anything?
+        if (value_OUT is None):
+
+            # make list instance.
+            instance = []
+
+            # store the instance.
+            self.set_included_article_tag_list( instance )
+
+            # get the instance.
+            value_OUT = self.get_included_article_tag_list()
+
+        # -- END check to see if instance initialized. --#
+
+        return value_OUT
+
+    # -- END method get_included_article_tag_list --#
 
 
     def get_lists_by_publication(self):
@@ -710,6 +912,66 @@ class CitationCodingEvaluation( object ):
         return value_OUT
         
     #-- END method set_derived_raw_list() --#
+
+
+    def set_excluded_article_tag_list( self, instance_IN):
+
+        '''
+        Accepts list.  Stores it and returns it.
+        '''
+
+        # return reference
+        value_OUT = None
+
+        # store value.
+        self.m_excluded_article_tag_list = instance_IN
+
+        # return it.
+        value_OUT = self.m_excluded_article_tag_list
+
+        return value_OUT
+
+    # -- END method set_excluded_article_tag_list() --#
+
+
+    def set_included_article_id_list( self, instance_IN):
+
+        '''
+        Accepts list.  Stores it and returns it.
+        '''
+
+        # return reference
+        value_OUT = None
+
+        # store value.
+        self.m_included_article_id_list = instance_IN
+
+        # return it.
+        value_OUT = self.m_included_article_id_list
+
+        return value_OUT
+
+    # -- END method set_included_article_id_list() --#
+
+
+    def set_included_article_tag_list( self, instance_IN):
+
+        '''
+        Accepts list.  Stores it and returns it.
+        '''
+
+        # return reference
+        value_OUT = None
+
+        # store value.
+        self.m_included_article_tag_list = instance_IN
+
+        # return it.
+        value_OUT = self.m_included_article_tag_list
+
+        return value_OUT
+
+    # -- END method set_included_article_tag_list() --#
 
 
     def set_lists_by_publication(self, instance_IN):
