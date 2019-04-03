@@ -256,6 +256,13 @@ The standard data folder layout:
     |_output
 
 
+If you specify `DATA_FOLDER_PATH_IN` in the `config.sh` file, the directory whose path is stored in `DATA_FOLDER_PATH_IN` is expected to match the directory structure outlined above, and will be mounted at `/data` within the docker container when it is run.
+
+If you specify separate `INPUT_FOLDER_PATH_IN` and `OUTPUT_FOLDER_PATH_IN` rather than `DATA_FOLDER_PATH_IN`, the input and output folders will be mounted inside a directory `/data` within the docker container so that, from the perspective of a model, the structure above is maintained.  To achieve this:
+
+- the directory whose path is stored in `INPUT_FOLDER_PATH_IN` is still expected to match the "input" part of the aove directory structure.  It will be mounted at `/data/input` within the docker container when it is run.
+- the directory whose path is stored in `OUTPUT_FOLDER_PATH_IN` has no requirements (other than being writable).  It will be mounted at `/data/output` within the docker container when it is run.
+
 ### Input files
 
 The input folder will have a "`publications.json`" file that lists the articles to be processed in the current run of the model. Publication plain text is stored in /input/files/text, one text file to a publication, with a given publication's text named "`<publication_id>.txt`". The original PDF files are stored in /input/files/pdf, one PDF file to a publication, with a given publication's text named "`<publication_id>.pdf`". 
