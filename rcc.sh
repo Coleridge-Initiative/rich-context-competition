@@ -3,6 +3,64 @@
 # rich context contest bash script
 
 #===============================================================================
+# ==> error handling
+#===============================================================================
+
+
+# error handling
+ok_to_process=true
+error_message=
+
+#-------------------------------------------------------------------------------
+# ! ----> FUNCTION: add_error
+#-------------------------------------------------------------------------------
+
+function add_error()
+{
+    # input parameters
+    local error_message_IN=$1
+    
+    # declare variables
+    
+    # not OK to process
+    ok_to_process=false
+    
+    # store error message
+    if [[ -z "$error_message" ]]
+    then
+        error_message="${error_message_IN}"
+    else
+        error_message="${error_message}\n${error_message_IN}"
+    fi
+    
+    # DEBUG
+    if [[ $DEBUG = true ]]
+    then
+        # output message
+        printf "\n${error_message_IN}\n\n" >&2
+    fi
+}
+
+
+#-------------------------------------------------------------------------------
+# ! ----> FUNCTION: output_errors
+#-------------------------------------------------------------------------------
+
+function output_errors()
+{
+    # declare variables
+    
+    if [[ -z "$error_message" ]]
+    then
+        echo ""
+    else
+        printf "\nERROR MESSAGE(S):\n" >&2
+        printf "${error_message}\n\n" >&2
+    fi
+}
+
+
+#===============================================================================
 # variables
 #===============================================================================
 
@@ -492,89 +550,142 @@ function remove_docker_image()
 #    docker run -v `pwd`/project:/project -v `pwd`/data:/data --name my_rcc_run my_rcc /project/code.sh
 #evaluate:
 #    docker run -v `pwd`/project:/project -v `pwd`/data:/data --name my_rcc_run my_rcc /data/evaluate/evaluate.sh
-function run()
-{
-    # input parameters
-    local project_folder_path_IN=${1:=${PROJECT_FOLDER_PATH_IN}}
-    local data_folder_path_IN=${2:=${DATA_FOLDER_PATH_IN}}
-    local image_name_IN=${3:=${DOCKER_IMAGE_NAME_IN}}
-    local container_name_IN=${4:=${DOCKER_CONTAINER_NAME_IN}}
-    local script_to_run_IN=${5:-}
-    local docker_custom_options_IN=${6:=${DOCKER_CUSTOM_RUN_OPTIONS_IN}}
-    
-    # declare variables
-    local project_folder_path=
-    local data_folder_path=
-
-    # convert to absolute paths.
-    
-    # project folder path
-    absolute_path "${project_folder_path_IN}"
-    project_folder_path="${absolute_path_OUT}"
-
-    # data folder path
-    absolute_path "${data_folder_path_IN}"
-    data_folder_path="${absolute_path_OUT}"
-
-    # DEBUG
-    if [[ $DEBUG = true ]]
-    then
-        echo "In run:"
-        echo "- project_folder_path_IN: \"${project_folder_path_IN}\""
-        echo "- data_folder_path_IN: \"${data_folder_path_IN}\""
-        echo "- project_folder_path: \"${project_folder_path}\""
-        echo "- data_folder_path: \"${data_folder_path}\""
-        echo "- image_name_IN: \"${image_name_IN}\""
-        echo "- container_name_IN: \"${container_name_IN}\""
-    fi
-
-    # remove JSON files from output.
-    docker run ${docker_custom_options_IN} -v `pwd`:/run_folder -v ${project_folder_path}:/project -v ${data_folder_path}:/data --name ${container_name_IN} ${image_name_IN} ${script_to_run_IN}
-    
-} #-- END function run() --#
-
-
 #run-interactive:
 #    docker run -it -v `pwd`/project:/project -v `pwd`/data:/data --name my_rcc_run my_rcc
-function run_interactive()
+function run()
 {
-    # input parameters
-    local project_folder_path_IN=${1:=${PROJECT_FOLDER_PATH_IN}}
-    local data_folder_path_IN=${2:=${DATA_FOLDER_PATH_IN}}
-    local image_name_IN=${3:=${DOCKER_IMAGE_NAME_IN}}
-    local container_name_IN=${4:=${DOCKER_CONTAINER_NAME_IN}}
-    local docker_custom_options_IN=${5:=${DOCKER_CUSTOM_RUN_OPTIONS_IN}}
-    
+
+    #===============================================================================
+    # ==> process options
+    #===============================================================================
+
+    # declare variables - option values, for use in scripts that pull this in.
+    local project_folder_path_IN=     #${1:=${PROJECT_FOLDER_PATH_IN}}
+    local data_folder_path_IN=        #${2:=${DATA_FOLDER_PATH_IN}}
+    local input_folder_path_IN=
+    local output_folder_path_IN=
+    local image_name_IN=              #${3:=${DOCKER_IMAGE_NAME_IN}}
+    local container_name_IN=          #${4:=${DOCKER_CONTAINER_NAME_IN}}
+    local script_to_run_IN=           #${5:-}
+    local docker_custom_options_IN=   #${6:=${DOCKER_CUSTOM_RUN_OPTIONS_IN}}
+    local interactive_flag_IN=false
+
+    # Options: -p <project_folder_path> -d <data_folder_path> -i <input_folder_path> -o <output_folder_path> -m <image_name> -c <container_name> -s <script_to_run> -t <docker_custom_options> -x
+    #
+    # WHERE:
+    # ==> -p <project_folder_path> = Path to project folder where all model code and data lives.
+    # ==> -d <data_folder_path> = (optional) Path to data folder if there is a single monolithic data folder that contains both "input" and "output" folders.  Mounted internally to "/data".
+    # ==> -i <input_folder_path> = (optional) Path to folder outside of docker container where input files live.  Mounted internally to "/data/input".
+    # ==> -o <output_folder_path> = (optional) Path to folder outside of docker container where output should be placed.  Mounted internally to "/data/output".
+    # ==> -m <image_name> = Name of docker image to run.
+    # ==> -c <container_name> = Name to give to docker container.
+    # ==> -s <script_to_run> = (optional) script to run inside the docker container after it is started.
+    # ==> -t <docker_custom_options> = (optional) custom docker options to add to the end of the run command when you run the container (and "t" = first letter in "options" not taken by another option).
+    # ==> -x = (optional) boolean interactive mode flag.  If present, runs in interactive mode.
+
+    local OPTIND
+    local OPTARG
+    local option
+    while getopts ":p:d:i:o:m:c:s:t:x" option; do
+    case $option in
+        p) project_folder_path_IN="$OPTARG"
+        ;;
+        d) data_folder_path_IN="$OPTARG"
+        ;;
+        i) input_folder_path_IN="$OPTARG"
+        ;;
+        o) output_folder_path_IN="$OPTARG"
+        ;;
+        m) image_name_IN="$OPTARG"
+        ;;
+        c) container_name_IN="$OPTARG"
+        ;;
+        s) script_to_run_IN="$OPTARG"
+        ;;
+        t) docker_custom_options_IN="$OPTARG"
+        ;;
+        x) interactive_flag_IN=true
+        ;;
+        \?) echo "Invalid option -$OPTARG" >&2
+        ;;
+    esac
+    done
+
     # declare variables
     local project_folder_path=
-    local data_folder_path=
+    local input_folder_path=
+    local output_folder_path=
+    local interactive_flag=
 
-    # convert to absolute paths.
-
-    # project folder path
-    absolute_path "${project_folder_path_IN}"
-    project_folder_path="${absolute_path_OUT}"
-
-    # data folder path
-    absolute_path "${data_folder_path_IN}"
-    data_folder_path="${absolute_path_OUT}"
-
-    # DEBUG
-    if [[ $DEBUG = true ]]
+    # set input and output folder paths.
+    
+    # do we have a data folder path?
+    if [[ ! -z "${data_folder_path_IN}" ]]
     then
-        echo "In run_interactive():"
-        echo "- project_folder_path_IN: \"${project_folder_path_IN}\""
-        echo "- data_folder_path_IN: \"${data_folder_path_IN}\""
-        echo "- project_folder_path: \"${project_folder_path}\""
-        echo "- data_folder_path: \"${data_folder_path}\""
-        echo "- image_name_IN: \"${image_name_IN}\""
-        echo "- container_name_IN: \"${container_name_IN}\""
+        # yes.  Use it to set input and output folder.
+        input_folder_path="${data_folder_path_IN}/input"
+        output_folder_path="${data_folder_path_IN}/output"
+    else
+        # do we have input and output folder paths?
+        if [[ ! -z "${input_folder_path_IN}" ]] && [[ ! -z "${output_folder_path_IN}" ]]
+        then
+            # we do have input and output folders.
+            input_folder_path="${input_folder_path_IN}"
+            output_folder_path="${output_folder_path_IN}"
+        else
+            add_error "Incomplete input and output file paths: data=${data_folder_path_IN}; input=${input_folder_path_IN}; output=${output_folder_path_IN};"
+        fi
     fi
 
-    # run in interactive mode ("-it").
-    docker run ${docker_custom_options_IN} -it -v `pwd`:/run_folder -v ${project_folder_path}:/project -v ${data_folder_path}:/data --name ${container_name_IN} ${image_name_IN}
+    # set interactive_flag
+    if [[ $interactive_flag_IN = true ]]
+    then
+        interactive_flag="-it"
+    fi
+
+    # OK to process?
+    if [[ $ok_to_process = true ]]
+    then
+
+        # convert to absolute paths.
+        
+        # project folder path
+        absolute_path "${project_folder_path_IN}"
+        project_folder_path="${absolute_path_OUT}"
+
+        # input folder path
+        absolute_path "${input_folder_path}"
+        input_folder_path="${absolute_path_OUT}"
+
+        # output folder path
+        absolute_path "${output_folder_path}"
+        output_folder_path="${absolute_path_OUT}"
+
+        # DEBUG
+        if [[ $DEBUG = true ]]
+        then
+            echo "In run:"
+            echo "- project_folder_path_IN: \"${project_folder_path_IN}\""
+            echo "- project_folder_path: \"${project_folder_path}\""
+            echo "- data_folder_path_IN: \"${data_folder_path_IN}\""
+            echo "- input_folder_path: \"${input_folder_path}\""
+            echo "- output_folder_path: \"${output_folder_path}\""
+            echo "- image_name_IN: \"${image_name_IN}\""
+            echo "- container_name_IN: \"${container_name_IN}\""
+            echo "- interactive_flag: \"${interactive_flag}\""
+        fi
+
+        # remove JSON files from output.
+        docker run ${docker_custom_options_IN} ${interactive_flag} -v `pwd`:/run_folder -v ${project_folder_path}:/project -v ${input_folder_path}:/data/input -v ${output_folder_path}:/data/output --name ${container_name_IN} ${image_name_IN} ${script_to_run_IN}
     
-} #-- END function run_interactive() --#
+    else
+
+        echo "ERROR - docker container did not run."
+        output_errors
+
+    fi
+
+} #-- END function run() --#
 
 
 #git-pull:
@@ -677,7 +788,7 @@ then
         ;;
         "evaluate")
             echo "EVALUATE!!!"
-            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/rich-context-competition/evaluate/evaluate.sh" "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
+            run -p "${PROJECT_FOLDER_PATH_IN}" -d "${DATA_FOLDER_PATH_IN}" -i "${INPUT_FOLDER_PATH_IN}" -o "${OUTPUT_FOLDER_PATH_IN}" -m "${DOCKER_IMAGE_NAME_IN}" -c "${DOCKER_CONTAINER_NAME_IN}" -s "/rich-context-competition/evaluate/evaluate.sh" -t "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
             ./rcc.sh stop
         ;;
         "init")
@@ -710,15 +821,15 @@ then
         ;;
         "run")
             echo "RUN!!!"
-            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/project/code.sh" "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
+            run -p "${PROJECT_FOLDER_PATH_IN}" -d "${DATA_FOLDER_PATH_IN}" -i "${INPUT_FOLDER_PATH_IN}" -o "${OUTPUT_FOLDER_PATH_IN}" -m "${DOCKER_IMAGE_NAME_IN}" -c "${DOCKER_CONTAINER_NAME_IN}" -s "/project/code.sh" -t "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
         ;;
         "run-interactive")
             echo "RUN INTERACTIVE!!!"
-            run_interactive "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
+            run -p "${PROJECT_FOLDER_PATH_IN}" -d "${DATA_FOLDER_PATH_IN}" -i "${INPUT_FOLDER_PATH_IN}" -o "${OUTPUT_FOLDER_PATH_IN}" -m "${DOCKER_IMAGE_NAME_IN}" -c "${DOCKER_CONTAINER_NAME_IN}" -t "${DOCKER_CUSTOM_RUN_OPTIONS_IN}" -x
         ;;
         "run-stop")
             echo "RUN THEN STOP!!!"
-            run "${PROJECT_FOLDER_PATH_IN}" "${DATA_FOLDER_PATH_IN}" "${DOCKER_IMAGE_NAME_IN}" "${DOCKER_CONTAINER_NAME_IN}" "/project/code.sh" "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
+            run -p "${PROJECT_FOLDER_PATH_IN}" -d "${DATA_FOLDER_PATH_IN}" -i "${INPUT_FOLDER_PATH_IN}" -o "${OUTPUT_FOLDER_PATH_IN}" -m "${DOCKER_IMAGE_NAME_IN}" -c "${DOCKER_CONTAINER_NAME_IN}" -s "/project/code.sh" -t "${DOCKER_CUSTOM_RUN_OPTIONS_IN}"
             ./rcc.sh stop
         ;;
         "stop")

@@ -15,8 +15,16 @@
 BASE_FOLDER_PATH_IN="."
 
 # model-related folders
-DATA_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/data"
 PROJECT_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/project"
+
+# input and output folders
+
+# EITHER set this:
+DATA_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/data"
+
+# OR set `DATA_FOLDER_PATH_IN=` and set separate input and output folders:
+INPUT_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/data/input"
+OUTPUT_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/data/output"
 
 #===============================================================================
 # WARNING - do not alter below this point unless you know what you are doing.
