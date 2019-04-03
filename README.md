@@ -113,6 +113,8 @@ Notes:
     # The config file can include:
     # - `BASE_FOLDER_IN` - base folder (usually where this script lives).
     # - `DATA_FOLDER_PATH_IN` (`-d` option) - path to the data folder for a given run of the model.
+    # - `INPUT_FOLDER_PATH_IN` - path to the input data folder for a given run of the model (only used if `DATA_FOLDER_PATH_IN` is not set).
+    # - `OUTPUT_FOLDER_PATH_IN` - path to the output folder for a given run of the model (only used if `DATA_FOLDER_PATH_IN` is not set).
     # - `PROJECT_FOLDER_PATH_IN` (`-p` option) - path to the project folder for the current model.
     # - `GIT_REPO_FOLDER_PATH_IN` - the path to the git repo (defaults to "/rich-context-competition" inside the base folder).
     # - `EVALUATE_FOLER_PATH_IN` - path to the evaluate code folder inside the git repository.
@@ -126,8 +128,16 @@ Notes:
     BASE_FOLDER_PATH_IN="."
 
     # model-related folders
-    DATA_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/data"
     PROJECT_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/project"
+
+    # input and output folders
+
+    # EITHER set this:
+    DATA_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/data"
+
+    # OR set `DATA_FOLDER_PATH_IN=` and set separate input and output folders:
+    INPUT_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/data/input"
+    OUTPUT_FOLDER_PATH_IN="${BASE_FOLDER_PATH_IN}/test_output"
 
     #===============================================================================
     # WARNING - do not alter below this point unless you know what you are doing.
